@@ -80,7 +80,7 @@ def build():
   g['intereses']='Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.'
   g['analisis']='Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.'
   g['fecha_analisis']=None
-  g['noticias']=[{'id':r['id'],'titulo_original':r['title'],'titulo_es':r.get('title_es',''),'url':r['url'],'fuente':r['source_name'],'pais':r['country'],'fecha':r['published_utc'],'estado':r['verification']} for r in g['noticias'][:9]]
+  g['noticias']=[{'id':r['id'],'titulo_original':r['title'],'titulo_es':r.get('title_es',''),'url':r['url'],'fuente':r['source_name'],'pais':r['country'],'fecha':r['published_utc'],'estado':r['verification'],'resumen_original':(r.get('excerpt') or '')[:850],'resumen_es':(r.get('excerpt_es') or '')[:850]} for r in g['noticias'][:9]]
   out.append(g)
  (DATA/'eventos').mkdir(parents=True,exist_ok=True)
  out=sorted(out,key=lambda g:(g['fuentes_independientes']>=2,len(g['actores_mencionados']),g['fecha']),reverse=True)
