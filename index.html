@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="theme-color" content="#091b2f"><title>ELEVA | Observatorio Geopolítico</title><meta name="description" content="Observatorio de fuentes oficiales y periodísticas, con archivo cronológico y comparación de narrativas."><link rel="stylesheet" href="style.css"></head>
+<body>
+<div class="app-shell">
+  <aside class="sidebar" id="sidebar">
+    <a class="brand" href="#panorama"><span class="brand-symbol">E<span class="brand-point">•</span></span><span><strong>ELEVA</strong><small>OBSERVATORIO GEOPOLÍTICO</small></span></a>
+    <div class="side-label">ANÁLISIS</div>
+    <nav aria-label="Navegación principal">
+      <a href="#panorama" data-tab="panorama"><span>◫</span> Panorama del día</a>
+      <a href="#expedientes" data-tab="expedientes"><span>▤</span> Expedientes</a>
+      <a href="#contraste" data-tab="contraste"><span>⇄</span> Contraste de fuentes</a>
+      <a href="#historial" data-tab="historial"><span>◷</span> Archivo histórico</a>
+      <a href="#peru" data-tab="peru"><span>⌁</span> Intereses del Perú</a>
+    </nav>
+    <div class="side-label">ADMINISTRACIÓN INFORMATIVA</div>
+    <nav aria-label="Fuentes y configuración"><a href="#fuentes" data-tab="fuentes"><span>◉</span> Directorio de fuentes</a><a href="#metodologia" data-tab="metodologia"><span>◇</span> Metodología y límites</a></nav>
+    <div class="side-foot"><span class="live-dot"></span> Archivo público, consulta gratuita <p>Fuente oficial ≠ hecho verificado.</p></div>
+  </aside>
+  <div class="mainwrap">
+    <header class="topbar"><button id="menu" class="iconbtn" aria-label="Abrir menú">☰</button><div class="breadcrumb">INTELIGENCIA INFORMATIVA <span> / </span> <span id="crumb">PANORAMA</span></div><div class="top-right"><span id="clock" class="clock"></span><span class="status-pill" id="top-status">SIN SINCRONIZACIÓN</span></div></header>
+    <main class="main" id="main">
+      <div class="headline"><div><p class="eyebrow">CENTRO DE ANÁLISIS INTERNACIONAL</p><h1 id="page-title">Panorama geopolítico</h1><p id="page-subtitle" class="subtitle">Fuentes originales, cronologías y narrativas contrastadas.</p></div><div class="update-mark"><small>ÚLTIMO INTENTO</small><strong id="last-time">Pendiente</strong><span>Hora de Lima</span></div></div>
+      <section class="notice" id="notice" role="status"><strong>Estado inicial.</strong> El sitio todavía no ha recibido su primera actualización desde GitHub Actions. No hay noticias inventadas ni demostraciones presentadas como reales.</section>
+      <section id="view-panorama" class="view"></section>
+      <section id="view-expedientes" class="view hidden"></section>
+      <section id="view-contraste" class="view hidden"></section>
+      <section id="view-historial" class="view hidden"></section>
+      <section id="view-peru" class="view hidden"></section>
+      <section id="view-fuentes" class="view hidden"></section>
+      <section id="view-metodologia" class="view hidden"></section>
+      <footer class="footer"><span>ELEVA · Observatorio Geopolítico</span><span>Publicaciones atribuidas a su fuente. La consulta RSS no verifica sus afirmaciones.</span></footer>
+    </main>
+  </div>
+</div>
+<div id="overlay" class="overlay hidden" aria-hidden="true"><div class="drawer" role="dialog" aria-modal="true"><button id="close-detail" class="close" aria-label="Cerrar">×</button><div id="detail"></div></div></div>
+<script src="app.js" defer></script>
+</body></html>
