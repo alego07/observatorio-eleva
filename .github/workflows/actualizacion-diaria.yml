@@ -45,6 +45,8 @@ jobs:
         run: timeout 850s python translate_offline.py
       - name: Vincular publicaciones a acontecimientos candidatos
         run: python enrich.py
+      - name: Actualizar seguimiento temático e histórico
+        run: python seguimiento.py
       - name: Tests internos
         run: python -m unittest discover -s tests -q
       - name: Conservar nuevas entradas e histórico

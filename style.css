@@ -20,3 +20,24 @@
 .open-questions{padding-left:18px}.open-questions li{margin:0 0 9px}
 .report-excerpt{padding:12px 0;border-top:1px solid #e4ecec}.report-excerpt:first-of-type{border-top:0}.report-excerpt h4{font-size:13px;margin-bottom:6px;color:#204d5d}.report-excerpt blockquote{font-style:normal;color:#334d59;border-left:3px solid #9bbec1;background:#edf3f3;padding:9px 12px;margin:8px 0}.report-excerpt small{display:block;margin:8px 0;color:#637e88}
 @media(max-width:650px){.reading-tools{flex-direction:column;align-items:stretch}.reading-tools button{width:100%}}
+
+/* ELEVA 2.0: informarse, formarse y seguimiento persistente */
+.learning-lanes{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;margin-bottom:22px}
+.learning-lane{display:flex;flex-direction:column;gap:6px;background:#fff;border:1px solid var(--line);border-radius:12px;padding:18px 19px;color:var(--ink);transition:box-shadow .15s}
+.learning-lane:hover{text-decoration:none;box-shadow:0 5px 22px #153d491a}
+.learning-lane span{font-size:11px;color:#9a5a39;font-weight:750;letter-spacing:1px}
+.learning-lane strong{font-family:Georgia,serif;font-size:19px;line-height:1.25}
+.learning-lane small{font-size:12px;line-height:1.45;color:var(--muted)}
+.study-head{margin-top:45px}
+.candidate-reason{font-size:12px!important;padding:8px 12px;border-left:2px solid #a9bcc1;background:#f5f8f9}
+.tracking-strip{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+.tracking-mini{display:grid;gap:7px;background:#fff;border:1px solid var(--line);border-radius:11px;padding:14px 16px;color:var(--ink)}
+.tracking-mini span{color:var(--muted);font-size:12px}
+.method-stamp{font-size:12px;color:var(--muted);line-height:1.6;margin-top:24px}
+.track-list{display:grid;gap:14px}
+.track-card{background:#fff;padding:23px;border:1px solid var(--line);border-radius:12px}
+.track-heading{display:flex;justify-content:space-between;align-items:flex-start;gap:14px}
+.track-card>p{font-size:13px;color:var(--muted)}
+.track-card summary{color:#1c5168;cursor:pointer;font-weight:650;padding:10px 0}
+.track-card .timeline{margin-top:13px;max-height:440px;overflow:auto}
+@media(max-width:1000px){.learning-lanes{grid-template-columns:1fr}.learning-lane{padding:15px}.tracking-strip{grid-template-columns:1fr}}

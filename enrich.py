@@ -79,11 +79,29 @@ def build():
   g['relevancia_peru']='Por analizar; no se debe presumir un efecto sobre Perú.' if 'Perú' not in g['actores_mencionados'] else 'Perú aparece mencionado; falta verificar el alcance real de cualquier consecuencia.'
   g['intereses']='Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.'
   g['analisis']='Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.'
+  # Relevancia editorial indicativa: sirve para ordenar la bandeja, no para verificar titulares.
+  razones=[]
+  puntos=0
+  nfuentes=g['fuentes_independientes']
+  if nfuentes>=2: razones.append('Cobertura de fuentes distintas'); puntos+=min(3,nfuentes-1)
+  claves={'Estados Unidos','China','Rusia','Ucrania','Unión Europea','India','Israel','Irán','Taiwán','Perú','Brasil','ONU'}
+  actores_clave=sorted(set(g['actores_mencionados']) & claves)
+  if actores_clave: razones.append('Actores relevantes: '+', '.join(actores_clave[:4])); puntos+=min(4,len(actores_clave)*2)
+  if 'Perú' in g['actores_mencionados']:razones.append('Mención expresa al Perú');puntos+=5
+  temasestrategicos={'Diplomacia','Seguridad y conflictos','Comercio y finanzas','Organismos multilaterales','Migración y DD. HH.','Energía y clima'}
+  relevantes=set(g['temas']) & temasestrategicos
+  if relevantes:razones.append('Ámbito: '+', '.join(sorted(relevantes)[:2]));puntos+=2
+  textotit=normalize(g['titulo_fuente'])
+  if any(w in textotit for w in ['treaty','summit','sanction','agreement','trade','negotiat','tariff','tratado','acuerdo','cumbre','sancion','arancel','negociac']):
+   razones.append('Posible decisión institucional o negociación');puntos+=2
+  g['prioridad_orientativa']=puntos
+  g['motivos_seleccion']=razones
+  g['nota_prioridad']='Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.'
   g['fecha_analisis']=None
   g['noticias']=[{'id':r['id'],'titulo_original':r['title'],'titulo_es':r.get('title_es',''),'url':r['url'],'fuente':r['source_name'],'pais':r['country'],'fecha':r['published_utc'],'estado':r['verification'],'resumen_original':(r.get('excerpt') or '')[:850],'resumen_es':(r.get('excerpt_es') or '')[:850]} for r in g['noticias'][:9]]
   out.append(g)
  (DATA/'eventos').mkdir(parents=True,exist_ok=True)
- out=sorted(out,key=lambda g:(g['fuentes_independientes']>=2,len(g['actores_mencionados']),g['fecha']),reverse=True)
+ out=sorted(out,key=lambda g:(g['prioridad_orientativa'],g['fecha']),reverse=True)
  (DATA/'eventos'/'recientes.json').write_text(json.dumps({'created_utc':dt.datetime.now(dt.timezone.utc).isoformat(),'events':out[:150]},ensure_ascii=False,indent=2)+'\n',encoding='utf8')
  print('ELEVA: agrupaciones automáticas',len(out),'multifuente',sum(g['fuentes_independientes']>=2 for g in out))
 if __name__=='__main__': build()
