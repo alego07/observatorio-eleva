@@ -1,12 +1,6 @@
 {
-  "updated_utc": "2026-10-18T21:43:30.433121+00:00",
+  "updated_utc": "2026-10-18T22:00:29.832177+00:00",
   "results": [
-    {
-      "source_id": "f2",
-      "source_name": "Naciones Unidas",
-      "status": "error",
-      "message": "not well-formed (invalid token): line 1, column 0"
-    },
     {
       "source_id": "f25",
       "source_name": "BBC News",
@@ -26,10 +20,22 @@
       "count_recent": 20
     },
     {
-      "source_id": "f33",
-      "source_name": "The Kyiv Independent",
-      "status": "error",
-      "message": "HTTP Error 404: Not Found"
+      "source_id": "f28",
+      "source_name": "El País",
+      "status": "ok",
+      "count_recent": 48
+    },
+    {
+      "source_id": "f31",
+      "source_name": "TASS",
+      "status": "ok",
+      "count_recent": 50
+    },
+    {
+      "source_id": "f34",
+      "source_name": "Xinhua",
+      "status": "ok",
+      "count_recent": 0
     },
     {
       "source_id": "f36",
@@ -74,10 +80,10 @@
       "count_recent": 14
     },
     {
-      "source_id": "f68",
-      "source_name": "Consejo de Seguridad ONU - documentos",
-      "status": "error",
-      "message": "DTD prohibido"
+      "source_id": "f74",
+      "source_name": "Agência Brasil (EBC)",
+      "status": "ok",
+      "count_recent": 3
     }
   ]
 }
