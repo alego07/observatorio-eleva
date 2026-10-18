@@ -1,1 +1,83 @@
-{"updated_utc":null,"results":[]}
+{
+  "updated_utc": "2026-10-18T21:41:49.441560+00:00",
+  "results": [
+    {
+      "source_id": "f2",
+      "source_name": "Naciones Unidas",
+      "status": "error",
+      "message": "not well-formed (invalid token): line 1, column 0"
+    },
+    {
+      "source_id": "f25",
+      "source_name": "BBC News",
+      "status": "ok",
+      "count_recent": 29
+    },
+    {
+      "source_id": "f26",
+      "source_name": "Deutsche Welle",
+      "status": "ok",
+      "count_recent": 11
+    },
+    {
+      "source_id": "f27",
+      "source_name": "Le Monde",
+      "status": "ok",
+      "count_recent": 20
+    },
+    {
+      "source_id": "f33",
+      "source_name": "The Kyiv Independent",
+      "status": "error",
+      "message": "HTTP Error 404: Not Found"
+    },
+    {
+      "source_id": "f36",
+      "source_name": "South China Morning Post",
+      "status": "ok",
+      "count_recent": 50
+    },
+    {
+      "source_id": "f38",
+      "source_name": "Al Jazeera",
+      "status": "ok",
+      "count_recent": 25
+    },
+    {
+      "source_id": "f46",
+      "source_name": "The Hindu",
+      "status": "ok",
+      "count_recent": 50
+    },
+    {
+      "source_id": "f47",
+      "source_name": "The Indian Express",
+      "status": "error",
+      "message": "HTTP Error 403: Forbidden"
+    },
+    {
+      "source_id": "f64",
+      "source_name": "The Guardian",
+      "status": "ok",
+      "count_recent": 37
+    },
+    {
+      "source_id": "f66",
+      "source_name": "Noticias del Consejo de la UE",
+      "status": "ok",
+      "count_recent": 7
+    },
+    {
+      "source_id": "f67",
+      "source_name": "GOV.UK FCDO",
+      "status": "ok",
+      "count_recent": 14
+    },
+    {
+      "source_id": "f68",
+      "source_name": "Consejo de Seguridad ONU - documentos",
+      "status": "error",
+      "message": "DTD prohibido"
+    }
+  ]
+}
