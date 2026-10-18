@@ -1,26 +1,210 @@
 [
   {
-    "id":"peru-mexico-2026",
-    "fecha":"2026-08-07",
-    "titulo":"Perú y México reanudan relaciones diplomáticas: negociación, asilo y normalización",
-    "tipo":"Análisis editorial documentado",
-    "region":"América Latina",
-    "actualizado":"2026-10-18",
-    "importancia":"El caso permite estudiar cómo los Estados pueden restaurar canales de diálogo pese a discrepancias políticas y jurídicas que no desaparecen por el simple restablecimiento de relaciones.",
-    "hecho":"Los gobiernos de Perú y México anunciaron conjuntamente el 7 de agosto de 2026 la reanudación de sus relaciones diplomáticas y reafirmaron principios de derecho internacional.",
-    "antecedentes":"El anuncio ocurrió tras una controversia diplomática vinculada, entre otros asuntos, a la situación de Betssy Chávez y al otorgamiento de un salvoconducto. La Presidencia de México vinculó expresamente esa medida con el diálogo que precedió a la normalización. Esta secuencia es una explicación atribuida al Gobierno mexicano, no una reconstrucción concluyente de todas las motivaciones.",
-    "actores":[
-      {"nombre":"Perú","tipo":"Estado","posicion":"Suscribió con México el comunicado conjunto y acordó reanudar las relaciones diplomáticas.","interes":"Inferencia: recuperar mecanismos de representación y diálogo bilateral sin supeditar toda la relación a una discrepancia específica.","evidencia":"Cancillería del Perú, comunicado conjunto de 7 de agosto de 2026."},
-      {"nombre":"México","tipo":"Estado","posicion":"Suscribió el comunicado conjunto. La Presidencia afirmó que el salvoconducto y las conversaciones previas facilitaron el restablecimiento y reiteró su posición sobre Pedro Castillo.","interes":"Inferencia: restablecer vínculos oficiales manteniendo su propia lectura política sobre asuntos peruanos.","evidencia":"SRE de México, comunicado conjunto; Presidencia mexicana, 7 de agosto de 2026."}
+    "id": "peru-mexico-2026",
+    "fecha": "2026-08-07",
+    "titulo": "Perú y México reanudan relaciones diplomáticas: negociación, asilo y normalización",
+    "tipo": "Análisis editorial documentado",
+    "region": "América Latina",
+    "actualizado": "2026-10-18",
+    "importancia": "La normalización bilateral evidencia que un Estado puede mantener desacuerdos jurídicos y políticos mientras recupera canales diplomáticos. El caso es relevante para estudiar el asilo diplomático, las obligaciones convencionales, la negociación y la distinción entre posiciones oficiales y cooperación práctica.",
+    "hecho": "El 7 de agosto de 2026, los Gobiernos de Perú y México anunciaron en un comunicado conjunto la reanudación de relaciones diplomáticas. Ese día, la Cancillería peruana informó que otorgó garantías y un salvoconducto a Betssy Chávez conforme a los artículos V y XII de la Convención de Caracas sobre Asilo Diplomático de 1954. La Presidencia mexicana comunicó su traslado a México. Estas son decisiones y comunicaciones documentadas: no prueban, por sí mismas, que hayan desaparecido las controversias sobre el asilo o la situación judicial de las personas implicadas.",
+    "antecedentes": "Las tensiones diplomáticas se intensificaron después de los acontecimientos políticos peruanos de diciembre de 2022 y de las posiciones adoptadas por las autoridades mexicanas respecto de Pedro Castillo. En noviembre de 2025, el Gobierno peruano rompió relaciones diplomáticas con México en medio de la controversia por el asilo concedido a Betssy Chávez. La Presidencia mexicana indicó entonces que continuarían las relaciones consulares.\n\nDurante 2026, la situación de Chávez y la falta de un salvoconducto siguieron presentes en el diálogo bilateral. El 29 de julio, la presidenta Claudia Sheinbaum confirmó contactos con el nuevo Gobierno peruano, pero sostuvo que el asunto del salvoconducto aún debía resolverse. La secuencia desembocó en los anuncios conjuntos del 7 de agosto.",
+    "actores": [
+      {
+        "nombre": "Perú",
+        "tipo": "Estado",
+        "posicion": "Reanuda relaciones diplomáticas con México y concede salvoconducto. Afirma que no existe persecución política, menciona una sentencia penal y reserva la posibilidad de una solicitud de extradición.",
+        "interes": "Inferencia: recuperar interlocución diplomática y cooperación bilateral preservando su posición sobre la jurisdicción penal y la interpretación del asilo.",
+        "evidencia": "Cancillería peruana, comunicados del 7 de agosto de 2026."
+      },
+      {
+        "nombre": "México",
+        "tipo": "Estado",
+        "posicion": "Reanuda relaciones y celebra el salvoconducto. La Presidencia mexicana mantiene su interpretación sobre Pedro Castillo y la protección otorgada a Chávez.",
+        "interes": "Inferencia: restablecer vínculos con Perú sin abandonar su postura política ni el argumento de protección diplomática.",
+        "evidencia": "SRE y Presidencia de México, 7 de agosto de 2026."
+      },
+      {
+        "nombre": "Brasil",
+        "tipo": "Estado tercero",
+        "posicion": "La Presidencia mexicana declaró que Brasil se encargó del resguardo de la representación mexicana tras el cierre de su embajada.",
+        "interes": "No se atribuye un interés estratégico propio con la documentación disponible.",
+        "evidencia": "Presidencia mexicana, versiones oficiales de julio y agosto de 2026."
+      }
     ],
-    "lectura":"La normalización no exige necesariamente convergencia sobre todas las controversias. Los Estados pueden mantener interpretaciones distintas y, simultáneamente, utilizar instrumentos diplomáticos para gestionar desacuerdos. No puede afirmarse solo con el comunicado que la disputa jurídica o política quedó resuelta.",
-    "teoria":{"nombre":"Institucionalismo liberal e interdependencia","aplicacion":"La reapertura de canales oficiales puede reducir costos de coordinación y crear mecanismos para manejar futuras discrepancias. Es una lente interpretativa, no una motivación confesada por las partes."},
-    "peru":"Afecta directamente la capacidad del Perú de conducir su relación bilateral con México y de desarrollar mecanismos de cooperación, diálogo político y gestión consular. La magnitud de eventuales resultados económicos debe acreditarse separadamente; el restablecimiento no prueba por sí solo que ya existan beneficios cuantificables.",
-    "limitaciones":"No permite determinar por sí solo la solución definitiva de la controversia de asilo ni el grado de coincidencia sobre la situación judicial de Pedro Castillo.",
-    "fuentes":[
-      {"organismo":"Ministerio de Relaciones Exteriores del Perú","tipo":"Comunicado oficial conjunto","url":"https://www.gob.pe/institucion/rree/noticias/1426869-restablecimiento-de-relaciones-diplomaticas-con-mexico"},
-      {"organismo":"Secretaría de Relaciones Exteriores de México","tipo":"Comunicado oficial conjunto","url":"https://www.gob.mx/sre/prensa/restablecimiento-de-relaciones-diplomaticas-con-peru"},
-      {"organismo":"Presidencia de México","tipo":"Declaraciones oficiales atribuidas","url":"https://www.gob.mx/presidencia/prensa/se-restablecen-las-relaciones-diplomaticas-entre-mexico-y-peru-presidenta-claudia-sheinbaum?idiom=es-MX"}
+    "lectura": "La decisión bilateral no implica que Perú y México compartan un diagnóstico sobre la situación judicial de Pedro Castillo o sobre el alcance de la protección mediante asilo diplomático. Lo que muestra es una separación negociada de asuntos: avanzar en la reapertura de las relaciones oficiales mientras se mantienen interpretaciones políticas diferentes.\n\nDesde una perspectiva estratégica, prolongar la ausencia de canales diplomáticos puede dificultar la coordinación sobre asuntos consulares, políticos y multilaterales, incluso cuando subsisten vías de contacto. Restaurar la relación abre posibilidades institucionales; no garantiza, por sí solo, mayor comercio, nuevas inversiones o una solución judicial determinada.\n\nEn términos discursivos también hay un contraste: el Perú fundamentó su decisión en el cumplimiento convencional y enfatizó que no admite persecución política; México reivindicó la protección otorgada y afirmó que mantendría su posición respecto de Castillo. Ambos pueden sostener relatos públicos divergentes y, al mismo tiempo, ejecutar una decisión diplomática coincidente.",
+    "teoria": {
+      "nombre": "Institucionalismo liberal, negociación en dos niveles y constructivismo",
+      "aplicacion": "Las instituciones permiten mantener coordinación; las audiencias internas limitan las concesiones públicas y las normas de asilo pueden recibir interpretaciones rivales. Estas son lentes analíticas complementarias, no declaraciones de motivos."
+    },
+    "peru": "El efecto inmediato constatado para el Perú es la reanudación de sus relaciones diplomáticas con México y el otorgamiento de un salvoconducto respecto del caso que condicionó la controversia. La normalización recupera un canal para tratar asuntos bilaterales sin necesidad de resolver de antemano todas las discrepancias.\n\nPara la política exterior peruana, el caso plantea un problema de coherencia entre la defensa de la jurisdicción estatal, las obligaciones internacionales en materia de asilo y la conveniencia de mantener relaciones con socios latinoamericanos. La Cancillería señaló que el otorgamiento del salvoconducto se produjo reservando el derecho de solicitar eventualmente la extradición conforme a los instrumentos aplicables y a requerimiento judicial; una eventual solicitud no equivale a que su procedencia esté jurídicamente resuelta.\n\nNo existen, en los comunicados examinados, datos suficientes para afirmar un beneficio económico cuantificable derivado del restablecimiento. Las consecuencias consulares, comerciales y de cooperación deberán observarse mediante actuaciones posteriores y datos sectoriales.",
+    "limitaciones": "El comunicado conjunto acredita la reanudación de relaciones, no la solución jurídica definitiva de la controversia de asilo. La interpretación de cada Gobierno sobre persecución política es una posición atribuida. Los documentos de agosto no acreditan que el restablecimiento haya ocasionado beneficios comerciales medibles, ni confirman por sí solos el nombramiento o la acreditación efectiva de embajadores en ambas capitales.",
+    "fuentes": [
+      {
+        "organismo": "Ministerio de Relaciones Exteriores del Perú",
+        "tipo": "Comunicado conjunto de restablecimiento, 7 ago. 2026",
+        "url": "https://www.gob.pe/institucion/rree/noticias/1426869-restablecimiento-de-relaciones-diplomaticas-con-mexico"
+      },
+      {
+        "organismo": "Secretaría de Relaciones Exteriores de México",
+        "tipo": "Comunicado conjunto, 7 ago. 2026",
+        "url": "https://www.gob.mx/sre/prensa/restablecimiento-de-relaciones-diplomaticas-con-peru"
+      },
+      {
+        "organismo": "Ministerio de Relaciones Exteriores del Perú",
+        "tipo": "Comunicado de Prensa 032-26, 7 ago. 2026",
+        "url": "https://www.gob.pe/institucion/rree/noticias/1426871-comunicado-de-prensa"
+      },
+      {
+        "organismo": "Presidencia de México",
+        "tipo": "Comunicado del 7 ago. 2026",
+        "url": "https://www.gob.mx/presidencia/prensa/se-restablecen-las-relaciones-diplomaticas-entre-mexico-y-peru-presidenta-claudia-sheinbaum?idiom=es-MX"
+      },
+      {
+        "organismo": "Presidencia de México",
+        "tipo": "Versión estenográfica del 4 nov. 2025",
+        "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-04-de-noviembre-de-2025"
+      },
+      {
+        "organismo": "Presidencia de México",
+        "tipo": "Versión estenográfica del 29 jul. 2026",
+        "url": "https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-29-de-julio-de-2026"
+      }
+    ],
+    "profundidad": "profundo",
+    "detalles": [
+      {
+        "titulo": "El salvoconducto y el asilo no son conceptos intercambiables",
+        "texto": "México presentó el caso de Chávez como una situación de asilo diplomático. Perú, en cambio, dejó constancia de que entregaba garantías y salvoconducto conforme a la Convención de Caracas de 1954, reiterando que no reconocía persecución política. El salvoconducto se relaciona con la salida segura de la persona; no constituye por sí mismo una sentencia judicial que valide todas las afirmaciones de una de las partes.",
+        "fuentes": [
+          2,
+          3
+        ]
+      },
+      {
+        "titulo": "Qué dice la reserva peruana sobre extradición",
+        "texto": "El comunicado peruano indica expresamente que el otorgamiento del salvoconducto se realiza con reserva de solicitar una extradición futura, si corresponde y lo requieren las autoridades judiciales. Esto permite diferenciar el cumplimiento inmediato de una medida diplomática de las cuestiones penales o procesales que podrían plantearse después. La admisibilidad de cualquier extradición dependería de normas y decisiones concretas que no están resueltas por este comunicado.",
+        "fuentes": [
+          2
+        ]
+      },
+      {
+        "titulo": "La continuidad consular durante la ruptura",
+        "texto": "En noviembre de 2025, representantes del Gobierno mexicano diferenciaron la ruptura diplomática de la continuidad de vínculos consulares. También afirmaron que el intercambio comercial seguiría. Esta distinción evita presentar la reanudación de agosto de 2026 como si toda forma de contacto entre ambas sociedades hubiese estado paralizada.",
+        "fuentes": [
+          4
+        ]
+      },
+      {
+        "titulo": "El papel de Brasil como tercero",
+        "texto": "En las declaraciones presidenciales mexicanas se reconoce que Brasil asumió el resguardo de la representación mexicana en Perú tras el cierre de su embajada. Constituye un ejemplo documentado de una tercera parte que facilita la continuidad de ciertas funciones en un contexto de ruptura; no permite atribuir a Brasil una negociación decisiva que esas fuentes no prueban.",
+        "fuentes": [
+          3,
+          5
+        ]
+      }
+    ],
+    "cronologia": [
+      {
+        "fecha": "2022-12",
+        "evento": "Surgen desacuerdos bilaterales sobre los acontecimientos políticos peruanos y la situación de Pedro Castillo.",
+        "fuentes": [
+          4
+        ]
+      },
+      {
+        "fecha": "2025-11-04",
+        "evento": "La Presidencia de México explica la ruptura diplomática decidida por Perú e indica la continuidad de contactos consulares.",
+        "fuentes": [
+          4
+        ]
+      },
+      {
+        "fecha": "2026-07-29",
+        "evento": "Sheinbaum confirma contactos con el nuevo Gobierno peruano y menciona el salvoconducto pendiente como asunto central.",
+        "fuentes": [
+          5
+        ]
+      },
+      {
+        "fecha": "2026-08-07",
+        "evento": "Perú y México publican el comunicado conjunto que acuerda reanudar las relaciones diplomáticas.",
+        "fuentes": [
+          0,
+          1
+        ]
+      },
+      {
+        "fecha": "2026-08-07",
+        "evento": "Perú comunica el otorgamiento del salvoconducto, precisa su posición jurídica y reserva una eventual solicitud de extradición.",
+        "fuentes": [
+          2
+        ]
+      },
+      {
+        "fecha": "2026-08-07",
+        "evento": "México comunica el traslado de Chávez y reafirma que mantiene su posición sobre Castillo.",
+        "fuentes": [
+          3
+        ]
+      }
+    ],
+    "juridico": [
+      {
+        "titulo": "Convención de Caracas de 1954",
+        "texto": "La Cancillería peruana cita los artículos V y XII de la Convención sobre Asilo Diplomático para explicar la entrega del salvoconducto. Para interpretar obligaciones, excepciones y condiciones con precisión se requeriría examinar íntegramente el texto auténtico de la Convención, no únicamente el comunicado.",
+        "fuentes": [
+          2
+        ]
+      },
+      {
+        "titulo": "Asilo diplomático, proceso penal y extradición",
+        "texto": "Son categorías jurídicas distintas. El reconocimiento o rechazo político de la figura del asilado no sustituye una decisión judicial sobre responsabilidad penal. Igualmente, reservar el derecho a pedir una extradición no anticipa el resultado de su eventual tramitación.",
+        "fuentes": [
+          2,
+          3
+        ]
+      },
+      {
+        "titulo": "Carta de Naciones Unidas y solución pacífica",
+        "texto": "El comunicado conjunto menciona los principios de la Carta de las Naciones Unidas. Es una expresión conjunta de compromiso diplomático; por sí sola no establece cómo se resolverán las discrepancias políticas o jurídicas subsistentes.",
+        "fuentes": [
+          0,
+          1
+        ]
+      }
+    ],
+    "teorias": [
+      {
+        "nombre": "Institucionalismo liberal",
+        "explicacion": "La recuperación de canales diplomáticos ilustra cómo los Estados pueden preferir mantener instituciones de contacto cuando el costo de la ausencia de coordinación se vuelve mayor que el de conversar pese al desacuerdo. No demuestra que esa haya sido la motivación exclusiva de los gobiernos.",
+        "fuentes": [
+          0,
+          1
+        ]
+      },
+      {
+        "nombre": "Negociación en dos niveles",
+        "explicacion": "Como herramienta analítica, ayuda a observar la interacción entre compromisos internacionales y restricciones políticas domésticas: reanudar vínculos puede exigir mensajes públicos distintos para las audiencias de Perú y México. Sin evidencia interna de los negociadores, esto permanece como una hipótesis interpretativa.",
+        "fuentes": [
+          2,
+          3
+        ]
+      },
+      {
+        "nombre": "Constructivismo y legitimidad de normas",
+        "explicacion": "El desacuerdo no gira únicamente alrededor de una medida material: las partes defienden significados diferentes del asilo, el debido proceso y la legitimidad política. Sus declaraciones oficiales permiten documentar esa disputa de interpretaciones, sin determinar por sí solas cuál es jurídicamente correcta.",
+        "fuentes": [
+          2,
+          3
+        ]
+      }
+    ],
+    "preguntas_abiertas": [
+      "¿Qué actos formales posteriores concretan plenamente la representación diplomática bilateral?",
+      "¿Se producirán procedimientos judiciales o diplomáticos nuevos vinculados con el asilo o una eventual extradición?",
+      "¿Qué medidas de cooperación bilateral se reactivan efectivamente y cómo se podrían medir sus resultados?",
+      "¿Cómo evolucionan las posiciones declaradas por ambos Estados respecto de Pedro Castillo y la figura del asilo?"
     ]
   }
 ]
