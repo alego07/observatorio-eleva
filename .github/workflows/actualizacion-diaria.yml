@@ -1,0 +1,58 @@
+name: ELEVA | Actualizar y publicar
+on:
+  push:
+    branches: [main]
+  schedule:
+    # Dos oportunidades antes de las 08:00 de Lima.
+    # GitHub puede retrasar o, excepcionalmente, omitir una ejecución.
+    - cron: '15 6 * * *'
+      timezone: 'America/Lima'
+    - cron: '15 7 * * *'
+      timezone: 'America/Lima'
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: eleva-publicar
+  cancel-in-progress: false
+jobs:
+  publicar:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 22
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Leer RSS autorizados y actualizar archivos
+        continue-on-error: true
+        run: python collector.py
+      - name: Conservar versiones históricas en el repositorio
+        run: |
+          git config user.name 'eleva-actualizador'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/
+          if ! git diff --cached --quiet; then
+            git commit -m "ELEVA noticias $(date -u '+%Y-%m-%dT%H:%MZ')"
+            git push
+          fi
+      - name: Preparar carpeta pública
+        run: |
+          mkdir -p site/data
+          cp index.html style.css app.js sources.json .nojekyll site/
+          cp -R data/. site/data/
+      - uses: actions/configure-pages@v5
+        with:
+          enablement: true
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deployment
+        uses: actions/deploy-pages@v4
