@@ -1,6 +1,78 @@
 {
-  "created_utc": "2026-10-18T22:03:11.335108+00:00",
+  "created_utc": "2026-10-18T22:08:39.583397+00:00",
   "events": [
+    {
+      "id": "a-117561e918fc98e5dd56",
+      "fecha": "2026-10-18",
+      "titulo_fuente": "Masked settlers attack European diplomats in occupied West Bank",
+      "region": "Europa",
+      "temas": [
+        "Diplomacia",
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "117561e918fc98e5dd56",
+          "titulo_original": "Masked settlers attack European diplomats in occupied West Bank",
+          "titulo_es": "Los colonos enmascarados atacan a diplomáticos europeos en la Ribera Occidental ocupada",
+          "url": "https://www.thehindu.com/news/international/masked-settlers-attack-european-diplomats-in-occupied-west-bank/article71597806.ece",
+          "fuente": "The Hindu",
+          "pais": "India",
+          "fecha": "2026-10-18T20:52:00+00:00",
+          "estado": "publicación periodística; corroboración pendiente"
+        },
+        {
+          "id": "9b50a85c3724bc7f5520",
+          "titulo_original": "EU condemns Israeli settler attack on diplomats in occupied West Bank",
+          "titulo_es": "",
+          "url": "https://www.aljazeera.com/news/2026/10/18/eu-condemns-israeli-settler-attack-on-diplomats-in-occupied-west-bank?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-10-18T15:10:05+00:00",
+          "estado": "publicación periodística; corroboración pendiente"
+        },
+        {
+          "id": "0bd6429ce4de8bfba62f",
+          "titulo_original": "European diplomats attacked by Israeli settlers in West Bank",
+          "titulo_es": "",
+          "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News",
+          "pais": "Reino Unido",
+          "fecha": "2026-10-18T12:16:14+00:00",
+          "estado": "publicación periodística; corroboración pendiente"
+        },
+        {
+          "id": "7872aa95c13a73e64eda",
+          "titulo_original": "Israeli settlers attack European diplomats in West Bank",
+          "titulo_es": "",
+          "url": "https://www.theguardian.com/world/2026/oct/17/israeli-settlers-attack-european-diplomats-in-west-bank",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-10-17T18:57:56+00:00",
+          "estado": "publicación periodística; corroboración pendiente"
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera",
+        "BBC News",
+        "The Guardian",
+        "The Hindu"
+      ],
+      "actores_mencionados": [
+        "Israel",
+        "Palestina"
+      ],
+      "fuentes_independientes": 4,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "fecha_analisis": null
+    },
     {
       "id": "a-666d3953f244bdcf8aa3",
       "fecha": "2026-10-18",
@@ -141,55 +213,6 @@
       "marco_teorico": {
         "nombre": "Realismo y dilema de seguridad",
         "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-0bd6429ce4de8bfba62f",
-      "fecha": "2026-10-18",
-      "titulo_fuente": "European diplomats attacked by Israeli settlers in West Bank",
-      "region": "Oriente Medio",
-      "temas": [
-        "Diplomacia",
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "0bd6429ce4de8bfba62f",
-          "titulo_original": "European diplomats attacked by Israeli settlers in West Bank",
-          "titulo_es": "",
-          "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News",
-          "pais": "Reino Unido",
-          "fecha": "2026-10-18T12:16:14+00:00",
-          "estado": "publicación periodística; corroboración pendiente"
-        },
-        {
-          "id": "7872aa95c13a73e64eda",
-          "titulo_original": "Israeli settlers attack European diplomats in West Bank",
-          "titulo_es": "",
-          "url": "https://www.theguardian.com/world/2026/oct/17/israeli-settlers-attack-european-diplomats-in-west-bank",
-          "fuente": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-10-17T18:57:56+00:00",
-          "estado": "publicación periodística; corroboración pendiente"
-        }
-      ],
-      "fuentes": [
-        "BBC News",
-        "The Guardian"
-      ],
-      "actores_mencionados": [
-        "Israel"
-      ],
-      "fuentes_independientes": 2,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
       },
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
@@ -615,7 +638,7 @@
         {
           "id": "e2a3cda5c1ad777b52dd",
           "titulo_original": "Diesel deal concerns only Russia, US, whatever Zelensky could say — Lavrov",
-          "titulo_es": "",
+          "titulo_es": "El acuerdo Diesel se refiere solamente a Rusia, Estados Unidos, cualquier cosa que Zelensky pueda decir — Lavrov",
           "url": "https://tass.com/economy/2203845",
           "fuente": "TASS",
           "pais": "Rusia",
@@ -1310,6 +1333,44 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-18b90db15c76ffda7123",
+      "fecha": "2026-10-18",
+      "titulo_fuente": "France demands Israel act after 'criminal violence' against visiting mayor",
+      "region": "Oriente Medio",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "18b90db15c76ffda7123",
+          "titulo_original": "France demands Israel act after 'criminal violence' against visiting mayor",
+          "titulo_es": "Francia exige que Israel actúe después de 'violencia criminal' contra el alcalde visitante",
+          "url": "https://www.thehindu.com/news/international/france-demands-israel-act-after-criminal-violence-against-visiting-mayor/article71597848.ece",
+          "fuente": "The Hindu",
+          "pais": "India",
+          "fecha": "2026-10-18T21:31:06+00:00",
+          "estado": "publicación periodística; corroboración pendiente"
+        }
+      ],
+      "fuentes": [
+        "The Hindu"
+      ],
+      "actores_mencionados": [
+        "Israel",
+        "Francia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-e6797c10201316ef6772",
       "fecha": "2026-10-18",
       "titulo_fuente": "How China made climate resilience part of its economic growth strategy",
@@ -1337,6 +1398,45 @@
       "actores_mencionados": [
         "China",
         "Turquía"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-2055556544ca2bf2f096",
+      "fecha": "2026-10-18",
+      "titulo_fuente": "Zelenskyy says Trump could lift more Russia sanctions",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Seguridad y conflictos",
+        "Energía y clima"
+      ],
+      "noticias": [
+        {
+          "id": "2055556544ca2bf2f096",
+          "titulo_original": "Zelenskyy says Trump could lift more Russia sanctions",
+          "titulo_es": "Zelenskyy dice que Trump podría levantar más sanciones de Rusia",
+          "url": "https://www.thehindu.com/news/international/zelenskyy-says-trump-could-lift-more-russia-sanctions/article71597822.ece",
+          "fuente": "The Hindu",
+          "pais": "India",
+          "fecha": "2026-10-18T20:41:26+00:00",
+          "estado": "publicación periodística; corroboración pendiente"
+        }
+      ],
+      "fuentes": [
+        "The Hindu"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Rusia"
       ],
       "fuentes_independientes": 1,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
@@ -1840,45 +1940,6 @@
       "marco_teorico": {
         "nombre": "Realismo y dilema de seguridad",
         "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-9b50a85c3724bc7f5520",
-      "fecha": "2026-10-18",
-      "titulo_fuente": "EU condemns Israeli settler attack on diplomats in occupied West Bank",
-      "region": "Oriente Medio",
-      "temas": [
-        "Diplomacia",
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "9b50a85c3724bc7f5520",
-          "titulo_original": "EU condemns Israeli settler attack on diplomats in occupied West Bank",
-          "titulo_es": "",
-          "url": "https://www.aljazeera.com/news/2026/10/18/eu-condemns-israeli-settler-attack-on-diplomats-in-occupied-west-bank?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-10-18T15:10:05+00:00",
-          "estado": "publicación periodística; corroboración pendiente"
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera"
-      ],
-      "actores_mencionados": [
-        "Israel",
-        "Palestina"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
       },
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
@@ -3408,7 +3469,7 @@
         {
           "id": "6a4bbd3ba6624f1e66f7",
           "titulo_original": "GCC condemns Houthi attacks on Saudi Arabia as Yemen fighting intensifies",
-          "titulo_es": "",
+          "titulo_es": "GCC condena los ataques de Houthi contra Arabia Saudita mientras que la lucha del Yemen intensifica",
           "url": "https://www.aljazeera.com/news/2026/10/18/gcc-condemns-houthi-attacks-on-saudi-arabia-as-yemen-fighting-intensifies?traffic_source=rss",
           "fuente": "Al Jazeera",
           "pais": "Catar",
@@ -3446,7 +3507,7 @@
         {
           "id": "263a681eb82be99cba47",
           "titulo_original": "Guardian reporter filmed masked militants seconds before West Bank attack on French mayor",
-          "titulo_es": "",
+          "titulo_es": "El reportero del guardián filmó a militantes enmascarados segundos antes del ataque a la Ribera Occidental contra el alcalde francés",
           "url": "https://www.theguardian.com/world/2026/oct/18/guardian-reporter-filmed-masked-militants-seconds-before-west-bank-attack-on-french-mayor",
           "fuente": "The Guardian",
           "pais": "Reino Unido",
@@ -3483,7 +3544,7 @@
         {
           "id": "c2f635d3082d614e25aa",
           "titulo_original": "Gaza bodybuilders find solace in strongman competition among the ruins",
-          "titulo_es": "",
+          "titulo_es": "Los culturistas de Gaza encuentran consuelo en la competencia de los hombres fuertes entre las ruinas",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/gaza-bodybuilders-find-solace-in-strongman-competition-among-the-ruins?traffic_source=rss",
           "fuente": "Al Jazeera",
           "pais": "Catar",
@@ -3520,7 +3581,7 @@
         {
           "id": "ba4952b9c26c3ab6502f",
           "titulo_original": "Why the US is holding secret talks with Myanmar’s military ruler",
-          "titulo_es": "",
+          "titulo_es": "Por qué Estados Unidos mantiene conversaciones secretas con el gobernante militar de Myanmar",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/why-the-us-is-holding-secret-talks-with-myanmars-military-ruler?traffic_source=rss",
           "fuente": "Al Jazeera",
           "pais": "Catar",
@@ -5700,43 +5761,6 @@
       "marco_teorico": {
         "nombre": "Interdependencia compleja y economía política internacional",
         "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-026afb311ed8f0a07aac",
-      "fecha": "2026-10-18",
-      "titulo_fuente": "Philippines protests Chinese envoy's remarks, calling them a 'thinly veiled threat'",
-      "region": "China",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "026afb311ed8f0a07aac",
-          "titulo_original": "Philippines protests Chinese envoy's remarks, calling them a 'thinly veiled threat'",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/news/international/philippines-protests-chinese-envoys-remarks-calling-them-a-thinly-veiled-threat/article71594014.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-10-18T04:57:03+00:00",
-          "estado": "publicación periodística; corroboración pendiente"
-        }
-      ],
-      "fuentes": [
-        "The Hindu"
-      ],
-      "actores_mencionados": [
-        "China"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
       },
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
