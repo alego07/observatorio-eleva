@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-10-18T23:13:08.143615+00:00",
+  "created_utc": "2026-10-18T23:31:44.792118+00:00",
   "events": [
     {
       "id": "a-a9927080cdbe5c1f847f",
@@ -562,6 +562,53 @@
         "Cobertura de fuentes distintas",
         "Actores relevantes: Israel",
         "Ámbito: Diplomacia, Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-2af03e24dfa737edbbc2",
+      "fecha": "2026-10-18",
+      "titulo_fuente": "Electricity costs put UK steelmakers in worst position in three years against EU rivals",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos",
+        "Energía y clima"
+      ],
+      "noticias": [
+        {
+          "id": "2af03e24dfa737edbbc2",
+          "titulo_original": "Electricity costs put UK steelmakers in worst position in three years against EU rivals",
+          "titulo_es": "Los costos de electricidad ponen a los fabricantes de acero en peor posición en tres años contra rivales de la UE",
+          "url": "https://www.theguardian.com/business/2026/oct/19/electricity-costs-uk-steelmakers-worst-position-three-years-eu-rivals",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-10-18T23:01:12+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Premium paid over French counterparts has risen to almost £30 a megawatt hour, analysis by lobby group finds British steelmakers have been pushed further behind European rivals on electricity costs after the US-Israeli war on Iran caused a surge in global gas prices. The premium paid by the British industry over its French counterpart has risen to almost £30 a megawatt hour (MWh), its highest level in three years, according to analysis by the lob",
+          "resumen_es": "Premium pagado por contrapartes francesas ha aumentado a casi £30 una hora de megavatios, el análisis por grupo de presión encuentra que los fabricantes de acero británicos han sido empujados más detrás de los rivales europeos en costos de electricidad después de la guerra estadounidense-israelí contra Irán causó un"
+        }
+      ],
+      "fuentes": [
+        "The Guardian"
+      ],
+      "actores_mencionados": [
+        "Israel",
+        "Irán"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: Irán, Israel",
+        "Ámbito: Energía y clima, Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -5084,6 +5131,50 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-36942f49435d43b811fd",
+      "fecha": "2026-10-18",
+      "titulo_fuente": "Protesters disrupt Ben-Gvir event forcing him off stage",
+      "region": "Oriente Medio",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "36942f49435d43b811fd",
+          "titulo_original": "Protesters disrupt Ben-Gvir event forcing him off stage",
+          "titulo_es": "Los manifestantes interrumpen Ben... Evento de Gvir forzándolo fuera del escenario",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/protesters-disrupt-ben-gvir-event-forcing-him-off-stage?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-10-18T23:06:16+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Israeli protesters disrupted a Tel Aviv university event featuring far-right National Security Minister Itamar Ben-Gvir.",
+          "resumen_es": "Los manifestantes israelíes perturbaron un evento universitario de Tel Aviv con el ministro de Seguridad Nacional de extrema derecha, Itamar Ben-Gvir."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [
+        "Israel"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Israel"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-888d7d6e7e552142e936",
       "fecha": "2026-10-18",
       "titulo_fuente": "Albanian PM Edi Rama refuses to quit as violent protests enter 6th day",
@@ -6798,94 +6889,6 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Actores relevantes: Estados Unidos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-c018d5ddc8ba96d2c95e",
-      "fecha": "2026-10-18",
-      "titulo_fuente": "Trump’s approval rating hits new low amid growing support for Democrats — poll",
-      "region": "Estados Unidos",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "c018d5ddc8ba96d2c95e",
-          "titulo_original": "Trump’s approval rating hits new low amid growing support for Democrats — poll",
-          "titulo_es": "",
-          "url": "https://tass.com/world/2203759",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-18T13:54:38+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "According to the poll results, Trump’s approval stands at 33%, or 4 p.p. down on July and 8 p.p. down on October 2025",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-f3367a304d329cea6365",
-      "fecha": "2026-10-18",
-      "titulo_fuente": "‘Like we had a war’: France counts cost of violent protests",
-      "region": "Europa",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "f3367a304d329cea6365",
-          "titulo_original": "‘Like we had a war’: France counts cost of violent protests",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/news/international/like-we-had-a-war-france-counts-cost-of-violent-protests/article71600086.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-10-18T13:48:52+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The convulsion raised the stakes for President Emmanuel Macron, who is in his final months in power before elections to replace him in six months’ time",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Hindu"
-      ],
-      "actores_mencionados": [
-        "Francia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
