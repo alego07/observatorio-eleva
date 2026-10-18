@@ -3,8 +3,7 @@ on:
   push:
     branches: [main]
   schedule:
-    # Dos oportunidades antes de las 08:00 de Lima.
-    # GitHub puede retrasar o, excepcionalmente, omitir una ejecución.
+    # Doble intento con anticipación a las 08:00 de Lima (puede haber retrasos).
     - cron: '15 6 * * *'
       timezone: 'America/Lima'
     - cron: '15 7 * * *'
@@ -19,11 +18,11 @@ concurrency:
   cancel-in-progress: false
 jobs:
   publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    timeout-minutes: 22
     steps:
       - uses: actions/checkout@v4
         with:
@@ -31,22 +30,36 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Leer RSS autorizados y actualizar archivos
+      - name: Recopilar RSS de medios y fuentes seleccionadas
+        run: python collector.py || echo 'RSS parcial o no disponible; conservar historial y revisar estado'
+      - name: Recuperar modelos abiertos de traducción
+        uses: actions/cache@v4
+        with:
+          path: ~/.local/share/argos-translate
+          key: eleva-argos-translate-2026-v2
+      - name: Instalar traductor local gratuito
         continue-on-error: true
-        run: python collector.py
-      - name: Conservar versiones históricas en el repositorio
+        run: python -m pip install --disable-pip-version-check -q argostranslate==1.9.6
+      - name: Traducción automática opcional al español (sin API comercial)
+        continue-on-error: true
+        run: timeout 850s python translate_offline.py
+      - name: Vincular publicaciones a acontecimientos candidatos
+        run: python enrich.py
+      - name: Tests internos
+        run: python -m unittest discover -s tests -q
+      - name: Conservar nuevas entradas e histórico
         run: |
           git config user.name 'eleva-actualizador'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add data/
           if ! git diff --cached --quiet; then
-            git commit -m "ELEVA noticias $(date -u '+%Y-%m-%dT%H:%MZ')"
+            git commit -m "ELEVA fuentes e historial $(date -u '+%Y-%m-%dT%H:%MZ')"
             git push
           fi
-      - name: Preparar carpeta pública
+      - name: Preparar versión pública
         run: |
           mkdir -p site/data
-          cp index.html style.css app.js sources.json .nojekyll site/
+          cp index.html style.css app.js sources.json editorial.json .nojekyll site/
           cp -R data/. site/data/
       - uses: actions/configure-pages@v5
         with:
