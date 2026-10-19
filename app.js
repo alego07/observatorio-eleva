@@ -89,6 +89,52 @@ function relatedEditorial(c){
  const text=[c.titulo_fuente,...(c.noticias||[]).map(n=>n.titulo_original||'')].join(' ').toLowerCase();
  return state.editorial.find(ed=>(ed.match_keywords||[]).some(k=>text.includes(k.toLowerCase())))||null;
 }
+
+/**
+ * Complemento desde el archivo ya recogido. No es búsqueda abierta ni
+ * verificación independiente: solo muestra más documentos rastreables.
+ * Exige coincidencia de un proceso específico, no solo un país aislado.
+ */
+function relatedArchiveReports(c){
+ const title=[c.titulo_fuente,...(c.noticias||[]).map(n=>n.titulo_original)].join(' ');
+ const patterns=[
+  {label:'negociación y guerra Rusia–Ucrania',re:/ukrain|ucrani|zelensk|putin.*(?:trump|xi|summit)|trump.*putin/i},
+  {label:'estrecho de Taiwán',re:/taiwan|taiw[aá]n|taipei/i},
+  {label:'diplomacia e incidentes en Cisjordania',re:/west bank|cisjord|settlers|colonos/i},
+  {label:'relaciones comerciales China–Estados Unidos',re:/china.*(?:tariff|trade|trump)|(?:tariff|trade|trump).*china/i},
+  {label:'negociación y seguridad en Oriente Medio',re:/iran|ir[aá]n|gaza|israel|palestin/i},
+  {label:'política exterior del Perú',re:/per[uú]|peruvian/i}
+ ];
+ const pattern=patterns.find(p=>p.re.test(title));if(!pattern)return '';
+ const present=new Set((c.noticias||[]).map(x=>x.url));
+ const first=(c.noticias?.[0]?.fecha||'').slice(0,10);
+ const prior=state.data.filter(n=>n.url&&!present.has(n.url)&&pattern.re.test(n.title||'')&&n.published_utc&&n.published_utc.slice(0,10)<=first);
+ const dedup=[],seen=new Set();
+ for(const n of prior){
+  const k=(n.title||'').toLowerCase().replace(/[^a-z\d]/g,'').slice(0,42);
+  if(seen.has(k))continue;seen.add(k);
+  dedup.push(n);if(dedup.length===4)break;
+ }
+ if(!dedup.length)return '';
+ return box('Antecedentes periodísticos relacionados: '+pattern.label,
+  '<p>Estos artículos permiten seguir el mismo proceso internacional. No son necesariamente pruebas del episodio actual y sus afirmaciones deben evaluarse por separado.</p><ul>'+
+  dedup.map(n=>'<li><strong>'+esc(date(n.published_utc))+' · '+esc(n.source_name)+':</strong> '+
+  esc(n.title_es||n.title)+'. '+link(n.url,'Consultar antecedente')+'</li>').join('')+'</ul>');
+}
+function documentedContext(c,related){
+ if(!related)return '';
+ return '<section class="ai-interpretation ai-link"><div class="ai-heading"><div><small>INVESTIGACIÓN COMPLEMENTARIA DE ELEVA</small><h3>Qué significa este acontecimiento</h3></div>'+
+ badge('Análisis documentado','verified')+'</div>'+
+ '<p><strong>'+esc(related.titulo)+'</strong></p>'+
+ '<p>'+esc(related.importancia)+'</p>'+
+ '<p><strong>Contexto y antecedentes:</strong></p>'+prose(related.antecedentes)+
+ '<p><strong>Lectura geopolítica:</strong></p>'+prose(related.lectura)+
+ '<p><strong>Posible efecto en el Perú:</strong></p>'+prose(related.peru)+
+ '<p><small>El expediente fue investigado y fechado por separado: sus conclusiones no se actualizan automáticamente con cada titular nuevo.</small></p>'+
+ citations(related,[0,1,3])+
+ '<button class="open-analisis" data-editorial-case="'+esc(related.id)+'">Abrir expediente y análisis completo →</button></section>';
+}
+
 // Guía analítica de reglas: no simula comprensión automática de la noticia.
 function candidateHypothesis(c){
  const t=[c.titulo_fuente,...(c.noticias||[]).map(x=>x.titulo_original||'')].join(' ').toLowerCase();
@@ -138,12 +184,12 @@ function openCase(id,ed){
  }else{
   content+=box('1. ¿Qué han publicado las fuentes?',`<p>Esta ficha reúne publicaciones que parecen abordar un mismo acontecimiento. Las siguientes notas representan lo que afirma cada medio, sin constituir una comprobación del hecho.</p>${readableReports(c)}`);
   const related=relatedEditorial(c);
-  if(related){content+=`<section class="ai-interpretation ai-link"><h3>ELEVA ya investigó un acontecimiento relacionado</h3><p>Hay un análisis con fuentes oficiales y razonamiento propio sobre este proceso. Puedes consultarlo para comprender antecedentes e intereses.</p><button class="open-analisis" data-editorial-case="${esc(related.id)}">Abrir análisis de IA documentado →</button></section>`;}
-  const suggested=candidateHypothesis(c);if(suggested)content+=suggested;
-  content+=box('2. Antecedentes e interpretación',`<p><strong>Situación documental:</strong> esta ficha RSS no permite aún reconstruir todas las causas o atribuir intenciones particulares; la guía previa ayuda a identificar mecanismos y pruebas que deben contrastarse.</p>`);
-  content+=box('3. Actores mencionados',c.actores_mencionados?.length?`<p>${c.actores_mencionados.map(esc).join(', ')}. <strong>La mención no acredita intervención, responsabilidad ni intereses propios.</strong></p>`:none);
-  content+=box('4. Pregunta interpretativa para el expediente',`<p><strong>${esc(c.marco_teorico?.nombre||'Por determinar')}:</strong> ${esc(c.marco_teorico?.pregunta||'¿Qué elementos justifican un análisis de este fenómeno?')}</p><p>Es una pregunta de investigación y no una aplicación teórica ya demostrada.</p>`);
-  content+=box('5. Posible relevancia para el Perú',prose(c.relevancia_peru||'Pendiente de verificación de una conexión causal con los intereses peruanos.'));
+  if(related)content+=documentedContext(c,related);
+  // Muestra material previo del mismo proceso, con fecha y enlace verificable.
+  content+=relatedArchiveReports(c);
+  if(!related){const suggested=candidateHypothesis(c);if(suggested)content+=suggested;}
+  if(c.actores_mencionados?.length){content+=box('Actores mencionados en las publicaciones',`<p>${c.actores_mencionados.map(esc).join(', ')}. La mención permite orientar una investigación, pero no acredita participación, responsabilidad ni intereses propios.</p>`);}
+  if(!related)content+=box('Qué sigue sin acreditarse',`<p>Esta ficha utiliza noticias recopiladas y antecedentes archivados, no una búsqueda independiente de documentos oficiales sobre este episodio. Para afirmar causas, efectos o resultados concretos será necesario contrastar las declaraciones de los protagonistas.</p>`);
  }
  content+=box('Documentos y publicaciones originales',`<ul>${sources}</ul>`);
  $('#detail').innerHTML=content;
