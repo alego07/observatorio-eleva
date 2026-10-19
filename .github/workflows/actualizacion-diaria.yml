@@ -69,7 +69,26 @@ jobs:
           git add data/
           if ! git diff --cached --quiet; then
             git commit -m "ELEVA fuentes e historial $(date -u '+%Y-%m-%dT%H:%MZ')"
-            git push
+            # Pueden llegar commits mientras el lector RSS trabaja.
+            # Reintentar con rebase; nunca forzar cambios de historial.
+            saved=0
+            for retry in 1 2 3; do
+              if git push origin HEAD:main; then
+                saved=1
+                break
+              fi
+              echo "ELEVA: hubo cambios en main; intento de integración $retry/3"
+              git fetch origin main
+              if ! git rebase origin/main; then
+                git rebase --abort
+                echo "::error::Conflicto en el histórico. No se forzará la publicación."
+                exit 1
+              fi
+            done
+            if [ "$saved" -ne 1 ]; then
+              echo "::error::No se pudo guardar el histórico tras tres intentos."
+              exit 1
+            fi
           fi
       - name: Preparar versión pública
         run: |
