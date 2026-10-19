@@ -3,10 +3,19 @@ on:
   push:
     branches: [main]
   schedule:
-    # Doble intento con anticipación a las 08:00 de Lima (puede haber retrasos).
-    - cron: '15 6 * * *'
+    # Horarios escalonados en hora peruana; GitHub puede retrasar u omitir cron.
+    # Ventanas redundantes antes de las 08:00 y dos reintentos de recuperación.
+    - cron: '41 5 * * *'
       timezone: 'America/Lima'
-    - cron: '15 7 * * *'
+    - cron: '17 6 * * *'
+      timezone: 'America/Lima'
+    - cron: '53 6 * * *'
+      timezone: 'America/Lima'
+    - cron: '29 7 * * *'
+      timezone: 'America/Lima'
+    - cron: '19 8 * * *'
+      timezone: 'America/Lima'
+    - cron: '47 9 * * *'
       timezone: 'America/Lima'
   workflow_dispatch:
 permissions:
@@ -31,7 +40,7 @@ jobs:
         with:
           python-version: '3.12'
       - name: Recopilar RSS de medios y fuentes seleccionadas
-        run: python collector.py || echo 'RSS parcial o no disponible; conservar historial y revisar estado'
+        run: python collector.py
       - name: Recuperar modelos abiertos de traducción
         uses: actions/cache@v4
         with:
@@ -47,6 +56,8 @@ jobs:
         run: python enrich.py
       - name: Actualizar seguimiento temático e histórico
         run: python seguimiento.py
+      - name: Verificar generación de noticias de hoy en Lima
+        run: python verificar_frescura.py
       - name: Tests internos
         run: python -m unittest discover -s tests -q
       - name: Conservar nuevas entradas e histórico
