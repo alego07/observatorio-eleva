@@ -58,6 +58,8 @@ jobs:
         run: python seguimiento.py
       - name: Verificar generación de noticias de hoy en Lima
         run: python verificar_frescura.py
+      - name: Validar sintaxis de la interfaz
+        run: node --check app.js
       - name: Tests internos
         run: python -m unittest discover -s tests -q
       - name: Conservar nuevas entradas e histórico
