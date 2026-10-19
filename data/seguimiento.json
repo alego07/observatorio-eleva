@@ -1,13 +1,13 @@
 {
-  "actualizado_utc": "2026-10-19T13:30:40.090513+00:00",
+  "actualizado_utc": "2026-10-19T13:36:01.269537+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 106,
-      "nuevas_24h": 79,
-      "anteriores_24h": 20,
+      "cantidad_archivada": 107,
+      "nuevas_24h": 78,
+      "anteriores_24h": 22,
       "dias_con_registros": 4,
       "fecha_ultima": "2026-10-19T13:25:38+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -26,6 +26,14 @@
           "titulo": "Russian PM Mishustin meets with Iranian First Vice President Aref",
           "fuente": "TASS",
           "url": "https://tass.com/politics/2204137",
+          "traducida": false
+        },
+        {
+          "id": "fa185c676bcb8f548321",
+          "fecha": "2026-10-19T13:22:58+00:00",
+          "titulo": "Russia’s Lavrov to discuss US war and regional security during Tehran visit",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/19/russias-lavrov-to-discuss-us-war-and-regional-security-during-tehran-visit?traffic_source=rss",
           "traducida": false
         },
         {
@@ -243,23 +251,15 @@
           "fuente": "TASS",
           "url": "https://tass.com/world/2204023",
           "traducida": false
-        },
-        {
-          "id": "81bdf5ff591ce81abbf7",
-          "fecha": "2026-10-19T09:49:59+00:00",
-          "titulo": "Russia completes 2026 U23 World Wrestling Championship in US in top of medal standings",
-          "fuente": "TASS",
-          "url": "https://tass.com/sports/2204019",
-          "traducida": false
         }
       ]
     },
     {
       "id": "oriente-medio",
       "titulo": "Oriente Medio: seguridad y diplomacia",
-      "cantidad_archivada": 76,
+      "cantidad_archivada": 77,
       "nuevas_24h": 60,
-      "anteriores_24h": 14,
+      "anteriores_24h": 15,
       "dias_con_registros": 4,
       "fecha_ultima": "2026-10-19T13:23:57+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -270,6 +270,14 @@
           "titulo": "Russian PM Mishustin meets with Iranian First Vice President Aref",
           "fuente": "TASS",
           "url": "https://tass.com/politics/2204137",
+          "traducida": false
+        },
+        {
+          "id": "fa185c676bcb8f548321",
+          "fecha": "2026-10-19T13:22:58+00:00",
+          "titulo": "Russia’s Lavrov to discuss US war and regional security during Tehran visit",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/19/russias-lavrov-to-discuss-us-war-and-regional-security-during-tehran-visit?traffic_source=rss",
           "traducida": false
         },
         {
@@ -495,14 +503,6 @@
           "fuente": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss",
           "traducida": false
-        },
-        {
-          "id": "f0a833cff1ee79671587",
-          "fecha": "2026-10-19T03:00:02+00:00",
-          "titulo": "Pourquoi l’Iran intensifie ses attaques dans le détroit d’Ormuz",
-          "fuente": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/10/19/pourquoi-l-iran-intensifie-ses-attaques-dans-le-detroit-d-ormuz_6797367_3210.html",
-          "traducida": false
         }
       ]
     },
@@ -510,8 +510,8 @@
       "id": "union-europea",
       "titulo": "Unión Europea y relaciones exteriores",
       "cantidad_archivada": 69,
-      "nuevas_24h": 53,
-      "anteriores_24h": 9,
+      "nuevas_24h": 51,
+      "anteriores_24h": 11,
       "dias_con_registros": 4,
       "fecha_ultima": "2026-10-19T14:45:00+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
