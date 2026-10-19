@@ -804,5 +804,492 @@
       "aplicacion": "Las hipótesis se apoyan en mecanismos identificables y fuentes enlazadas; no sustituyen la investigación causal."
     },
     "juridico": []
+  },
+  {
+    "id": "china-control-exportacion-solar-ia-2026",
+    "fecha": "2026-10-16",
+    "actualizado": "2026-10-19",
+    "titulo": "China propone controles a tecnologías solares y de IA: seguridad nacional y poder industrial",
+    "region": "China",
+    "tipo": "Análisis de ELEVA con apoyo de IA y fuentes identificadas",
+    "profundidad": "profundo",
+    "importancia": "La disputa no se limita a vender paneles solares: también involucra quién posee los conocimientos, licencias y procesos para fabricarlos. La regulación puede modificar la autonomía industrial de terceros países.",
+    "hecho": "El 16 de octubre de 2026, los ministerios chinos de Comercio y Ciencia y Tecnología publicaron el Anuncio 48/2026, con consulta abierta hasta el 15 de noviembre para añadir 40 tecnologías al catálogo de exportaciones prohibidas o restringidas: 23 de inteligencia artificial, cinco biomédicas y 12 fotovoltaicas. La explicación oficial distingue 14 tecnologías propuestas para prohibición y 26 para restricción. El catálogo definitivo todavía está en consulta; sin embargo, el mismo anuncio sí impone desde el 16 de octubre un registro temporal previo para determinadas transferencias de tecnología, como licencias y cesiones de propiedad intelectual. No es una prohibición general de exportar paneles solares terminados.",
+    "antecedentes": "China posee una posición relevante en procesos de fabricación fotovoltaica. Reuters describe tecnologías propuestas para control, incluidas obleas delgadas, células de perovskita y tándem y polisilicio por lecho fluidizado. Beijing sostiene que los controles responden a usos sensibles en defensa, espacio e infraestructura y afirma que no están dirigidos contra países concretos. El contexto de rivalidad tecnológica ayuda a formular hipótesis industriales, pero no prueba una represalia específica.",
+    "actores": [
+      {
+        "nombre": "China",
+        "posicion": "Invoca seguridad nacional y prevención de difusión de tecnologías sensibles; afirma que no apunta a países concretos.",
+        "interes": "Inferencia: conservar control de conocimiento estratégico y posiblemente ventajas industriales. Es plausible porque regula procesos, licencias y propiedad intelectual, no toda venta de productos terminados.",
+        "evidencia": "Anuncio 48/2026 y explicación oficial del Ministerio de Comercio."
+      },
+      {
+        "nombre": "Estados Unidos y fabricantes extranjeros",
+        "posicion": "No se verificó una respuesta oficial estadounidense específica; Reuters describe riesgos para iniciativas de fabricación exterior.",
+        "interes": "Inferencia: obtener tecnología y licencias para desarrollar capacidad productiva propia, reduciendo dependencia de proveedores externos.",
+        "evidencia": "Reuters, 18 de octubre."
+      },
+      {
+        "nombre": "India",
+        "posicion": "Reuters documenta antecedentes de restricciones de tecnología solar hacia India; no se atribuye reacción oficial india específica al anuncio.",
+        "interes": "Inferencia: ampliar fabricación local y disminuir dependencia tecnológica; una licencia puede ser un insumo decisivo para producir.",
+        "evidencia": "Reuters, 18 de octubre."
+      },
+      {
+        "nombre": "Perú",
+        "posicion": "El MINEM documenta expansión de centrales solares; no se verificó postura oficial peruana sobre el anuncio.",
+        "interes": "Inferencia: diversificar proveedores y evitar obstáculos a proyectos. El riesgo solo existe si una operación requiere tecnología comprendida en la norma.",
+        "evidencia": "MINEM, abril y junio de 2026."
+      }
+    ],
+    "lectura": "La diferencia crucial es entre importar módulos y obtener conocimientos para fabricarlos. Si China mantiene el comercio de bienes terminados pero regula la transferencia de procesos avanzados, podría influir en dónde se crean nuevos fabricantes. Este mecanismo de poder estructural es una hipótesis, no una motivación probada.\n\nLa explicación oficial de seguridad nacional tampoco debe descartarse: ciertas tecnologías tienen usos civiles y sensibles. La seguridad y la competitividad industrial pueden coexistir. Para contrastar interpretaciones hay que observar el catálogo definitivo, licencias concedidas y denegadas, destinos y decisiones de inversión. Una autorización rutinaria no produce el mismo efecto que una prohibición sistemática.\n\nTambién debe distinguirse el proyecto de catálogo de la obligación transitoria de registro que ya está vigente.",
+    "peru": "El MINEM informó en abril de 2026 sobre 13 proyectos solares con concesión definitiva que sumaban 2.402 MW proyectados; en junio reportó 156,7 MW incorporados por ampliaciones en Arequipa y Moquegua. Estos hechos prueban la importancia del sector, no daños derivados de la medida china.\n\nSi un proyecto peruano necesitara transferir desde China una licencia, un proceso o equipo crítico incluido en la regulación, podría afrontar registro y, posteriormente, restricciones. Si únicamente importa módulos terminados no sujetos a control, no cabe presumir igual efecto. Para evaluar exposición se requieren contratos, tecnología concreta, proveedores y condiciones de licencia. No se verificaron paralizaciones ni sobrecostos.",
+    "limitaciones": "La consulta cierra el 15 de noviembre y el texto definitivo puede variar. El registro temporal está vigente, pero las prohibiciones y restricciones definitivas siguen propuestas. No se verificaron licencias denegadas ni proyectos peruanos afectados.",
+    "fuentes": [
+      {
+        "organismo": "Ministerio de Comercio y Ministerio de Ciencia y Tecnología de China",
+        "tipo": "Anuncio 48/2026, 16 oct. 2026",
+        "url": "https://www.mofcom.gov.cn/zfxxgk/gkml/art/2026/art_ccd0391072a94c809ae7e820abe2536b.html"
+      },
+      {
+        "organismo": "Ministerio de Comercio de China",
+        "tipo": "Explicación oficial de alcance y excepciones, 16 oct. 2026",
+        "url": "https://www.mofcom.gov.cn/zwgk/zcjd/art/2026/art_b11d5c1e9374421e93e85dc87eba6e38.html"
+      },
+      {
+        "organismo": "Reuters",
+        "tipo": "Tecnologías solares propuestas para control, 18 oct. 2026",
+        "url": "https://www.reuters.com/business/autos-transportation/china-proposes-export-controls-solar-manufacturing-technologies-2026-10-18/"
+      },
+      {
+        "organismo": "Associated Press",
+        "tipo": "Contexto de revisión tecnológica, 16 oct. 2026",
+        "url": "https://apnews.com/article/5ac381c0c6d6628bbea2e0da7d855a5b"
+      },
+      {
+        "organismo": "MINEM del Perú",
+        "tipo": "Cartera de proyectos solares, 13 abr. 2026",
+        "url": "https://www.gob.pe/institucion/minem/noticias/1377906-peru-tiene-cartera-de-13-proyectos-de-centrales-solares-para-fortalecer-seguridad-energetica-nacional"
+      },
+      {
+        "organismo": "MINEM del Perú",
+        "tipo": "Ampliaciones solares, 22 jun. 2026",
+        "url": "https://www.gob.pe/institucion/minem/noticias/1409991-minem-peru-incorpora-156-7-mw-de-energia-solar-al-sein-con-nuevas-inversiones-en-arequipa-y-moquegua"
+      }
+    ],
+    "cronologia": [
+      {
+        "fecha": "16 oct. 2026",
+        "evento": "Consulta del catálogo y registro temporal previo de ciertas transferencias.",
+        "fuentes": [
+          0,
+          1
+        ]
+      },
+      {
+        "fecha": "18 oct. 2026",
+        "evento": "Reuters detalla tecnologías fotovoltaicas incluidas en la propuesta.",
+        "fuentes": [
+          2
+        ]
+      },
+      {
+        "fecha": "15 nov. 2026",
+        "evento": "Cierre previsto de la consulta, no entrada automática en vigor del catálogo definitivo.",
+        "fuentes": [
+          0
+        ]
+      }
+    ],
+    "detalles": [
+      {
+        "titulo": "Propuesta y obligación vigente no son lo mismo",
+        "texto": "Las prohibiciones y restricciones del catálogo están en consulta; el registro previo temporal ya rige para determinadas transferencias. Confundirlos exageraría el efecto jurídico inmediato.",
+        "fuentes": [
+          0,
+          1
+        ]
+      },
+      {
+        "titulo": "Controlar el conocimiento no es prohibir productos",
+        "texto": "Transferir procesos, patentes o licencias es distinto de vender módulos terminados. El Ministerio chino señala que los productos fabricados mediante tecnologías reguladas no quedan automáticamente comprendidos.",
+        "fuentes": [
+          0,
+          1
+        ]
+      },
+      {
+        "titulo": "Cómo comprobar la hipótesis estratégica",
+        "texto": "Comparar texto definitivo, licencias concedidas, destinos, inversión industrial y decisiones de fabricantes. La observación de denegaciones sistemáticas aportaría evidencia más fuerte que el mero anuncio.",
+        "fuentes": [
+          0,
+          1,
+          2
+        ]
+      }
+    ],
+    "juridico": [
+      {
+        "titulo": "Fundamento jurídico y alcance contractual",
+        "texto": "El anuncio invoca legislación china de comercio exterior y regulación de importación y exportación de tecnología. Contratos de licencia, propiedad intelectual o transferencia de procesos deben analizarse según su clasificación; no todos los contratos de compra de equipos están sujetos al mismo control.",
+        "fuentes": [
+          0,
+          1
+        ]
+      }
+    ],
+    "analisis_ia": {
+      "autor": "Interpretación de ELEVA, elaborada con asistencia de IA y contrastada con fuentes enlazadas",
+      "actualizado": "2026-10-19",
+      "conclusiones": [
+        {
+          "titulo": "El poder puede residir en saber fabricar",
+          "evidencia": "China propone controlar procesos y licencias y diferencia productos terminados.",
+          "inferencia": "Podría mantener ventas de módulos y condicionar la creación de fabricantes extranjeros.",
+          "fundamento": "La dependencia de conocimientos limita autonomía industrial aunque exista comercio de bienes.",
+          "teoria": "Economía política internacional y poder estructural.",
+          "limite": "La motivación industrial es una hipótesis, no una admisión oficial.",
+          "fuentes": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "titulo": "Seguridad y ventaja industrial pueden coexistir",
+          "evidencia": "El Gobierno invoca usos sensibles y selecciona procesos avanzados.",
+          "inferencia": "La medida podría responder a incentivos simultáneos de seguridad y competitividad.",
+          "fundamento": "Las tecnologías de doble uso tienen valor económico y estratégico.",
+          "teoria": "Realismo tecnológico y bienes de doble uso.",
+          "limite": "No hay prueba de represalia específica contra otro Estado.",
+          "fuentes": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "titulo": "El efecto peruano exige evidencia contractual",
+          "evidencia": "MINEM acredita expansión solar; China regula ciertas transferencias tecnológicas.",
+          "inferencia": "Solo operaciones dependientes de tecnología controlada enfrentarían riesgos directos.",
+          "fundamento": "Es necesario identificar contrato, tecnología, clasificación y costo efectivo.",
+          "teoria": "Interdependencia asimétrica y cadenas de suministro.",
+          "limite": "No se ha probado perjuicio para proyectos peruanos.",
+          "fuentes": [
+            0,
+            4,
+            5
+          ]
+        }
+      ]
+    },
+    "preguntas_abiertas": [
+      "¿Qué tecnologías quedarán en el catálogo definitivo?",
+      "¿Qué licencias se concederán a terceros países?",
+      "¿Algún proyecto peruano depende de tecnología de fabricación china, más allá de módulos terminados?"
+    ],
+    "match_keywords": [
+      "china proposes export controls on solar",
+      "china export controls solar",
+      "solar-manufacturing technologies",
+      "china curbs solar ai biotech",
+      "china technology export catalogue"
+    ],
+    "teorias": [
+      {
+        "nombre": "Poder estructural",
+        "explicacion": "Controlar procesos productivos puede condicionar dónde se desarrolla industria, aun si continúa el comercio de bienes.",
+        "fuentes": [
+          0,
+          2
+        ]
+      },
+      {
+        "nombre": "Realismo tecnológico",
+        "explicacion": "Tecnologías de doble uso generan incentivos de seguridad y protección estatal.",
+        "fuentes": [
+          1,
+          3
+        ]
+      },
+      {
+        "nombre": "Interdependencia asimétrica",
+        "explicacion": "Depender de licencias extranjeras limita opciones de inversión cuando cambian las reglas.",
+        "fuentes": [
+          0,
+          4
+        ]
+      }
+    ],
+    "teoria": {
+      "nombre": "Poder estructural, realismo tecnológico e interdependencia",
+      "aplicacion": "Distingue razones oficiales de hipótesis industriales y consecuencias condicionales."
+    }
+  },
+  {
+    "id": "ormuz-tanqueros-minas-oct-2026",
+    "fecha": "2026-10-17",
+    "actualizado": "2026-10-19",
+    "titulo": "Ormuz: Irán atribuye a minas incendios de petroleros y Estados Unidos disputa el control de la ruta",
+    "region": "Oriente Medio",
+    "tipo": "Análisis de ELEVA con apoyo de IA y fuentes identificadas",
+    "profundidad": "profundo",
+    "importancia": "Ormuz es un corredor energético de importancia mundial. La disputa muestra cómo la inseguridad del tránsito puede convertirse en herramienta de presión, aun cuando la ruta no esté completamente cerrada.",
+    "hecho": "El 17 de octubre de 2026, la agencia iraní IRNA reprodujo declaraciones de la Marina de la Guardia Revolucionaria según las cuales dos petroleros se incendiaron tras tocar minas en Ormuz. Irán alegó navegación por rutas no autorizadas y desconexión de sistemas de localización. Reuters advirtió que no había confirmación independiente; en la cobertura consultada no se identificaron ambos barcos mediante nombres y números IMO verificables. No se considera probada la causa de esos incendios.\n\nEl riesgo marítimo más amplio sí tiene evidencia independiente: la Organización Marítima Internacional registraba 100 incidentes confirmados y 24 marinos muertos con corte al 9 de octubre. El 16 de octubre, el comandante de CENTCOM afirmó que Estados Unidos y sus socios mantienen abierta la ruta y bloquean comercio marítimo iraní; es una declaración de parte, no una certificación neutral de control exclusivo.",
+    "antecedentes": "Desde la guerra regional iniciada a finales de febrero de 2026, Washington describe un bloqueo de exportaciones marítimas iraníes y protección de buques de terceros países; Teherán reivindica capacidad de condicionar rutas. La OMI ha alertado sobre miles de marinos expuestos a riesgos y ha pedido tránsito seguro. El conflicto afecta a armadores, aseguradoras, exportadores e importadores de energía.",
+    "actores": [
+      {
+        "nombre": "Irán y Guardia Revolucionaria",
+        "posicion": "Atribuyen a minas dos incendios de petroleros y alegan rutas no autorizadas; el relato no está confirmado independientemente.",
+        "interes": "Inferencia: elevar el costo de desobedecer sus advertencias y aumentar capacidad negociadora frente al bloqueo estadounidense. Una ruta estratégica permite trasladar costos a terceros.",
+        "evidencia": "Reuters y Al Jazeera, 17-18 de octubre."
+      },
+      {
+        "nombre": "Estados Unidos y CENTCOM",
+        "posicion": "El almirante Brad Cooper afirma que EE. UU. y socios controlan el paso, que sigue abierto, y que Washington restringe exportaciones iraníes.",
+        "interes": "Inferencia: preservar credibilidad de protección marítima y limitar ingresos iraníes; plausible por las operaciones de bloqueo y escolta declaradas.",
+        "evidencia": "Declaraciones de CENTCOM, 16-17 de octubre; transcripción oficial de mayo."
+      },
+      {
+        "nombre": "Estados ribereños, navieras y marinos",
+        "posicion": "La OMI pide seguridad de tripulaciones y navegación sin impedimentos; no atribuye a todos los incidentes la misma causa.",
+        "interes": "Inferencia: reducir riesgo para vidas, comercio, seguros y logística. Los incidentes confirmados hacen razonable esa prioridad.",
+        "evidencia": "OMI, agosto y octubre de 2026."
+      },
+      {
+        "nombre": "Perú",
+        "posicion": "Osinergmin explica que sus precios de referencia de combustibles siguen cotizaciones internacionales; no se verificó postura oficial peruana sobre este episodio.",
+        "interes": "Inferencia: limitar volatilidad energética importada, sin afirmar que este incidente produjo un efecto concreto.",
+        "evidencia": "Osinergmin, febrero de 2026."
+      }
+    ],
+    "lectura": "La cuestión estratégica no es quién proclama dominar el estrecho, sino quién puede hacer costoso el tránsito. Una ruta puede permanecer abierta físicamente y, sin embargo, ser insegura: riesgos y seguros afectan decisiones de navieras. A la inversa, una amenaza iraní no prueba un cierre total.\n\nLa atribución de los dos incendios a minas sigue sin corroboración independiente. Los registros de la OMI documentan un patrón de inseguridad más amplio, pero no verifican por sí solos esos casos. Es esencial separar un comunicado militar de una comprobación técnica.\n\nDesde la teoría de coerción, amenazar un corredor puede imponer costos a terceros para buscar concesiones. La plausibilidad del mecanismo no demuestra que esté funcionando: habría que observar flujos, primas de seguros, capacidad de escolta, rutas y negociaciones.",
+    "peru": "Osinergmin señala que los precios de referencia mayoristas de combustibles reflejan cotizaciones internacionales, sin determinar automáticamente el precio final en grifos. Una interrupción sostenida de Ormuz podría afectar precios globales, transporte y costos de importación peruanos, dependiendo de inventarios, tipo de cambio y decisiones locales.\n\nNo se verificó que los dos incendios denunciados hayan elevado un precio concreto en Perú. Para establecerlo habría que comparar cotizaciones, reportes semanales de Osinergmin y datos de importación.",
+    "limitaciones": "No hay confirmación independiente de identidad, daños ni causa técnica de los dos petroleros. El corte OMI del 9 de octubre no valida incidentes del 17. Las cifras de CENTCOM son declaraciones estadounidenses no auditadas aquí. No se ha determinado responsabilidad jurídica por ataques individuales ni impacto cuantificado en Perú.",
+    "fuentes": [
+      {
+        "organismo": "Reuters, reproducido por gCaptain",
+        "tipo": "Versión iraní y ausencia de confirmación, 17 oct. 2026",
+        "url": "https://gcaptain.com/irans-guards-say-two-tankers-hit-mines-in-strait-of-hormuz/"
+      },
+      {
+        "organismo": "Al Jazeera / AFP",
+        "tipo": "Cobertura de alegaciones iraníes, 18 oct. 2026",
+        "url": "https://www.aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz"
+      },
+      {
+        "organismo": "Anadolu, citando al comandante de CENTCOM",
+        "tipo": "Posición militar estadounidense, 17 oct. 2026",
+        "url": "https://m.aa.com.tr/en/middle-east/us-says-iran-barred-from-maritime-trade-as-pressure-campaign-targets-oil-revenue-military-funding/4091610"
+      },
+      {
+        "organismo": "Organización Marítima Internacional",
+        "tipo": "Incidentes confirmados, corte al 9 oct. 2026",
+        "url": "https://www.imo.org/en/mediacentre/hottopics/pages/middle-east-highlighted-incidents.aspx"
+      },
+      {
+        "organismo": "Organización Marítima Internacional",
+        "tipo": "Declaración sobre Ormuz, 28 ago. 2026",
+        "url": "https://www.imo.org/en/mediacentre/secretarygeneral/pages/statement-on-the-ongoing-crisis-in-the-strait-of-hormuz.aspx"
+      },
+      {
+        "organismo": "Comando Central de Estados Unidos",
+        "tipo": "Transcripción oficial sobre operaciones marítimas, 4 may. 2026",
+        "url": "https://www.centcom.mil/MEDIA/Transcripts/Article/4477143/adm-brad-cooper-centcom-commander-conducts-a-media-conference-call/"
+      },
+      {
+        "organismo": "Osinergmin (Perú)",
+        "tipo": "Precios de referencia mayoristas, 16 feb. 2026",
+        "url": "https://www.gob.pe/institucion/osinergmin/noticias/1357411-osinergmin-informo-sobre-variacion-semanal-de-precios-de-referencia-de-combustibles-a-nivel-mayorista"
+      },
+      {
+        "organismo": "Reuters",
+        "tipo": "Cotizaciones de petróleo y tensión marítima, 19 oct. 2026",
+        "url": "https://www.reuters.com/business/energy/oil-slips-trumps-sanction-waiver-may-lead-more-russian-fuel-supplies-2026-10-18/"
+      }
+    ],
+    "cronologia": [
+      {
+        "fecha": "28 feb. 2026",
+        "evento": "Comienza guerra regional según cobertura internacional.",
+        "fuentes": [
+          1,
+          5
+        ]
+      },
+      {
+        "fecha": "28 ago. 2026",
+        "evento": "OMI advierte riesgos para tripulaciones.",
+        "fuentes": [
+          4
+        ]
+      },
+      {
+        "fecha": "9 oct. 2026",
+        "evento": "Corte OMI: 100 incidentes confirmados y 24 marinos fallecidos.",
+        "fuentes": [
+          3
+        ]
+      },
+      {
+        "fecha": "16 oct. 2026",
+        "evento": "CENTCOM afirma mantener abierta la ruta y bloquear comercio marítimo iraní.",
+        "fuentes": [
+          2
+        ]
+      },
+      {
+        "fecha": "17-18 oct. 2026",
+        "evento": "Irán difunde versión de dos incendios por minas; Reuters señala falta de confirmación.",
+        "fuentes": [
+          0,
+          1
+        ]
+      },
+      {
+        "fecha": "19 oct. 2026",
+        "evento": "Reuters informa cotizaciones de crudo en contexto de tensión, sin aislar efecto de estos incidentes.",
+        "fuentes": [
+          7
+        ]
+      }
+    ],
+    "detalles": [
+      {
+        "titulo": "Una alegación no equivale a un peritaje",
+        "texto": "Se ha documentado que Irán hizo una declaración; identidad de buques y causa de incendios requieren corroboración. La OMI registra incidentes previos, no necesariamente estos dos.",
+        "fuentes": [
+          0,
+          1,
+          3
+        ]
+      },
+      {
+        "titulo": "Ruta abierta no significa ruta segura",
+        "texto": "CENTCOM sostiene que hay navegación; Irán reivindica capacidad de castigar cruces. El control práctico se mide por tráfico, ataques, escoltas y seguros.",
+        "fuentes": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "titulo": "El canal económico hacia Perú",
+        "texto": "Un shock marítimo sostenido puede influir en precios energéticos internacionales. El efecto interno debe verificarse con referencias de Osinergmin y precios observados.",
+        "fuentes": [
+          4,
+          6,
+          7
+        ]
+      }
+    ],
+    "juridico": [
+      {
+        "titulo": "Navegación internacional",
+        "texto": "La OMI reafirma que el tránsito por estrechos internacionales no debe ser impedido ni suspendido. Esta declaración no resuelve responsabilidad por cada incidente.",
+        "fuentes": [
+          4
+        ]
+      },
+      {
+        "titulo": "Seguridad de tripulaciones",
+        "texto": "Los incidentes documentados por la OMI justifican preocupación por marinos civiles. Atribuir responsabilidad por cada ataque requiere investigaciones individuales.",
+        "fuentes": [
+          3,
+          4
+        ]
+      }
+    ],
+    "analisis_ia": {
+      "autor": "Interpretación de ELEVA, elaborada con asistencia de IA y contrastada con fuentes enlazadas",
+      "actualizado": "2026-10-19",
+      "conclusiones": [
+        {
+          "titulo": "La inseguridad marítima puede ser un instrumento de coerción",
+          "evidencia": "Irán amenaza rutas que considera no autorizadas y la OMI registra numerosos incidentes.",
+          "inferencia": "Irán podría intentar elevar costos de navegación para ganar margen negociador, aun sin cerrar toda la ruta.",
+          "fundamento": "El riesgo en un cuello de botella afecta decisiones de armadores, aseguradoras e importadores.",
+          "teoria": "Coerción estratégica y control de corredores.",
+          "limite": "Motivación inferida; los dos incendios no están corroborados.",
+          "fuentes": [
+            0,
+            1,
+            3
+          ]
+        },
+        {
+          "titulo": "La disputa incluye una batalla de credibilidad",
+          "evidencia": "CENTCOM declara ruta abierta; Irán reivindica capacidad de castigar cruces.",
+          "inferencia": "Ambos actores podrían intentar convencer a terceros de la credibilidad de sus amenazas o garantías.",
+          "fundamento": "La señalización militar afecta expectativas, pero requiere contraste con datos operativos.",
+          "teoria": "Realismo y señalización estratégica.",
+          "limite": "Ninguna declaración prueba control exclusivo; cifras estadounidenses no auditadas.",
+          "fuentes": [
+            1,
+            2,
+            5
+          ]
+        },
+        {
+          "titulo": "El efecto peruano requiere una cadena causal",
+          "evidencia": "OMI registra incidentes y Osinergmin sigue cotizaciones internacionales.",
+          "inferencia": "Una interrupción sostenida podría influir en combustibles peruanos.",
+          "fundamento": "Riesgo marítimo, flujos, precios globales, referencias mayoristas y precios locales son eslabones diferentes.",
+          "teoria": "Interdependencia y transmisión de shocks.",
+          "limite": "No se acreditó impacto peruano específico de los dos incendios.",
+          "fuentes": [
+            3,
+            4,
+            6,
+            7
+          ]
+        }
+      ]
+    },
+    "preguntas_abiertas": [
+      "¿Se publicarán nombres y números IMO de los petroleros?",
+      "¿Qué revelarán peritajes independientes?",
+      "¿Cómo cambian tráfico y primas de seguros?",
+      "¿Qué indican los siguientes reportes de Osinergmin?"
+    ],
+    "match_keywords": [
+      "oil tanker on fire after hitting mine in hormuz",
+      "two oil tankers on fire after hitting mines",
+      "strait of hormuz mines tankers",
+      "iran guards tankers mines",
+      "ormuz petroleros minas",
+      "gulf of oman tanker fire"
+    ],
+    "teorias": [
+      {
+        "nombre": "Coerción estratégica",
+        "explicacion": "Amenazar un corredor puede imponer costos sin bloqueo absoluto; no prueba autoría de un incidente.",
+        "fuentes": [
+          0,
+          3
+        ]
+      },
+      {
+        "nombre": "Realismo y señalización",
+        "explicacion": "Los relatos militares rivales sobre control deben contrastarse con resultados operativos.",
+        "fuentes": [
+          1,
+          2
+        ]
+      },
+      {
+        "nombre": "Interdependencia",
+        "explicacion": "El riesgo marítimo puede propagarse a precios energéticos de países distantes, sin efecto automático.",
+        "fuentes": [
+          4,
+          6,
+          7
+        ]
+      }
+    ],
+    "teoria": {
+      "nombre": "Coerción, señalización e interdependencia",
+      "aplicacion": "Separa alegaciones, registros independientes y escenarios económicos condicionales."
+    }
   }
 ]
