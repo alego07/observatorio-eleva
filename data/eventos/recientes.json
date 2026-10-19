@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-10-19T13:36:01.201197+00:00",
+  "created_utc": "2026-10-19T13:39:20.122008+00:00",
   "events": [
     {
       "id": "a-4c1ff0dbb7bcba44c525",
@@ -3567,6 +3567,51 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-56593e5e940862cd5fc1",
+      "fecha": "2026-10-19",
+      "titulo_fuente": "El respaldo de Trump a Netanyahu llega tarde en el incierto panorama de las elecciones en Israel",
+      "region": "Oriente Medio",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "56593e5e940862cd5fc1",
+          "titulo_original": "El respaldo de Trump a Netanyahu llega tarde en el incierto panorama de las elecciones en Israel",
+          "titulo_es": "",
+          "url": "https://elpais.com/internacional/2026-10-19/el-respaldo-de-trump-a-netanyahu-llega-tarde-en-el-incierto-panorama-de-las-elecciones-en-israel.html",
+          "fuente": "El País",
+          "pais": "España",
+          "fecha": "2026-10-19T13:15:58+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "El apoyo, tras semanas de dudas del presidente de EE UU, llega con el sentido del voto bastante decidido, a ocho días de los comicios",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "El País"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Israel"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos, Israel"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-daf5217c00fa17ba1e33",
       "fecha": "2026-10-19",
       "titulo_fuente": "Ukraine’s damage from explosions in 2026 estimated at $7.7 bln",
@@ -6958,50 +7003,6 @@
           "estado": "declaración de la fuente; corroboración independiente pendiente",
           "resumen_original": "The Special European Council will take place on 26 and 27 November 2026 in the Europa building in Brussels.",
           "resumen_es": "El Consejo Especial Europeo tendrá lugar los días 26 y 27 de noviembre de 2026 en el edificio Europa de Bruselas."
-        }
-      ],
-      "fuentes": [
-        "Noticias del Consejo de la UE"
-      ],
-      "actores_mencionados": [
-        "Unión Europea"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Unión Europea"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-ea068eddd6c72e4f4013",
-      "fecha": "2026-10-19",
-      "titulo_fuente": "EU Integrated Resolve 2026 Exercise: Enhancing EU Crisis Response Coordination",
-      "region": "Europa",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "ea068eddd6c72e4f4013",
-          "titulo_original": "EU Integrated Resolve 2026 Exercise: Enhancing EU Crisis Response Coordination",
-          "titulo_es": "EU Integrated Resolve 2026 Ejercicio: Mejorando la coordinación de la respuesta ante crisis de la UE",
-          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/19/eu-integrated-resolve-2026-exercise-enhancing-eu-crisis-response-coordination/",
-          "fuente": "Noticias del Consejo de la UE",
-          "pais": "Unión Europea",
-          "fecha": "2026-10-19T14:00:00+00:00",
-          "estado": "declaración de la fuente; corroboración independiente pendiente",
-          "resumen_original": "The European Union is carrying out the 2026 edition of its crisis management exercise - EU Integrated Resolve (EU IR26).",
-          "resumen_es": "La Unión Europea lleva a cabo la edición 2026 de su ejercicio de gestión de crisis - EU Integrated Resolve (EU IR26)."
         }
       ],
       "fuentes": [
