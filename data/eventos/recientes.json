@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-10-20T18:03:10.188945+00:00",
+  "created_utc": "2026-10-20T18:47:53.523891+00:00",
   "events": [
     {
       "id": "a-80027f842b788eca69c6",
@@ -375,6 +375,52 @@
       "motivos_seleccion": [
         "Actores relevantes: Perú",
         "Mención expresa al Perú"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-855ba719e763e6d093fd",
+      "fecha": "2026-10-20",
+      "titulo_fuente": "Russia sees US as rival at best, expects no miracles — Lavrov",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Diplomacia"
+      ],
+      "noticias": [
+        {
+          "id": "855ba719e763e6d093fd",
+          "titulo_original": "Russia sees US as rival at best, expects no miracles — Lavrov",
+          "titulo_es": "Rusia ve a Estados Unidos como rival al mejor, no espera milagros — Lavrov",
+          "url": "https://tass.com/politics/2204915",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-10-20T18:01:25+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The Russian foreign minister added that Washington is not prepared for fair competition",
+          "resumen_es": "El ministro ruso agregó que Washington no está preparado para una competencia justa"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Rusia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos, Rusia",
+        "Ámbito: Diplomacia"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6751,35 +6797,47 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-5eb0c2373439cbcd5a1c",
-      "fecha": "2026-10-19",
-      "titulo_fuente": "West Bank on verge of 'explosion': senior Palestinian official",
+      "id": "a-f9f0a5b43a9627a1db16",
+      "fecha": "2026-10-20",
+      "titulo_fuente": "UK to deploy fighter jets to protect Saudi Arabia from Houthi attacks",
       "region": "Oriente Medio",
       "temas": [
         "Seguridad y conflictos"
       ],
       "noticias": [
         {
-          "id": "5eb0c2373439cbcd5a1c",
-          "titulo_original": "West Bank on verge of 'explosion': senior Palestinian official",
-          "titulo_es": "Cisjordania a punto de 'explosión': alto funcionario palestino",
-          "url": "https://www.thehindu.com/news/international/west-bank-on-verge-of-explosion-senior-palestinian-official/article71603078.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-10-19T19:04:24+00:00",
+          "id": "f9f0a5b43a9627a1db16",
+          "titulo_original": "UK to deploy fighter jets to protect Saudi Arabia from Houthi attacks",
+          "titulo_es": "Reino Unido para desplegar aviones de combate para proteger Arabia Saudita de los ataques de Houthi",
+          "url": "https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-10-20T11:54:52+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "\"The terrorism carried out by the army and settlers, under the supervision of the Israeli government, is a prelude to a coming reaction and explosion,\" says Jibril Rajoub",
-          "resumen_es": "\"El terrorismo llevado a cabo por el ejército y los colonos, bajo la supervisión del gobierno israelí, es un preludio a una reacción y explosión venidera\", dice Jibril Rajoub"
+          "resumen_original": "RAF Typhoon fighters will fly defensive missions over cities and infrastructure, in extension of UK support for Riyadh RAF Typhoon fighters are to protect Saudi Arabia from attack by Yemen’s Houthis, flying defensive missions over the country’s cities and critical infrastructure, as western allies step up their intervention in the escalating conflict. The operation – the most significant military mission signed off by Andy Burnham as prime minist",
+          "resumen_es": "RAF Los combatientes del tifón volarán misiones defensivas sobre ciudades e infraestructura, en extensión del apoyo del Reino Unido para los combatientes del tifón de Riyadh RAF son para proteger a Arabia Saudita de los ataques de Houthis del Yemen, volando misiones defensivas sobre el conteo"
+        },
+        {
+          "id": "9354adb16c69eca46fac",
+          "titulo_original": "UK to deploy Typhoon jets to help defend Saudi Arabia from Houthi attacks",
+          "titulo_es": "Reino Unido para desplegar jets de tifón para ayudar a defender Arabia Saudita de los ataques de Houthi",
+          "url": "https://www.aljazeera.com/news/2026/10/20/uk-to-deploy-raf-fighter-jets-to-defend-saudi-arabia-from-houthi-attacks?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-10-20T11:37:43+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Ministry of Defence says warplanes will operate in 'defensive role' and not be used to attack Yemeni group.",
+          "resumen_es": "El Ministerio de Defensa dice que los aviones de guerra funcionarán en \"función defensiva\" y no serán utilizados para atacar al grupo yemení."
         }
       ],
       "fuentes": [
-        "The Hindu"
+        "Al Jazeera",
+        "The Guardian"
       ],
       "actores_mencionados": [
-        "Israel",
-        "Palestina"
+        "Arabia Saudita"
       ],
-      "fuentes_independientes": 1,
+      "fuentes_independientes": 2,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
         "nombre": "Realismo y dilema de seguridad",
@@ -6788,100 +6846,66 @@
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
+      "prioridad_orientativa": 3,
       "motivos_seleccion": [
-        "Actores relevantes: Israel",
+        "Cobertura de fuentes distintas",
         "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
     },
     {
-      "id": "a-7bc74920d9091127166f",
-      "fecha": "2026-10-19",
-      "titulo_fuente": "Russia, Iran reaffirm mutual interest in intensifying efforts within BRICS, SCO, EUAE",
-      "region": "Rusia-Ucrania",
+      "id": "a-dc11549c7cb122922500",
+      "fecha": "2026-10-20",
+      "titulo_fuente": "Australian MP Helen Haines remains in critical condition after car attack",
+      "region": "Internacional",
       "temas": [
-        "Actualidad"
+        "Seguridad y conflictos"
       ],
       "noticias": [
         {
-          "id": "7bc74920d9091127166f",
-          "titulo_original": "Russia, Iran reaffirm mutual interest in intensifying efforts within BRICS, SCO, EUAE",
-          "titulo_es": "Rusia, Irán reafirma el interés mutuo en intensificar los esfuerzos dentro de BRICS, SCO, EUAE",
-          "url": "https://tass.com/world/2204355",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-19T19:03:24+00:00",
+          "id": "dc11549c7cb122922500",
+          "titulo_original": "Australian MP Helen Haines remains in critical condition after car attack",
+          "titulo_es": "El MP de Australia Helen Haines permanece en estado crítico después del ataque del coche",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/australian-mp-helen-haines-remains-in-critical-condition-after-car-attack-2?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-10-20T11:29:35+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The current bilateral agenda was addressed in the traditionally constructive atmosphere with a focus on strengthening comprehensive strategic partnership in light of agreements reached by Presidents Vladimir Putin of Russia and Masoud Pezeshkian on Iran on the sidelines of the recent events in Kyrgyzstan and Turkmenistan",
-          "resumen_es": "El actual programa bilateral se examinó en la atmósfera tradicionalmente constructiva y se centró en el fortalecimiento de una asociación estratégica amplia a la luz de los acuerdos concertados por los Presidentes Vladimir Putin de Rusia y Masoud Pezes"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia",
-        "Irán"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Irán, Rusia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-a82a7b37be93fd589c07",
-      "fecha": "2026-10-19",
-      "titulo_fuente": "Benyamin Nétanyahou met en scène sa proximité avec Donald Trump, à une semaine des élections législatives en Israël",
-      "region": "Estados Unidos",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
+          "resumen_original": "Australian MP Helen Haines lost a leg and remains in critical condition after a car attack outside her office.",
+          "resumen_es": "El MP australiano Helen Haines perdió una pierna y permanece en estado crítico después de un ataque de coche fuera de su oficina."
+        },
         {
-          "id": "a82a7b37be93fd589c07",
-          "titulo_original": "Benyamin Nétanyahou met en scène sa proximité avec Donald Trump, à une semaine des élections législatives en Israël",
+          "id": "2091b82d940b007c97ce",
+          "titulo_original": "Australian police charge man after attack on MP Helen Haines",
           "titulo_es": "",
-          "url": "https://www.lemonde.fr/international/article/2026/10/19/benyamin-netanyahou-met-en-scene-sa-proximite-avec-donald-trump-a-une-semaine-des-elections-legislatives-en-israel_6797582_3210.html",
-          "fuente": "Le Monde",
-          "pais": "Francia",
-          "fecha": "2026-10-19T18:52:52+00:00",
+          "url": "https://www.scmp.com/news/asia/australasia/article/3371447/heroic-barber-recalls-tackling-car-attacker-australian-mp-helen-haines",
+          "fuente": "South China Morning Post",
+          "pais": "Hong Kong",
+          "fecha": "2026-10-20T03:12:46+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Dimanche, le président américain a apporté son soutien au premier ministre israélien avant les élections législatives israéliennes très disputées du 27 octobre.",
+          "resumen_original": "Australian police said they charged a man on Tuesday for what they allege was a “targeted” attack on lawmaker and former midwife Helen Haines, who suffered critical injuries. Brendan Nugent, 43, was charged with dangerous driving causing serious injury and intentionally causing serious injury, as well as the federal crime of harming a public official, Victoria police said. Nugent, from nearby Tarrawingee, was in custody and would face court on We",
           "resumen_es": ""
         }
       ],
       "fuentes": [
-        "Le Monde"
+        "Al Jazeera",
+        "South China Morning Post"
       ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "Israel"
-      ],
-      "fuentes_independientes": 1,
+      "actores_mencionados": [],
+      "fuentes_independientes": 2,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
       },
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
+      "prioridad_orientativa": 3,
       "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos, Israel"
+        "Cobertura de fuentes distintas",
+        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null

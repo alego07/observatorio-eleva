@@ -1,17 +1,33 @@
 {
-  "actualizado_utc": "2026-10-20T18:03:10.252371+00:00",
+  "actualizado_utc": "2026-10-20T18:47:53.589509+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 273,
+      "cantidad_archivada": 275,
       "nuevas_24h": 128,
-      "anteriores_24h": 100,
+      "anteriores_24h": 101,
       "dias_con_registros": 5,
-      "fecha_ultima": "2026-10-20T17:53:10+00:00",
+      "fecha_ultima": "2026-10-20T18:10:01+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "eb78c44851a1bcd0bb59",
+          "fecha": "2026-10-20T18:10:01+00:00",
+          "titulo": "Witkoff’s plans to visit Russia on October 21 confirmed — source",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2204919",
+          "traducida": false
+        },
+        {
+          "id": "855ba719e763e6d093fd",
+          "fecha": "2026-10-20T18:01:25+00:00",
+          "titulo": "Russia sees US as rival at best, expects no miracles — Lavrov",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2204915",
+          "traducida": false
+        },
         {
           "id": "d0f2cd4abf0568a2c469",
           "fecha": "2026-10-20T17:53:10+00:00",
@@ -235,35 +251,27 @@
           "fuente": "TASS",
           "url": "https://tass.com/politics/2204811",
           "traducida": false
-        },
-        {
-          "id": "420e3b17541fc1a3a981",
-          "fecha": "2026-10-20T14:48:43+00:00",
-          "titulo": "Russia capable of countering UAVs that EU is supplying en masse to Ukraine — soldier",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2204805",
-          "traducida": false
-        },
-        {
-          "id": "c995a8e0a440f63a450f",
-          "fecha": "2026-10-20T14:46:40+00:00",
-          "titulo": "Zelensky signs his own death warrant by accusing Trump of weakness — Russian lawmaker",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2204803",
-          "traducida": false
         }
       ]
     },
     {
       "id": "oriente-medio",
       "titulo": "Oriente Medio: seguridad y diplomacia",
-      "cantidad_archivada": 152,
-      "nuevas_24h": 47,
-      "anteriores_24h": 70,
+      "cantidad_archivada": 153,
+      "nuevas_24h": 44,
+      "anteriores_24h": 71,
       "dias_con_registros": 5,
-      "fecha_ultima": "2026-10-20T17:49:08+00:00",
+      "fecha_ultima": "2026-10-20T18:03:15+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "bfaf78a31b1f92c2951b",
+          "fecha": "2026-10-20T18:03:15+00:00",
+          "titulo": "Enriched uranium to remain in Iran — top security official",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2204913",
+          "traducida": false
+        },
         {
           "id": "51f772a028f9c2c18feb",
           "fecha": "2026-10-20T17:49:08+00:00",
@@ -495,14 +503,6 @@
           "fuente": "Al Jazeera",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/10-20-calgary-opera-palestine-clip?traffic_source=rss",
           "traducida": false
-        },
-        {
-          "id": "4da9a05bf058c23b1df5",
-          "fecha": "2026-10-20T09:15:40+00:00",
-          "titulo": "Oil stocks in US Strategic Petroleum Reserve fall to lowest level since 1982",
-          "fuente": "TASS",
-          "url": "https://tass.com/economy/2204541",
-          "traducida": false
         }
       ]
     },
@@ -510,8 +510,8 @@
       "id": "union-europea",
       "titulo": "Unión Europea y relaciones exteriores",
       "cantidad_archivada": 115,
-      "nuevas_24h": 40,
-      "anteriores_24h": 45,
+      "nuevas_24h": 38,
+      "anteriores_24h": 46,
       "dias_con_registros": 5,
       "fecha_ultima": "2026-10-20T17:22:05+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
