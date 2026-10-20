@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-10-20T15:23:50.038956+00:00",
+  "created_utc": "2026-10-20T15:41:16.399995+00:00",
   "events": [
     {
       "id": "a-485005b24caf2064986f",
@@ -380,6 +380,53 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-67d7e94f3f6d5a072a23",
+      "fecha": "2026-10-20",
+      "titulo_fuente": "Zelensky does everything he can to restore strained relations with Trump — portal",
+      "region": "Estados Unidos",
+      "temas": [
+        "Diplomacia",
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "67d7e94f3f6d5a072a23",
+          "titulo_original": "Zelensky does everything he can to restore strained relations with Trump — portal",
+          "titulo_es": "Zelensky hace todo lo que puede para restaurar relaciones tensas con Trump — portal",
+          "url": "https://tass.com/world/2204829",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-10-20T15:18:34+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "According to the report, over the past 24 hours Zelensky held talks with US Secretary of State Marco Rubio, met online with a group of US senators, and spoke with representatives of the defense company Lockheed Martin",
+          "resumen_es": "Según el informe, en las últimas 24 horas Zelensky mantuvo conversaciones con el Secretario de Estado estadounidense Marco Rubio, se reunió en línea con un grupo de senadores estadounidenses, y habló con representantes de la compañía de defensa Lockheed Martin"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Ucrania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos, Ucrania",
+        "Ámbito: Diplomacia, Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-8a4d7890331025a22f99",
       "fecha": "2026-10-20",
       "titulo_fuente": "Will Xi, Trump, Putin meet at Apec? First, they must agree on an agenda",
@@ -625,14 +672,14 @@
         {
           "id": "9995dd6b2b73e9984658",
           "titulo_original": "China’s exports of passenger cars to Russia double to 806,000 units in January-September",
-          "titulo_es": "",
+          "titulo_es": "Las exportaciones chinas de automóviles de pasajeros a Rusia duplican a 806.000 unidades en enero-septiembre",
           "url": "https://tass.com/economy/2204783",
           "fuente": "TASS",
           "pais": "Rusia",
           "fecha": "2026-10-20T14:07:14+00:00",
           "estado": "publicación periodística; corroboración pendiente",
           "resumen_original": "In value terms, the export of cars from China to Russia reached $10.67 bln in the reporting period, which is 2.1 times higher than in the same period last year",
-          "resumen_es": ""
+          "resumen_es": "En términos de valor, la exportación de automóviles de China a Rusia alcanzó 10,67 libras esterlinas en el período que abarca el informe, que es 2,1 veces mayor que en el mismo período del año pasado"
         }
       ],
       "fuentes": [
@@ -671,14 +718,14 @@
         {
           "id": "9241964b0248f0d9680f",
           "titulo_original": "Lifting of sanctions on Russian diesel helpful to stabilize market — Matviyenko",
-          "titulo_es": "",
+          "titulo_es": "El levantamiento de sanciones contra el diesel ruso útil para estabilizar el mercado — Matviyenko",
           "url": "https://tass.com/economy/2204777",
           "fuente": "TASS",
           "pais": "Rusia",
           "fecha": "2026-10-20T14:04:59+00:00",
           "estado": "publicación periodística; corroboración pendiente",
           "resumen_original": "\"Naturally, this is a benefit for American diesel and fuel consumers,\" Federation Council Speaker Valentina Matviyenko added",
-          "resumen_es": ""
+          "resumen_es": "\"Naturalmente, esto es un beneficio para los consumidores estadounidenses de diesel y combustible\", agregó el presidente del Consejo de la Federación Valentina Matviyenko"
         }
       ],
       "fuentes": [
@@ -2522,98 +2569,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-173aac0bb03454a4c362",
-      "fecha": "2026-10-19",
-      "titulo_fuente": "US behavior is main cause for instability in Middle East — Iranian top diplomat",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Diplomacia"
-      ],
-      "noticias": [
-        {
-          "id": "173aac0bb03454a4c362",
-          "titulo_original": "US behavior is main cause for instability in Middle East — Iranian top diplomat",
-          "titulo_es": "",
-          "url": "https://tass.com/world/2204279",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-19T15:29:29+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Abbas Araghchi made this statement during a news conference following his meeting with Russian Foreign Minister Sergey Lavrov",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia",
-        "Irán"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Irán, Rusia",
-        "Ámbito: Diplomacia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-8f3fcc424710f1aaf8d8",
-      "fecha": "2026-10-19",
-      "titulo_fuente": "Moscow, Tehran discuss Bushehr NPP construction — deputy PM Overchuk",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Energía y clima"
-      ],
-      "noticias": [
-        {
-          "id": "8f3fcc424710f1aaf8d8",
-          "titulo_original": "Moscow, Tehran discuss Bushehr NPP construction — deputy PM Overchuk",
-          "titulo_es": "",
-          "url": "https://tass.com/economy/2204267",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-19T15:17:58+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The sides discussed bilateral cooperation in the energy sector",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia",
-        "Irán"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia y gobernanza global",
-        "pregunta": "¿Cómo se distribuyen los costos de coordinación y los incentivos para cooperar?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Irán, Rusia",
-        "Ámbito: Energía y clima"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-2913505e305dd17f31c9",
       "fecha": "2026-10-20",
       "titulo_fuente": "Russia’s Federation Council ties EU protests to deep socio-economic crisis — senator",
@@ -2943,14 +2898,14 @@
         {
           "id": "a89293a500d88abb63bf",
           "titulo_original": "Iran downs US MQ-9 drone over Strait of Hormuz — IRGC",
-          "titulo_es": "",
+          "titulo_es": "Irán derriba a US MQ-9 drone sobre el estrecho de Hormuz — IRGC",
           "url": "https://tass.com/world/2204779",
           "fuente": "TASS",
           "pais": "Rusia",
           "fecha": "2026-10-20T14:04:49+00:00",
           "estado": "publicación periodística; corroboración pendiente",
           "resumen_original": "Iran has taken down more than 50 MQ-9 drones since the outbreak of the conflict",
-          "resumen_es": ""
+          "resumen_es": "Irán ha derribado más de 50 drones MQ-9 desde el estallido del conflicto"
         }
       ],
       "fuentes": [
@@ -2988,14 +2943,14 @@
         {
           "id": "64a7f33ba7a8c02fd9f5",
           "titulo_original": "Kiev continues strikes on Alyoshki despite claiming concern for residents’ fate — MFA",
-          "titulo_es": "",
+          "titulo_es": "Kiev continúa huelgas en Alyoshki a pesar de reclamar preocupación por el destino de los residentes - MFA",
           "url": "https://tass.com/politics/2204775",
           "fuente": "TASS",
           "pais": "Rusia",
           "fecha": "2026-10-20T14:02:58+00:00",
           "estado": "publicación periodística; corroboración pendiente",
           "resumen_original": "During daylight hours, 733 rounds of cannon and mortar fire and 556 drone strikes by the Ukrainian armed forces were recorded in Alyoshki, Russian Foreign Ministry Ambassador-at-Large Rodion Miroshnik said",
-          "resumen_es": ""
+          "resumen_es": "Durante las horas del día, se registraron 733 disparos de cañón y mortero y 556 ataques de aviones no tripulados por las fuerzas armadas ucranianas en Alyoshki, el Embajador del Ministerio de Relaciones Exteriores ruso Rodion Miroshnik, dijo que"
         }
       ],
       "fuentes": [
@@ -6883,6 +6838,64 @@
       "motivos_seleccion": [
         "Actores relevantes: Rusia",
         "Ámbito: Diplomacia"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-f9f0a5b43a9627a1db16",
+      "fecha": "2026-10-20",
+      "titulo_fuente": "UK to deploy fighter jets to protect Saudi Arabia from Houthi attacks",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "f9f0a5b43a9627a1db16",
+          "titulo_original": "UK to deploy fighter jets to protect Saudi Arabia from Houthi attacks",
+          "titulo_es": "Reino Unido para desplegar aviones de combate para proteger Arabia Saudita de los ataques de Houthi",
+          "url": "https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-10-20T11:54:52+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "RAF Typhoon fighters will fly defensive missions over cities and infrastructure, in extension of UK support for Riyadh RAF Typhoon fighters are to protect Saudi Arabia from attack by Yemen’s Houthis, flying defensive missions over the country’s cities and critical infrastructure, as western allies step up their intervention in the escalating conflict. The operation – the most significant military mission signed off by Andy Burnham as prime minist",
+          "resumen_es": "RAF Los combatientes del tifón volarán misiones defensivas sobre ciudades e infraestructura, en extensión del apoyo del Reino Unido para los combatientes del tifón de Riyadh RAF son para proteger a Arabia Saudita de los ataques de Houthis del Yemen, volando misiones defensivas sobre el conteo"
+        },
+        {
+          "id": "9354adb16c69eca46fac",
+          "titulo_original": "UK to deploy Typhoon jets to help defend Saudi Arabia from Houthi attacks",
+          "titulo_es": "Reino Unido para desplegar jets de tifón para ayudar a defender Arabia Saudita de los ataques de Houthi",
+          "url": "https://www.aljazeera.com/news/2026/10/20/uk-to-deploy-raf-fighter-jets-to-defend-saudi-arabia-from-houthi-attacks?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-10-20T11:37:43+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Ministry of Defence says warplanes will operate in 'defensive role' and not be used to attack Yemeni group.",
+          "resumen_es": "El Ministerio de Defensa dice que los aviones de guerra funcionarán en \"función defensiva\" y no serán utilizados para atacar al grupo yemení."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera",
+        "The Guardian"
+      ],
+      "actores_mencionados": [
+        "Arabia Saudita"
+      ],
+      "fuentes_independientes": 2,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 3,
+      "motivos_seleccion": [
+        "Cobertura de fuentes distintas",
+        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null

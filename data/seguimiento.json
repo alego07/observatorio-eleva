@@ -1,17 +1,41 @@
 {
-  "actualizado_utc": "2026-10-20T15:23:50.093863+00:00",
+  "actualizado_utc": "2026-10-20T15:41:16.467356+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 250,
-      "nuevas_24h": 121,
-      "anteriores_24h": 95,
+      "cantidad_archivada": 253,
+      "nuevas_24h": 120,
+      "anteriores_24h": 98,
       "dias_con_registros": 5,
-      "fecha_ultima": "2026-10-20T15:14:00+00:00",
+      "fecha_ultima": "2026-10-20T15:33:19+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "c5b5ddcac30bbd0e918f",
+          "fecha": "2026-10-20T15:33:19+00:00",
+          "titulo": "Brent price moves to negative territory on London’s ICE losing over 3%",
+          "fuente": "TASS",
+          "url": "https://tass.com/economy/2204847",
+          "traducida": false
+        },
+        {
+          "id": "4b5024126370df32bc98",
+          "fecha": "2026-10-20T15:25:46+00:00",
+          "titulo": "Severstal expects metal consumption in Russia to lose 0.5% this year",
+          "fuente": "TASS",
+          "url": "https://tass.com/economy/2204831",
+          "traducida": false
+        },
+        {
+          "id": "67d7e94f3f6d5a072a23",
+          "fecha": "2026-10-20T15:18:34+00:00",
+          "titulo": "Zelensky does everything he can to restore strained relations with Trump — portal",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2204829",
+          "traducida": false
+        },
         {
           "id": "a4238495ee9e67bf2210",
           "fecha": "2026-10-20T15:14:00+00:00",
@@ -227,43 +251,35 @@
           "fuente": "TASS",
           "url": "https://tass.com/economy/2204753",
           "traducida": false
-        },
-        {
-          "id": "5aee2b11d20652eb0948",
-          "fecha": "2026-10-20T13:16:01+00:00",
-          "titulo": "Governor announces plans to increase cargo handling at Far Eastern ports to 300 mln tons",
-          "fuente": "TASS",
-          "url": "https://tass.com/economy/2204747",
-          "traducida": false
-        },
-        {
-          "id": "cd4467868be0e84680cd",
-          "fecha": "2026-10-20T13:13:12+00:00",
-          "titulo": "Russia’s antitrust watchdog opens 70 fuel market cases this year",
-          "fuente": "TASS",
-          "url": "https://tass.com/economy/2204751",
-          "traducida": false
-        },
-        {
-          "id": "d78cf3b462329bc7c652",
-          "fecha": "2026-10-20T13:09:10+00:00",
-          "titulo": "Russian stock market all-time high since June 2026",
-          "fuente": "TASS",
-          "url": "https://tass.com/economy/2204749",
-          "traducida": false
         }
       ]
     },
     {
       "id": "oriente-medio",
       "titulo": "Oriente Medio: seguridad y diplomacia",
-      "cantidad_archivada": 138,
-      "nuevas_24h": 49,
+      "cantidad_archivada": 140,
+      "nuevas_24h": 50,
       "anteriores_24h": 68,
       "dias_con_registros": 5,
-      "fecha_ultima": "2026-10-20T14:45:15+00:00",
+      "fecha_ultima": "2026-10-20T15:33:10+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "dcaa767f3d1479ba2fff",
+          "fecha": "2026-10-20T15:33:10+00:00",
+          "titulo": "Mecca Agreement is not alternative to NATO, open to other countries — Erdogan’s party",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2204843",
+          "traducida": false
+        },
+        {
+          "id": "c66158262bde6d87afce",
+          "fecha": "2026-10-20T15:19:17+00:00",
+          "titulo": "Eastern Libya parliament approves 2019 maritime deal with Turkiye",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/20/eastern-libya-parliament-approves-maritime-deal-with-turkey-lifts-2020-boy?traffic_source=rss",
+          "traducida": false
+        },
         {
           "id": "1bbb6baeeb5b53cd8c0e",
           "fecha": "2026-10-20T14:45:15+00:00",
@@ -486,22 +502,6 @@
           "titulo": "Russia, Iran reaffirm mutual interest in intensifying efforts within BRICS, SCO, EUAE",
           "fuente": "TASS",
           "url": "https://tass.com/world/2204355",
-          "traducida": false
-        },
-        {
-          "id": "a82a7b37be93fd589c07",
-          "fecha": "2026-10-19T18:52:52+00:00",
-          "titulo": "Benyamin Nétanyahou met en scène sa proximité avec Donald Trump, à une semaine des élections législatives en Israël",
-          "fuente": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/10/19/benyamin-netanyahou-met-en-scene-sa-proximite-avec-donald-trump-a-une-semaine-des-elections-legislatives-en-israel_6797582_3210.html",
-          "traducida": false
-        },
-        {
-          "id": "8d9cef7c1c4846ec7ae1",
-          "fecha": "2026-10-19T18:21:06+00:00",
-          "titulo": "Netanyahu’s new security doctrine: Regional strategy or election ploy?",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/19/netanyahus-new-security-doctrine-regional-strategy-or-election-ploy?traffic_source=rss",
           "traducida": false
         }
       ]
