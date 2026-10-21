@@ -1,23 +1,71 @@
 {
-  "actualizado_utc": "2026-10-21T15:38:12.145069+00:00",
+  "actualizado_utc": "2026-10-21T15:59:32.560495+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 336,
-      "nuevas_24h": 83,
-      "anteriores_24h": 120,
+      "cantidad_archivada": 342,
+      "nuevas_24h": 88,
+      "anteriores_24h": 117,
       "dias_con_registros": 6,
-      "fecha_ultima": "2026-10-21T15:30:49+00:00",
+      "fecha_ultima": "2026-10-21T15:56:48+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "5c5442bd70151ddf8753",
+          "fecha": "2026-10-21T15:56:48+00:00",
+          "titulo": "Russian forces strike logistics center in Rovno used by Ukrainian army",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2205753",
+          "traducida": false
+        },
+        {
+          "id": "570dcb482d560b4e2e86",
+          "fecha": "2026-10-21T15:45:46+00:00",
+          "titulo": "Skepticism regarding support for Ukraine grows in EU — Russian delegation in Vienna",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2205751",
+          "traducida": false
+        },
+        {
+          "id": "1516b8f2d98aa5c5c8ed",
+          "fecha": "2026-10-21T15:40:53+00:00",
+          "titulo": "Russia-US-Ukraine talks in Abu Dhabi expected to involve experts — Kremlin aide",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2205747",
+          "traducida": false
+        },
+        {
+          "id": "d6873e49b99c59525883",
+          "fecha": "2026-10-21T15:36:46+00:00",
+          "titulo": "Liberation of Yulyevka continues Russian paratroopers’ glorious traditions — defense chief",
+          "fuente": "TASS",
+          "url": "https://tass.com/defense/2205737",
+          "traducida": false
+        },
+        {
+          "id": "d6563c51000bee0af046",
+          "fecha": "2026-10-21T15:35:20+00:00",
+          "titulo": "Russian delegation to trilateral talks may include Kremlin aide, military officers",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2205735",
+          "traducida": false
+        },
         {
           "id": "be1a3628d40c92a5311f",
           "fecha": "2026-10-21T15:30:49+00:00",
           "titulo": "Bank of Russia purchases yuan worth $146 mln with settlements on October 20",
           "fuente": "TASS",
           "url": "https://tass.com/economy/2205727",
+          "traducida": false
+        },
+        {
+          "id": "7a441bdffafc2e0d49fd",
+          "fecha": "2026-10-21T15:24:58+00:00",
+          "titulo": "Putin orders release of jailed American as he meets Trump envoy for Ukraine talks",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release",
           "traducida": false
         },
         {
@@ -203,54 +251,6 @@
           "fuente": "TASS",
           "url": "https://tass.com/politics/2205515",
           "traducida": false
-        },
-        {
-          "id": "b78cbd1d15c4d76e394e",
-          "fecha": "2026-10-21T13:11:48+00:00",
-          "titulo": "Russia's recruitment of foreign fighters is exploitative: UK statement to the OSCE",
-          "fuente": "GOV.UK FCDO",
-          "url": "https://www.gov.uk/government/speeches/russias-recruitment-of-foreign-fighters-is-exploitative-uk-statement-to-the-osce",
-          "traducida": false
-        },
-        {
-          "id": "c30d9e5352fb68985a4f",
-          "fecha": "2026-10-21T13:04:16+00:00",
-          "titulo": "FSB detains German citizen who served in Ukrainian armed forces — press office",
-          "fuente": "TASS",
-          "url": "https://tass.com/society/2205481",
-          "traducida": false
-        },
-        {
-          "id": "e2d008417bd9e10b268b",
-          "fecha": "2026-10-21T13:00:21+00:00",
-          "titulo": "Russian seaport capacity set to increase by 108 million tonnes by 2030",
-          "fuente": "TASS",
-          "url": "https://tass.com/economy/2205479",
-          "traducida": false
-        },
-        {
-          "id": "656658a430f2c4633f1e",
-          "fecha": "2026-10-21T13:00:14+00:00",
-          "titulo": "Is China a Russia-allied Arctic threat to Europe or a potential polar partner?",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3371670/china-russia-allied-arctic-threat-europe-or-potential-polar-partner",
-          "traducida": false
-        },
-        {
-          "id": "00dcd30d317ae4f202ec",
-          "fecha": "2026-10-21T12:53:58+00:00",
-          "titulo": "FACTBOX: Release of American citizen Stephen Hubbard convicted in Russia",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2205477",
-          "traducida": false
-        },
-        {
-          "id": "114ede866db74f65ec8b",
-          "fecha": "2026-10-21T12:47:46+00:00",
-          "titulo": "Japan-US exercise Keen Sword poses security risks to Russia — MFA",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2205467",
-          "traducida": false
         }
       ]
     },
@@ -258,8 +258,8 @@
       "id": "oriente-medio",
       "titulo": "Oriente Medio: seguridad y diplomacia",
       "cantidad_archivada": 183,
-      "nuevas_24h": 43,
-      "anteriores_24h": 50,
+      "nuevas_24h": 42,
+      "anteriores_24h": 47,
       "dias_con_registros": 6,
       "fecha_ultima": "2026-10-21T15:30:13+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -759,11 +759,263 @@
       ]
     },
     {
+      "id": "india-asia",
+      "titulo": "India y Asia-Pacífico",
+      "cantidad_archivada": 63,
+      "nuevas_24h": 11,
+      "anteriores_24h": 23,
+      "dias_con_registros": 6,
+      "fecha_ultima": "2026-10-21T15:26:25+00:00",
+      "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
+      "publicaciones": [
+        {
+          "id": "f87e914b52dcb5be4e68",
+          "fecha": "2026-10-21T15:26:25+00:00",
+          "titulo": "Indian court orders release of two leaders of Cockroach movement",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/21/india-cockroach-movement-leaders-released-protests-government-crackdown",
+          "traducida": false
+        },
+        {
+          "id": "114ede866db74f65ec8b",
+          "fecha": "2026-10-21T12:47:46+00:00",
+          "titulo": "Japan-US exercise Keen Sword poses security risks to Russia — MFA",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2205467",
+          "traducida": false
+        },
+        {
+          "id": "4d7d1a7d2d9d4283c174",
+          "fecha": "2026-10-21T10:35:00+00:00",
+          "titulo": "Pakistan-Taliban conflict: How India could benefit from shifting regional dynamics",
+          "fuente": "Deutsche Welle",
+          "url": "https://www.dw.com/en/pakistan-taliban-conflict-how-india-could-benefit-from-shifting-regional-dynamics/a-79721426?maca=en-rss-en-world-4025-rdf",
+          "traducida": false
+        },
+        {
+          "id": "0677014e5f7a4ac3c488",
+          "fecha": "2026-10-21T10:30:06+00:00",
+          "titulo": "Why US Secretary of State Rubio is skipping New Delhi for an Indian oil refinery",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/week-asia/politics/article/3371651/why-us-secretary-state-rubio-skipping-delhi-indian-oil-refinery",
+          "traducida": false
+        },
+        {
+          "id": "cec8ce7bad6a378d254d",
+          "fecha": "2026-10-21T09:52:56+00:00",
+          "titulo": "Marco Rubio arrives in Jamnagar to visit Reliance refinery",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/gujarat/marco-rubio-jamnagar-reliance-refinery-october-21/article71606843.ece",
+          "traducida": false
+        },
+        {
+          "id": "cc15a748b46bc6500d07",
+          "fecha": "2026-10-21T05:49:47+00:00",
+          "titulo": "What are the deal contours of India-New Zealand FTA?",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/business/Economy/what-are-the-deal-contours-of-india-new-zealand-fta/article71606245.ece",
+          "traducida": false
+        },
+        {
+          "id": "9eb12df44288a666d2f9",
+          "fecha": "2026-10-21T05:36:55+00:00",
+          "titulo": "India opposes attempts to portray world’s largest democracy negatively using unverified allegations at UN",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/india-opposes-attempts-to-portray-worlds-largest-democracy-negatively-using-unverified-allegations-at-un/article71606235.ece",
+          "traducida": false
+        },
+        {
+          "id": "607588f9c0d3f4137b87",
+          "fecha": "2026-10-21T04:46:08+00:00",
+          "titulo": "India’s voter roll overhaul fuels citizenship fears: ‘what if they ask us to leave?’",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/asia/south-asia/article/3371589/indias-voter-roll-overhaul-fuels-citizenship-fears-what-if-they-ask-us-leave",
+          "traducida": false
+        },
+        {
+          "id": "b8f8ca6cff1d3da8e63e",
+          "fecha": "2026-10-21T03:22:10+00:00",
+          "titulo": "India, U.S. trade deal to be much different: Donald Trump",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/india-us-trade-deal-to-be-much-different-donald-trump/article71606121.ece",
+          "traducida": false
+        },
+        {
+          "id": "5c1d98472d2a19e618b7",
+          "fecha": "2026-10-21T01:18:25+00:00",
+          "titulo": "Rubio says India-U.S. trade deal close, urges New Delhi to boost U.S. energy, defence buys",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/india-us-talks-push-energy-defence-cooperation/article71606041.ece",
+          "traducida": false
+        },
+        {
+          "id": "1b67f20eb1583e339d91",
+          "fecha": "2026-10-20T16:12:30+00:00",
+          "titulo": "China close to matching US spending on ‘new way of war’, Republican senator warns",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3371555/china-close-matching-us-spending-new-way-war-republican-senator-warns",
+          "traducida": false
+        },
+        {
+          "id": "94e5c51049c35b3b4808",
+          "fecha": "2026-10-20T15:04:00+00:00",
+          "titulo": "Who are the women powering India's youth-led protests?",
+          "fuente": "Deutsche Welle",
+          "url": "https://www.dw.com/en/who-are-the-women-powering-india-s-youth-led-protests/a-79709824?maca=en-rss-en-world-4025-rdf",
+          "traducida": false
+        },
+        {
+          "id": "c491ffb670d1a65aacaf",
+          "fecha": "2026-10-20T13:00:08+00:00",
+          "titulo": "Au Japon, Toru Dance fait valser les clichés sur le « salaryman » nippon, réputé discipliné et sans fantaisie",
+          "fuente": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/10/20/au-japon-toru-dance-fait-valser-les-cliches-sur-le-salaryman-nippon-repute-discipline-et-sans-fantaisie_6797920_3234.html",
+          "traducida": false
+        },
+        {
+          "id": "6564b5974fe7a291d840",
+          "fecha": "2026-10-20T12:37:06+00:00",
+          "titulo": "Why Rubio is visiting Reliance’s oil refinery in India, the world’s largest",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/20/why-rubio-is-visiting-reliances-oil-refinery-in-india-the-worlds-largest?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "d1f8e24c9b8c208063cc",
+          "fecha": "2026-10-20T12:00:07+00:00",
+          "titulo": "Chinese military vessels and spy drones track Keen Sword war games off Japan",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/politics/article/3371525/chinese-military-vessels-and-spy-drones-track-keen-sword-war-games-japan",
+          "traducida": false
+        },
+        {
+          "id": "4b100bf56817d4f7f210",
+          "fecha": "2026-10-20T11:43:36+00:00",
+          "titulo": "India’s record US$108b Jio IPO tests market faith as Musk rivalry heats up",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/week-asia/economics/article/3371536/indias-record-us108b-jio-ipo-tests-market-faith-musk-rivalry-heats",
+          "traducida": false
+        },
+        {
+          "id": "524c5c29b4e473aa0b50",
+          "fecha": "2026-10-20T11:27:10+00:00",
+          "titulo": "Rubio says U.S. to discuss refining Venezuelan crude with Reliance, adds India made ‘substantial progress’ in diversifying energy supplies",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/business/Economy/marco-rubio-oil-purchases-india-mumbai-october-20-2026/article71604269.ece",
+          "traducida": false
+        },
+        {
+          "id": "a68c4c6c2b492443bd21",
+          "fecha": "2026-10-20T10:53:01+00:00",
+          "titulo": "France’s growing debt woes: How bond markets set countries’ borrowing costs",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/10/20/frances-growing-debt-woes-how-bond-markets-set-countries-borrowing-costs?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "76f9f2087139379e1b97",
+          "fecha": "2026-10-20T10:47:23+00:00",
+          "titulo": "Rubio lands in Mumbai; set to meet Jaishankar today",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/marco-rubio-mumbai-visit-october-20-2026/article71603994.ece",
+          "traducida": false
+        },
+        {
+          "id": "8d48becbd026e2ae7b1c",
+          "fecha": "2026-10-20T09:53:27+00:00",
+          "titulo": "Billionaire Mukesh Ambani launches India’s biggest-ever IPO",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/business/2026/oct/20/mukesh-ambani-jio-platforms-ipo-india-stock-market",
+          "traducida": false
+        },
+        {
+          "id": "eb5fc2894d85730b73eb",
+          "fecha": "2026-10-20T08:47:30+00:00",
+          "titulo": "India-New Zealand FTA comes into force; new visa categories for Indians, zero-duty access for exports",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/business/Economy/india-new-zealand-fta-comes-into-force-october-20-2026/article71603429.ece",
+          "traducida": false
+        },
+        {
+          "id": "9b192cc5676b7fc17e3d",
+          "fecha": "2026-10-20T08:00:10+00:00",
+          "titulo": "En Inde, l’impasse du premier ministre Modi confronté à la colère de la jeunesse",
+          "fuente": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/10/20/en-inde-l-impasse-du-premier-ministre-modi-confronte-a-la-colere-de-la-jeunesse_6797886_3232.html",
+          "traducida": false
+        },
+        {
+          "id": "c88b2c51c9e2fa54ad0f",
+          "fecha": "2026-10-20T07:00:58+00:00",
+          "titulo": "Student sent back to China over Japanese rising sun flag incident in Russia",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3371475/student-sent-back-china-over-japanese-rising-sun-flag-incident-russia",
+          "traducida": false
+        },
+        {
+          "id": "a0c9fe64f5c5463c3058",
+          "fecha": "2026-10-20T06:30:18+00:00",
+          "titulo": "She was harassed for crude remarks about Modi at a Cockroach protest. Now she can’t leave home",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/19/this-is-india-student-protests-abuse-modi-cockroach-protests",
+          "traducida": false
+        },
+        {
+          "id": "bf33b38c688a02d69fa2",
+          "fecha": "2026-10-20T06:29:19+00:00",
+          "titulo": "India asks its nationals in Italy to exercise caution, avoid crowded areas amid protests",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/india-asks-its-nationals-in-italy-to-exercise-caution-avoid-crowded-areas-amid-protests/article71603147.ece",
+          "traducida": false
+        },
+        {
+          "id": "df81246e9f8ed03e8d70",
+          "fecha": "2026-10-20T05:31:08+00:00",
+          "titulo": "India voices concern over UN's liquidity situation in 2026, says unpaid assessment are at ‘unacceptably high levels’",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/india-voices-concern-over-uns-liquidity-situation-in-2026/article71603326.ece",
+          "traducida": false
+        },
+        {
+          "id": "1628dbdee013fa929b9c",
+          "fecha": "2026-10-20T04:08:33+00:00",
+          "titulo": "Japan launches historic mission to bring back Mars moon samples",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/japan-launches-historic-mission-to-bring-back-mars-moon-samples?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "3c79abceeb77138d7f11",
+          "fecha": "2026-10-20T04:00:09+00:00",
+          "titulo": "China’s new 0.1-nanometre electron microscope ready to challenge US and Japan",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/science/article/3371401/chinas-new-01-nanometre-electron-microscope-ready-challenge-us-and-japan",
+          "traducida": false
+        },
+        {
+          "id": "9cb2d3bea4812de76ccf",
+          "fecha": "2026-10-20T03:15:51+00:00",
+          "titulo": "Japan successfully launches probe in historic Mars moon mission",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/japan-successfully-launches-probe-in-historic-mars-moon-mission/article71603095.ece",
+          "traducida": false
+        },
+        {
+          "id": "851084975c288964edd7",
+          "fecha": "2026-10-20T03:11:35+00:00",
+          "titulo": "Two Indian nationals among 28 charged with election fraud in California",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/two-indian-nationals-among-28-charged-with-election-fraud-in-california/article71603104.ece",
+          "traducida": false
+        }
+      ]
+    },
+    {
       "id": "suramerica",
       "titulo": "Sudamérica: integración y política exterior",
       "cantidad_archivada": 32,
-      "nuevas_24h": 12,
-      "anteriores_24h": 7,
+      "nuevas_24h": 11,
+      "anteriores_24h": 8,
       "dias_con_registros": 6,
       "fecha_ultima": "2026-10-21T15:30:37+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -1011,258 +1263,6 @@
       ]
     },
     {
-      "id": "india-asia",
-      "titulo": "India y Asia-Pacífico",
-      "cantidad_archivada": 62,
-      "nuevas_24h": 10,
-      "anteriores_24h": 23,
-      "dias_con_registros": 6,
-      "fecha_ultima": "2026-10-21T12:47:46+00:00",
-      "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
-      "publicaciones": [
-        {
-          "id": "114ede866db74f65ec8b",
-          "fecha": "2026-10-21T12:47:46+00:00",
-          "titulo": "Japan-US exercise Keen Sword poses security risks to Russia — MFA",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2205467",
-          "traducida": false
-        },
-        {
-          "id": "4d7d1a7d2d9d4283c174",
-          "fecha": "2026-10-21T10:35:00+00:00",
-          "titulo": "Pakistan-Taliban conflict: How India could benefit from shifting regional dynamics",
-          "fuente": "Deutsche Welle",
-          "url": "https://www.dw.com/en/pakistan-taliban-conflict-how-india-could-benefit-from-shifting-regional-dynamics/a-79721426?maca=en-rss-en-world-4025-rdf",
-          "traducida": false
-        },
-        {
-          "id": "0677014e5f7a4ac3c488",
-          "fecha": "2026-10-21T10:30:06+00:00",
-          "titulo": "Why US Secretary of State Rubio is skipping New Delhi for an Indian oil refinery",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/week-asia/politics/article/3371651/why-us-secretary-state-rubio-skipping-delhi-indian-oil-refinery",
-          "traducida": false
-        },
-        {
-          "id": "cec8ce7bad6a378d254d",
-          "fecha": "2026-10-21T09:52:56+00:00",
-          "titulo": "Marco Rubio arrives in Jamnagar to visit Reliance refinery",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/gujarat/marco-rubio-jamnagar-reliance-refinery-october-21/article71606843.ece",
-          "traducida": false
-        },
-        {
-          "id": "cc15a748b46bc6500d07",
-          "fecha": "2026-10-21T05:49:47+00:00",
-          "titulo": "What are the deal contours of India-New Zealand FTA?",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/business/Economy/what-are-the-deal-contours-of-india-new-zealand-fta/article71606245.ece",
-          "traducida": false
-        },
-        {
-          "id": "9eb12df44288a666d2f9",
-          "fecha": "2026-10-21T05:36:55+00:00",
-          "titulo": "India opposes attempts to portray world’s largest democracy negatively using unverified allegations at UN",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/india-opposes-attempts-to-portray-worlds-largest-democracy-negatively-using-unverified-allegations-at-un/article71606235.ece",
-          "traducida": false
-        },
-        {
-          "id": "607588f9c0d3f4137b87",
-          "fecha": "2026-10-21T04:46:08+00:00",
-          "titulo": "India’s voter roll overhaul fuels citizenship fears: ‘what if they ask us to leave?’",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/asia/south-asia/article/3371589/indias-voter-roll-overhaul-fuels-citizenship-fears-what-if-they-ask-us-leave",
-          "traducida": false
-        },
-        {
-          "id": "b8f8ca6cff1d3da8e63e",
-          "fecha": "2026-10-21T03:22:10+00:00",
-          "titulo": "India, U.S. trade deal to be much different: Donald Trump",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/india-us-trade-deal-to-be-much-different-donald-trump/article71606121.ece",
-          "traducida": false
-        },
-        {
-          "id": "5c1d98472d2a19e618b7",
-          "fecha": "2026-10-21T01:18:25+00:00",
-          "titulo": "Rubio says India-U.S. trade deal close, urges New Delhi to boost U.S. energy, defence buys",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/india-us-talks-push-energy-defence-cooperation/article71606041.ece",
-          "traducida": false
-        },
-        {
-          "id": "1b67f20eb1583e339d91",
-          "fecha": "2026-10-20T16:12:30+00:00",
-          "titulo": "China close to matching US spending on ‘new way of war’, Republican senator warns",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3371555/china-close-matching-us-spending-new-way-war-republican-senator-warns",
-          "traducida": false
-        },
-        {
-          "id": "94e5c51049c35b3b4808",
-          "fecha": "2026-10-20T15:04:00+00:00",
-          "titulo": "Who are the women powering India's youth-led protests?",
-          "fuente": "Deutsche Welle",
-          "url": "https://www.dw.com/en/who-are-the-women-powering-india-s-youth-led-protests/a-79709824?maca=en-rss-en-world-4025-rdf",
-          "traducida": false
-        },
-        {
-          "id": "c491ffb670d1a65aacaf",
-          "fecha": "2026-10-20T13:00:08+00:00",
-          "titulo": "Au Japon, Toru Dance fait valser les clichés sur le « salaryman » nippon, réputé discipliné et sans fantaisie",
-          "fuente": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/10/20/au-japon-toru-dance-fait-valser-les-cliches-sur-le-salaryman-nippon-repute-discipline-et-sans-fantaisie_6797920_3234.html",
-          "traducida": false
-        },
-        {
-          "id": "6564b5974fe7a291d840",
-          "fecha": "2026-10-20T12:37:06+00:00",
-          "titulo": "Why Rubio is visiting Reliance’s oil refinery in India, the world’s largest",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/20/why-rubio-is-visiting-reliances-oil-refinery-in-india-the-worlds-largest?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "d1f8e24c9b8c208063cc",
-          "fecha": "2026-10-20T12:00:07+00:00",
-          "titulo": "Chinese military vessels and spy drones track Keen Sword war games off Japan",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/politics/article/3371525/chinese-military-vessels-and-spy-drones-track-keen-sword-war-games-japan",
-          "traducida": false
-        },
-        {
-          "id": "4b100bf56817d4f7f210",
-          "fecha": "2026-10-20T11:43:36+00:00",
-          "titulo": "India’s record US$108b Jio IPO tests market faith as Musk rivalry heats up",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/week-asia/economics/article/3371536/indias-record-us108b-jio-ipo-tests-market-faith-musk-rivalry-heats",
-          "traducida": false
-        },
-        {
-          "id": "524c5c29b4e473aa0b50",
-          "fecha": "2026-10-20T11:27:10+00:00",
-          "titulo": "Rubio says U.S. to discuss refining Venezuelan crude with Reliance, adds India made ‘substantial progress’ in diversifying energy supplies",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/business/Economy/marco-rubio-oil-purchases-india-mumbai-october-20-2026/article71604269.ece",
-          "traducida": false
-        },
-        {
-          "id": "a68c4c6c2b492443bd21",
-          "fecha": "2026-10-20T10:53:01+00:00",
-          "titulo": "France’s growing debt woes: How bond markets set countries’ borrowing costs",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/10/20/frances-growing-debt-woes-how-bond-markets-set-countries-borrowing-costs?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "76f9f2087139379e1b97",
-          "fecha": "2026-10-20T10:47:23+00:00",
-          "titulo": "Rubio lands in Mumbai; set to meet Jaishankar today",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/marco-rubio-mumbai-visit-october-20-2026/article71603994.ece",
-          "traducida": false
-        },
-        {
-          "id": "8d48becbd026e2ae7b1c",
-          "fecha": "2026-10-20T09:53:27+00:00",
-          "titulo": "Billionaire Mukesh Ambani launches India’s biggest-ever IPO",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/business/2026/oct/20/mukesh-ambani-jio-platforms-ipo-india-stock-market",
-          "traducida": false
-        },
-        {
-          "id": "eb5fc2894d85730b73eb",
-          "fecha": "2026-10-20T08:47:30+00:00",
-          "titulo": "India-New Zealand FTA comes into force; new visa categories for Indians, zero-duty access for exports",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/business/Economy/india-new-zealand-fta-comes-into-force-october-20-2026/article71603429.ece",
-          "traducida": false
-        },
-        {
-          "id": "9b192cc5676b7fc17e3d",
-          "fecha": "2026-10-20T08:00:10+00:00",
-          "titulo": "En Inde, l’impasse du premier ministre Modi confronté à la colère de la jeunesse",
-          "fuente": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/10/20/en-inde-l-impasse-du-premier-ministre-modi-confronte-a-la-colere-de-la-jeunesse_6797886_3232.html",
-          "traducida": false
-        },
-        {
-          "id": "c88b2c51c9e2fa54ad0f",
-          "fecha": "2026-10-20T07:00:58+00:00",
-          "titulo": "Student sent back to China over Japanese rising sun flag incident in Russia",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3371475/student-sent-back-china-over-japanese-rising-sun-flag-incident-russia",
-          "traducida": false
-        },
-        {
-          "id": "a0c9fe64f5c5463c3058",
-          "fecha": "2026-10-20T06:30:18+00:00",
-          "titulo": "She was harassed for crude remarks about Modi at a Cockroach protest. Now she can’t leave home",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/19/this-is-india-student-protests-abuse-modi-cockroach-protests",
-          "traducida": false
-        },
-        {
-          "id": "bf33b38c688a02d69fa2",
-          "fecha": "2026-10-20T06:29:19+00:00",
-          "titulo": "India asks its nationals in Italy to exercise caution, avoid crowded areas amid protests",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/india-asks-its-nationals-in-italy-to-exercise-caution-avoid-crowded-areas-amid-protests/article71603147.ece",
-          "traducida": false
-        },
-        {
-          "id": "df81246e9f8ed03e8d70",
-          "fecha": "2026-10-20T05:31:08+00:00",
-          "titulo": "India voices concern over UN's liquidity situation in 2026, says unpaid assessment are at ‘unacceptably high levels’",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/india-voices-concern-over-uns-liquidity-situation-in-2026/article71603326.ece",
-          "traducida": false
-        },
-        {
-          "id": "1628dbdee013fa929b9c",
-          "fecha": "2026-10-20T04:08:33+00:00",
-          "titulo": "Japan launches historic mission to bring back Mars moon samples",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/japan-launches-historic-mission-to-bring-back-mars-moon-samples?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "3c79abceeb77138d7f11",
-          "fecha": "2026-10-20T04:00:09+00:00",
-          "titulo": "China’s new 0.1-nanometre electron microscope ready to challenge US and Japan",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/science/article/3371401/chinas-new-01-nanometre-electron-microscope-ready-challenge-us-and-japan",
-          "traducida": false
-        },
-        {
-          "id": "9cb2d3bea4812de76ccf",
-          "fecha": "2026-10-20T03:15:51+00:00",
-          "titulo": "Japan successfully launches probe in historic Mars moon mission",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/japan-successfully-launches-probe-in-historic-mars-moon-mission/article71603095.ece",
-          "traducida": false
-        },
-        {
-          "id": "851084975c288964edd7",
-          "fecha": "2026-10-20T03:11:35+00:00",
-          "titulo": "Two Indian nationals among 28 charged with election fraud in California",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/two-indian-nationals-among-28-charged-with-election-fraud-in-california/article71603104.ece",
-          "traducida": false
-        },
-        {
-          "id": "41ed8cbcb4aca560eb2b",
-          "fecha": "2026-10-20T00:25:20+00:00",
-          "titulo": "Japan’s dilemma over frosty ties with Russia deepens after reporter’s arrest",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/week-asia/politics/article/3371438/japans-dilemma-over-frosty-ties-russia-deepens-after-reporters-arrest",
-          "traducida": false
-        }
-      ]
-    },
-    {
       "id": "eeuu-china",
       "titulo": "Competencia estratégica Estados Unidos–China",
       "cantidad_archivada": 15,
@@ -1398,8 +1398,8 @@
       "id": "onu",
       "titulo": "Naciones Unidas y multilateralismo",
       "cantidad_archivada": 12,
-      "nuevas_24h": 5,
-      "anteriores_24h": 4,
+      "nuevas_24h": 4,
+      "anteriores_24h": 5,
       "dias_con_registros": 5,
       "fecha_ultima": "2026-10-21T13:53:49+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
