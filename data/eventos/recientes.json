@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-10-21T18:09:26.955679+00:00",
+  "created_utc": "2026-10-21T18:59:39.052429+00:00",
   "events": [
     {
       "id": "a-8ae837b195a28346642c",
@@ -501,6 +501,53 @@
       "motivos_seleccion": [
         "Cobertura de fuentes distintas",
         "Actores relevantes: Estados Unidos, Rusia, Ucrania",
+        "Ámbito: Diplomacia, Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-ab30362d5e1c1b56e3c2",
+      "fecha": "2026-10-21",
+      "titulo_fuente": "Europe’s militarized Arctic strategy will only cause EU isolation — Russian diplomats",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Diplomacia",
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "ab30362d5e1c1b56e3c2",
+          "titulo_original": "Europe’s militarized Arctic strategy will only cause EU isolation — Russian diplomats",
+          "titulo_es": "La estrategia militarizada del Ártico de Europa sólo causará aislamiento de la UE — diplomáticos rusos",
+          "url": "https://tass.com/politics/2205827",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-10-21T18:52:36+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "According to the statement, interest for the Arctic region has been declared, for the first time, primarily in light of Brussels’ geopolitical ambitions",
+          "resumen_es": "Según la declaración, el interés por la región del Ártico ha sido declarado, por primera vez, principalmente a la luz de las ambiciones geopolíticas de Bruselas"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Rusia",
+        "Unión Europea"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia, Unión Europea",
         "Ámbito: Diplomacia, Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
@@ -2463,192 +2510,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-67d7e94f3f6d5a072a23",
-      "fecha": "2026-10-20",
-      "titulo_fuente": "Zelensky does everything he can to restore strained relations with Trump — portal",
-      "region": "Estados Unidos",
-      "temas": [
-        "Diplomacia",
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "67d7e94f3f6d5a072a23",
-          "titulo_original": "Zelensky does everything he can to restore strained relations with Trump — portal",
-          "titulo_es": "Zelensky hace todo lo que puede para restaurar relaciones tensas con Trump — portal",
-          "url": "https://tass.com/world/2204829",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-20T15:18:34+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "According to the report, over the past 24 hours Zelensky held talks with US Secretary of State Marco Rubio, met online with a group of US senators, and spoke with representatives of the defense company Lockheed Martin",
-          "resumen_es": "Según el informe, en las últimas 24 horas Zelensky mantuvo conversaciones con el Secretario de Estado estadounidense Marco Rubio, se reunió en línea con un grupo de senadores estadounidenses, y habló con representantes de la compañía de defensa Lockheed Martin"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos, Ucrania",
-        "Ámbito: Diplomacia, Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-8a4d7890331025a22f99",
-      "fecha": "2026-10-20",
-      "titulo_fuente": "Will Xi, Trump, Putin meet at Apec? First, they must agree on an agenda",
-      "region": "China",
-      "temas": [
-        "Diplomacia"
-      ],
-      "noticias": [
-        {
-          "id": "8a4d7890331025a22f99",
-          "titulo_original": "Will Xi, Trump, Putin meet at Apec? First, they must agree on an agenda",
-          "titulo_es": "¿Se reunirán Xi, Trump, Putin en Apec? Primero, deben estar de acuerdo en una agenda",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3371544/will-xi-trump-putin-meet-apec-first-they-must-agree-agenda",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-10-20T15:00:07+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "While US President Donald Trump has said he is open to sitting down with his Chinese and Russian counterparts Xi Jinping and Vladimir Putin at the Apec summit, it remains far from certain that the three leaders will actually meet in a few weeks. Observers said much would depend on whether the countries could agree on an agenda, with one expert describing this as a “critical lever”. Russia was set to gain most if the trilateral meeting took place,",
-          "resumen_es": "Mientras el presidente estadounidense Donald Trump ha dicho que está abierto a sentarse con sus homólogos chinos y rusos Xi Jinping y Vladimir Putin en la cumbre de Apec, está lejos de estar seguro de que los tres líderes se reunirán en unas pocas w"
-        }
-      ],
-      "fuentes": [
-        "South China Morning Post"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "China",
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: China, Estados Unidos, Rusia",
-        "Ámbito: Diplomacia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-a3deffe5df1ce7995f65",
-      "fecha": "2026-10-20",
-      "titulo_fuente": "Some EU leaders use conflict in Ukraine to cover their own problem — Moldovan politician",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "a3deffe5df1ce7995f65",
-          "titulo_original": "Some EU leaders use conflict in Ukraine to cover their own problem — Moldovan politician",
-          "titulo_es": "Algunos líderes de la UE utilizan conflictos en Ucrania para cubrir su propio problema — político moldavo",
-          "url": "https://tass.com/world/2204819",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-20T15:00:03+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "\"The most dangerous scenario is when politicians, losing support within their own countries, would try to provoke a larger-scale conflict between Europe and Russia,\" Igor Dodon said",
-          "resumen_es": "\"El escenario más peligroso es cuando los políticos, perdiendo apoyo dentro de sus propios países, intentarían provocar un conflicto a gran escala entre Europa y Rusia\", dijo Igor Dodon"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia",
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia, Ucrania",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-eed64a498983e33332ce",
-      "fecha": "2026-10-20",
-      "titulo_fuente": "Russia accuses EU of neocolonial mentality over its policy in Arctic",
-      "region": "China",
-      "temas": [
-        "Diplomacia"
-      ],
-      "noticias": [
-        {
-          "id": "eed64a498983e33332ce",
-          "titulo_original": "Russia accuses EU of neocolonial mentality over its policy in Arctic",
-          "titulo_es": "Rusia acusa a la UE de mentalidad neocolonial sobre su política en el Ártico",
-          "url": "https://tass.com/politics/2204811",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-20T14:53:28+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The comment was a response to the interview of the head of the European diplomacy, in which she said that the West must prevent China and Russia from establishing control over the new sea route opening up in the Arctic",
-          "resumen_es": "El comentario fue una respuesta a la entrevista del jefe de la diplomacia europea, en la que dijo que Occidente debe evitar que China y Rusia establezcan control sobre la nueva ruta marítima que se abre en el Ártico"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "China",
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: China, Rusia",
-        "Ámbito: Diplomacia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-08ecaaa9ec265a6bf771",
       "fecha": "2026-10-21",
       "titulo_fuente": "US citizen Hubbard freed in Russia is heading home — envoy",
@@ -2704,6 +2565,186 @@
       "motivos_seleccion": [
         "Cobertura de fuentes distintas",
         "Actores relevantes: Estados Unidos, Rusia, Ucrania"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-43b57fc5f7468285c4d4",
+      "fecha": "2026-10-21",
+      "titulo_fuente": "Belgian PM expects European Commission to end calls for seizing Russian assets",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Diplomacia"
+      ],
+      "noticias": [
+        {
+          "id": "43b57fc5f7468285c4d4",
+          "titulo_original": "Belgian PM expects European Commission to end calls for seizing Russian assets",
+          "titulo_es": "La PM belga espera que la Comisión Europea ponga fin a los llamamientos para la adquisición de activos rusos",
+          "url": "https://tass.com/world/2205825",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-10-21T18:44:00+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Bart De Wever believes that some leaders \"who did not take part in the December 2025 summit,\" when an initial plan to seize the assets failed, could still raise the issue",
+          "resumen_es": "Bart De Wever cree que algunos líderes \"que no participaron en la cumbre del 2025 de diciembre\", cuando un plan inicial para apoderarse de los activos falló, todavía podrían plantear el problema"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Rusia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia",
+        "Ámbito: Diplomacia"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-0f9db5d04de2dd55449e",
+      "fecha": "2026-10-21",
+      "titulo_fuente": "Russia, China to promote cooperation in banking sphere",
+      "region": "China",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "0f9db5d04de2dd55449e",
+          "titulo_original": "Russia, China to promote cooperation in banking sphere",
+          "titulo_es": "Rusia, China para promover la cooperación en la esfera bancaria",
+          "url": "https://tass.com/economy/2205821",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-10-21T18:33:55+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Under the Joint Communique of Prime Ministers of Russia and China, the two parties agreed \"to keep the high share of payments in national currencies\"",
+          "resumen_es": "Bajo la Comunión Conjunta de los Primeros Ministros de Rusia y China, las dos partes acordaron \"mantener la alta proporción de pagos en monedas nacionales\""
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "China",
+        "Rusia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: China, Rusia"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-e800cf74f8e920d94915",
+      "fecha": "2026-10-21",
+      "titulo_fuente": "Any sovereign asset freeze destabilize entire world — communique",
+      "region": "China",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "e800cf74f8e920d94915",
+          "titulo_original": "Any sovereign asset freeze destabilize entire world — communique",
+          "titulo_es": "Cualquier congelación de activos soberanos desestabiliza el mundo entero - comunicación",
+          "url": "https://tass.com/economy/2205817",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-10-21T18:29:25+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Russia and China support unconditional adherence to international obligations related to the immunity of states and their ownership",
+          "resumen_es": "Rusia y China apoyan la adhesión incondicional a las obligaciones internacionales relacionadas con la inmunidad de los Estados y su propiedad"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "China",
+        "Rusia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: China, Rusia"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-cf8f36961cc1481685d1",
+      "fecha": "2026-10-21",
+      "titulo_fuente": "US negotiator points to 'encouraging progress' in Ukraine talks",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "cf8f36961cc1481685d1",
+          "titulo_original": "US negotiator points to 'encouraging progress' in Ukraine talks",
+          "titulo_es": "El negociador estadounidense apunta a \"alentar el progreso\" en las conversaciones de Ucrania",
+          "url": "https://tass.com/world/2205815",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-10-21T18:14:45+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "There is still hard work ahead, Jared Kushner added",
+          "resumen_es": "Todavía hay mucho trabajo por delante, agregó Jared Kushner"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Ucrania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Ucrania",
+        "Posible decisión institucional o negociación"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6623,106 +6664,26 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-2913505e305dd17f31c9",
-      "fecha": "2026-10-20",
-      "titulo_fuente": "Russia’s Federation Council ties EU protests to deep socio-economic crisis — senator",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Seguridad y conflictos",
-        "Comercio y finanzas",
-        "Energía y clima"
-      ],
-      "noticias": [
-        {
-          "id": "2913505e305dd17f31c9",
-          "titulo_original": "Russia’s Federation Council ties EU protests to deep socio-economic crisis — senator",
-          "titulo_es": "El Consejo de la Federación de Rusia vincula las protestas de la UE a profunda crisis socioeconómica — senador",
-          "url": "https://tass.com/politics/2204809",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-20T14:55:02+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Natalia Nikonorova recalled that at the start of the special military operation, Russian President Vladimir Putin warned of impending food, migration, and energy crises in Europe",
-          "resumen_es": "Natalia Nikonorova recordó que al comienzo de la operación militar especial, el presidente ruso Vladimir Putin advirtió de la inminente crisis alimentaria, migratoria y energética en Europa"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia",
-        "Ámbito: Comercio y finanzas, Energía y clima"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-420e3b17541fc1a3a981",
-      "fecha": "2026-10-20",
-      "titulo_fuente": "Russia capable of countering UAVs that EU is supplying en masse to Ukraine — soldier",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "420e3b17541fc1a3a981",
-          "titulo_original": "Russia capable of countering UAVs that EU is supplying en masse to Ukraine — soldier",
-          "titulo_es": "Rusia es capaz de contrarrestar los VU que la UE está suministrando en masa a Ucrania — soldado",
-          "url": "https://tass.com/politics/2204805",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-20T14:48:43+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The soldier added that Ukrainian unmanned aerial vehicle operators are unable to counter Russia’s Knyaz Veshchy Oleg reconnaissance drones",
-          "resumen_es": "El soldado agregó que los operadores aéreos no tripulados ucranianos no pueden contrarrestar los drones de reconocimiento Knyaz Veshchy Oleg rusos"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia",
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia, Ucrania"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-18969cec69c145bcaed1",
+      "id": "a-3cd52b10bc63089fde5b",
       "fecha": "2026-10-21",
-      "titulo_fuente": "Pakistan, Turkiye, Qatar and Indonesia sign pact to bolster defence cooperation",
+      "titulo_fuente": "Qatar, Turkiye, Pakistan and Indonesia sign ‘Badr’ defence pact",
       "region": "Oriente Medio",
       "temas": [
         "Seguridad y conflictos"
       ],
       "noticias": [
+        {
+          "id": "3cd52b10bc63089fde5b",
+          "titulo_original": "Qatar, Turkiye, Pakistan and Indonesia sign ‘Badr’ defence pact",
+          "titulo_es": "Qatar, Turkiye, Pakistán e Indonesia firman pacto de defensa ‘Badr’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/qatar-turkiye-pakistan-and-indonesia-sign-badr-defence-pact?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-10-21T18:35:42+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Al Jazeera’s Osama Bin Javaid reports on the ‘Badr’ Memorandum of Understanding.",
+          "resumen_es": "Osama Bin Javaid de Al Jazeera informa sobre el Memorándum de Entendimiento ‘Badr’."
+        },
         {
           "id": "18969cec69c145bcaed1",
           "titulo_original": "Pakistan, Turkiye, Qatar and Indonesia sign pact to bolster defence cooperation",
@@ -6890,31 +6851,75 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-2f15057034191b13b820",
+      "id": "a-7d90dc957cb056f06b09",
       "fecha": "2026-10-21",
-      "titulo_fuente": "Simplification: Council agrees negotiating stance to cut red tape for small packaging producers",
+      "titulo_fuente": "Meta condamné à verser 25 milliards de dollars au Nouveau-Mexique après le scandale Cambridge Analytica",
+      "region": "Internacional",
+      "temas": [
+        "Organismos multilaterales"
+      ],
+      "noticias": [
+        {
+          "id": "7d90dc957cb056f06b09",
+          "titulo_original": "Meta condamné à verser 25 milliards de dollars au Nouveau-Mexique après le scandale Cambridge Analytica",
+          "titulo_es": "",
+          "url": "https://www.lemonde.fr/international/article/2026/10/21/meta-condamne-a-verser-25-milliards-de-dollars-au-nouveau-mexique-apres-le-scandale-cambridge-analytica_6798305_3210.html",
+          "fuente": "Le Monde",
+          "pais": "Francia",
+          "fecha": "2026-10-21T18:52:29+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Il s’agit de « l’un des plus importants jugements, sinon le plus important, obtenus par un Etat contre une entreprise dans l’histoire américaine », s’est félicité le procureur général du Nouveau-Mexique. La somme grossira de 3,75 milliards de dollars par an, soit 15 % d’intérêts, tant qu’elle n’aura pas été payée.",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "Le Monde"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Institucionalismo liberal",
+        "pregunta": "¿Qué reglas, mecanismos de cooperación y límites institucionales afectan la decisión?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Organismos multilaterales"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-4b2c8107d3033781cd45",
+      "fecha": "2026-10-21",
+      "titulo_fuente": "Bolsonaro cae un punto y mantiene el empate técnico con Lula a cuatro días de las presidenciales",
       "region": "Internacional",
       "temas": [
         "Actualidad"
       ],
       "noticias": [
         {
-          "id": "2f15057034191b13b820",
-          "titulo_original": "Simplification: Council agrees negotiating stance to cut red tape for small packaging producers",
-          "titulo_es": "Simplificación: Consejo acepta la posición de negociación de cortar cinta roja para pequeños productores de envases",
-          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/21/simplification-council-agrees-negotiating-stance-to-cut-red-tape-for-small-packaging-producers/",
-          "fuente": "Noticias del Consejo de la UE",
-          "pais": "Unión Europea",
-          "fecha": "2026-10-21T17:40:00+00:00",
-          "estado": "declaración de la fuente; corroboración independiente pendiente",
-          "resumen_original": "Council agrees negotiating position on proposal for a regulation suspending extended producer responsibility.",
-          "resumen_es": "El Consejo está de acuerdo en la posición de negociación a propuesta de una regulación que suspenda la responsabilidad del productor."
+          "id": "4b2c8107d3033781cd45",
+          "titulo_original": "Bolsonaro cae un punto y mantiene el empate técnico con Lula a cuatro días de las presidenciales",
+          "titulo_es": "",
+          "url": "https://elpais.com/america/2026-10-21/bolsonaro-cae-un-punto-y-mantiene-el-empate-tecnico-con-lula-a-cuatro-dias-de-las-presidenciales.html",
+          "fuente": "El País",
+          "pais": "España",
+          "fecha": "2026-10-21T18:32:16+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "El cara a cara televisado del viernes puede ser decisivo para decantar unos comicios ajustadísimos desde hace meses",
+          "resumen_es": ""
         }
       ],
       "fuentes": [
-        "Noticias del Consejo de la UE"
+        "El País"
       ],
-      "actores_mencionados": [],
+      "actores_mencionados": [
+        "Brasil"
+      ],
       "fuentes_independientes": 1,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
@@ -6926,49 +6931,52 @@
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
-        "Posible decisión institucional o negociación"
+        "Actores relevantes: Brasil"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
     },
     {
-      "id": "a-dbc23d2a2ed801fe85f6",
+      "id": "a-848b2e696aca906e3872",
       "fecha": "2026-10-21",
-      "titulo_fuente": "Shabana Mahmood urged to ‘read the room’ on Labour opposition to immigration policy",
-      "region": "Internacional",
+      "titulo_fuente": "Jerusalem Daily: Israeli minister calls for settling the entire West Bank",
+      "region": "Oriente Medio",
       "temas": [
-        "Migración y DD. HH."
+        "Actualidad"
       ],
       "noticias": [
         {
-          "id": "dbc23d2a2ed801fe85f6",
-          "titulo_original": "Shabana Mahmood urged to ‘read the room’ on Labour opposition to immigration policy",
-          "titulo_es": "Shabana Mahmood instó a “leer la sala” sobre la oposición laboral a la política de inmigración",
-          "url": "https://www.theguardian.com/uk-news/2026/oct/21/cabinet-split-shabana-mahmood-immigration-plans-labour-miatta-fahnbulleh",
-          "fuente": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-10-21T17:33:58+00:00",
+          "id": "848b2e696aca906e3872",
+          "titulo_original": "Jerusalem Daily: Israeli minister calls for settling the entire West Bank",
+          "titulo_es": "Jerusalem Daily: El ministro israelí llama a establecer toda la Ribera Occidental",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/jerusalem-daily-israeli-minister-calls-for-settling-the-entire-west-bank?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-10-21T18:24:42+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "No 10 declines to rule out watering down plans to extend waiting period for indefinite leave to remain as cabinet split widens Shabana Mahmood has been urged to “read the room” on Labour opposition to her immigration policy, as No 10 declined to rule out watering down her plans to make foreign workers wait 15 years to get permanent residency. Mahmood, the home secretary, is consulting on plans to increase the period before foreign workers can cla",
-          "resumen_es": "No 10 declinaciones para descartar planes para extender el período de espera para la licencia indefinida para permanecer a medida que la división del gabinete ensancha a Shabana Mahmood se ha instado a “leer la sala” en oposición laboral a su política de inmigración, como No 10 declin"
+          "resumen_original": "Israeli forces are raiding Palestinian homes in the occupied West Bank and turning them into interrogation centres.",
+          "resumen_es": "Las fuerzas israelíes están asaltando casas palestinas en la Ribera Occidental ocupada y convirtiéndolos en centros de interrogatorio."
         }
       ],
       "fuentes": [
-        "The Guardian"
+        "Al Jazeera"
       ],
-      "actores_mencionados": [],
+      "actores_mencionados": [
+        "Israel",
+        "Palestina"
+      ],
       "fuentes_independientes": 1,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
-        "nombre": "Derecho internacional y constructivismo",
-        "pregunta": "¿Qué normas, identidades y obligaciones internacionales invocan los actores?"
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
       },
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
-        "Ámbito: Migración y DD. HH."
+        "Actores relevantes: Israel"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
