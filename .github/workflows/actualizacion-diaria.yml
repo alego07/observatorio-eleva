@@ -3,20 +3,14 @@ on:
   push:
     branches: [main]
   schedule:
-    # Horarios escalonados en hora peruana; GitHub puede retrasar u omitir cron.
-    # Ventanas redundantes antes de las 08:00 y dos reintentos de recuperación.
-    - cron: '41 5 * * *'
-      timezone: 'America/Lima'
-    - cron: '17 6 * * *'
-      timezone: 'America/Lima'
-    - cron: '53 6 * * *'
-      timezone: 'America/Lima'
-    - cron: '29 7 * * *'
-      timezone: 'America/Lima'
-    - cron: '19 8 * * *'
-      timezone: 'America/Lima'
-    - cron: '47 9 * * *'
-      timezone: 'America/Lima'
+    # Horarios en UTC equivalentes a America/Lima (UTC-5, sin horario de verano).
+    # Evita depender de la interpretación de timezone del programador.
+    - cron: '41 10 * * *' # 05:41 Lima
+    - cron: '17 11 * * *' # 06:17 Lima
+    - cron: '53 11 * * *' # 06:53 Lima
+    - cron: '29 12 * * *' # 07:29 Lima
+    - cron: '19 13 * * *' # 08:19 Lima
+    - cron: '47 14 * * *' # 09:47 Lima
   workflow_dispatch:
 permissions:
   contents: write
