@@ -1,17 +1,41 @@
 {
-  "actualizado_utc": "2026-10-23T17:55:30.058395+00:00",
+  "actualizado_utc": "2026-10-23T18:47:02.772852+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 559,
-      "nuevas_24h": 110,
+      "cantidad_archivada": 562,
+      "nuevas_24h": 108,
       "anteriores_24h": 91,
       "dias_con_registros": 8,
-      "fecha_ultima": "2026-10-23T17:48:51+00:00",
+      "fecha_ultima": "2026-10-23T18:34:51+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "d476b0c49b793401e6da",
+          "fecha": "2026-10-23T18:34:51+00:00",
+          "titulo": "Russian stock market closed in the green — market data",
+          "fuente": "TASS",
+          "url": "https://tass.com/economy/2207141",
+          "traducida": false
+        },
+        {
+          "id": "68b358818539220d002c",
+          "fecha": "2026-10-23T18:19:14+00:00",
+          "titulo": "Global sports community gradually returns to its fundamentals — Putin",
+          "fuente": "TASS",
+          "url": "https://tass.com/sports/2207131",
+          "traducida": false
+        },
+        {
+          "id": "f06cd676b1cd05814ad4",
+          "fecha": "2026-10-23T17:52:41+00:00",
+          "titulo": "Trump says Musk did 'nothing wrong' regarding Starlink access in Ukraine",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2207125",
+          "traducida": false
+        },
         {
           "id": "d5ec873df6d366cf022c",
           "fecha": "2026-10-23T17:48:51+00:00",
@@ -227,43 +251,27 @@
           "fuente": "TASS",
           "url": "https://tass.com/economy/2207007",
           "traducida": false
-        },
-        {
-          "id": "308af972b1a7c0869892",
-          "fecha": "2026-10-23T14:23:00+00:00",
-          "titulo": "Ukraine tries to shut Moscow's airports with drone strikes on Russia",
-          "fuente": "Deutsche Welle",
-          "url": "https://www.dw.com/en/ukraine-tries-to-shut-moscow-s-airports-with-drone-strikes-on-russia/a-79737469?maca=en-rss-en-world-4025-rdf",
-          "traducida": false
-        },
-        {
-          "id": "f72243cf97aa82801cd5",
-          "fecha": "2026-10-23T14:14:44+00:00",
-          "titulo": "Russia’s Shnaider goes into semis of 2026 WTA Ningbo Open tennis tournament",
-          "fuente": "TASS",
-          "url": "https://tass.com/sports/2206997",
-          "traducida": false
-        },
-        {
-          "id": "00a7a77e835b12d63bf7",
-          "fecha": "2026-10-23T14:11:08+00:00",
-          "titulo": "Russian Railways to meet all 2026 freight loading targets — official",
-          "fuente": "TASS",
-          "url": "https://tass.com/economy/2206995",
-          "traducida": false
         }
       ]
     },
     {
       "id": "union-europea",
       "titulo": "Unión Europea y relaciones exteriores",
-      "cantidad_archivada": 223,
-      "nuevas_24h": 40,
-      "anteriores_24h": 39,
+      "cantidad_archivada": 224,
+      "nuevas_24h": 39,
+      "anteriores_24h": 41,
       "dias_con_registros": 8,
-      "fecha_ultima": "2026-10-23T16:08:04+00:00",
+      "fecha_ultima": "2026-10-23T18:13:09+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "f4043cd9b6f123e6f602",
+          "fecha": "2026-10-23T18:13:09+00:00",
+          "titulo": "Macron condemns ‘racist terrorist attack’ after deadly shooting near Paris",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/europe/article/3371985/macron-condemns-racist-terrorist-attack-after-deadly-shooting-near-paris",
+          "traducida": false
+        },
         {
           "id": "ef423c5db3e018370001",
           "fecha": "2026-10-23T16:08:04+00:00",
@@ -495,33 +503,41 @@
           "fuente": "Al Jazeera",
           "url": "https://www.aljazeera.com/news/2026/10/23/we-want-promises-backed-by-results?traffic_source=rss",
           "traducida": false
-        },
-        {
-          "id": "30e12d63ef9b9bcb9a74",
-          "fecha": "2026-10-23T08:00:07+00:00",
-          "titulo": "« La France est le maillon faible de cette lutte mondiale pour les capitaux »",
-          "fuente": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/10/23/la-france-est-le-maillon-faible-de-cette-lutte-mondiale-pour-les-capitaux_6799035_3234.html",
-          "traducida": false
         }
       ]
     },
     {
       "id": "oriente-medio",
       "titulo": "Oriente Medio: seguridad y diplomacia",
-      "cantidad_archivada": 269,
-      "nuevas_24h": 39,
-      "anteriores_24h": 40,
+      "cantidad_archivada": 271,
+      "nuevas_24h": 38,
+      "anteriores_24h": 39,
       "dias_con_registros": 8,
-      "fecha_ultima": "2026-10-23T17:31:46+00:00",
+      "fecha_ultima": "2026-10-23T18:30:03+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "672dee69e839bd53c348",
+          "fecha": "2026-10-23T18:30:03+00:00",
+          "titulo": "A Dubaï, la rupture commerciale avec Téhéran met à mal les entreprises iraniennes et leurs circuits de financement",
+          "fuente": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/10/23/a-dubai-la-rupture-commerciale-avec-teheran-met-a-mal-les-entreprises-iraniennes-et-leurs-circuits-de-financement_6799141_3210.html",
+          "traducida": false
+        },
         {
           "id": "999f570fb677d21b3b76",
           "fecha": "2026-10-23T17:31:46+00:00",
           "titulo": "US deciding whether to quickly end war with Iran or let it die off — Trump",
           "fuente": "TASS",
           "url": "https://tass.com/world/2207117",
+          "traducida": false
+        },
+        {
+          "id": "f5f129983c01e29f2c10",
+          "fecha": "2026-10-23T17:30:51+00:00",
+          "titulo": "Jerusalem Daily: Israel to ‘lock down’ occupied West Bank",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/jerusalem-daily-netanyahu-orders-a-full-lockdown-of-the-occupied-west-ba?traffic_source=rss",
           "traducida": false
         },
         {
@@ -739,22 +755,6 @@
           "fuente": "Al Jazeera",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israeli-military-kills-two-in-gun-battle-in-occupied-west-bank?traffic_source=rss",
           "traducida": false
-        },
-        {
-          "id": "266a24426e610e1f0314",
-          "fecha": "2026-10-23T09:03:39+00:00",
-          "titulo": "Ultra-Orthodox conscription debate ignites Israel’s election battleground",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/23/ultra-orthodox-conscription-debate-ignites-israels-election-battleground?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "0a8af5b182a4f0448c98",
-          "fecha": "2026-10-23T08:41:41+00:00",
-          "titulo": "US-Iran war to continue until nuclear deal is struck, US envoy says",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2206699",
-          "traducida": false
         }
       ]
     },
@@ -762,7 +762,7 @@
       "id": "india-asia",
       "titulo": "India y Asia-Pacífico",
       "cantidad_archivada": 97,
-      "nuevas_24h": 20,
+      "nuevas_24h": 19,
       "anteriores_24h": 14,
       "dias_con_registros": 8,
       "fecha_ultima": "2026-10-23T14:36:43+00:00",
@@ -1015,7 +1015,7 @@
       "titulo": "Sudamérica: integración y política exterior",
       "cantidad_archivada": 57,
       "nuevas_24h": 9,
-      "anteriores_24h": 12,
+      "anteriores_24h": 9,
       "dias_con_registros": 8,
       "fecha_ultima": "2026-10-23T17:30:11+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
