@@ -1,17 +1,25 @@
 {
-  "actualizado_utc": "2026-10-23T15:29:56.930286+00:00",
+  "actualizado_utc": "2026-10-23T15:46:22.334569+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 544,
+      "cantidad_archivada": 545,
       "nuevas_24h": 109,
-      "anteriores_24h": 99,
+      "anteriores_24h": 95,
       "dias_con_registros": 8,
-      "fecha_ultima": "2026-10-23T15:19:29+00:00",
+      "fecha_ultima": "2026-10-23T15:38:40+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "271e254f80e556d4d467",
+          "fecha": "2026-10-23T15:38:40+00:00",
+          "titulo": "Evacuation of residents from Alyoshki may take several days — Kremlin spokesman",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2207063",
+          "traducida": false
+        },
         {
           "id": "68b1440f8969766bffae",
           "fecha": "2026-10-23T15:19:29+00:00",
@@ -243,27 +251,35 @@
           "fuente": "TASS",
           "url": "https://tass.com/politics/2206943",
           "traducida": false
-        },
-        {
-          "id": "9b1f039d19cbd195ea32",
-          "fecha": "2026-10-23T12:54:44+00:00",
-          "titulo": "Russia-Ukraine talks planned for November in UAE: Kremlin",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/23/russia-ukraine-talks-planned-for-november-in-uae-kremlin?traffic_source=rss",
-          "traducida": false
         }
       ]
     },
     {
       "id": "union-europea",
       "titulo": "Unión Europea y relaciones exteriores",
-      "cantidad_archivada": 220,
-      "nuevas_24h": 44,
-      "anteriores_24h": 38,
+      "cantidad_archivada": 222,
+      "nuevas_24h": 45,
+      "anteriores_24h": 39,
       "dias_con_registros": 8,
-      "fecha_ultima": "2026-10-23T14:18:41+00:00",
+      "fecha_ultima": "2026-10-23T15:34:21+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "3903cbc002f113713932",
+          "fecha": "2026-10-23T15:34:21+00:00",
+          "titulo": "France to deploy 70,000 police on Saturday to prevent civil unrest",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/23/france-police-demonstrations-civil-unrest",
+          "traducida": false
+        },
+        {
+          "id": "3aa06e30a791a43bfd34",
+          "fecha": "2026-10-23T15:30:04+00:00",
+          "titulo": "Au Cenquatre, à Paris, le regard de Walid Raad sur les blessures du Liban",
+          "fuente": "Le Monde",
+          "url": "https://www.lemonde.fr/culture/article/2026/10/23/au-cenquatre-a-paris-le-regard-de-walid-raad-sur-les-blessures-du-liban_6799104_3246.html",
+          "traducida": false
+        },
         {
           "id": "2c18588beec585bbffa7",
           "fecha": "2026-10-23T14:18:41+00:00",
@@ -487,22 +503,6 @@
           "fuente": "Al Jazeera",
           "url": "https://www.aljazeera.com/opinions/2026/10/23/why-is-gen-z-revolting?traffic_source=rss",
           "traducida": false
-        },
-        {
-          "id": "aa705dbde2f486e609c6",
-          "fecha": "2026-10-23T06:02:15+00:00",
-          "titulo": "EU entering winter with lowest gas reserves on record, IEA boss warns",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/10/23/eu-entering-winter-with-lowest-gas-reserves-on-record-iea-boss-warns?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "d7454ef9c2240c692db7",
-          "fecha": "2026-10-23T05:50:08+00:00",
-          "titulo": "France braces for more unrest as police face scrutiny over weapons and tactics",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/world/europe/article/3371879/france-braces-more-unrest-police-tactics-and-weapons-face-scrutiny",
-          "traducida": false
         }
       ]
     },
@@ -510,7 +510,7 @@
       "id": "oriente-medio",
       "titulo": "Oriente Medio: seguridad y diplomacia",
       "cantidad_archivada": 263,
-      "nuevas_24h": 41,
+      "nuevas_24h": 40,
       "anteriores_24h": 40,
       "dias_con_registros": 8,
       "fecha_ultima": "2026-10-23T15:18:03+00:00",
@@ -762,8 +762,8 @@
       "id": "india-asia",
       "titulo": "India y Asia-Pacífico",
       "cantidad_archivada": 97,
-      "nuevas_24h": 21,
-      "anteriores_24h": 13,
+      "nuevas_24h": 20,
+      "anteriores_24h": 14,
       "dias_con_registros": 8,
       "fecha_ultima": "2026-10-23T14:36:43+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -1015,7 +1015,7 @@
       "titulo": "Sudamérica: integración y política exterior",
       "cantidad_archivada": 55,
       "nuevas_24h": 9,
-      "anteriores_24h": 14,
+      "anteriores_24h": 13,
       "dias_con_registros": 8,
       "fecha_ultima": "2026-10-23T14:56:05+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
