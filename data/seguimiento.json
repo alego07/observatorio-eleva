@@ -1,17 +1,49 @@
 {
-  "actualizado_utc": "2026-10-23T17:23:52.755843+00:00",
+  "actualizado_utc": "2026-10-23T17:55:30.058395+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 555,
-      "nuevas_24h": 111,
-      "anteriores_24h": 90,
+      "cantidad_archivada": 559,
+      "nuevas_24h": 110,
+      "anteriores_24h": 91,
       "dias_con_registros": 8,
-      "fecha_ultima": "2026-10-23T17:17:51+00:00",
+      "fecha_ultima": "2026-10-23T17:48:51+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "d5ec873df6d366cf022c",
+          "fecha": "2026-10-23T17:48:51+00:00",
+          "titulo": "Russia sees sports future in its utmost accessibility and technologies — Putin",
+          "fuente": "TASS",
+          "url": "https://tass.com/sports/2207123",
+          "traducida": false
+        },
+        {
+          "id": "5f8eda096da2d9799248",
+          "fecha": "2026-10-23T17:34:48+00:00",
+          "titulo": "Russia remains open to dialogue and cooperation in sphere of sports — Putin",
+          "fuente": "TASS",
+          "url": "https://tass.com/sports/2207119",
+          "traducida": false
+        },
+        {
+          "id": "b6eb5852986f839024b3",
+          "fecha": "2026-10-23T17:26:13+00:00",
+          "titulo": "Romania blames Russia after drone sinks ship in the Black Sea",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/23/romania-blames-russia-after-drone-sinks-ship-in-the-black-sea?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "6ea8fdef2bc9b4c3b52b",
+          "fecha": "2026-10-23T17:24:01+00:00",
+          "titulo": "Russia is integral part of global sports family — Putin",
+          "fuente": "TASS",
+          "url": "https://tass.com/sports/2207113",
+          "traducida": false
+        },
         {
           "id": "48da2076704eceb659cf",
           "fecha": "2026-10-23T17:17:51+00:00",
@@ -218,290 +250,6 @@
           "titulo": "Russian Railways to meet all 2026 freight loading targets — official",
           "fuente": "TASS",
           "url": "https://tass.com/economy/2206995",
-          "traducida": false
-        },
-        {
-          "id": "072b451ad409d0b78583",
-          "fecha": "2026-10-23T14:10:00+00:00",
-          "titulo": "IN BRIEF: What to know of restrictions at Moscow airports, evacuation at Sheremetyevo",
-          "fuente": "TASS",
-          "url": "https://tass.com/emergencies/2206991",
-          "traducida": false
-        },
-        {
-          "id": "914fafeba32d7964fa2b",
-          "fecha": "2026-10-23T14:09:39+00:00",
-          "titulo": "FACTBOX: What we know about latest reciprocal prisoner exchange between Russia, Ukraine",
-          "fuente": "TASS",
-          "url": "https://tass.com/defense/2206993",
-          "traducida": false
-        },
-        {
-          "id": "20fdd12796fb1e0ae3c3",
-          "fecha": "2026-10-23T13:46:09+00:00",
-          "titulo": "World’s largest passenger jet cannot land in Moscow due to restrictions",
-          "fuente": "TASS",
-          "url": "https://tass.com/society/2206983",
-          "traducida": false
-        },
-        {
-          "id": "b09d57fa8d1d1b61645b",
-          "fecha": "2026-10-23T13:40:53+00:00",
-          "titulo": "Russia cannot ignore EU’s growing militarization — Russian ambassador to Montenegro",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2206973",
-          "traducida": false
-        }
-      ]
-    },
-    {
-      "id": "oriente-medio",
-      "titulo": "Oriente Medio: seguridad y diplomacia",
-      "cantidad_archivada": 267,
-      "nuevas_24h": 41,
-      "anteriores_24h": 37,
-      "dias_con_registros": 8,
-      "fecha_ultima": "2026-10-23T16:45:11+00:00",
-      "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
-      "publicaciones": [
-        {
-          "id": "d1e5157ac359bfe4fd28",
-          "fecha": "2026-10-23T16:45:11+00:00",
-          "titulo": "En Israël, la gauche tente d’exister face à la droite radicale et à l’angoisse sécuritaire",
-          "fuente": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/10/23/en-israel-la-gauche-tente-d-exister-face-a-la-droite-radicale-et-a-l-angoisse-securitaire_6799124_3210.html",
-          "traducida": false
-        },
-        {
-          "id": "4f6c75c0c06fa03e3e3f",
-          "fecha": "2026-10-23T16:37:59+00:00",
-          "titulo": "Israeli roadblocks disrupt schools and medical care in West Bank village",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/23/israeli-roadblocks-disrupt-schools-and-medical-care-in-west-bank-village?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "205c60f92e24e46e9072",
-          "fecha": "2026-10-23T16:29:51+00:00",
-          "titulo": "European, Middle East ministers urge US-Iran diplomacy, not new attacks",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/23/european-middle-east-ministers-urge-us-iran-diplomacy-not-new-attacks?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "0aad64c51cf8068e925b",
-          "fecha": "2026-10-23T15:51:29+00:00",
-          "titulo": "‘Foreign policy is the economy’: How Iran war is shaping US midterm vote",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/23/foreign-policy-is-the-economy-how-iran-war-is-shaping-us-midterm-vote?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "0e8f81a2b8bb31957aa7",
-          "fecha": "2026-10-23T15:18:03+00:00",
-          "titulo": "Syria deploys 1,000 troops to its southernmost region amid Israeli actions — newspaper",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2207037",
-          "traducida": false
-        },
-        {
-          "id": "2f7b9151a28fb2100a0b",
-          "fecha": "2026-10-23T14:36:43+00:00",
-          "titulo": "India continues to facilitate transport of life-saving medicines to Iran: MEA",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/india-continues-to-facilitate-transport-of-life-saving-medicines-to-iran-mea/article71616727.ece",
-          "traducida": false
-        },
-        {
-          "id": "33f716a7da1679a0b128",
-          "fecha": "2026-10-23T14:33:52+00:00",
-          "titulo": "Nobody Wants This creator says she disagrees with Adam Brody’s ‘free Palestine’ comments",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/tv-and-radio/2026/oct/23/nobody-wants-this-adam-brody-palestine-comments",
-          "traducida": false
-        },
-        {
-          "id": "6457775024a112732cc1",
-          "fecha": "2026-10-23T14:19:30+00:00",
-          "titulo": "Netanyahu orders ‘very extensive’ operation in West Bank after two Israeli soldiers killed",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/23/netanyahu-orders-very-extensive-operation-west-bank-two-israeli-soldiers-killed",
-          "traducida": false
-        },
-        {
-          "id": "bd921086dd6c8db83266",
-          "fecha": "2026-10-23T13:25:58+00:00",
-          "titulo": "Hundreds to defy Palestine Action ban in protest at US embassy in London",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/features/2026/10/23/hundreds-to-defy-palestine-action-ban-in-protest-at-us-embassy-in-london?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "b3d25385b34596af987c",
-          "fecha": "2026-10-23T13:00:47+00:00",
-          "titulo": "La Fiscalía concluye que Irán se encuentra tras el intento de asesinato de Vidal-Quadras en 2023",
-          "fuente": "El País",
-          "url": "https://elpais.com/espana/2026-10-23/la-fiscalia-concluye-que-iran-se-encuentra-tras-el-intento-de-asesinato-de-vidal-quadras-en-2023.html",
-          "traducida": false
-        },
-        {
-          "id": "0485661ceffbc43e3748",
-          "fecha": "2026-10-23T13:00:18+00:00",
-          "titulo": "Qatar Moto GP to go ahead despite regional tensions",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/10/23/qatar-moto-gp-to-go-ahead-despite-regional-tensions?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "3a028f812fe461886cf4",
-          "fecha": "2026-10-23T12:40:35+00:00",
-          "titulo": "Netanyahu announces largest operation in West Bank since 1967",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2206921",
-          "traducida": false
-        },
-        {
-          "id": "d699247f8661dfe2f59a",
-          "fecha": "2026-10-23T12:04:02+00:00",
-          "titulo": "Netanyahu ordena el cierre total de Cisjordania tras un ataque palestino a cuatro días de las elecciones",
-          "fuente": "El País",
-          "url": "https://elpais.com/internacional/2026-10-23/el-ejercito-israeli-mata-a-dos-palestinos-armados-tras-un-tiroteo-en-cisjordania.html",
-          "traducida": false
-        },
-        {
-          "id": "d6fce9f98f193a72c951",
-          "fecha": "2026-10-23T12:00:09+00:00",
-          "titulo": "L’agonie de la démocratie turque, victime de l’enfermement du régime",
-          "fuente": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/10/23/l-agonie-de-la-democratie-turque-victime-de-l-enfermement-du-regime_6799070_3232.html",
-          "traducida": false
-        },
-        {
-          "id": "642bc2cfeab555b94aa5",
-          "fecha": "2026-10-23T11:43:53+00:00",
-          "titulo": "US-Iran war, then and now: How the landscape has changed since February",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/23/us-iran-war-then-and-now-how-the-landscape-has-changed-since-february?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "1d17155788833fd03f86",
-          "fecha": "2026-10-23T11:35:51+00:00",
-          "titulo": "Oil hits five-month high amid fears US will renew strikes on Iran",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
-          "traducida": false
-        },
-        {
-          "id": "cc4b7015302736e3d823",
-          "fecha": "2026-10-23T11:34:59+00:00",
-          "titulo": "Saudi Arabia security puts Asian Cup in doubt: Japan football chief",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/10/23/saudi-arabia-security-puts-asian-cup-in-doubt-japan-football-chief?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "7043481d6d111c88998a",
-          "fecha": "2026-10-23T11:29:09+00:00",
-          "titulo": "Netanyahu orders West Bank closure as attack wounds Israelis before election",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/netanyahu-orders-west-bank-closure-as-attack-wounds-israelis-before-election/article71615850.ece",
-          "traducida": false
-        },
-        {
-          "id": "b435b17c21edf8f3686a",
-          "fecha": "2026-10-23T11:27:35+00:00",
-          "titulo": "‘Pink blooms from among the rubble’: Battling breast cancer in Gaza",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/pink-blooms-from-among-the-rubble-battling-breast-cancer-in-gaza?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "69507617ea9517a68e36",
-          "fecha": "2026-10-23T10:26:06+00:00",
-          "titulo": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
-          "fuente": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-          "traducida": false
-        },
-        {
-          "id": "afa8d329f07e7979773c",
-          "fecha": "2026-10-23T10:00:00+00:00",
-          "titulo": "Press review: Russia open to Ukraine talks as Iran tensions rise amid US-Israeli threat",
-          "fuente": "TASS",
-          "url": "https://tass.com/pressreview/2206673",
-          "traducida": false
-        },
-        {
-          "id": "9991f337dcb3b05b4cc9",
-          "fecha": "2026-10-23T09:56:28+00:00",
-          "titulo": "New electronics reach Iran, but prices soar as gov’t fees, US sanctions hit",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/features/2026/10/23/new-electronics-reach-iran-but-prices-soar-as-govt-fees-us-sanctions-hit?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "2bcca241383bd0eadf9d",
-          "fecha": "2026-10-23T09:40:57+00:00",
-          "titulo": "NBA’s Irving praises Al-Shaair’s ‘selfless act’ after Hind Rajab fine paid",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/10/23/nbas-irving-praises-al-shaairs-selfless-act-after-hind-rajab-fine-paid?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "8590e41efbea3b31bb15",
-          "fecha": "2026-10-23T09:32:33+00:00",
-          "titulo": "What role does the military play in Israeli schools?",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/what-role-does-the-military-play-in-israeli-schools?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "92b5139179897ff5a0ff",
-          "fecha": "2026-10-23T09:12:46+00:00",
-          "titulo": "Hamilton calls for Palestine and DR Congo freedom as Rwanda takes F1 spotlight",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/10/23/hamilton-calls-for-palestine-sudan-and-congo-freedom-with-f1-in-spotlight?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "78ac639685a67cb84376",
-          "fecha": "2026-10-23T09:12:38+00:00",
-          "titulo": "Israeli military kills two in gun battle in occupied West Bank",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israeli-military-kills-two-in-gun-battle-in-occupied-west-bank?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "266a24426e610e1f0314",
-          "fecha": "2026-10-23T09:03:39+00:00",
-          "titulo": "Ultra-Orthodox conscription debate ignites Israel’s election battleground",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/23/ultra-orthodox-conscription-debate-ignites-israels-election-battleground?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "0a8af5b182a4f0448c98",
-          "fecha": "2026-10-23T08:41:41+00:00",
-          "titulo": "US-Iran war to continue until nuclear deal is struck, US envoy says",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2206699",
-          "traducida": false
-        },
-        {
-          "id": "44c65efea65560f6eed6",
-          "fecha": "2026-10-23T08:35:44+00:00",
-          "titulo": "Israeli forces accused of killing disabled man in Syria raid",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israeli-forces-accused-of-killing-disabled-man-in-syria-raid?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "2f2c07067042a819c6bc",
-          "fecha": "2026-10-23T08:29:22+00:00",
-          "titulo": "Netanyahu orders West Bank closure after attack on Israelis ends in gun battle",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/world/middle-east/article/3371912/netanyahu-orders-west-bank-closure-after-deadly-checkpoint-shoot-out",
           "traducida": false
         }
       ]
@@ -754,6 +502,258 @@
           "titulo": "« La France est le maillon faible de cette lutte mondiale pour les capitaux »",
           "fuente": "Le Monde",
           "url": "https://www.lemonde.fr/economie/article/2026/10/23/la-france-est-le-maillon-faible-de-cette-lutte-mondiale-pour-les-capitaux_6799035_3234.html",
+          "traducida": false
+        }
+      ]
+    },
+    {
+      "id": "oriente-medio",
+      "titulo": "Oriente Medio: seguridad y diplomacia",
+      "cantidad_archivada": 269,
+      "nuevas_24h": 39,
+      "anteriores_24h": 40,
+      "dias_con_registros": 8,
+      "fecha_ultima": "2026-10-23T17:31:46+00:00",
+      "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
+      "publicaciones": [
+        {
+          "id": "999f570fb677d21b3b76",
+          "fecha": "2026-10-23T17:31:46+00:00",
+          "titulo": "US deciding whether to quickly end war with Iran or let it die off — Trump",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2207117",
+          "traducida": false
+        },
+        {
+          "id": "122682f064c9f7c66c2c",
+          "fecha": "2026-10-23T17:18:34+00:00",
+          "titulo": "US and Israel are warned against launching fresh strikes on Iran",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/23/european-middle-eastern-ministers-summit-iran-us-israel",
+          "traducida": false
+        },
+        {
+          "id": "d1e5157ac359bfe4fd28",
+          "fecha": "2026-10-23T16:45:11+00:00",
+          "titulo": "En Israël, la gauche tente d’exister face à la droite radicale et à l’angoisse sécuritaire",
+          "fuente": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/10/23/en-israel-la-gauche-tente-d-exister-face-a-la-droite-radicale-et-a-l-angoisse-securitaire_6799124_3210.html",
+          "traducida": false
+        },
+        {
+          "id": "4f6c75c0c06fa03e3e3f",
+          "fecha": "2026-10-23T16:37:59+00:00",
+          "titulo": "Israeli roadblocks disrupt schools and medical care in West Bank village",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/23/israeli-roadblocks-disrupt-schools-and-medical-care-in-west-bank-village?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "205c60f92e24e46e9072",
+          "fecha": "2026-10-23T16:29:51+00:00",
+          "titulo": "European, Middle East ministers urge US-Iran diplomacy, not new attacks",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/23/european-middle-east-ministers-urge-us-iran-diplomacy-not-new-attacks?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "0aad64c51cf8068e925b",
+          "fecha": "2026-10-23T15:51:29+00:00",
+          "titulo": "‘Foreign policy is the economy’: How Iran war is shaping US midterm vote",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/23/foreign-policy-is-the-economy-how-iran-war-is-shaping-us-midterm-vote?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "0e8f81a2b8bb31957aa7",
+          "fecha": "2026-10-23T15:18:03+00:00",
+          "titulo": "Syria deploys 1,000 troops to its southernmost region amid Israeli actions — newspaper",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2207037",
+          "traducida": false
+        },
+        {
+          "id": "2f7b9151a28fb2100a0b",
+          "fecha": "2026-10-23T14:36:43+00:00",
+          "titulo": "India continues to facilitate transport of life-saving medicines to Iran: MEA",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/india-continues-to-facilitate-transport-of-life-saving-medicines-to-iran-mea/article71616727.ece",
+          "traducida": false
+        },
+        {
+          "id": "33f716a7da1679a0b128",
+          "fecha": "2026-10-23T14:33:52+00:00",
+          "titulo": "Nobody Wants This creator says she disagrees with Adam Brody’s ‘free Palestine’ comments",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/tv-and-radio/2026/oct/23/nobody-wants-this-adam-brody-palestine-comments",
+          "traducida": false
+        },
+        {
+          "id": "6457775024a112732cc1",
+          "fecha": "2026-10-23T14:19:30+00:00",
+          "titulo": "Netanyahu orders ‘very extensive’ operation in West Bank after two Israeli soldiers killed",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/23/netanyahu-orders-very-extensive-operation-west-bank-two-israeli-soldiers-killed",
+          "traducida": false
+        },
+        {
+          "id": "bd921086dd6c8db83266",
+          "fecha": "2026-10-23T13:25:58+00:00",
+          "titulo": "Hundreds to defy Palestine Action ban in protest at US embassy in London",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/features/2026/10/23/hundreds-to-defy-palestine-action-ban-in-protest-at-us-embassy-in-london?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "b3d25385b34596af987c",
+          "fecha": "2026-10-23T13:00:47+00:00",
+          "titulo": "La Fiscalía concluye que Irán se encuentra tras el intento de asesinato de Vidal-Quadras en 2023",
+          "fuente": "El País",
+          "url": "https://elpais.com/espana/2026-10-23/la-fiscalia-concluye-que-iran-se-encuentra-tras-el-intento-de-asesinato-de-vidal-quadras-en-2023.html",
+          "traducida": false
+        },
+        {
+          "id": "0485661ceffbc43e3748",
+          "fecha": "2026-10-23T13:00:18+00:00",
+          "titulo": "Qatar Moto GP to go ahead despite regional tensions",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/10/23/qatar-moto-gp-to-go-ahead-despite-regional-tensions?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "3a028f812fe461886cf4",
+          "fecha": "2026-10-23T12:40:35+00:00",
+          "titulo": "Netanyahu announces largest operation in West Bank since 1967",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2206921",
+          "traducida": false
+        },
+        {
+          "id": "d699247f8661dfe2f59a",
+          "fecha": "2026-10-23T12:04:02+00:00",
+          "titulo": "Netanyahu ordena el cierre total de Cisjordania tras un ataque palestino a cuatro días de las elecciones",
+          "fuente": "El País",
+          "url": "https://elpais.com/internacional/2026-10-23/el-ejercito-israeli-mata-a-dos-palestinos-armados-tras-un-tiroteo-en-cisjordania.html",
+          "traducida": false
+        },
+        {
+          "id": "d6fce9f98f193a72c951",
+          "fecha": "2026-10-23T12:00:09+00:00",
+          "titulo": "L’agonie de la démocratie turque, victime de l’enfermement du régime",
+          "fuente": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/10/23/l-agonie-de-la-democratie-turque-victime-de-l-enfermement-du-regime_6799070_3232.html",
+          "traducida": false
+        },
+        {
+          "id": "642bc2cfeab555b94aa5",
+          "fecha": "2026-10-23T11:43:53+00:00",
+          "titulo": "US-Iran war, then and now: How the landscape has changed since February",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/23/us-iran-war-then-and-now-how-the-landscape-has-changed-since-february?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "1d17155788833fd03f86",
+          "fecha": "2026-10-23T11:35:51+00:00",
+          "titulo": "Oil hits five-month high amid fears US will renew strikes on Iran",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
+          "traducida": false
+        },
+        {
+          "id": "cc4b7015302736e3d823",
+          "fecha": "2026-10-23T11:34:59+00:00",
+          "titulo": "Saudi Arabia security puts Asian Cup in doubt: Japan football chief",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/10/23/saudi-arabia-security-puts-asian-cup-in-doubt-japan-football-chief?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "7043481d6d111c88998a",
+          "fecha": "2026-10-23T11:29:09+00:00",
+          "titulo": "Netanyahu orders West Bank closure as attack wounds Israelis before election",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/netanyahu-orders-west-bank-closure-as-attack-wounds-israelis-before-election/article71615850.ece",
+          "traducida": false
+        },
+        {
+          "id": "b435b17c21edf8f3686a",
+          "fecha": "2026-10-23T11:27:35+00:00",
+          "titulo": "‘Pink blooms from among the rubble’: Battling breast cancer in Gaza",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/pink-blooms-from-among-the-rubble-battling-breast-cancer-in-gaza?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "69507617ea9517a68e36",
+          "fecha": "2026-10-23T10:26:06+00:00",
+          "titulo": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
+          "fuente": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+          "traducida": false
+        },
+        {
+          "id": "afa8d329f07e7979773c",
+          "fecha": "2026-10-23T10:00:00+00:00",
+          "titulo": "Press review: Russia open to Ukraine talks as Iran tensions rise amid US-Israeli threat",
+          "fuente": "TASS",
+          "url": "https://tass.com/pressreview/2206673",
+          "traducida": false
+        },
+        {
+          "id": "9991f337dcb3b05b4cc9",
+          "fecha": "2026-10-23T09:56:28+00:00",
+          "titulo": "New electronics reach Iran, but prices soar as gov’t fees, US sanctions hit",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/features/2026/10/23/new-electronics-reach-iran-but-prices-soar-as-govt-fees-us-sanctions-hit?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "2bcca241383bd0eadf9d",
+          "fecha": "2026-10-23T09:40:57+00:00",
+          "titulo": "NBA’s Irving praises Al-Shaair’s ‘selfless act’ after Hind Rajab fine paid",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/10/23/nbas-irving-praises-al-shaairs-selfless-act-after-hind-rajab-fine-paid?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "8590e41efbea3b31bb15",
+          "fecha": "2026-10-23T09:32:33+00:00",
+          "titulo": "What role does the military play in Israeli schools?",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/what-role-does-the-military-play-in-israeli-schools?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "92b5139179897ff5a0ff",
+          "fecha": "2026-10-23T09:12:46+00:00",
+          "titulo": "Hamilton calls for Palestine and DR Congo freedom as Rwanda takes F1 spotlight",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/10/23/hamilton-calls-for-palestine-sudan-and-congo-freedom-with-f1-in-spotlight?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "78ac639685a67cb84376",
+          "fecha": "2026-10-23T09:12:38+00:00",
+          "titulo": "Israeli military kills two in gun battle in occupied West Bank",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israeli-military-kills-two-in-gun-battle-in-occupied-west-bank?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "266a24426e610e1f0314",
+          "fecha": "2026-10-23T09:03:39+00:00",
+          "titulo": "Ultra-Orthodox conscription debate ignites Israel’s election battleground",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/23/ultra-orthodox-conscription-debate-ignites-israels-election-battleground?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "0a8af5b182a4f0448c98",
+          "fecha": "2026-10-23T08:41:41+00:00",
+          "titulo": "US-Iran war to continue until nuclear deal is struck, US envoy says",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2206699",
           "traducida": false
         }
       ]
@@ -1013,13 +1013,21 @@
     {
       "id": "suramerica",
       "titulo": "Sudamérica: integración y política exterior",
-      "cantidad_archivada": 56,
-      "nuevas_24h": 8,
-      "anteriores_24h": 13,
+      "cantidad_archivada": 57,
+      "nuevas_24h": 9,
+      "anteriores_24h": 12,
       "dias_con_registros": 8,
-      "fecha_ultima": "2026-10-23T16:41:09+00:00",
+      "fecha_ultima": "2026-10-23T17:30:11+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "4a2f46426c7f6ee6e800",
+          "fecha": "2026-10-23T17:30:11+00:00",
+          "titulo": "La diplomatie de Giorgia Meloni, une politique au cœur de l’internationale réactionnaire",
+          "fuente": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/10/23/la-diplomatie-de-giorgia-meloni-une-politique-au-c-ur-de-l-internationale-reactionnaire_6799132_3210.html",
+          "traducida": false
+        },
         {
           "id": "f07a457c5be5bb854cbf",
           "fecha": "2026-10-23T16:41:09+00:00",
@@ -1250,14 +1258,6 @@
           "titulo": "Huevos en el sujetador y pasaporte diplomático: así funcionaba el tráfico de loros de Brasil a Canarias",
           "fuente": "El País",
           "url": "https://elpais.com/clima-y-medio-ambiente/2026-10-21/huevos-en-el-sujetador-asi-funcionaba-el-trafico-ilegal-de-loros-desde-brasil-hasta-las-canarias.html",
-          "traducida": false
-        },
-        {
-          "id": "f49df435f86b05eac631",
-          "fecha": "2026-10-21T11:33:33+00:00",
-          "titulo": "Milei saca el programa de la motosierra en el Casino (ante Jaime de Marichalar, Ramón Tamames y figuras del PP y Vox)",
-          "fuente": "El País",
-          "url": "https://elpais.com/espana/elecciones-generales/2026-10-21/milei-saca-el-programa-de-la-motosierra-en-el-casino-ante-jaime-de-marichalar-ramon-tamames-y-figuras-del-pp-y-vox.html",
           "traducida": false
         }
       ]
