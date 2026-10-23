@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-10-23T15:46:22.289622+00:00",
+  "created_utc": "2026-10-23T15:58:33.851531+00:00",
   "events": [
     {
       "id": "a-68b1440f8969766bffae",
@@ -5953,6 +5953,91 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-80f65f8646abe5a91f3f",
+      "fecha": "2026-10-23",
+      "titulo_fuente": "Three terrorists involved in attack on Christian church in Jordan — TV",
+      "region": "Internacional",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "80f65f8646abe5a91f3f",
+          "titulo_original": "Three terrorists involved in attack on Christian church in Jordan — TV",
+          "titulo_es": "Tres terroristas involucrados en ataques contra la iglesia cristiana en Jordania — TV",
+          "url": "https://tass.com/emergencies/2207067",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-10-23T15:46:12+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "According to the source, security patrols are currently conducting a sweep of city neighborhoods in search of the attackers",
+          "resumen_es": "Según la fuente, las patrullas de seguridad están llevando a cabo un barrido de barrios urbanos en busca de los atacantes"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-b7121c08204556785a6b",
+      "fecha": "2026-10-23",
+      "titulo_fuente": "El petróleo y el temor a una burbuja de la IA dejan una semana de pérdidas en las Bolsas pese al rebote final",
+      "region": "Internacional",
+      "temas": [
+        "Seguridad y conflictos",
+        "Energía y clima"
+      ],
+      "noticias": [
+        {
+          "id": "b7121c08204556785a6b",
+          "titulo_original": "El petróleo y el temor a una burbuja de la IA dejan una semana de pérdidas en las Bolsas pese al rebote final",
+          "titulo_es": "",
+          "url": "https://cincodias.elpais.com/mercados-financieros/2026-10-23/la-bolsa-y-el-ibex-35.html",
+          "fuente": "El País",
+          "pais": "España",
+          "fecha": "2026-10-23T15:40:40+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "El barril de ‘brent’ escala hasta los 116 dólares ante la falta de un acuerdo que ponga fin a la guerra en Oriente Próximo",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "El País"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Energía y clima, Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-709eed1c6dd0bdcc38af",
       "fecha": "2026-10-23",
       "titulo_fuente": "Oil spill washes up on UAE beaches after tanker strike",
@@ -6813,92 +6898,6 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Ámbito: Comercio y finanzas"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-20fdd12796fb1e0ae3c3",
-      "fecha": "2026-10-23",
-      "titulo_fuente": "World’s largest passenger jet cannot land in Moscow due to restrictions",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "20fdd12796fb1e0ae3c3",
-          "titulo_original": "World’s largest passenger jet cannot land in Moscow due to restrictions",
-          "titulo_es": "",
-          "url": "https://tass.com/society/2206983",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-23T13:46:09+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "\"The airplane is now circling in the Penza Region, waiting for the resumption of Moscow airports' operations or the decision to fly to an alternate airfield,\" the source said",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-18e4cf4dbe850451e8fd",
-      "fecha": "2026-10-23",
-      "titulo_fuente": "Tsunami warning issued for Sicily following tremors — newspaper",
-      "region": "Internacional",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "18e4cf4dbe850451e8fd",
-          "titulo_original": "Tsunami warning issued for Sicily following tremors — newspaper",
-          "titulo_es": "",
-          "url": "https://tass.com/world/2206977",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-23T13:44:47+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Residential areas on the Aeolian Islands reportedly lie closest to the epicenter",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
