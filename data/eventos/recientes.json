@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-10-24T16:42:24.126022+00:00",
+  "created_utc": "2026-10-24T17:40:21.189679+00:00",
   "events": [
     {
       "id": "a-dab8992b8dc4d0dc9281",
@@ -2138,53 +2138,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-0ce1d97ebba46e65b5f9",
-      "fecha": "2026-10-23",
-      "titulo_fuente": "Peace in Ukraine achievable if US respects Russia’s interests — Russian diplomat",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Diplomacia"
-      ],
-      "noticias": [
-        {
-          "id": "0ce1d97ebba46e65b5f9",
-          "titulo_original": "Peace in Ukraine achievable if US respects Russia’s interests — Russian diplomat",
-          "titulo_es": "",
-          "url": "https://tass.com/politics/2206943",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-23T13:01:26+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Alexander Gusarov noted that the domestic political and party landscape in the United States may have a significant impact on the congressional legislative agenda regarding Russia",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "Rusia",
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos, Rusia, Ucrania",
-        "Ámbito: Diplomacia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-077529828af457c95456",
       "fecha": "2026-10-24",
       "titulo_fuente": "Israel launches major operation in West Bank after soldiers killed",
@@ -2358,6 +2311,97 @@
       "motivos_seleccion": [
         "Cobertura de fuentes distintas",
         "Actores relevantes: Estados Unidos, Irán"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-739a9c691553292ceb02",
+      "fecha": "2026-10-24",
+      "titulo_fuente": "La alta participación de los palestinos de Israel busca derrocar a Netanyahu: “Tiene que marcharse ya”",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos",
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "739a9c691553292ceb02",
+          "titulo_original": "La alta participación de los palestinos de Israel busca derrocar a Netanyahu: “Tiene que marcharse ya”",
+          "titulo_es": "",
+          "url": "https://elpais.com/internacional/2026-10-25/la-alta-participacion-de-los-palestinos-de-israel-busca-derrocar-a-netanyahu-tiene-que-marcharse-ya.html",
+          "fuente": "El País",
+          "pais": "España",
+          "fecha": "2026-10-24T16:57:07+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Los electores árabes denuncian ataques racistas y contra su libertad de expresión por parte del Gobierno ultraderechista. Poner fin a ese miedo les motiva para votar",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "El País"
+      ],
+      "actores_mencionados": [
+        "Israel"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Israel",
+        "Ámbito: Comercio y finanzas, Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-8b909072ea0d13b16b42",
+      "fecha": "2026-10-24",
+      "titulo_fuente": "EN DIRECT, guerre en Ukraine : un drone à l’origine inconnue retrouvé en Lettonie",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Diplomacia"
+      ],
+      "noticias": [
+        {
+          "id": "8b909072ea0d13b16b42",
+          "titulo_original": "EN DIRECT, guerre en Ukraine : un drone à l’origine inconnue retrouvé en Lettonie",
+          "titulo_es": "",
+          "url": "https://www.lemonde.fr/international/live/2026/10/24/en-direct-guerre-en-ukraine-un-drone-a-l-origine-inconnue-retrouve-en-lettonie_6796922_3210.html",
+          "fuente": "Le Monde",
+          "pais": "Francia",
+          "fecha": "2026-10-24T16:47:51+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Selon l’armée lettone, l’engin « a vraisemblablement pénétré l’espace aérien letton le 18 octobre ». Par ailleurs, la Russie promet une « réponse ferme » après l’expulsion d’un diplomate par la Moldavie, dont la présidente, Maia Sandu, a affirmé vendredi qu’« un drone d’attaque russe de type Gueran » avait « violé » l’espace aérien de son pays.",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "Le Monde"
+      ],
+      "actores_mencionados": [
+        "Ucrania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Ucrania",
+        "Ámbito: Diplomacia"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6129,145 +6173,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-6874d311170ca12bc6ba",
-      "fecha": "2026-10-23",
-      "titulo_fuente": "What is known about Austria declaring four Russian diplomats personae non gratae",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Diplomacia",
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "6874d311170ca12bc6ba",
-          "titulo_original": "What is known about Austria declaring four Russian diplomats personae non gratae",
-          "titulo_es": "",
-          "url": "https://tass.com/politics/2206947",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-23T13:04:10+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Three diplomatic staff members of the embassy and a member of the Russian delegation to the Vienna negotiations on military security and arms control have been declared personae non gratae",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia",
-        "Ámbito: Diplomacia, Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-bcd5ac9a5c0a1cae57a1",
-      "fecha": "2026-10-23",
-      "titulo_fuente": "Bear attacks killed 28 people in Russia in 2026",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "bcd5ac9a5c0a1cae57a1",
-          "titulo_original": "Bear attacks killed 28 people in Russia in 2026",
-          "titulo_es": "",
-          "url": "https://tass.com/society/2206945",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-23T13:02:49+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Siberia and the Far East face a difficult situation as bears increasingly enter populated areas",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-fb32a4fbedf8b2cf1c37",
-      "fecha": "2026-10-23",
-      "titulo_fuente": "France ‘certain’ united front with Germany pushed China into hybrid car deal",
-      "region": "China",
-      "temas": [
-        "Seguridad y conflictos",
-        "Comercio y finanzas"
-      ],
-      "noticias": [
-        {
-          "id": "fb32a4fbedf8b2cf1c37",
-          "titulo_original": "France ‘certain’ united front with Germany pushed China into hybrid car deal",
-          "titulo_es": "",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3371962/france-certain-united-front-germany-pushed-china-hybrid-car-deal",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-10-23T13:00:20+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "France is “certain” that its push with Germany for a tougher EU China policy propelled Beijing to moderate its hybrid car exports, despite warnings from the Chinese capital that the pressure did not work. “I’m certain that it played a role, and it’s very important that the German and French engine, which is very essential to the future of Europe, starts again – and I think that’s going to be the case,” French Trade Minister Nicolas Forissier said",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "South China Morning Post"
-      ],
-      "actores_mencionados": [
-        "China",
-        "Francia",
-        "Alemania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: China",
-        "Ámbito: Comercio y finanzas, Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-775731953eb026fdf0e3",
       "fecha": "2026-10-24",
       "titulo_fuente": "Death toll from Jordan church attack rises to nine",
@@ -6670,6 +6575,136 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-f23c63879901b3b80eaf",
+      "fecha": "2026-10-24",
+      "titulo_fuente": "Entre Giorgia Meloni et la France, une obsession devenue réciproque",
+      "region": "Europa",
+      "temas": [
+        "Organismos multilaterales"
+      ],
+      "noticias": [
+        {
+          "id": "f23c63879901b3b80eaf",
+          "titulo_original": "Entre Giorgia Meloni et la France, une obsession devenue réciproque",
+          "titulo_es": "",
+          "url": "https://www.lemonde.fr/international/article/2026/10/24/entre-giorgia-meloni-et-la-france-une-obsession-devenue-reciproque_6799724_3210.html",
+          "fuente": "Le Monde",
+          "pais": "Francia",
+          "fecha": "2026-10-24T17:30:11+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "« Meloni, quatre années au pouvoir » (6/6). Forte de nombreux soutiens dans l’Hexagone au sein de la droite et de l’extrême droite, où certains l’envient, la présidente du conseil italien peine à se défaire d’une certaine rancœur envers la France, comme ses rapports difficiles avec Emmanuel Macron l’illustrent.",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "Le Monde"
+      ],
+      "actores_mencionados": [
+        "Francia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Institucionalismo liberal",
+        "pregunta": "¿Qué reglas, mecanismos de cooperación y límites institucionales afectan la decisión?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Organismos multilaterales"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-d180bfad957405e6f28c",
+      "fecha": "2026-10-24",
+      "titulo_fuente": "Trump says he may move White House press corps to new location",
+      "region": "Estados Unidos",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "d180bfad957405e6f28c",
+          "titulo_original": "Trump says he may move White House press corps to new location",
+          "titulo_es": "Trump dice que puede mover el cuerpo de prensa de la Casa Blanca a nueva ubicación",
+          "url": "https://www.aljazeera.com/news/2026/10/24/trump-says-he-may-move-white-house-press-corps-to-new-location?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-10-24T17:01:34+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Trump’s remarks come amid a fractious moment between the US president and the journalists who cover him.",
+          "resumen_es": "Los comentarios de Trump vienen en medio de un momento fractioso entre el presidente estadounidense y los periodistas que lo cubren."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-b6fc1eb5fc75b9b96c6d",
+      "fecha": "2026-10-24",
+      "titulo_fuente": "About 25,000 rally in Madrid in support of Spain’s state pension scheme",
+      "region": "Internacional",
+      "temas": [
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "b6fc1eb5fc75b9b96c6d",
+          "titulo_original": "About 25,000 rally in Madrid in support of Spain’s state pension scheme",
+          "titulo_es": "Alrededor de 25.000 rallyes en Madrid en apoyo del plan de pensiones estatal de España",
+          "url": "https://www.aljazeera.com/news/2026/10/24/about-25000-rally-in-madrid-in-support-of-spains-state-pension-scheme?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-10-24T16:48:36+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Demonstrators want pensions to remain indexed to inflation and the gender pension gap to be eliminated.",
+          "resumen_es": "Los manifestantes quieren que las pensiones permanezcan indizadas en la inflación y que se elimine la brecha de pensiones de género."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia compleja y economía política internacional",
+        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Comercio y finanzas"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-af816316249fa5fd5320",
       "fecha": "2026-10-24",
       "titulo_fuente": "Rishon LeZion, une ville devenue miroir électoral d’Israël",
@@ -6802,6 +6837,50 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-06bf84686aa8fef73c83",
+      "fecha": "2026-10-24",
+      "titulo_fuente": "¿Puede Lula remontar a Flávio Bolsonaro? Esto es lo que dicen las encuestas",
+      "region": "Internacional",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "06bf84686aa8fef73c83",
+          "titulo_original": "¿Puede Lula remontar a Flávio Bolsonaro? Esto es lo que dicen las encuestas",
+          "titulo_es": "",
+          "url": "https://elpais.com/america/2026-10-24/puede-lula-remontar-a-flavio-bolsonaro-esto-es-lo-que-dicen-las-encuestas.html",
+          "fuente": "El País",
+          "pais": "España",
+          "fecha": "2026-10-24T15:47:09+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "El ultra es el favorito de sondeos y mercados, pero no tiene la victoria asegurada. El modelo de EL PAÍS lo ve ganador siete de cada diez veces, con el izquierdista imponiéndose en las otras tres",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "El País"
+      ],
+      "actores_mencionados": [
+        "Brasil"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Brasil"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-135bf913908718e670af",
       "fecha": "2026-10-24",
       "titulo_fuente": "Houthis attack Yemen’s Aden, say Saudi strikes kill 16",
@@ -6927,92 +7006,6 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Actores relevantes: Rusia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-e445bb162dbf96d890c8",
-      "fecha": "2026-10-24",
-      "titulo_fuente": "Security forces deploy as Milan braces for another day of protests",
-      "region": "Internacional",
-      "temas": [
-        "Comercio y finanzas"
-      ],
-      "noticias": [
-        {
-          "id": "e445bb162dbf96d890c8",
-          "titulo_original": "Security forces deploy as Milan braces for another day of protests",
-          "titulo_es": "Fuerzas de seguridad despliegan como frenos de Milán para otro día de protestas",
-          "url": "https://www.aljazeera.com/news/2026/10/24/security-forces-deploy-as-milan-braces-for-another-day-of-protests?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-10-24T15:05:58+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The Italian government has sent hundreds of soldiers to the country's financial hub ahead of anticipated unrest.",
-          "resumen_es": "El gobierno italiano ha enviado cientos de soldados al centro financiero del país antes de los disturbios previstos."
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia compleja y economía política internacional",
-        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Comercio y finanzas"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-87acb7c8262a68a65740",
-      "fecha": "2026-10-24",
-      "titulo_fuente": "Why Israeli tourists and investors are unsettling Cypriots",
-      "region": "Oriente Medio",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "87acb7c8262a68a65740",
-          "titulo_original": "Why Israeli tourists and investors are unsettling Cypriots",
-          "titulo_es": "Por qué los turistas e inversores israelíes están perturbando a los chipriotas",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_why-israeli-investors-are-unsettling-cypriots-241026?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-10-24T14:56:47+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Cypriots say the influx of Israelis is threatening local businesses and pushing communities out of their neighbourhoods.",
-          "resumen_es": "Los chipriotas dicen que la afluencia de israelíes amenaza a las empresas locales y empuja a las comunidades de sus barrios."
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera"
-      ],
-      "actores_mencionados": [
-        "Israel"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Israel"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null

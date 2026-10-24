@@ -1,17 +1,25 @@
 {
-  "actualizado_utc": "2026-10-24T16:42:24.171016+00:00",
+  "actualizado_utc": "2026-10-24T17:40:21.242706+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 607,
-      "nuevas_24h": 61,
-      "anteriores_24h": 105,
+      "cantidad_archivada": 608,
+      "nuevas_24h": 50,
+      "anteriores_24h": 111,
       "dias_con_registros": 9,
-      "fecha_ultima": "2026-10-24T15:47:20+00:00",
+      "fecha_ultima": "2026-10-24T16:47:51+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "8b909072ea0d13b16b42",
+          "fecha": "2026-10-24T16:47:51+00:00",
+          "titulo": "EN DIRECT, guerre en Ukraine : un drone à l’origine inconnue retrouvé en Lettonie",
+          "fuente": "Le Monde",
+          "url": "https://www.lemonde.fr/international/live/2026/10/24/en-direct-guerre-en-ukraine-un-drone-a-l-origine-inconnue-retrouve-en-lettonie_6796922_3210.html",
+          "traducida": false
+        },
         {
           "id": "4bd07663470201bea77e",
           "fecha": "2026-10-24T15:47:20+00:00",
@@ -243,27 +251,27 @@
           "fuente": "TASS",
           "url": "https://tass.com/politics/2207207",
           "traducida": false
-        },
-        {
-          "id": "9253582ec3b5201046ac",
-          "fecha": "2026-10-23T22:50:01+00:00",
-          "titulo": "Moscow and New Delhi ready Modi’s visit to Russia — Indian ambassador",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2207203",
-          "traducida": false
         }
       ]
     },
     {
       "id": "oriente-medio",
       "titulo": "Oriente Medio: seguridad y diplomacia",
-      "cantidad_archivada": 312,
-      "nuevas_24h": 46,
-      "anteriores_24h": 40,
+      "cantidad_archivada": 313,
+      "nuevas_24h": 43,
+      "anteriores_24h": 42,
       "dias_con_registros": 9,
-      "fecha_ultima": "2026-10-24T16:30:08+00:00",
+      "fecha_ultima": "2026-10-24T16:57:07+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "739a9c691553292ceb02",
+          "fecha": "2026-10-24T16:57:07+00:00",
+          "titulo": "La alta participación de los palestinos de Israel busca derrocar a Netanyahu: “Tiene que marcharse ya”",
+          "fuente": "El País",
+          "url": "https://elpais.com/internacional/2026-10-25/la-alta-participacion-de-los-palestinos-de-israel-busca-derrocar-a-netanyahu-tiene-que-marcharse-ya.html",
+          "traducida": false
+        },
         {
           "id": "af816316249fa5fd5320",
           "fecha": "2026-10-24T16:30:08+00:00",
@@ -495,27 +503,27 @@
           "fuente": "The Hindu",
           "url": "https://www.thehindu.com/news/international/signs-point-to-renewed-major-us-military-operations-against-iran/article71618967.ece",
           "traducida": false
-        },
-        {
-          "id": "639f5298edc9d1fe6a3b",
-          "fecha": "2026-10-24T03:30:20+00:00",
-          "titulo": "Les partisans du Grand Israël avancent leurs pions, à la veille des élections législatives",
-          "fuente": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/10/24/les-partisans-du-grand-israel-avancent-leurs-pions-a-la-veille-des-elections-legislatives_6799481_3210.html",
-          "traducida": false
         }
       ]
     },
     {
       "id": "union-europea",
       "titulo": "Unión Europea y relaciones exteriores",
-      "cantidad_archivada": 247,
-      "nuevas_24h": 24,
-      "anteriores_24h": 42,
+      "cantidad_archivada": 248,
+      "nuevas_24h": 25,
+      "anteriores_24h": 40,
       "dias_con_registros": 9,
-      "fecha_ultima": "2026-10-24T15:38:00+00:00",
+      "fecha_ultima": "2026-10-24T17:30:11+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "f23c63879901b3b80eaf",
+          "fecha": "2026-10-24T17:30:11+00:00",
+          "titulo": "Entre Giorgia Meloni et la France, une obsession devenue réciproque",
+          "fuente": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/10/24/entre-giorgia-meloni-et-la-france-une-obsession-devenue-reciproque_6799724_3210.html",
+          "traducida": false
+        },
         {
           "id": "b9ae05728ad25de096ff",
           "fecha": "2026-10-24T15:38:00+00:00",
@@ -746,14 +754,6 @@
           "titulo": "France deploys 70,000 police for new protests as Macron delays Africa trip",
           "fuente": "South China Morning Post",
           "url": "https://www.scmp.com/news/world/europe/article/3371973/france-deploys-70000-police-new-protests-macron-delays-africa-trip",
-          "traducida": false
-        },
-        {
-          "id": "cd4a2efb21a6936c9d62",
-          "fecha": "2026-10-23T14:00:20+00:00",
-          "titulo": "France unrest sparks travel jitters for Southeast Asian tourists",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/week-asia/economics/article/3371964/france-unrest-sparks-travel-jitters-southeast-asian-tourists",
           "traducida": false
         }
       ]
@@ -1013,13 +1013,21 @@
     {
       "id": "suramerica",
       "titulo": "Sudamérica: integración y política exterior",
-      "cantidad_archivada": 69,
+      "cantidad_archivada": 70,
       "nuevas_24h": 13,
       "anteriores_24h": 9,
       "dias_con_registros": 9,
-      "fecha_ultima": "2026-10-24T15:36:38+00:00",
+      "fecha_ultima": "2026-10-24T15:47:09+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "06bf84686aa8fef73c83",
+          "fecha": "2026-10-24T15:47:09+00:00",
+          "titulo": "¿Puede Lula remontar a Flávio Bolsonaro? Esto es lo que dicen las encuestas",
+          "fuente": "El País",
+          "url": "https://elpais.com/america/2026-10-24/puede-lula-remontar-a-flavio-bolsonaro-esto-es-lo-que-dicen-las-encuestas.html",
+          "traducida": false
+        },
         {
           "id": "341fd6dbc70b531fd649",
           "fecha": "2026-10-24T15:36:38+00:00",
@@ -1250,14 +1258,6 @@
           "titulo": "Brazil’s president appeals to undecided voters ahead of run-off",
           "fuente": "Al Jazeera",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/brazils-president-appeals-to-undecided-voters-ahead-of-run-off?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "293f92f8c5cfd9cbee24",
-          "fecha": "2026-10-22T07:52:40+00:00",
-          "titulo": "La oposición carga contra Ayuso por el abrazo a Milei y la presidenta defiende su gestión: “Argentina es el país que más crece”",
-          "fuente": "El País",
-          "url": "https://elpais.com/espana/madrid/2026-10-22/psoe-y-mas-madrid-esperan-a-ayuso-en-la-asamblea-con-todo-el-arsenal-tras-su-efusivo-abrazo-con-milei.html",
           "traducida": false
         }
       ]
