@@ -1,17 +1,33 @@
 {
-  "actualizado_utc": "2026-10-24T14:56:26.065281+00:00",
+  "actualizado_utc": "2026-10-24T16:11:51.162585+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 605,
-      "nuevas_24h": 67,
-      "anteriores_24h": 107,
+      "cantidad_archivada": 607,
+      "nuevas_24h": 62,
+      "anteriores_24h": 106,
       "dias_con_registros": 9,
-      "fecha_ultima": "2026-10-24T14:23:40+00:00",
+      "fecha_ultima": "2026-10-24T15:47:20+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "4bd07663470201bea77e",
+          "fecha": "2026-10-24T15:47:20+00:00",
+          "titulo": "Ukraine’s military says Starlink satellite connection stable after recent restrictions",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions",
+          "traducida": false
+        },
+        {
+          "id": "aa4fb1d4c7e7e2b266ec",
+          "fecha": "2026-10-24T15:21:58+00:00",
+          "titulo": "Russia’s Medvedev into Almaty Open tennis final after Bublik’s retirement",
+          "fuente": "TASS",
+          "url": "https://tass.com/sports/2207303",
+          "traducida": false
+        },
         {
           "id": "94a22b6e7f4c10af846f",
           "fecha": "2026-10-24T14:23:40+00:00",
@@ -235,41 +251,57 @@
           "fuente": "TASS",
           "url": "https://tass.com/politics/2207203",
           "traducida": false
-        },
-        {
-          "id": "ff9d3cebea0fe82b12d7",
-          "fecha": "2026-10-23T22:42:01+00:00",
-          "titulo": "Kiev not interested in resolving conflict via talks — BSW expert",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2207201",
-          "traducida": false
-        },
-        {
-          "id": "1f9547d1f07b0cccb705",
-          "fecha": "2026-10-23T22:24:36+00:00",
-          "titulo": "Who actually controls Ukraine's access to Starlink?",
-          "fuente": "BBC News",
-          "url": "https://www.bbc.co.uk/news/videos/cqy7lvv0lvzpo?at_medium=RSS&at_campaign=rss",
-          "traducida": false
         }
       ]
     },
     {
       "id": "oriente-medio",
       "titulo": "Oriente Medio: seguridad y diplomacia",
-      "cantidad_archivada": 307,
-      "nuevas_24h": 45,
-      "anteriores_24h": 42,
+      "cantidad_archivada": 311,
+      "nuevas_24h": 47,
+      "anteriores_24h": 40,
       "dias_con_registros": 9,
-      "fecha_ultima": "2026-10-24T14:24:19+00:00",
+      "fecha_ultima": "2026-10-24T15:59:24+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "28f7fad6c54bd035309f",
+          "fecha": "2026-10-24T15:59:24+00:00",
+          "titulo": "Iran president says many struggling for food as war bites",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/iran-president-says-many-struggling-for-food-as-war-bites/article71620956.ece",
+          "traducida": false
+        },
+        {
+          "id": "61ef7d9240d751ab16dc",
+          "fecha": "2026-10-24T15:50:49+00:00",
+          "titulo": "More than 2,000 forced from homes in Hebron amid Israel’s West Bank raids",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/24/more-than-2000-forced-from-homes-in-hebron-amid-israels-west-bank-raids?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "87acb7c8262a68a65740",
+          "fecha": "2026-10-24T14:56:47+00:00",
+          "titulo": "Why Israeli tourists and investors are unsettling Cypriots",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_why-israeli-investors-are-unsettling-cypriots-241026?traffic_source=rss",
+          "traducida": false
+        },
         {
           "id": "5dec89aa3d7b0639d84c",
           "fecha": "2026-10-24T14:24:19+00:00",
           "titulo": "Full lockdown of occupied West Bank begins",
           "fuente": "Al Jazeera",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/full-lockdown-of-occupied-west-bank-begins-2?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "9aa9e6ef664e0933781d",
+          "fecha": "2026-10-24T14:09:00+00:00",
+          "titulo": "Turkey's new deal on Mediterranean maritime boundaries with Libya is exacerbating issues with Greece and the EU",
+          "fuente": "Deutsche Welle",
+          "url": "https://www.dw.com/en/turkey-s-new-deal-on-mediterranean-maritime-boundaries-with-libya-is-exacerbating-issues-with-greece-and-the-eu/a-79745971?maca=en-rss-en-world-4025-rdf",
           "traducida": false
         },
         {
@@ -471,57 +503,41 @@
           "fuente": "The Hindu",
           "url": "https://www.thehindu.com/news/international/trump-says-us-will-take-care-of-cuba-on-its-way-back-from-iran/article71618927.ece",
           "traducida": false
-        },
-        {
-          "id": "5472e565e22f092d9511",
-          "fecha": "2026-10-24T03:01:00+00:00",
-          "titulo": "Arabian coalition shoots down Houthi ballistic missile over Riyadh",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2207235",
-          "traducida": false
-        },
-        {
-          "id": "74f8b01a5b659fcd8b1e",
-          "fecha": "2026-10-24T02:07:00+00:00",
-          "titulo": "Trump promises quick drop in oil prices",
-          "fuente": "TASS",
-          "url": "https://tass.com/economy/2207227",
-          "traducida": false
-        },
-        {
-          "id": "94620d8036c656e54fb6",
-          "fecha": "2026-10-24T01:15:01+00:00",
-          "titulo": "US stops being security guarantor in Middle East, ambassador says",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2207219",
-          "traducida": false
-        },
-        {
-          "id": "e74c44b14e60bf338fca",
-          "fecha": "2026-10-24T00:30:02+00:00",
-          "titulo": "Rubio tells Cubans ‘now is the time’ to act to see political change",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/oct/23/marco-rubio-cuba-trump",
-          "traducida": false
         }
       ]
     },
     {
       "id": "union-europea",
       "titulo": "Unión Europea y relaciones exteriores",
-      "cantidad_archivada": 245,
-      "nuevas_24h": 25,
-      "anteriores_24h": 47,
+      "cantidad_archivada": 247,
+      "nuevas_24h": 24,
+      "anteriores_24h": 43,
       "dias_con_registros": 9,
-      "fecha_ultima": "2026-10-24T14:21:34+00:00",
+      "fecha_ultima": "2026-10-24T15:38:00+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "b9ae05728ad25de096ff",
+          "fecha": "2026-10-24T15:38:00+00:00",
+          "titulo": "Protestos na França começam sob forte esquema de segurança",
+          "fuente": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/protestos-na-franca-comecam-sob-forte-esquema-de-seguranca",
+          "traducida": false
+        },
         {
           "id": "5b8dce020baeb2f21824",
           "fecha": "2026-10-24T14:21:34+00:00",
           "titulo": "Ballon d’Or 2026: Can Kylian Mbappe’s Real Madrid and France record win it?",
           "fuente": "Al Jazeera",
           "url": "https://www.aljazeera.com/sports/2026/10/24/ballon-dor-2026-can-kylian-mbappes-real-madrid-and-france-record-win-it?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "9aa9e6ef664e0933781d",
+          "fecha": "2026-10-24T14:09:00+00:00",
+          "titulo": "Turkey's new deal on Mediterranean maritime boundaries with Libya is exacerbating issues with Greece and the EU",
+          "fuente": "Deutsche Welle",
+          "url": "https://www.dw.com/en/turkey-s-new-deal-on-mediterranean-maritime-boundaries-with-libya-is-exacerbating-issues-with-greece-and-the-eu/a-79745971?maca=en-rss-en-world-4025-rdf",
           "traducida": false
         },
         {
@@ -739,22 +755,6 @@
           "fuente": "South China Morning Post",
           "url": "https://www.scmp.com/week-asia/economics/article/3371964/france-unrest-sparks-travel-jitters-southeast-asian-tourists",
           "traducida": false
-        },
-        {
-          "id": "0752140ee5c71843eb96",
-          "fecha": "2026-10-23T13:55:38+00:00",
-          "titulo": "Interior detecta un llamamiento yihadista para atacar a policías y manifestantes durante las protestas",
-          "fuente": "El País",
-          "url": "https://elpais.com/espana/2026-10-23/interior-detecta-un-llamamiento-yihadista-para-atacar-a-policias-y-manifestantes-durante-las-protestas.html",
-          "traducida": false
-        },
-        {
-          "id": "2abbd319d53e03c789d4",
-          "fecha": "2026-10-23T13:46:12+00:00",
-          "titulo": "Dembele to miss Ballon d’Or event as PSG game moved amid protests in France",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/10/23/dembele-to-miss-ballon-dor-event-as-psg-game-moved-amid-protests-in-france?traffic_source=rss",
-          "traducida": false
         }
       ]
     },
@@ -763,7 +763,7 @@
       "titulo": "India y Asia-Pacífico",
       "cantidad_archivada": 112,
       "nuevas_24h": 15,
-      "anteriores_24h": 22,
+      "anteriores_24h": 20,
       "dias_con_registros": 9,
       "fecha_ultima": "2026-10-24T13:45:45+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -1013,13 +1013,21 @@
     {
       "id": "suramerica",
       "titulo": "Sudamérica: integración y política exterior",
-      "cantidad_archivada": 68,
-      "nuevas_24h": 13,
-      "anteriores_24h": 9,
+      "cantidad_archivada": 69,
+      "nuevas_24h": 14,
+      "anteriores_24h": 8,
       "dias_con_registros": 9,
-      "fecha_ultima": "2026-10-24T13:58:14+00:00",
+      "fecha_ultima": "2026-10-24T15:36:38+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "341fd6dbc70b531fd649",
+          "fecha": "2026-10-24T15:36:38+00:00",
+          "titulo": "Brazil’s Lula and Bolsonaro about even ahead of election run-off: Poll",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-about-even-ahead-of-election-run-off-poll?traffic_source=rss",
+          "traducida": false
+        },
         {
           "id": "f185701a972dd236e172",
           "fecha": "2026-10-24T13:58:14+00:00",
@@ -1251,14 +1259,6 @@
           "fuente": "El País",
           "url": "https://elpais.com/espana/madrid/2026-10-22/psoe-y-mas-madrid-esperan-a-ayuso-en-la-asamblea-con-todo-el-arsenal-tras-su-efusivo-abrazo-con-milei.html",
           "traducida": false
-        },
-        {
-          "id": "4b2c8107d3033781cd45",
-          "fecha": "2026-10-21T18:32:16+00:00",
-          "titulo": "Bolsonaro cae un punto y mantiene el empate técnico con Lula a cuatro días de las presidenciales",
-          "fuente": "El País",
-          "url": "https://elpais.com/america/2026-10-21/bolsonaro-cae-un-punto-y-mantiene-el-empate-tecnico-con-lula-a-cuatro-dias-de-las-presidenciales.html",
-          "traducida": false
         }
       ]
     },
@@ -1267,7 +1267,7 @@
       "titulo": "Competencia estratégica Estados Unidos–China",
       "cantidad_archivada": 25,
       "nuevas_24h": 5,
-      "anteriores_24h": 1,
+      "anteriores_24h": 0,
       "dias_con_registros": 7,
       "fecha_ultima": "2026-10-24T11:08:27+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
