@@ -1,255 +1,507 @@
 {
-  "actualizado_utc": "2026-10-23T18:47:02.772852+00:00",
+  "actualizado_utc": "2026-10-24T12:38:27.576888+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 562,
-      "nuevas_24h": 108,
-      "anteriores_24h": 91,
-      "dias_con_registros": 8,
-      "fecha_ultima": "2026-10-23T18:34:51+00:00",
+      "cantidad_archivada": 601,
+      "nuevas_24h": 91,
+      "anteriores_24h": 106,
+      "dias_con_registros": 9,
+      "fecha_ultima": "2026-10-24T12:12:40+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
         {
-          "id": "d476b0c49b793401e6da",
-          "fecha": "2026-10-23T18:34:51+00:00",
-          "titulo": "Russian stock market closed in the green — market data",
-          "fuente": "TASS",
-          "url": "https://tass.com/economy/2207141",
-          "traducida": false
-        },
-        {
-          "id": "68b358818539220d002c",
-          "fecha": "2026-10-23T18:19:14+00:00",
-          "titulo": "Global sports community gradually returns to its fundamentals — Putin",
-          "fuente": "TASS",
-          "url": "https://tass.com/sports/2207131",
-          "traducida": false
-        },
-        {
-          "id": "f06cd676b1cd05814ad4",
-          "fecha": "2026-10-23T17:52:41+00:00",
-          "titulo": "Trump says Musk did 'nothing wrong' regarding Starlink access in Ukraine",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2207125",
-          "traducida": false
-        },
-        {
-          "id": "d5ec873df6d366cf022c",
-          "fecha": "2026-10-23T17:48:51+00:00",
-          "titulo": "Russia sees sports future in its utmost accessibility and technologies — Putin",
-          "fuente": "TASS",
-          "url": "https://tass.com/sports/2207123",
-          "traducida": false
-        },
-        {
-          "id": "5f8eda096da2d9799248",
-          "fecha": "2026-10-23T17:34:48+00:00",
-          "titulo": "Russia remains open to dialogue and cooperation in sphere of sports — Putin",
-          "fuente": "TASS",
-          "url": "https://tass.com/sports/2207119",
-          "traducida": false
-        },
-        {
-          "id": "b6eb5852986f839024b3",
-          "fecha": "2026-10-23T17:26:13+00:00",
-          "titulo": "Romania blames Russia after drone sinks ship in the Black Sea",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/23/romania-blames-russia-after-drone-sinks-ship-in-the-black-sea?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "6ea8fdef2bc9b4c3b52b",
-          "fecha": "2026-10-23T17:24:01+00:00",
-          "titulo": "Russia is integral part of global sports family — Putin",
-          "fuente": "TASS",
-          "url": "https://tass.com/sports/2207113",
-          "traducida": false
-        },
-        {
-          "id": "48da2076704eceb659cf",
-          "fecha": "2026-10-23T17:17:51+00:00",
-          "titulo": "Russian ombudswoman says humanitarian aid to people in Alyoshki is top priority",
-          "fuente": "TASS",
-          "url": "https://tass.com/society/2207111",
-          "traducida": false
-        },
-        {
-          "id": "dece69697ee762e75d07",
-          "fecha": "2026-10-23T17:16:45+00:00",
-          "titulo": "Russia is set to step up support of national sports disciplines — Putin",
-          "fuente": "TASS",
-          "url": "https://tass.com/sports/2207109",
-          "traducida": false
-        },
-        {
-          "id": "5adc103f421708cbe38c",
-          "fecha": "2026-10-23T17:07:12+00:00",
-          "titulo": "EN DIRECT, guerre en Ukraine : la Russie dit accepter une trêve dans la ville ukrainienne d’Olechky à partir de mardi pour permettre des opérations humanitaires",
-          "fuente": "Le Monde",
-          "url": "https://www.lemonde.fr/international/live/2026/10/23/en-direct-guerre-en-ukraine-la-russie-dit-accepter-une-treve-dans-la-ville-ukrainienne-d-olechky-a-partir-de-mardi-pour-permettre-des-operations-humanitaires_6796922_3210.html",
-          "traducida": false
-        },
-        {
-          "id": "2f04b6b8f12e6682daaf",
-          "fecha": "2026-10-23T17:04:57+00:00",
-          "titulo": "Zelensky complains Starlink restrictions still in place in Ukraine",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2207105",
-          "traducida": false
-        },
-        {
-          "id": "45840d3d338f67c32581",
-          "fecha": "2026-10-23T17:03:50+00:00",
-          "titulo": "Trump says will talk to Musk if Ukraine's Starlink not fixed",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/trump-says-will-talk-to-musk-if-ukraines-starlink-not-fixed/article71617522.ece",
-          "traducida": false
-        },
-        {
-          "id": "1d1f419ad6e95e4359fa",
-          "fecha": "2026-10-23T16:54:54+00:00",
-          "titulo": "Ucrania y Rusia intercambian prisioneros y anuncian un alto el fuego para evacuar la castigada Oleshki",
-          "fuente": "El País",
-          "url": "https://elpais.com/internacional/2026-10-23/ucrania-y-rusia-intercambian-prisioneros-y-anuncian-un-alto-el-fuego-para-evacuar-la-castigada-oleshki.html",
-          "traducida": false
-        },
-        {
-          "id": "f781e93c2c457a1a8225",
-          "fecha": "2026-10-23T16:50:13+00:00",
-          "titulo": "Moldova moves to expel one Russian embassy employee",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2207099",
-          "traducida": false
-        },
-        {
-          "id": "4a0af62bd3daf6d94f69",
-          "fecha": "2026-10-23T16:50:01+00:00",
-          "titulo": "Kremlin says a first tanker of Russian diesel sets sail for U.S. despite Ukraine's protests",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/kremlin-says-a-first-tanker-of-russian-diesel-sets-sail-for-us-despite-ukraines-protests/article71617208.ece",
-          "traducida": false
-        },
-        {
-          "id": "122f16c265c0710e94e3",
-          "fecha": "2026-10-23T16:44:48+00:00",
-          "titulo": "LDPR leader slams Ukrainian attacks on civilian targets as attempt to derail talks",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2207097",
-          "traducida": false
-        },
-        {
-          "id": "dab8992b8dc4d0dc9281",
-          "fecha": "2026-10-23T16:26:41+00:00",
-          "titulo": "Melania Trump brokers ceasefire in Russian-occupied Ukraine city, White House says",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/world/russia-central-asia/article/3371983/melania-trump-brokers-ceasefire-russian-occupied-ukraine-city-white-house-says",
-          "traducida": false
-        },
-        {
-          "id": "271e254f80e556d4d467",
-          "fecha": "2026-10-23T15:38:40+00:00",
-          "titulo": "Evacuation of residents from Alyoshki may take several days — Kremlin spokesman",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2207063",
-          "traducida": false
-        },
-        {
-          "id": "68b1440f8969766bffae",
-          "fecha": "2026-10-23T15:19:29+00:00",
-          "titulo": "Russia, Ukraine agree to Oleshky ceasefire brokered by Melania Trump, White House says",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/russia-ukraine-agree-to-oleshky-ceasefire-brokered-by-melania-trump-white-house-says/article71616736.ece",
-          "traducida": false
-        },
-        {
-          "id": "a2dcbc1767af61a0e9d7",
-          "fecha": "2026-10-23T15:15:00+00:00",
-          "titulo": "Russia, Ukraine agree to ceasefire in Alyoshki — White House",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2207035",
-          "traducida": false
-        },
-        {
-          "id": "cea5bb11177c1ce6e456",
-          "fecha": "2026-10-23T15:06:27+00:00",
-          "titulo": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+          "id": "af154c8b7028fa6b062a",
+          "fecha": "2026-10-24T12:12:40+00:00",
+          "titulo": "Ukraine says Starlink connection 'now stable' after network limits",
           "fuente": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
           "traducida": false
         },
         {
-          "id": "3e6069fe9b734af5f580",
-          "fecha": "2026-10-23T15:03:56+00:00",
-          "titulo": "High inflation expectation being point of concern for Bank of Russia",
-          "fuente": "TASS",
-          "url": "https://tass.com/economy/2207029",
+          "id": "6429ae6d8cbf0948e692",
+          "fecha": "2026-10-24T12:11:34+00:00",
+          "titulo": "EN DIRECT, guerre en Ukraine : trois personnes tuées par un drone ukrainien dans la partie occupée de l’oblast de Kharkiv",
+          "fuente": "Le Monde",
+          "url": "https://www.lemonde.fr/international/live/2026/10/24/en-direct-guerre-en-ukraine-trois-personnes-tuees-par-un-drone-ukrainien-dans-la-partie-occupee-de-l-oblast-de-kharkiv_6796922_3210.html",
           "traducida": false
         },
         {
-          "id": "8ffac309753afa070b3e",
-          "fecha": "2026-10-23T15:03:42+00:00",
-          "titulo": "Russian Ministry of Justice begins publishing list of Russians subject to restrictions",
-          "fuente": "TASS",
-          "url": "https://tass.com/society/2207033",
+          "id": "ffb3eeac053735712c38",
+          "fecha": "2026-10-24T12:00:14+00:00",
+          "titulo": "Ukraine’s Starlink woes should be a wake-up call for Taiwan, analysts say",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/military/article/3372016/ukraines-starlink-woes-should-be-wake-call-taiwan-analysts-say",
           "traducida": false
         },
         {
-          "id": "aadad5e32be3e37ec658",
-          "fecha": "2026-10-23T14:59:07+00:00",
-          "titulo": "Rising export revenues backed ruble rate — Bank of Russia",
-          "fuente": "TASS",
-          "url": "https://tass.com/economy/2207027",
+          "id": "d7ea5b0019d2ce051ed3",
+          "fecha": "2026-10-24T11:09:43+00:00",
+          "titulo": "Ukraine says Starlink back to normal after week of throttling",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/ukraine-says-starlink-back-to-normal-after-week-of-throttling/article71619764.ece",
           "traducida": false
         },
         {
-          "id": "e76b0d9372452577c4a4",
-          "fecha": "2026-10-23T14:46:15+00:00",
-          "titulo": "All Moscow airports suspend aircraft arrivals, departures — Federal Air Transport Agency",
+          "id": "5566630d8140ad415b5a",
+          "fecha": "2026-10-24T09:46:39+00:00",
+          "titulo": "Russian air defenses down 1,297 drones over past 24 hours",
           "fuente": "TASS",
-          "url": "https://tass.com/economy/2207021",
+          "url": "https://tass.com/defense/2207273",
           "traducida": false
         },
         {
-          "id": "d40a36ead9fafc7f4e87",
-          "fecha": "2026-10-23T14:40:26+00:00",
-          "titulo": "Russia determined as one of key tourist markets for Vietnam — tourism authority",
-          "fuente": "TASS",
-          "url": "https://tass.com/society/2207017",
+          "id": "21d304dad503d9890fdf",
+          "fecha": "2026-10-24T09:13:21+00:00",
+          "titulo": "PM Modi, Vladimir Putin direct officials to expand cooperation, target $100 bn trade by 2030: Envoy",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/pm-modi-vladimir-putin-direct-officials-to-expand-cooperation-target-100-bn-trade-by-2030-envoy/article71619349.ece",
           "traducida": false
         },
         {
-          "id": "0d8e8b59da40294a998e",
-          "fecha": "2026-10-23T14:39:52+00:00",
-          "titulo": "Discussing grain initiatives without Russia is pointless, Global South nations agree — MFA",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2207013",
+          "id": "fa2c489cb1f37d9e6bfe",
+          "fecha": "2026-10-24T09:00:29+00:00",
+          "titulo": "Tinned food, loo roll and power banks: the Brits following advice to stockpile",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/society/2026/oct/24/tinned-food-loo-roll-power-banks-brits-stockpiling-government-advice",
           "traducida": false
         },
         {
-          "id": "d0ea51a9dd62fc670f83",
-          "fecha": "2026-10-23T14:32:45+00:00",
-          "titulo": "Air alert canceled at Moscow’s Sheremetyevo Airport",
+          "id": "1525ea0ac0cd857e7613",
+          "fecha": "2026-10-24T07:17:08+00:00",
+          "titulo": "US authorities repeatedly used SpaceX for foreign policy goals — Reuters",
           "fuente": "TASS",
-          "url": "https://tass.com/society/2207011",
+          "url": "https://tass.com/world/2207263",
           "traducida": false
         },
         {
-          "id": "9c7f51a4487e9080f35b",
-          "fecha": "2026-10-23T14:28:03+00:00",
-          "titulo": "Land phase of Russian-Indian Indra 2026 exercise over in Chelyabinsk Region",
+          "id": "64ecd6bb6ca0de3f0355",
+          "fecha": "2026-10-24T06:33:00+00:00",
+          "titulo": "Russia hopes new UN chief election will rid Secretariat of Western dictate — MFA",
           "fuente": "TASS",
-          "url": "https://tass.com/defense/2207009",
+          "url": "https://tass.com/politics/2207259",
           "traducida": false
         },
         {
-          "id": "9508991a6edbe110046d",
-          "fecha": "2026-10-23T14:24:57+00:00",
-          "titulo": "All measures taken to secure banking infrastructure — Bank of Russia's Chief",
+          "id": "eac128c526f5e5a9086a",
+          "fecha": "2026-10-24T05:58:52+00:00",
+          "titulo": "Air defense down 616 Ukrainian drones overnight over Russian regions — Defense Ministry",
           "fuente": "TASS",
-          "url": "https://tass.com/economy/2207007",
+          "url": "https://tass.com/defense/2207257",
+          "traducida": false
+        },
+        {
+          "id": "d85fe988fbfc6a895137",
+          "fecha": "2026-10-24T05:42:02+00:00",
+          "titulo": "England's Bodhana Sivanandan becomes International Master at age of 11, breaks 38-year-old record",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/sport/11-year-old-bodhana-sivanandan-becomes-the-youngest-female-international-master/article71619148.ece",
+          "traducida": false
+        },
+        {
+          "id": "7857ad9f4bd5946d5b1a",
+          "fecha": "2026-10-24T05:14:46+00:00",
+          "titulo": "Attempt to accuse Russia of disinformation turned against West — envoy",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2207251",
+          "traducida": false
+        },
+        {
+          "id": "2fb5b914985c848ac889",
+          "fecha": "2026-10-24T04:48:00+00:00",
+          "titulo": "Putin and Modi instruct governments on trade development — ambassador to Russia",
+          "fuente": "TASS",
+          "url": "https://tass.com/economy/2207249",
+          "traducida": false
+        },
+        {
+          "id": "6e062dfcd22e2f803b38",
+          "fecha": "2026-10-24T04:13:00+00:00",
+          "titulo": "Stubb seen as most likely European candidate for talks with Russia — newspaper",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2207245",
+          "traducida": false
+        },
+        {
+          "id": "f0cb960c4860bf2cb222",
+          "fecha": "2026-10-24T03:04:18+00:00",
+          "titulo": "Local humanitarian ceasefire with Russia will start on October 27, says negotiator",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/local-humanitarian-ceasefire-with-russia-will-start-on-october-27-says-negotiator/article71618931.ece",
+          "traducida": false
+        },
+        {
+          "id": "9a22385b448f0112b4bb",
+          "fecha": "2026-10-24T02:45:00+00:00",
+          "titulo": "Russia senator says Western sanctions may remain in place forever",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2207233",
+          "traducida": false
+        },
+        {
+          "id": "430f146e065ff9a69e1e",
+          "fecha": "2026-10-24T02:27:01+00:00",
+          "titulo": "Ukraine lost about $6 billion from port downtime in last three months",
+          "fuente": "TASS",
+          "url": "https://tass.com/economy/2207231",
+          "traducida": false
+        },
+        {
+          "id": "a68528bf48f89b25e90b",
+          "fecha": "2026-10-24T02:20:10+00:00",
+          "titulo": "Russia, India to rise trade turnover to $100 bln by 2030 — ambassador to Moscow",
+          "fuente": "TASS",
+          "url": "https://tass.com/economy/2207229",
+          "traducida": false
+        },
+        {
+          "id": "91636fbac4199dbae2ae",
+          "fecha": "2026-10-24T01:42:00+00:00",
+          "titulo": "Zelensky differs from his predecessors for worse — Russian senator",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2207223",
+          "traducida": false
+        },
+        {
+          "id": "47fadb7dd3fb0c7a7df5",
+          "fecha": "2026-10-24T01:28:00+00:00",
+          "titulo": "India to send required number of labor migrants to Russia, ambassador says",
+          "fuente": "TASS",
+          "url": "https://tass.com/economy/2207221",
+          "traducida": false
+        },
+        {
+          "id": "8e94671d1f5fd161108c",
+          "fecha": "2026-10-23T23:44:17+00:00",
+          "titulo": "Senators plan to block Trump’s nominees over Ukraine satellite network restrictions — NYT",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2207211",
+          "traducida": false
+        },
+        {
+          "id": "14107439541bcbb1d000",
+          "fecha": "2026-10-23T23:25:01+00:00",
+          "titulo": "Russia vows to continue to send aid to Cuba through UN World Food Programme",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2207209",
+          "traducida": false
+        },
+        {
+          "id": "1ed9fb8b427bb6c33857",
+          "fecha": "2026-10-23T23:15:01+00:00",
+          "titulo": "West indulges Kiev’s sense of impunity regarding Zaporozhye plant — Russian diplomat",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2207207",
+          "traducida": false
+        },
+        {
+          "id": "9253582ec3b5201046ac",
+          "fecha": "2026-10-23T22:50:01+00:00",
+          "titulo": "Moscow and New Delhi ready Modi’s visit to Russia — Indian ambassador",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2207203",
+          "traducida": false
+        },
+        {
+          "id": "ff9d3cebea0fe82b12d7",
+          "fecha": "2026-10-23T22:42:01+00:00",
+          "titulo": "Kiev not interested in resolving conflict via talks — BSW expert",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2207201",
+          "traducida": false
+        },
+        {
+          "id": "1f9547d1f07b0cccb705",
+          "fecha": "2026-10-23T22:24:36+00:00",
+          "titulo": "Who actually controls Ukraine's access to Starlink?",
+          "fuente": "BBC News",
+          "url": "https://www.bbc.co.uk/news/videos/cqy7lvv0lvzpo?at_medium=RSS&at_campaign=rss",
+          "traducida": false
+        },
+        {
+          "id": "1e57d8c14c7716ae616b",
+          "fecha": "2026-10-23T21:53:00+00:00",
+          "titulo": "Ukraine thwarts attempt to hospitalize Alyoshki residents — Russian envoy",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2207197",
+          "traducida": false
+        },
+        {
+          "id": "5e3adfea38aa791c23f3",
+          "fecha": "2026-10-23T21:13:00+00:00",
+          "titulo": "Russian envoy calls OSCE trench through which Moscow heard in Europe",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2207193",
+          "traducida": false
+        },
+        {
+          "id": "9ce19ab9d62a0a18e4cc",
+          "fecha": "2026-10-23T21:00:00+00:00",
+          "titulo": "RDIF CEO lauds Melania Trump’s role in resolving humanitarian crisis in Alyoshki",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2207191",
+          "traducida": false
+        },
+        {
+          "id": "ac08ce86583bc8d8756a",
+          "fecha": "2026-10-23T20:52:30+00:00",
+          "titulo": "Russia’s Roshchina wins silver in women’s all-round at World Artistic Championships",
+          "fuente": "TASS",
+          "url": "https://tass.com/sports/2207187",
+          "traducida": false
+        }
+      ]
+    },
+    {
+      "id": "oriente-medio",
+      "titulo": "Oriente Medio: seguridad y diplomacia",
+      "cantidad_archivada": 298,
+      "nuevas_24h": 43,
+      "anteriores_24h": 43,
+      "dias_con_registros": 9,
+      "fecha_ultima": "2026-10-24T09:14:40+00:00",
+      "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
+      "publicaciones": [
+        {
+          "id": "e24d0c87e518e92b727c",
+          "fecha": "2026-10-24T09:14:40+00:00",
+          "titulo": "Why is Israel launching a new military operation in the occupied West Bank?",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "991690ac64adcac4acf6",
+          "fecha": "2026-10-24T08:44:28+00:00",
+          "titulo": "El ejército israelí realiza redadas y expulsa a decenas de familias de sus hogares en Hebrón tras el ataque palestino en el que murieron dos soldados",
+          "fuente": "El País",
+          "url": "https://elpais.com/internacional/2026-10-24/el-ejercito-israeli-realiza-redadas-y-expulsa-a-decenas-de-familias-de-sus-hogares-en-hebron-tras-el-ataque-palestino-en-el-que-murieron-dos-soldados.html",
+          "traducida": false
+        },
+        {
+          "id": "c5a1d338824c8e180156",
+          "fecha": "2026-10-24T08:30:05+00:00",
+          "titulo": "En Israël, les impasses de la campagne des législatives",
+          "fuente": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/10/24/en-israel-les-impasses-de-la-campagne-des-legislatives_6799681_3232.html",
+          "traducida": false
+        },
+        {
+          "id": "875c0a1c589fdd630612",
+          "fecha": "2026-10-24T08:28:06+00:00",
+          "titulo": "U.S. spy chief warns Iran has ramped up efforts to target Americans",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/us-spy-chief-warns-iran-has-ramped-up-efforts-to-target-americans/article71619239.ece",
+          "traducida": false
+        },
+        {
+          "id": "f424804206f03cca0879",
+          "fecha": "2026-10-24T07:09:55+00:00",
+          "titulo": "Displaced West Bank Palestinians face growing hunger after UN cuts food aid",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/features/2026/10/24/displaced-west-bank-palestinians-face-growing-hunger-after-un-cuts-food-aid?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "077529828af457c95456",
+          "fecha": "2026-10-24T07:00:20+00:00",
+          "titulo": "Israel launches major operation in West Bank after soldiers killed",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3372010/israel-launches-major-operation-west-bank-after-soldiers-killed",
+          "traducida": false
+        },
+        {
+          "id": "20cd2350e545255f61ff",
+          "fecha": "2026-10-24T06:15:35+00:00",
+          "titulo": "Israel launches major West Bank operation after soldiers killed",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/israel-launches-major-west-bank-operation-after-soldiers-killed/article71619178.ece",
+          "traducida": false
+        },
+        {
+          "id": "e1e7eee2d35430bf5085",
+          "fecha": "2026-10-24T06:05:46+00:00",
+          "titulo": "In besieged Yemeni city, drinking water supplies hit crisis levels",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3372006/besieged-yemeni-city-drinking-water-supplies-hit-crisis-levels",
+          "traducida": false
+        },
+        {
+          "id": "316235f918e7f5f118f0",
+          "fecha": "2026-10-24T05:30:03+00:00",
+          "titulo": "Elections législatives en Israël : « Les idées illibérales, jadis cantonnées aux marges politiques et religieuses, sont devenues majoritaires »",
+          "fuente": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/10/24/elections-legislatives-en-israel-les-idees-illiberales-jadis-cantonnees-aux-marges-politiques-et-religieuses-sont-devenues-majoritaires_6799659_3232.html",
+          "traducida": false
+        },
+        {
+          "id": "9a6e37f95b5d70f64e26",
+          "fecha": "2026-10-24T05:25:55+00:00",
+          "titulo": "As Israeli election nears, campaign turns ugly",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/as-israeli-election-nears-campaign-turns-ugly/article71618997.ece",
+          "traducida": false
+        },
+        {
+          "id": "1334f6710d601d802628",
+          "fecha": "2026-10-24T05:00:24+00:00",
+          "titulo": "As a divided Israel prepares to go to the polls, can Netanyahu pull off his greatest political trick yet?",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/24/divided-israel-election-benjamin-netanyahu",
+          "traducida": false
+        },
+        {
+          "id": "e7dcfe59a80fb1f38907",
+          "fecha": "2026-10-24T04:30:10+00:00",
+          "titulo": "Israeli election campaign turns ugly with jibes, attacks against candidates",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3371998/israeli-election-campaign-turns-ugly-jibes-attacks-against-candidates",
+          "traducida": false
+        },
+        {
+          "id": "2ac472a2eb99d8beb56c",
+          "fecha": "2026-10-24T04:00:11+00:00",
+          "titulo": "China carries out in-depth investigation of Turkey’s largest rare earth deposit",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/science/article/3371800/china-carries-out-depth-investigation-turkeys-largest-rare-earth-deposit",
+          "traducida": false
+        },
+        {
+          "id": "23a06d89d11100ed408f",
+          "fecha": "2026-10-24T03:40:00+00:00",
+          "titulo": "Viven fuera de Israel; ahora vuelven para votar contra Netanyahu",
+          "fuente": "El País",
+          "url": "https://elpais.com/internacional/2026-10-24/viven-fuera-de-israel-ahora-vuelven-para-echar-a-netanyahu-en-las-urnas.html",
+          "traducida": false
+        },
+        {
+          "id": "f18180f18faf3fd09900",
+          "fecha": "2026-10-24T03:36:17+00:00",
+          "titulo": "Signs point to renewed major U.S. military operations against Iran",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/signs-point-to-renewed-major-us-military-operations-against-iran/article71618967.ece",
+          "traducida": false
+        },
+        {
+          "id": "639f5298edc9d1fe6a3b",
+          "fecha": "2026-10-24T03:30:20+00:00",
+          "titulo": "Les partisans du Grand Israël avancent leurs pions, à la veille des élections législatives",
+          "fuente": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/10/24/les-partisans-du-grand-israel-avancent-leurs-pions-a-la-veille-des-elections-legislatives_6799481_3210.html",
+          "traducida": false
+        },
+        {
+          "id": "550c1f532ec326f2d789",
+          "fecha": "2026-10-24T03:05:17+00:00",
+          "titulo": "Trump says U.S. will 'take care of Cuba' on its way back from Iran",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/trump-says-us-will-take-care-of-cuba-on-its-way-back-from-iran/article71618927.ece",
+          "traducida": false
+        },
+        {
+          "id": "5472e565e22f092d9511",
+          "fecha": "2026-10-24T03:01:00+00:00",
+          "titulo": "Arabian coalition shoots down Houthi ballistic missile over Riyadh",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2207235",
+          "traducida": false
+        },
+        {
+          "id": "74f8b01a5b659fcd8b1e",
+          "fecha": "2026-10-24T02:07:00+00:00",
+          "titulo": "Trump promises quick drop in oil prices",
+          "fuente": "TASS",
+          "url": "https://tass.com/economy/2207227",
+          "traducida": false
+        },
+        {
+          "id": "94620d8036c656e54fb6",
+          "fecha": "2026-10-24T01:15:01+00:00",
+          "titulo": "US stops being security guarantor in Middle East, ambassador says",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2207219",
+          "traducida": false
+        },
+        {
+          "id": "e74c44b14e60bf338fca",
+          "fecha": "2026-10-24T00:30:02+00:00",
+          "titulo": "Rubio tells Cubans ‘now is the time’ to act to see political change",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/oct/23/marco-rubio-cuba-trump",
+          "traducida": false
+        },
+        {
+          "id": "f77bce9e807887d13023",
+          "fecha": "2026-10-24T00:25:01+00:00",
+          "titulo": "Turkey, Egypt, Pakistan, Saudi Arabia call on Houthis to stop attacks on Saudi Arabia",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2207213",
+          "traducida": false
+        },
+        {
+          "id": "4e13ce6fbe063aadfea1",
+          "fecha": "2026-10-23T23:05:01+00:00",
+          "titulo": "Arab and Islamic countries call for resumption of traffic in Strait of Hormuz — statement",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2207205",
+          "traducida": false
+        },
+        {
+          "id": "8fd5b7f30c3f143818aa",
+          "fecha": "2026-10-23T22:23:22+00:00",
+          "titulo": "U.S. could strike Iran this weekend, envoy says",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/us-could-strike-iran-this-weekend-envoy-says/article71617954.ece",
+          "traducida": false
+        },
+        {
+          "id": "672f114a7000d4bf32ec",
+          "fecha": "2026-10-23T22:17:44+00:00",
+          "titulo": "Saudi Arabia not to host Intervision this year — TASS source",
+          "fuente": "TASS",
+          "url": "https://tass.com/society/2207199",
+          "traducida": false
+        },
+        {
+          "id": "3c21738c4648412f5814",
+          "fecha": "2026-10-23T21:16:46+00:00",
+          "titulo": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/iran-has-detailed-plans-to-hit-gulf-undersea-cables-if-war-resumes-officials-say/article71617797.ece",
+          "traducida": false
+        },
+        {
+          "id": "905655ab7b404c7fe547",
+          "fecha": "2026-10-23T19:24:54+00:00",
+          "titulo": "Trump denies his envoy’s statement about potential strike on Iran this weekend",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2207161",
+          "traducida": false
+        },
+        {
+          "id": "672dee69e839bd53c348",
+          "fecha": "2026-10-23T18:30:03+00:00",
+          "titulo": "A Dubaï, la rupture commerciale avec Téhéran met à mal les entreprises iraniennes et leurs circuits de financement",
+          "fuente": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/10/23/a-dubai-la-rupture-commerciale-avec-teheran-met-a-mal-les-entreprises-iraniennes-et-leurs-circuits-de-financement_6799141_3210.html",
+          "traducida": false
+        },
+        {
+          "id": "999f570fb677d21b3b76",
+          "fecha": "2026-10-23T17:31:46+00:00",
+          "titulo": "US deciding whether to quickly end war with Iran or let it die off — Trump",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2207117",
+          "traducida": false
+        },
+        {
+          "id": "f5f129983c01e29f2c10",
+          "fecha": "2026-10-23T17:30:51+00:00",
+          "titulo": "Jerusalem Daily: Israel to ‘lock down’ occupied West Bank",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/jerusalem-daily-netanyahu-orders-a-full-lockdown-of-the-occupied-west-ba?traffic_source=rss",
           "traducida": false
         }
       ]
@@ -257,13 +509,149 @@
     {
       "id": "union-europea",
       "titulo": "Unión Europea y relaciones exteriores",
-      "cantidad_archivada": 224,
-      "nuevas_24h": 39,
-      "anteriores_24h": 41,
-      "dias_con_registros": 8,
-      "fecha_ultima": "2026-10-23T18:13:09+00:00",
+      "cantidad_archivada": 241,
+      "nuevas_24h": 31,
+      "anteriores_24h": 47,
+      "dias_con_registros": 9,
+      "fecha_ultima": "2026-10-24T12:28:50+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "7c2eaa95742e889dfcc1",
+          "fecha": "2026-10-24T12:28:50+00:00",
+          "titulo": "French police make 135 arrests as protests take place across Europe – Europe live",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
+          "traducida": false
+        },
+        {
+          "id": "2d07b80ad9fec327417f",
+          "fecha": "2026-10-24T12:04:24+00:00",
+          "titulo": "France to deploy 70,000 police for fresh weekend protests",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/france-to-deploy-70000-police-for-fresh-weekend-protests/article71618975.ece",
+          "traducida": false
+        },
+        {
+          "id": "486575f53bb8365ada75",
+          "fecha": "2026-10-24T12:03:34+00:00",
+          "titulo": "Francia contiene el aliento ante una nueva jornada de protestas",
+          "fuente": "El País",
+          "url": "https://elpais.com/internacional/2026-10-24/francia-contiene-el-aliento-ante-una-nueva-jornada-de-protestas.html",
+          "traducida": false
+        },
+        {
+          "id": "b63a73bec91ba1d8c61a",
+          "fecha": "2026-10-24T11:23:59+00:00",
+          "titulo": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
+          "fuente": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+          "traducida": false
+        },
+        {
+          "id": "29c96e905250dc9710cc",
+          "fecha": "2026-10-24T11:00:31+00:00",
+          "titulo": "Is London really the most-taxed city? Banks accused of cherrypicking data",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/uk-news/2026/oct/24/banking-lobby-group-accused-cherry-picking-data-healey-tax-rise",
+          "traducida": false
+        },
+        {
+          "id": "1e8118d78ef17f53ce28",
+          "fecha": "2026-10-24T11:00:10+00:00",
+          "titulo": "Gendarmerie armored vehicles deployed to Paris streets ahead of mass protests",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2207281",
+          "traducida": false
+        },
+        {
+          "id": "8cdc437fc7a2230b9efe",
+          "fecha": "2026-10-24T10:47:07+00:00",
+          "titulo": "Deadly ‘racist’ attack in France: Are hate crimes rising in Europe?",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/24/deadly-racist-attack-in-france-are-hate-crimes-rising-in-europe?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "fe9a0c0581a9061805c6",
+          "fecha": "2026-10-24T10:04:25+00:00",
+          "titulo": "France braces for another day of mass protests as security on high alert",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/24/france-braces-for-another-day-of-mass-protests-as-security-on-high-alert?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "e8381cf0974cfe5fb0c8",
+          "fecha": "2026-10-24T10:04:04+00:00",
+          "titulo": "Suspect arrested over fire at Hitler’s ‘Eagle’s Nest’ retreat in Bavaria",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/24/blaze-engulfs-hitlers-eagles-nest-mountain-retreat-in-bavaria",
+          "traducida": false
+        },
+        {
+          "id": "0b984c7abde6e8de3177",
+          "fecha": "2026-10-24T08:00:13+00:00",
+          "titulo": "Chinese students in Paris hunker down as city braces for more mass protests",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/economy/global-economy/article/3371981/chinese-students-paris-hunker-down-city-braces-more-mass-protests",
+          "traducida": false
+        },
+        {
+          "id": "1df58367f2db4bce2070",
+          "fecha": "2026-10-24T07:41:44+00:00",
+          "titulo": "Joint Press Release on the R4 Ministerial Meeting in Istanbul",
+          "fuente": "GOV.UK FCDO",
+          "url": "https://www.gov.uk/government/news/joint-press-release-on-the-r4-ministerial-meeting-in-istanbul",
+          "traducida": false
+        },
+        {
+          "id": "3831530cdbb2db69d54b",
+          "fecha": "2026-10-24T04:00:45+00:00",
+          "titulo": "« Le fléchage de l’épargne réglementée offre une piste, modeste mais réelle, pour financer les investissements dont la société a besoin »",
+          "fuente": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/10/24/le-flechage-de-l-epargne-reglementee-offre-une-piste-modeste-mais-reelle-pour-financer-les-investissements-dont-la-societe-a-besoin_6799554_3232.html",
+          "traducida": false
+        },
+        {
+          "id": "8ea2e43fc4c12ed74307",
+          "fecha": "2026-10-24T04:00:25+00:00",
+          "titulo": "« The Power Broker », de Robert Caro, colossale enquête sur le Machiavel de New York au XXᵉ siècle, sort enfin en France",
+          "fuente": "Le Monde",
+          "url": "https://www.lemonde.fr/m-le-mag/article/2026/10/24/the-power-broker-de-robert-caro-colossale-enquete-sur-le-machiavel-de-new-york-au-xx-siecle-sort-enfin-en-france_6799550_4500055.html",
+          "traducida": false
+        },
+        {
+          "id": "e3e8f07a61051ff9dfce",
+          "fecha": "2026-10-24T03:30:17+00:00",
+          "titulo": "Some Parisians buy pepper spray, tear gas for self-defence during protests",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/europe/article/3371994/some-parisians-buy-pepper-spray-tear-gas-self-defence-during-protests",
+          "traducida": false
+        },
+        {
+          "id": "713fbde62d6d2b90729c",
+          "fecha": "2026-10-24T03:30:01+00:00",
+          "titulo": "El porqué del naufragio del macronismo",
+          "fuente": "El País",
+          "url": "https://elpais.com/opinion/2026-10-24/el-porque-del-naufragio-del-macronismo.html",
+          "traducida": false
+        },
+        {
+          "id": "2d6ad3e7edc9cef1d6af",
+          "fecha": "2026-10-23T23:09:16+00:00",
+          "titulo": "Ruins of Limoges city hall a symbol of France divided by national protests",
+          "fuente": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cxyvrged14d0o?at_medium=RSS&at_campaign=rss",
+          "traducida": false
+        },
+        {
+          "id": "cba8ab08793927f8417d",
+          "fecha": "2026-10-23T21:32:01+00:00",
+          "titulo": "Trade unions banned from marching in Paris on agreed route — radio",
+          "fuente": "TASS",
+          "url": "https://tass.com/society/2207195",
+          "traducida": false
+        },
         {
           "id": "f4043cd9b6f123e6f602",
           "fecha": "2026-10-23T18:13:09+00:00",
@@ -367,407 +755,123 @@
           "fuente": "South China Morning Post",
           "url": "https://www.scmp.com/news/china/diplomacy/article/3371962/france-certain-united-front-germany-pushed-china-hybrid-car-deal",
           "traducida": false
-        },
-        {
-          "id": "4b62e4d6f97047a5a019",
-          "fecha": "2026-10-23T12:50:57+00:00",
-          "titulo": "Suspect arrested after one killed, several wounded in Paris suburb shooting",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/suspect-arrested-after-one-killed-several-wounded-in-paris-suburb-shooting/article71616087.ece",
-          "traducida": false
-        },
-        {
-          "id": "bceaa198946c1098ffdd",
-          "fecha": "2026-10-23T12:30:09+00:00",
-          "titulo": "The EU is its own worst enemy",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/opinion/china-opinion/article/3371752/eu-its-own-worst-enemy",
-          "traducida": false
-        },
-        {
-          "id": "ebfef92c3e1a903ecedc",
-          "fecha": "2026-10-23T12:24:04+00:00",
-          "titulo": "Economic fears fuel protests in India, France as ‘social contract’ breaks down",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/week-asia/politics/article/3371963/economic-fears-fuel-protests-india-france-social-contract-breaks-down",
-          "traducida": false
-        },
-        {
-          "id": "7d63bd5e700c5b12a950",
-          "fecha": "2026-10-23T12:18:01+00:00",
-          "titulo": "Are parents in France and Italy liable for damage caused by student protesters?",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/23/are-parents-in-france-and-italy-liable-for-damage-caused-by-student-protesters?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "e96bbf92ded75d1f9e7f",
-          "fecha": "2026-10-23T12:15:26+00:00",
-          "titulo": "France to deploy 70,000 officers as it braces for weekend of protests – Europe live",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates",
-          "traducida": false
-        },
-        {
-          "id": "e097ac388c0ec7ecbaaa",
-          "fecha": "2026-10-23T12:06:50+00:00",
-          "titulo": "At least one dead and four injured in Paris suburb shooting",
-          "fuente": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
-          "traducida": false
-        },
-        {
-          "id": "c6e03f6ae71cef59437f",
-          "fecha": "2026-10-23T11:57:00+00:00",
-          "titulo": "‘An orchestra being gassed should be an alarm signal’: the musical activists targeted in Paris",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/23/france-protests-new-world-orchestra-gassed-paris-police",
-          "traducida": false
-        },
-        {
-          "id": "4bc0fc849cd87b22c9dd",
-          "fecha": "2026-10-23T11:56:08+00:00",
-          "titulo": "Greece passes social media ban for children under 15",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/greece-passes-social-media-ban-for-children-under-15/article71614919.ece",
-          "traducida": false
-        },
-        {
-          "id": "41f7631050dcb0f9aa65",
-          "fecha": "2026-10-23T11:30:00+00:00",
-          "titulo": "UPDATED Media advisory - Accreditation for the Special European Council, 26-27 November 2026 and the EU-Western Balkans summit, 25 November 2026",
-          "fuente": "Noticias del Consejo de la UE",
-          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/media-advisory-accreditation-for-the-special-european-council-26-27-november-2026-and-the-eu-western-balkans-summit-25-november-2026/",
-          "traducida": false
-        },
-        {
-          "id": "46309e4a80cb57cbd57f",
-          "fecha": "2026-10-23T11:07:00+00:00",
-          "titulo": "Exclusive: Leaked trove reveals extent of far-right AfD’s efforts to court Trump and Maga allies",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/oct/23/trump-afd-maga-allies",
-          "traducida": false
-        },
-        {
-          "id": "537f243f9bfbf9e3c09d",
-          "fecha": "2026-10-23T11:05:13+00:00",
-          "titulo": "France tightens security in anticipation of weekend protests",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/23/france-tightens-security-in-anticipation-of-weekend-protests?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "b24cbbfeefa220053aa9",
-          "fecha": "2026-10-23T11:00:10+00:00",
-          "titulo": "Could Europe’s cost-of-living protests sharpen EU-China trade tensions?",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/economy/global-economy/article/3371927/could-europes-cost-living-protests-sharpen-eu-china-trade-tensions",
-          "traducida": false
-        },
-        {
-          "id": "ad7ba9cc754cf872e6eb",
-          "fecha": "2026-10-23T10:52:30+00:00",
-          "titulo": "Un muerto y varios heridos en tiroteos en una localidad de las afueras de París",
-          "fuente": "El País",
-          "url": "https://elpais.com/internacional/2026-10-23/un-muerto-y-varios-heridos-en-tiroteos-en-una-localidad-de-las-afueras-de-paris.html",
-          "traducida": false
-        },
-        {
-          "id": "e9a1b631c9d65915e21d",
-          "fecha": "2026-10-23T10:36:51+00:00",
-          "titulo": "Sanidad activará “todos los servidores públicos” para rastrear cada caso de virus shamonda detectado en el ganado",
-          "fuente": "El País",
-          "url": "https://elpais.com/sociedad/2026-10-23/sanidad-activara-todos-los-servidores-publicos-para-rastrear-cada-caso-de-virus-shamonda.html",
-          "traducida": false
-        },
-        {
-          "id": "64ebdafa82bb7ad24e05",
-          "fecha": "2026-10-23T10:23:10+00:00",
-          "titulo": "Russia changes world balance, making US, Europe move to dialogue — legislator",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2206791",
-          "traducida": false
-        },
-        {
-          "id": "9f9332d882df151631ff",
-          "fecha": "2026-10-23T10:00:00+00:00",
-          "titulo": "EU-Western Balkans summit to take place in Brussels on 25 November",
-          "fuente": "Noticias del Consejo de la UE",
-          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/eu-western-balkans-summit-to-take-place-in-brussels-on-25-november/",
-          "traducida": false
-        },
-        {
-          "id": "73b0e36a54db51410c72",
-          "fecha": "2026-10-23T08:50:23+00:00",
-          "titulo": "Macron to meet student groups: Where are France’s protests heading?",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/23/we-want-promises-backed-by-results?traffic_source=rss",
-          "traducida": false
-        }
-      ]
-    },
-    {
-      "id": "oriente-medio",
-      "titulo": "Oriente Medio: seguridad y diplomacia",
-      "cantidad_archivada": 271,
-      "nuevas_24h": 38,
-      "anteriores_24h": 39,
-      "dias_con_registros": 8,
-      "fecha_ultima": "2026-10-23T18:30:03+00:00",
-      "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
-      "publicaciones": [
-        {
-          "id": "672dee69e839bd53c348",
-          "fecha": "2026-10-23T18:30:03+00:00",
-          "titulo": "A Dubaï, la rupture commerciale avec Téhéran met à mal les entreprises iraniennes et leurs circuits de financement",
-          "fuente": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/10/23/a-dubai-la-rupture-commerciale-avec-teheran-met-a-mal-les-entreprises-iraniennes-et-leurs-circuits-de-financement_6799141_3210.html",
-          "traducida": false
-        },
-        {
-          "id": "999f570fb677d21b3b76",
-          "fecha": "2026-10-23T17:31:46+00:00",
-          "titulo": "US deciding whether to quickly end war with Iran or let it die off — Trump",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2207117",
-          "traducida": false
-        },
-        {
-          "id": "f5f129983c01e29f2c10",
-          "fecha": "2026-10-23T17:30:51+00:00",
-          "titulo": "Jerusalem Daily: Israel to ‘lock down’ occupied West Bank",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/jerusalem-daily-netanyahu-orders-a-full-lockdown-of-the-occupied-west-ba?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "122682f064c9f7c66c2c",
-          "fecha": "2026-10-23T17:18:34+00:00",
-          "titulo": "US and Israel are warned against launching fresh strikes on Iran",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/23/european-middle-eastern-ministers-summit-iran-us-israel",
-          "traducida": false
-        },
-        {
-          "id": "d1e5157ac359bfe4fd28",
-          "fecha": "2026-10-23T16:45:11+00:00",
-          "titulo": "En Israël, la gauche tente d’exister face à la droite radicale et à l’angoisse sécuritaire",
-          "fuente": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/10/23/en-israel-la-gauche-tente-d-exister-face-a-la-droite-radicale-et-a-l-angoisse-securitaire_6799124_3210.html",
-          "traducida": false
-        },
-        {
-          "id": "4f6c75c0c06fa03e3e3f",
-          "fecha": "2026-10-23T16:37:59+00:00",
-          "titulo": "Israeli roadblocks disrupt schools and medical care in West Bank village",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/23/israeli-roadblocks-disrupt-schools-and-medical-care-in-west-bank-village?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "205c60f92e24e46e9072",
-          "fecha": "2026-10-23T16:29:51+00:00",
-          "titulo": "European, Middle East ministers urge US-Iran diplomacy, not new attacks",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/23/european-middle-east-ministers-urge-us-iran-diplomacy-not-new-attacks?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "0aad64c51cf8068e925b",
-          "fecha": "2026-10-23T15:51:29+00:00",
-          "titulo": "‘Foreign policy is the economy’: How Iran war is shaping US midterm vote",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/23/foreign-policy-is-the-economy-how-iran-war-is-shaping-us-midterm-vote?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "0e8f81a2b8bb31957aa7",
-          "fecha": "2026-10-23T15:18:03+00:00",
-          "titulo": "Syria deploys 1,000 troops to its southernmost region amid Israeli actions — newspaper",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2207037",
-          "traducida": false
-        },
-        {
-          "id": "2f7b9151a28fb2100a0b",
-          "fecha": "2026-10-23T14:36:43+00:00",
-          "titulo": "India continues to facilitate transport of life-saving medicines to Iran: MEA",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/india-continues-to-facilitate-transport-of-life-saving-medicines-to-iran-mea/article71616727.ece",
-          "traducida": false
-        },
-        {
-          "id": "33f716a7da1679a0b128",
-          "fecha": "2026-10-23T14:33:52+00:00",
-          "titulo": "Nobody Wants This creator says she disagrees with Adam Brody’s ‘free Palestine’ comments",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/tv-and-radio/2026/oct/23/nobody-wants-this-adam-brody-palestine-comments",
-          "traducida": false
-        },
-        {
-          "id": "6457775024a112732cc1",
-          "fecha": "2026-10-23T14:19:30+00:00",
-          "titulo": "Netanyahu orders ‘very extensive’ operation in West Bank after two Israeli soldiers killed",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/23/netanyahu-orders-very-extensive-operation-west-bank-two-israeli-soldiers-killed",
-          "traducida": false
-        },
-        {
-          "id": "bd921086dd6c8db83266",
-          "fecha": "2026-10-23T13:25:58+00:00",
-          "titulo": "Hundreds to defy Palestine Action ban in protest at US embassy in London",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/features/2026/10/23/hundreds-to-defy-palestine-action-ban-in-protest-at-us-embassy-in-london?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "b3d25385b34596af987c",
-          "fecha": "2026-10-23T13:00:47+00:00",
-          "titulo": "La Fiscalía concluye que Irán se encuentra tras el intento de asesinato de Vidal-Quadras en 2023",
-          "fuente": "El País",
-          "url": "https://elpais.com/espana/2026-10-23/la-fiscalia-concluye-que-iran-se-encuentra-tras-el-intento-de-asesinato-de-vidal-quadras-en-2023.html",
-          "traducida": false
-        },
-        {
-          "id": "0485661ceffbc43e3748",
-          "fecha": "2026-10-23T13:00:18+00:00",
-          "titulo": "Qatar Moto GP to go ahead despite regional tensions",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/10/23/qatar-moto-gp-to-go-ahead-despite-regional-tensions?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "3a028f812fe461886cf4",
-          "fecha": "2026-10-23T12:40:35+00:00",
-          "titulo": "Netanyahu announces largest operation in West Bank since 1967",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2206921",
-          "traducida": false
-        },
-        {
-          "id": "d699247f8661dfe2f59a",
-          "fecha": "2026-10-23T12:04:02+00:00",
-          "titulo": "Netanyahu ordena el cierre total de Cisjordania tras un ataque palestino a cuatro días de las elecciones",
-          "fuente": "El País",
-          "url": "https://elpais.com/internacional/2026-10-23/el-ejercito-israeli-mata-a-dos-palestinos-armados-tras-un-tiroteo-en-cisjordania.html",
-          "traducida": false
-        },
-        {
-          "id": "d6fce9f98f193a72c951",
-          "fecha": "2026-10-23T12:00:09+00:00",
-          "titulo": "L’agonie de la démocratie turque, victime de l’enfermement du régime",
-          "fuente": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/10/23/l-agonie-de-la-democratie-turque-victime-de-l-enfermement-du-regime_6799070_3232.html",
-          "traducida": false
-        },
-        {
-          "id": "642bc2cfeab555b94aa5",
-          "fecha": "2026-10-23T11:43:53+00:00",
-          "titulo": "US-Iran war, then and now: How the landscape has changed since February",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/23/us-iran-war-then-and-now-how-the-landscape-has-changed-since-february?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "1d17155788833fd03f86",
-          "fecha": "2026-10-23T11:35:51+00:00",
-          "titulo": "Oil hits five-month high amid fears US will renew strikes on Iran",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
-          "traducida": false
-        },
-        {
-          "id": "cc4b7015302736e3d823",
-          "fecha": "2026-10-23T11:34:59+00:00",
-          "titulo": "Saudi Arabia security puts Asian Cup in doubt: Japan football chief",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/10/23/saudi-arabia-security-puts-asian-cup-in-doubt-japan-football-chief?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "7043481d6d111c88998a",
-          "fecha": "2026-10-23T11:29:09+00:00",
-          "titulo": "Netanyahu orders West Bank closure as attack wounds Israelis before election",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/netanyahu-orders-west-bank-closure-as-attack-wounds-israelis-before-election/article71615850.ece",
-          "traducida": false
-        },
-        {
-          "id": "b435b17c21edf8f3686a",
-          "fecha": "2026-10-23T11:27:35+00:00",
-          "titulo": "‘Pink blooms from among the rubble’: Battling breast cancer in Gaza",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/pink-blooms-from-among-the-rubble-battling-breast-cancer-in-gaza?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "69507617ea9517a68e36",
-          "fecha": "2026-10-23T10:26:06+00:00",
-          "titulo": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
-          "fuente": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-          "traducida": false
-        },
-        {
-          "id": "afa8d329f07e7979773c",
-          "fecha": "2026-10-23T10:00:00+00:00",
-          "titulo": "Press review: Russia open to Ukraine talks as Iran tensions rise amid US-Israeli threat",
-          "fuente": "TASS",
-          "url": "https://tass.com/pressreview/2206673",
-          "traducida": false
-        },
-        {
-          "id": "9991f337dcb3b05b4cc9",
-          "fecha": "2026-10-23T09:56:28+00:00",
-          "titulo": "New electronics reach Iran, but prices soar as gov’t fees, US sanctions hit",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/features/2026/10/23/new-electronics-reach-iran-but-prices-soar-as-govt-fees-us-sanctions-hit?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "2bcca241383bd0eadf9d",
-          "fecha": "2026-10-23T09:40:57+00:00",
-          "titulo": "NBA’s Irving praises Al-Shaair’s ‘selfless act’ after Hind Rajab fine paid",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/10/23/nbas-irving-praises-al-shaairs-selfless-act-after-hind-rajab-fine-paid?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "8590e41efbea3b31bb15",
-          "fecha": "2026-10-23T09:32:33+00:00",
-          "titulo": "What role does the military play in Israeli schools?",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/what-role-does-the-military-play-in-israeli-schools?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "92b5139179897ff5a0ff",
-          "fecha": "2026-10-23T09:12:46+00:00",
-          "titulo": "Hamilton calls for Palestine and DR Congo freedom as Rwanda takes F1 spotlight",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/10/23/hamilton-calls-for-palestine-sudan-and-congo-freedom-with-f1-in-spotlight?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "78ac639685a67cb84376",
-          "fecha": "2026-10-23T09:12:38+00:00",
-          "titulo": "Israeli military kills two in gun battle in occupied West Bank",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israeli-military-kills-two-in-gun-battle-in-occupied-west-bank?traffic_source=rss",
-          "traducida": false
         }
       ]
     },
     {
       "id": "india-asia",
       "titulo": "India y Asia-Pacífico",
-      "cantidad_archivada": 97,
-      "nuevas_24h": 19,
-      "anteriores_24h": 14,
-      "dias_con_registros": 8,
-      "fecha_ultima": "2026-10-23T14:36:43+00:00",
+      "cantidad_archivada": 110,
+      "nuevas_24h": 18,
+      "anteriores_24h": 19,
+      "dias_con_registros": 9,
+      "fecha_ultima": "2026-10-24T12:21:22+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "437ffd9d72e7855b5afe",
+          "fecha": "2026-10-24T12:21:22+00:00",
+          "titulo": "India, Uzbekistan discuss bilateral ties during Jaishankar’s Azerbaijan visit",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/india-uzbekistan-discuss-bilateral-ties-during-jaishankars-azerbaijan-visit/article71619675.ece",
+          "traducida": false
+        },
+        {
+          "id": "83409f622f1b353df233",
+          "fecha": "2026-10-24T12:02:50+00:00",
+          "titulo": "India unequivocally condemns attack on church in Jordan’s Hamoud",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/india-unequivocally-condemns-attack-on-church-in-jordans-hamoud/article71619864.ece",
+          "traducida": false
+        },
+        {
+          "id": "21d304dad503d9890fdf",
+          "fecha": "2026-10-24T09:13:21+00:00",
+          "titulo": "PM Modi, Vladimir Putin direct officials to expand cooperation, target $100 bn trade by 2030: Envoy",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/pm-modi-vladimir-putin-direct-officials-to-expand-cooperation-target-100-bn-trade-by-2030-envoy/article71619349.ece",
+          "traducida": false
+        },
+        {
+          "id": "664f32867fb48370132f",
+          "fecha": "2026-10-24T09:00:14+00:00",
+          "titulo": "Thousands evacuated and flights grounded as Typhoon Champi hits eastern China",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/politics/article/3372015/thousands-evacuated-and-flights-grounded-typhoon-champi-hits-eastern-china",
+          "traducida": false
+        },
+        {
+          "id": "6d5360494cf2ceb0e45b",
+          "fecha": "2026-10-24T07:00:10+00:00",
+          "titulo": "How competition between Chinese and Indian firms could reshape African drug markets",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3371997/how-competition-between-chinese-and-indian-firms-could-reshape-africas-drug-markets",
+          "traducida": false
+        },
+        {
+          "id": "2fb5b914985c848ac889",
+          "fecha": "2026-10-24T04:48:00+00:00",
+          "titulo": "Putin and Modi instruct governments on trade development — ambassador to Russia",
+          "fuente": "TASS",
+          "url": "https://tass.com/economy/2207249",
+          "traducida": false
+        },
+        {
+          "id": "88821130ceccb8357540",
+          "fecha": "2026-10-24T03:30:15+00:00",
+          "titulo": "Revised law to maintain Japan’s imperial family size takes effect",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/asia/east-asia/article/3371993/revised-law-maintain-japans-imperial-family-size-takes-effect",
+          "traducida": false
+        },
+        {
+          "id": "a68528bf48f89b25e90b",
+          "fecha": "2026-10-24T02:20:10+00:00",
+          "titulo": "Russia, India to rise trade turnover to $100 bln by 2030 — ambassador to Moscow",
+          "fuente": "TASS",
+          "url": "https://tass.com/economy/2207229",
+          "traducida": false
+        },
+        {
+          "id": "3cf7b5507ce07516bfeb",
+          "fecha": "2026-10-24T02:15:05+00:00",
+          "titulo": "French cooking schools fuel fine-dining dreams of India’s young chefs",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/asia/south-asia/article/3371991/french-cooking-schools-fuel-fine-dining-dreams-indias-young-chefs",
+          "traducida": false
+        },
+        {
+          "id": "38d9a2610a6f00cd0121",
+          "fecha": "2026-10-24T01:30:16+00:00",
+          "titulo": "Danger, death and devotion: Japan’s festivals face crisis after fatal accidents",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3371913/danger-death-and-devotion-japans-festivals-face-crisis-after-fatal-accidents",
+          "traducida": false
+        },
+        {
+          "id": "47fadb7dd3fb0c7a7df5",
+          "fecha": "2026-10-24T01:28:00+00:00",
+          "titulo": "India to send required number of labor migrants to Russia, ambassador says",
+          "fuente": "TASS",
+          "url": "https://tass.com/economy/2207221",
+          "traducida": false
+        },
+        {
+          "id": "9253582ec3b5201046ac",
+          "fecha": "2026-10-23T22:50:01+00:00",
+          "titulo": "Moscow and New Delhi ready Modi’s visit to Russia — Indian ambassador",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2207203",
+          "traducida": false
+        },
+        {
+          "id": "6f1843dfc822051b0673",
+          "fecha": "2026-10-23T21:55:32+00:00",
+          "titulo": "Asian football endorses Infantino re-election in apparent U-turn",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/sport/asian-football-endorses-infantino-re-election-in-apparent-u-turn/article71617950.ece",
+          "traducida": false
+        },
         {
           "id": "2f7b9151a28fb2100a0b",
           "fecha": "2026-10-23T14:36:43+00:00",
@@ -903,123 +1007,99 @@
           "fuente": "South China Morning Post",
           "url": "https://www.scmp.com/news/asia/east-asia/article/3371871/no-bots-japan-drafts-rules-social-media-platforms-ahead-local-elections",
           "traducida": false
-        },
-        {
-          "id": "674a4adfc5237354e90a",
-          "fecha": "2026-10-23T02:57:23+00:00",
-          "titulo": "Chinese state media takes aim at Japanese firm KDDI over Mongolia wildfire",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3371856/chinese-state-media-takes-aim-japanese-firm-kddi-over-mongolia-wildfire",
-          "traducida": false
-        },
-        {
-          "id": "a9c30975b7aa98416de5",
-          "fecha": "2026-10-23T02:00:19+00:00",
-          "titulo": "China cancer patient who inspired hit film hopes to stop treatment after 35,000 pills over 2 decades",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/people-culture/china-personalities/article/3371839/china-cancer-patient-who-inspired-hit-film-hopes-stop-treatment-after-35000-pills-over-2-decades",
-          "traducida": false
-        },
-        {
-          "id": "cada4fcd55b4e892c0df",
-          "fecha": "2026-10-22T18:00:11+00:00",
-          "titulo": "En Inde, Neha Bora, la nouvelle icône de la jeunesse anti-Modi",
-          "fuente": "Le Monde",
-          "url": "https://www.lemonde.fr/m-le-mag/article/2026/10/22/en-inde-neha-bora-la-nouvelle-icone-de-la-jeunesse-anti-modi_6798660_4500055.html",
-          "traducida": false
-        },
-        {
-          "id": "ba5018bb10d4783368f5",
-          "fecha": "2026-10-22T15:43:28+00:00",
-          "titulo": "Indian killed as Houthis attack Saudi Arabia’s Dammam airport",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/indian-national-killed-in-saudi-dammam-airport-attack-others-injured/article71610871.ece",
-          "traducida": false
-        },
-        {
-          "id": "312051a1569fea9d36d5",
-          "fecha": "2026-10-22T15:02:33+00:00",
-          "titulo": "PlayStation 5 sales in US jump 22% ahead of GTA VI release",
-          "fuente": "TASS",
-          "url": "https://tass.com/economy/2206387",
-          "traducida": false
-        },
-        {
-          "id": "376548153bad40f3ccd9",
-          "fecha": "2026-10-22T14:09:56+00:00",
-          "titulo": "India resist New Zealand fightback to win record-setting T20 cricket opener",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/10/22/india-resist-new-zealand-fightback-to-win-record-setting-t20-cricket-opener?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "76dc7a82ae7ef6497aaf",
-          "fecha": "2026-10-22T14:08:10+00:00",
-          "titulo": "YouTuber arrested after popular Indian finance influencer's suicide",
-          "fuente": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/ckx2d0ej7w7do?at_medium=RSS&at_campaign=rss",
-          "traducida": false
-        },
-        {
-          "id": "568aebe1d42646dda58d",
-          "fecha": "2026-10-22T10:45:01+00:00",
-          "titulo": "Is Neha Bora, India’s new red star, Modi’s real Gen Z threat?",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/features/2026/10/22/is-neha-bora-indias-new-red-star-modis-real-gen-z-threat?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "5eca2aefcc3be54dfed6",
-          "fecha": "2026-10-22T09:00:12+00:00",
-          "titulo": "India seeks to expand navy’s reach with 4 amphibious warships",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/week-asia/politics/article/3371775/india-seeks-expand-navys-reach-4-amphibious-warships",
-          "traducida": false
-        },
-        {
-          "id": "5f7f2544f0e7da3ffd95",
-          "fecha": "2026-10-22T08:42:48+00:00",
-          "titulo": "Super Typhoon Champi: Hong Kong airlines cancel at least 12 Taiwan, Japan flights",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/hong-kong/transport/article/3371776/super-typhoon-champi-hong-kong-airlines-cancel-least-12-taiwan-japan-flights",
-          "traducida": false
-        },
-        {
-          "id": "b73584021f1eddb87153",
-          "fecha": "2026-10-22T05:35:14+00:00",
-          "titulo": "Daily Quiz | On protests around the world",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/daily-quiz-on-protests-around-the-world/article71610218.ece",
-          "traducida": false
-        },
-        {
-          "id": "fdf731451dc99940fcd6",
-          "fecha": "2026-10-22T05:30:44+00:00",
-          "titulo": "India rejects UN rapporteur's 'India-based' label for Dawood Ibrahim's D-Company",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/india-rejects-un-rapporteurs-india-based-label-for-dawood-ibrahims-d-company/article71610134.ece",
-          "traducida": false
-        },
-        {
-          "id": "285593d7028f56bbe70a",
-          "fecha": "2026-10-22T05:22:49+00:00",
-          "titulo": "After Musk ‘punishes’ Ukraine, how exposed is India to foreign tech?",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/science/musk-punishes-ukraine-how-exposed-is-india-to-foreign-tech-explained/article71607362.ece",
-          "traducida": false
         }
       ]
     },
     {
       "id": "suramerica",
       "titulo": "Sudamérica: integración y política exterior",
-      "cantidad_archivada": 57,
-      "nuevas_24h": 9,
-      "anteriores_24h": 9,
-      "dias_con_registros": 8,
-      "fecha_ultima": "2026-10-23T17:30:11+00:00",
+      "cantidad_archivada": 67,
+      "nuevas_24h": 14,
+      "anteriores_24h": 11,
+      "dias_con_registros": 9,
+      "fecha_ultima": "2026-10-24T09:41:56+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "2e889646bcfb40e54131",
+          "fecha": "2026-10-24T09:41:56+00:00",
+          "titulo": "Brazil’s Lula and Bolsonaro debate policy proposals before run-off",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-debate-policy-proposals-before-run-off?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "573a01ce83ddd6b39776",
+          "fecha": "2026-10-24T09:30:00+00:00",
+          "titulo": "EL PAÍS se vuelca en Brasil en unas elecciones determinantes para América Latina",
+          "fuente": "El País",
+          "url": "https://elpais.com/america/2026-10-24/el-pais-se-vuelca-en-brasil-en-unas-elecciones-determinantes-para-america-latina.html",
+          "traducida": false
+        },
+        {
+          "id": "7d68c603f52e5cbaa9b3",
+          "fecha": "2026-10-24T08:16:35+00:00",
+          "titulo": "Présidentielle au Brésil : Flavio Bolsonaro plus policé, Lula plus offensif lors d’un second débat crucial",
+          "fuente": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/10/24/presidentielle-au-bresil-flavio-bolsonaro-plus-police-lula-plus-offensif-lors-d-un-second-debat-crucial_6799678_3210.html",
+          "traducida": false
+        },
+        {
+          "id": "8d7ca1329a8420dee746",
+          "fecha": "2026-10-24T06:10:19+00:00",
+          "titulo": "Lula, Bolsonaro strike calmer tone in final Brazil election debate",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/brazil-debate-leaves-lula-and-bolsonaro-tied-as-polls-tighten-ahead-of-sundays-runoff/article71619106.ece",
+          "traducida": false
+        },
+        {
+          "id": "899aceae39d712194d1f",
+          "fecha": "2026-10-24T05:05:44+00:00",
+          "titulo": "How Brazil's changing working class is reshaping the presidential race",
+          "fuente": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cw80zx79nkvno?at_medium=RSS&at_campaign=rss",
+          "traducida": false
+        },
+        {
+          "id": "fd6039f9be7f151cfd3f",
+          "fecha": "2026-10-24T04:08:59+00:00",
+          "titulo": "Lula pone a Bolsonaro a la defensiva en el último debate antes de las urnas",
+          "fuente": "El País",
+          "url": "https://elpais.com/america/2026-10-24/lula-pone-a-bolsonaro-a-la-defensiva-en-el-ultimo-debate-antes-de-las-urnas.html",
+          "traducida": false
+        },
+        {
+          "id": "aad1e725c6fac2ae9c7c",
+          "fecha": "2026-10-24T04:00:00+00:00",
+          "titulo": "La agenda ultra inunda Brasil con líderes cada vez más jóvenes",
+          "fuente": "El País",
+          "url": "https://elpais.com/america/2026-10-24/la-agenda-ultra-inunda-brasil-con-lideres-cada-vez-mas-jovenes.html",
+          "traducida": false
+        },
+        {
+          "id": "ab8c24de9d80121cbf36",
+          "fecha": "2026-10-24T03:30:01+00:00",
+          "titulo": "Lo que está en juego en Brasil",
+          "fuente": "El País",
+          "url": "https://elpais.com/opinion/2026-10-24/lo-que-esta-en-juego-en-brasil.html",
+          "traducida": false
+        },
+        {
+          "id": "87a58a0b3d17d3dda7e9",
+          "fecha": "2026-10-23T20:59:39+00:00",
+          "titulo": "Argentina drops investigation into President Milei over crypto fraud",
+          "fuente": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo?at_medium=RSS&at_campaign=rss",
+          "traducida": false
+        },
+        {
+          "id": "8170d6e077096e04ddf5",
+          "fecha": "2026-10-23T18:43:19+00:00",
+          "titulo": "Brazil court orders government to provide transportation for Indigenous voters in Sunday’s runoff",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/brazil-court-orders-government-to-provide-transportation-for-indigenous-voters-in-sundays-runoff/article71617722.ece",
+          "traducida": false
+        },
         {
           "id": "4a2f46426c7f6ee6e800",
           "fecha": "2026-10-23T17:30:11+00:00",
@@ -1179,371 +1259,59 @@
           "fuente": "El País",
           "url": "https://elpais.com/argentina/2026-10-21/la-historia-de-fanatico-el-temazo-con-el-que-sanchez-le-devolvio-hostilidades-a-milei.html",
           "traducida": false
-        },
-        {
-          "id": "0642ba65ac9fcd95644f",
-          "fecha": "2026-10-21T18:14:02+00:00",
-          "titulo": "Why social media has become an election issue in Brazil’s presidential race",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/features/2026/10/21/why-social-media-has-become-an-election-issue-in-brazils-presidential-race?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "fead0acdb786c391a0d4",
-          "fecha": "2026-10-21T17:49:44+00:00",
-          "titulo": "Inaceptable Milei",
-          "fuente": "El País",
-          "url": "https://elpais.com/opinion/2026-10-21/inaceptable-milei.html",
-          "traducida": false
-        },
-        {
-          "id": "769a16853f83378cbedf",
-          "fecha": "2026-10-21T16:38:57+00:00",
-          "titulo": "Milei a Abascal, en una videollamada: “Para mí es un placer patear culos zurdos”",
-          "fuente": "El País",
-          "url": "https://elpais.com/espana/2026-10-21/milei-a-abascal-en-una-videollamada-para-mi-es-un-placer-patear-culos-zurdos.html",
-          "traducida": false
-        },
-        {
-          "id": "e38854c2af41c77b9fef",
-          "fecha": "2026-10-21T16:31:22+00:00",
-          "titulo": "Ayuso y Milei, un encuentro inoportuno zanjado con un abrazo entusiasta",
-          "fuente": "El País",
-          "url": "https://elpais.com/espana/madrid/2026-10-21/ayuso-y-milei-un-encuentro-descafeinado-e-inoportuno.html",
-          "traducida": false
-        },
-        {
-          "id": "33afd2e3341d66048991",
-          "fecha": "2026-10-21T15:30:37+00:00",
-          "titulo": "Milei busca la confrontación directa con Sánchez en Madrid y eclipsa a Feijóo y Abascal",
-          "fuente": "El País",
-          "url": "https://elpais.com/espana/2026-10-21/milei-participa-en-un-desayuno-informativo-en-madrid-durante-su-visita-a-espana.html",
-          "traducida": false
-        },
-        {
-          "id": "ef9d0a30470a04d59fe2",
-          "fecha": "2026-10-21T15:27:57+00:00",
-          "titulo": "Milei choca en Madrid con los defensores de la educación pública: “¡Fuera fascistas de la Universidad!\"",
-          "fuente": "El País",
-          "url": "https://elpais.com/espana/2026-10-21/milei-choca-en-madrid-con-los-defensores-de-la-educacion-publica-fuera-fascistas-de-la-universidad.html",
-          "traducida": false
-        },
-        {
-          "id": "916306cfd8539fba1231",
-          "fecha": "2026-10-21T15:24:26+00:00",
-          "titulo": "Milei agrava la herencia recibida, magnifica sus logros y omite datos desfavorables en su viaje a Madrid",
-          "fuente": "El País",
-          "url": "https://elpais.com/argentina/2026-10-21/milei-agrava-la-herencia-recibida-magnifica-sus-logros-y-omite-datos-desfavorables-en-su-viaje-a-madrid.html",
-          "traducida": false
-        },
-        {
-          "id": "63237732022f6f521715",
-          "fecha": "2026-10-21T15:14:58+00:00",
-          "titulo": "Última hora de la actualidad política, en directo | El Gobierno condena “enérgicamente” los “insultos y calumnias” de Milei a Sánchez",
-          "fuente": "El País",
-          "url": "https://elpais.com/espana/2026-10-21/ultima-hora-de-la-actualidad-politica-en-directo.html",
-          "traducida": false
-        },
-        {
-          "id": "31310ee6192e23fca817",
-          "fecha": "2026-10-21T14:51:50+00:00",
-          "titulo": "Milei ataca a la prensa durante su visita: “Es corta intelectualmente, vale para tu caso”; “corrupta”; “no puedo respetar tu cerebro”",
-          "fuente": "El País",
-          "url": "https://elpais.com/espana/2026-10-21/milei-ataca-a-la-prensa-durante-su-visita-es-corta-intelectualmente-vale-para-tu-caso-corrupta-no-puedo-respetar-tu-cerebro.html",
-          "traducida": false
-        },
-        {
-          "id": "8ff76678b32ae7a93d2c",
-          "fecha": "2026-10-21T13:01:43+00:00",
-          "titulo": "Huevos en el sujetador y pasaporte diplomático: así funcionaba el tráfico de loros de Brasil a Canarias",
-          "fuente": "El País",
-          "url": "https://elpais.com/clima-y-medio-ambiente/2026-10-21/huevos-en-el-sujetador-asi-funcionaba-el-trafico-ilegal-de-loros-desde-brasil-hasta-las-canarias.html",
-          "traducida": false
-        }
-      ]
-    },
-    {
-      "id": "onu",
-      "titulo": "Naciones Unidas y multilateralismo",
-      "cantidad_archivada": 17,
-      "nuevas_24h": 4,
-      "anteriores_24h": 0,
-      "dias_con_registros": 6,
-      "fecha_ultima": "2026-10-23T12:41:05+00:00",
-      "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
-      "publicaciones": [
-        {
-          "id": "5304cc9eef3e8109c4b8",
-          "fecha": "2026-10-23T12:41:05+00:00",
-          "titulo": "Putin discusses measures to protect youths from external threats with Security Council",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2206919",
-          "traducida": false
-        },
-        {
-          "id": "0a8af5b182a4f0448c98",
-          "fecha": "2026-10-23T08:41:41+00:00",
-          "titulo": "US-Iran war to continue until nuclear deal is struck, US envoy says",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2206699",
-          "traducida": false
-        },
-        {
-          "id": "7ab29e097fc26a802573",
-          "fecha": "2026-10-23T06:13:13+00:00",
-          "titulo": "Nepal to receive first-ever loss and damage fund payout after devastating floods",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/videos/nepal-to-receive-first-ever-loss-and-damage-fund-payout-after-devastating-floods/article71614805.ece",
-          "traducida": false
-        },
-        {
-          "id": "76ae7034389cf8a0fa73",
-          "fecha": "2026-10-23T00:58:07+00:00",
-          "titulo": "Nepal set to receive first-ever US$20 million payout from UN climate damage fund",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/asia/south-asia/article/3371840/nepal-set-receive-first-ever-us20-million-payout-un-climate-damage-fund",
-          "traducida": false
-        },
-        {
-          "id": "c49ff40640bf4106770b",
-          "fecha": "2026-10-21T16:59:39+00:00",
-          "titulo": "UN follows situation around possible Russia-Ukraine talks — spokesperson",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2205779",
-          "traducida": false
-        },
-        {
-          "id": "7823a97f13033687b10c",
-          "fecha": "2026-10-21T13:53:49+00:00",
-          "titulo": "Western efforts against Russia, role of emigres: Shoigu’s statements",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2205591",
-          "traducida": false
-        },
-        {
-          "id": "8c83dd9c5d3cfc608d53",
-          "fecha": "2026-10-21T07:12:27+00:00",
-          "titulo": "United Kingdom National Statement to UNTOC COP 13",
-          "fuente": "GOV.UK FCDO",
-          "url": "https://www.gov.uk/government/speeches/united-kingdom-national-statement-to-untoc-cop-13",
-          "traducida": false
-        },
-        {
-          "id": "919d071a69df0cf6d4e2",
-          "fecha": "2026-10-20T22:02:49+00:00",
-          "titulo": "Iran security chief rejects moving enriched uranium out of country",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/iran-security-chief-rejects-moving-enriched-uranium-out-of-country/article71605648.ece",
-          "traducida": false
-        },
-        {
-          "id": "e0bf259f71be56ef1045",
-          "fecha": "2026-10-20T20:57:41+00:00",
-          "titulo": "Normalisation of relations between Kosovo and Serbia remains essential to long term stability: UK statement at the UN Security Council",
-          "fuente": "GOV.UK FCDO",
-          "url": "https://www.gov.uk/government/speeches/normalisation-of-relations-between-kosovo-and-serbia-remains-essential-to-long-term-stability-uk-statement-at-the-un-security-council",
-          "traducida": false
-        },
-        {
-          "id": "ff9e9e167ce6221fc3f9",
-          "fecha": "2026-10-20T15:46:27+00:00",
-          "titulo": "The United Kindgom welcomes the continued consolidation of peace and stability in teh Central African Republic: UK statement at the UN Security Council",
-          "fuente": "GOV.UK FCDO",
-          "url": "https://www.gov.uk/government/speeches/the-united-kindgom-welcomes-the-continued-consolidation-of-peace-and-stability-in-teh-central-african-republic-uk-statement-at-the-un-security-council",
-          "traducida": false
-        },
-        {
-          "id": "485005b24caf2064986f",
-          "fecha": "2026-10-20T14:24:03+00:00",
-          "titulo": "Russia, Oman set record by trade turnover volume",
-          "fuente": "TASS",
-          "url": "https://tass.com/economy/2204793",
-          "traducida": false
-        },
-        {
-          "id": "416c381d744353063a54",
-          "fecha": "2026-10-20T14:14:04+00:00",
-          "titulo": "19.2 million Afghans could soon face ‘acute food insecurity’: UN",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/world/russia-central-asia/article/3371551/192-million-afghans-could-soon-face-acute-food-insecurity-un",
-          "traducida": false
-        },
-        {
-          "id": "da2819b1774cad373b21",
-          "fecha": "2026-10-19T17:28:48+00:00",
-          "titulo": "Haiti cannot afford another year in which insecurity outpaces political progress: UK statement at the UN Security Council",
-          "fuente": "GOV.UK FCDO",
-          "url": "https://www.gov.uk/government/speeches/haiti-cannot-afford-another-year-in-which-insecurity-outpaces-political-progress-uk-statement-at-the-un-security-council",
-          "traducida": false
-        },
-        {
-          "id": "88f7dda43fd5988a3e2b",
-          "fecha": "2026-10-19T16:40:01+00:00",
-          "titulo": "Search under way for four soldiers missing after gang attack in Haiti",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/19/search-under-way-for-four-soldiers-missing-after-gang-attack-in-haiti?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "65d889d79875f5cf1642",
-          "fecha": "2026-10-18T12:35:07+00:00",
-          "titulo": "UN Security Council can be involved in creating conditions for dialogue in Gulf — Lavrov",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2203747",
-          "traducida": false
-        },
-        {
-          "id": "0b2493ff18ec95ffb7d8",
-          "fecha": "2026-10-18T11:18:20+00:00",
-          "titulo": "Gulf countries call on Russia to support their participation in negotiations on Iran",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2203729",
-          "traducida": false
-        },
-        {
-          "id": "7ef2fad803ed573da098",
-          "fecha": "2026-10-16T15:38:55+00:00",
-          "titulo": "As we remember the victims of El Fasher, the parties need to protect civilians, allow humanitarian assistance to reach those who need it, and choose diplomacy over continued war: UK statement at the UN Security Council",
-          "fuente": "GOV.UK FCDO",
-          "url": "https://www.gov.uk/government/speeches/as-we-remember-the-victims-of-el-fasher-the-parties-need-to-protect-civilians-allow-humanitarian-assistance-to-reach-those-who-need-it-and-choose-dipl",
-          "traducida": false
-        }
-      ]
-    },
-    {
-      "id": "china-taiwan",
-      "titulo": "China y Taiwán",
-      "cantidad_archivada": 14,
-      "nuevas_24h": 4,
-      "anteriores_24h": 1,
-      "dias_con_registros": 6,
-      "fecha_ultima": "2026-10-23T12:00:06+00:00",
-      "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
-      "publicaciones": [
-        {
-          "id": "cae08bc13021bbfea813",
-          "fecha": "2026-10-23T12:00:06+00:00",
-          "titulo": "What Beijing’s two-to-one shipbuilding lead means for the US in war over Taiwan",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/military/article/3371951/what-beijings-two-one-shipbuilding-lead-means-us-war-over-taiwan",
-          "traducida": false
-        },
-        {
-          "id": "84c1de4e2c17150c2462",
-          "fecha": "2026-10-23T08:00:39+00:00",
-          "titulo": "Typhoon Champi grounds hundreds of Taiwan flights, threatens Shanghai and Japan",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/politics/article/3371901/typhoon-champi-grounds-hundreds-flights-taiwan-threatens-eastern-mainland-china",
-          "traducida": false
-        },
-        {
-          "id": "16bd40569a0f99692adb",
-          "fecha": "2026-10-23T06:39:58+00:00",
-          "titulo": "Typhoon Champi disrupts more than 70 flights between Hong Kong and Taiwan",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/hong-kong/transport/article/3371885/super-typhoon-champi-disrupts-more-70-flights-between-hong-kong-and-taiwan",
-          "traducida": false
-        },
-        {
-          "id": "82f0c5892dceb7a9cf25",
-          "fecha": "2026-10-23T04:15:11+00:00",
-          "titulo": "Honduras squeezes Chinese firms; Super Typhoon Champi nears Taiwan: SCMP’s 7 highlights",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/article/3371851/honduras-squeezes-chinese-firms-super-typhoon-champi-nears-taiwan-scmps-7-highlights",
-          "traducida": false
-        },
-        {
-          "id": "e495444b52e59952ed3b",
-          "fecha": "2026-10-22T11:00:16+00:00",
-          "titulo": "Could US advances in drone command give it an edge over the PLA in a Taiwan conflict?",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/military/article/3371799/could-us-advances-drone-command-give-it-edge-over-pla-taiwan-conflict",
-          "traducida": false
-        },
-        {
-          "id": "c04879d7ad61adeae45d",
-          "fecha": "2026-10-21T16:13:53+00:00",
-          "titulo": "Taiwan charges five men over plot to run over comedian for his Xi Jinping jokes",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/21/taiwan-five-men-plot-run-over-comedian-huang-yi-hao-xi-jinping-jokes",
-          "traducida": false
-        },
-        {
-          "id": "ae3a96e21374836eed69",
-          "fecha": "2026-10-21T14:00:09+00:00",
-          "titulo": "Taiwan’s Iran-style attack drone could swamp PLA air defences: analysts",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/military/article/3371648/taiwans-iran-style-attack-drone-could-swamp-pla-air-defences-analysts",
-          "traducida": false
-        },
-        {
-          "id": "6a08d96fd0c62490fa34",
-          "fecha": "2026-10-21T11:00:11+00:00",
-          "titulo": "Beijing’s top Taiwan official meets US think tank to reaffirm red lines",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/politics/article/3371662/beijings-top-taiwan-official-meets-us-think-tank-reaffirm-red-lines",
-          "traducida": false
-        },
-        {
-          "id": "8031190e240240fd308d",
-          "fecha": "2026-10-21T08:00:06+00:00",
-          "titulo": "Strongest storm of the year barrels towards Taiwan and mainland China",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/politics/article/3371627/strongest-storm-year-barrels-towards-taiwan-and-mainland-china",
-          "traducida": false
-        },
-        {
-          "id": "d1f8e24c9b8c208063cc",
-          "fecha": "2026-10-20T12:00:07+00:00",
-          "titulo": "Chinese military vessels and spy drones track Keen Sword war games off Japan",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/politics/article/3371525/chinese-military-vessels-and-spy-drones-track-keen-sword-war-games-japan",
-          "traducida": false
-        },
-        {
-          "id": "13e0b0c7472a3136d5b1",
-          "fecha": "2026-10-19T19:43:05+00:00",
-          "titulo": "Honduras targets Chinese shops and state builder as president sits on Taiwan pledge",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3371425/honduras-targets-chinese-shops-and-state-builder-president-sits-taiwan-pledge?utm_source=rss_feed",
-          "traducida": false
-        },
-        {
-          "id": "7a0720a5675a3263d86c",
-          "fecha": "2026-10-19T12:00:10+00:00",
-          "titulo": "Taiwan coastguard wards off 16 mainland ships as Beijing turns up the pressure",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/military/article/3371397/taiwan-coastguard-wards-16-mainland-ships-beijing-turns-pressure?utm_source=rss_feed",
-          "traducida": false
-        },
-        {
-          "id": "666d3953f244bdcf8aa3",
-          "fecha": "2026-10-18T17:13:15+00:00",
-          "titulo": "Taiwan says drives away 16 Chinese ships involved in 'maritime harassment'",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/taiwan-says-drives-away-16-chinese-ships-involved-in-maritime-harassment/article71600923.ece",
-          "traducida": false
-        },
-        {
-          "id": "00c9b0587d50ae00807b",
-          "fecha": "2026-10-18T16:25:52+00:00",
-          "titulo": "‘Hybrid warfare’: Taiwan drives away 16 Chinese ships",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/18/taiwan-drives-away-16-chinese-ships-accused-of-maritime-harassment?traffic_source=rss",
-          "traducida": false
         }
       ]
     },
     {
       "id": "eeuu-china",
       "titulo": "Competencia estratégica Estados Unidos–China",
-      "cantidad_archivada": 20,
-      "nuevas_24h": 0,
-      "anteriores_24h": 5,
-      "dias_con_registros": 5,
-      "fecha_ultima": "2026-10-22T15:00:05+00:00",
+      "cantidad_archivada": 25,
+      "nuevas_24h": 5,
+      "anteriores_24h": 2,
+      "dias_con_registros": 7,
+      "fecha_ultima": "2026-10-24T11:08:27+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "d3fefb6394151b5eebf1",
+          "fecha": "2026-10-24T11:08:27+00:00",
+          "titulo": "North Korean leader Kim Jong-un visits Chinese border city of Dandong",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3372026/north-korean-leader-kim-jong-un-visits-chinese-border-city-dandong",
+          "traducida": false
+        },
+        {
+          "id": "1dd5989885c624ca76bb",
+          "fecha": "2026-10-24T10:03:53+00:00",
+          "titulo": "Is Washington misreading Beijing? Decline in US visits to China sparks concern",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3371535/washington-misreading-beijing-decline-us-visits-china-sparks-concern",
+          "traducida": false
+        },
+        {
+          "id": "74fec8a470ad92b0734e",
+          "fecha": "2026-10-24T09:20:03+00:00",
+          "titulo": "‘Systematically dismantled’: Hegseth’s new offensive against China’s Confucius Institutes",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3372023/systematically-dismantled-hegseths-new-offensive-against-chinas-confucius-institutes",
+          "traducida": false
+        },
+        {
+          "id": "9b6adc05960a3f8eaefe",
+          "fecha": "2026-10-23T22:27:23+00:00",
+          "titulo": "US, allies and China vie for influence through Pacific security deals",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/us/article/3371989/us-allies-and-china-vie-influence-through-pacific-security-deals",
+          "traducida": false
+        },
+        {
+          "id": "753944d645f4b7bde6b4",
+          "fecha": "2026-10-23T20:51:17+00:00",
+          "titulo": "Zelensky hopes Beijing can use ‘influence’ over Moscow to help stop Ukraine war",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3371987/zelensky-hopes-beijing-can-use-influence-over-moscow-help-stop-ukraine-war",
+          "traducida": false
+        },
         {
           "id": "ec6515a40bf41f7cffeb",
           "fecha": "2026-10-22T15:00:05+00:00",
@@ -1707,11 +1475,299 @@
       ]
     },
     {
+      "id": "china-taiwan",
+      "titulo": "China y Taiwán",
+      "cantidad_archivada": 16,
+      "nuevas_24h": 2,
+      "anteriores_24h": 4,
+      "dias_con_registros": 7,
+      "fecha_ultima": "2026-10-24T02:22:32+00:00",
+      "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
+      "publicaciones": [
+        {
+          "id": "235b5642d43137126bd6",
+          "fecha": "2026-10-24T02:22:32+00:00",
+          "titulo": "Typhoon Champi kills one and injures more than 500 in Taiwan as it heads to China",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china",
+          "traducida": false
+        },
+        {
+          "id": "36a6cde85c9f66bce0fa",
+          "fecha": "2026-10-23T19:07:15+00:00",
+          "titulo": "Taiwan says China using militia boats to expand 'battlefield preparation' in western Pacific",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/taiwan-says-china-using-militia-boats-to-expand-battlefield-preparation-in-western-pacific/article71617717.ece",
+          "traducida": false
+        },
+        {
+          "id": "cae08bc13021bbfea813",
+          "fecha": "2026-10-23T12:00:06+00:00",
+          "titulo": "What Beijing’s two-to-one shipbuilding lead means for the US in war over Taiwan",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/military/article/3371951/what-beijings-two-one-shipbuilding-lead-means-us-war-over-taiwan",
+          "traducida": false
+        },
+        {
+          "id": "84c1de4e2c17150c2462",
+          "fecha": "2026-10-23T08:00:39+00:00",
+          "titulo": "Typhoon Champi grounds hundreds of Taiwan flights, threatens Shanghai and Japan",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/politics/article/3371901/typhoon-champi-grounds-hundreds-flights-taiwan-threatens-eastern-mainland-china",
+          "traducida": false
+        },
+        {
+          "id": "16bd40569a0f99692adb",
+          "fecha": "2026-10-23T06:39:58+00:00",
+          "titulo": "Typhoon Champi disrupts more than 70 flights between Hong Kong and Taiwan",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/hong-kong/transport/article/3371885/super-typhoon-champi-disrupts-more-70-flights-between-hong-kong-and-taiwan",
+          "traducida": false
+        },
+        {
+          "id": "82f0c5892dceb7a9cf25",
+          "fecha": "2026-10-23T04:15:11+00:00",
+          "titulo": "Honduras squeezes Chinese firms; Super Typhoon Champi nears Taiwan: SCMP’s 7 highlights",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/article/3371851/honduras-squeezes-chinese-firms-super-typhoon-champi-nears-taiwan-scmps-7-highlights",
+          "traducida": false
+        },
+        {
+          "id": "e495444b52e59952ed3b",
+          "fecha": "2026-10-22T11:00:16+00:00",
+          "titulo": "Could US advances in drone command give it an edge over the PLA in a Taiwan conflict?",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/military/article/3371799/could-us-advances-drone-command-give-it-edge-over-pla-taiwan-conflict",
+          "traducida": false
+        },
+        {
+          "id": "c04879d7ad61adeae45d",
+          "fecha": "2026-10-21T16:13:53+00:00",
+          "titulo": "Taiwan charges five men over plot to run over comedian for his Xi Jinping jokes",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/21/taiwan-five-men-plot-run-over-comedian-huang-yi-hao-xi-jinping-jokes",
+          "traducida": false
+        },
+        {
+          "id": "ae3a96e21374836eed69",
+          "fecha": "2026-10-21T14:00:09+00:00",
+          "titulo": "Taiwan’s Iran-style attack drone could swamp PLA air defences: analysts",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/military/article/3371648/taiwans-iran-style-attack-drone-could-swamp-pla-air-defences-analysts",
+          "traducida": false
+        },
+        {
+          "id": "6a08d96fd0c62490fa34",
+          "fecha": "2026-10-21T11:00:11+00:00",
+          "titulo": "Beijing’s top Taiwan official meets US think tank to reaffirm red lines",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/politics/article/3371662/beijings-top-taiwan-official-meets-us-think-tank-reaffirm-red-lines",
+          "traducida": false
+        },
+        {
+          "id": "8031190e240240fd308d",
+          "fecha": "2026-10-21T08:00:06+00:00",
+          "titulo": "Strongest storm of the year barrels towards Taiwan and mainland China",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/politics/article/3371627/strongest-storm-year-barrels-towards-taiwan-and-mainland-china",
+          "traducida": false
+        },
+        {
+          "id": "d1f8e24c9b8c208063cc",
+          "fecha": "2026-10-20T12:00:07+00:00",
+          "titulo": "Chinese military vessels and spy drones track Keen Sword war games off Japan",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/politics/article/3371525/chinese-military-vessels-and-spy-drones-track-keen-sword-war-games-japan",
+          "traducida": false
+        },
+        {
+          "id": "13e0b0c7472a3136d5b1",
+          "fecha": "2026-10-19T19:43:05+00:00",
+          "titulo": "Honduras targets Chinese shops and state builder as president sits on Taiwan pledge",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3371425/honduras-targets-chinese-shops-and-state-builder-president-sits-taiwan-pledge?utm_source=rss_feed",
+          "traducida": false
+        },
+        {
+          "id": "7a0720a5675a3263d86c",
+          "fecha": "2026-10-19T12:00:10+00:00",
+          "titulo": "Taiwan coastguard wards off 16 mainland ships as Beijing turns up the pressure",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/military/article/3371397/taiwan-coastguard-wards-16-mainland-ships-beijing-turns-pressure?utm_source=rss_feed",
+          "traducida": false
+        },
+        {
+          "id": "666d3953f244bdcf8aa3",
+          "fecha": "2026-10-18T17:13:15+00:00",
+          "titulo": "Taiwan says drives away 16 Chinese ships involved in 'maritime harassment'",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/taiwan-says-drives-away-16-chinese-ships-involved-in-maritime-harassment/article71600923.ece",
+          "traducida": false
+        },
+        {
+          "id": "00c9b0587d50ae00807b",
+          "fecha": "2026-10-18T16:25:52+00:00",
+          "titulo": "‘Hybrid warfare’: Taiwan drives away 16 Chinese ships",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/18/taiwan-drives-away-16-chinese-ships-accused-of-maritime-harassment?traffic_source=rss",
+          "traducida": false
+        }
+      ]
+    },
+    {
+      "id": "onu",
+      "titulo": "Naciones Unidas y multilateralismo",
+      "cantidad_archivada": 17,
+      "nuevas_24h": 1,
+      "anteriores_24h": 3,
+      "dias_con_registros": 6,
+      "fecha_ultima": "2026-10-23T12:41:05+00:00",
+      "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
+      "publicaciones": [
+        {
+          "id": "5304cc9eef3e8109c4b8",
+          "fecha": "2026-10-23T12:41:05+00:00",
+          "titulo": "Putin discusses measures to protect youths from external threats with Security Council",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2206919",
+          "traducida": false
+        },
+        {
+          "id": "0a8af5b182a4f0448c98",
+          "fecha": "2026-10-23T08:41:41+00:00",
+          "titulo": "US-Iran war to continue until nuclear deal is struck, US envoy says",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2206699",
+          "traducida": false
+        },
+        {
+          "id": "7ab29e097fc26a802573",
+          "fecha": "2026-10-23T06:13:13+00:00",
+          "titulo": "Nepal to receive first-ever loss and damage fund payout after devastating floods",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/videos/nepal-to-receive-first-ever-loss-and-damage-fund-payout-after-devastating-floods/article71614805.ece",
+          "traducida": false
+        },
+        {
+          "id": "76ae7034389cf8a0fa73",
+          "fecha": "2026-10-23T00:58:07+00:00",
+          "titulo": "Nepal set to receive first-ever US$20 million payout from UN climate damage fund",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/asia/south-asia/article/3371840/nepal-set-receive-first-ever-us20-million-payout-un-climate-damage-fund",
+          "traducida": false
+        },
+        {
+          "id": "c49ff40640bf4106770b",
+          "fecha": "2026-10-21T16:59:39+00:00",
+          "titulo": "UN follows situation around possible Russia-Ukraine talks — spokesperson",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2205779",
+          "traducida": false
+        },
+        {
+          "id": "7823a97f13033687b10c",
+          "fecha": "2026-10-21T13:53:49+00:00",
+          "titulo": "Western efforts against Russia, role of emigres: Shoigu’s statements",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2205591",
+          "traducida": false
+        },
+        {
+          "id": "8c83dd9c5d3cfc608d53",
+          "fecha": "2026-10-21T07:12:27+00:00",
+          "titulo": "United Kingdom National Statement to UNTOC COP 13",
+          "fuente": "GOV.UK FCDO",
+          "url": "https://www.gov.uk/government/speeches/united-kingdom-national-statement-to-untoc-cop-13",
+          "traducida": false
+        },
+        {
+          "id": "919d071a69df0cf6d4e2",
+          "fecha": "2026-10-20T22:02:49+00:00",
+          "titulo": "Iran security chief rejects moving enriched uranium out of country",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/iran-security-chief-rejects-moving-enriched-uranium-out-of-country/article71605648.ece",
+          "traducida": false
+        },
+        {
+          "id": "e0bf259f71be56ef1045",
+          "fecha": "2026-10-20T20:57:41+00:00",
+          "titulo": "Normalisation of relations between Kosovo and Serbia remains essential to long term stability: UK statement at the UN Security Council",
+          "fuente": "GOV.UK FCDO",
+          "url": "https://www.gov.uk/government/speeches/normalisation-of-relations-between-kosovo-and-serbia-remains-essential-to-long-term-stability-uk-statement-at-the-un-security-council",
+          "traducida": false
+        },
+        {
+          "id": "ff9e9e167ce6221fc3f9",
+          "fecha": "2026-10-20T15:46:27+00:00",
+          "titulo": "The United Kindgom welcomes the continued consolidation of peace and stability in teh Central African Republic: UK statement at the UN Security Council",
+          "fuente": "GOV.UK FCDO",
+          "url": "https://www.gov.uk/government/speeches/the-united-kindgom-welcomes-the-continued-consolidation-of-peace-and-stability-in-teh-central-african-republic-uk-statement-at-the-un-security-council",
+          "traducida": false
+        },
+        {
+          "id": "485005b24caf2064986f",
+          "fecha": "2026-10-20T14:24:03+00:00",
+          "titulo": "Russia, Oman set record by trade turnover volume",
+          "fuente": "TASS",
+          "url": "https://tass.com/economy/2204793",
+          "traducida": false
+        },
+        {
+          "id": "416c381d744353063a54",
+          "fecha": "2026-10-20T14:14:04+00:00",
+          "titulo": "19.2 million Afghans could soon face ‘acute food insecurity’: UN",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/russia-central-asia/article/3371551/192-million-afghans-could-soon-face-acute-food-insecurity-un",
+          "traducida": false
+        },
+        {
+          "id": "da2819b1774cad373b21",
+          "fecha": "2026-10-19T17:28:48+00:00",
+          "titulo": "Haiti cannot afford another year in which insecurity outpaces political progress: UK statement at the UN Security Council",
+          "fuente": "GOV.UK FCDO",
+          "url": "https://www.gov.uk/government/speeches/haiti-cannot-afford-another-year-in-which-insecurity-outpaces-political-progress-uk-statement-at-the-un-security-council",
+          "traducida": false
+        },
+        {
+          "id": "88f7dda43fd5988a3e2b",
+          "fecha": "2026-10-19T16:40:01+00:00",
+          "titulo": "Search under way for four soldiers missing after gang attack in Haiti",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/19/search-under-way-for-four-soldiers-missing-after-gang-attack-in-haiti?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "65d889d79875f5cf1642",
+          "fecha": "2026-10-18T12:35:07+00:00",
+          "titulo": "UN Security Council can be involved in creating conditions for dialogue in Gulf — Lavrov",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2203747",
+          "traducida": false
+        },
+        {
+          "id": "0b2493ff18ec95ffb7d8",
+          "fecha": "2026-10-18T11:18:20+00:00",
+          "titulo": "Gulf countries call on Russia to support their participation in negotiations on Iran",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2203729",
+          "traducida": false
+        },
+        {
+          "id": "7ef2fad803ed573da098",
+          "fecha": "2026-10-16T15:38:55+00:00",
+          "titulo": "As we remember the victims of El Fasher, the parties need to protect civilians, allow humanitarian assistance to reach those who need it, and choose diplomacy over continued war: UK statement at the UN Security Council",
+          "fuente": "GOV.UK FCDO",
+          "url": "https://www.gov.uk/government/speeches/as-we-remember-the-victims-of-el-fasher-the-parties-need-to-protect-civilians-allow-humanitarian-assistance-to-reach-those-who-need-it-and-choose-dipl",
+          "traducida": false
+        }
+      ]
+    },
+    {
       "id": "peru-mundo",
       "titulo": "Perú en el sistema internacional",
       "cantidad_archivada": 2,
       "nuevas_24h": 0,
-      "anteriores_24h": 1,
+      "anteriores_24h": 0,
       "dias_con_registros": 2,
       "fecha_ultima": "2026-10-22T10:28:00+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
