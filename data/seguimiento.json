@@ -1,17 +1,25 @@
 {
-  "actualizado_utc": "2026-10-24T12:38:27.576888+00:00",
+  "actualizado_utc": "2026-10-24T14:08:42.562626+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 601,
-      "nuevas_24h": 91,
-      "anteriores_24h": 106,
+      "cantidad_archivada": 602,
+      "nuevas_24h": 75,
+      "anteriores_24h": 100,
       "dias_con_registros": 9,
-      "fecha_ultima": "2026-10-24T12:12:40+00:00",
+      "fecha_ultima": "2026-10-24T13:45:45+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "c4d28f0dd76cd78de804",
+          "fecha": "2026-10-24T13:45:45+00:00",
+          "titulo": "India wants relations with Russia to be further strengthened — Lok Sabha speaker",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2207293",
+          "traducida": false
+        },
         {
           "id": "af154c8b7028fa6b062a",
           "fecha": "2026-10-24T12:12:40+00:00",
@@ -243,27 +251,83 @@
           "fuente": "TASS",
           "url": "https://tass.com/politics/2207191",
           "traducida": false
-        },
-        {
-          "id": "ac08ce86583bc8d8756a",
-          "fecha": "2026-10-23T20:52:30+00:00",
-          "titulo": "Russia’s Roshchina wins silver in women’s all-round at World Artistic Championships",
-          "fuente": "TASS",
-          "url": "https://tass.com/sports/2207187",
-          "traducida": false
         }
       ]
     },
     {
       "id": "oriente-medio",
       "titulo": "Oriente Medio: seguridad y diplomacia",
-      "cantidad_archivada": 298,
-      "nuevas_24h": 43,
+      "cantidad_archivada": 306,
+      "nuevas_24h": 47,
       "anteriores_24h": 43,
       "dias_con_registros": 9,
-      "fecha_ultima": "2026-10-24T09:14:40+00:00",
+      "fecha_ultima": "2026-10-24T13:27:11+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "2580e8ace053b205c779",
+          "fecha": "2026-10-24T13:27:11+00:00",
+          "titulo": "Netanyahu floats Crypto to bypass sanctions",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/netanyahu-floats-crypto-to-bypass-sanctions?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "d97aac46494d4d9fcbbf",
+          "fecha": "2026-10-24T13:17:13+00:00",
+          "titulo": "Israeli soldiers raze neighbourhood in Hebron, driving families from homes",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes",
+          "traducida": false
+        },
+        {
+          "id": "305d4953415f3861db1f",
+          "fecha": "2026-10-24T13:16:23+00:00",
+          "titulo": "Armed Israeli settlers try to break into Palestinian grandfather’s home",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/armed-israeli-settlers-try-to-break-into-palestinian-grandfathers-home?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "b031477879e3b70294ab",
+          "fecha": "2026-10-24T13:06:03+00:00",
+          "titulo": "Iran says won’t allow US warships to get close as Trump ponders new attacks",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "b8133e4e69d107306607",
+          "fecha": "2026-10-24T12:51:21+00:00",
+          "titulo": "Is Iran planning attacks on Americans; why is the US on alert?",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/24/is-iran-planning-attacks-on-americans-why-is-the-us-on-alert?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "65d4283ee47271746bd5",
+          "fecha": "2026-10-24T12:50:45+00:00",
+          "titulo": "Five Italian activists held in West Bank have been repatriated, Italy’s ⁠Foreign Ministry says",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/five-italian-activists-held-in-west-bank-have-been-repatriated-italys-foreign-ministry-says/article71620023.ece",
+          "traducida": false
+        },
+        {
+          "id": "336a2980e3340b0c461d",
+          "fecha": "2026-10-24T12:41:40+00:00",
+          "titulo": "Iran’s Ghalibaf will not attend BRICS Parliamentary Forum in Delhi: Embassy",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/irans-ghalibaf-will-not-attend-brics-parliamentary-forum-in-delhi-embassy/article71619999.ece",
+          "traducida": false
+        },
+        {
+          "id": "cf91efcadfe843e2850b",
+          "fecha": "2026-10-24T12:30:42+00:00",
+          "titulo": "Malaysia considers complete ban on Israel-based navigation app Waze",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/malaysia-waze-israel-ban?traffic_source=rss",
+          "traducida": false
+        },
         {
           "id": "e24d0c87e518e92b727c",
           "fecha": "2026-10-24T09:14:40+00:00",
@@ -439,83 +503,43 @@
           "fuente": "TASS",
           "url": "https://tass.com/world/2207213",
           "traducida": false
-        },
-        {
-          "id": "4e13ce6fbe063aadfea1",
-          "fecha": "2026-10-23T23:05:01+00:00",
-          "titulo": "Arab and Islamic countries call for resumption of traffic in Strait of Hormuz — statement",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2207205",
-          "traducida": false
-        },
-        {
-          "id": "8fd5b7f30c3f143818aa",
-          "fecha": "2026-10-23T22:23:22+00:00",
-          "titulo": "U.S. could strike Iran this weekend, envoy says",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/us-could-strike-iran-this-weekend-envoy-says/article71617954.ece",
-          "traducida": false
-        },
-        {
-          "id": "672f114a7000d4bf32ec",
-          "fecha": "2026-10-23T22:17:44+00:00",
-          "titulo": "Saudi Arabia not to host Intervision this year — TASS source",
-          "fuente": "TASS",
-          "url": "https://tass.com/society/2207199",
-          "traducida": false
-        },
-        {
-          "id": "3c21738c4648412f5814",
-          "fecha": "2026-10-23T21:16:46+00:00",
-          "titulo": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/iran-has-detailed-plans-to-hit-gulf-undersea-cables-if-war-resumes-officials-say/article71617797.ece",
-          "traducida": false
-        },
-        {
-          "id": "905655ab7b404c7fe547",
-          "fecha": "2026-10-23T19:24:54+00:00",
-          "titulo": "Trump denies his envoy’s statement about potential strike on Iran this weekend",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2207161",
-          "traducida": false
-        },
-        {
-          "id": "672dee69e839bd53c348",
-          "fecha": "2026-10-23T18:30:03+00:00",
-          "titulo": "A Dubaï, la rupture commerciale avec Téhéran met à mal les entreprises iraniennes et leurs circuits de financement",
-          "fuente": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/10/23/a-dubai-la-rupture-commerciale-avec-teheran-met-a-mal-les-entreprises-iraniennes-et-leurs-circuits-de-financement_6799141_3210.html",
-          "traducida": false
-        },
-        {
-          "id": "999f570fb677d21b3b76",
-          "fecha": "2026-10-23T17:31:46+00:00",
-          "titulo": "US deciding whether to quickly end war with Iran or let it die off — Trump",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2207117",
-          "traducida": false
-        },
-        {
-          "id": "f5f129983c01e29f2c10",
-          "fecha": "2026-10-23T17:30:51+00:00",
-          "titulo": "Jerusalem Daily: Israel to ‘lock down’ occupied West Bank",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/jerusalem-daily-netanyahu-orders-a-full-lockdown-of-the-occupied-west-ba?traffic_source=rss",
-          "traducida": false
         }
       ]
     },
     {
       "id": "union-europea",
       "titulo": "Unión Europea y relaciones exteriores",
-      "cantidad_archivada": 241,
-      "nuevas_24h": 31,
-      "anteriores_24h": 47,
+      "cantidad_archivada": 244,
+      "nuevas_24h": 25,
+      "anteriores_24h": 49,
       "dias_con_registros": 9,
-      "fecha_ultima": "2026-10-24T12:28:50+00:00",
+      "fecha_ultima": "2026-10-24T13:17:24+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "9aa5524fadac27e33aa7",
+          "fecha": "2026-10-24T13:17:24+00:00",
+          "titulo": "France on high alert as Paris march begins in uneasy calm",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3372031/france-high-alert-paris-march-begins-uneasy-calm",
+          "traducida": false
+        },
+        {
+          "id": "6475b41e271cd996144d",
+          "fecha": "2026-10-24T13:15:55+00:00",
+          "titulo": "Brussels boutiques board up storefronts ahead of potential rioting",
+          "fuente": "TASS",
+          "url": "https://tass.com/economy/2207291",
+          "traducida": false
+        },
+        {
+          "id": "9ce58a0e2586f2c49692",
+          "fecha": "2026-10-24T12:55:37+00:00",
+          "titulo": "France protests live: 135 arrested as marches held under tight security",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/24/france-protests-live-135-arrested-as-marches-held-under-tight-security?traffic_source=rss",
+          "traducida": false
+        },
         {
           "id": "7c2eaa95742e889dfcc1",
           "fecha": "2026-10-24T12:28:50+00:00",
@@ -731,43 +755,35 @@
           "fuente": "The Hindu",
           "url": "https://www.thehindu.com/news/international/french-authorities-deploy-70000-officers-for-october-24th-protests-louvre-and-other-museums-closed/article71616370.ece",
           "traducida": false
-        },
-        {
-          "id": "b09d57fa8d1d1b61645b",
-          "fecha": "2026-10-23T13:40:53+00:00",
-          "titulo": "Russia cannot ignore EU’s growing militarization — Russian ambassador to Montenegro",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2206973",
-          "traducida": false
-        },
-        {
-          "id": "1b9021d59d99f5b313a6",
-          "fecha": "2026-10-23T13:19:19+00:00",
-          "titulo": "NFL would cancel Paris game if unsafe due to riots, Steelers’ Rodgers says",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/10/23/nfl-would-cancel-paris-game-if-unsafe-due-to-riots-steelers-rodgers-says?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "fb32a4fbedf8b2cf1c37",
-          "fecha": "2026-10-23T13:00:20+00:00",
-          "titulo": "France ‘certain’ united front with Germany pushed China into hybrid car deal",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3371962/france-certain-united-front-germany-pushed-china-hybrid-car-deal",
-          "traducida": false
         }
       ]
     },
     {
       "id": "india-asia",
       "titulo": "India y Asia-Pacífico",
-      "cantidad_archivada": 110,
+      "cantidad_archivada": 112,
       "nuevas_24h": 18,
-      "anteriores_24h": 19,
+      "anteriores_24h": 20,
       "dias_con_registros": 9,
-      "fecha_ultima": "2026-10-24T12:21:22+00:00",
+      "fecha_ultima": "2026-10-24T13:45:45+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "c4d28f0dd76cd78de804",
+          "fecha": "2026-10-24T13:45:45+00:00",
+          "titulo": "India wants relations with Russia to be further strengthened — Lok Sabha speaker",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2207293",
+          "traducida": false
+        },
+        {
+          "id": "336a2980e3340b0c461d",
+          "fecha": "2026-10-24T12:41:40+00:00",
+          "titulo": "Iran’s Ghalibaf will not attend BRICS Parliamentary Forum in Delhi: Embassy",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/irans-ghalibaf-will-not-attend-brics-parliamentary-forum-in-delhi-embassy/article71619999.ece",
+          "traducida": false
+        },
         {
           "id": "437ffd9d72e7855b5afe",
           "fecha": "2026-10-24T12:21:22+00:00",
@@ -991,35 +1007,27 @@
           "fuente": "The Guardian",
           "url": "https://www.theguardian.com/global-development/2026/oct/23/india-cuts-cost-cancer-drugs",
           "traducida": false
-        },
-        {
-          "id": "acc5064bd27693da155b",
-          "fecha": "2026-10-23T06:55:32+00:00",
-          "titulo": "What is Romanch’s Law? New York City’s historic horse carriage ban after Indian tourist’s death",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/what-is-romanchs-law-new-york-city-historic-horse-carriage-ban-explained/article71614635.ece",
-          "traducida": false
-        },
-        {
-          "id": "750846acc816c6bdef8a",
-          "fecha": "2026-10-23T04:48:55+00:00",
-          "titulo": "No bots: Japan drafts rules for social media platforms ahead of local elections",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/asia/east-asia/article/3371871/no-bots-japan-drafts-rules-social-media-platforms-ahead-local-elections",
-          "traducida": false
         }
       ]
     },
     {
       "id": "suramerica",
       "titulo": "Sudamérica: integración y política exterior",
-      "cantidad_archivada": 67,
+      "cantidad_archivada": 68,
       "nuevas_24h": 14,
-      "anteriores_24h": 11,
+      "anteriores_24h": 9,
       "dias_con_registros": 9,
-      "fecha_ultima": "2026-10-24T09:41:56+00:00",
+      "fecha_ultima": "2026-10-24T13:58:14+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "f185701a972dd236e172",
+          "fecha": "2026-10-24T13:58:14+00:00",
+          "titulo": "Do abstaining voters hold the key to Brazil’s 2026 presidential election?",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/longform/2026/10/24/do-abstaining-voters-hold-the-key-to-brazils-2026-presidential-election?traffic_source=rss",
+          "traducida": false
+        },
         {
           "id": "2e889646bcfb40e54131",
           "fecha": "2026-10-24T09:41:56+00:00",
@@ -1251,14 +1259,6 @@
           "fuente": "El País",
           "url": "https://elpais.com/america/2026-10-21/bolsonaro-cae-un-punto-y-mantiene-el-empate-tecnico-con-lula-a-cuatro-dias-de-las-presidenciales.html",
           "traducida": false
-        },
-        {
-          "id": "4e000d8b842411c6268b",
-          "fecha": "2026-10-21T18:19:37+00:00",
-          "titulo": "La historia de ‘Fanático’, el “temazo” con el que Sánchez le devolvió hostilidades a Milei",
-          "fuente": "El País",
-          "url": "https://elpais.com/argentina/2026-10-21/la-historia-de-fanatico-el-temazo-con-el-que-sanchez-le-devolvio-hostilidades-a-milei.html",
-          "traducida": false
         }
       ]
     },
@@ -1267,7 +1267,7 @@
       "titulo": "Competencia estratégica Estados Unidos–China",
       "cantidad_archivada": 25,
       "nuevas_24h": 5,
-      "anteriores_24h": 2,
+      "anteriores_24h": 1,
       "dias_con_registros": 7,
       "fecha_ultima": "2026-10-24T11:08:27+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -1618,8 +1618,8 @@
       "id": "onu",
       "titulo": "Naciones Unidas y multilateralismo",
       "cantidad_archivada": 17,
-      "nuevas_24h": 1,
-      "anteriores_24h": 3,
+      "nuevas_24h": 0,
+      "anteriores_24h": 4,
       "dias_con_registros": 6,
       "fecha_ultima": "2026-10-23T12:41:05+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
