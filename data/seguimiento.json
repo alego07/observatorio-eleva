@@ -1,13 +1,13 @@
 {
-  "actualizado_utc": "2026-10-24T16:11:51.162585+00:00",
+  "actualizado_utc": "2026-10-24T16:42:24.171016+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
       "cantidad_archivada": 607,
-      "nuevas_24h": 62,
-      "anteriores_24h": 106,
+      "nuevas_24h": 61,
+      "anteriores_24h": 105,
       "dias_con_registros": 9,
       "fecha_ultima": "2026-10-24T15:47:20+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -257,13 +257,21 @@
     {
       "id": "oriente-medio",
       "titulo": "Oriente Medio: seguridad y diplomacia",
-      "cantidad_archivada": 311,
-      "nuevas_24h": 47,
+      "cantidad_archivada": 312,
+      "nuevas_24h": 46,
       "anteriores_24h": 40,
       "dias_con_registros": 9,
-      "fecha_ultima": "2026-10-24T15:59:24+00:00",
+      "fecha_ultima": "2026-10-24T16:30:08+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "af816316249fa5fd5320",
+          "fecha": "2026-10-24T16:30:08+00:00",
+          "titulo": "Rishon LeZion, une ville devenue miroir électoral d’Israël",
+          "fuente": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/10/24/rishon-lezion-une-ville-devenue-miroir-electoral-d-israel_6799720_3210.html",
+          "traducida": false
+        },
         {
           "id": "28f7fad6c54bd035309f",
           "fecha": "2026-10-24T15:59:24+00:00",
@@ -495,14 +503,6 @@
           "fuente": "Le Monde",
           "url": "https://www.lemonde.fr/international/article/2026/10/24/les-partisans-du-grand-israel-avancent-leurs-pions-a-la-veille-des-elections-legislatives_6799481_3210.html",
           "traducida": false
-        },
-        {
-          "id": "550c1f532ec326f2d789",
-          "fecha": "2026-10-24T03:05:17+00:00",
-          "titulo": "Trump says U.S. will 'take care of Cuba' on its way back from Iran",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/trump-says-us-will-take-care-of-cuba-on-its-way-back-from-iran/article71618927.ece",
-          "traducida": false
         }
       ]
     },
@@ -511,7 +511,7 @@
       "titulo": "Unión Europea y relaciones exteriores",
       "cantidad_archivada": 247,
       "nuevas_24h": 24,
-      "anteriores_24h": 43,
+      "anteriores_24h": 42,
       "dias_con_registros": 9,
       "fecha_ultima": "2026-10-24T15:38:00+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -1014,8 +1014,8 @@
       "id": "suramerica",
       "titulo": "Sudamérica: integración y política exterior",
       "cantidad_archivada": 69,
-      "nuevas_24h": 14,
-      "anteriores_24h": 8,
+      "nuevas_24h": 13,
+      "anteriores_24h": 9,
       "dias_con_registros": 9,
       "fecha_ultima": "2026-10-24T15:36:38+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
