@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-10-25T17:06:56.539648+00:00",
+  "created_utc": "2026-10-25T17:56:19.533849+00:00",
   "events": [
     {
       "id": "a-d4f4b4c5bee0c02c0f56",
@@ -97,14 +97,26 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-98a816ed69f52680cd43",
+      "id": "a-1b4f4f97e98be1383dbc",
       "fecha": "2026-10-25",
-      "titulo_fuente": "Netanyahu warns Iran may try to disrupt Israel election, says 'don't test us'",
+      "titulo_fuente": "Netanyahu warns Iran may try to disrupt election, says ‘don’t test us’",
       "region": "Oriente Medio",
       "temas": [
         "Seguridad y conflictos"
       ],
       "noticias": [
+        {
+          "id": "1b4f4f97e98be1383dbc",
+          "titulo_original": "Netanyahu warns Iran may try to disrupt election, says ‘don’t test us’",
+          "titulo_es": "Netanyahu advierte Irán puede intentar interrumpir las elecciones, dice ‘no nos prueben’",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3372091/netanyahu-warns-iran-may-try-disrupt-election-says-dont-test-us",
+          "fuente": "South China Morning Post",
+          "pais": "Hong Kong",
+          "fecha": "2026-10-25T17:29:00+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Israeli Prime Minister Benjamin Netanyahu said Iran and its allies might try to disrupt Tuesday’s Israeli elections, warning the Islamic republic against any hostile acts. The premier has campaigned heavily on his security credentials, touting the war he launched against Iran in February alongside the United States and suggesting that he alone can see it through. “We have intelligence signs that our enemies, Iran and its proxies, could challenge ",
+          "resumen_es": "El primer ministro israelí Benjamin Netanyahu dijo que Irán y sus aliados podrían intentar interrumpir las elecciones israelíes del martes, advirtiendo a la república islámica contra cualquier acto hostil. El estreno ha hecho campaña sobre sus credenciales de seguridad, tout"
+        },
         {
           "id": "98a816ed69f52680cd43",
           "titulo_original": "Netanyahu warns Iran may try to disrupt Israel election, says 'don't test us'",
@@ -119,13 +131,15 @@
         }
       ],
       "fuentes": [
+        "South China Morning Post",
         "The Hindu"
       ],
       "actores_mencionados": [
-        "Israel",
-        "Irán"
+        "Estados Unidos",
+        "Irán",
+        "Israel"
       ],
-      "fuentes_independientes": 1,
+      "fuentes_independientes": 2,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
         "nombre": "Realismo y dilema de seguridad",
@@ -134,10 +148,57 @@
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 7,
+      "motivos_seleccion": [
+        "Cobertura de fuentes distintas",
+        "Actores relevantes: Estados Unidos, Irán, Israel",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-c859d4ae6117e4468911",
+      "fecha": "2026-10-25",
+      "titulo_fuente": "Trump describes diesel deal with Russia as very good",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Energía y clima"
+      ],
+      "noticias": [
+        {
+          "id": "c859d4ae6117e4468911",
+          "titulo_original": "Trump describes diesel deal with Russia as very good",
+          "titulo_es": "Trump describe el trato diesel con Rusia como muy bueno",
+          "url": "https://tass.com/world/2207595",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-10-25T17:28:39+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "They didn't give us oil; they gave the oil to the world, said US President",
+          "resumen_es": "No nos dieron petróleo; dieron el petróleo al mundo, dijo el presidente de EE.UU."
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Rusia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia y gobernanza global",
+        "pregunta": "¿Cómo se distribuyen los costos de coordinación y los incentivos para cooperar?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
       "prioridad_orientativa": 6,
       "motivos_seleccion": [
-        "Actores relevantes: Irán, Israel",
-        "Ámbito: Seguridad y conflictos"
+        "Actores relevantes: Estados Unidos, Rusia",
+        "Ámbito: Energía y clima"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -1835,53 +1896,6 @@
         "Actores relevantes: Estados Unidos",
         "Ámbito: Comercio y finanzas, Seguridad y conflictos",
         "Posible decisión institucional o negociación"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-875c0a1c589fdd630612",
-      "fecha": "2026-10-24",
-      "titulo_fuente": "U.S. spy chief warns Iran has ramped up efforts to target Americans",
-      "region": "Oriente Medio",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "875c0a1c589fdd630612",
-          "titulo_original": "U.S. spy chief warns Iran has ramped up efforts to target Americans",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/news/international/us-spy-chief-warns-iran-has-ramped-up-efforts-to-target-americans/article71619239.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-10-24T08:28:06+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The warning comes after Washington ordered non-essential U.S. embassy staff and their families to leave Saudi Arabia this week, following increasing attacks from Yemen’s Houthis",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Hindu"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "Irán",
-        "Arabia Saudita"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos, Irán",
-        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6682,45 +6696,32 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-775731953eb026fdf0e3",
-      "fecha": "2026-10-24",
-      "titulo_fuente": "Death toll from Jordan church attack rises to nine",
+      "id": "a-f4720968055653eccf6e",
+      "fecha": "2026-10-25",
+      "titulo_fuente": "Le Pen pledges not to send French soldiers to fight in other countries’ wars",
       "region": "Internacional",
       "temas": [
         "Seguridad y conflictos"
       ],
       "noticias": [
         {
-          "id": "775731953eb026fdf0e3",
-          "titulo_original": "Death toll from Jordan church attack rises to nine",
-          "titulo_es": "El número de muertos del ataque de la iglesia de Jordania asciende a nueve",
-          "url": "https://www.thehindu.com/news/international/death-toll-from-jordan-church-attack-rises-to-nine/article71620464.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-10-24T14:16:33+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Gunmen stormed the compound of a Greek Orthodox church in the village of Hammoud in Karak governorate during a funeral procession on October 23 and opened fire, Jordanian authorities said",
-          "resumen_es": "Gunmen asaltó el complejo de una iglesia ortodoxa griega en la aldea de Hammoud en la provincia de Karak durante una procesión fúnebre el 23 de octubre y abrió fuego, las autoridades jordanas dijeron"
-        },
-        {
-          "id": "eb268b9f0ce155c92c96",
-          "titulo_original": "Death toll from terror attack in Jordan rises to eight",
-          "titulo_es": "",
-          "url": "https://tass.com/emergencies/2207267",
+          "id": "f4720968055653eccf6e",
+          "titulo_original": "Le Pen pledges not to send French soldiers to fight in other countries’ wars",
+          "titulo_es": "Le Pen promete no enviar soldados franceses para luchar en las guerras de otros países",
+          "url": "https://tass.com/world/2207597",
           "fuente": "TASS",
           "pais": "Rusia",
-          "fecha": "2026-10-24T08:27:56+00:00",
+          "fecha": "2026-10-25T17:32:20+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "27 injured people remain in medical facilities",
-          "resumen_es": ""
+          "resumen_original": "Our country needs all of its children, said candidate in the 2027 French presidential election",
+          "resumen_es": "Nuestro país necesita a todos sus hijos, dijo candidato en las elecciones presidenciales de 2027"
         }
       ],
       "fuentes": [
-        "TASS",
-        "The Hindu"
+        "TASS"
       ],
       "actores_mencionados": [],
-      "fuentes_independientes": 2,
+      "fuentes_independientes": 1,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
         "nombre": "Realismo y dilema de seguridad",
@@ -6729,10 +6730,150 @@
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 3,
+      "prioridad_orientativa": 2,
       "motivos_seleccion": [
-        "Cobertura de fuentes distintas",
         "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-94642db6a084efb54b35",
+      "fecha": "2026-10-25",
+      "titulo_fuente": "AI’s ‘opportunity divide’ could deepen global inequality, UN official warns",
+      "region": "Internacional",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "94642db6a084efb54b35",
+          "titulo_original": "AI’s ‘opportunity divide’ could deepen global inequality, UN official warns",
+          "titulo_es": "La ‘dividencia de oportunidad’ de AI podría profundizar la desigualdad global, advierte el funcionario de la ONU",
+          "url": "https://www.aljazeera.com/news/2026/10/25/ais-opportunity-divide-could-deepen-global-inequality-un-official-warns?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-10-25T17:26:22+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The deputy secretary-general of UN's ICT agency says unequal access to AI means poorer nations may be left behind.",
+          "resumen_es": "El subsecretario general de la agencia de TIC de la ONU dice que el acceso desigual a la IA significa que las naciones más pobres pueden dejarse atrás."
+        },
+        {
+          "id": "f3aaac77f2002d4d70c4",
+          "titulo_original": "UN official warns AI could ‘deepen’ global inequality",
+          "titulo_es": "",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/un-official-warns-ai-could-deepen-global-inequality?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-10-25T15:38:52+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "UN official warns AI could ‘deepen’ global inequality",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-43e53313b7a999937b97",
+      "fecha": "2026-10-25",
+      "titulo_fuente": "Jerusalem Daily: Israel expels thousands from Hebron",
+      "region": "Oriente Medio",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "43e53313b7a999937b97",
+          "titulo_original": "Jerusalem Daily: Israel expels thousands from Hebron",
+          "titulo_es": "Jerusalén Daily: Israel expulsa miles de Hebrón",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jerusalem-daily-israel-expels-thousands-from-hebron?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-10-25T17:12:59+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Jerusalem Daily: Israel expels thousands from Hebron",
+          "resumen_es": "Jerusalén Daily: Israel expulsa miles de Hebrón"
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [
+        "Israel"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Israel"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-c32f2aaa9d0a06775cda",
+      "fecha": "2026-10-25",
+      "titulo_fuente": "U.K. PM Burnham says he is open to discussing EU free movement",
+      "region": "Europa",
+      "temas": [
+        "Diplomacia",
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "c32f2aaa9d0a06775cda",
+          "titulo_original": "U.K. PM Burnham says he is open to discussing EU free movement",
+          "titulo_es": "Burnham dice que está abierto a discutir el movimiento libre de la UE",
+          "url": "https://www.thehindu.com/news/international/uk-pm-burnham-says-he-is-open-to-discussing-eu-free-movement/article71624415.ece",
+          "fuente": "The Hindu",
+          "pais": "India",
+          "fecha": "2026-10-25T17:03:58+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Andy Burnham — who is trying to find ways to speed up Britain’s economy is due to meet top EU officials for a summit on November 20",
+          "resumen_es": "Andy Burnham —quien está tratando de encontrar maneras de acelerar la economía británica se debe a conocer a altos funcionarios de la UE para una cumbre el 20 de noviembre"
+        }
+      ],
+      "fuentes": [
+        "The Hindu"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Comercio y finanzas, Diplomacia"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6822,148 +6963,6 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Actores relevantes: Israel"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-83e258b80ad169fb4fed",
-      "fecha": "2026-10-25",
-      "titulo_fuente": "Behind China’s AI gift, a constraint",
-      "region": "China",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "83e258b80ad169fb4fed",
-          "titulo_original": "Behind China’s AI gift, a constraint",
-          "titulo_es": "Detrás del don AI de China, un obstáculo",
-          "url": "https://www.thehindu.com/news/international/behind-chinas-ai-gift-a-constraint/article71281433.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-10-25T16:50:27+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "China’s embrace of open-weight AI models is driven as much by compute constraints as by a bid to project itself as a responsible global AI power; until it overcomes chip and inference bottlenecks, Beijing is likely to keep sharing its models with the world",
-          "resumen_es": "El abrazo de China de los modelos de IA de peso abierto es impulsado tanto por limitaciones de cálculo como por una oferta para proyectarse como un poder de IA global responsable; hasta que supere los cuellos de chip e inferencia, es probable que Beijing siga compartiendo su modelo"
-        }
-      ],
-      "fuentes": [
-        "The Hindu"
-      ],
-      "actores_mencionados": [
-        "China"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: China"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-dd93e08f862d9c4be4b6",
-      "fecha": "2026-10-25",
-      "titulo_fuente": "Israel’s ‘Generation Right’ could shape Netanyahu’s future",
-      "region": "Oriente Medio",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "dd93e08f862d9c4be4b6",
-          "titulo_original": "Israel’s ‘Generation Right’ could shape Netanyahu’s future",
-          "titulo_es": "La ‘Derecha de la Generación’ de Israel podría dar forma al futuro de Netanyahu",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israels-generation-right-could-shape-netanyahus-future?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-10-25T16:30:51+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The global trend may show young people leaning politically to the left, but in Israel… they’re leaning to the right.",
-          "resumen_es": "La tendencia global puede mostrar a los jóvenes inclinarse políticamente a la izquierda, pero en Israel... se inclinan hacia la derecha."
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera"
-      ],
-      "actores_mencionados": [
-        "Israel"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Israel"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-76dcebc49a6819fe2007",
-      "fecha": "2026-10-25",
-      "titulo_fuente": "Jordanians mourn victims of deadly church attack",
-      "region": "Internacional",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "76dcebc49a6819fe2007",
-          "titulo_original": "Jordanians mourn victims of deadly church attack",
-          "titulo_es": "Los jordanos lloran a las víctimas del ataque mortal de la iglesia",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jordanians-mourn-victims-of-deadly-church-attack?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-10-25T16:16:48+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Jordanians mourn victims of deadly church attack",
-          "resumen_es": "Los jordanos lloran a las víctimas del ataque mortal de la iglesia"
-        },
-        {
-          "id": "1cc15881eea0f528d98c",
-          "titulo_original": "Thousands mourn victims of deadly Jordan church attack",
-          "titulo_es": "Miles de personas lloran a las víctimas del ataque mortal de la iglesia de Jordania",
-          "url": "https://www.aljazeera.com/news/2026/10/25/thousands-mourn-victims-of-deadly-jordan-church-attack?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-10-25T15:21:26+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Jordan's prime minister represents king at funeral for eight of the church attack victims as hunt for gunmen continues.",
-          "resumen_es": "El primer ministro de Jordania representa al rey en el funeral para ocho de las víctimas del ataque de la iglesia mientras continúa la caza de hombres armados."
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
