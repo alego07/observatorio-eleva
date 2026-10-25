@@ -1,17 +1,57 @@
 {
-  "actualizado_utc": "2026-10-25T16:43:58.235270+00:00",
+  "actualizado_utc": "2026-10-25T17:06:56.614787+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "oriente-medio",
       "titulo": "Oriente Medio: seguridad y diplomacia",
-      "cantidad_archivada": 372,
-      "nuevas_24h": 59,
+      "cantidad_archivada": 377,
+      "nuevas_24h": 63,
       "anteriores_24h": 47,
       "dias_con_registros": 10,
-      "fecha_ultima": "2026-10-25T16:30:51+00:00",
+      "fecha_ultima": "2026-10-25T16:57:12+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "6f5c613f97a5bb03195b",
+          "fecha": "2026-10-25T16:57:12+00:00",
+          "titulo": "Israeli air strikes kill several across Gaza Strip: local authorities",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/israeli-air-strikes-kill-several-across-gaza-strip-local-authorities/article71624332.ece",
+          "traducida": false
+        },
+        {
+          "id": "8603cfb6169861cbd8e9",
+          "fecha": "2026-10-25T16:55:15+00:00",
+          "titulo": "Beyond national interest: role of ethics and emotions in world politics",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/beyond-national-interest-role-of-ethics-and-emotions-in-world-politics/article71278490.ece",
+          "traducida": false
+        },
+        {
+          "id": "e7c94022901ea2b1e50b",
+          "fecha": "2026-10-25T16:49:51+00:00",
+          "titulo": "Israel presses ahead with West Bank operation as election approaches",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/israel-presses-ahead-with-west-bank-operation-as-election-approaches/article71624374.ece",
+          "traducida": false
+        },
+        {
+          "id": "538b3c0f48be437c3499",
+          "fecha": "2026-10-25T16:47:41+00:00",
+          "titulo": "No plans for striking Iran on October 25 — Trump",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2207591",
+          "traducida": false
+        },
+        {
+          "id": "98a816ed69f52680cd43",
+          "fecha": "2026-10-25T16:40:31+00:00",
+          "titulo": "Netanyahu warns Iran may try to disrupt Israel election, says 'don't test us'",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/netanyahu-warns-iran-may-try-to-disrupt-israel-election-says-dont-test-us/article71624345.ece",
+          "traducida": false
+        },
         {
           "id": "dd93e08f862d9c4be4b6",
           "fecha": "2026-10-25T16:30:51+00:00",
@@ -211,46 +251,6 @@
           "fuente": "Al Jazeera",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/trump-mocks-reporter-asking-about-iran-strikes-as-tehran-says-us-derailed?traffic_source=rss",
           "traducida": false
-        },
-        {
-          "id": "d393a3d57a0f4b3af6d2",
-          "fecha": "2026-10-25T09:27:03+00:00",
-          "titulo": "Israeli forces turn Hebron homes into military posts amid lockdown",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/25/israeli-forces-turn-hebron-homes-into-military-posts-amid-lockdown?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "023e2032b355ac7c7dc5",
-          "fecha": "2026-10-25T09:27:00+00:00",
-          "titulo": "Gadi Eisenkot campaigns on Moroccan roots in challenge to Netanyahu",
-          "fuente": "Deutsche Welle",
-          "url": "https://www.dw.com/en/gadi-eisenkot-campaigns-on-moroccan-roots-in-challenge-to-netanyahu/a-79747193?maca=en-rss-en-world-4025-rdf",
-          "traducida": false
-        },
-        {
-          "id": "72409e7b4cb4479b8e84",
-          "fecha": "2026-10-25T09:16:33+00:00",
-          "titulo": "Pakistan reopens Iran border crossing after week-long suspension of trade",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/pakistan-reopens-iran-border-crossing-after-week-long-suspension-of-trade/article71622812.ece",
-          "traducida": false
-        },
-        {
-          "id": "cd350d313c786d1dbcca",
-          "fecha": "2026-10-25T09:13:00+00:00",
-          "titulo": "Saudi Arabia looks to US for an AI edge as Yemen's Houthis up pressure",
-          "fuente": "Deutsche Welle",
-          "url": "https://www.dw.com/en/saudi-arabia-looks-to-us-for-an-ai-edge-as-yemen-s-houthis-up-pressure/a-79735138?maca=en-rss-en-world-4025-rdf",
-          "traducida": false
-        },
-        {
-          "id": "c351f010dedea817fe29",
-          "fecha": "2026-10-25T08:44:17+00:00",
-          "titulo": "Obama’s Ohio, Michigan speeches: Key takeaways on Trump, Iran war, midterms",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/25/obamas-ohio-michigan-speeches-key-takeaways-on-trump-iran-war-midterms?traffic_source=rss",
-          "traducida": false
         }
       ]
     },
@@ -258,8 +258,8 @@
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
       "cantidad_archivada": 658,
-      "nuevas_24h": 50,
-      "anteriores_24h": 62,
+      "nuevas_24h": 49,
+      "anteriores_24h": 57,
       "dias_con_registros": 10,
       "fecha_ultima": "2026-10-25T16:37:58+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -509,13 +509,21 @@
     {
       "id": "union-europea",
       "titulo": "Unión Europea y relaciones exteriores",
-      "cantidad_archivada": 268,
-      "nuevas_24h": 21,
+      "cantidad_archivada": 269,
+      "nuevas_24h": 22,
       "anteriores_24h": 24,
       "dias_con_registros": 10,
-      "fecha_ultima": "2026-10-25T15:55:59+00:00",
+      "fecha_ultima": "2026-10-25T16:44:37+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "bff5c56bc060c9a8d616",
+          "fecha": "2026-10-25T16:44:37+00:00",
+          "titulo": "Storms batter northern Europe, hitting power supplies, flights and phones",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/europe/article/3372090/storms-batter-northern-europe-hitting-power-supplies-flights-and-phones",
+          "traducida": false
+        },
         {
           "id": "da18a2e0f6fb52933326",
           "fecha": "2026-10-25T15:55:59+00:00",
@@ -747,27 +755,35 @@
           "fuente": "The Hindu",
           "url": "https://www.thehindu.com/news/international/france-to-deploy-70000-police-for-fresh-weekend-protests/article71618975.ece",
           "traducida": false
-        },
-        {
-          "id": "486575f53bb8365ada75",
-          "fecha": "2026-10-24T12:03:34+00:00",
-          "titulo": "Francia contiene el aliento ante una nueva jornada de protestas",
-          "fuente": "El País",
-          "url": "https://elpais.com/internacional/2026-10-24/francia-contiene-el-aliento-ante-una-nueva-jornada-de-protestas.html",
-          "traducida": false
         }
       ]
     },
     {
       "id": "suramerica",
       "titulo": "Sudamérica: integración y política exterior",
-      "cantidad_archivada": 87,
-      "nuevas_24h": 15,
+      "cantidad_archivada": 89,
+      "nuevas_24h": 17,
       "anteriores_24h": 16,
       "dias_con_registros": 10,
-      "fecha_ultima": "2026-10-25T15:27:29+00:00",
+      "fecha_ultima": "2026-10-25T16:42:33+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "d4f4b4c5bee0c02c0f56",
+          "fecha": "2026-10-25T16:42:33+00:00",
+          "titulo": "Trump’s tariff pause angers some US ranchers, boosts Brazil beef imports",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/10/25/trumps-tariff-pause-angers-some-us-ranchers-boosts-brazil-beef-imports?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "442719e4e87d1d8d377a",
+          "fecha": "2026-10-25T16:10:49+00:00",
+          "titulo": "Elecciones en Brasil, en vivo | Lula emite su voto y tacha a Bolsonaro de ser “alguien sin moral”",
+          "fuente": "El País",
+          "url": "https://elpais.com/america/2026-10-25/elecciones-en-brasil-2026-en-vivo-la-segunda-vuelta-entre-lula-y-flavio-bolsonaro.html",
+          "traducida": false
+        },
         {
           "id": "380bd0c9411748a16246",
           "fecha": "2026-10-25T15:27:29+00:00",
@@ -990,22 +1006,6 @@
           "titulo": "Lo que está en juego en Brasil",
           "fuente": "El País",
           "url": "https://elpais.com/opinion/2026-10-24/lo-que-esta-en-juego-en-brasil.html",
-          "traducida": false
-        },
-        {
-          "id": "87a58a0b3d17d3dda7e9",
-          "fecha": "2026-10-23T20:59:39+00:00",
-          "titulo": "Argentina drops investigation into President Milei over crypto fraud",
-          "fuente": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo?at_medium=RSS&at_campaign=rss",
-          "traducida": false
-        },
-        {
-          "id": "8170d6e077096e04ddf5",
-          "fecha": "2026-10-23T18:43:19+00:00",
-          "titulo": "Brazil court orders government to provide transportation for Indigenous voters in Sunday’s runoff",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/brazil-court-orders-government-to-provide-transportation-for-indigenous-voters-in-sundays-runoff/article71617722.ece",
           "traducida": false
         }
       ]
