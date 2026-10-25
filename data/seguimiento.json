@@ -1,11 +1,11 @@
 {
-  "actualizado_utc": "2026-10-25T14:35:46.739216+00:00",
+  "actualizado_utc": "2026-10-25T14:58:27.012592+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "oriente-medio",
       "titulo": "Oriente Medio: seguridad y diplomacia",
-      "cantidad_archivada": 362,
+      "cantidad_archivada": 363,
       "nuevas_24h": 54,
       "anteriores_24h": 47,
       "dias_con_registros": 10,
@@ -18,6 +18,14 @@
           "titulo": "Qatari mediators visit Tehran as part of de-escalation efforts — Reuters",
           "fuente": "TASS",
           "url": "https://tass.com/world/2207557",
+          "traducida": false
+        },
+        {
+          "id": "cc83d59c3f7c53318d91",
+          "fecha": "2026-10-25T14:16:06+00:00",
+          "titulo": "Gaza content creator tells Al Jazeera how much her award win means",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/gaza-content-creator-tells-al-jazeera-how-much-her-award-win-means?traffic_source=rss",
           "traducida": false
         },
         {
@@ -243,27 +251,35 @@
           "fuente": "The Hindu",
           "url": "https://www.thehindu.com/news/international/gadi-eisenkot-netanyahus-challenger/article71621144.ece",
           "traducida": false
-        },
-        {
-          "id": "cd5912c091d5a00d4fed",
-          "fecha": "2026-10-25T06:23:07+00:00",
-          "titulo": "Israel widens West Bank crackdown, displacing Hebron families after attack",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/world/middle-east/article/3372058/israel-widens-west-bank-crackdown-displacing-hebron-families-after-attack",
-          "traducida": false
         }
       ]
     },
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 652,
-      "nuevas_24h": 46,
-      "anteriores_24h": 71,
+      "cantidad_archivada": 654,
+      "nuevas_24h": 48,
+      "anteriores_24h": 68,
       "dias_con_registros": 10,
-      "fecha_ultima": "2026-10-25T14:17:48+00:00",
+      "fecha_ultima": "2026-10-25T14:42:51+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "73f7bc52cc2e773dbb96",
+          "fecha": "2026-10-25T14:42:51+00:00",
+          "titulo": "LS Speaker Om Birla meets counterparts from Cuba, Russia ahead of BRICS parliamentary forum meeting",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/ls-speaker-om-birla-meets-counterparts-from-cuba-russia-ahead-of-brics-parliamentary-forum-meeting/article71623634.ece",
+          "traducida": false
+        },
+        {
+          "id": "fc2b0f3489b93e82c15c",
+          "fecha": "2026-10-25T14:34:33+00:00",
+          "titulo": "Russia to host first Olympic federation world event since Ukraine invasion",
+          "fuente": "BBC News",
+          "url": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
+          "traducida": false
+        },
         {
           "id": "d4efd0089ed03784231e",
           "fecha": "2026-10-25T14:17:48+00:00",
@@ -486,22 +502,6 @@
           "titulo": "Conflict with Russian to cost Ukraine over $470 million per day in 2027",
           "fuente": "TASS",
           "url": "https://tass.com/world/2207393",
-          "traducida": false
-        },
-        {
-          "id": "0b3a1944dd46613c7d1c",
-          "fecha": "2026-10-25T02:00:16+00:00",
-          "titulo": "Fandom vs flag: why young Chinese embrace Japanese pop culture but reject war-era symbols",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3372036/fandom-vs-flag-why-young-chinese-embrace-japanese-pop-culture-reject-war-era-symbols",
-          "traducida": false
-        },
-        {
-          "id": "02cd16d8b161b571dff8",
-          "fecha": "2026-10-25T00:40:00+00:00",
-          "titulo": "Trump suggests his wife may play more active role in situation with Russia, Ukraine",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2207379",
           "traducida": false
         }
       ]
@@ -763,7 +763,7 @@
       "titulo": "Sudamérica: integración y política exterior",
       "cantidad_archivada": 86,
       "nuevas_24h": 18,
-      "anteriores_24h": 14,
+      "anteriores_24h": 13,
       "dias_con_registros": 10,
       "fecha_ultima": "2026-10-25T13:37:13+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -1013,13 +1013,21 @@
     {
       "id": "india-asia",
       "titulo": "India y Asia-Pacífico",
-      "cantidad_archivada": 121,
-      "nuevas_24h": 8,
-      "anteriores_24h": 17,
+      "cantidad_archivada": 122,
+      "nuevas_24h": 9,
+      "anteriores_24h": 16,
       "dias_con_registros": 10,
-      "fecha_ultima": "2026-10-25T14:11:29+00:00",
+      "fecha_ultima": "2026-10-25T14:42:51+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "73f7bc52cc2e773dbb96",
+          "fecha": "2026-10-25T14:42:51+00:00",
+          "titulo": "LS Speaker Om Birla meets counterparts from Cuba, Russia ahead of BRICS parliamentary forum meeting",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/ls-speaker-om-birla-meets-counterparts-from-cuba-russia-ahead-of-brics-parliamentary-forum-meeting/article71623634.ece",
+          "traducida": false
+        },
         {
           "id": "f81074a2dd1a248bfdfb",
           "fecha": "2026-10-25T14:11:29+00:00",
@@ -1250,14 +1258,6 @@
           "titulo": "Japan-Russia ties erode as journalist sits in Moscow jail",
           "fuente": "Deutsche Welle",
           "url": "https://www.dw.com/en/japan-russia-ties-erode-as-journalist-sits-in-moscow-jail/a-79742995?maca=en-rss-en-world-4025-rdf",
-          "traducida": false
-        },
-        {
-          "id": "f8ab0363a9a9a1bf447b",
-          "fecha": "2026-10-23T12:34:10+00:00",
-          "titulo": "CAS clears Japan’s Olympic silver medallist Ikeda of doping, overturns ban",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/10/23/cas-clears-japans-olympic-silver-medallist-ikeda-of-doping-overturns-ban?traffic_source=rss",
           "traducida": false
         }
       ]
