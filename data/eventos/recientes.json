@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-10-25T15:05:33.079445+00:00",
+  "created_utc": "2026-10-25T16:43:58.190709+00:00",
   "events": [
     {
       "id": "a-21d304dad503d9890fdf",
@@ -50,48 +50,141 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-2fb5b914985c848ac889",
-      "fecha": "2026-10-24",
-      "titulo_fuente": "Putin and Modi instruct governments on trade development — ambassador to Russia",
-      "region": "Rusia-Ucrania",
+      "id": "a-b88fca58c3190513a492",
+      "fecha": "2026-10-25",
+      "titulo_fuente": "Trump says choosing between making deal with Iran and ‘finishing it off’",
+      "region": "Oriente Medio",
       "temas": [
-        "Diplomacia",
-        "Comercio y finanzas"
+        "Seguridad y conflictos",
+        "Energía y clima"
       ],
       "noticias": [
         {
-          "id": "2fb5b914985c848ac889",
-          "titulo_original": "Putin and Modi instruct governments on trade development — ambassador to Russia",
-          "titulo_es": "",
-          "url": "https://tass.com/economy/2207249",
+          "id": "b88fca58c3190513a492",
+          "titulo_original": "Trump says choosing between making deal with Iran and ‘finishing it off’",
+          "titulo_es": "Trump dice elegir entre hacer un trato con Irán y terminarlo ’",
+          "url": "https://tass.com/world/2207573",
           "fuente": "TASS",
           "pais": "Rusia",
-          "fecha": "2026-10-24T04:48:00+00:00",
+          "fecha": "2026-10-25T15:13:57+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "This instruction was given by the Russian and Indian leaders following their joint participation in the BRICS summit, India’s ambassador to Russia Vinay Kumar emphasized",
-          "resumen_es": ""
+          "resumen_original": "President of the US said that oil prices would go down as soon as the conflict with Iran is over",
+          "resumen_es": "El Presidente de los Estados Unidos dijo que los precios del petróleo bajarían tan pronto como el conflicto con Irán termine"
         }
       ],
       "fuentes": [
         "TASS"
       ],
       "actores_mencionados": [
-        "Rusia",
-        "India"
+        "Estados Unidos",
+        "Irán"
       ],
       "fuentes_independientes": 1,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
       },
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 8,
+      "prioridad_orientativa": 6,
       "motivos_seleccion": [
-        "Actores relevantes: India, Rusia",
-        "Ámbito: Comercio y finanzas, Diplomacia",
+        "Actores relevantes: Estados Unidos, Irán",
+        "Ámbito: Energía y clima, Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-1b09205a382a09834abe",
+      "fecha": "2026-10-25",
+      "titulo_fuente": "How is the US-Israeli war on Iran causing havoc in Europe?",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos",
+        "Energía y clima"
+      ],
+      "noticias": [
+        {
+          "id": "1b09205a382a09834abe",
+          "titulo_original": "How is the US-Israeli war on Iran causing havoc in Europe?",
+          "titulo_es": "¿Cómo está la guerra estadounidense-israelí contra Irán causando estragos en Europa?",
+          "url": "https://www.aljazeera.com/news/2026/10/25/how-is-the-us-israeli-war-on-iran-causing-havoc-in-europe?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-10-25T14:47:55+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Rising energy costs and protests are sharpening European opposition to renewed US-Israeli attacks on Iran.",
+          "resumen_es": "El aumento de los costos de energía y las protestas están agudizando la oposición europea a los nuevos ataques estadounidenses e israelíes contra Irán."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [
+        "Israel",
+        "Irán"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: Irán, Israel",
+        "Ámbito: Energía y clima, Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-916bbc5d420590d132b5",
+      "fecha": "2026-10-25",
+      "titulo_fuente": "Netanyahu’s pitch: Can Israel use crypto to evade economic sanctions?",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos",
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "916bbc5d420590d132b5",
+          "titulo_original": "Netanyahu’s pitch: Can Israel use crypto to evade economic sanctions?",
+          "titulo_es": "El lanzamiento de Netanyahu: ¿Puede Israel usar cripto para evadir las sanciones económicas?",
+          "url": "https://www.aljazeera.com/news/2026/10/25/netanyahus-pitch-can-israel-use-crypto-to-evade-economic-sanctions?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-10-25T14:46:38+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Prime Minister Netanyahu mulls cryptocurrency as answer to economic sanctions on Israel, but there are few buyers.",
+          "resumen_es": "Primer Ministro Netanyahu mulls cryptocurrency as answer to economic sanctions on Israel, but there are few buyers."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [
+        "Israel"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: Israel",
+        "Ámbito: Comercio y finanzas, Seguridad y conflictos",
         "Posible decisión institucional o negociación"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
@@ -501,18 +594,6 @@
           "fecha": "2026-10-24T09:46:39+00:00",
           "estado": "publicación periodística; corroboración pendiente",
           "resumen_original": "Kiev forces lose almost 1,190 troops in special military operation zone",
-          "resumen_es": ""
-        },
-        {
-          "id": "eac128c526f5e5a9086a",
-          "titulo_original": "Air defense down 616 Ukrainian drones overnight over Russian regions — Defense Ministry",
-          "titulo_es": "",
-          "url": "https://tass.com/defense/2207257",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-24T05:58:52+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "They were destroyed over the territories of 22 regions and the waters of the Azov and Black seas",
           "resumen_es": ""
         }
       ],
@@ -1157,6 +1238,53 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-e76dbedc175c2870d1f8",
+      "fecha": "2026-10-24",
+      "titulo_fuente": "“Es la inflación, estúpido”: Estados Unidos se sume en el descontento pese al crecimiento económico",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos",
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "e76dbedc175c2870d1f8",
+          "titulo_original": "“Es la inflación, estúpido”: Estados Unidos se sume en el descontento pese al crecimiento económico",
+          "titulo_es": "",
+          "url": "https://elpais.com/economia/negocios/2026-10-24/es-la-inflacion-estupido-estados-unidos-se-sume-en-el-descontento-pese-al-crecimiento-economico.html",
+          "fuente": "El País",
+          "pais": "España",
+          "fecha": "2026-10-24T15:30:00+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "La caótica política arancelaria y la guerra contra Irán han disparado los precios y golpeado el poder adquisitivo de las familias agrandando la desigualdad. Pese a todo, es una de las economías que más crecerá este año y el próximo gracias a la IA",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "El País"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Irán"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos, Irán",
+        "Ámbito: Comercio y finanzas, Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-94a22b6e7f4c10af846f",
       "fecha": "2026-10-24",
       "titulo_fuente": "Ukraine says Starlink restored as attacks continue in Russia and Ukraine",
@@ -1666,98 +1794,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-6d5360494cf2ceb0e45b",
-      "fecha": "2026-10-24",
-      "titulo_fuente": "How competition between Chinese and Indian firms could reshape African drug markets",
-      "region": "China",
-      "temas": [
-        "Comercio y finanzas"
-      ],
-      "noticias": [
-        {
-          "id": "6d5360494cf2ceb0e45b",
-          "titulo_original": "How competition between Chinese and Indian firms could reshape African drug markets",
-          "titulo_es": "",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3371997/how-competition-between-chinese-and-indian-firms-could-reshape-africas-drug-markets",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-10-24T07:00:10+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "China is challenging India’s long-held dominance of the African market for antimalarial drugs in 12 of the continent’s hardest-hit countries, according to a new study. Last year, Chinese exports of antimalarial drugs reached US$89.3 million, nearly matching India’s US$89.6 million, according to Indian market research company Sol Gravitas. The gap has closed significantly since 2021, when Indian exports stood at US$121 million compared with US$62.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "South China Morning Post"
-      ],
-      "actores_mencionados": [
-        "China",
-        "India"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia compleja y economía política internacional",
-        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: China, India",
-        "Ámbito: Comercio y finanzas"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-6e062dfcd22e2f803b38",
-      "fecha": "2026-10-24",
-      "titulo_fuente": "Stubb seen as most likely European candidate for talks with Russia — newspaper",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Diplomacia"
-      ],
-      "noticias": [
-        {
-          "id": "6e062dfcd22e2f803b38",
-          "titulo_original": "Stubb seen as most likely European candidate for talks with Russia — newspaper",
-          "titulo_es": "",
-          "url": "https://tass.com/world/2207245",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-24T04:13:00+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Alexander Stubb’s significant advantage over other European politicians is his good relations with US President Donald Trump",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos, Rusia",
-        "Ámbito: Diplomacia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-336d07ff0bf8ed86ad2c",
       "fecha": "2026-10-25",
       "titulo_fuente": "UK PM Burnham says he wants to discuss a return to EU freedom of movement",
@@ -1935,47 +1971,127 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-077529828af457c95456",
-      "fecha": "2026-10-24",
-      "titulo_fuente": "Israel launches major operation in West Bank after soldiers killed",
-      "region": "Oriente Medio",
+      "id": "a-b05a86874e861e1d3326",
+      "fecha": "2026-10-25",
+      "titulo_fuente": "Trump says expects US-Russia-Ukraine talks to be held soon",
+      "region": "Rusia-Ucrania",
       "temas": [
-        "Seguridad y conflictos"
+        "Actualidad"
       ],
       "noticias": [
         {
-          "id": "077529828af457c95456",
-          "titulo_original": "Israel launches major operation in West Bank after soldiers killed",
-          "titulo_es": "",
-          "url": "https://www.scmp.com/news/world/middle-east/article/3372010/israel-launches-major-operation-west-bank-after-soldiers-killed",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-10-24T07:00:20+00:00",
+          "id": "b05a86874e861e1d3326",
+          "titulo_original": "Trump says expects US-Russia-Ukraine talks to be held soon",
+          "titulo_es": "Trump dice que espera que las conversaciones entre Rusia y Ucrania se celebren pronto",
+          "url": "https://tass.com/world/2207589",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-10-25T16:37:58+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Israel’s military launched an operation in the occupied West Bank on Friday it said would last several days and include searches and building demolitions, after gunmen killed two soldiers days ahead of Israeli elections featuring security as a key focus. Prime Minister Benjamin Netanyahu is locked in a tight race to keep his job in Tuesday’s vote, having campaigned on promises to keep Israelis safe, and he and his right-wing allies visited the sc",
-          "resumen_es": ""
-        },
-        {
-          "id": "20cd2350e545255f61ff",
-          "titulo_original": "Israel launches major West Bank operation after soldiers killed",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/news/international/israel-launches-major-west-bank-operation-after-soldiers-killed/article71619178.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-10-24T06:15:35+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The operation \"is expected to continue for several days,\" a statement, released late on Friday (October 23, 2026), said",
-          "resumen_es": ""
+          "resumen_original": "\"We're going to be having some pretty soon, and I think they both want to make a deal,\" he told reporters",
+          "resumen_es": "\"Vamos a tener un poco pronto, y creo que ambos quieren hacer un trato\", dijo a los reporteros"
         }
       ],
       "fuentes": [
-        "South China Morning Post",
-        "The Hindu"
+        "TASS"
       ],
       "actores_mencionados": [
-        "Israel"
+        "Estados Unidos",
+        "Rusia",
+        "Ucrania"
       ],
-      "fuentes_independientes": 2,
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos, Rusia, Ucrania"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-7428bcb2d83fd13357cf",
+      "fecha": "2026-10-25",
+      "titulo_fuente": "Russian-Slovak intergovernmental commission to meet in Moscow on October 26",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "7428bcb2d83fd13357cf",
+          "titulo_original": "Russian-Slovak intergovernmental commission to meet in Moscow on October 26",
+          "titulo_es": "Comisión intergubernamental rusa-eslovaca para reunirse en Moscú el 26 de octubre",
+          "url": "https://tass.com/world/2207587",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-10-25T16:23:01+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The resumption of the commission’s activities \"may create conditions for discussing the prospects for economic, scientific, technical, and other practical cooperation,\" he told TASS",
+          "resumen_es": "La reanudación de las actividades de la Comisión \"puede crear condiciones para discutir las perspectivas de cooperación económica, científica, técnica y práctica\", dijo a TASS"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Rusia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia compleja y economía política internacional",
+        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia",
+        "Ámbito: Comercio y finanzas"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-da18a2e0f6fb52933326",
+      "fecha": "2026-10-25",
+      "titulo_fuente": "Trump says warned Macron about consequences of his migration policy",
+      "region": "Estados Unidos",
+      "temas": [
+        "Seguridad y conflictos",
+        "Migración y DD. HH."
+      ],
+      "noticias": [
+        {
+          "id": "da18a2e0f6fb52933326",
+          "titulo_original": "Trump says warned Macron about consequences of his migration policy",
+          "titulo_es": "Trump dice que advirtió a Macron sobre las consecuencias de su política migratoria",
+          "url": "https://tass.com/world/2207581",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-10-25T15:55:59+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "US President said French leader, that he is destroying France",
+          "resumen_es": "El presidente de Estados Unidos dijo el líder francés, que está destruyendo Francia"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Francia"
+      ],
+      "fuentes_independientes": 1,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
         "nombre": "Realismo y dilema de seguridad",
@@ -1984,11 +2100,146 @@
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 5,
+      "prioridad_orientativa": 4,
       "motivos_seleccion": [
-        "Cobertura de fuentes distintas",
+        "Actores relevantes: Estados Unidos",
+        "Ámbito: Migración y DD. HH., Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-90fd25d5e400c10fb50f",
+      "fecha": "2026-10-25",
+      "titulo_fuente": "Seven killed in Gaza as Israel targets university campus and other sites",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "90fd25d5e400c10fb50f",
+          "titulo_original": "Seven killed in Gaza as Israel targets university campus and other sites",
+          "titulo_es": "Siete muertos en Gaza como Israel apunta al campus universitario y otros lugares",
+          "url": "https://www.aljazeera.com/news/2026/10/25/seven-killed-in-gaza-as-israel-targets-university-campus-and-other-sites?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-10-25T15:40:25+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Israeli air strike kills three security guards in one of two attacks on the Islamic University in Gaza City.",
+          "resumen_es": "El ataque aéreo israelí mata a tres guardias de seguridad en uno de los dos ataques contra la Universidad Islámica en la ciudad de Gaza."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [
+        "Israel",
+        "Palestina"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
         "Actores relevantes: Israel",
         "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-33ef30747933f683959b",
+      "fecha": "2026-10-25",
+      "titulo_fuente": "Two Indian-American candidates face key U.S. midterm races as early voting begins",
+      "region": "Estados Unidos",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "33ef30747933f683959b",
+          "titulo_original": "Two Indian-American candidates face key U.S. midterm races as early voting begins",
+          "titulo_es": "Dos candidatos indios-americanos se enfrentan a las carreras de mitad de período de EE.UU. clave cuando comienza la votación temprana",
+          "url": "https://www.thehindu.com/news/international/two-indian-american-candidates-face-key-us-midterm-races-as-early-voting-begins/article71624107.ece",
+          "fuente": "The Hindu",
+          "pais": "India",
+          "fecha": "2026-10-25T15:40:02+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Amish Shah and Pia Dandiya are contesting key races that are crucial for Democrats to flip the U.S. House in the midterm elections on November 3",
+          "resumen_es": "Amish Shah y Pia Dandiya están impugnando carreras clave que son cruciales para que los demócratas desplacen la Casa de los Estados Unidos en las elecciones de mitad de período del 3 de noviembre"
+        }
+      ],
+      "fuentes": [
+        "The Hindu"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "India"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos, India"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-380bd0c9411748a16246",
+      "fecha": "2026-10-25",
+      "titulo_fuente": "EN DIRECT, élection présidentielle au Brésil : les Brésiliens appelés à choisir entre le président sortant, Lula, et le candidat d’extrême droite, Flavio Bolsonaro",
+      "region": "Internacional",
+      "temas": [
+        "Organismos multilaterales"
+      ],
+      "noticias": [
+        {
+          "id": "380bd0c9411748a16246",
+          "titulo_original": "EN DIRECT, élection présidentielle au Brésil : les Brésiliens appelés à choisir entre le président sortant, Lula, et le candidat d’extrême droite, Flavio Bolsonaro",
+          "titulo_es": "",
+          "url": "https://www.lemonde.fr/international/live/2026/10/25/en-direct-election-presidentielle-au-bresil-les-bresiliens-appeles-a-choisir-entre-le-president-sortant-lula-et-le-candidat-d-extreme-droite-flavio-bolsonaro_6800074_3210.html",
+          "fuente": "Le Monde",
+          "pais": "Francia",
+          "fecha": "2026-10-25T15:27:29+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Près de 160 millions d’électeurs sont appelés aux urnes, dimanche, dans le plus grand pays d’Amérique latine. Le président sortant, Luiz Inacio Lula da Silva, de gauche, et le candidat d’extrême droite, Flavio Bolsonaro, s’affrontent au second tour de l’élection présidentielle brésilienne.",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "Le Monde"
+      ],
+      "actores_mencionados": [
+        "Brasil"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Institucionalismo liberal",
+        "pregunta": "¿Qué reglas, mecanismos de cooperación y límites institucionales afectan la decisión?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Brasil",
+        "Ámbito: Organismos multilaterales"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6130,231 +6381,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-13b0274beb91e1b9d276",
-      "fecha": "2026-10-24",
-      "titulo_fuente": "U.S. embassy says security ramped up in Jordan after deadly church attack",
-      "region": "Estados Unidos",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "13b0274beb91e1b9d276",
-          "titulo_original": "U.S. embassy says security ramped up in Jordan after deadly church attack",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/news/international/us-embassy-reports-heightened-security-across-jordan-after-deadly-karak-church-attack/article71619254.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-10-24T06:31:34+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Seven people were killed and ​dozens ‌were injured when gunmen opened fire during a funeral at ‌a church",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Hindu"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-8d7ca1329a8420dee746",
-      "fecha": "2026-10-24",
-      "titulo_fuente": "Lula, Bolsonaro strike calmer tone in final Brazil election debate",
-      "region": "Estados Unidos",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "8d7ca1329a8420dee746",
-          "titulo_original": "Lula, Bolsonaro strike calmer tone in final Brazil election debate",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/news/international/brazil-debate-leaves-lula-and-bolsonaro-tied-as-polls-tighten-ahead-of-sundays-runoff/article71619106.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-10-24T06:10:19+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The election outcome could see Latin America's largest country join a regional shift to the right championed by U.S. President Donald Trump, or remain a left-wing stronghold",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Hindu"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "Brasil"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Brasil, Estados Unidos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-e1e7eee2d35430bf5085",
-      "fecha": "2026-10-24",
-      "titulo_fuente": "In besieged Yemeni city, drinking water supplies hit crisis levels",
-      "region": "Oriente Medio",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "e1e7eee2d35430bf5085",
-          "titulo_original": "In besieged Yemeni city, drinking water supplies hit crisis levels",
-          "titulo_es": "",
-          "url": "https://www.scmp.com/news/world/middle-east/article/3372006/besieged-yemeni-city-drinking-water-supplies-hit-crisis-levels",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-10-24T06:05:46+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Drinking water has been scarce for over a decade in Taiz, but the problem has reached crisis levels in recent weeks as Iran-backed Houthi rebels besiege Yemen’s third-largest city in their escalating conflict with government forces. The needs of Taiz’s more than 1 million residents are now barely being met, humanitarian groups say, as access to wells is limited, desalination plants run low on fuel and water delivery trucks are largely prevented f",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "South China Morning Post"
-      ],
-      "actores_mencionados": [
-        "Irán"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Irán",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-6cd693e066bf5c6ffb31",
-      "fecha": "2026-10-24",
-      "titulo_fuente": "Minneapolis withdrawal was 'surrender', Trump's ex-border patrol chief tells BBC",
-      "region": "Estados Unidos",
-      "temas": [
-        "Migración y DD. HH."
-      ],
-      "noticias": [
-        {
-          "id": "6cd693e066bf5c6ffb31",
-          "titulo_original": "Minneapolis withdrawal was 'surrender', Trump's ex-border patrol chief tells BBC",
-          "titulo_es": "",
-          "url": "https://www.bbc.co.uk/news/articles/ck20rery78lro?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News",
-          "pais": "Reino Unido",
-          "fecha": "2026-10-24T05:31:01+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Greg Bovino was the public face of the controversial immigration enforcement operation in the city earlier this year.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "BBC News"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Derecho internacional y constructivismo",
-        "pregunta": "¿Qué normas, identidades y obligaciones internacionales invocan los actores?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos",
-        "Ámbito: Migración y DD. HH."
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-7857ad9f4bd5946d5b1a",
-      "fecha": "2026-10-24",
-      "titulo_fuente": "Attempt to accuse Russia of disinformation turned against West — envoy",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "7857ad9f4bd5946d5b1a",
-          "titulo_original": "Attempt to accuse Russia of disinformation turned against West — envoy",
-          "titulo_es": "",
-          "url": "https://tass.com/politics/2207251",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-24T05:14:46+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Kirill Dmitriev responsed to the news that two FBI agents were arrested in the United States on charges of giving false testimony to Congress regarding the laptop belonging to the son of the former US president",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos, Rusia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-700aa372894a48b9998e",
       "fecha": "2026-10-25",
       "titulo_fuente": "Israel to close occupied West Bank crossings as it locks down Hebron",
@@ -6585,47 +6611,34 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-9a6e37f95b5d70f64e26",
-      "fecha": "2026-10-24",
-      "titulo_fuente": "As Israeli election nears, campaign turns ugly",
+      "id": "a-dd93e08f862d9c4be4b6",
+      "fecha": "2026-10-25",
+      "titulo_fuente": "Israel’s ‘Generation Right’ could shape Netanyahu’s future",
       "region": "Oriente Medio",
       "temas": [
         "Actualidad"
       ],
       "noticias": [
         {
-          "id": "9a6e37f95b5d70f64e26",
-          "titulo_original": "As Israeli election nears, campaign turns ugly",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/news/international/as-israeli-election-nears-campaign-turns-ugly/article71618997.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-10-24T05:25:55+00:00",
+          "id": "dd93e08f862d9c4be4b6",
+          "titulo_original": "Israel’s ‘Generation Right’ could shape Netanyahu’s future",
+          "titulo_es": "La ‘Derecha de la Generación’ de Israel podría dar forma al futuro de Netanyahu",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israels-generation-right-could-shape-netanyahus-future?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-10-25T16:30:51+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Fuelled in part by a boom in AI-generated images flooding social media, candidates and activists are seeking to portray their opponents as weak, untrustworthy or damaging for the country as they play on stereotypes and fears to sway public opinion",
-          "resumen_es": ""
-        },
-        {
-          "id": "e7dcfe59a80fb1f38907",
-          "titulo_original": "Israeli election campaign turns ugly with jibes, attacks against candidates",
-          "titulo_es": "",
-          "url": "https://www.scmp.com/news/world/middle-east/article/3371998/israeli-election-campaign-turns-ugly-jibes-attacks-against-candidates",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-10-24T04:30:10+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Days ahead of close-fought Israeli elections, campaigns have gone into overdrive with poor-taste jibes and inflammatory attacks against candidates, sometimes crossing red lines. Fuelled in part by a boom in AI-generated images flooding social media, candidates and activists are seeking to portray their opponents as weak, untrustworthy or damaging for the country as they play on stereotypes and fears to sway public opinion. The electioneering has ",
-          "resumen_es": ""
+          "resumen_original": "The global trend may show young people leaning politically to the left, but in Israel… they’re leaning to the right.",
+          "resumen_es": "La tendencia global puede mostrar a los jóvenes inclinarse políticamente a la izquierda, pero en Israel... se inclinan hacia la derecha."
         }
       ],
       "fuentes": [
-        "South China Morning Post",
-        "The Hindu"
+        "Al Jazeera"
       ],
       "actores_mencionados": [
         "Israel"
       ],
-      "fuentes_independientes": 2,
+      "fuentes_independientes": 1,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
         "nombre": "Marco por determinar",
@@ -6634,10 +6647,280 @@
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 3,
+      "prioridad_orientativa": 2,
       "motivos_seleccion": [
-        "Cobertura de fuentes distintas",
         "Actores relevantes: Israel"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-76dcebc49a6819fe2007",
+      "fecha": "2026-10-25",
+      "titulo_fuente": "Jordanians mourn victims of deadly church attack",
+      "region": "Internacional",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "76dcebc49a6819fe2007",
+          "titulo_original": "Jordanians mourn victims of deadly church attack",
+          "titulo_es": "Los jordanos lloran a las víctimas del ataque mortal de la iglesia",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jordanians-mourn-victims-of-deadly-church-attack?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-10-25T16:16:48+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Jordanians mourn victims of deadly church attack",
+          "resumen_es": "Los jordanos lloran a las víctimas del ataque mortal de la iglesia"
+        },
+        {
+          "id": "1cc15881eea0f528d98c",
+          "titulo_original": "Thousands mourn victims of deadly Jordan church attack",
+          "titulo_es": "Miles de personas lloran a las víctimas del ataque mortal de la iglesia de Jordania",
+          "url": "https://www.aljazeera.com/news/2026/10/25/thousands-mourn-victims-of-deadly-jordan-church-attack?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-10-25T15:21:26+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Jordan's prime minister represents king at funeral for eight of the church attack victims as hunt for gunmen continues.",
+          "resumen_es": "El primer ministro de Jordania representa al rey en el funeral para ocho de las víctimas del ataque de la iglesia mientras continúa la caza de hombres armados."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-75aa582dc7f030b6b0ea",
+      "fecha": "2026-10-25",
+      "titulo_fuente": "Ali G: Who Iz I? stooge says he was in on joke but didn’t tell Sacha Baron Cohen: ‘He’s not going to punk me. I’ll trick him’",
+      "region": "Internacional",
+      "temas": [
+        "Energía y clima"
+      ],
+      "noticias": [
+        {
+          "id": "75aa582dc7f030b6b0ea",
+          "titulo_original": "Ali G: Who Iz I? stooge says he was in on joke but didn’t tell Sacha Baron Cohen: ‘He’s not going to punk me. I’ll trick him’",
+          "titulo_es": "Ali G: ¿Quién es Iz? Stooge dice que estaba en broma, pero no le dijo a Sacha Baron Cohen: \"No va a pincharme. Lo engañaré.",
+          "url": "https://www.theguardian.com/film/2026/oct/25/ali-g-who-iz-i-stooge-joshua-loudermilk-sacha-baron-cohen",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-10-25T16:13:19+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Exclusive: Joshua Loudermilk says suspicions first raised during filming by gun shaped like wearable plastic bottom: ‘You’re gonna put a butt on top of a butt? You can’t run in that’ • This article contains spoilers for Ali G: Who Iz I? Joshua Loudermilk, one of two men apparently discredited by the new Ali G movie Ali G: Who Iz I?, has said that he was in on the joke, but that the film-makers didn’t realise this. Loudermilk, a 54-year-old aspiri",
+          "resumen_es": "Exclusivo: Joshua Loudermilk dice que las sospechas primero levantadas durante el rodaje por arma en forma de fondo plástico usable: ¿Vas a poner un trasero encima de un trasero? No puedes correr en eso’ • Este artículo contiene spoilers para Ali G: ¿Quién Iz? Jos"
+        }
+      ],
+      "fuentes": [
+        "The Guardian"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia y gobernanza global",
+        "pregunta": "¿Cómo se distribuyen los costos de coordinación y los incentivos para cooperar?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Energía y clima"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-3e7176795d4b39605b2e",
+      "fecha": "2026-10-25",
+      "titulo_fuente": "Israeli soldiers beat elderly Palestinian in Hebron",
+      "region": "Oriente Medio",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "3e7176795d4b39605b2e",
+          "titulo_original": "Israeli soldiers beat elderly Palestinian in Hebron",
+          "titulo_es": "Los soldados israelíes golpearon a los ancianos palestinos en Hebrón",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-soldiers-beat-elderly-palestinian-in-hebron?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-10-25T16:11:37+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Israeli soldiers beat and injured Hijazi Shawer, a 70-year-old Palestinian shopkeeper and community leader.",
+          "resumen_es": "Los soldados israelíes golpearon e hirieron a Hijazi Shawer, un comerciante palestino de 70 años y líder comunitario."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [
+        "Israel",
+        "Palestina"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Israel"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-f3aaac77f2002d4d70c4",
+      "fecha": "2026-10-25",
+      "titulo_fuente": "UN official warns AI could ‘deepen’ global inequality",
+      "region": "Internacional",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "f3aaac77f2002d4d70c4",
+          "titulo_original": "UN official warns AI could ‘deepen’ global inequality",
+          "titulo_es": "",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/un-official-warns-ai-could-deepen-global-inequality?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-10-25T15:38:52+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "UN official warns AI could ‘deepen’ global inequality",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-385b24b1f5df7d05c0d4",
+      "fecha": "2026-10-25",
+      "titulo_fuente": "EN DIRECT, guerre en Ukraine : à Kherson, une attaque de drone russe contre un minibus fait au moins un mort",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "385b24b1f5df7d05c0d4",
+          "titulo_original": "EN DIRECT, guerre en Ukraine : à Kherson, une attaque de drone russe contre un minibus fait au moins un mort",
+          "titulo_es": "",
+          "url": "https://www.lemonde.fr/international/live/2026/10/25/en-direct-guerre-en-ukraine-a-kherson-une-attaque-de-drone-russe-contre-un-minibus-fait-au-moins-un-mort_6799896_3210.html",
+          "fuente": "Le Monde",
+          "pais": "Francia",
+          "fecha": "2026-10-25T15:19:33+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Un homme de 67 ans est mort dimanche après-midi, a annoncé le chef de l’administration militaire de l’oblast de Kherson, Oleksandr Prokudin.",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "Le Monde"
+      ],
+      "actores_mencionados": [
+        "Ucrania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Ucrania"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-5c8bd92ce47d5adfac39",
+      "fecha": "2026-10-25",
+      "titulo_fuente": "Europe being destroyed by bureaucrats unwilling to correct their mistakes — RDIF CEO",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "5c8bd92ce47d5adfac39",
+          "titulo_original": "Europe being destroyed by bureaucrats unwilling to correct their mistakes — RDIF CEO",
+          "titulo_es": "Europa siendo destruida por los burócratas sin querer corregir sus errores — RDIF CEO",
+          "url": "https://tass.com/politics/2207571",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-10-25T15:05:15+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "They prefer to deflect and shift blame onto the US and Russia, said Kirill Dmitriev",
+          "resumen_es": "Ellos prefieren desviar y cambiar la culpa a Estados Unidos y Rusia, dijo Kirill Dmitriev"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Rusia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6680,308 +6963,6 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-cc83d59c3f7c53318d91",
-      "fecha": "2026-10-25",
-      "titulo_fuente": "Gaza content creator tells Al Jazeera how much her award win means",
-      "region": "Oriente Medio",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "cc83d59c3f7c53318d91",
-          "titulo_original": "Gaza content creator tells Al Jazeera how much her award win means",
-          "titulo_es": "El creador de contenidos de Gaza le dice a Al Jazeera cuánto significa su premio",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/gaza-content-creator-tells-al-jazeera-how-much-her-award-win-means?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-10-25T14:16:06+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Palestinian girl Nisreen Skaik tells Al Jazeera how much winning a Junior Digital Creator Award means",
-          "resumen_es": "Nisreen Skaik le dice a Al Jazeera cuánto ganar un premio Junior Digital Creator significa"
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera"
-      ],
-      "actores_mencionados": [
-        "Palestina"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-763215db47b2e1ed894b",
-      "fecha": "2026-10-25",
-      "titulo_fuente": "How people’s genes are revealing why some languages are so unique",
-      "region": "Internacional",
-      "temas": [
-        "Migración y DD. HH."
-      ],
-      "noticias": [
-        {
-          "id": "763215db47b2e1ed894b",
-          "titulo_original": "How people’s genes are revealing why some languages are so unique",
-          "titulo_es": "Cómo los genes de la gente están revelando por qué algunos idiomas son tan únicos",
-          "url": "https://www.thehindu.com/sci-tech/science/how-genetic-history-reveals-why-some-languages-are-so-unique/article71217585.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-10-25T14:09:33+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "A new study measured how different neighbouring languages were from one another. The authors say that linguistic hotspots may offer glimpses into how human languages became more varied before large migrations and population movements reshaped much of the world",
-          "resumen_es": "Un nuevo estudio midió cómo diferentes idiomas vecinos eran unos de otros. Los autores dicen que los hotspots lingüísticos pueden ofrecer vislumbres en cómo las lenguas humanas se han vuelto más variadas antes de que las grandes migraciones y los movimientos de población se reanuden"
-        }
-      ],
-      "fuentes": [
-        "The Hindu"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Derecho internacional y constructivismo",
-        "pregunta": "¿Qué normas, identidades y obligaciones internacionales invocan los actores?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Migración y DD. HH."
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-c5ec3b788912388614a1",
-      "fecha": "2026-10-25",
-      "titulo_fuente": "The search for gold is a dangerous and laborious gamble for Sudan’s miners",
-      "region": "África",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "c5ec3b788912388614a1",
-          "titulo_original": "The search for gold is a dangerous and laborious gamble for Sudan’s miners",
-          "titulo_es": "La búsqueda de oro es una apuesta peligrosa y laboriosa para los mineros de Sudán",
-          "url": "https://www.aljazeera.com/features/2026/10/25/the-search-for-gold-is-a-dangerous-and-laborious-gamble-for-sudans-miners?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-10-25T14:03:17+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "As Sudan’s war destroys livelihoods, the death of 16-year-old Altayeb Alhadi highlights dangers of artisanal mining.",
-          "resumen_es": "A medida que la guerra de Sudán destruye los medios de vida, la muerte de Altayeb Alhadi de 16 años pone de relieve los peligros de la minería artesanal."
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-0734f5538e07c422763b",
-      "fecha": "2026-10-25",
-      "titulo_fuente": "Almost two-thirds of Australians bulk-billed for all GP care amid extra incentives for doctors",
-      "region": "Internacional",
-      "temas": [
-        "Comercio y finanzas"
-      ],
-      "noticias": [
-        {
-          "id": "0734f5538e07c422763b",
-          "titulo_original": "Almost two-thirds of Australians bulk-billed for all GP care amid extra incentives for doctors",
-          "titulo_es": "Casi dos tercios de los australianos a granel para todos los cuidados del GP en medio de incentivos adicionales para los médicos",
-          "url": "https://www.theguardian.com/australia-news/2026/oct/26/almost-two-thirds-of-australians-bulk-billed-for-all-gp-care-amid-extra-incentives-for-doctors",
-          "fuente": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-10-25T14:00:06+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Exclusive: RACGP survey reflects Medicare investments, but experts caution quality of care and outcomes also matter Get our new political email , free app or daily news podcast The proportion of general practitioners bulk-billing all of their patients has more than doubled in a year, a report has found, after the government introduced financial incentives for doctors and practices. And almost two-thirds (63%) of Australians are now bulk-billed fo",
-          "resumen_es": "Exclusiva: la encuesta RACGP refleja las inversiones de Medicare, pero los expertos advierten la calidad de la atención y los resultados también importa Obtener nuestro nuevo correo electrónico político, aplicación gratuita o podcast diario de noticias La proporción de profesionales generales que abultan a todo el mundo"
-        }
-      ],
-      "fuentes": [
-        "The Guardian"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia compleja y economía política internacional",
-        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Comercio y finanzas"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-999c10a41b9faee48740",
-      "fecha": "2026-10-25",
-      "titulo_fuente": "Russia creating favorable conditions for Western companies — Putin",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "999c10a41b9faee48740",
-          "titulo_original": "Russia creating favorable conditions for Western companies — Putin",
-          "titulo_es": "Rusia creando condiciones favorables para empresas occidentales — Putin",
-          "url": "https://tass.com/politics/2207551",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-25T13:54:50+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The companies that have remained in the country, said Russian leader",
-          "resumen_es": "Las empresas que han permanecido en el país, dijo el líder ruso"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-77c44a85cab4f6bd0394",
-      "fecha": "2026-10-25",
-      "titulo_fuente": "Saudi air defences intercept Houthi barrage near Mecca",
-      "region": "Oriente Medio",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "77c44a85cab4f6bd0394",
-          "titulo_original": "Saudi air defences intercept Houthi barrage near Mecca",
-          "titulo_es": "",
-          "url": "https://www.aljazeera.com/news/2026/10/25/saudi-air-defences-intercept-houthi-barrage-near-mecca?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-10-25T13:49:33+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Houthi attacks on Saudi Arabia escalate as fierce ground battles and a devastating siege strangle Yemen's Taiz.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera"
-      ],
-      "actores_mencionados": [
-        "Arabia Saudita"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-dfe489d08b1730d085ea",
-      "fecha": "2026-10-25",
-      "titulo_fuente": "« Au Brésil, ce n’est pas une dictature qui m’a forcé à l’exil » : Orion Lalli, artiste et réfugié politique",
-      "region": "Europa",
-      "temas": [
-        "Organismos multilaterales"
-      ],
-      "noticias": [
-        {
-          "id": "dfe489d08b1730d085ea",
-          "titulo_original": "« Au Brésil, ce n’est pas une dictature qui m’a forcé à l’exil » : Orion Lalli, artiste et réfugié politique",
-          "titulo_es": "",
-          "url": "https://www.lemonde.fr/international/article/2026/10/25/au-bresil-ce-n-est-pas-une-dictature-qui-m-a-force-a-l-exil-orion-lalli-artiste-et-refugie-politique_6800085_3210.html",
-          "fuente": "Le Monde",
-          "pais": "Francia",
-          "fecha": "2026-10-25T13:36:17+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Menacé au Brésil pour une œuvre d’art jugée blasphématoire par des parlementaires bolsonaristes, l’artiste a obtenu l’asile en France en 2021. Il redoute l’élection de Flavio Bolsonaro, fils de l’ancien président, dimanche, et alerte sur les dangers de l’extrême droite au Brésil ou en France.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Le Monde"
-      ],
-      "actores_mencionados": [
-        "Francia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Institucionalismo liberal",
-        "pregunta": "¿Qué reglas, mecanismos de cooperación y límites institucionales afectan la decisión?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Organismos multilaterales"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
