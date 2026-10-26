@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-26T16:58:54.757546+00:00",
+  "updated_utc": "2026-10-26T17:23:00.512097+00:00",
   "results": [
     {
       "source_id": "f25",
@@ -70,14 +70,14 @@
     {
       "source_id": "f66",
       "source_name": "Noticias del Consejo de la UE",
-      "status": "error",
-      "message": "The read operation timed out"
+      "status": "ok",
+      "count_recent": 5
     },
     {
       "source_id": "f67",
       "source_name": "GOV.UK FCDO",
       "status": "ok",
-      "count_recent": 8
+      "count_recent": 9
     },
     {
       "source_id": "f74",

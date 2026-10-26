@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-10-26T17:00:51.126696+00:00",
+  "created_utc": "2026-10-26T17:24:28.952741+00:00",
   "events": [
     {
       "id": "a-86f5e656aba371a3c485",
@@ -295,6 +295,52 @@
         "Cobertura de fuentes distintas",
         "Actores relevantes: Estados Unidos, Irán, Israel",
         "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-1d2b1b8ecb6a5d195a77",
+      "fecha": "2026-10-26",
+      "titulo_fuente": "Trade turnover between Russia, African countries above $27 bln in 2025 — Kremlin aide",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "1d2b1b8ecb6a5d195a77",
+          "titulo_original": "Trade turnover between Russia, African countries above $27 bln in 2025 — Kremlin aide",
+          "titulo_es": "Cambio comercial entre Rusia, países africanos por encima de $27 millones en 2025 — Kremlin aide",
+          "url": "https://tass.com/economy/2208211",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-10-26T17:05:09+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "\"Dynamics is good but actions could have been even more efficient,\" Yury Ushakov said",
+          "resumen_es": "\"La Dinámica es buena, pero las acciones podrían haber sido aún más eficientes\", dijo Yury Ushakov"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Rusia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia compleja y economía política internacional",
+        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia",
+        "Ámbito: Comercio y finanzas",
+        "Posible decisión institucional o negociación"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -2174,48 +2220,91 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-097ce32a83063d9a7579",
-      "fecha": "2026-10-25",
-      "titulo_fuente": "Volkswagen to build $4bn Audi SUV factory in US despite job cuts at home",
-      "region": "China",
+      "id": "a-7c485faaa583f5b8e5c5",
+      "fecha": "2026-10-26",
+      "titulo_fuente": "Russia considers important to support reliable gas supplies — Kremlin aide",
+      "region": "Rusia-Ucrania",
       "temas": [
-        "Seguridad y conflictos",
-        "Comercio y finanzas"
+        "Energía y clima"
       ],
       "noticias": [
         {
-          "id": "097ce32a83063d9a7579",
-          "titulo_original": "Volkswagen to build $4bn Audi SUV factory in US despite job cuts at home",
-          "titulo_es": "Volkswagen construirá fábrica Audi SUV de $4bn en Estados Unidos a pesar de los recortes de trabajo en casa",
-          "url": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home",
-          "fuente": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-10-25T13:43:19+00:00",
+          "id": "7c485faaa583f5b8e5c5",
+          "titulo_original": "Russia considers important to support reliable gas supplies — Kremlin aide",
+          "titulo_es": "Rusia considera importante apoyar suministros de gas fiables — Kremlin aide",
+          "url": "https://tass.com/economy/2208213",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-10-26T17:08:27+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "VW investment, creating 4,500 jobs in Georgia, comes amid Trump’s damaging tariffs, intense Chinese competition and costly shift towards EVs Audi has said it will spend $4bn (£3bn) to build its first factory in the US, as its parent company, Volkswagen, struggles with the impact of steep tariffs imposed by Donald Trump. The German brand’s chief executive, Gernot Döllner, joined Trump on stage at a campaign rally on Saturday night to announce the ",
-          "resumen_es": "La inversión VW, creando 4.500 empleos en Georgia, viene entre los aranceles dañinos de Trump, la intensa competencia china y el costoso cambio hacia EVs Audi ha dicho que gastará $4bn (£3bn) para construir su primera fábrica en los Estados Unidos, como su empresa matriz"
+          "resumen_original": "Yury Ushakov noted that Moscow is a responsible player on the global gas market",
+          "resumen_es": "Yury Ushakov señaló que Moscú es un jugador responsable en el mercado mundial de gas"
         }
       ],
       "fuentes": [
-        "The Guardian"
+        "TASS"
       ],
       "actores_mencionados": [
-        "Estados Unidos",
-        "China"
+        "Rusia"
       ],
       "fuentes_independientes": 1,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+        "nombre": "Interdependencia y gobernanza global",
+        "pregunta": "¿Cómo se distribuyen los costos de coordinación y los incentivos para cooperar?"
       },
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
+      "prioridad_orientativa": 4,
       "motivos_seleccion": [
-        "Actores relevantes: China, Estados Unidos",
-        "Ámbito: Comercio y finanzas, Seguridad y conflictos"
+        "Actores relevantes: Rusia",
+        "Ámbito: Energía y clima"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-8fe636bd2b537103e2df",
+      "fecha": "2026-10-26",
+      "titulo_fuente": "Iran monitors situation following reports Ukraine deploys UAVs near its borders",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "8fe636bd2b537103e2df",
+          "titulo_original": "Iran monitors situation following reports Ukraine deploys UAVs near its borders",
+          "titulo_es": "Irán vigila la situación tras los informes que Ucrania despliega los VU cerca de sus fronteras",
+          "url": "https://tass.com/world/2208205",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-10-26T16:59:14+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Earlier, Iranian news agency Tasnim reported that Ukraine was actively deploying thousands of drones in countries bordering Iran, including Iraq’s Kurdistan region",
+          "resumen_es": "Anteriormente, la agencia de noticias iraní Tasnim informó que Ucrania estaba desplegando miles de drones en países que limitaban con Irán, incluida la región del Kurdistán de Iraq"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Ucrania",
+        "Irán"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Irán, Ucrania"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -2262,6 +2351,52 @@
       "motivos_seleccion": [
         "Actores relevantes: Rusia",
         "Ámbito: Diplomacia, Energía y clima"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-82d7584d695456dc0d07",
+      "fecha": "2026-10-26",
+      "titulo_fuente": "EU support for Ukraine: Council mobilises €4.9 billion under the European Peace Facility",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Seguridad y conflictos",
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "82d7584d695456dc0d07",
+          "titulo_original": "EU support for Ukraine: Council mobilises €4.9 billion under the European Peace Facility",
+          "titulo_es": "Apoyo de la UE para Ucrania: Consejo moviliza € 4.900 millones bajo el Fondo Europeo de Paz",
+          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/26/eu-support-for-ukraine-council-mobilises-49-billion-under-the-european-peace-facility/",
+          "fuente": "Noticias del Consejo de la UE",
+          "pais": "Unión Europea",
+          "fecha": "2026-10-26T16:45:00+00:00",
+          "estado": "declaración de la fuente; corroboración independiente pendiente",
+          "resumen_original": "Today the Council adopted a set of decisions mobilising funds for Ukraine under the European Peace Facility. These decisions will allow for the partial reimbursement of previously delivered military aid and provide additional financing for the EU Military Assistance Mission in Support of Ukraine.",
+          "resumen_es": "Hoy el Consejo adoptó un conjunto de decisiones que movilizan fondos para Ucrania en el marco del Fondo Europeo de Paz. Estas decisiones permitirán el reembolso parcial de la ayuda militar entregada anteriormente y proporcionarán financiación adicional para"
+        }
+      ],
+      "fuentes": [
+        "Noticias del Consejo de la UE"
+      ],
+      "actores_mencionados": [
+        "Ucrania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Ucrania",
+        "Ámbito: Comercio y finanzas, Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -2351,63 +2486,6 @@
       "prioridad_orientativa": 4,
       "motivos_seleccion": [
         "Actores relevantes: Israel",
-        "Ámbito: Comercio y finanzas"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-53101fcfc888f30c4512",
-      "fecha": "2026-10-26",
-      "titulo_fuente": "Putin to focus on priorities for Russia-Africa cooperation at UN — Kremlin aide",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Comercio y finanzas"
-      ],
-      "noticias": [
-        {
-          "id": "53101fcfc888f30c4512",
-          "titulo_original": "Putin to focus on priorities for Russia-Africa cooperation at UN — Kremlin aide",
-          "titulo_es": "",
-          "url": "https://tass.com/politics/2208181",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-26T16:28:55+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The Russian president will also discuss joint projects and initiatives currently underway in African countries - covering trade, the economy, cultural and humanitarian ties, and educational exchanges",
-          "resumen_es": ""
-        },
-        {
-          "id": "1c58ccf5d29f8a3280d9",
-          "titulo_original": "Goal of Russia - Africa summit is to expand cooperation — Kremlin aide",
-          "titulo_es": "Objetivo de Rusia - Cumbre de África es ampliar la cooperación - Kremlin aide",
-          "url": "https://tass.com/politics/2208175",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-26T16:25:10+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The summit testifies to the special importance that Russia attaches to its relations with African states, Yury Ushakov said",
-          "resumen_es": "La cumbre da testimonio de la importancia especial que Rusia atribuye a sus relaciones con los estados africanos, dijo Yury Ushakov"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia compleja y economía política internacional",
-        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia",
         "Ámbito: Comercio y finanzas"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
@@ -6487,80 +6565,47 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-08679c67ee469c067901",
-      "fecha": "2026-10-25",
-      "titulo_fuente": "Russia prepared to export as much of diesel fuel as US may need — deputy PM",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Comercio y finanzas"
-      ],
-      "noticias": [
-        {
-          "id": "08679c67ee469c067901",
-          "titulo_original": "Russia prepared to export as much of diesel fuel as US may need — deputy PM",
-          "titulo_es": "Rusia se preparó para exportar tanto gasóleo como Estados Unidos podría necesitar — diputado PM",
-          "url": "https://tass.com/politics/2207549",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-25T13:53:06+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "This is a part of the diesel deal, said Alexander Novak",
-          "resumen_es": "Esto es parte del acuerdo diesel, dijo Alexander Novak"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia compleja y economía política internacional",
-        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia",
-        "Ámbito: Comercio y finanzas"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-fce00c6e9d2ccdc4d462",
-      "fecha": "2026-10-25",
-      "titulo_fuente": "Gaza’s visually and hearing-impaired children miss school due to Israel war",
+      "id": "a-d55dff781f527a77a930",
+      "fecha": "2026-10-26",
+      "titulo_fuente": "Egyptian parliament approves military aid to Saudi Arabia — TV",
       "region": "Oriente Medio",
       "temas": [
         "Seguridad y conflictos"
       ],
       "noticias": [
         {
-          "id": "fce00c6e9d2ccdc4d462",
-          "titulo_original": "Gaza’s visually and hearing-impaired children miss school due to Israel war",
-          "titulo_es": "Los niños con discapacidad visual y auditiva de Gaza pierden la escuela debido a la guerra de Israel",
-          "url": "https://www.aljazeera.com/features/2026/10/25/gazas-visually-and-hearing-impaired-children-miss-school-due-to-israel-war?traffic_source=rss",
+          "id": "d55dff781f527a77a930",
+          "titulo_original": "Egyptian parliament approves military aid to Saudi Arabia — TV",
+          "titulo_es": "Parlamento egipcio aprueba ayuda militar a Arabia Saudita — TV",
+          "url": "https://tass.com/world/2208207",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-10-26T17:01:24+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "According to the TV channel, this concerns \"support in defense-related matters\"",
+          "resumen_es": "Según el canal de televisión, esto se refiere a \"apoyo en asuntos relacionados con la defensa\""
+        },
+        {
+          "id": "0074f77cc1ee4ed86e5e",
+          "titulo_original": "Egyptian parliament authorises military aid for Saudi Arabia",
+          "titulo_es": "El Parlamento egipcio autoriza la ayuda militar para Arabia Saudita",
+          "url": "https://www.aljazeera.com/news/2026/10/26/egyptian-parliament-authorises-military-aid-for-saudi-arabia?traffic_source=rss",
           "fuente": "Al Jazeera",
           "pais": "Catar",
-          "fecha": "2026-10-25T13:46:51+00:00",
+          "fecha": "2026-10-26T15:41:29+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Children in Gaza with auditory and visual challenges often have no access to specialist education.",
-          "resumen_es": "Los niños de Gaza con problemas auditivos y visuales a menudo no tienen acceso a la educación especializada."
+          "resumen_original": "Legislators approve military support amid Houthi attacks on Saudi Arabia, but Cairo has ruled out strikes on Yemen.",
+          "resumen_es": "Los legisladores aprueban el apoyo militar en medio de ataques de Houthi contra Arabia Saudita, pero El Cairo ha descartado huelgas contra Yemen."
         }
       ],
       "fuentes": [
-        "Al Jazeera"
+        "Al Jazeera",
+        "TASS"
       ],
       "actores_mencionados": [
-        "Israel",
-        "Palestina"
+        "Arabia Saudita"
       ],
-      "fuentes_independientes": 1,
+      "fuentes_independientes": 2,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
         "nombre": "Realismo y dilema de seguridad",
@@ -6569,145 +6614,10 @@
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
+      "prioridad_orientativa": 3,
       "motivos_seleccion": [
-        "Actores relevantes: Israel",
+        "Cobertura de fuentes distintas",
         "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-2883b0fb3ca9f97d6265",
-      "fecha": "2026-10-25",
-      "titulo_fuente": "Brazil votes in tense Lula vs Bolsonaro runoff with U.S. influence over Latin America at stake",
-      "region": "Estados Unidos",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "2883b0fb3ca9f97d6265",
-          "titulo_original": "Brazil votes in tense Lula vs Bolsonaro runoff with U.S. influence over Latin America at stake",
-          "titulo_es": "Brasil vota tenso Lula vs Bolsonaro con influencia estadounidense sobre América Latina en juego",
-          "url": "https://www.thehindu.com/news/international/brazil-votes-in-tense-lula-vs-bolsonaro-runoff-with-us-influence-over-latin-america-at-stake/article71623468.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-10-25T13:37:13+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Flávio Bolsonaro bested Mr. Lula by more than 2.2 million votes in the first round of the election earlier this month, although more than 33 million voters out of nearly 160 million did not turn out",
-          "resumen_es": "Flávio Bolsonaro mejoró al Sr. Lula por más de 2,2 millones de votos en la primera vuelta de la elección a principios de este mes, aunque más de 33 millones de votantes de casi 160 millones no resultaron"
-        }
-      ],
-      "fuentes": [
-        "The Hindu"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "Brasil"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Brasil, Estados Unidos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-0010a7f124940a06bd59",
-      "fecha": "2026-10-25",
-      "titulo_fuente": "Russian LNG accounts for 20% of European market — Putin",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Energía y clima"
-      ],
-      "noticias": [
-        {
-          "id": "0010a7f124940a06bd59",
-          "titulo_original": "Russian LNG accounts for 20% of European market — Putin",
-          "titulo_es": "El GNL ruso representa el 20% del mercado europeo — Putin",
-          "url": "https://tass.com/politics/2207539",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-25T13:29:02+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Russia has never refused to supply energy resources to Europe, underlinded Russian leader",
-          "resumen_es": "Rusia nunca se ha negado a suministrar recursos energéticos a Europa, subrayando al líder ruso"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia y gobernanza global",
-        "pregunta": "¿Cómo se distribuyen los costos de coordinación y los incentivos para cooperar?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia",
-        "Ámbito: Energía y clima"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-83e8458b4825dfd3c949",
-      "fecha": "2026-10-25",
-      "titulo_fuente": "EU fails to instill values in migrants, allows those values to crumble at home — Putin",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Migración y DD. HH."
-      ],
-      "noticias": [
-        {
-          "id": "83e8458b4825dfd3c949",
-          "titulo_original": "EU fails to instill values in migrants, allows those values to crumble at home — Putin",
-          "titulo_es": "La UE no inculca valores en migrantes, permite que esos valores se desmoronen en casa — Putin",
-          "url": "https://tass.com/politics/2207529",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-25T13:09:55+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Many have arrived and lived there for decades, yet they do not speak the language of the host country, said Russian leader",
-          "resumen_es": "Muchos han llegado y vivido allí durante décadas, sin embargo no hablan el idioma del país anfitrión, dijo el líder ruso"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Derecho internacional y constructivismo",
-        "pregunta": "¿Qué normas, identidades y obligaciones internacionales invocan los actores?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia",
-        "Ámbito: Migración y DD. HH."
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6769,115 +6679,91 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-d40554decfa031b4d10a",
+      "id": "a-bd0675170fc98616bdda",
       "fecha": "2026-10-26",
-      "titulo_fuente": "Lula wins fourth term in dramatic Brazil election comeback",
-      "region": "América Latina",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "d40554decfa031b4d10a",
-          "titulo_original": "Lula wins fourth term in dramatic Brazil election comeback",
-          "titulo_es": "Lula gana cuarto mandato en el dramático regreso electoral de Brasil",
-          "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News",
-          "pais": "Reino Unido",
-          "fecha": "2026-10-26T16:49:14+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
-          "resumen_es": "El presidente de izquierda había perdido la primera ronda al retador de derecha Flávio Bolsonaro."
-        }
-      ],
-      "fuentes": [
-        "BBC News"
-      ],
-      "actores_mencionados": [
-        "Brasil"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Brasil"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-2a90a1f516aa0a975494",
-      "fecha": "2026-10-26",
-      "titulo_fuente": "Iran, Mecca pact countries agree to continue talks after 'first' meeting: state media",
-      "region": "Oriente Medio",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "2a90a1f516aa0a975494",
-          "titulo_original": "Iran, Mecca pact countries agree to continue talks after 'first' meeting: state media",
-          "titulo_es": "Irán, países del pacto de la Meca aceptan continuar las conversaciones después de la 'primera' reunión: los medios estatales",
-          "url": "https://www.thehindu.com/news/international/iran-mecca-pact-countries-agree-to-continue-talks-after-first-meeting-state-media/article71628400.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-10-26T16:39:12+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The meeting brought Iran together with representatives from Saudi Arabia, Pakistan and Turkey, says broadcaster",
-          "resumen_es": "La reunión reunió a Irán con representantes de Arabia Saudita, Pakistán y Turquía, dice la emisora"
-        }
-      ],
-      "fuentes": [
-        "The Hindu"
-      ],
-      "actores_mencionados": [
-        "Irán",
-        "Turquía",
-        "Arabia Saudita"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Irán"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-5749f88c8ecb1d025fca",
-      "fecha": "2026-10-26",
-      "titulo_fuente": "Putin to meet with president of Kenya, Kremlin aide says",
+      "titulo_fuente": "Global LNG exports may grow by 50% above 2025 year level — Kremlin aide",
       "region": "Internacional",
       "temas": [
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "bd0675170fc98616bdda",
+          "titulo_original": "Global LNG exports may grow by 50% above 2025 year level — Kremlin aide",
+          "titulo_es": "Las exportaciones mundiales de GNL pueden crecer en un 50% por encima del nivel de 2025 años — Kremlin aide",
+          "url": "https://tass.com/economy/2208219",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-10-26T17:20:58+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "According to estimates, its global exports may reach 650 mln cubic meters during the next 5-10 years",
+          "resumen_es": "Según estimaciones, sus exportaciones mundiales pueden alcanzar 650 mln de metros cúbicos durante los próximos 5-10 años"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia compleja y economía política internacional",
+        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Comercio y finanzas"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-7986f1ecd60606f48789",
+      "fecha": "2026-10-26",
+      "titulo_fuente": "Agriculture is key area of cooperation between Russia, Africa — Kremlin aide",
+      "region": "Rusia-Ucrania",
+      "temas": [
         "Actualidad"
       ],
       "noticias": [
         {
-          "id": "5749f88c8ecb1d025fca",
-          "titulo_original": "Putin to meet with president of Kenya, Kremlin aide says",
-          "titulo_es": "Putin se reúne con el presidente de Kenia, dice Kremlin aide",
-          "url": "https://tass.com/politics/2208187",
+          "id": "7986f1ecd60606f48789",
+          "titulo_original": "Agriculture is key area of cooperation between Russia, Africa — Kremlin aide",
+          "titulo_es": "La agricultura es una esfera clave de cooperación entre Rusia, África — Kremlin aide",
+          "url": "https://tass.com/economy/2208215",
           "fuente": "TASS",
           "pais": "Rusia",
-          "fecha": "2026-10-26T16:36:15+00:00",
+          "fecha": "2026-10-26T17:10:41+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Yury Ushakov added the conversation is scheduled for October 29",
-          "resumen_es": "Yury Ushakov agregó que la conversación está programada para el 29 de octubre"
+          "resumen_original": "Russian mineral fertilizer supplies climbed above 2.2 mln metric tons in 2026, Yury Ushakov said",
+          "resumen_es": "fertilizantes minerales rusos subió por encima de 2,2 mln toneladas métricas en 2026, Yury Ushakov dijo"
+        },
+        {
+          "id": "53101fcfc888f30c4512",
+          "titulo_original": "Putin to focus on priorities for Russia-Africa cooperation at UN — Kremlin aide",
+          "titulo_es": "",
+          "url": "https://tass.com/politics/2208181",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-10-26T16:28:55+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The Russian president will also discuss joint projects and initiatives currently underway in African countries - covering trade, the economy, cultural and humanitarian ties, and educational exchanges",
+          "resumen_es": ""
+        },
+        {
+          "id": "1c58ccf5d29f8a3280d9",
+          "titulo_original": "Goal of Russia - Africa summit is to expand cooperation — Kremlin aide",
+          "titulo_es": "Objetivo de Rusia - Cumbre de África es ampliar la cooperación - Kremlin aide",
+          "url": "https://tass.com/politics/2208175",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-10-26T16:25:10+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The summit testifies to the special importance that Russia attaches to its relations with African states, Yury Ushakov said",
+          "resumen_es": "La cumbre da testimonio de la importancia especial que Rusia atribuye a sus relaciones con los estados africanos, dijo Yury Ushakov"
         }
       ],
       "fuentes": [
@@ -6898,6 +6784,134 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Actores relevantes: Rusia"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-d74ac0f92f585bf6879f",
+      "fecha": "2026-10-26",
+      "titulo_fuente": "Natural gas demand to grow by 28% by 2055 — Kremlin aide",
+      "region": "Internacional",
+      "temas": [
+        "Energía y clima"
+      ],
+      "noticias": [
+        {
+          "id": "d74ac0f92f585bf6879f",
+          "titulo_original": "Natural gas demand to grow by 28% by 2055 — Kremlin aide",
+          "titulo_es": "Demanda de gas natural para crecer en un 28% en 2055 - Kremlin aide",
+          "url": "https://tass.com/economy/2208209",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-10-26T17:03:03+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "In view of the growing demand for the natural gas globally, it will grow, according to forecasts, from 4.2 trillion cubic meters at present to 5.4 trillion cubic meters, Yury Ushakov said",
+          "resumen_es": "En vista de la creciente demanda del gas natural a nivel mundial, crecerá, según las previsiones, de 4.2 billones de metros cúbicos en la actualidad a 5.4 billones de metros cúbicos, Yury Ushakov dijo"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia y gobernanza global",
+        "pregunta": "¿Cómo se distribuyen los costos de coordinación y los incentivos para cooperar?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Energía y clima"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-92ec52320879dd0d1046",
+      "fecha": "2026-10-26",
+      "titulo_fuente": "‘You are set up to fail’: homeless people say system in England is broken and they need help",
+      "region": "Internacional",
+      "temas": [
+        "Diplomacia"
+      ],
+      "noticias": [
+        {
+          "id": "92ec52320879dd0d1046",
+          "titulo_original": "‘You are set up to fail’: homeless people say system in England is broken and they need help",
+          "titulo_es": "‘Estás preparado para fracasar’: las personas sin hogar dicen que el sistema en Inglaterra está roto y necesitan ayuda",
+          "url": "https://www.theguardian.com/society/2026/oct/26/homeless-people-summit-andy-burnham-need-help",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-10-26T17:02:20+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "As Andy Burnham hosts a rough sleeper summit, frustration mounts over ‘ridiculous bureaucracy’ and lack of hostel places Martin Fletcher had been homeless for more than 20 years after being made redundant before he finally got accommodation in Sunderland in 2024. What was the one thing that finally ended his rough sleeping and sofa surfing? “My mindset, mainly,” the 61-year-old said. “The realisation that I was getting old and I couldn’t live lik",
+          "resumen_es": "Mientras Andy Burnham acoge una dura cumbre de durmiente, la frustración aumenta sobre la \"burocracia ridícula\" y la falta de albergues Martin Fletcher había estado sin hogar durante más de 20 años después de ser despedido antes de que finalmente consiguió alojamiento"
+        }
+      ],
+      "fuentes": [
+        "The Guardian"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Diplomacia"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-fec0a87ba16bd90be8dc",
+      "fecha": "2026-10-26",
+      "titulo_fuente": "Au Royaume-Uni, 160 personnalités dénoncent l’« absurdité répressive » d’une loi antiterrorisme qui a conduit au retrait du marché des livres de Sally Rooney",
+      "region": "Oriente Medio",
+      "temas": [
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "fec0a87ba16bd90be8dc",
+          "titulo_original": "Au Royaume-Uni, 160 personnalités dénoncent l’« absurdité répressive » d’une loi antiterrorisme qui a conduit au retrait du marché des livres de Sally Rooney",
+          "titulo_es": "",
+          "url": "https://www.lemonde.fr/international/article/2026/10/26/au-royaume-uni-160-personnalites-denoncent-l-absurdite-repressive-d-une-loi-antiterrorisme-qui-a-conduit-au-retrait-du-marche-des-livres-de-sally-rooney_6800817_3210.html",
+          "fuente": "Le Monde",
+          "pais": "Francia",
+          "fecha": "2026-10-26T17:00:21+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Alors que le financement d’une organisation interdite dans le cadre de la lutte contre le terrorisme est passible de poursuites outre-Manche, la romancière irlandaise soutient Palestine Action, interdite dans ce cadre.",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "Le Monde"
+      ],
+      "actores_mencionados": [
+        "Palestina"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia compleja y economía política internacional",
+        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Comercio y finanzas"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
