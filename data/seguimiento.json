@@ -1,17 +1,33 @@
 {
-  "actualizado_utc": "2026-10-26T18:50:58.311294+00:00",
+  "actualizado_utc": "2026-10-26T19:24:53.865137+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 744,
-      "nuevas_24h": 84,
-      "anteriores_24h": 48,
+      "cantidad_archivada": 746,
+      "nuevas_24h": 86,
+      "anteriores_24h": 47,
       "dias_con_registros": 11,
-      "fecha_ultima": "2026-10-26T18:31:20+00:00",
+      "fecha_ultima": "2026-10-26T18:53:49+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "da434dff485b4b615bd7",
+          "fecha": "2026-10-26T18:53:49+00:00",
+          "titulo": "Russia ranks first globally by natural gas reserves",
+          "fuente": "TASS",
+          "url": "https://tass.com/economy/2208243",
+          "traducida": false
+        },
+        {
+          "id": "63490e9d8f8db7d092fb",
+          "fecha": "2026-10-26T18:52:48+00:00",
+          "titulo": "EN DIRECT, guerre en Ukraine : « L’OTAN reste la pierre angulaire de notre sécurité », réaffirme le groupe des Cinq, en appelant l’Europe à « une plus grande responsabilité »",
+          "fuente": "Le Monde",
+          "url": "https://www.lemonde.fr/international/live/2026/10/26/en-direct-guerre-en-ukraine-l-otan-reste-la-pierre-angulaire-de-notre-securite-reaffirme-le-groupe-des-cinq-en-appelant-l-europe-a-une-plus-grande-responsabilite_6799896_3210.html",
+          "traducida": false
+        },
         {
           "id": "e8bc0029b254d628f41c",
           "fecha": "2026-10-26T18:31:20+00:00",
@@ -235,22 +251,6 @@
           "fuente": "Deutsche Welle",
           "url": "https://www.dw.com/en/why-ukraine-may-be-involved-in-mali-s-conflict/a-79743423?maca=en-rss-en-world-4025-rdf",
           "traducida": false
-        },
-        {
-          "id": "77b015f6049aff9fb56c",
-          "fecha": "2026-10-26T14:48:38+00:00",
-          "titulo": "India’s Defense Ministry plans to modernize 80 Russian-made T-72, T-90 tanks annually",
-          "fuente": "TASS",
-          "url": "https://tass.com/defense/2208001",
-          "traducida": false
-        },
-        {
-          "id": "bbf8a475f1c91fcac4d2",
-          "fecha": "2026-10-26T14:38:50+00:00",
-          "titulo": "Russia ready for further cooperation with Slovakia on nuclear energy — minister",
-          "fuente": "TASS",
-          "url": "https://tass.com/economy/2207999",
-          "traducida": false
         }
       ]
     },
@@ -258,7 +258,7 @@
       "id": "oriente-medio",
       "titulo": "Oriente Medio: seguridad y diplomacia",
       "cantidad_archivada": 439,
-      "nuevas_24h": 60,
+      "nuevas_24h": 59,
       "anteriores_24h": 64,
       "dias_con_registros": 11,
       "fecha_ultima": "2026-10-26T18:05:12+00:00",
@@ -509,13 +509,29 @@
     {
       "id": "suramerica",
       "titulo": "Sudamérica: integración y política exterior",
-      "cantidad_archivada": 136,
-      "nuevas_24h": 46,
+      "cantidad_archivada": 138,
+      "nuevas_24h": 48,
       "anteriores_24h": 18,
       "dias_con_registros": 11,
-      "fecha_ultima": "2026-10-26T17:56:50+00:00",
+      "fecha_ultima": "2026-10-26T18:50:48+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "e713d8fe1b066823617b",
+          "fecha": "2026-10-26T18:50:48+00:00",
+          "titulo": "Victoria de la democracia",
+          "fuente": "El País",
+          "url": "https://elpais.com/opinion/2026-10-26/victoria-de-la-democracia.html",
+          "traducida": false
+        },
+        {
+          "id": "8090081ee1e9ecea90fe",
+          "fecha": "2026-10-26T18:27:23+00:00",
+          "titulo": "Brazil’s real sinks after Lula’s re-election victory",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/10/26/brazils-real-sinks-after-lulas-re-election-victory?traffic_source=rss",
+          "traducida": false
+        },
         {
           "id": "c313b5013d9e16dcdb8d",
           "fecha": "2026-10-26T17:56:50+00:00",
@@ -739,35 +755,27 @@
           "fuente": "South China Morning Post",
           "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3372167/lula-secures-surprise-win-retain-brazil-presidency",
           "traducida": false
-        },
-        {
-          "id": "51a30a80827c62de6c6b",
-          "fecha": "2026-10-26T09:05:47+00:00",
-          "titulo": "Lula da Silva reelected Brazilian president: voting results",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2207735",
-          "traducida": false
-        },
-        {
-          "id": "547814c06e9294bda6dd",
-          "fecha": "2026-10-26T08:41:23+00:00",
-          "titulo": "Lula’s victory may be a turning point for Latin America",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/opinions/2026/10/26/lulas-victory-may-be-a-turning-point-for-latin-america?traffic_source=rss",
-          "traducida": false
         }
       ]
     },
     {
       "id": "union-europea",
       "titulo": "Unión Europea y relaciones exteriores",
-      "cantidad_archivada": 293,
-      "nuevas_24h": 24,
+      "cantidad_archivada": 294,
+      "nuevas_24h": 25,
       "anteriores_24h": 21,
       "dias_con_registros": 11,
-      "fecha_ultima": "2026-10-26T16:31:24+00:00",
+      "fecha_ultima": "2026-10-26T19:16:47+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "e54dbe0c17cd82e3d288",
+          "fecha": "2026-10-26T19:16:47+00:00",
+          "titulo": "Burnham rules out UK return to EU free movement without referendum",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/europe/article/3372217/burnham-rules-out-uk-return-eu-free-movement-without-referendum",
+          "traducida": false
+        },
         {
           "id": "1ace7f6d2480b62142d6",
           "fecha": "2026-10-26T16:31:24+00:00",
@@ -998,14 +1006,6 @@
           "titulo": "« Au Brésil, ce n’est pas une dictature qui m’a forcé à l’exil » : Orion Lalli, artiste et réfugié politique",
           "fuente": "Le Monde",
           "url": "https://www.lemonde.fr/international/article/2026/10/25/au-bresil-ce-n-est-pas-une-dictature-qui-m-a-force-a-l-exil-orion-lalli-artiste-et-refugie-politique_6800085_3210.html",
-          "traducida": false
-        },
-        {
-          "id": "83bf71d0ac9af052a2f6",
-          "fecha": "2026-10-25T13:24:25+00:00",
-          "titulo": "Nace en Francia un premio literario para libros coescritos con IA",
-          "fuente": "El País",
-          "url": "https://elpais.com/cultura/2026-10-25/nace-en-francia-un-premio-literario-para-libros-coescritos-con-ia.html",
           "traducida": false
         }
       ]
@@ -1517,13 +1517,21 @@
     {
       "id": "onu",
       "titulo": "Naciones Unidas y multilateralismo",
-      "cantidad_archivada": 20,
-      "nuevas_24h": 3,
+      "cantidad_archivada": 21,
+      "nuevas_24h": 4,
       "anteriores_24h": 0,
       "dias_con_registros": 7,
-      "fecha_ultima": "2026-10-26T17:27:21+00:00",
+      "fecha_ultima": "2026-10-26T18:11:03+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "7e13260f6f6a3c88bd5f",
+          "fecha": "2026-10-26T18:11:03+00:00",
+          "titulo": "Robles advierte en la ONU de que la paz no puede construirse de espaldas a las mujeres",
+          "fuente": "El País",
+          "url": "https://elpais.com/espana/2026-10-26/robles-advierte-en-la-onu-de-que-la-paz-no-puede-construirse-de-espaldas-a-las-mujeres.html",
+          "traducida": false
+        },
         {
           "id": "d6fd8ebf8ac138ea62a9",
           "fecha": "2026-10-26T17:27:21+00:00",
