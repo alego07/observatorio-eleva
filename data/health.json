@@ -1,17 +1,17 @@
 {
-  "updated_utc": "2026-10-26T13:07:54.267958+00:00",
+  "updated_utc": "2026-10-26T16:58:54.757546+00:00",
   "results": [
     {
       "source_id": "f25",
       "source_name": "BBC News",
       "status": "ok",
-      "count_recent": 25
+      "count_recent": 26
     },
     {
       "source_id": "f26",
       "source_name": "Deutsche Welle",
       "status": "ok",
-      "count_recent": 11
+      "count_recent": 10
     },
     {
       "source_id": "f27",
@@ -70,20 +70,20 @@
     {
       "source_id": "f66",
       "source_name": "Noticias del Consejo de la UE",
-      "status": "ok",
-      "count_recent": 8
+      "status": "error",
+      "message": "The read operation timed out"
     },
     {
       "source_id": "f67",
       "source_name": "GOV.UK FCDO",
       "status": "ok",
-      "count_recent": 11
+      "count_recent": 8
     },
     {
       "source_id": "f74",
       "source_name": "Agência Brasil (EBC)",
       "status": "ok",
-      "count_recent": 3
+      "count_recent": 4
     }
   ]
 }
