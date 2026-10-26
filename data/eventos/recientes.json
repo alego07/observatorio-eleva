@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-10-26T17:41:38.640985+00:00",
+  "created_utc": "2026-10-26T18:50:58.241493+00:00",
   "events": [
     {
       "id": "a-86f5e656aba371a3c485",
@@ -342,6 +342,53 @@
       "motivos_seleccion": [
         "Actores relevantes: Estados Unidos, Rusia, Ucrania",
         "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-01a8cabc14ada3d9524e",
+      "fecha": "2026-10-26",
+      "titulo_fuente": "Russian attacks on Ukraine’s energy infrastructure a war crime: UN",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Seguridad y conflictos",
+        "Energía y clima"
+      ],
+      "noticias": [
+        {
+          "id": "01a8cabc14ada3d9524e",
+          "titulo_original": "Russian attacks on Ukraine’s energy infrastructure a war crime: UN",
+          "titulo_es": "Los ataques rusos contra la infraestructura energética de Ucrania son un crimen de guerra: ONU",
+          "url": "https://www.aljazeera.com/news/2026/10/26/russian-attacks-on-ukraines-energy-infrastructure-a-war-crime-un?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-10-26T17:27:34+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "UN commission notes Russian weaponisation of cold in nearly five years of attacks on heating plants and power lines.",
+          "resumen_es": "La comisión de la ONU toma nota de la militarización rusa del frío en casi cinco años de ataques contra plantas de calefacción y líneas eléctricas."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [
+        "Rusia",
+        "Ucrania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia, Ucrania",
+        "Ámbito: Energía y clima, Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -2079,120 +2126,82 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-b88fca58c3190513a492",
-      "fecha": "2026-10-25",
-      "titulo_fuente": "Trump says choosing between making deal with Iran and ‘finishing it off’",
-      "region": "Oriente Medio",
+      "id": "a-e8bc0029b254d628f41c",
+      "fecha": "2026-10-26",
+      "titulo_fuente": "Contacts with Africa, Putin’s 'extremely tight' schedule: Kremlin aide’s statements",
+      "region": "Rusia-Ucrania",
       "temas": [
-        "Seguridad y conflictos",
-        "Energía y clima"
+        "Diplomacia"
       ],
       "noticias": [
         {
-          "id": "b88fca58c3190513a492",
-          "titulo_original": "Trump says choosing between making deal with Iran and ‘finishing it off’",
-          "titulo_es": "Trump dice elegir entre hacer un trato con Irán y terminarlo ’",
-          "url": "https://tass.com/world/2207573",
+          "id": "e8bc0029b254d628f41c",
+          "titulo_original": "Contacts with Africa, Putin’s 'extremely tight' schedule: Kremlin aide’s statements",
+          "titulo_es": "Contactos con África, el cronograma \"extremadamente ajustado\" de Putin: declaraciones de Kremlin aide",
+          "url": "https://tass.com/politics/2208229",
           "fuente": "TASS",
           "pais": "Rusia",
-          "fecha": "2026-10-25T15:13:57+00:00",
+          "fecha": "2026-10-26T18:31:20+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "President of the US said that oil prices would go down as soon as the conflict with Iran is over",
-          "resumen_es": "El Presidente de los Estados Unidos dijo que los precios del petróleo bajarían tan pronto como el conflicto con Irán termine"
+          "resumen_original": "Forty-eight countries have confirmed their participation in the Russia-Africa summit, twenty-two of them will be represented at the top level",
+          "resumen_es": "Cuarenta y ocho países han confirmado su participación en la cumbre entre Rusia y África, veintidós de ellos estarán representados en el nivel superior"
+        },
+        {
+          "id": "dca43227f6a014699dd0",
+          "titulo_original": "Kremlin aide describes coming week in Putin’s schedule as ‘extremely tight’",
+          "titulo_es": "",
+          "url": "https://tass.com/politics/2208097",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-10-26T15:32:07+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Yury Ushakov pointed out that Moscow is hosting two major multilateral meetings: the eighth summit of the Gas Exporting Countries Forum and the third Russia-Africa summit",
+          "resumen_es": ""
         }
       ],
       "fuentes": [
         "TASS"
       ],
       "actores_mencionados": [
-        "Estados Unidos",
-        "Irán"
+        "Rusia"
       ],
       "fuentes_independientes": 1,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
       },
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
+      "prioridad_orientativa": 4,
       "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos, Irán",
-        "Ámbito: Energía y clima, Seguridad y conflictos"
+        "Actores relevantes: Rusia",
+        "Ámbito: Diplomacia"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
     },
     {
-      "id": "a-1b09205a382a09834abe",
-      "fecha": "2026-10-25",
-      "titulo_fuente": "How is the US-Israeli war on Iran causing havoc in Europe?",
+      "id": "a-c624c71c1afaf93bda8c",
+      "fecha": "2026-10-26",
+      "titulo_fuente": "Could the midterms change America’s military support for Israel?",
       "region": "Oriente Medio",
       "temas": [
-        "Seguridad y conflictos",
-        "Energía y clima"
+        "Seguridad y conflictos"
       ],
       "noticias": [
         {
-          "id": "1b09205a382a09834abe",
-          "titulo_original": "How is the US-Israeli war on Iran causing havoc in Europe?",
-          "titulo_es": "¿Cómo está la guerra estadounidense-israelí contra Irán causando estragos en Europa?",
-          "url": "https://www.aljazeera.com/news/2026/10/25/how-is-the-us-israeli-war-on-iran-causing-havoc-in-europe?traffic_source=rss",
+          "id": "c624c71c1afaf93bda8c",
+          "titulo_original": "Could the midterms change America’s military support for Israel?",
+          "titulo_es": "¿Podrían cambiar el apoyo militar de Estados Unidos a Israel?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/could-the-midterms-change-americas-military-support-for-israel?traffic_source=rss",
           "fuente": "Al Jazeera",
           "pais": "Catar",
-          "fecha": "2026-10-25T14:47:55+00:00",
+          "fecha": "2026-10-26T18:05:12+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Rising energy costs and protests are sharpening European opposition to renewed US-Israeli attacks on Iran.",
-          "resumen_es": "El aumento de los costos de energía y las protestas están agudizando la oposición europea a los nuevos ataques estadounidenses e israelíes contra Irán."
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera"
-      ],
-      "actores_mencionados": [
-        "Israel",
-        "Irán"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Irán, Israel",
-        "Ámbito: Energía y clima, Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-916bbc5d420590d132b5",
-      "fecha": "2026-10-25",
-      "titulo_fuente": "Netanyahu’s pitch: Can Israel use crypto to evade economic sanctions?",
-      "region": "Oriente Medio",
-      "temas": [
-        "Seguridad y conflictos",
-        "Comercio y finanzas"
-      ],
-      "noticias": [
-        {
-          "id": "916bbc5d420590d132b5",
-          "titulo_original": "Netanyahu’s pitch: Can Israel use crypto to evade economic sanctions?",
-          "titulo_es": "El lanzamiento de Netanyahu: ¿Puede Israel usar cripto para evadir las sanciones económicas?",
-          "url": "https://www.aljazeera.com/news/2026/10/25/netanyahus-pitch-can-israel-use-crypto-to-evade-economic-sanctions?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-10-25T14:46:38+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Prime Minister Netanyahu mulls cryptocurrency as answer to economic sanctions on Israel, but there are few buyers.",
-          "resumen_es": "Primer Ministro Netanyahu mulls cryptocurrency as answer to economic sanctions on Israel, but there are few buyers."
+          "resumen_original": "From Texas to Michigan, Senate candidates are challenging US weapons transfers to Israel.",
+          "resumen_es": "De Texas a Michigan, los candidatos del Senado están desafiando las transferencias de armas estadounidenses a Israel."
         }
       ],
       "fuentes": [
@@ -2210,58 +2219,98 @@
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
+      "prioridad_orientativa": 4,
       "motivos_seleccion": [
         "Actores relevantes: Israel",
-        "Ámbito: Comercio y finanzas, Seguridad y conflictos",
-        "Posible decisión institucional o negociación"
+        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
     },
     {
-      "id": "a-73f7bc52cc2e773dbb96",
-      "fecha": "2026-10-25",
-      "titulo_fuente": "LS Speaker Om Birla meets counterparts from Cuba, Russia ahead of BRICS parliamentary forum meeting",
-      "region": "Rusia-Ucrania",
+      "id": "a-8338747ee251eb4dc655",
+      "fecha": "2026-10-26",
+      "titulo_fuente": "Rubio to host G20 Foreign Ministers’ meet in Atlanta on Oct 30-31",
+      "region": "Estados Unidos",
       "temas": [
-        "Comercio y finanzas"
+        "Diplomacia"
       ],
       "noticias": [
         {
-          "id": "73f7bc52cc2e773dbb96",
-          "titulo_original": "LS Speaker Om Birla meets counterparts from Cuba, Russia ahead of BRICS parliamentary forum meeting",
-          "titulo_es": "El presidente Om Birla se reúne con sus homólogos de Cuba, Rusia antes de la reunión del foro parlamentario de BRICS",
-          "url": "https://www.thehindu.com/news/international/ls-speaker-om-birla-meets-counterparts-from-cuba-russia-ahead-of-brics-parliamentary-forum-meeting/article71623634.ece",
+          "id": "8338747ee251eb4dc655",
+          "titulo_original": "Rubio to host G20 Foreign Ministers’ meet in Atlanta on Oct 30-31",
+          "titulo_es": "Rubio acogerá a los Ministros de Relaciones Exteriores del G20 en Atlanta el 30-31 de octubre",
+          "url": "https://www.thehindu.com/news/international/rubio-to-host-g20-foreign-ministers-meet-in-atlanta-on-oct-30-31/article71628615.ece",
           "fuente": "The Hindu",
           "pais": "India",
-          "fecha": "2026-10-25T14:42:51+00:00",
+          "fecha": "2026-10-26T17:52:08+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Cuba lobbying for support of its UNGA resolution against a crippling economic blockade imposed by the U.S.; India, Russia review parliamentary exchanges as they mark 80th anniversary of bilateral ties",
-          "resumen_es": "Cuba aboga por el apoyo de su resolución de la Asamblea General contra un bloqueo económico despresivo impuesto por los Estados Unidos; la India, Rusia revisan los intercambios parlamentarios cuando conmemoran el 80 aniversario de vínculos bilaterales"
+          "resumen_original": "U.S. President Donald Trump is scheduled to host the G20 Leaders’ Summit in Miami on December 14-15",
+          "resumen_es": "El presidente estadounidense Donald Trump está programado para acoger la Cumbre de Líderes del G20 en Miami el 14 y 15 de diciembre"
         }
       ],
       "fuentes": [
         "The Hindu"
       ],
       "actores_mencionados": [
-        "Estados Unidos",
-        "Rusia",
-        "India"
+        "Estados Unidos"
       ],
       "fuentes_independientes": 1,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
-        "nombre": "Interdependencia compleja y economía política internacional",
-        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
       },
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
+      "prioridad_orientativa": 4,
       "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos, India, Rusia",
-        "Ámbito: Comercio y finanzas"
+        "Actores relevantes: Estados Unidos",
+        "Ámbito: Diplomacia"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-7a617464568587345532",
+      "fecha": "2026-10-26",
+      "titulo_fuente": "Britain sanctions Sudanese commanders over weaponised rape",
+      "region": "Europa",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "7a617464568587345532",
+          "titulo_original": "Britain sanctions Sudanese commanders over weaponised rape",
+          "titulo_es": "Sanciones británicas Comandantes sudaneses sobre violación armada",
+          "url": "https://www.aljazeera.com/news/2026/10/26/britain-sanctions-sudanese-commanders-over-weaponised-rape?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-10-26T17:32:46+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Commanders from the Rapid Support Forces (RSF) and Sudanese Armed Forces face travel and asset freezes.",
+          "resumen_es": "Los comandantes de las Fuerzas de Apoyo Rápido (RSF) y las Fuerzas Armadas Sudanesas se enfrentan a congelación de los viajes y los activos."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Ámbito: Seguridad y conflictos",
+        "Posible decisión institucional o negociación"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -2807,53 +2856,6 @@
       "motivos_seleccion": [
         "Actores relevantes: Brasil",
         "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-dca43227f6a014699dd0",
-      "fecha": "2026-10-26",
-      "titulo_fuente": "Kremlin aide describes coming week in Putin’s schedule as ‘extremely tight’",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Diplomacia",
-        "Comercio y finanzas",
-        "Energía y clima"
-      ],
-      "noticias": [
-        {
-          "id": "dca43227f6a014699dd0",
-          "titulo_original": "Kremlin aide describes coming week in Putin’s schedule as ‘extremely tight’",
-          "titulo_es": "",
-          "url": "https://tass.com/politics/2208097",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-26T15:32:07+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Yury Ushakov pointed out that Moscow is hosting two major multilateral meetings: the eighth summit of the Gas Exporting Countries Forum and the third Russia-Africa summit",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia",
-        "Ámbito: Comercio y finanzas, Diplomacia"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6203,218 +6205,47 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-da18a2e0f6fb52933326",
-      "fecha": "2026-10-25",
-      "titulo_fuente": "Trump says warned Macron about consequences of his migration policy",
-      "region": "Estados Unidos",
-      "temas": [
-        "Seguridad y conflictos",
-        "Migración y DD. HH."
-      ],
-      "noticias": [
-        {
-          "id": "da18a2e0f6fb52933326",
-          "titulo_original": "Trump says warned Macron about consequences of his migration policy",
-          "titulo_es": "Trump dice que advirtió a Macron sobre las consecuencias de su política migratoria",
-          "url": "https://tass.com/world/2207581",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-25T15:55:59+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "US President said French leader, that he is destroying France",
-          "resumen_es": "El presidente de Estados Unidos dijo el líder francés, que está destruyendo Francia"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "Francia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos",
-        "Ámbito: Migración y DD. HH., Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-90fd25d5e400c10fb50f",
-      "fecha": "2026-10-25",
-      "titulo_fuente": "Seven killed in Gaza as Israel targets university campus and other sites",
-      "region": "Oriente Medio",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "90fd25d5e400c10fb50f",
-          "titulo_original": "Seven killed in Gaza as Israel targets university campus and other sites",
-          "titulo_es": "Siete muertos en Gaza como Israel apunta al campus universitario y otros lugares",
-          "url": "https://www.aljazeera.com/news/2026/10/25/seven-killed-in-gaza-as-israel-targets-university-campus-and-other-sites?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-10-25T15:40:25+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Israeli air strike kills three security guards in one of two attacks on the Islamic University in Gaza City.",
-          "resumen_es": "El ataque aéreo israelí mata a tres guardias de seguridad en uno de los dos ataques contra la Universidad Islámica en la ciudad de Gaza."
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera"
-      ],
-      "actores_mencionados": [
-        "Israel",
-        "Palestina"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Israel",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-33ef30747933f683959b",
-      "fecha": "2026-10-25",
-      "titulo_fuente": "Two Indian-American candidates face key U.S. midterm races as early voting begins",
-      "region": "Estados Unidos",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "33ef30747933f683959b",
-          "titulo_original": "Two Indian-American candidates face key U.S. midterm races as early voting begins",
-          "titulo_es": "Dos candidatos indios-americanos se enfrentan a las carreras de mitad de período de EE.UU. clave cuando comienza la votación temprana",
-          "url": "https://www.thehindu.com/news/international/two-indian-american-candidates-face-key-us-midterm-races-as-early-voting-begins/article71624107.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-10-25T15:40:02+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Amish Shah and Pia Dandiya are contesting key races that are crucial for Democrats to flip the U.S. House in the midterm elections on November 3",
-          "resumen_es": "Amish Shah y Pia Dandiya están impugnando carreras clave que son cruciales para que los demócratas desplacen la Casa de los Estados Unidos en las elecciones de mitad de período del 3 de noviembre"
-        }
-      ],
-      "fuentes": [
-        "The Hindu"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "India"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos, India"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-380bd0c9411748a16246",
-      "fecha": "2026-10-25",
-      "titulo_fuente": "EN DIRECT, élection présidentielle au Brésil : les Brésiliens appelés à choisir entre le président sortant, Lula, et le candidat d’extrême droite, Flavio Bolsonaro",
+      "id": "a-3684c21d9f2450171282",
+      "fecha": "2026-10-26",
+      "titulo_fuente": "Daughter of ex-FBI director Comey was unlawfully fired as federal prosecutor, judge rules",
       "region": "Internacional",
       "temas": [
-        "Organismos multilaterales"
-      ],
-      "noticias": [
-        {
-          "id": "380bd0c9411748a16246",
-          "titulo_original": "EN DIRECT, élection présidentielle au Brésil : les Brésiliens appelés à choisir entre le président sortant, Lula, et le candidat d’extrême droite, Flavio Bolsonaro",
-          "titulo_es": "",
-          "url": "https://www.lemonde.fr/international/live/2026/10/25/en-direct-election-presidentielle-au-bresil-les-bresiliens-appeles-a-choisir-entre-le-president-sortant-lula-et-le-candidat-d-extreme-droite-flavio-bolsonaro_6800074_3210.html",
-          "fuente": "Le Monde",
-          "pais": "Francia",
-          "fecha": "2026-10-25T15:27:29+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Près de 160 millions d’électeurs sont appelés aux urnes, dimanche, dans le plus grand pays d’Amérique latine. Le président sortant, Luiz Inacio Lula da Silva, de gauche, et le candidat d’extrême droite, Flavio Bolsonaro, s’affrontent au second tour de l’élection présidentielle brésilienne.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Le Monde"
-      ],
-      "actores_mencionados": [
-        "Brasil"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Institucionalismo liberal",
-        "pregunta": "¿Qué reglas, mecanismos de cooperación y límites institucionales afectan la decisión?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Brasil",
-        "Ámbito: Organismos multilaterales"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-fc2b0f3489b93e82c15c",
-      "fecha": "2026-10-25",
-      "titulo_fuente": "Russia to host first Olympic federation world event since Ukraine invasion",
-      "region": "Rusia-Ucrania",
-      "temas": [
         "Actualidad"
       ],
       "noticias": [
         {
-          "id": "fc2b0f3489b93e82c15c",
-          "titulo_original": "Russia to host first Olympic federation world event since Ukraine invasion",
-          "titulo_es": "Rusia acoge el primer evento mundial de federación olímpica desde la invasión de Ucrania",
-          "url": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News",
-          "pais": "Reino Unido",
-          "fecha": "2026-10-25T14:34:33+00:00",
+          "id": "3684c21d9f2450171282",
+          "titulo_original": "Daughter of ex-FBI director Comey was unlawfully fired as federal prosecutor, judge rules",
+          "titulo_es": "Hija del ex director del FBI Comey fue despedido ilegalmente como fiscal federal, reglas del juez",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3372214/judge-rules-daughter-ex-fbi-director-comey-was-unlawfully-fired-federal-prosecutor",
+          "fuente": "South China Morning Post",
+          "pais": "Hong Kong",
+          "fecha": "2026-10-26T17:58:23+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The International Weightlifting Federation becomes the first Olympic federation to choose Russia to host a world championships since its invasion of Ukraine.",
-          "resumen_es": "La Federación Internacional de Liderazgo se convierte en la primera federación olímpica para elegir Rusia para acoger un campeonato mundial desde su invasión a Ucrania."
+          "resumen_original": "Maurene Comey, the daughter of former FBI Director James Comey, was unlawfully fired from her job as a federal prosecutor in New York last year, a federal judge ruled on Monday. Judge Jesse M Furman said Comey, who was an assistant US attorney for a decade, was illegally fired in July 2025 despite her work on some of the nation’s highest-profile cases and consistently receiving “the highest accolades from supervisors and peers alike”. After her f",
+          "resumen_es": "Maurene Comey, hija del ex director del FBI James Comey, fue despedido ilegalmente de su trabajo como fiscal federal en Nueva York el año pasado, un juez federal falló el lunes. El juez Jesse M Furman dijo que Comey, que era un asistente de US attor"
+        },
+        {
+          "id": "c1ddff7cb393fd4cc006",
+          "titulo_original": "Maurene Comey was illegally fired as federal prosecutor, judge rules",
+          "titulo_es": "Maurene Comey fue despedido ilegalmente como fiscal federal, reglas del juez",
+          "url": "https://www.theguardian.com/us-news/2026/oct/26/maureen-comey-firing-judge-ruling",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-10-26T16:31:05+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Daughter of ex-FBI director James Comey, a Trump foe, was dismissed in 2025 despite her work being widely praised Maurene Comey, the daughter of the former FBI director James Comey, was unlawfully fired from her job as a federal prosecutor in New York last year, a federal judge ruled on Monday. Judge Jesse Furman said that Comey, who was an assistant US attorney for a decade, was illegally fired in July 2025 despite her work on some of the nation",
+          "resumen_es": "La hija del ex director de FBI James Comey, un enemigo de Trump, fue desestimada en 2025 a pesar de que su trabajo fue ampliamente elogiado Maurene Comey, hija del ex director del FBI James Comey, fue despedido ilegalmente de su trabajo como fiscal federal"
         }
       ],
       "fuentes": [
-        "BBC News"
+        "South China Morning Post",
+        "The Guardian"
       ],
       "actores_mencionados": [
-        "Rusia",
-        "Ucrania"
+        "Estados Unidos"
       ],
-      "fuentes_independientes": 1,
+      "fuentes_independientes": 2,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
         "nombre": "Marco por determinar",
@@ -6423,112 +6254,35 @@
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
+      "prioridad_orientativa": 3,
       "motivos_seleccion": [
-        "Actores relevantes: Rusia, Ucrania"
+        "Cobertura de fuentes distintas",
+        "Actores relevantes: Estados Unidos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
     },
     {
-      "id": "a-d4efd0089ed03784231e",
-      "fecha": "2026-10-25",
-      "titulo_fuente": "Migrants in EU see how authorities treat Middle East, do not accept it — Putin",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Migración y DD. HH."
-      ],
-      "noticias": [
-        {
-          "id": "d4efd0089ed03784231e",
-          "titulo_original": "Migrants in EU see how authorities treat Middle East, do not accept it — Putin",
-          "titulo_es": "Los migrantes en la UE ven cómo las autoridades tratan Oriente Medio, no lo aceptan — Putin",
-          "url": "https://tass.com/politics/2207563",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-25T14:17:48+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "This shapes their mindset regarding how they should respond to the actions of the authorities in the country where they currently reside, said Russian leader",
-          "resumen_es": "Esto forma su mentalidad sobre cómo deben responder a las acciones de las autoridades en el país donde residen actualmente, dijo el líder ruso"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Derecho internacional y constructivismo",
-        "pregunta": "¿Qué normas, identidades y obligaciones internacionales invocan los actores?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia",
-        "Ámbito: Migración y DD. HH."
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-ae888aafcdcaed2c398f",
-      "fecha": "2026-10-25",
-      "titulo_fuente": "Qatari mediators visit Tehran as part of de-escalation efforts — Reuters",
-      "region": "Oriente Medio",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "ae888aafcdcaed2c398f",
-          "titulo_original": "Qatari mediators visit Tehran as part of de-escalation efforts — Reuters",
-          "titulo_es": "Los mediadores qatarí visitan Teherán como parte de los esfuerzos de descalificación — Reuters",
-          "url": "https://tass.com/world/2207557",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-25T14:16:12+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The visit was part of efforts toward deescalating the conflict in the Middle East",
-          "resumen_es": "La visita formó parte de los esfuerzos para reducir el conflicto en el Oriente Medio"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Irán"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Irán",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-e7ed93f8fccf034b988d",
+      "id": "a-b63e496ea127b23a5e2b",
       "fecha": "2026-10-26",
-      "titulo_fuente": "Walter Koenig, Star Trek’s original Pavel Chekov, dies at 90",
-      "region": "Rusia-Ucrania",
+      "titulo_fuente": "Muere Walter Koenig, el Chekov original de ‘Star Trek’",
+      "region": "Estados Unidos",
       "temas": [
         "Actualidad"
       ],
       "noticias": [
+        {
+          "id": "b63e496ea127b23a5e2b",
+          "titulo_original": "Muere Walter Koenig, el Chekov original de ‘Star Trek’",
+          "titulo_es": "",
+          "url": "https://elpais.com/television/2026-10-26/muere-walter-koenig-el-chekov-original-de-star-trek.html",
+          "fuente": "El País",
+          "pais": "España",
+          "fecha": "2026-10-26T17:38:48+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "El actor falleció este domingo en Los Ángeles, a los 90 años y por causas naturales, han confirmado sus representantes en un comunicado",
+          "resumen_es": ""
+        },
         {
           "id": "e7ed93f8fccf034b988d",
           "titulo_original": "Walter Koenig, Star Trek’s original Pavel Chekov, dies at 90",
@@ -6540,23 +6294,11 @@
           "estado": "publicación periodística; corroboración pendiente",
           "resumen_original": "Actor Walter Koenig, who played Ensign Pavel Chekov, the youthful Russian navigator on the Star Trek television series and several films, has died. He was 90. Koenig died on Monday at his home in the North Hollywood neighbourhood of Los Angeles, talent agent Zachery McGinnis said in a statement. In Star Trek, Ensign Chekov was the sole Communist-bloc member of the spaceship Enterprise bridge staff. His friendly, supportive presence showed how the",
           "resumen_es": "Actor Walter Koenig, que interpretó al alférez Pavel Chekov, el joven navegante ruso en la serie de televisión Star Trek y varias películas, ha muerto. Tenía 90 años. Koenig murió el lunes en su casa en el barrio de North Hollywood en Los Ang"
-        },
-        {
-          "id": "6231f1d0f9e04a428daa",
-          "titulo_original": "Walter Koenig, actor best known as Chekov on Star Trek, dies aged 90",
-          "titulo_es": "Walter Koenig, actor más conocido como Chekov en Star Trek, muere de 90 años",
-          "url": "https://www.theguardian.com/culture/2026/oct/26/walter-koenig-actor-star-trek-dies",
-          "fuente": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-10-26T17:18:59+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The actor appeared in the cult 1960s show as well as many of the films but also worked as a writer Walter Koenig, the actor known for playing Pavel Chekov throughout the Star Trek franchise, has died, his representative confirmed to the Hollywood Reporter . He was 90. Koenig died at his home in north Hollywood surrounded by his daughter and niece, according to a Facebook post by Zachery McGinnis, the founder of Galactic Productions, an appearance",
-          "resumen_es": "El actor apareció en el show del culto de los años 60, así como muchas de las películas, pero también trabajó como escritor Walter Koenig, el actor conocido por jugar Pavel Chekov a través de la franquicia Star Trek, ha muerto, su representante confirmó al Hol"
         }
       ],
       "fuentes": [
-        "South China Morning Post",
-        "The Guardian"
+        "El País",
+        "South China Morning Post"
       ],
       "actores_mencionados": [
         "Rusia"
@@ -6574,6 +6316,64 @@
       "motivos_seleccion": [
         "Cobertura de fuentes distintas",
         "Actores relevantes: Rusia"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-c2117e1e2fee6b9b0107",
+      "fecha": "2026-10-26",
+      "titulo_fuente": "How Lula beat far-right Bolsonaro in Brazil – The Latest",
+      "region": "América Latina",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "c2117e1e2fee6b9b0107",
+          "titulo_original": "How Lula beat far-right Bolsonaro in Brazil – The Latest",
+          "titulo_es": "Cómo Lula venció a Bolsonaro de extrema derecha en Brasil – Las últimas",
+          "url": "https://www.theguardian.com/news/audio/2026/oct/26/how-lula-beat-far-right-bolsonaro-in-brazil-the-latest",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-10-26T17:38:16+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Brazil’s Luiz Inácio Lula da Silva has won a historic fourth term as president, defeating the far-right candidate Flávio Bolsonaro in a dramatic comeback. Lula is the first candidate to win a runoff election after losing in the first round, taking victory with 51.79% of the vote to his rival’s 48.21%. His win bucks a regional trend, after the son of the former president Jair Bolsonaro had spearheaded a radical populist movement. But with Flávio B",
+          "resumen_es": "Luiz Inácio Lula da Silva ha ganado un cuarto mandato histórico como presidente, derrotando al candidato de extrema derecha Flávio Bolsonaro en un dramático regreso. Lula es el primer candidato para ganar unas elecciones después de perder en la primera ronda,"
+        },
+        {
+          "id": "9749e394fa91acfe6a1c",
+          "titulo_original": "How did Lula beat Bolsonaro after losing Brazil’s first-round election?",
+          "titulo_es": "",
+          "url": "https://www.aljazeera.com/news/2026/10/26/how-did-lula-beat-bolsonaro-after-losing-brazils-first-round-election?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-10-26T13:02:22+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Brazil's president secured a historic fourth term after overturning a first-round defeat.",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera",
+        "The Guardian"
+      ],
+      "actores_mencionados": [
+        "Brasil"
+      ],
+      "fuentes_independientes": 2,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 3,
+      "motivos_seleccion": [
+        "Cobertura de fuentes distintas",
+        "Actores relevantes: Brasil"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6693,29 +6493,113 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-bd0675170fc98616bdda",
+      "id": "a-573a1e8e76930aac8a9b",
       "fecha": "2026-10-26",
-      "titulo_fuente": "Global LNG exports may grow by 50% above 2025 year level — Kremlin aide",
+      "titulo_fuente": "Southern California prepares for flooding amid forecast of ‘record-breaking tides’",
       "region": "Internacional",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "573a1e8e76930aac8a9b",
+          "titulo_original": "Southern California prepares for flooding amid forecast of ‘record-breaking tides’",
+          "titulo_es": "El sur de California se prepara para inundar en medio del pronóstico de las mareas que rompen la grabación ’",
+          "url": "https://www.theguardian.com/us-news/2026/oct/26/southern-california-flooding-tides",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-10-26T18:39:27+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Residents of coastal towns told to avoid beaches during high tides and keep further away from the ocean than usual Southern California coastal communities are preparing for days of flooding amid potentially “record-breaking tides” this week. The National Weather Service warned that significant coastal flooding was expected in San Diego and Orange counties through Thursday that could close roads and inundate homes, businesses and critical infrastr",
+          "resumen_es": "Los residentes de las ciudades costeras dijeron que evitaran las playas durante las mareas altas y se mantengan alejados del océano de lo habitual que las comunidades costeras del sur de California se están preparando para días de inundación en medio de mareas potencialmente “rompidas” esta semana"
+        }
+      ],
+      "fuentes": [
+        "The Guardian"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-26a1023bcad3615677ab",
+      "fecha": "2026-10-26",
+      "titulo_fuente": "En Crète, quinze mineurs soudanais accusés d’être des passeurs sont acquittés",
+      "region": "Internacional",
+      "temas": [
+        "Migración y DD. HH."
+      ],
+      "noticias": [
+        {
+          "id": "26a1023bcad3615677ab",
+          "titulo_original": "En Crète, quinze mineurs soudanais accusés d’être des passeurs sont acquittés",
+          "titulo_es": "",
+          "url": "https://www.lemonde.fr/international/article/2026/10/26/en-crete-quinze-mineurs-soudanais-accuses-d-etre-des-passeurs-sont-acquittes_6800829_3210.html",
+          "fuente": "Le Monde",
+          "pais": "Francia",
+          "fecha": "2026-10-26T18:30:02+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Dans la loi grecque, tout migrant accusé d’avoir conduit un canot ou un véhicule transportant d’autres migrants encourt une peine minimale de dix ans de prison. Alors que les arrivées depuis la Libye ne cessent d’augmenter depuis quelques années, de plus en plus de migrants en subissent les conséquences.",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "Le Monde"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Derecho internacional y constructivismo",
+        "pregunta": "¿Qué normas, identidades y obligaciones internacionales invocan los actores?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Migración y DD. HH."
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-cc9ebc9993bad9b93572",
+      "fecha": "2026-10-26",
+      "titulo_fuente": "Matthew Jackson: “Las amistades de una persona tienen una enorme influencia en sus resultados económicos, más que los propios padres”",
+      "region": "Estados Unidos",
       "temas": [
         "Comercio y finanzas"
       ],
       "noticias": [
         {
-          "id": "bd0675170fc98616bdda",
-          "titulo_original": "Global LNG exports may grow by 50% above 2025 year level — Kremlin aide",
-          "titulo_es": "Las exportaciones mundiales de GNL pueden crecer en un 50% por encima del nivel de 2025 años — Kremlin aide",
-          "url": "https://tass.com/economy/2208219",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-26T17:20:58+00:00",
+          "id": "cc9ebc9993bad9b93572",
+          "titulo_original": "Matthew Jackson: “Las amistades de una persona tienen una enorme influencia en sus resultados económicos, más que los propios padres”",
+          "titulo_es": "",
+          "url": "https://elpais.com/espana/catalunya/2026-10-26/matthew-jackson-catedratico-de-stanford-las-amistades-de-una-persona-tienen-una-enorme-influencia-en-sus-resultados-economicos.html",
+          "fuente": "El País",
+          "pais": "España",
+          "fecha": "2026-10-26T18:25:07+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "According to estimates, its global exports may reach 650 mln cubic meters during the next 5-10 years",
-          "resumen_es": "Según estimaciones, sus exportaciones mundiales pueden alcanzar 650 mln de metros cúbicos durante los próximos 5-10 años"
+          "resumen_original": "La UAB nombra doctor ‘honoris causa’ al economista y catedrático de Stanford por su contribución al análisis de las desigualdades",
+          "resumen_es": ""
         }
       ],
       "fuentes": [
-        "TASS"
+        "El País"
       ],
       "actores_mencionados": [],
       "fuentes_independientes": 1,
@@ -6735,135 +6619,67 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-7986f1ecd60606f48789",
+      "id": "a-9def4c2f226a36ed56d0",
       "fecha": "2026-10-26",
-      "titulo_fuente": "Agriculture is key area of cooperation between Russia, Africa — Kremlin aide",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "7986f1ecd60606f48789",
-          "titulo_original": "Agriculture is key area of cooperation between Russia, Africa — Kremlin aide",
-          "titulo_es": "La agricultura es una esfera clave de cooperación entre Rusia, África — Kremlin aide",
-          "url": "https://tass.com/economy/2208215",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-26T17:10:41+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Russian mineral fertilizer supplies climbed above 2.2 mln metric tons in 2026, Yury Ushakov said",
-          "resumen_es": "fertilizantes minerales rusos subió por encima de 2,2 mln toneladas métricas en 2026, Yury Ushakov dijo"
-        },
-        {
-          "id": "53101fcfc888f30c4512",
-          "titulo_original": "Putin to focus on priorities for Russia-Africa cooperation at UN — Kremlin aide",
-          "titulo_es": "",
-          "url": "https://tass.com/politics/2208181",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-26T16:28:55+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The Russian president will also discuss joint projects and initiatives currently underway in African countries - covering trade, the economy, cultural and humanitarian ties, and educational exchanges",
-          "resumen_es": ""
-        },
-        {
-          "id": "1c58ccf5d29f8a3280d9",
-          "titulo_original": "Goal of Russia - Africa summit is to expand cooperation — Kremlin aide",
-          "titulo_es": "Objetivo de Rusia - Cumbre de África es ampliar la cooperación - Kremlin aide",
-          "url": "https://tass.com/politics/2208175",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-26T16:25:10+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The summit testifies to the special importance that Russia attaches to its relations with African states, Yury Ushakov said",
-          "resumen_es": "La cumbre da testimonio de la importancia especial que Rusia atribuye a sus relaciones con los estados africanos, dijo Yury Ushakov"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-d74ac0f92f585bf6879f",
-      "fecha": "2026-10-26",
-      "titulo_fuente": "Natural gas demand to grow by 28% by 2055 — Kremlin aide",
-      "region": "Internacional",
-      "temas": [
-        "Energía y clima"
-      ],
-      "noticias": [
-        {
-          "id": "d74ac0f92f585bf6879f",
-          "titulo_original": "Natural gas demand to grow by 28% by 2055 — Kremlin aide",
-          "titulo_es": "Demanda de gas natural para crecer en un 28% en 2055 - Kremlin aide",
-          "url": "https://tass.com/economy/2208209",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-26T17:03:03+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "In view of the growing demand for the natural gas globally, it will grow, according to forecasts, from 4.2 trillion cubic meters at present to 5.4 trillion cubic meters, Yury Ushakov said",
-          "resumen_es": "En vista de la creciente demanda del gas natural a nivel mundial, crecerá, según las previsiones, de 4.2 billones de metros cúbicos en la actualidad a 5.4 billones de metros cúbicos, Yury Ushakov dijo"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia y gobernanza global",
-        "pregunta": "¿Cómo se distribuyen los costos de coordinación y los incentivos para cooperar?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Energía y clima"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-92ec52320879dd0d1046",
-      "fecha": "2026-10-26",
-      "titulo_fuente": "‘You are set up to fail’: homeless people say system in England is broken and they need help",
-      "region": "Internacional",
+      "titulo_fuente": "Ebola patient evacuated from Nigeria to Switzerland",
+      "region": "África",
       "temas": [
         "Diplomacia"
       ],
       "noticias": [
         {
-          "id": "92ec52320879dd0d1046",
-          "titulo_original": "‘You are set up to fail’: homeless people say system in England is broken and they need help",
-          "titulo_es": "‘Estás preparado para fracasar’: las personas sin hogar dicen que el sistema en Inglaterra está roto y necesitan ayuda",
-          "url": "https://www.theguardian.com/society/2026/oct/26/homeless-people-summit-andy-burnham-need-help",
+          "id": "9def4c2f226a36ed56d0",
+          "titulo_original": "Ebola patient evacuated from Nigeria to Switzerland",
+          "titulo_es": "El paciente de Ébola fue evacuado de Nigeria a Suiza",
+          "url": "https://www.scmp.com/news/world/africa/article/3372215/ebola-patient-evacuated-nigeria-switzerland",
+          "fuente": "South China Morning Post",
+          "pais": "Hong Kong",
+          "fecha": "2026-10-26T18:21:42+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "⁠A woman infected with ⁠the Ebola virus and her husband, a ⁠Swiss diplomat, were flown from Nigeria to hospitals in Switzerland on Monday, Swiss authorities said. The Ugandan-born wife of the diplomat, based in Abuja, was being treated at Geneva University Hospitals for the Bundibugyo strain of Ebola, which has caused an outbreak that started in Democratic ‌Republic of Congo. Her husband, considered a close contact, was in isolation at University",
+          "resumen_es": "⁠ Una mujer infectada con el virus del Ébola y su marido, diplomático de ⁠Swiss, fueron transportadas de Nigeria a hospitales en Suiza el lunes, dijeron las autoridades suizas. The Ugandan-born wife of the diplomat, based in Abuja, was being treated at G"
+        }
+      ],
+      "fuentes": [
+        "South China Morning Post"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Diplomacia"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-bdabcd2d71d3e11da457",
+      "fecha": "2026-10-26",
+      "titulo_fuente": "No 10 clarifies Andy Burnham’s stance on freedom of movement",
+      "region": "Europa",
+      "temas": [
+        "Diplomacia"
+      ],
+      "noticias": [
+        {
+          "id": "bdabcd2d71d3e11da457",
+          "titulo_original": "No 10 clarifies Andy Burnham’s stance on freedom of movement",
+          "titulo_es": "No 10 clarifica La postura de Andy Burnham sobre la libertad de movimiento",
+          "url": "https://www.theguardian.com/politics/2026/oct/26/andy-burnham-brexit-eu-freedom-of-movement",
           "fuente": "The Guardian",
           "pais": "Reino Unido",
-          "fecha": "2026-10-26T17:02:20+00:00",
+          "fecha": "2026-10-26T18:03:46+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "As Andy Burnham hosts a rough sleeper summit, frustration mounts over ‘ridiculous bureaucracy’ and lack of hostel places Martin Fletcher had been homeless for more than 20 years after being made redundant before he finally got accommodation in Sunderland in 2024. What was the one thing that finally ended his rough sleeping and sofa surfing? “My mindset, mainly,” the 61-year-old said. “The realisation that I was getting old and I couldn’t live lik",
-          "resumen_es": "Mientras Andy Burnham acoge una dura cumbre de durmiente, la frustración aumenta sobre la \"burocracia ridícula\" y la falta de albergues Martin Fletcher había estado sin hogar durante más de 20 años después de ser despedido antes de que finalmente consiguió alojamiento"
+          "resumen_original": "Clarification comes after PM fuelled speculation about EU-UK relationship in series of interviews at weekend Downing Street has been forced to clarify Andy Burnham’s stance on whether the UK would return to having freedom of movement with the EU after the prime minister said an “honest discussion” was needed on the issue. Burnham fuelled speculation about a return to freedom of movement in an interview at the weekend, prompting questions about ho",
+          "resumen_es": "La aclaración viene después de que PM alimentó la especulación sobre la relación UE-Reino Unido en serie de entrevistas el fin de semana Downing Street ha sido forzado a aclarar la postura de Andy Burnham sobre si el Reino Unido volvería a tener libertad de movimiento con t"
         }
       ],
       "fuentes": [
@@ -6887,45 +6703,217 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-fec0a87ba16bd90be8dc",
+      "id": "a-a3bad663dfb103045910",
       "fecha": "2026-10-26",
-      "titulo_fuente": "Au Royaume-Uni, 160 personnalités dénoncent l’« absurdité répressive » d’une loi antiterrorisme qui a conduit au retrait du marché des livres de Sally Rooney",
-      "region": "Oriente Medio",
+      "titulo_fuente": "US midterm elections 2026 in maps and charts",
+      "region": "Estados Unidos",
       "temas": [
-        "Comercio y finanzas"
+        "Actualidad"
       ],
       "noticias": [
         {
-          "id": "fec0a87ba16bd90be8dc",
-          "titulo_original": "Au Royaume-Uni, 160 personnalités dénoncent l’« absurdité répressive » d’une loi antiterrorisme qui a conduit au retrait du marché des livres de Sally Rooney",
-          "titulo_es": "",
-          "url": "https://www.lemonde.fr/international/article/2026/10/26/au-royaume-uni-160-personnalites-denoncent-l-absurdite-repressive-d-une-loi-antiterrorisme-qui-a-conduit-au-retrait-du-marche-des-livres-de-sally-rooney_6800817_3210.html",
-          "fuente": "Le Monde",
-          "pais": "Francia",
-          "fecha": "2026-10-26T17:00:21+00:00",
+          "id": "a3bad663dfb103045910",
+          "titulo_original": "US midterm elections 2026 in maps and charts",
+          "titulo_es": "Elecciones de mitad de período de Estados Unidos 2026 en mapas y gráficos",
+          "url": "https://www.aljazeera.com/news/2026/10/26/us-midterm-elections-2026-in-maps-and-charts?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-10-26T18:00:07+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Alors que le financement d’une organisation interdite dans le cadre de la lutte contre le terrorisme est passible de poursuites outre-Manche, la romancière irlandaise soutient Palestine Action, interdite dans ce cadre.",
-          "resumen_es": ""
+          "resumen_original": "On November 3, Americans decide which party controls the US Congress for the second half of Donald Trump's presidency.",
+          "resumen_es": "El 3 de noviembre, los estadounidenses deciden qué partido controla el Congreso de Estados Unidos para la segunda mitad de la presidencia de Donald Trump."
         }
       ],
       "fuentes": [
-        "Le Monde"
+        "Al Jazeera"
       ],
       "actores_mencionados": [
-        "Palestina"
+        "Estados Unidos"
       ],
       "fuentes_independientes": 1,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
-        "nombre": "Interdependencia compleja y economía política internacional",
-        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
       },
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
-        "Ámbito: Comercio y finanzas"
+        "Actores relevantes: Estados Unidos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-eab489579de09e105aa7",
+      "fecha": "2026-10-26",
+      "titulo_fuente": "Zelenskyy says peace talks with Russia, US to restart",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "eab489579de09e105aa7",
+          "titulo_original": "Zelenskyy says peace talks with Russia, US to restart",
+          "titulo_es": "Zelenskyy dice conversaciones de paz con Rusia, Estados Unidos para reiniciar",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/zelenskyy-says-peace-talks-with-russia-us-to-restart?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-10-26T17:58:14+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Zelenskyy says peace talks with Russia, US to restart",
+          "resumen_es": "Zelenskyy dice conversaciones de paz con Rusia, Estados Unidos para reiniciar"
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [
+        "Rusia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-c313b5013d9e16dcdb8d",
+      "fecha": "2026-10-26",
+      "titulo_fuente": "How the streets and social media drove Lula to a historic comeback in Brazil",
+      "region": "América Latina",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "c313b5013d9e16dcdb8d",
+          "titulo_original": "How the streets and social media drove Lula to a historic comeback in Brazil",
+          "titulo_es": "Cómo las calles y las redes sociales llevaron a Lula a un regreso histórico en Brasil",
+          "url": "https://www.theguardian.com/world/2026/oct/26/lula-victory-brazil-bolsonaro-analysis",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-10-26T17:56:50+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "A viral WhatsApp channel and student-led protests played a key role in the veteran Brazilian leftist’s election victory After the first round of the Brazilian presidential election three weeks ago, the leftist incumbent Luiz Inácio Lula da Silva reportedly told allies he could not understand how he finished second after a government he considered the best of his three terms. A mood of dismay swept Brazil’s left, and because 9 million voters for t",
+          "resumen_es": "Un canal de WhatsApp viral y protestas dirigidas por estudiantes jugaron un papel clave en la victoria electoral del veterano izquierdista brasileño Después de la primera vuelta de las elecciones presidenciales brasileñas hace tres semanas, el titular de izquierda Luiz Inácio Lula da"
+        }
+      ],
+      "fuentes": [
+        "The Guardian"
+      ],
+      "actores_mencionados": [
+        "Brasil"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Brasil"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-2032f8eac2235f1079de",
+      "fecha": "2026-10-26",
+      "titulo_fuente": "Algeria’s president orders troop deployment to neighbouring Niger",
+      "region": "Internacional",
+      "temas": [
+        "Energía y clima"
+      ],
+      "noticias": [
+        {
+          "id": "2032f8eac2235f1079de",
+          "titulo_original": "Algeria’s president orders troop deployment to neighbouring Niger",
+          "titulo_es": "El presidente de Argelia ordena el despliegue de tropas al vecino Níger",
+          "url": "https://www.aljazeera.com/news/2026/10/26/algerias-president-orders-troop-deployment-to-neighbouring-niger?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-10-26T17:55:47+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Niger requested troops to secure shared energy interests in what would be Algeria’s first deployment abroad since 1973.",
+          "resumen_es": "Níger pidió a las tropas que aseguraran intereses energéticos compartidos en lo que sería el primer despliegue de Argelia en el extranjero desde 1973."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia y gobernanza global",
+        "pregunta": "¿Cómo se distribuyen los costos de coordinación y los incentivos para cooperar?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Energía y clima"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-982da300cefebf222aed",
+      "fecha": "2026-10-26",
+      "titulo_fuente": "Jury selected for trial of four accused of sexually assaulting man’s drugged ex-wife",
+      "region": "Internacional",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "982da300cefebf222aed",
+          "titulo_original": "Jury selected for trial of four accused of sexually assaulting man’s drugged ex-wife",
+          "titulo_es": "Jurado seleccionado para el juicio de cuatro acusados de agresión sexual de la ex esposa drogada",
+          "url": "https://www.theguardian.com/uk-news/2026/oct/26/jury-selected-for-trial-of-four-accused-of-sexually-assaulting-mans-drugged-ex-wife",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-10-26T17:51:03+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Mr Justice Saini tells the eight men and six women at Winchester crown court the case is likely to be upsetting Jurors being selected for the trial of four men accused of sexually assaulting the ex-wife of a former Conservative councillor, who has admitted repeatedly drugging and raping her, have been warned the case is likely to be upsetting. Philip Young, 50, has pleaded guilty to multiple charges of abuse against his former wife, Joanne Young,",
+          "resumen_es": "Mr Justice Saini le dice a los ocho hombres y seis mujeres en el tribunal de la corona Winchester que es probable que el caso esté molestando a Jurors siendo seleccionados para el juicio de cuatro hombres acusados de agresión sexual a la ex esposa de un ex consejero conservador,"
+        }
+      ],
+      "fuentes": [
+        "The Guardian"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
