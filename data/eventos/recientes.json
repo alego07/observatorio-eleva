@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-10-26T17:24:28.952741+00:00",
+  "created_utc": "2026-10-26T17:41:38.640985+00:00",
   "events": [
     {
       "id": "a-86f5e656aba371a3c485",
@@ -294,6 +294,53 @@
       "motivos_seleccion": [
         "Cobertura de fuentes distintas",
         "Actores relevantes: Estados Unidos, Irán, Israel",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-34f6ebc639e8d463b2e6",
+      "fecha": "2026-10-26",
+      "titulo_fuente": "Russia says open to mini Ukraine ceasefires, but no letup in war",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "34f6ebc639e8d463b2e6",
+          "titulo_original": "Russia says open to mini Ukraine ceasefires, but no letup in war",
+          "titulo_es": "Rusia dice que está abierta para minimizar las cesaciones de Ucrania, pero no hay desvío en la guerra",
+          "url": "https://www.thehindu.com/news/international/russia-says-open-to-mini-ukraine-ceasefires-but-no-let-up-in-war/article71628518.ece",
+          "fuente": "The Hindu",
+          "pais": "India",
+          "fecha": "2026-10-26T17:28:04+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "A ceasefire is to start in the southern Ukrainian city early October 27, brokered by U.S. First Lady Melania Trump after months of reports that residents faced dire food, water and medicine shortages",
+          "resumen_es": "Una cesación del fuego es comenzar en la ciudad ucraniana del sur a principios del 27 de octubre, corregida por la Primera Dama de EE.UU. Melania Trump después de meses de informes que los residentes enfrentaban escasez de alimentos, agua y medicinas."
+        }
+      ],
+      "fuentes": [
+        "The Hindu"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Rusia",
+        "Ucrania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos, Rusia, Ucrania",
         "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
@@ -2215,6 +2262,52 @@
       "motivos_seleccion": [
         "Actores relevantes: Estados Unidos, India, Rusia",
         "Ámbito: Comercio y finanzas"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-d6fd8ebf8ac138ea62a9",
+      "fecha": "2026-10-26",
+      "titulo_fuente": "We must protect and build on 30 years of work supporting the protection of children in conflicts: UK statement at the UN Security Council",
+      "region": "Europa",
+      "temas": [
+        "Seguridad y conflictos",
+        "Organismos multilaterales"
+      ],
+      "noticias": [
+        {
+          "id": "d6fd8ebf8ac138ea62a9",
+          "titulo_original": "We must protect and build on 30 years of work supporting the protection of children in conflicts: UK statement at the UN Security Council",
+          "titulo_es": "Debemos proteger y aprovechar los 30 años de trabajo que apoyan la protección de los niños en los conflictos: declaración del Reino Unido en el Consejo de Seguridad de las Naciones Unidas",
+          "url": "https://www.gov.uk/government/speeches/we-must-protect-and-build-on-30-years-of-work-supporting-the-protection-of-children-in-conflicts-uk-statement-at-the-un-security-council",
+          "fuente": "GOV.UK FCDO",
+          "pais": "Reino Unido",
+          "fecha": "2026-10-26T17:27:21+00:00",
+          "estado": "declaración de la fuente; corroboración independiente pendiente",
+          "resumen_original": "Statement by Ambassador Sarah MacIntosh, UK Permanent Representative to the UN, at the UN Security Council meeting on Children and Armed Conflict.",
+          "resumen_es": "Declaración de la Embajadora Sarah MacIntosh, Representante Permanente del Reino Unido ante las Naciones Unidas, en la reunión del Consejo de Seguridad sobre los niños y los conflictos armados."
+        }
+      ],
+      "fuentes": [
+        "GOV.UK FCDO"
+      ],
+      "actores_mencionados": [
+        "ONU"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: ONU",
+        "Ámbito: Organismos multilaterales, Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6428,138 +6521,59 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-977237cb934e70841f31",
-      "fecha": "2026-10-25",
-      "titulo_fuente": "Decline in industrial production in Europe since 2021 has been dramatic — Putin",
+      "id": "a-e7ed93f8fccf034b988d",
+      "fecha": "2026-10-26",
+      "titulo_fuente": "Walter Koenig, Star Trek’s original Pavel Chekov, dies at 90",
       "region": "Rusia-Ucrania",
       "temas": [
-        "Comercio y finanzas"
+        "Actualidad"
       ],
       "noticias": [
         {
-          "id": "977237cb934e70841f31",
-          "titulo_original": "Decline in industrial production in Europe since 2021 has been dramatic — Putin",
-          "titulo_es": "El descenso de la producción industrial en Europa desde 2021 ha sido dramático — Putin",
-          "url": "https://tass.com/politics/2207555",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-25T14:13:48+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "In Germany, the continent’s primary economy, the drop ranges from 1.5% to 5.2%, underlinded Russian president",
-          "resumen_es": "En Alemania, la economía primaria del continente, la caída oscila entre el 1,5% y el 5,2%, bajo el liderazgo ruso"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia",
-        "Alemania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia compleja y economía política internacional",
-        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia",
-        "Ámbito: Comercio y finanzas"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-f81074a2dd1a248bfdfb",
-      "fecha": "2026-10-25",
-      "titulo_fuente": "Bangladesh per capita GDP forecast to outstrip India’s: What does it mean?",
-      "region": "Asia-Pacífico",
-      "temas": [
-        "Comercio y finanzas"
-      ],
-      "noticias": [
-        {
-          "id": "f81074a2dd1a248bfdfb",
-          "titulo_original": "Bangladesh per capita GDP forecast to outstrip India’s: What does it mean?",
-          "titulo_es": "Previsión del PIB per cápita de Bangladesh para superar la India: ¿Qué significa?",
-          "url": "https://www.aljazeera.com/news/2026/10/25/bangladesh-per-capita-gdp-forecast-to-outstrip-indias-what-does-it-mean?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-10-25T14:11:29+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Bangladesh expected to surpass India's per capita GDP this year, but that's not the complete economic picture.",
-          "resumen_es": "Bangladesh esperaba superar el PIB per cápita de la India este año, pero ese no es el panorama económico completo."
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera"
-      ],
-      "actores_mencionados": [
-        "India"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia compleja y economía política internacional",
-        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: India",
-        "Ámbito: Comercio y finanzas"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-21d705a04b8bc65ebdce",
-      "fecha": "2026-10-25",
-      "titulo_fuente": "Eye on China: Japan reopens taboo debate over nuclear-powered submarines",
-      "region": "China",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "21d705a04b8bc65ebdce",
-          "titulo_original": "Eye on China: Japan reopens taboo debate over nuclear-powered submarines",
-          "titulo_es": "Ojo sobre China: Japón reabre el debate tabú sobre submarinos con energía nuclear",
-          "url": "https://www.scmp.com/news/china/military/article/3372066/eye-china-japan-reopens-taboo-debate-over-nuclear-powered-submarines",
+          "id": "e7ed93f8fccf034b988d",
+          "titulo_original": "Walter Koenig, Star Trek’s original Pavel Chekov, dies at 90",
+          "titulo_es": "Walter Koenig, el original Pavel Chekov de Star Trek, muere a 90",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3372213/walter-koenig-star-treks-original-pavel-chekov-dies-90",
           "fuente": "South China Morning Post",
           "pais": "Hong Kong",
-          "fecha": "2026-10-25T14:00:10+00:00",
+          "fecha": "2026-10-26T17:25:02+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "With China flexing its naval power across the Pacific and bilateral tensions running high, Japanese Prime Minister Sanae Takaichi is weighing a move long viewed as taboo – nuclear-powered submarines for the Maritime Self-Defence Force fleet. “We will seriously consider [the possibility] in a concrete and realistic manner,” Takaichi told the Japanese parliament on October 14. Yet with Tokyo set to revise its core security documents by year’s end, ",
-          "resumen_es": "Con China flexionando su poder naval a través del Pacífico y las tensiones bilaterales que corren alto, el primer ministro japonés Sanae Takaichi está pesando un movimiento visto desde hace mucho tiempo como submarinos con energía nuclear para la flota de la Fuerza Marítima de Autodefensa"
+          "resumen_original": "Actor Walter Koenig, who played Ensign Pavel Chekov, the youthful Russian navigator on the Star Trek television series and several films, has died. He was 90. Koenig died on Monday at his home in the North Hollywood neighbourhood of Los Angeles, talent agent Zachery McGinnis said in a statement. In Star Trek, Ensign Chekov was the sole Communist-bloc member of the spaceship Enterprise bridge staff. His friendly, supportive presence showed how the",
+          "resumen_es": "Actor Walter Koenig, que interpretó al alférez Pavel Chekov, el joven navegante ruso en la serie de televisión Star Trek y varias películas, ha muerto. Tenía 90 años. Koenig murió el lunes en su casa en el barrio de North Hollywood en Los Ang"
+        },
+        {
+          "id": "6231f1d0f9e04a428daa",
+          "titulo_original": "Walter Koenig, actor best known as Chekov on Star Trek, dies aged 90",
+          "titulo_es": "Walter Koenig, actor más conocido como Chekov en Star Trek, muere de 90 años",
+          "url": "https://www.theguardian.com/culture/2026/oct/26/walter-koenig-actor-star-trek-dies",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-10-26T17:18:59+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The actor appeared in the cult 1960s show as well as many of the films but also worked as a writer Walter Koenig, the actor known for playing Pavel Chekov throughout the Star Trek franchise, has died, his representative confirmed to the Hollywood Reporter . He was 90. Koenig died at his home in north Hollywood surrounded by his daughter and niece, according to a Facebook post by Zachery McGinnis, the founder of Galactic Productions, an appearance",
+          "resumen_es": "El actor apareció en el show del culto de los años 60, así como muchas de las películas, pero también trabajó como escritor Walter Koenig, el actor conocido por jugar Pavel Chekov a través de la franquicia Star Trek, ha muerto, su representante confirmó al Hol"
         }
       ],
       "fuentes": [
-        "South China Morning Post"
+        "South China Morning Post",
+        "The Guardian"
       ],
       "actores_mencionados": [
-        "China",
-        "Japón"
+        "Rusia"
       ],
-      "fuentes_independientes": 1,
+      "fuentes_independientes": 2,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
       },
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
+      "prioridad_orientativa": 3,
       "motivos_seleccion": [
-        "Actores relevantes: China",
-        "Ámbito: Seguridad y conflictos"
+        "Cobertura de fuentes distintas",
+        "Actores relevantes: Rusia"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null

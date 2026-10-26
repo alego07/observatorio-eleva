@@ -1,17 +1,33 @@
 {
-  "actualizado_utc": "2026-10-26T17:24:29.015588+00:00",
+  "actualizado_utc": "2026-10-26T17:41:38.684316+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 739,
-      "nuevas_24h": 80,
+      "cantidad_archivada": 741,
+      "nuevas_24h": 81,
       "anteriores_24h": 50,
       "dias_con_registros": 11,
-      "fecha_ultima": "2026-10-26T17:10:41+00:00",
+      "fecha_ultima": "2026-10-26T17:28:04+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "34f6ebc639e8d463b2e6",
+          "fecha": "2026-10-26T17:28:04+00:00",
+          "titulo": "Russia says open to mini Ukraine ceasefires, but no letup in war",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/russia-says-open-to-mini-ukraine-ceasefires-but-no-let-up-in-war/article71628518.ece",
+          "traducida": false
+        },
+        {
+          "id": "e7ed93f8fccf034b988d",
+          "fecha": "2026-10-26T17:25:02+00:00",
+          "titulo": "Walter Koenig, Star Trek’s original Pavel Chekov, dies at 90",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3372213/walter-koenig-star-treks-original-pavel-chekov-dies-90",
+          "traducida": false
+        },
         {
           "id": "7986f1ecd60606f48789",
           "fecha": "2026-10-26T17:10:41+00:00",
@@ -235,22 +251,6 @@
           "fuente": "TASS",
           "url": "https://tass.com/world/2207979",
           "traducida": false
-        },
-        {
-          "id": "2cc910be933e3f0a2163",
-          "fecha": "2026-10-26T14:29:42+00:00",
-          "titulo": "Ukraine forced to ask partners for just a few air defense missiles — Air Force",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2207993",
-          "traducida": false
-        },
-        {
-          "id": "a2ee29f2323c9a43c4e0",
-          "fecha": "2026-10-26T14:23:02+00:00",
-          "titulo": "Russia against forced evacuation, hope for deal compliance: Alyoshki situation",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2207981",
-          "traducida": false
         }
       ]
     },
@@ -258,8 +258,8 @@
       "id": "oriente-medio",
       "titulo": "Oriente Medio: seguridad y diplomacia",
       "cantidad_archivada": 438,
-      "nuevas_24h": 60,
-      "anteriores_24h": 64,
+      "nuevas_24h": 59,
+      "anteriores_24h": 65,
       "dias_con_registros": 11,
       "fecha_ultima": "2026-10-26T17:01:24+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -763,7 +763,7 @@
       "titulo": "Unión Europea y relaciones exteriores",
       "cantidad_archivada": 293,
       "nuevas_24h": 24,
-      "anteriores_24h": 22,
+      "anteriores_24h": 21,
       "dias_con_registros": 11,
       "fecha_ultima": "2026-10-26T16:31:24+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -1517,13 +1517,21 @@
     {
       "id": "onu",
       "titulo": "Naciones Unidas y multilateralismo",
-      "cantidad_archivada": 19,
-      "nuevas_24h": 2,
+      "cantidad_archivada": 20,
+      "nuevas_24h": 3,
       "anteriores_24h": 0,
       "dias_con_registros": 7,
-      "fecha_ultima": "2026-10-26T12:15:10+00:00",
+      "fecha_ultima": "2026-10-26T17:27:21+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "d6fd8ebf8ac138ea62a9",
+          "fecha": "2026-10-26T17:27:21+00:00",
+          "titulo": "We must protect and build on 30 years of work supporting the protection of children in conflicts: UK statement at the UN Security Council",
+          "fuente": "GOV.UK FCDO",
+          "url": "https://www.gov.uk/government/speeches/we-must-protect-and-build-on-30-years-of-work-supporting-the-protection-of-children-in-conflicts-uk-statement-at-the-un-security-council",
+          "traducida": false
+        },
         {
           "id": "68d5beb73a474055b8b7",
           "fecha": "2026-10-26T12:15:10+00:00",
