@@ -1,17 +1,65 @@
 {
-  "actualizado_utc": "2026-10-27T15:35:08.746266+00:00",
+  "actualizado_utc": "2026-10-27T16:02:07.676682+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 848,
-      "nuevas_24h": 124,
-      "anteriores_24h": 67,
+      "cantidad_archivada": 854,
+      "nuevas_24h": 126,
+      "anteriores_24h": 71,
       "dias_con_registros": 12,
-      "fecha_ultima": "2026-10-27T15:29:22+00:00",
+      "fecha_ultima": "2026-10-27T15:57:19+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "d36dc8ffe8153dac84fc",
+          "fecha": "2026-10-27T15:57:19+00:00",
+          "titulo": "Russia expanding its global media presence — Lavrov",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2208925",
+          "traducida": false
+        },
+        {
+          "id": "c165b6762ef757eba5ec",
+          "fecha": "2026-10-27T15:49:19+00:00",
+          "titulo": "Iranian and Qatari leaders meet at Russian energy forum",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/iranian-and-qatari-leaders-meet-at-russian-energy-forum?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "99fbececa08ae9467f5d",
+          "fecha": "2026-10-27T15:47:35+00:00",
+          "titulo": "LNG costs China more than Russian natural gas — Novak",
+          "fuente": "TASS",
+          "url": "https://tass.com/economy/2208913",
+          "traducida": false
+        },
+        {
+          "id": "fb5bf03266005d7f2567",
+          "fecha": "2026-10-27T15:40:57+00:00",
+          "titulo": "Bank of Russia raises dollar exchange rate to 80.53 rubles for October 28",
+          "fuente": "TASS",
+          "url": "https://tass.com/economy/2208903",
+          "traducida": false
+        },
+        {
+          "id": "473fef38f8d1fdba01fc",
+          "fecha": "2026-10-27T15:39:47+00:00",
+          "titulo": "Oslo’s allies were informed about call with Putin in advance, Norwegian PM says",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2208885",
+          "traducida": false
+        },
+        {
+          "id": "a52724bfce5993f02412",
+          "fecha": "2026-10-27T15:37:42+00:00",
+          "titulo": "Russian companies have invested billions of dollars in Venezuela’s energy sector — Putin",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2208897",
+          "traducida": false
+        },
         {
           "id": "9502f33ac579bc4a61ae",
           "fecha": "2026-10-27T15:29:22+00:00",
@@ -203,67 +251,83 @@
           "fuente": "Al Jazeera",
           "url": "https://www.aljazeera.com/news/2026/10/27/qatars-emir-meets-irans-pezeshkian-in-moscow?traffic_source=rss",
           "traducida": false
-        },
-        {
-          "id": "a0bca4df15b9bf24393e",
-          "fecha": "2026-10-27T13:21:46+00:00",
-          "titulo": "Putin expects role of natural gas globally to continue to strengthen",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2208741",
-          "traducida": false
-        },
-        {
-          "id": "a342ee05da70ce0e279c",
-          "fecha": "2026-10-27T13:19:53+00:00",
-          "titulo": "Norwegian PM says his call with Putin was substantive, professional",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2208733",
-          "traducida": false
-        },
-        {
-          "id": "edd345a356d7f9410b91",
-          "fecha": "2026-10-27T13:19:49+00:00",
-          "titulo": "Ex-Iranian leader Ali Khamenei contributed to gas-exporting countries’ cooperation — Putin",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2208739",
-          "traducida": false
-        },
-        {
-          "id": "e1ac73850a405ac003f0",
-          "fecha": "2026-10-27T13:18:12+00:00",
-          "titulo": "EN DIRECT, guerre en Ukraine : des coupures d’électricité dans sept oblasts à la suite d’attaques russes contre les infrastructures énergétiques",
-          "fuente": "Le Monde",
-          "url": "https://www.lemonde.fr/international/live/2026/10/27/en-direct-guerre-en-ukraine-des-coupures-d-electricite-dans-sept-oblasts-a-la-suite-d-attaques-russes-contre-les-infrastructures-energetiques_6799896_3210.html",
-          "traducida": false
-        },
-        {
-          "id": "7bbf1956c550b94a77d9",
-          "fecha": "2026-10-27T13:10:03+00:00",
-          "titulo": "Global gas prices increase dramatically — Putin",
-          "fuente": "TASS",
-          "url": "https://tass.com/economy/2208721",
-          "traducida": false
-        },
-        {
-          "id": "e19ec490aa00f61e2ece",
-          "fecha": "2026-10-27T13:08:15+00:00",
-          "titulo": "Moscow calls on Tokyo to drop its unfriendly policies — Foreign Ministry",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2208727",
-          "traducida": false
         }
       ]
     },
     {
       "id": "oriente-medio",
       "titulo": "Oriente Medio: seguridad y diplomacia",
-      "cantidad_archivada": 511,
-      "nuevas_24h": 83,
+      "cantidad_archivada": 519,
+      "nuevas_24h": 88,
       "anteriores_24h": 60,
       "dias_con_registros": 12,
-      "fecha_ultima": "2026-10-27T15:06:03+00:00",
+      "fecha_ultima": "2026-10-27T15:59:20+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "2d01c8c43932a0248471",
+          "fecha": "2026-10-27T15:59:20+00:00",
+          "titulo": "Iran ready to develop investment opportunities within GECF framework — Pezeshkian",
+          "fuente": "TASS",
+          "url": "https://tass.com/economy/2208929",
+          "traducida": false
+        },
+        {
+          "id": "3e2e163625bb83ffbbb5",
+          "fecha": "2026-10-27T15:52:38+00:00",
+          "titulo": "Iran’s gas production capacity reaches 300 bln cubic meters — Pezeshkian",
+          "fuente": "TASS",
+          "url": "https://tass.com/economy/2208921",
+          "traducida": false
+        },
+        {
+          "id": "94e9037c8e8efaae7a46",
+          "fecha": "2026-10-27T15:51:00+00:00",
+          "titulo": "Iran must allow the return of IAEA inspectors to all nuclear sites: UK statement at the UN Security Council",
+          "fuente": "GOV.UK FCDO",
+          "url": "https://www.gov.uk/government/speeches/iran-must-allow-the-return-of-iaea-inspectors-to-all-nuclear-sites",
+          "traducida": false
+        },
+        {
+          "id": "c165b6762ef757eba5ec",
+          "fecha": "2026-10-27T15:49:19+00:00",
+          "titulo": "Iranian and Qatari leaders meet at Russian energy forum",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/iranian-and-qatari-leaders-meet-at-russian-energy-forum?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "c9f894a0c8e6ed22ceef",
+          "fecha": "2026-10-27T15:26:59+00:00",
+          "titulo": "Iran’s calculations as US escalation looms: Trust, midterms, Hormuz",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/27/irans-calculations-as-us-escalation-looms-trust-midterms-hormuz?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "ef27438a4f63dd0288b3",
+          "fecha": "2026-10-27T15:20:48+00:00",
+          "titulo": "Israel election turnout highest in 50 years as voting continues",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/27/israel-election-turnout-highest-in-50-years-as-voting-continues?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "cf2eeae66cc6d0fbb510",
+          "fecha": "2026-10-27T15:10:27+00:00",
+          "titulo": "Israeli military detains Egyptian national who crossed border",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/27/israeli-military-detains-egyptian-national-who-crossed-border?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "cefe39b60d581ca6363f",
+          "fecha": "2026-10-27T15:08:59+00:00",
+          "titulo": "Hegseth heads to Manila to shore up US ties with Asia-Pacific partners",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/27/hegseth-heads-to-manila-to-shore-up-us-ties-with-asia-pacific-partners?traffic_source=rss",
+          "traducida": false
+        },
         {
           "id": "dc64d2c59b822ea6c2b7",
           "fecha": "2026-10-27T15:06:03+00:00",
@@ -439,83 +503,27 @@
           "fuente": "The Guardian",
           "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
           "traducida": false
-        },
-        {
-          "id": "210bb8246159cfa44427",
-          "fecha": "2026-10-27T11:49:26+00:00",
-          "titulo": "BRICS parliamentarians call for peaceful resolution of Israeli-Palestinian conflict",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2208617",
-          "traducida": false
-        },
-        {
-          "id": "cf971957e7d5f0b4869c",
-          "fecha": "2026-10-27T11:45:21+00:00",
-          "titulo": "Iran’s conditions for ending war must be met — supreme leader",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2208615",
-          "traducida": false
-        },
-        {
-          "id": "0207b220ce053bf2f286",
-          "fecha": "2026-10-27T11:42:56+00:00",
-          "titulo": "Dutch broadcaster pulls out of Eurovision over Israel ‘sensitivities’",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/netherlands-withdraws-from-eurovision-2027-amid-sensitivities-over-israels-participation-given-its-military-campaign-in-gaza/article71631050.ece",
-          "traducida": false
-        },
-        {
-          "id": "5cb0b6d3d9f145bd455e",
-          "fecha": "2026-10-27T11:40:14+00:00",
-          "titulo": "Iran's supreme leader healthy, in full charge of country — parliament speaker",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2208603",
-          "traducida": false
-        },
-        {
-          "id": "735ab72e22fedc52d178",
-          "fecha": "2026-10-27T11:38:55+00:00",
-          "titulo": "Netanyahu se juega su futuro en unas elecciones decisivas para todo Oriente Próximo",
-          "fuente": "El País",
-          "url": "https://elpais.com/internacional/2026-10-27/netanyahu-se-juega-su-futuro-en-unas-elecciones-decisivas-para-todo-oriente-proximo.html",
-          "traducida": false
-        },
-        {
-          "id": "a8b557c74308b442270c",
-          "fecha": "2026-10-27T11:23:19+00:00",
-          "titulo": "Netherlands pulls out of Eurovision again over Israel participation",
-          "fuente": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cmr4y5dvlzneo?at_medium=RSS&at_campaign=rss",
-          "traducida": false
-        },
-        {
-          "id": "d640d6d4ac5474dc3916",
-          "fecha": "2026-10-27T11:19:46+00:00",
-          "titulo": "Former PLO official says Netanyahu-Eisenkot coalition could be possible",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/former-plo-official-says-netanyahu-eisenkot-coalition-could-be-possible?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "5dfba2a00b89e2fe84ec",
-          "fecha": "2026-10-27T11:11:33+00:00",
-          "titulo": "Turnout so far highest in decades as Israelis vote in pivotal election",
-          "fuente": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
-          "traducida": false
         }
       ]
     },
     {
       "id": "india-asia",
       "titulo": "India y Asia-Pacífico",
-      "cantidad_archivada": 205,
-      "nuevas_24h": 64,
+      "cantidad_archivada": 208,
+      "nuevas_24h": 66,
       "anteriores_24h": 19,
       "dias_con_registros": 12,
-      "fecha_ultima": "2026-10-27T14:51:28+00:00",
+      "fecha_ultima": "2026-10-27T15:11:12+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "99390ff6141c84ebf5d7",
+          "fecha": "2026-10-27T15:11:12+00:00",
+          "titulo": "Cyclone Arnab batters India’s east coast",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/cyclone-arnab-batters-indias-east-coast?traffic_source=rss",
+          "traducida": false
+        },
         {
           "id": "df06dafda0083e89e7f9",
           "fecha": "2026-10-27T14:51:28+00:00",
@@ -549,6 +557,14 @@
           "traducida": false
         },
         {
+          "id": "a922a070a454e665450c",
+          "fecha": "2026-10-27T13:10:53+00:00",
+          "titulo": "2 accused killed in Bengal encounters in 24 hours, police say they snatched guns - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaHNaRzRWaWVQTjRVc2dIRUM3NEtOSHFHVkhjUDdrdVRZSkV5OFAyVnJXQl95VllGWEZFRlJlbGxlcGZkbnNWdXZDWlY0eURZaGdCOGlRN2ZNOERBR29NUVNXeDE5MDFTck4yMy1Eb3pXNXJGeFVnZjlNRmNZeXExYTFQQ0w0ZG9FeUlIS2pGR0s1Qk1xNmxGSFBEUndOMFMwaHpoMXc0Xzg5ZnAtWnotSFdfcGk4RllPVnNiZGxYZEpMVlltOVNXd0hsNG9KNkkyME8wV0hLV1BkQzh0clF1OWd4YW9VUdIB7AFBVV95cUxONnFsSXI5aWpIYzgyRkplN3RFdVN3SW01OXRoOG5waEM5eDhaUHhpSzRXQW4wbm5VSHpzeWZWQ0lOOTh5d0JtalFSR0VYVHRZeURjdUladmg4Q28wNnBkbEt5MXppNDdFckczWXpadV9ySm9CUjljTm5aYXVZNkVUY2pmZ3YzRlFYWlhLZTBUWWFzMGtOUGVaZFN6NkExOVFZMWRDWHVhQmRfMFpFc29ncEtFMEFLNVRsM0JvVVo2eXRZR3BDM1lwU2V4Q25OZW02NW5iMTh2ajdwaXliZHN1OTVvUzVsMVJob2x4dA?oc=5",
+          "traducida": false
+        },
+        {
           "id": "ffba84694c00620e27f9",
           "fecha": "2026-10-27T13:09:43+00:00",
           "titulo": "Cyclone Arnab LIVE Tracker: Where is cyclonic storm Arnab located? Track path and landfall updates here - The Indian Express",
@@ -570,6 +586,14 @@
           "titulo": "‘They get calls every day that they’ll be killed’: How a conversion case upended a family in UP’s Shamli - The Indian Express",
           "fuente": "The Indian Express",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVTVHeUpPMGFlUXVBZUxrMVdFSFd4RW9CdXVoOHpDZk12RXdwRHV6VTNYSjk2bnIxNDFqaWlaOXBySDl2QmRmUmJsemtwRG96aTloSXk3SllsenpmdDlaVXMwSmZGX21ucV9qZ1BxekNzbzFOZ1JkMzhGZGR2VE4xaWFJSkVaMnNRSjc1OXhwdjJKNzBwODVua2M3aC12X3FhQTRMMUtUeFR5eEs1bk9yTklOQ1F3dWF0Q1Mw0gHCAUFVX3lxTE9JNzhuTmxzRGo3ekpqUXpGZkVQNjIwVVZlVEV3QnlMNC1DUXRZeDFOZlpRVzZTUndFT3oybG81bURoYUhzcG1MWmdQWTUyYUtpRU5hWkcwRkJzT3gxY3dIWDJOa3pBVktmUVpqbmFGbmxheXM3WkpyeDB3QUV2dm5IamVzc0lVU3JMSjg1MDN1RW9nN3BUMjR6UXpkVjd4d1ItTjkzTDY1NGZqc2NKVmNCbHJab1VCRGg3Z2FsNTROZFBB?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "3b455706238c2510adcb",
+          "fecha": "2026-10-27T12:43:23+00:00",
+          "titulo": "Batting from future: Abhishek, Vaibhav make mockery of 199-run chase, win series - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcU1nUzNZMDg3RGJ3NmFpTVJqU0pIbWRGdS14VVZCU1dhRVhvdlpsSlkzSmdzSkdDTHphMGNtZ3BHNk5SQnhnenVaLVcteFk4QW9JLWczdUVKY0lWcGNDV0o4bE5kYTRxMnBLbng2QXJSSmI1RS1UdmlZUklIeVJacmVWUi1KMTc3aTBRcS1oWWl3Wkotd2J6aG9nRzJTcUE0MllmOGU2SmRDTXljV1lpS1NKYnJqVTNJNlHSAcABQVVfeXFMTUN3UDl0bmtrajhOVWxwd1djZ3lwLVhGQ3JXeU1BRXlDd2R5LU5MdFp1Ql9lMHJjbHVzdUItOUFqUXFXdUNoMkVOQVFBMFBGdUVNQlg0eFJxV0dFNmtURG5LcHhHOEhDVUN3cVN2WEpINFRvaGVfX1d2czhGeUZkQ19tYXFlM2p3RGVCNXRWbldfcWNkVWZuLXl0bjBhV3VrSHFQX1V3cGlFMkduRko3ZDZlcXlDQzRKNkVSM3Q0SDNS?oc=5",
           "traducida": false
         },
         {
@@ -731,30 +755,6 @@
           "fuente": "South China Morning Post",
           "url": "https://www.scmp.com/news/china/diplomacy/article/3372296/fragile-india-china-thaw-tested-reported-fresh-himalayan-border-face-offs",
           "traducida": false
-        },
-        {
-          "id": "4b43920ccda0c035b58b",
-          "fecha": "2026-10-27T09:21:33+00:00",
-          "titulo": "What Marco Rubio’s sidestepping of New Delhi says about the US’s stance on India",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/26/marco-rubio-us-secretary-of-state-india-visit-mumbai",
-          "traducida": false
-        },
-        {
-          "id": "0ffe8f4ac7b05264a570",
-          "fecha": "2026-10-27T08:52:46+00:00",
-          "titulo": "Armed thief shot her father, but Class 7 girl from Pune fought back - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNGhPR25FR2hlTDNQTUFXd2dIQmk2aUdCR2czbEp3V3JTN1JESlhNZWtYRlRyZS1sM3lOMVhEZHdzb0ZydFJHaWwwdERHZGxURC1WYjdIQmNhQUFUSmNCR054Q2pJbVVJN2FGVFhwaDF3NWdpVTFHeExzT1lGUEhDRnRlZGFEUE1TS1piQm9YZkpKd1R1YWNqNThWRFB4M0w5ckNsYVZ3ZU5PUWd6dUHSAbQBQVVfeXFMT0hreDhDMVNWYmhuelFYQlI3NE8zdTVfSnd4OVVfVFcycExpeDZKYzltU3haNE9QcXVaU0dsYlZJczNMSGxWSjJLVVB4eS1mV0RPaFRNR0NMdlA4REg2NDBkRFhWUjQyZ1lfNG9mRzlmMUJxSVY3Rkt5NjUtRWRvd3A2ekI5a2FGcHZaMW1mQ2xDaW1UMjdZUTQyOUU3dDlEYjBrMEpjSmE5aE1ma3g1NGpwVmFB?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "fcb877105227efe46fb5",
-          "fecha": "2026-10-27T08:39:25+00:00",
-          "titulo": "A realtor sent out messages naming another builder. Hours later, he was found dead in Dehradun - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWEpzZ0E2WXA1dDdhNjZ5cjlBemFhbDNRUGU5VTExU2hWSkhPdC1mUjhSQ2hjLV9mNlV6OUNCU2xueUtxb3Axenh3eDZiU3FFUW1EaTIxWFFHU3lSM1gxMFQxbkVuaVhYVWRJTEc0V1F1UjJkR2RQT2F5Zjd4dks5eXdfcE1EVTlxXzFSQ3dteUhRc01KcVl6S1g4bFBxU0hWOEVXNWVZTjItMmw5YW9CZ3EwNE1BY3RwbkRUWk14UFBXNWpYUnVkX2dOYThSaUYybTdxSEtfSGRTZ9IB4AFBVV95cUxQdlk1SUIyVGdsV0hvUkpmU3dMdGtwemhEUFRxU29uaUFqQTlORFJ5WWVyQWpVTzFYRUtPVHgzcXZJZWxKWjNTUkVLaDlQbm1CZUZMS2VtYTBNNG85eExaQlhxTEFiYlN0X0JHUWR1S2V5QUZ3bk1ZRm44Yk5VQWlvOWdycE1qRXpJSkowVy1idm45aHlNRUNhY1ZPVXliN2xWUEUtNU8zNFBIYzRqT2ZkWG9vcGU3bER4TkFqMTZJZ1JrVzhRcmNyYUFucXZnMDlySC1wX01ZbW94THRlMFRYZA?oc=5",
-          "traducida": false
         }
       ]
     },
@@ -762,8 +762,8 @@
       "id": "suramerica",
       "titulo": "Sudamérica: integración y política exterior",
       "cantidad_archivada": 163,
-      "nuevas_24h": 30,
-      "anteriores_24h": 44,
+      "nuevas_24h": 28,
+      "anteriores_24h": 46,
       "dias_con_registros": 12,
       "fecha_ultima": "2026-10-27T15:00:14+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -1014,8 +1014,8 @@
       "id": "union-europea",
       "titulo": "Unión Europea y relaciones exteriores",
       "cantidad_archivada": 305,
-      "nuevas_24h": 15,
-      "anteriores_24h": 23,
+      "nuevas_24h": 13,
+      "anteriores_24h": 24,
       "dias_con_registros": 12,
       "fecha_ultima": "2026-10-27T13:50:31+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -1258,6 +1258,210 @@
           "titulo": "Key European defence ministers meet in Paris to discuss Ukraine support",
           "fuente": "Al Jazeera",
           "url": "https://www.aljazeera.com/news/2026/10/26/key-european-defence-ministers-meet-in-paris-to-discuss-ukraine-support?traffic_source=rss",
+          "traducida": false
+        }
+      ]
+    },
+    {
+      "id": "onu",
+      "titulo": "Naciones Unidas y multilateralismo",
+      "cantidad_archivada": 24,
+      "nuevas_24h": 5,
+      "anteriores_24h": 2,
+      "dias_con_registros": 8,
+      "fecha_ultima": "2026-10-27T15:51:00+00:00",
+      "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
+      "publicaciones": [
+        {
+          "id": "94e9037c8e8efaae7a46",
+          "fecha": "2026-10-27T15:51:00+00:00",
+          "titulo": "Iran must allow the return of IAEA inspectors to all nuclear sites: UK statement at the UN Security Council",
+          "fuente": "GOV.UK FCDO",
+          "url": "https://www.gov.uk/government/speeches/iran-must-allow-the-return-of-iaea-inspectors-to-all-nuclear-sites",
+          "traducida": false
+        },
+        {
+          "id": "53300f059c073c9e3ae7",
+          "fecha": "2026-10-27T10:08:33+00:00",
+          "titulo": "Greenhouse gas levels hit record highs, climate impact will last centuries: UN",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/article/3372304/greenhouse-gas-levels-hit-record-highs-climate-impact-will-last-centuries-un",
+          "traducida": false
+        },
+        {
+          "id": "490361cbafe870885142",
+          "fecha": "2026-10-26T20:07:23+00:00",
+          "titulo": "The United Kingdom remains committed to working with Iraq, Kuwait, and the Tripartite Commission to provide answers for families of missing loved ones: UK statement at the UN Security Council",
+          "fuente": "GOV.UK FCDO",
+          "url": "https://www.gov.uk/government/speeches/the-united-kingdom-remains-committed-to-working-with-iraq-kuwait-and-the-tripartite-commission-to-provide-answers-for-families-of-missing-loved-ones-u",
+          "traducida": false
+        },
+        {
+          "id": "7e13260f6f6a3c88bd5f",
+          "fecha": "2026-10-26T18:11:03+00:00",
+          "titulo": "Robles advierte en la ONU de que la paz no puede construirse de espaldas a las mujeres",
+          "fuente": "El País",
+          "url": "https://elpais.com/espana/2026-10-26/robles-advierte-en-la-onu-de-que-la-paz-no-puede-construirse-de-espaldas-a-las-mujeres.html",
+          "traducida": false
+        },
+        {
+          "id": "d6fd8ebf8ac138ea62a9",
+          "fecha": "2026-10-26T17:27:21+00:00",
+          "titulo": "We must protect and build on 30 years of work supporting the protection of children in conflicts: UK statement at the UN Security Council",
+          "fuente": "GOV.UK FCDO",
+          "url": "https://www.gov.uk/government/speeches/we-must-protect-and-build-on-30-years-of-work-supporting-the-protection-of-children-in-conflicts-uk-statement-at-the-un-security-council",
+          "traducida": false
+        },
+        {
+          "id": "68d5beb73a474055b8b7",
+          "fecha": "2026-10-26T12:15:10+00:00",
+          "titulo": "Accusations against Raul Castro legally null and void — Russian Foreign Ministry",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2207933",
+          "traducida": false
+        },
+        {
+          "id": "c0b8cfc5c69a4e68b7b9",
+          "fecha": "2026-10-26T02:51:17+00:00",
+          "titulo": "Daily Quiz: On UN 81st anniversary",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/daily-quiz-on-un-81st-anniversary/article71625505.ece",
+          "traducida": false
+        },
+        {
+          "id": "5304cc9eef3e8109c4b8",
+          "fecha": "2026-10-23T12:41:05+00:00",
+          "titulo": "Putin discusses measures to protect youths from external threats with Security Council",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2206919",
+          "traducida": false
+        },
+        {
+          "id": "0a8af5b182a4f0448c98",
+          "fecha": "2026-10-23T08:41:41+00:00",
+          "titulo": "US-Iran war to continue until nuclear deal is struck, US envoy says",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2206699",
+          "traducida": false
+        },
+        {
+          "id": "7ab29e097fc26a802573",
+          "fecha": "2026-10-23T06:13:13+00:00",
+          "titulo": "Nepal to receive first-ever loss and damage fund payout after devastating floods",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/videos/nepal-to-receive-first-ever-loss-and-damage-fund-payout-after-devastating-floods/article71614805.ece",
+          "traducida": false
+        },
+        {
+          "id": "76ae7034389cf8a0fa73",
+          "fecha": "2026-10-23T00:58:07+00:00",
+          "titulo": "Nepal set to receive first-ever US$20 million payout from UN climate damage fund",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/asia/south-asia/article/3371840/nepal-set-receive-first-ever-us20-million-payout-un-climate-damage-fund",
+          "traducida": false
+        },
+        {
+          "id": "c49ff40640bf4106770b",
+          "fecha": "2026-10-21T16:59:39+00:00",
+          "titulo": "UN follows situation around possible Russia-Ukraine talks — spokesperson",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2205779",
+          "traducida": false
+        },
+        {
+          "id": "7823a97f13033687b10c",
+          "fecha": "2026-10-21T13:53:49+00:00",
+          "titulo": "Western efforts against Russia, role of emigres: Shoigu’s statements",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2205591",
+          "traducida": false
+        },
+        {
+          "id": "8c83dd9c5d3cfc608d53",
+          "fecha": "2026-10-21T07:12:27+00:00",
+          "titulo": "United Kingdom National Statement to UNTOC COP 13",
+          "fuente": "GOV.UK FCDO",
+          "url": "https://www.gov.uk/government/speeches/united-kingdom-national-statement-to-untoc-cop-13",
+          "traducida": false
+        },
+        {
+          "id": "919d071a69df0cf6d4e2",
+          "fecha": "2026-10-20T22:02:49+00:00",
+          "titulo": "Iran security chief rejects moving enriched uranium out of country",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/iran-security-chief-rejects-moving-enriched-uranium-out-of-country/article71605648.ece",
+          "traducida": false
+        },
+        {
+          "id": "e0bf259f71be56ef1045",
+          "fecha": "2026-10-20T20:57:41+00:00",
+          "titulo": "Normalisation of relations between Kosovo and Serbia remains essential to long term stability: UK statement at the UN Security Council",
+          "fuente": "GOV.UK FCDO",
+          "url": "https://www.gov.uk/government/speeches/normalisation-of-relations-between-kosovo-and-serbia-remains-essential-to-long-term-stability-uk-statement-at-the-un-security-council",
+          "traducida": false
+        },
+        {
+          "id": "ff9e9e167ce6221fc3f9",
+          "fecha": "2026-10-20T15:46:27+00:00",
+          "titulo": "The United Kindgom welcomes the continued consolidation of peace and stability in teh Central African Republic: UK statement at the UN Security Council",
+          "fuente": "GOV.UK FCDO",
+          "url": "https://www.gov.uk/government/speeches/the-united-kindgom-welcomes-the-continued-consolidation-of-peace-and-stability-in-teh-central-african-republic-uk-statement-at-the-un-security-council",
+          "traducida": false
+        },
+        {
+          "id": "485005b24caf2064986f",
+          "fecha": "2026-10-20T14:24:03+00:00",
+          "titulo": "Russia, Oman set record by trade turnover volume",
+          "fuente": "TASS",
+          "url": "https://tass.com/economy/2204793",
+          "traducida": false
+        },
+        {
+          "id": "416c381d744353063a54",
+          "fecha": "2026-10-20T14:14:04+00:00",
+          "titulo": "19.2 million Afghans could soon face ‘acute food insecurity’: UN",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/russia-central-asia/article/3371551/192-million-afghans-could-soon-face-acute-food-insecurity-un",
+          "traducida": false
+        },
+        {
+          "id": "da2819b1774cad373b21",
+          "fecha": "2026-10-19T17:28:48+00:00",
+          "titulo": "Haiti cannot afford another year in which insecurity outpaces political progress: UK statement at the UN Security Council",
+          "fuente": "GOV.UK FCDO",
+          "url": "https://www.gov.uk/government/speeches/haiti-cannot-afford-another-year-in-which-insecurity-outpaces-political-progress-uk-statement-at-the-un-security-council",
+          "traducida": false
+        },
+        {
+          "id": "88f7dda43fd5988a3e2b",
+          "fecha": "2026-10-19T16:40:01+00:00",
+          "titulo": "Search under way for four soldiers missing after gang attack in Haiti",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/19/search-under-way-for-four-soldiers-missing-after-gang-attack-in-haiti?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "65d889d79875f5cf1642",
+          "fecha": "2026-10-18T12:35:07+00:00",
+          "titulo": "UN Security Council can be involved in creating conditions for dialogue in Gulf — Lavrov",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2203747",
+          "traducida": false
+        },
+        {
+          "id": "0b2493ff18ec95ffb7d8",
+          "fecha": "2026-10-18T11:18:20+00:00",
+          "titulo": "Gulf countries call on Russia to support their participation in negotiations on Iran",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2203729",
+          "traducida": false
+        },
+        {
+          "id": "7ef2fad803ed573da098",
+          "fecha": "2026-10-16T15:38:55+00:00",
+          "titulo": "As we remember the victims of El Fasher, the parties need to protect civilians, allow humanitarian assistance to reach those who need it, and choose diplomacy over continued war: UK statement at the UN Security Council",
+          "fuente": "GOV.UK FCDO",
+          "url": "https://www.gov.uk/government/speeches/as-we-remember-the-victims-of-el-fasher-the-parties-need-to-protect-civilians-allow-humanitarian-assistance-to-reach-those-who-need-it-and-choose-dipl",
           "traducida": false
         }
       ]
@@ -1510,202 +1714,6 @@
           "titulo": "Chinese military vessels and spy drones track Keen Sword war games off Japan",
           "fuente": "South China Morning Post",
           "url": "https://www.scmp.com/news/china/politics/article/3371525/chinese-military-vessels-and-spy-drones-track-keen-sword-war-games-japan",
-          "traducida": false
-        }
-      ]
-    },
-    {
-      "id": "onu",
-      "titulo": "Naciones Unidas y multilateralismo",
-      "cantidad_archivada": 23,
-      "nuevas_24h": 4,
-      "anteriores_24h": 2,
-      "dias_con_registros": 8,
-      "fecha_ultima": "2026-10-27T10:08:33+00:00",
-      "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
-      "publicaciones": [
-        {
-          "id": "53300f059c073c9e3ae7",
-          "fecha": "2026-10-27T10:08:33+00:00",
-          "titulo": "Greenhouse gas levels hit record highs, climate impact will last centuries: UN",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/world/article/3372304/greenhouse-gas-levels-hit-record-highs-climate-impact-will-last-centuries-un",
-          "traducida": false
-        },
-        {
-          "id": "490361cbafe870885142",
-          "fecha": "2026-10-26T20:07:23+00:00",
-          "titulo": "The United Kingdom remains committed to working with Iraq, Kuwait, and the Tripartite Commission to provide answers for families of missing loved ones: UK statement at the UN Security Council",
-          "fuente": "GOV.UK FCDO",
-          "url": "https://www.gov.uk/government/speeches/the-united-kingdom-remains-committed-to-working-with-iraq-kuwait-and-the-tripartite-commission-to-provide-answers-for-families-of-missing-loved-ones-u",
-          "traducida": false
-        },
-        {
-          "id": "7e13260f6f6a3c88bd5f",
-          "fecha": "2026-10-26T18:11:03+00:00",
-          "titulo": "Robles advierte en la ONU de que la paz no puede construirse de espaldas a las mujeres",
-          "fuente": "El País",
-          "url": "https://elpais.com/espana/2026-10-26/robles-advierte-en-la-onu-de-que-la-paz-no-puede-construirse-de-espaldas-a-las-mujeres.html",
-          "traducida": false
-        },
-        {
-          "id": "d6fd8ebf8ac138ea62a9",
-          "fecha": "2026-10-26T17:27:21+00:00",
-          "titulo": "We must protect and build on 30 years of work supporting the protection of children in conflicts: UK statement at the UN Security Council",
-          "fuente": "GOV.UK FCDO",
-          "url": "https://www.gov.uk/government/speeches/we-must-protect-and-build-on-30-years-of-work-supporting-the-protection-of-children-in-conflicts-uk-statement-at-the-un-security-council",
-          "traducida": false
-        },
-        {
-          "id": "68d5beb73a474055b8b7",
-          "fecha": "2026-10-26T12:15:10+00:00",
-          "titulo": "Accusations against Raul Castro legally null and void — Russian Foreign Ministry",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2207933",
-          "traducida": false
-        },
-        {
-          "id": "c0b8cfc5c69a4e68b7b9",
-          "fecha": "2026-10-26T02:51:17+00:00",
-          "titulo": "Daily Quiz: On UN 81st anniversary",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/daily-quiz-on-un-81st-anniversary/article71625505.ece",
-          "traducida": false
-        },
-        {
-          "id": "5304cc9eef3e8109c4b8",
-          "fecha": "2026-10-23T12:41:05+00:00",
-          "titulo": "Putin discusses measures to protect youths from external threats with Security Council",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2206919",
-          "traducida": false
-        },
-        {
-          "id": "0a8af5b182a4f0448c98",
-          "fecha": "2026-10-23T08:41:41+00:00",
-          "titulo": "US-Iran war to continue until nuclear deal is struck, US envoy says",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2206699",
-          "traducida": false
-        },
-        {
-          "id": "7ab29e097fc26a802573",
-          "fecha": "2026-10-23T06:13:13+00:00",
-          "titulo": "Nepal to receive first-ever loss and damage fund payout after devastating floods",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/videos/nepal-to-receive-first-ever-loss-and-damage-fund-payout-after-devastating-floods/article71614805.ece",
-          "traducida": false
-        },
-        {
-          "id": "76ae7034389cf8a0fa73",
-          "fecha": "2026-10-23T00:58:07+00:00",
-          "titulo": "Nepal set to receive first-ever US$20 million payout from UN climate damage fund",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/asia/south-asia/article/3371840/nepal-set-receive-first-ever-us20-million-payout-un-climate-damage-fund",
-          "traducida": false
-        },
-        {
-          "id": "c49ff40640bf4106770b",
-          "fecha": "2026-10-21T16:59:39+00:00",
-          "titulo": "UN follows situation around possible Russia-Ukraine talks — spokesperson",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2205779",
-          "traducida": false
-        },
-        {
-          "id": "7823a97f13033687b10c",
-          "fecha": "2026-10-21T13:53:49+00:00",
-          "titulo": "Western efforts against Russia, role of emigres: Shoigu’s statements",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2205591",
-          "traducida": false
-        },
-        {
-          "id": "8c83dd9c5d3cfc608d53",
-          "fecha": "2026-10-21T07:12:27+00:00",
-          "titulo": "United Kingdom National Statement to UNTOC COP 13",
-          "fuente": "GOV.UK FCDO",
-          "url": "https://www.gov.uk/government/speeches/united-kingdom-national-statement-to-untoc-cop-13",
-          "traducida": false
-        },
-        {
-          "id": "919d071a69df0cf6d4e2",
-          "fecha": "2026-10-20T22:02:49+00:00",
-          "titulo": "Iran security chief rejects moving enriched uranium out of country",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/iran-security-chief-rejects-moving-enriched-uranium-out-of-country/article71605648.ece",
-          "traducida": false
-        },
-        {
-          "id": "e0bf259f71be56ef1045",
-          "fecha": "2026-10-20T20:57:41+00:00",
-          "titulo": "Normalisation of relations between Kosovo and Serbia remains essential to long term stability: UK statement at the UN Security Council",
-          "fuente": "GOV.UK FCDO",
-          "url": "https://www.gov.uk/government/speeches/normalisation-of-relations-between-kosovo-and-serbia-remains-essential-to-long-term-stability-uk-statement-at-the-un-security-council",
-          "traducida": false
-        },
-        {
-          "id": "ff9e9e167ce6221fc3f9",
-          "fecha": "2026-10-20T15:46:27+00:00",
-          "titulo": "The United Kindgom welcomes the continued consolidation of peace and stability in teh Central African Republic: UK statement at the UN Security Council",
-          "fuente": "GOV.UK FCDO",
-          "url": "https://www.gov.uk/government/speeches/the-united-kindgom-welcomes-the-continued-consolidation-of-peace-and-stability-in-teh-central-african-republic-uk-statement-at-the-un-security-council",
-          "traducida": false
-        },
-        {
-          "id": "485005b24caf2064986f",
-          "fecha": "2026-10-20T14:24:03+00:00",
-          "titulo": "Russia, Oman set record by trade turnover volume",
-          "fuente": "TASS",
-          "url": "https://tass.com/economy/2204793",
-          "traducida": false
-        },
-        {
-          "id": "416c381d744353063a54",
-          "fecha": "2026-10-20T14:14:04+00:00",
-          "titulo": "19.2 million Afghans could soon face ‘acute food insecurity’: UN",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/world/russia-central-asia/article/3371551/192-million-afghans-could-soon-face-acute-food-insecurity-un",
-          "traducida": false
-        },
-        {
-          "id": "da2819b1774cad373b21",
-          "fecha": "2026-10-19T17:28:48+00:00",
-          "titulo": "Haiti cannot afford another year in which insecurity outpaces political progress: UK statement at the UN Security Council",
-          "fuente": "GOV.UK FCDO",
-          "url": "https://www.gov.uk/government/speeches/haiti-cannot-afford-another-year-in-which-insecurity-outpaces-political-progress-uk-statement-at-the-un-security-council",
-          "traducida": false
-        },
-        {
-          "id": "88f7dda43fd5988a3e2b",
-          "fecha": "2026-10-19T16:40:01+00:00",
-          "titulo": "Search under way for four soldiers missing after gang attack in Haiti",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/19/search-under-way-for-four-soldiers-missing-after-gang-attack-in-haiti?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "65d889d79875f5cf1642",
-          "fecha": "2026-10-18T12:35:07+00:00",
-          "titulo": "UN Security Council can be involved in creating conditions for dialogue in Gulf — Lavrov",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2203747",
-          "traducida": false
-        },
-        {
-          "id": "0b2493ff18ec95ffb7d8",
-          "fecha": "2026-10-18T11:18:20+00:00",
-          "titulo": "Gulf countries call on Russia to support their participation in negotiations on Iran",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2203729",
-          "traducida": false
-        },
-        {
-          "id": "7ef2fad803ed573da098",
-          "fecha": "2026-10-16T15:38:55+00:00",
-          "titulo": "As we remember the victims of El Fasher, the parties need to protect civilians, allow humanitarian assistance to reach those who need it, and choose diplomacy over continued war: UK statement at the UN Security Council",
-          "fuente": "GOV.UK FCDO",
-          "url": "https://www.gov.uk/government/speeches/as-we-remember-the-victims-of-el-fasher-the-parties-need-to-protect-civilians-allow-humanitarian-assistance-to-reach-those-who-need-it-and-choose-dipl",
           "traducida": false
         }
       ]
