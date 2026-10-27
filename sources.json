@@ -345,9 +345,9 @@
     "region": "Europa",
     "tipo": "medio",
     "web": "https://www.politico.eu/",
-    "rss": "",
+    "rss": "https://www.politico.eu/feed/",
     "activo": true,
-    "nota": "Fuente de consulta; RSS no configurado",
+    "nota": "Canal RSS público identificado; su accesibilidad desde GitHub Actions se audita en data/health.json. El contenido de análisis se mantiene separado de las noticias.",
     "idioma": "no determinado",
     "uso_eleva": "noticias"
   },
@@ -900,11 +900,11 @@
     "region": "Estados Unidos",
     "tipo": "medio",
     "web": "https://www.politico.com/",
-    "rss": "",
+    "rss": "https://www.politico.com/rss/politics08.xml",
     "activo": true,
     "idioma": "en",
     "uso_eleva": "noticias",
-    "nota": "Fuente de noticias registrada; RSS pendiente de verificación técnica antes de activar recopilación automática"
+    "nota": "Canal RSS público identificado; su accesibilidad desde GitHub Actions se audita en data/health.json. El contenido de análisis se mantiene separado de las noticias."
   },
   {
     "id": "f76",
@@ -913,11 +913,11 @@
     "region": "Europa",
     "tipo": "medio",
     "web": "https://www.euronews.com/",
-    "rss": "",
+    "rss": "https://www.euronews.com/rss?format=mrss&level=theme&name=news",
     "activo": true,
     "idioma": "en",
     "uso_eleva": "noticias",
-    "nota": "Fuente de noticias registrada; RSS pendiente de verificación técnica antes de activar recopilación automática"
+    "nota": "Canal RSS público identificado; su accesibilidad desde GitHub Actions se audita en data/health.json. El contenido de análisis se mantiene separado de las noticias."
   },
   {
     "id": "f77",
@@ -926,11 +926,11 @@
     "region": "Asia-Pacífico",
     "tipo": "medio",
     "web": "https://thediplomat.com/",
-    "rss": "",
+    "rss": "https://thediplomat.com/feed",
     "activo": true,
     "idioma": "en",
     "uso_eleva": "analisis",
-    "nota": "Fuente especializada para contextualización y contraste editorial; no se incorpora al RSS sin canal público validado"
+    "nota": "Canal RSS público identificado; su accesibilidad desde GitHub Actions se audita en data/health.json. El contenido de análisis se mantiene separado de las noticias."
   },
   {
     "id": "f78",
@@ -939,11 +939,11 @@
     "region": "América Latina",
     "tipo": "medio",
     "web": "https://www.americasquarterly.org/",
-    "rss": "",
+    "rss": "https://americasquarterly.org/regions/peru/feed/",
     "activo": true,
     "idioma": "en",
     "uso_eleva": "analisis",
-    "nota": "Fuente especializada para contextualización y contraste editorial; no se incorpora al RSS sin canal público validado"
+    "nota": "Canal RSS público identificado; su accesibilidad desde GitHub Actions se audita en data/health.json. El contenido de análisis se mantiene separado de las noticias."
   },
   {
     "id": "f79",
@@ -952,11 +952,11 @@
     "region": "Global",
     "tipo": "medio",
     "web": "https://www.economist.com/",
-    "rss": "",
+    "rss": "https://www.economist.com/international/rss.xml",
     "activo": true,
     "idioma": "en",
     "uso_eleva": "analisis",
-    "nota": "Fuente especializada para contextualización y contraste editorial; no se incorpora al RSS sin canal público validado"
+    "nota": "Canal RSS público identificado; su accesibilidad desde GitHub Actions se audita en data/health.json. El contenido de análisis se mantiene separado de las noticias."
   },
   {
     "id": "f80",
@@ -965,10 +965,10 @@
     "region": "Global",
     "tipo": "medio",
     "web": "https://warontherocks.com/",
-    "rss": "",
+    "rss": "https://warontherocks.com/feed/",
     "activo": true,
     "idioma": "en",
     "uso_eleva": "analisis",
-    "nota": "Fuente especializada para contextualización y contraste editorial; no se incorpora al RSS sin canal público validado"
+    "nota": "Canal RSS público identificado; su accesibilidad desde GitHub Actions se audita en data/health.json. El contenido de análisis se mantiene separado de las noticias."
   }
 ]
