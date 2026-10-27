@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-10-27T18:46:10.594391+00:00",
+  "created_utc": "2026-10-27T19:43:37.346106+00:00",
   "events": [
     {
       "id": "a-f73dff1900b32994b7f8",
@@ -83,6 +83,54 @@
         "Cobertura de fuentes distintas",
         "Actores relevantes: Rusia, Ucrania",
         "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-661406282291f2dbcec0",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "US looking at lifting sanctions against RDIF — media",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Diplomacia",
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "661406282291f2dbcec0",
+          "titulo_original": "US looking at lifting sanctions against RDIF — media",
+          "titulo_es": "Estados Unidos mirando al levantamiento de sanciones contra RDIF - medios",
+          "url": "https://tass.com/economy/2209103",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-10-27T18:58:41+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "According to the report, Washington is considering an RDIF inquiry for a sanction waiver as part of efforts toward improving Russian-US relations",
+          "resumen_es": "Según el informe, Washington está considerando una investigación de RDIF para una renuncia a la sanción como parte de los esfuerzos para mejorar las relaciones entre Rusia y Estados Unidos"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Rusia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 8,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos, Rusia",
+        "Ámbito: Diplomacia, Seguridad y conflictos",
+        "Posible decisión institucional o negociación"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -237,6 +285,53 @@
         "Cobertura de fuentes distintas",
         "Actores relevantes: Rusia, Ucrania",
         "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-0027255dfb0f72fbf3ab",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "Russia sought diplomatic solutions to Iranian conflict since its onset — Putin",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Diplomacia",
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "0027255dfb0f72fbf3ab",
+          "titulo_original": "Russia sought diplomatic solutions to Iranian conflict since its onset — Putin",
+          "titulo_es": "Rusia buscó soluciones diplomáticas al conflicto iraní desde su inicio — Putin",
+          "url": "https://tass.com/politics/2209095",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-10-27T18:50:11+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The Russian leader is holding talks with the Emir of Qatar in Moscow",
+          "resumen_es": "El líder ruso mantiene conversaciones con el Emir de Qatar en Moscú"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Rusia",
+        "Irán"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: Irán, Rusia",
+        "Ámbito: Diplomacia, Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -2234,99 +2329,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-b71a80be70d76f9b9d7c",
-      "fecha": "2026-10-27",
-      "titulo_fuente": "Israelis begin voting as Netanyahu fights for political survival",
-      "region": "Oriente Medio",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "b71a80be70d76f9b9d7c",
-          "titulo_original": "Israelis begin voting as Netanyahu fights for political survival",
-          "titulo_es": "",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/israelis-begin-voting-as-netanyahu-fights-for-political-survival?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-10-27T08:38:44+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Israelis vote as Netanyahu faces Gadi Eisenkot amid divisions over the wars in Gaza and Iran and growing isolation.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera"
-      ],
-      "actores_mencionados": [
-        "Israel",
-        "Irán",
-        "Palestina"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Irán, Israel",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-ff8279b476350eb905ae",
-      "fecha": "2026-10-27",
-      "titulo_fuente": "EU-China hybrid car deal won’t really help European carmakers",
-      "region": "China",
-      "temas": [
-        "Comercio y finanzas"
-      ],
-      "noticias": [
-        {
-          "id": "ff8279b476350eb905ae",
-          "titulo_original": "EU-China hybrid car deal won’t really help European carmakers",
-          "titulo_es": "",
-          "url": "https://www.scmp.com/opinion/world-opinion/article/3372117/eu-china-hybrid-car-deal-wont-really-help-european-carmakers",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-10-27T08:30:10+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Earlier this month, simmering trade tensions between the EU and China ease as the two sides reached an agreement in Beijing limiting hybrid car exports from China to an annual quota of 350,000 units. After the European Union imposed tariffs on fully electric cars from China in 2024, hybrid imports surged. The quota would result in more than a halving of the 800,000 hybrid cars expected to be sold this year, a figure which may soon exceed a millio",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "South China Morning Post"
-      ],
-      "actores_mencionados": [
-        "China",
-        "Unión Europea"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia compleja y economía política internacional",
-        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: China, Unión Europea",
-        "Ámbito: Comercio y finanzas"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-8f1f15a018eec4d67361",
       "fecha": "2026-10-27",
       "titulo_fuente": "2 men charged in UK with helping Iran over air force base incident",
@@ -2381,6 +2383,290 @@
         "Cobertura de fuentes distintas",
         "Actores relevantes: Irán",
         "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-8b299410db070a2d20ae",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "Putin tells Zelensky 'million times' he's welcome in Moscow, Kremlin aide reiterates",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "8b299410db070a2d20ae",
+          "titulo_original": "Putin tells Zelensky 'million times' he's welcome in Moscow, Kremlin aide reiterates",
+          "titulo_es": "Putin dice Zelensky 'million times' es bienvenido en Moscú, Kremlin aide reitera",
+          "url": "https://tass.com/politics/2209123",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-10-27T19:38:45+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "He will be provided with all necessary precautions, Yury Ushakov said",
+          "resumen_es": "Se le proporcionará todas las precauciones necesarias, dijo Yury Ushakov"
+        },
+        {
+          "id": "8dae9216e33118bfd150",
+          "titulo_original": "Kremlin aide echoes Putin's calls that Zelensky welcome in Moscow for talks",
+          "titulo_es": "Kremlin aide hace eco de las llamadas de Putin que Zelensky bienvenida en Moscú para charlas",
+          "url": "https://tass.com/politics/2209021",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-10-27T17:19:28+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The Norwegian head of government and the Finnish leader conveyed \"Zelensky’s active interest in holding a one-on-one\" with Putin to the Russian president, Yury Ushakov said",
+          "resumen_es": "El jefe de gobierno noruego y el líder finlandés transmitieron \"el interés activo de Zeelensky en mantener a un solo\" con Putin al presidente ruso, dijo Yury Ushakov"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Rusia",
+        "Ucrania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia, Ucrania"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-fb04b1b9617d098c71fe",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "GECF member states concerned about impact of geopolitics on gas market stability",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Diplomacia",
+        "Comercio y finanzas",
+        "Energía y clima"
+      ],
+      "noticias": [
+        {
+          "id": "fb04b1b9617d098c71fe",
+          "titulo_original": "GECF member states concerned about impact of geopolitics on gas market stability",
+          "titulo_es": "",
+          "url": "https://tass.com/economy/2209115",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-10-27T19:11:43+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "They also highlighted increased investment risks and volatility in gas prices, according to the declaration adopted following the summit in Moscow",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Rusia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia",
+        "Ámbito: Comercio y finanzas, Diplomacia"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-385dcce8cd8e17e7f57f",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "Egypt’s parliament approves military support for Saudi Arabia amid Houthi attacks",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "385dcce8cd8e17e7f57f",
+          "titulo_original": "Egypt’s parliament approves military support for Saudi Arabia amid Houthi attacks",
+          "titulo_es": "El parlamento de Egipto aprueba el apoyo militar a Arabia Saudita en medio de ataques de Houthi",
+          "url": "https://www.euronews.com/2026/10/27/egypts-parliament-approves-military-support-for-saudi-arabia-amid-houthi-attacks",
+          "fuente": "Euronews",
+          "pais": "Unión Europea",
+          "fecha": "2026-10-27T18:57:06+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Egypt has approved military help for Saudi Arabia if requested as Houthi attacks threaten the kingdom and Red Sea shipping. The vote comes as Saudi officials hold talks in Iran amid regional efforts to prevent a further escalation of the fighting.",
+          "resumen_es": "Egipto ha aprobado ayuda militar para Arabia Saudita si se solicita como ataques Houthi amenazan el reino y el transporte marítimo del Mar Rojo. El voto viene cuando los funcionarios saudíes mantienen conversaciones en Irán en medio de esfuerzos regionales para evitar una nueva escalada de la fi"
+        }
+      ],
+      "fuentes": [
+        "Euronews"
+      ],
+      "actores_mencionados": [
+        "Irán",
+        "Arabia Saudita"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Irán",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-72ed9aeba3484b34449f",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "Senior Russian, Malian defense ministry officials discuss defense cooperation prospects",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Diplomacia",
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "72ed9aeba3484b34449f",
+          "titulo_original": "Senior Russian, Malian defense ministry officials discuss defense cooperation prospects",
+          "titulo_es": "",
+          "url": "https://tass.com/defense/2209099",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-10-27T18:55:23+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The meeting was held in an atmosphere of mutual understanding and demonstrated the friendly character of Russian-Malian relations, the Russian Defense Ministry said",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Rusia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia",
+        "Ámbito: Diplomacia, Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-db7260f07894d6d995bc",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "Policías y guardias civiles se encierran en Interior al romperse la negociación sobre su jubilación",
+      "region": "Internacional",
+      "temas": [
+        "Diplomacia"
+      ],
+      "noticias": [
+        {
+          "id": "db7260f07894d6d995bc",
+          "titulo_original": "Policías y guardias civiles se encierran en Interior al romperse la negociación sobre su jubilación",
+          "titulo_es": "",
+          "url": "https://elpais.com/espana/2026-10-27/policias-y-guardias-civiles-se-encierran-en-interior-al-romperse-la-negociacion-sobre-su-jubilacion.html",
+          "fuente": "El País",
+          "pais": "España",
+          "fecha": "2026-10-27T18:54:20+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Representantes de los principales sindicatos y asociaciones inician una “protesta inédita” después de que la número dos del ministerio cerrara el diálogo ante la proximidad del 29-N",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "El País"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Ámbito: Diplomacia",
+        "Posible decisión institucional o negociación"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-83d7c8448e0641a06421",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "Russia jails IT worker for 13 years for donating money to Ukraine",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "83d7c8448e0641a06421",
+          "titulo_original": "Russia jails IT worker for 13 years for donating money to Ukraine",
+          "titulo_es": "Rusia encarcela al trabajador IT durante 13 años por donar dinero a Ucrania",
+          "url": "https://www.aljazeera.com/news/2026/10/27/russia-jails-it-worker-for-13-years-for-donating-money-to-ukraine?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-10-27T18:42:48+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Cryptocurrency exchange Binance shared Ukraine donation data with Russian authorities resulting in his conviction.",
+          "resumen_es": "Cryptocurrency exchange Binance compartió datos de donación de Ucrania con las autoridades rusas que dieron lugar a su condena."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [
+        "Rusia",
+        "Ucrania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia, Ucrania"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -3167,51 +3453,6 @@
       "prioridad_orientativa": 4,
       "motivos_seleccion": [
         "Actores relevantes: Estados Unidos, Ucrania"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-8dae9216e33118bfd150",
-      "fecha": "2026-10-27",
-      "titulo_fuente": "Kremlin aide echoes Putin's calls that Zelensky welcome in Moscow for talks",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "8dae9216e33118bfd150",
-          "titulo_original": "Kremlin aide echoes Putin's calls that Zelensky welcome in Moscow for talks",
-          "titulo_es": "Kremlin aide hace eco de las llamadas de Putin que Zelensky bienvenida en Moscú para charlas",
-          "url": "https://tass.com/politics/2209021",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-27T17:19:28+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The Norwegian head of government and the Finnish leader conveyed \"Zelensky’s active interest in holding a one-on-one\" with Putin to the Russian president, Yury Ushakov said",
-          "resumen_es": "El jefe de gobierno noruego y el líder finlandés transmitieron \"el interés activo de Zeelensky en mantener a un solo\" con Putin al presidente ruso, dijo Yury Ushakov"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia",
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia, Ucrania"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6710,231 +6951,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-36688720592dfb18cfdf",
-      "fecha": "2026-10-27",
-      "titulo_fuente": "Is China’s H-6K strategic bomber getting powerful jamming capabilities?",
-      "region": "China",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "36688720592dfb18cfdf",
-          "titulo_original": "Is China’s H-6K strategic bomber getting powerful jamming capabilities?",
-          "titulo_es": "",
-          "url": "https://www.scmp.com/news/china/military/article/3372255/chinas-h-6k-strategic-bomber-getting-powerful-jamming-capabilities",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-10-27T08:28:59+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "A Chinese H-6K strategic bomber has been sighted with two new electronic warfare pods used for jamming, according to images circulating on social media, potentially indicating an expansion of the aircraft’s capabilities. The photos – which have not been independently verified – emerged on Saturday and show an H6-K in flight with the pods on two of its six pylons. They appear to be similar to the RKZ930 pods carried by China’s J-16D electronic war",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "South China Morning Post"
-      ],
-      "actores_mencionados": [
-        "China"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: China",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-4d2cb9c085192fdf96e9",
-      "fecha": "2026-10-27",
-      "titulo_fuente": "Russia offered help to Gulf states in restoring refineries — minister",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Energía y clima"
-      ],
-      "noticias": [
-        {
-          "id": "4d2cb9c085192fdf96e9",
-          "titulo_original": "Russia offered help to Gulf states in restoring refineries — minister",
-          "titulo_es": "",
-          "url": "https://tass.com/politics/2208369",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-27T08:18:11+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The Russian industry has already sufficiently developed its oil and gas equipment competencies to become an alternative to global licensors, Anton Alikhanov said",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia y gobernanza global",
-        "pregunta": "¿Cómo se distribuyen los costos de coordinación y los incentivos para cooperar?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia",
-        "Ámbito: Energía y clima"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-bfc43e3fa0299c471627",
-      "fecha": "2026-10-27",
-      "titulo_fuente": "Israel: October 7 families remember victims as voters head to polls",
-      "region": "Oriente Medio",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "bfc43e3fa0299c471627",
-          "titulo_original": "Israel: October 7 families remember victims as voters head to polls",
-          "titulo_es": "",
-          "url": "https://www.euronews.com/video/2026/10/27/israel-october-7-families-remember-victims-as-voters-head-to-polls",
-          "fuente": "Euronews",
-          "pais": "Unión Europea",
-          "fecha": "2026-10-27T08:08:49+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "In Tel Aviv, families affected by the 7 October 2023 attacks observed a moment of silence as polling stations were opening across Israel for the general election.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Euronews"
-      ],
-      "actores_mencionados": [
-        "Israel"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Israel",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-4eb4929662b5354a39fa",
-      "fecha": "2026-10-27",
-      "titulo_fuente": "NATO testing drones in combat operations in Ukraine against Russia — commander",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "4eb4929662b5354a39fa",
-          "titulo_original": "NATO testing drones in combat operations in Ukraine against Russia — commander",
-          "titulo_es": "",
-          "url": "https://tass.com/politics/2208365",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-27T08:03:31+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Lieutenant General Apty Alaudinov noted that these drones differ in type, capability and flight range",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia",
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia, Ucrania"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-932560affe1587e67a06",
-      "fecha": "2026-10-27",
-      "titulo_fuente": "Netanyahu, wanted by ICC, battles for political survival as Israel goes to the polls",
-      "region": "Oriente Medio",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "932560affe1587e67a06",
-          "titulo_original": "Netanyahu, wanted by ICC, battles for political survival as Israel goes to the polls",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/news/international/netanyahu-wanted-by-icc-battles-for-political-survival-as-israel-goes-to-the-polls/article71627508.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-10-27T07:50:53+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Public anger over failure to prevent the Hamas attack, an inconclusive war, and the rising costs of living have eroded Netanyahu’s standing at home and abroad; the outcome of this poll is likely to shape the longest-serving PM’s political future, the fate of Likud and the legal challenges he faces",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Hindu"
-      ],
-      "actores_mencionados": [
-        "Israel"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Israel",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-76e2e74785553bc5f34f",
       "fecha": "2026-10-27",
       "titulo_fuente": "Senator Flávio Bolsonaro heads to US following Brazil election loss - CNN",
@@ -6948,6 +6964,18 @@
           "titulo_original": "Senator Flávio Bolsonaro heads to US following Brazil election loss - CNN",
           "titulo_es": "",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUzBQcGFLclZ1aFRtd0h5Y3Y4RGhYdmlXUXBNUnFOd0lUcXhQYXRtVFhISXktRDFHWmQxZzRRS3hsb2lYdjBaelpzQnUyblpFLThqVjMtZV9jUGpfaGM5cEQ2Qm1FUDZ6MTdXT0ZGWmtYNTRxa0VBekdTVDJSWk1KWkhHdjQ4OFFZOS1ROA?oc=5",
+          "fuente": "CNN",
+          "pais": "Estados Unidos",
+          "fecha": "2026-10-27T17:22:41+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Senator Flávio Bolsonaro heads to US following Brazil election loss CNN",
+          "resumen_es": ""
+        },
+        {
+          "id": "7d8c13791a2361508950",
+          "titulo_original": "Senator Flávio Bolsonaro heads to US following Brazil election loss - CNN",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYW53bjY1QWdaWjlnczJPX1dTdlFNLWV0c3VucjBUanNvM1NqN3ZVXzk0UmlwNGh4OGNTTEppUkJ6N1cxc2RmMXhUNmwxQko4YTFMc1c2Z1N4amxnRWZfY0tMWmpXd0NTeTJGeTFkd1FZX25oZldPQTBqM3YzS0wzYk1yVi1ZTnYtMjBFZWJseTkyZw?oc=5",
           "fuente": "CNN",
           "pais": "Estados Unidos",
           "fecha": "2026-10-27T17:22:41+00:00",
@@ -7049,32 +7077,74 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-d3552dd8579e1fb03c49",
+      "id": "a-c3ef2bd4b029d19f5951",
       "fecha": "2026-10-27",
-      "titulo_fuente": "Russian stocks close in the green on Tuesday",
-      "region": "Rusia-Ucrania",
+      "titulo_fuente": "GECF to establish mechanisms to respond to crisis situations on gas market",
+      "region": "Internacional",
       "temas": [
-        "Actualidad"
+        "Energía y clima"
       ],
       "noticias": [
         {
-          "id": "d3552dd8579e1fb03c49",
-          "titulo_original": "Russian stocks close in the green on Tuesday",
-          "titulo_es": "Las acciones rusas cierran en el verde el martes",
-          "url": "https://tass.com/economy/2209085",
+          "id": "c3ef2bd4b029d19f5951",
+          "titulo_original": "GECF to establish mechanisms to respond to crisis situations on gas market",
+          "titulo_es": "GECF establecer mecanismos para responder a situaciones de crisis en el mercado de gas",
+          "url": "https://tass.com/economy/2209121",
           "fuente": "TASS",
           "pais": "Rusia",
-          "fecha": "2026-10-27T18:37:21+00:00",
+          "fecha": "2026-10-27T19:37:38+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The ruble-denominated MOEX Index added 0.76% to 2,510.38 points, while the dollar-denominated RTS Index gained 0.71% to 982.02 points",
-          "resumen_es": "El índice MOEX denominado por rublos añadió 0,76% a 2,510.38 puntos, mientras que el índice RTS denominado en dólares ganó 0,71% a 982.02 puntos"
+          "resumen_original": "",
+          "resumen_es": ""
         }
       ],
       "fuentes": [
         "TASS"
       ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia y gobernanza global",
+        "pregunta": "¿Cómo se distribuyen los costos de coordinación y los incentivos para cooperar?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Energía y clima"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-53a1edaf0ee6cab2fe84",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "Israel election results live: Exit polls soon as Netanyahu faces tight race",
+      "region": "Oriente Medio",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "53a1edaf0ee6cab2fe84",
+          "titulo_original": "Israel election results live: Exit polls soon as Netanyahu faces tight race",
+          "titulo_es": "Israel resultados de las elecciones en vivo: Exit polls soon as Netanyahu faces tight race",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-results-live-exit-polls-soon-as-netanyahu-faces-tight-race?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-10-27T19:28:12+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "High turnout in vote widely described as the most consequential in Israel's history.",
+          "resumen_es": "La alta participación en el voto ampliamente descrita como la más consecutiva en la historia de Israel."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
       "actores_mencionados": [
-        "Rusia"
+        "Israel"
       ],
       "fuentes_independientes": 1,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
@@ -7087,49 +7157,7 @@
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
-        "Actores relevantes: Rusia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-607bb16251985c248e52",
-      "fecha": "2026-10-27",
-      "titulo_fuente": "Pope Leo’s cancer is ‘game changer’ for papacy, Vatican foreign minister says",
-      "region": "Internacional",
-      "temas": [
-        "Diplomacia"
-      ],
-      "noticias": [
-        {
-          "id": "607bb16251985c248e52",
-          "titulo_original": "Pope Leo’s cancer is ‘game changer’ for papacy, Vatican foreign minister says",
-          "titulo_es": "El cáncer del Papa Leo es ‘cambiador de juego’ para el papado, el ministro de Relaciones Exteriores del Vaticano dice",
-          "url": "https://www.scmp.com/news/world/europe/article/3372351/pope-leos-cancer-game-changer-papacy-vatican-foreign-minister-says",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-10-27T18:30:57+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Pope Leo’s lung cancer diagnosis and surgery has affected how Catholics view his health and papacy, the Vatican’s foreign minister said on Tuesday, in an unusual acknowledgement by one of the Church’s most senior officials. “It’s a bit of ‌a game changer,” Archbishop Paul Gallagher told journalists at an event in Rome. Leo, 71, had part of one lung removed in surgery on October 13. His doctors have said the cancer was localised and had not spread",
-          "resumen_es": "El diagnóstico y cirugía del cáncer de pulmón del Papa Leo ha afectado cómo los católicos ven su salud y su papado, dijo el ministro de Relaciones Exteriores del Vaticano el martes, en un reconocimiento inusual por uno de los funcionarios más altos de la Iglesia. “Es un poco de"
-        }
-      ],
-      "fuentes": [
-        "South China Morning Post"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Diplomacia"
+        "Actores relevantes: Israel"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
