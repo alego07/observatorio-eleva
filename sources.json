@@ -186,11 +186,12 @@
     "region": "Estados Unidos",
     "tipo": "medio",
     "web": "https://edition.cnn.com/",
-    "rss": "https://rss.cnn.com/rss/edition_world.rss",
+    "rss": "https://news.google.com/rss/search?q=site%3Acnn.com+when%3A24h&hl=en-US&gl=US&ceid=US%3Aen",
     "activo": true,
-    "nota": "RSS mundial candidato; pendiente de comprobar en la próxima ejecución del recopilador",
+    "nota": "Los RSS oficiales de CNN dejaron de actualizarse; canal indirecto de titulares indexados por Google News. No constituye corroboración independiente.",
     "idioma": "no determinado",
-    "uso_eleva": "noticias"
+    "uso_eleva": "noticias",
+    "rss_via": "Google News"
   },
   {
     "id": "f17",
@@ -563,10 +564,11 @@
     "region": "India y Asia meridional",
     "tipo": "medio",
     "web": "https://indianexpress.com/",
-    "rss": "https://indianexpress.com/section/world/feed/",
+    "rss": "https://news.google.com/rss/search?q=site%3Aindianexpress.com+when%3A24h&hl=en-US&gl=US&ceid=US%3Aen",
     "activo": true,
-    "nota": "RSS publicado por el propio diario, anteriormente bloqueado (403); se comprueba en cada ejecución",
-    "idioma": "en"
+    "nota": "RSS oficial bloqueado HTTP 403 desde GitHub Actions. Canal alternativo indirecto Google News; requiere auditoría y no constituye corroboración independiente.",
+    "idioma": "en",
+    "rss_via": "Google News"
   },
   {
     "id": "f48",
@@ -900,11 +902,12 @@
     "region": "Estados Unidos",
     "tipo": "medio",
     "web": "https://www.politico.com/",
-    "rss": "https://www.politico.com/rss/politics08.xml",
+    "rss": "https://news.google.com/rss/search?q=site%3Apolitico.com+when%3A24h&hl=en-US&gl=US&ceid=US%3Aen",
     "activo": true,
     "idioma": "en",
     "uso_eleva": "noticias",
-    "nota": "Canal RSS público identificado; su accesibilidad desde GitHub Actions se audita en data/health.json. El contenido de análisis se mantiene separado de las noticias."
+    "nota": "RSS oficial bloqueado HTTP 403 desde GitHub Actions. Canal indirecto Google News; no se considera corroboración independiente.",
+    "rss_via": "Google News"
   },
   {
     "id": "f76",

@@ -9,6 +9,9 @@ class Tests(unittest.TestCase):
  def test_atom(self):
   xml=b'<feed xmlns="http://www.w3.org/2005/Atom"><entry><title>Talks</title><link rel="alternate" href="https://example.org/dos"/><updated>2026-10-18T10:00:00Z</updated><summary>Official announcement</summary></entry></feed>'
   v=c.feed_items(xml);self.assertEqual(v[0][1],'https://example.org/dos')
+ def test_xml_header_with_leading_whitespace(self):
+  xml=b'\n <?xml version="1.0"?><rss><channel><item><title>Test</title><link>https://example.org/test</link><pubDate>Tue, 27 Oct 2026 15:00:00 GMT</pubDate></item></channel></rss>'
+  self.assertEqual(len(c.feed_items(xml)),1)
  def test_archive_and_replay(self):
   with tempfile.TemporaryDirectory() as d:
    root=pathlib.Path(d);(root/'sources.json').write_text(json.dumps([{'id':'xx','nombre':'Cancillería ficticia','pais':'Perú','tipo':'oficial','rss':'https://example.org/rss','activo':True}]))

@@ -49,7 +49,7 @@ def feed_items(xmlbytes):
     # Safe input size cap before parse. No DTD or external entities permitted.
     if len(xmlbytes)>3_000_000:raise ValueError('RSS excede el límite de 3MB')
     if b'<!DOCTYPE' in xmlbytes.upper() or b'<!ENTITY' in xmlbytes.upper():raise ValueError('DTD prohibido')
-    root=ET.fromstring(xmlbytes)
+    root=ET.fromstring(xmlbytes.lstrip())
     entries=[e for e in root.iter() if tagname(e.tag) in ('item','entry')]
     out=[]
     for el in entries[:50]:
@@ -107,6 +107,9 @@ def collect(now=None, reader=read_feed):
                 uid=hashlib.sha256(canonical.encode('utf-8')).hexdigest()[:20]
                 regions,topics=tags(title,excerpt)
                 row={'id':uid,'title':title,'url':canonical,'published_utc':stamp.isoformat(), 'source_id':src['id'],'source_name':src['nombre'],'country':src['pais'],'kind':src['tipo'],'excerpt':excerpt,'regions':regions,'topics':topics,'captured_utc':now.isoformat(),'verification':'declaración de la fuente; corroboración independiente pendiente' if src['tipo']=='oficial' else 'publicación periodística; corroboración pendiente'}
+                if src.get('rss_via'):
+                    row['feed_via']=src['rss_via']
+                    row['verification']='Referencia indexada por '+src['rss_via']+'; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.'
                 (analysis_new if src.get('uso_eleva')=='analisis' else new).append(row);n+=1
             reports.append({'source_id':src['id'],'source_name':src['nombre'],'status':'ok','count_recent':n})
             fetched+=1
