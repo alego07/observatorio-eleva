@@ -1,17 +1,97 @@
 {
-  "actualizado_utc": "2026-10-27T14:30:08.486725+00:00",
+  "actualizado_utc": "2026-10-27T15:23:43.019411+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 824,
-      "nuevas_24h": 113,
-      "anteriores_24h": 58,
+      "cantidad_archivada": 845,
+      "nuevas_24h": 122,
+      "anteriores_24h": 66,
       "dias_con_registros": 12,
-      "fecha_ultima": "2026-10-27T14:23:05+00:00",
+      "fecha_ultima": "2026-10-27T15:16:43+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "14fea87d94bf749a6fdf",
+          "fecha": "2026-10-27T15:16:43+00:00",
+          "titulo": "Sanctions to be lifted for gas market stabilization — Putin",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2208859",
+          "traducida": false
+        },
+        {
+          "id": "02b86f5e6a11145d449f",
+          "fecha": "2026-10-27T15:07:37+00:00",
+          "titulo": "New York court delays hearing of Russian roofers’ case to November 12",
+          "fuente": "TASS",
+          "url": "https://tass.com/society/2208827",
+          "traducida": false
+        },
+        {
+          "id": "dc64d2c59b822ea6c2b7",
+          "fecha": "2026-10-27T15:06:03+00:00",
+          "titulo": "Putin remains most popular politician in Moldova’s Gagauzia, poll shows",
+          "fuente": "TASS",
+          "url": "https://tass.com/society/2208821",
+          "traducida": false
+        },
+        {
+          "id": "19e0927abb4b20ddef6c",
+          "fecha": "2026-10-27T15:05:09+00:00",
+          "titulo": "Rosoboronexport to present security solutions at Russia-Africa Summit",
+          "fuente": "TASS",
+          "url": "https://tass.com/defense/2208823",
+          "traducida": false
+        },
+        {
+          "id": "b0f04157bf229ebc1547",
+          "fecha": "2026-10-27T15:01:03+00:00",
+          "titulo": "French presidential candidate labels Ukraine ‘dictatorship’ after extension of martial law",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2208819",
+          "traducida": false
+        },
+        {
+          "id": "5fa751987c725bff03fa",
+          "fecha": "2026-10-27T14:59:36+00:00",
+          "titulo": "Gas exporting countries do not violate int’l law by cooperating with each other — Putin",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2208815",
+          "traducida": false
+        },
+        {
+          "id": "50711c28296d6ad5b463",
+          "fecha": "2026-10-27T14:53:58+00:00",
+          "titulo": "Sending more weapons to Ukraine won't lead to peace — Italian deputy PM Salvini",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2208809",
+          "traducida": false
+        },
+        {
+          "id": "ff67ce0216d404ff4a11",
+          "fecha": "2026-10-27T14:50:09+00:00",
+          "titulo": "Putin on permafrost: ‘Nothing is permanent’",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2208811",
+          "traducida": false
+        },
+        {
+          "id": "2ba25230888e593647bf",
+          "fecha": "2026-10-27T14:38:48+00:00",
+          "titulo": "One country's sovereignty cannot be ensured at expense of others — Putin",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2208799",
+          "traducida": false
+        },
+        {
+          "id": "e27732654bf21e69332d",
+          "fecha": "2026-10-27T14:28:46+00:00",
+          "titulo": "Europe moderately upbeat ahead of trilateral talks on Ukraine — Polish PM",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2208803",
+          "traducida": false
+        },
         {
           "id": "72a2d33b808a214be974",
           "fecha": "2026-10-27T14:23:05+00:00",
@@ -171,99 +251,43 @@
           "fuente": "TASS",
           "url": "https://tass.com/economy/2208723",
           "traducida": false
-        },
-        {
-          "id": "8bcc04f669ccb8d2e67e",
-          "fecha": "2026-10-27T12:59:17+00:00",
-          "titulo": "GECF participants have resources to tackle most difficult tasks in gas sector — Putin",
-          "fuente": "TASS",
-          "url": "https://tass.com/economy/2208715",
-          "traducida": false
-        },
-        {
-          "id": "d145d1a3d82c61939e5f",
-          "fecha": "2026-10-27T12:58:07+00:00",
-          "titulo": "Putin proposes GECF nations team up to optimize gas supply routes",
-          "fuente": "TASS",
-          "url": "https://tass.com/economy/2208713",
-          "traducida": false
-        },
-        {
-          "id": "e583c2162b706038d3d7",
-          "fecha": "2026-10-27T12:34:47+00:00",
-          "titulo": "Putin calls Nord Stream bombing full-blown terrorism",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2208695",
-          "traducida": false
-        },
-        {
-          "id": "4fe1a86e93174b265c83",
-          "fecha": "2026-10-27T12:30:42+00:00",
-          "titulo": "Emir of Qatar, Iran’s leader discuss developments around Hormuz in Moscow",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2208687",
-          "traducida": false
-        },
-        {
-          "id": "cce6c6a0739f996afe0e",
-          "fecha": "2026-10-27T12:30:05+00:00",
-          "titulo": "With diesel deal, Trump is teaching Reagan’s lesson to a larger class",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/opinion/world-opinion/article/3372171/diesel-deal-trump-teaching-reagans-lesson-larger-class",
-          "traducida": false
-        },
-        {
-          "id": "8e8a3d0281bf67e39b7f",
-          "fecha": "2026-10-27T12:23:48+00:00",
-          "titulo": "Russia ranks first globally in terms of natural gas reserves — Putin",
-          "fuente": "TASS",
-          "url": "https://tass.com/economy/2208675",
-          "traducida": false
-        },
-        {
-          "id": "c0c19660ce3ce49726f9",
-          "fecha": "2026-10-27T12:23:10+00:00",
-          "titulo": "Russian forces strike Ukrainian long-range UAV assembly workshops in past day",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2208677",
-          "traducida": false
-        },
-        {
-          "id": "c64c25f67d281ff0dd53",
-          "fecha": "2026-10-27T12:16:34+00:00",
-          "titulo": "OPEC+ action provided for predictability on oil market — Putin",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2208671",
-          "traducida": false
-        },
-        {
-          "id": "128766a19e7a25b40fb7",
-          "fecha": "2026-10-27T12:16:32+00:00",
-          "titulo": "Zelensky says discussed with Stubb, Store preparations for November talks",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2208669",
-          "traducida": false
-        },
-        {
-          "id": "22f1debb042c15505da5",
-          "fecha": "2026-10-27T12:14:16+00:00",
-          "titulo": "Norway, Finland leaders hold ‘frank’ talk with Putin on ending Ukraine war",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/world/europe/article/3372326/norway-finland-leaders-hold-frank-talk-putin-ending-ukraine-war",
-          "traducida": false
         }
       ]
     },
     {
       "id": "oriente-medio",
       "titulo": "Oriente Medio: seguridad y diplomacia",
-      "cantidad_archivada": 491,
-      "nuevas_24h": 71,
-      "anteriores_24h": 56,
+      "cantidad_archivada": 504,
+      "nuevas_24h": 76,
+      "anteriores_24h": 60,
       "dias_con_registros": 12,
-      "fecha_ultima": "2026-10-27T14:23:33+00:00",
+      "fecha_ultima": "2026-10-27T15:06:03+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "dc64d2c59b822ea6c2b7",
+          "fecha": "2026-10-27T15:06:03+00:00",
+          "titulo": "Putin remains most popular politician in Moldova’s Gagauzia, poll shows",
+          "fuente": "TASS",
+          "url": "https://tass.com/society/2208821",
+          "traducida": false
+        },
+        {
+          "id": "2c5937b753b9b78c3ab4",
+          "fecha": "2026-10-27T14:59:18+00:00",
+          "titulo": "Blockade of Iran by US threatens stability of energy markets — Pezeshkian",
+          "fuente": "TASS",
+          "url": "https://tass.com/economy/2208813",
+          "traducida": false
+        },
+        {
+          "id": "889daf4164a64b331022",
+          "fecha": "2026-10-27T14:48:59+00:00",
+          "titulo": "Israel keeps committing genocide in Gaza after truce, UN inquiry says",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3372344/israel-keeps-committing-genocide-gaza-after-truce-un-inquiry-says",
+          "traducida": false
+        },
         {
           "id": "fa45cc723635fb31b834",
           "fecha": "2026-10-27T14:23:33+00:00",
@@ -302,6 +326,14 @@
           "titulo": "Will Israel elections change its Iran approach?",
           "fuente": "Deutsche Welle",
           "url": "https://www.dw.com/en/will-israel-elections-change-its-iran-approach/a-79776122?maca=en-rss-en-world-4025-rdf",
+          "traducida": false
+        },
+        {
+          "id": "3bbc7b1fbde956702085",
+          "fecha": "2026-10-27T13:31:00+00:00",
+          "titulo": "Will elections in Israel change its Iran approach?",
+          "fuente": "Deutsche Welle",
+          "url": "https://www.dw.com/en/will-elections-in-israel-change-its-iran-approach/a-79776122?maca=en-rss-en-world-4025-rdf",
           "traducida": false
         },
         {
@@ -471,51 +503,27 @@
           "fuente": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
           "traducida": false
-        },
-        {
-          "id": "0c9bfa84560fa0a2ff1a",
-          "fecha": "2026-10-27T10:54:43+00:00",
-          "titulo": "Two men charged with U.K. national security offences over incident at U.S.-run military base in England",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/two-men-charged-with-uk-national-security-offences-over-incident-at-us-run-military-base-in-england/article71630852.ece",
-          "traducida": false
-        },
-        {
-          "id": "3270d73114161ba0a864",
-          "fecha": "2026-10-27T10:50:19+00:00",
-          "titulo": "Incident près d’une base aérienne anglaise : deux hommes inculpés pour atteinte à la sécurité nationale, l’Iran dans le viseur des autorités",
-          "fuente": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/10/27/incident-pres-d-une-base-aerienne-anglaise-deux-hommes-inculpes-pour-atteinte-a-la-securite-nationale-l-iran-dans-le-viseur-des-autorites_6801228_3210.html",
-          "traducida": false
-        },
-        {
-          "id": "1a4b43006e38173ffabb",
-          "fecha": "2026-10-27T10:36:54+00:00",
-          "titulo": "Iran says US ‘not serious’ about talks amid Tehran meeting",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/iran-says-us-not-serious-about-talks-amid-tehran-meeting?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "c0f9ea0e572ba303e075",
-          "fecha": "2026-10-27T10:36:01+00:00",
-          "titulo": "Two men charged over alleged plot to assist Iran after RAF Fairford incident",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/uk-news/2026/oct/27/two-men-charged-raf-fairford",
-          "traducida": false
         }
       ]
     },
     {
       "id": "suramerica",
       "titulo": "Sudamérica: integración y política exterior",
-      "cantidad_archivada": 150,
+      "cantidad_archivada": 158,
       "nuevas_24h": 25,
-      "anteriores_24h": 38,
+      "anteriores_24h": 45,
       "dias_con_registros": 12,
-      "fecha_ultima": "2026-10-27T13:58:59+00:00",
+      "fecha_ultima": "2026-10-27T15:00:14+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "58bd15a49eb47e3979b2",
+          "fecha": "2026-10-27T15:00:14+00:00",
+          "titulo": "Lula’s win in Brazil deals blow to Trump’s Latin America push: former China envoy",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3372318/lulas-win-brazil-deals-blow-trumps-latin-america-push-former-china-envoy",
+          "traducida": false
+        },
         {
           "id": "f066515c9fb9f7068ec6",
           "fecha": "2026-10-27T13:58:59+00:00",
@@ -605,6 +613,14 @@
           "traducida": false
         },
         {
+          "id": "d3c1f5814222a58b6b41",
+          "fecha": "2026-10-26T21:37:22+00:00",
+          "titulo": "Trump says Brazil election looked 'rigged' without giving evidence",
+          "fuente": "Euronews",
+          "url": "https://www.euronews.com/2026/10/26/trump-says-brazil-election-looked-rigged-without-giving-evidence",
+          "traducida": false
+        },
+        {
           "id": "934bd8317579bd82d0ad",
           "fecha": "2026-10-26T19:45:15+00:00",
           "titulo": "A final surge: On Luiz Inácio Lula da Silva’s triumph in Brazil",
@@ -626,6 +642,14 @@
           "titulo": "Brazil’s real sinks after Lula’s re-election victory",
           "fuente": "Al Jazeera",
           "url": "https://www.aljazeera.com/economy/2026/10/26/brazils-real-sinks-after-lulas-re-election-victory?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "0294c96f21e83b5a5532",
+          "fecha": "2026-10-26T17:59:09+00:00",
+          "titulo": "Pope Leo XIV confirms Latin America trip after recovering from surgery",
+          "fuente": "Euronews",
+          "url": "https://www.euronews.com/2026/10/26/pope-leo-xiv-confirms-latin-america-trip-after-recovering-from-surgery",
           "traducida": false
         },
         {
@@ -731,29 +755,257 @@
           "fuente": "El País",
           "url": "https://elpais.com/america/2026-10-26/asi-voto-cada-municipio-de-brasil-las-grandes-ciudades-y-el-voto-de-terceros-dieron-la-vuelta-a-la-eleccion.html",
           "traducida": false
-        },
+        }
+      ]
+    },
+    {
+      "id": "union-europea",
+      "titulo": "Unión Europea y relaciones exteriores",
+      "cantidad_archivada": 305,
+      "nuevas_24h": 15,
+      "anteriores_24h": 24,
+      "dias_con_registros": 12,
+      "fecha_ultima": "2026-10-27T13:50:31+00:00",
+      "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
+      "publicaciones": [
         {
-          "id": "9749e394fa91acfe6a1c",
-          "fecha": "2026-10-26T13:02:22+00:00",
-          "titulo": "How did Lula beat Bolsonaro after losing Brazil’s first-round election?",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/26/how-did-lula-beat-bolsonaro-after-losing-brazils-first-round-election?traffic_source=rss",
+          "id": "5c33e6d8b1dbc7704c77",
+          "fecha": "2026-10-27T13:50:31+00:00",
+          "titulo": "Au Nigeria, les orpailleurs morts en détention ont subi « des traitements cruels, inhumains et dégradants », selon une commission d’enquête",
+          "fuente": "Le Monde",
+          "url": "https://www.lemonde.fr/afrique/article/2026/10/27/au-nigeria-les-orpailleurs-morts-en-detention-ont-subi-des-traitements-cruels-inhumains-et-degradants-selon-une-commission-d-enquete_6801283_3212.html",
           "traducida": false
         },
         {
-          "id": "476a82724d1efcd88ecc",
-          "fecha": "2026-10-26T12:51:14+00:00",
-          "titulo": "Los mercados brasileños registran una caída histórica tras la inesperada victoria de Lula",
+          "id": "c6afe67e3ad0a3fb64cd",
+          "fecha": "2026-10-27T13:45:20+00:00",
+          "titulo": "Europe's birth rate hits all-time low",
+          "fuente": "TASS",
+          "url": "https://tass.com/society/2208765",
+          "traducida": false
+        },
+        {
+          "id": "e6dbbe4308b9900c06cf",
+          "fecha": "2026-10-27T12:32:19+00:00",
+          "titulo": "French government mulled blocking social networks and mobile internet amid protests",
+          "fuente": "POLITICO Europe",
+          "url": "https://www.politico.eu/article/french-government-mulled-blocking-social-network-amid-protests/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "traducida": false
+        },
+        {
+          "id": "4fc5953b2bfdb1bd13e7",
+          "fecha": "2026-10-27T12:02:20+00:00",
+          "titulo": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
+          "fuente": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+          "traducida": false
+        },
+        {
+          "id": "e8d6eb8e81d020b0a32a",
+          "fecha": "2026-10-27T11:30:00+00:00",
+          "titulo": "Media advisory - Accreditation for the EU-UK Summit on 20 November 2026",
+          "fuente": "Noticias del Consejo de la UE",
+          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/27/media-advisory-accreditation-for-the-eu-uk-summit-on-20-november-2026/",
+          "traducida": false
+        },
+        {
+          "id": "c71b60df3aa759130c46",
+          "fecha": "2026-10-27T11:15:29+00:00",
+          "titulo": "Los líderes de Finlandia y Noruega llaman a Putin para buscar una salida a la guerra en Ucrania",
           "fuente": "El País",
-          "url": "https://elpais.com/economia/2026-10-26/los-mercados-brasilenos-afrontan-una-caida-historica-tras-la-inesperada-victoria-de-lula.html",
+          "url": "https://elpais.com/internacional/2026-10-27/los-lideres-de-finlandia-y-noruega-llaman-a-putin-para-buscar-una-salida-a-la-guerra-en-ucrania.html",
           "traducida": false
         },
         {
-          "id": "cebb2093d450cd55d24c",
-          "fecha": "2026-10-26T12:50:24+00:00",
-          "titulo": "Brazil runoff live updates: world leaders congratulate Lula on historic election win as Bolsonaro refuses to concede",
+          "id": "115466e1f7c189883e9b",
+          "fecha": "2026-10-27T09:05:01+00:00",
+          "titulo": "EN DIRECT, législatives en Israël : participation en nette hausse, paroles d’électeurs… nos dernières informations avec nos correspondants sur place",
+          "fuente": "Le Monde",
+          "url": "https://www.lemonde.fr/international/live/2026/10/27/en-direct-legislatives-en-israel-suivez-la-journee-d-election-avec-nos-correspondants-et-posez-vos-questions_6801217_3210.html",
+          "traducida": false
+        },
+        {
+          "id": "ff8279b476350eb905ae",
+          "fecha": "2026-10-27T08:30:10+00:00",
+          "titulo": "EU-China hybrid car deal won’t really help European carmakers",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/opinion/world-opinion/article/3372117/eu-china-hybrid-car-deal-wont-really-help-european-carmakers",
+          "traducida": false
+        },
+        {
+          "id": "cc7ef3c0103066a5e5de",
+          "fecha": "2026-10-27T08:17:44+00:00",
+          "titulo": "Merz courts Asian investors as he insists Europe remains a safe bet",
+          "fuente": "Euronews",
+          "url": "https://www.euronews.com/2026/10/27/merz-courts-asian-investors-as-he-insists-europe-remains-a-safe-bet",
+          "traducida": false
+        },
+        {
+          "id": "1fc0ac321df4a43759fd",
+          "fecha": "2026-10-26T22:20:11+00:00",
+          "titulo": "France: crowds fill Marseille's Old Port in anti-racism protest",
+          "fuente": "Euronews",
+          "url": "https://www.euronews.com/video/2026/10/26/france-crowds-fill-marseilles-old-port-in-anti-racism-protest",
+          "traducida": false
+        },
+        {
+          "id": "e54dbe0c17cd82e3d288",
+          "fecha": "2026-10-26T19:16:47+00:00",
+          "titulo": "Burnham rules out UK return to EU free movement without referendum",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/europe/article/3372217/burnham-rules-out-uk-return-eu-free-movement-without-referendum",
+          "traducida": false
+        },
+        {
+          "id": "1ace7f6d2480b62142d6",
+          "fecha": "2026-10-26T16:31:24+00:00",
+          "titulo": "France was unprepared for October 17 riots, Macron admits",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2208185",
+          "traducida": false
+        },
+        {
+          "id": "6794605d4e83f18da71e",
+          "fecha": "2026-10-26T16:21:46+00:00",
+          "titulo": "Watch: Lula defeats far-right Bolsonaro to secure a fourth presidential term | Above the Fold | Oct 26, 2026",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/videos/shows/watch-lula-defeats-far-right-bolsonaro-to-secure-a-fourth-presidential-term-above-the-fold-oct-26-2026/article71628339.ece",
+          "traducida": false
+        },
+        {
+          "id": "d739a6e3e3f43904a957",
+          "fecha": "2026-10-26T16:00:03+00:00",
+          "titulo": "L’appel de cinq ministres européens de la défense : « Pour que l’espace euro-atlantique demeure sûr, nous devons davantage investir dans nos propres capacités et nos propres ressources »",
+          "fuente": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/10/26/l-appel-de-cinq-ministres-europeens-de-la-defense-pour-que-l-espace-euro-atlantique-demeure-sur-nous-devons-davantage-investir-dans-nos-propres-capacites-et-nos-propres-ressources_6800805_3232.html",
+          "traducida": false
+        },
+        {
+          "id": "2c56eb4fecbd7c41b588",
+          "fecha": "2026-10-26T15:44:20+00:00",
+          "titulo": "Russia not France’s enemy, presidential candidate Melenchon says",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2208115",
+          "traducida": false
+        },
+        {
+          "id": "be7f243c1026b50b2a74",
+          "fecha": "2026-10-26T14:42:27+00:00",
+          "titulo": "Audi boss under fire in Germany for Trump rally appearance",
           "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
+          "url": "https://www.theguardian.com/world/2026/oct/26/audi-boss-under-fire-in-germany-for-trump-rally-appearance",
+          "traducida": false
+        },
+        {
+          "id": "47a1c7a70977df6be644",
+          "fecha": "2026-10-26T14:40:25+00:00",
+          "titulo": "Bruselas acepta el plan de Temu para frenar la venta de productos ilegales en su plataforma",
+          "fuente": "El País",
+          "url": "https://elpais.com/economia/2026-10-26/bruselas-acepta-el-plan-de-temu-para-frenar-la-venta-productos-ilegales-en-su-plataforma.html",
+          "traducida": false
+        },
+        {
+          "id": "2cc910be933e3f0a2163",
+          "fecha": "2026-10-26T14:29:42+00:00",
+          "titulo": "Ukraine forced to ask partners for just a few air defense missiles — Air Force",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2207993",
+          "traducida": false
+        },
+        {
+          "id": "845e21b0493328973121",
+          "fecha": "2026-10-26T14:00:43+00:00",
+          "titulo": "The chaos in France is a ‘warning signal’ for Australia’s public spending and rising costs",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/business/2026/oct/27/the-chaos-in-france-is-a-warning-signal-for-australias-public-spending-and-rising-costs",
+          "traducida": false
+        },
+        {
+          "id": "67e8ff5c1798de9c50e5",
+          "fecha": "2026-10-26T14:00:11+00:00",
+          "titulo": "Le Ghanéen Ibrahim Mahama cultive un art sans limites du partage",
+          "fuente": "Le Monde",
+          "url": "https://www.lemonde.fr/culture/article/2026/10/26/le-ghaneen-ibrahim-mahama-cultive-un-art-sans-limites-du-partage_6800793_3246.html",
+          "traducida": false
+        },
+        {
+          "id": "5a3e2734c2cd0f2a4217",
+          "fecha": "2026-10-26T13:33:11+00:00",
+          "titulo": "France’s Macron promises ‘strong measures’ to ease protests",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/europe/article/3372201/frances-macron-promises-strong-measures-ease-protests",
+          "traducida": false
+        },
+        {
+          "id": "b6e747cadcd03046c1b3",
+          "fecha": "2026-10-26T13:32:00+00:00",
+          "titulo": "Germany's Merz heads to Asia as security issues loom large",
+          "fuente": "Deutsche Welle",
+          "url": "https://www.dw.com/en/germany-s-merz-heads-to-asia-as-security-issues-loom-large/a-79764065?maca=en-rss-en-world-4025-rdf",
+          "traducida": false
+        },
+        {
+          "id": "d93f4de996a6179478ad",
+          "fecha": "2026-10-26T13:32:00+00:00",
+          "titulo": "Germany's Merz in Asia as security issues loom large",
+          "fuente": "Deutsche Welle",
+          "url": "https://www.dw.com/en/germany-s-merz-in-asia-as-security-issues-loom-large/a-79764065?maca=en-rss-en-world-4025-rdf",
+          "traducida": false
+        },
+        {
+          "id": "06a5d6f1a42a19dfcf95",
+          "fecha": "2026-10-26T13:00:00+00:00",
+          "titulo": "Media advisory - Accreditation for the European Council, 17 and 18 December 2026",
+          "fuente": "Noticias del Consejo de la UE",
+          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/26/media-advisory-accreditation-for-the-european-council-17-and-18-december-2026/",
+          "traducida": false
+        },
+        {
+          "id": "ebe3d0111bd02afe3d2d",
+          "fecha": "2026-10-26T12:46:20+00:00",
+          "titulo": "Emmanuel Macron warns October 31 protests in France could turn ‘risky’",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/emmanuel-macron-warns-october-31-protests-in-france-could-turn-risky/article71627036.ece",
+          "traducida": false
+        },
+        {
+          "id": "1e468468b1b1318d7248",
+          "fecha": "2026-10-26T12:30:06+00:00",
+          "titulo": "Europe can still shape the rules of AI",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/opinion/world-opinion/article/3372104/europe-can-still-shape-rules-ai",
+          "traducida": false
+        },
+        {
+          "id": "48923d41f09f6338119d",
+          "fecha": "2026-10-26T12:16:26+00:00",
+          "titulo": "EU debt to reach one trillion euro in 2027 — chief auditor",
+          "fuente": "TASS",
+          "url": "https://tass.com/economy/2207931",
+          "traducida": false
+        },
+        {
+          "id": "e66db311ef0c4f887cde",
+          "fecha": "2026-10-26T12:01:25+00:00",
+          "titulo": "¿Qué es ‘Blocus’? La etiqueta en redes que desató los disturbios en Barcelona",
+          "fuente": "El País",
+          "url": "https://elpais.com/espana/catalunya/2026-10-26/que-es-blocus-la-etiqueta-en-redes-que-desato-los-disturbios-en-barcelona.html",
+          "traducida": false
+        },
+        {
+          "id": "cceeef8a93a7faab0e71",
+          "fecha": "2026-10-26T11:13:58+00:00",
+          "titulo": "Statement from the Coalition on Atrocity Prevention and Justice for Sudan: one year on from the 26 October 2025 Atrocity in El Fasher",
+          "fuente": "GOV.UK FCDO",
+          "url": "https://www.gov.uk/government/news/statement-from-the-coalition-on-atrocity-prevention-and-justice-for-sudan-one-year-on-from-the-26-october-2025-atrocity-in-el-fasher",
+          "traducida": false
+        },
+        {
+          "id": "529f0e6b0984b356d0e2",
+          "fecha": "2026-10-26T11:04:55+00:00",
+          "titulo": "Key European defence ministers meet in Paris to discuss Ukraine support",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/26/key-european-defence-ministers-meet-in-paris-to-discuss-ukraine-support?traffic_source=rss",
           "traducida": false
         }
       ]
@@ -761,9 +1013,9 @@
     {
       "id": "india-asia",
       "titulo": "India y Asia-Pacífico",
-      "cantidad_archivada": 154,
-      "nuevas_24h": 17,
-      "anteriores_24h": 16,
+      "cantidad_archivada": 155,
+      "nuevas_24h": 15,
+      "anteriores_24h": 18,
       "dias_con_registros": 12,
       "fecha_ultima": "2026-10-27T13:15:32+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -945,6 +1197,14 @@
           "traducida": false
         },
         {
+          "id": "102e50fc97648c930edd",
+          "fecha": "2026-10-26T12:02:00+00:00",
+          "titulo": "Face-Offs at India-China Border Are Continuing at Multiple Points, ITBP Chief Confirms",
+          "fuente": "The Diplomat",
+          "url": "https://thediplomat.com/2026/10/face-offs-at-india-china-border-are-continuing-at-multiple-points-itbp-chief-confirms/",
+          "traducida": false
+        },
+        {
           "id": "9def979b58e94ad698e8",
           "fecha": "2026-10-26T09:34:41+00:00",
           "titulo": "Why Poland wants a stronger relationship with India | The Hindu Editorial",
@@ -999,265 +1259,257 @@
           "fuente": "The Hindu",
           "url": "https://www.thehindu.com/sci-tech/science/claude-cohen-tannoudji-laser-cooling-pancharatnam-michael-berry-ramaseshan/article71625449.ece",
           "traducida": false
-        },
-        {
-          "id": "a82e2c7bf3fc4d6aa030",
-          "fecha": "2026-10-26T01:30:13+00:00",
-          "titulo": "Head of Hong Kong’s new drug regulator pledges to build trust, push innovation",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3372080/head-hong-kongs-new-drug-regulator-pledges-build-trust-push-innovation",
-          "traducida": false
         }
       ]
     },
     {
-      "id": "union-europea",
-      "titulo": "Unión Europea y relaciones exteriores",
-      "cantidad_archivada": 302,
-      "nuevas_24h": 14,
-      "anteriores_24h": 22,
-      "dias_con_registros": 12,
-      "fecha_ultima": "2026-10-27T13:50:31+00:00",
+      "id": "eeuu-china",
+      "titulo": "Competencia estratégica Estados Unidos–China",
+      "cantidad_archivada": 38,
+      "nuevas_24h": 4,
+      "anteriores_24h": 6,
+      "dias_con_registros": 10,
+      "fecha_ultima": "2026-10-27T15:00:14+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
         {
-          "id": "5c33e6d8b1dbc7704c77",
-          "fecha": "2026-10-27T13:50:31+00:00",
-          "titulo": "Au Nigeria, les orpailleurs morts en détention ont subi « des traitements cruels, inhumains et dégradants », selon une commission d’enquête",
-          "fuente": "Le Monde",
-          "url": "https://www.lemonde.fr/afrique/article/2026/10/27/au-nigeria-les-orpailleurs-morts-en-detention-ont-subi-des-traitements-cruels-inhumains-et-degradants-selon-une-commission-d-enquete_6801283_3212.html",
-          "traducida": false
-        },
-        {
-          "id": "c6afe67e3ad0a3fb64cd",
-          "fecha": "2026-10-27T13:45:20+00:00",
-          "titulo": "Europe's birth rate hits all-time low",
-          "fuente": "TASS",
-          "url": "https://tass.com/society/2208765",
-          "traducida": false
-        },
-        {
-          "id": "4fc5953b2bfdb1bd13e7",
-          "fecha": "2026-10-27T12:02:20+00:00",
-          "titulo": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
-          "fuente": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
-          "traducida": false
-        },
-        {
-          "id": "e8d6eb8e81d020b0a32a",
-          "fecha": "2026-10-27T11:30:00+00:00",
-          "titulo": "Media advisory - Accreditation for the EU-UK Summit on 20 November 2026",
-          "fuente": "Noticias del Consejo de la UE",
-          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/27/media-advisory-accreditation-for-the-eu-uk-summit-on-20-november-2026/",
-          "traducida": false
-        },
-        {
-          "id": "c71b60df3aa759130c46",
-          "fecha": "2026-10-27T11:15:29+00:00",
-          "titulo": "Los líderes de Finlandia y Noruega llaman a Putin para buscar una salida a la guerra en Ucrania",
-          "fuente": "El País",
-          "url": "https://elpais.com/internacional/2026-10-27/los-lideres-de-finlandia-y-noruega-llaman-a-putin-para-buscar-una-salida-a-la-guerra-en-ucrania.html",
-          "traducida": false
-        },
-        {
-          "id": "115466e1f7c189883e9b",
-          "fecha": "2026-10-27T09:05:01+00:00",
-          "titulo": "EN DIRECT, législatives en Israël : participation en nette hausse, paroles d’électeurs… nos dernières informations avec nos correspondants sur place",
-          "fuente": "Le Monde",
-          "url": "https://www.lemonde.fr/international/live/2026/10/27/en-direct-legislatives-en-israel-suivez-la-journee-d-election-avec-nos-correspondants-et-posez-vos-questions_6801217_3210.html",
-          "traducida": false
-        },
-        {
-          "id": "ff8279b476350eb905ae",
-          "fecha": "2026-10-27T08:30:10+00:00",
-          "titulo": "EU-China hybrid car deal won’t really help European carmakers",
+          "id": "58bd15a49eb47e3979b2",
+          "fecha": "2026-10-27T15:00:14+00:00",
+          "titulo": "Lula’s win in Brazil deals blow to Trump’s Latin America push: former China envoy",
           "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/opinion/world-opinion/article/3372117/eu-china-hybrid-car-deal-wont-really-help-european-carmakers",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3372318/lulas-win-brazil-deals-blow-trumps-latin-america-push-former-china-envoy",
           "traducida": false
         },
         {
-          "id": "e54dbe0c17cd82e3d288",
-          "fecha": "2026-10-26T19:16:47+00:00",
-          "titulo": "Burnham rules out UK return to EU free movement without referendum",
+          "id": "d70bd7609a34146a322f",
+          "fecha": "2026-10-27T10:25:59+00:00",
+          "titulo": "US ends visa waiver for Chinese over birth tourism, people smuggling allegations",
           "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/world/europe/article/3372217/burnham-rules-out-uk-return-eu-free-movement-without-referendum",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3372309/us-ends-pacific-visa-waiver-over-birth-tourism-people-smuggling-allegations",
           "traducida": false
         },
         {
-          "id": "1ace7f6d2480b62142d6",
-          "fecha": "2026-10-26T16:31:24+00:00",
-          "titulo": "France was unprepared for October 17 riots, Macron admits",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2208185",
-          "traducida": false
-        },
-        {
-          "id": "6794605d4e83f18da71e",
-          "fecha": "2026-10-26T16:21:46+00:00",
-          "titulo": "Watch: Lula defeats far-right Bolsonaro to secure a fourth presidential term | Above the Fold | Oct 26, 2026",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/videos/shows/watch-lula-defeats-far-right-bolsonaro-to-secure-a-fourth-presidential-term-above-the-fold-oct-26-2026/article71628339.ece",
-          "traducida": false
-        },
-        {
-          "id": "d739a6e3e3f43904a957",
-          "fecha": "2026-10-26T16:00:03+00:00",
-          "titulo": "L’appel de cinq ministres européens de la défense : « Pour que l’espace euro-atlantique demeure sûr, nous devons davantage investir dans nos propres capacités et nos propres ressources »",
-          "fuente": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/10/26/l-appel-de-cinq-ministres-europeens-de-la-defense-pour-que-l-espace-euro-atlantique-demeure-sur-nous-devons-davantage-investir-dans-nos-propres-capacites-et-nos-propres-ressources_6800805_3232.html",
-          "traducida": false
-        },
-        {
-          "id": "2c56eb4fecbd7c41b588",
-          "fecha": "2026-10-26T15:44:20+00:00",
-          "titulo": "Russia not France’s enemy, presidential candidate Melenchon says",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2208115",
-          "traducida": false
-        },
-        {
-          "id": "be7f243c1026b50b2a74",
-          "fecha": "2026-10-26T14:42:27+00:00",
-          "titulo": "Audi boss under fire in Germany for Trump rally appearance",
+          "id": "e6d594ea2a28ff43dd71",
+          "fecha": "2026-10-27T04:42:50+00:00",
+          "titulo": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
           "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/26/audi-boss-under-fire-in-germany-for-trump-rally-appearance",
+          "url": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
           "traducida": false
         },
         {
-          "id": "47a1c7a70977df6be644",
-          "fecha": "2026-10-26T14:40:25+00:00",
-          "titulo": "Bruselas acepta el plan de Temu para frenar la venta de productos ilegales en su plataforma",
-          "fuente": "El País",
-          "url": "https://elpais.com/economia/2026-10-26/bruselas-acepta-el-plan-de-temu-para-frenar-la-venta-productos-ilegales-en-su-plataforma.html",
+          "id": "71cc5ed131ca52343cd1",
+          "fecha": "2026-10-26T19:45:41+00:00",
+          "titulo": "Tensions Rise",
+          "fuente": "War on the Rocks",
+          "url": "https://warontherocks.com/tensions-rise/",
           "traducida": false
         },
         {
-          "id": "2cc910be933e3f0a2163",
-          "fecha": "2026-10-26T14:29:42+00:00",
-          "titulo": "Ukraine forced to ask partners for just a few air defense missiles — Air Force",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2207993",
+          "id": "c234a4ad9c1328724838",
+          "fecha": "2026-10-26T14:36:47+00:00",
+          "titulo": "Win for Lula boosts China’s foothold and gives Brazil rare earths leverage",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3372207/win-lula-boosts-chinas-foothold-and-gives-brazil-rare-earths-leverage",
           "traducida": false
         },
         {
-          "id": "845e21b0493328973121",
-          "fecha": "2026-10-26T14:00:43+00:00",
-          "titulo": "The chaos in France is a ‘warning signal’ for Australia’s public spending and rising costs",
+          "id": "87f26598c242a4e434f8",
+          "fecha": "2026-10-26T11:11:58+00:00",
+          "titulo": "Trump officials back Orbán bid for UN secretary-general, WSJ reports",
+          "fuente": "Euronews",
+          "url": "https://www.euronews.com/2026/10/26/trump-officials-back-orban-bid-for-un-secretary-general-wsj-reports",
+          "traducida": false
+        },
+        {
+          "id": "fa804b578b558026cb66",
+          "fecha": "2026-10-26T11:03:12+00:00",
+          "titulo": "Pentagon chief Hegseth to visit Philippines to meet US allies at Asean events",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3372182/pentagon-chief-hegseth-visit-philippines-meet-us-allies-asean-events",
+          "traducida": false
+        },
+        {
+          "id": "81c60c88e50af5c04b52",
+          "fecha": "2026-10-26T09:07:52+00:00",
+          "titulo": "Lula secures surprise win to retain Brazil presidency",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3372167/lula-secures-surprise-win-retain-brazil-presidency",
+          "traducida": false
+        },
+        {
+          "id": "655c80d2689095ec28a7",
+          "fecha": "2026-10-26T08:00:23+00:00",
+          "titulo": "Could new US investment curbs complicate China’s biotech licensing surge?",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/business/article/3372151/could-new-us-investment-curbs-complicate-chinas-biotech-licensing-surge",
+          "traducida": false
+        },
+        {
+          "id": "5eaedd630adeb6d6403a",
+          "fecha": "2026-10-26T04:45:07+00:00",
+          "titulo": "US visits to China decline, Turkish rare earth deposit: 5 weekend reads you missed",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/article/3372113/us-visits-china-decline-turkish-rare-earth-deposit-5-weekend-reads-you-missed",
+          "traducida": false
+        },
+        {
+          "id": "097ce32a83063d9a7579",
+          "fecha": "2026-10-25T13:43:19+00:00",
+          "titulo": "Volkswagen to build $4bn Audi SUV factory in US despite job cuts at home",
           "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/business/2026/oct/27/the-chaos-in-france-is-a-warning-signal-for-australias-public-spending-and-rising-costs",
+          "url": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home",
           "traducida": false
         },
         {
-          "id": "67e8ff5c1798de9c50e5",
-          "fecha": "2026-10-26T14:00:11+00:00",
-          "titulo": "Le Ghanéen Ibrahim Mahama cultive un art sans limites du partage",
-          "fuente": "Le Monde",
-          "url": "https://www.lemonde.fr/culture/article/2026/10/26/le-ghaneen-ibrahim-mahama-cultive-un-art-sans-limites-du-partage_6800793_3246.html",
-          "traducida": false
-        },
-        {
-          "id": "5a3e2734c2cd0f2a4217",
-          "fecha": "2026-10-26T13:33:11+00:00",
-          "titulo": "France’s Macron promises ‘strong measures’ to ease protests",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/world/europe/article/3372201/frances-macron-promises-strong-measures-ease-protests",
-          "traducida": false
-        },
-        {
-          "id": "b6e747cadcd03046c1b3",
-          "fecha": "2026-10-26T13:32:00+00:00",
-          "titulo": "Germany's Merz heads to Asia as security issues loom large",
-          "fuente": "Deutsche Welle",
-          "url": "https://www.dw.com/en/germany-s-merz-heads-to-asia-as-security-issues-loom-large/a-79764065?maca=en-rss-en-world-4025-rdf",
-          "traducida": false
-        },
-        {
-          "id": "d93f4de996a6179478ad",
-          "fecha": "2026-10-26T13:32:00+00:00",
-          "titulo": "Germany's Merz in Asia as security issues loom large",
-          "fuente": "Deutsche Welle",
-          "url": "https://www.dw.com/en/germany-s-merz-in-asia-as-security-issues-loom-large/a-79764065?maca=en-rss-en-world-4025-rdf",
-          "traducida": false
-        },
-        {
-          "id": "06a5d6f1a42a19dfcf95",
-          "fecha": "2026-10-26T13:00:00+00:00",
-          "titulo": "Media advisory - Accreditation for the European Council, 17 and 18 December 2026",
-          "fuente": "Noticias del Consejo de la UE",
-          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/26/media-advisory-accreditation-for-the-european-council-17-and-18-december-2026/",
-          "traducida": false
-        },
-        {
-          "id": "ebe3d0111bd02afe3d2d",
-          "fecha": "2026-10-26T12:46:20+00:00",
-          "titulo": "Emmanuel Macron warns October 31 protests in France could turn ‘risky’",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/emmanuel-macron-warns-october-31-protests-in-france-could-turn-risky/article71627036.ece",
-          "traducida": false
-        },
-        {
-          "id": "1e468468b1b1318d7248",
-          "fecha": "2026-10-26T12:30:06+00:00",
-          "titulo": "Europe can still shape the rules of AI",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/opinion/world-opinion/article/3372104/europe-can-still-shape-rules-ai",
-          "traducida": false
-        },
-        {
-          "id": "48923d41f09f6338119d",
-          "fecha": "2026-10-26T12:16:26+00:00",
-          "titulo": "EU debt to reach one trillion euro in 2027 — chief auditor",
+          "id": "2c94ae730102ccdc05cf",
+          "fecha": "2026-10-25T12:49:35+00:00",
+          "titulo": "Bilateral meeting between Putin, Trump at APEC not arranged but possible — Kremlin aide",
           "fuente": "TASS",
-          "url": "https://tass.com/economy/2207931",
+          "url": "https://tass.com/politics/2207523",
           "traducida": false
         },
         {
-          "id": "e66db311ef0c4f887cde",
-          "fecha": "2026-10-26T12:01:25+00:00",
-          "titulo": "¿Qué es ‘Blocus’? La etiqueta en redes que desató los disturbios en Barcelona",
-          "fuente": "El País",
-          "url": "https://elpais.com/espana/catalunya/2026-10-26/que-es-blocus-la-etiqueta-en-redes-que-desato-los-disturbios-en-barcelona.html",
+          "id": "fe003398e25460d084ce",
+          "fecha": "2026-10-25T08:30:06+00:00",
+          "titulo": "East Asia’s cultural economies are bridging politics-driven divides",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/opinion/asia-opinion/article/3371868/east-asias-cultural-economies-are-bridging-politics-driven-divides",
           "traducida": false
         },
         {
-          "id": "cceeef8a93a7faab0e71",
-          "fecha": "2026-10-26T11:13:58+00:00",
-          "titulo": "Statement from the Coalition on Atrocity Prevention and Justice for Sudan: one year on from the 26 October 2025 Atrocity in El Fasher",
-          "fuente": "GOV.UK FCDO",
-          "url": "https://www.gov.uk/government/news/statement-from-the-coalition-on-atrocity-prevention-and-justice-for-sudan-one-year-on-from-the-26-october-2025-atrocity-in-el-fasher",
+          "id": "d3fefb6394151b5eebf1",
+          "fecha": "2026-10-24T11:08:27+00:00",
+          "titulo": "North Korean leader Kim Jong-un visits Chinese border city of Dandong",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3372026/north-korean-leader-kim-jong-un-visits-chinese-border-city-dandong",
           "traducida": false
         },
         {
-          "id": "529f0e6b0984b356d0e2",
-          "fecha": "2026-10-26T11:04:55+00:00",
-          "titulo": "Key European defence ministers meet in Paris to discuss Ukraine support",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/26/key-european-defence-ministers-meet-in-paris-to-discuss-ukraine-support?traffic_source=rss",
+          "id": "1dd5989885c624ca76bb",
+          "fecha": "2026-10-24T10:03:53+00:00",
+          "titulo": "Is Washington misreading Beijing? Decline in US visits to China sparks concern",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3371535/washington-misreading-beijing-decline-us-visits-china-sparks-concern",
           "traducida": false
         },
         {
-          "id": "cf34987037d3c426ef47",
-          "fecha": "2026-10-26T09:49:51+00:00",
-          "titulo": "Germany intends to purchase Ukraine’s Bars cruise missiles — newspaper",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2207763",
+          "id": "74fec8a470ad92b0734e",
+          "fecha": "2026-10-24T09:20:03+00:00",
+          "titulo": "‘Systematically dismantled’: Hegseth’s new offensive against China’s Confucius Institutes",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3372023/systematically-dismantled-hegseths-new-offensive-against-chinas-confucius-institutes",
           "traducida": false
         },
         {
-          "id": "9def979b58e94ad698e8",
-          "fecha": "2026-10-26T09:34:41+00:00",
-          "titulo": "Why Poland wants a stronger relationship with India | The Hindu Editorial",
+          "id": "9b6adc05960a3f8eaefe",
+          "fecha": "2026-10-23T22:27:23+00:00",
+          "titulo": "US, allies and China vie for influence through Pacific security deals",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/us/article/3371989/us-allies-and-china-vie-influence-through-pacific-security-deals",
+          "traducida": false
+        },
+        {
+          "id": "753944d645f4b7bde6b4",
+          "fecha": "2026-10-23T20:51:17+00:00",
+          "titulo": "Zelensky hopes Beijing can use ‘influence’ over Moscow to help stop Ukraine war",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3371987/zelensky-hopes-beijing-can-use-influence-over-moscow-help-stop-ukraine-war",
+          "traducida": false
+        },
+        {
+          "id": "ec6515a40bf41f7cffeb",
+          "fecha": "2026-10-22T15:00:05+00:00",
+          "titulo": "Quad confirmed, Manila envoy signals likely ‘Squad’ talks before Trump-Xi summit",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/us/diplomacy/article/3371804/quad-confirmed-manila-envoy-signals-likely-squad-talks-trump-xi-summit",
+          "traducida": false
+        },
+        {
+          "id": "17361f123b0ba9738323",
+          "fecha": "2026-10-22T13:30:09+00:00",
+          "titulo": "EU’s idea that China is caving to pressure is ‘serious misjudgment’: ex-diplomat",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/economy/china-economy/article/3371803/eus-idea-china-caving-pressure-serious-misjudgment-ex-diplomat",
+          "traducida": false
+        },
+        {
+          "id": "a59ead78000729a1cdb2",
+          "fecha": "2026-10-22T12:00:10+00:00",
+          "titulo": "US-China ties need more working-level dialogues, not just summits: business chamber",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/economy/article/3371746/us-china-ties-need-more-working-level-dialogues-not-just-summits-business-chamber",
+          "traducida": false
+        },
+        {
+          "id": "e495444b52e59952ed3b",
+          "fecha": "2026-10-22T11:00:16+00:00",
+          "titulo": "Could US advances in drone command give it an edge over the PLA in a Taiwan conflict?",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/military/article/3371799/could-us-advances-drone-command-give-it-edge-over-pla-taiwan-conflict",
+          "traducida": false
+        },
+        {
+          "id": "a53479bd8d1f8f69c0c2",
+          "fecha": "2026-10-21T19:32:00+00:00",
+          "titulo": "Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.",
+          "fuente": "Deutsche Welle",
+          "url": "https://www.dw.com/en/trump-putin-and-xi-at-one-table-without-ukraine-what-moscow-wants-from-the-proposal-and-why-beijing-might-agree/a-79726190?maca=en-rss-en-world-4025-rdf",
+          "traducida": false
+        },
+        {
+          "id": "491e75c99ea0e499b088",
+          "fecha": "2026-10-21T14:43:31+00:00",
+          "titulo": "Putin-Xi-Trump summit ‘being prepared’: Kremlin",
           "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/videos/why-poland-wants-a-stronger-relationship-with-india-the-hindu-editorial/article71626195.ece",
+          "url": "https://www.thehindu.com/news/international/putin-xi-trump-summit-being-prepared-kremlin/article71608186.ece",
           "traducida": false
         },
         {
-          "id": "82eac70ee30a047cfe5a",
-          "fecha": "2026-10-26T09:24:21+00:00",
-          "titulo": "Sánchez felicita a Lula por su victoria en las elecciones: “Lo que ha pasado en Brasil, pasará en España”",
-          "fuente": "El País",
-          "url": "https://elpais.com/espana/2026-10-26/sanchez-felicita-a-lula-por-su-victoria-en-las-elecciones-lo-que-ha-pasado-en-brasil-pasara-en-espana.html",
+          "id": "469c1a2e8bd96946fdd8",
+          "fecha": "2026-10-21T14:00:12+00:00",
+          "titulo": "Washington’s DeepSeek ban may deter US firms from adopting Chinese AI models: experts",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/tech/big-tech/article/3371649/washingtons-deepseek-ban-may-deter-us-firms-adopting-chinese-ai-models-experts",
+          "traducida": false
+        },
+        {
+          "id": "7989ba31e370e9291f2d",
+          "fecha": "2026-10-21T08:30:10+00:00",
+          "titulo": "Can China turn national power into world leadership?",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/opinion/china-opinion/article/3371409/can-china-turn-national-power-world-leadership",
+          "traducida": false
+        },
+        {
+          "id": "80027f842b788eca69c6",
+          "fecha": "2026-10-20T17:13:44+00:00",
+          "titulo": "First Quad leaders’ summit after two years in Manila next month, Rubio confirms",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/us/article/3371558/first-quad-leaders-summit-after-two-years-manila-next-month-rubio-confirms",
+          "traducida": false
+        },
+        {
+          "id": "1b67f20eb1583e339d91",
+          "fecha": "2026-10-20T16:12:30+00:00",
+          "titulo": "China close to matching US spending on ‘new way of war’, Republican senator warns",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3371555/china-close-matching-us-spending-new-way-war-republican-senator-warns",
+          "traducida": false
+        },
+        {
+          "id": "8a4d7890331025a22f99",
+          "fecha": "2026-10-20T15:00:07+00:00",
+          "titulo": "Will Xi, Trump, Putin meet at Apec? First, they must agree on an agenda",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3371544/will-xi-trump-putin-meet-apec-first-they-must-agree-agenda",
+          "traducida": false
+        },
+        {
+          "id": "d1f8e24c9b8c208063cc",
+          "fecha": "2026-10-20T12:00:07+00:00",
+          "titulo": "Chinese military vessels and spy drones track Keen Sword war games off Japan",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/politics/article/3371525/chinese-military-vessels-and-spy-drones-track-keen-sword-war-games-japan",
           "traducida": false
         }
       ]
@@ -1639,267 +1891,23 @@
       ]
     },
     {
-      "id": "eeuu-china",
-      "titulo": "Competencia estratégica Estados Unidos–China",
-      "cantidad_archivada": 35,
-      "nuevas_24h": 3,
-      "anteriores_24h": 4,
-      "dias_con_registros": 10,
-      "fecha_ultima": "2026-10-27T10:25:59+00:00",
-      "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
-      "publicaciones": [
-        {
-          "id": "d70bd7609a34146a322f",
-          "fecha": "2026-10-27T10:25:59+00:00",
-          "titulo": "US ends visa waiver for Chinese over birth tourism, people smuggling allegations",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3372309/us-ends-pacific-visa-waiver-over-birth-tourism-people-smuggling-allegations",
-          "traducida": false
-        },
-        {
-          "id": "e6d594ea2a28ff43dd71",
-          "fecha": "2026-10-27T04:42:50+00:00",
-          "titulo": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
-          "traducida": false
-        },
-        {
-          "id": "c234a4ad9c1328724838",
-          "fecha": "2026-10-26T14:36:47+00:00",
-          "titulo": "Win for Lula boosts China’s foothold and gives Brazil rare earths leverage",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3372207/win-lula-boosts-chinas-foothold-and-gives-brazil-rare-earths-leverage",
-          "traducida": false
-        },
-        {
-          "id": "fa804b578b558026cb66",
-          "fecha": "2026-10-26T11:03:12+00:00",
-          "titulo": "Pentagon chief Hegseth to visit Philippines to meet US allies at Asean events",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3372182/pentagon-chief-hegseth-visit-philippines-meet-us-allies-asean-events",
-          "traducida": false
-        },
-        {
-          "id": "81c60c88e50af5c04b52",
-          "fecha": "2026-10-26T09:07:52+00:00",
-          "titulo": "Lula secures surprise win to retain Brazil presidency",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3372167/lula-secures-surprise-win-retain-brazil-presidency",
-          "traducida": false
-        },
-        {
-          "id": "655c80d2689095ec28a7",
-          "fecha": "2026-10-26T08:00:23+00:00",
-          "titulo": "Could new US investment curbs complicate China’s biotech licensing surge?",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/business/article/3372151/could-new-us-investment-curbs-complicate-chinas-biotech-licensing-surge",
-          "traducida": false
-        },
-        {
-          "id": "5eaedd630adeb6d6403a",
-          "fecha": "2026-10-26T04:45:07+00:00",
-          "titulo": "US visits to China decline, Turkish rare earth deposit: 5 weekend reads you missed",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/world/article/3372113/us-visits-china-decline-turkish-rare-earth-deposit-5-weekend-reads-you-missed",
-          "traducida": false
-        },
-        {
-          "id": "097ce32a83063d9a7579",
-          "fecha": "2026-10-25T13:43:19+00:00",
-          "titulo": "Volkswagen to build $4bn Audi SUV factory in US despite job cuts at home",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home",
-          "traducida": false
-        },
-        {
-          "id": "2c94ae730102ccdc05cf",
-          "fecha": "2026-10-25T12:49:35+00:00",
-          "titulo": "Bilateral meeting between Putin, Trump at APEC not arranged but possible — Kremlin aide",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2207523",
-          "traducida": false
-        },
-        {
-          "id": "fe003398e25460d084ce",
-          "fecha": "2026-10-25T08:30:06+00:00",
-          "titulo": "East Asia’s cultural economies are bridging politics-driven divides",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/opinion/asia-opinion/article/3371868/east-asias-cultural-economies-are-bridging-politics-driven-divides",
-          "traducida": false
-        },
-        {
-          "id": "d3fefb6394151b5eebf1",
-          "fecha": "2026-10-24T11:08:27+00:00",
-          "titulo": "North Korean leader Kim Jong-un visits Chinese border city of Dandong",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3372026/north-korean-leader-kim-jong-un-visits-chinese-border-city-dandong",
-          "traducida": false
-        },
-        {
-          "id": "1dd5989885c624ca76bb",
-          "fecha": "2026-10-24T10:03:53+00:00",
-          "titulo": "Is Washington misreading Beijing? Decline in US visits to China sparks concern",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3371535/washington-misreading-beijing-decline-us-visits-china-sparks-concern",
-          "traducida": false
-        },
-        {
-          "id": "74fec8a470ad92b0734e",
-          "fecha": "2026-10-24T09:20:03+00:00",
-          "titulo": "‘Systematically dismantled’: Hegseth’s new offensive against China’s Confucius Institutes",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3372023/systematically-dismantled-hegseths-new-offensive-against-chinas-confucius-institutes",
-          "traducida": false
-        },
-        {
-          "id": "9b6adc05960a3f8eaefe",
-          "fecha": "2026-10-23T22:27:23+00:00",
-          "titulo": "US, allies and China vie for influence through Pacific security deals",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/us/article/3371989/us-allies-and-china-vie-influence-through-pacific-security-deals",
-          "traducida": false
-        },
-        {
-          "id": "753944d645f4b7bde6b4",
-          "fecha": "2026-10-23T20:51:17+00:00",
-          "titulo": "Zelensky hopes Beijing can use ‘influence’ over Moscow to help stop Ukraine war",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3371987/zelensky-hopes-beijing-can-use-influence-over-moscow-help-stop-ukraine-war",
-          "traducida": false
-        },
-        {
-          "id": "ec6515a40bf41f7cffeb",
-          "fecha": "2026-10-22T15:00:05+00:00",
-          "titulo": "Quad confirmed, Manila envoy signals likely ‘Squad’ talks before Trump-Xi summit",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/us/diplomacy/article/3371804/quad-confirmed-manila-envoy-signals-likely-squad-talks-trump-xi-summit",
-          "traducida": false
-        },
-        {
-          "id": "17361f123b0ba9738323",
-          "fecha": "2026-10-22T13:30:09+00:00",
-          "titulo": "EU’s idea that China is caving to pressure is ‘serious misjudgment’: ex-diplomat",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/economy/china-economy/article/3371803/eus-idea-china-caving-pressure-serious-misjudgment-ex-diplomat",
-          "traducida": false
-        },
-        {
-          "id": "a59ead78000729a1cdb2",
-          "fecha": "2026-10-22T12:00:10+00:00",
-          "titulo": "US-China ties need more working-level dialogues, not just summits: business chamber",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/economy/article/3371746/us-china-ties-need-more-working-level-dialogues-not-just-summits-business-chamber",
-          "traducida": false
-        },
-        {
-          "id": "e495444b52e59952ed3b",
-          "fecha": "2026-10-22T11:00:16+00:00",
-          "titulo": "Could US advances in drone command give it an edge over the PLA in a Taiwan conflict?",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/military/article/3371799/could-us-advances-drone-command-give-it-edge-over-pla-taiwan-conflict",
-          "traducida": false
-        },
-        {
-          "id": "a53479bd8d1f8f69c0c2",
-          "fecha": "2026-10-21T19:32:00+00:00",
-          "titulo": "Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.",
-          "fuente": "Deutsche Welle",
-          "url": "https://www.dw.com/en/trump-putin-and-xi-at-one-table-without-ukraine-what-moscow-wants-from-the-proposal-and-why-beijing-might-agree/a-79726190?maca=en-rss-en-world-4025-rdf",
-          "traducida": false
-        },
-        {
-          "id": "491e75c99ea0e499b088",
-          "fecha": "2026-10-21T14:43:31+00:00",
-          "titulo": "Putin-Xi-Trump summit ‘being prepared’: Kremlin",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/putin-xi-trump-summit-being-prepared-kremlin/article71608186.ece",
-          "traducida": false
-        },
-        {
-          "id": "469c1a2e8bd96946fdd8",
-          "fecha": "2026-10-21T14:00:12+00:00",
-          "titulo": "Washington’s DeepSeek ban may deter US firms from adopting Chinese AI models: experts",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/tech/big-tech/article/3371649/washingtons-deepseek-ban-may-deter-us-firms-adopting-chinese-ai-models-experts",
-          "traducida": false
-        },
-        {
-          "id": "7989ba31e370e9291f2d",
-          "fecha": "2026-10-21T08:30:10+00:00",
-          "titulo": "Can China turn national power into world leadership?",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/opinion/china-opinion/article/3371409/can-china-turn-national-power-world-leadership",
-          "traducida": false
-        },
-        {
-          "id": "80027f842b788eca69c6",
-          "fecha": "2026-10-20T17:13:44+00:00",
-          "titulo": "First Quad leaders’ summit after two years in Manila next month, Rubio confirms",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/us/article/3371558/first-quad-leaders-summit-after-two-years-manila-next-month-rubio-confirms",
-          "traducida": false
-        },
-        {
-          "id": "1b67f20eb1583e339d91",
-          "fecha": "2026-10-20T16:12:30+00:00",
-          "titulo": "China close to matching US spending on ‘new way of war’, Republican senator warns",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3371555/china-close-matching-us-spending-new-way-war-republican-senator-warns",
-          "traducida": false
-        },
-        {
-          "id": "8a4d7890331025a22f99",
-          "fecha": "2026-10-20T15:00:07+00:00",
-          "titulo": "Will Xi, Trump, Putin meet at Apec? First, they must agree on an agenda",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3371544/will-xi-trump-putin-meet-apec-first-they-must-agree-agenda",
-          "traducida": false
-        },
-        {
-          "id": "d1f8e24c9b8c208063cc",
-          "fecha": "2026-10-20T12:00:07+00:00",
-          "titulo": "Chinese military vessels and spy drones track Keen Sword war games off Japan",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/politics/article/3371525/chinese-military-vessels-and-spy-drones-track-keen-sword-war-games-japan",
-          "traducida": false
-        },
-        {
-          "id": "16dbea06d304564a4b15",
-          "fecha": "2026-10-20T06:19:30+00:00",
-          "titulo": "Chinese Navy says U.S. ship near Sabina Shoal jeopardised maritime security",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/chinese-navy-says-us-ship-near-sabina-shoal-jeopardised-maritime-security/article71603400.ece",
-          "traducida": false
-        },
-        {
-          "id": "d7b26eb2bd6b3b94d0d3",
-          "fecha": "2026-10-19T22:00:06+00:00",
-          "titulo": "US-China negotiators race to nail down concrete deals as Shenzhen Apec looms",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3371413/us-china-negotiators-race-nail-down-concrete-deals-shenzhen-apec-looms",
-          "traducida": false
-        },
-        {
-          "id": "8e44d30b52cf9030916c",
-          "fecha": "2026-10-19T17:49:39+00:00",
-          "titulo": "Rubio pitches US business in Central Asia, says China ties need not suffer",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/us/article/3371420/rubio-pitches-us-business-central-asia-says-china-ties-need-not-suffer?utm_source=rss_feed",
-          "traducida": false
-        }
-      ]
-    },
-    {
       "id": "peru-mundo",
       "titulo": "Perú en el sistema internacional",
-      "cantidad_archivada": 3,
-      "nuevas_24h": 1,
+      "cantidad_archivada": 4,
+      "nuevas_24h": 2,
       "anteriores_24h": 0,
       "dias_con_registros": 3,
-      "fecha_ultima": "2026-10-26T16:23:00+00:00",
+      "fecha_ultima": "2026-10-26T17:59:09+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "0294c96f21e83b5a5532",
+          "fecha": "2026-10-26T17:59:09+00:00",
+          "titulo": "Pope Leo XIV confirms Latin America trip after recovering from surgery",
+          "fuente": "Euronews",
+          "url": "https://www.euronews.com/2026/10/26/pope-leo-xiv-confirms-latin-america-trip-after-recovering-from-surgery",
+          "traducida": false
+        },
         {
           "id": "7ce889c201d5eddf6cd3",
           "fecha": "2026-10-26T16:23:00+00:00",

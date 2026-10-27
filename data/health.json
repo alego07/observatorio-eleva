@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-27T14:28:17.429351+00:00",
+  "updated_utc": "2026-10-27T15:22:15.820873+00:00",
   "results": [
     {
       "source_id": "f16",
@@ -30,6 +30,12 @@
       "source_name": "El País",
       "status": "ok",
       "count_recent": 49
+    },
+    {
+      "source_id": "f29",
+      "source_name": "POLITICO Europe",
+      "status": "ok",
+      "count_recent": 10
     },
     {
       "source_id": "f31",
@@ -90,6 +96,42 @@
       "source_name": "Agência Brasil (EBC)",
       "status": "ok",
       "count_recent": 3
+    },
+    {
+      "source_id": "f75",
+      "source_name": "POLITICO US",
+      "status": "error",
+      "message": "HTTP Error 403: Forbidden"
+    },
+    {
+      "source_id": "f76",
+      "source_name": "Euronews",
+      "status": "ok",
+      "count_recent": 43
+    },
+    {
+      "source_id": "f77",
+      "source_name": "The Diplomat",
+      "status": "ok",
+      "count_recent": 18
+    },
+    {
+      "source_id": "f78",
+      "source_name": "Americas Quarterly",
+      "status": "error",
+      "message": "XML or text declaration not at start of entity: line 2, column 1"
+    },
+    {
+      "source_id": "f79",
+      "source_name": "The Economist",
+      "status": "ok",
+      "count_recent": 1
+    },
+    {
+      "source_id": "f80",
+      "source_name": "War on the Rocks",
+      "status": "ok",
+      "count_recent": 6
     }
   ]
 }
