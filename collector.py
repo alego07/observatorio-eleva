@@ -92,7 +92,7 @@ def collect(now=None, reader=read_feed):
     now=now or dt.datetime.now(UTC)
     local=now.astimezone(TZ)
     sources=load(ROOT/'sources.json',[])
-    reports=[];new=[];fetched=0;attempted=0
+    reports=[];new=[];analysis_new=[];fetched=0;attempted=0
     for src in sources:
         feed=src.get('rss','')
         if not feed or not src.get('activo',True):continue
@@ -107,12 +107,20 @@ def collect(now=None, reader=read_feed):
                 uid=hashlib.sha256(canonical.encode('utf-8')).hexdigest()[:20]
                 regions,topics=tags(title,excerpt)
                 row={'id':uid,'title':title,'url':canonical,'published_utc':stamp.isoformat(), 'source_id':src['id'],'source_name':src['nombre'],'country':src['pais'],'kind':src['tipo'],'excerpt':excerpt,'regions':regions,'topics':topics,'captured_utc':now.isoformat(),'verification':'declaración de la fuente; corroboración independiente pendiente' if src['tipo']=='oficial' else 'publicación periodística; corroboración pendiente'}
-                new.append(row);n+=1
+                (analysis_new if src.get('uso_eleva')=='analisis' else new).append(row);n+=1
             reports.append({'source_id':src['id'],'source_name':src['nombre'],'status':'ok','count_recent':n})
             fetched+=1
         except Exception as e:
             reports.append({'source_id':src['id'],'source_name':src['nombre'],'status':'error','message':str(e)[:170]})
         time.sleep(.15)
+    # Biblioteca de análisis: conserva referencias anteriores, separada del flujo de noticias.
+    library_path=DATA/'analisis'/'referencias.json'
+    previous=load(library_path,[])
+    by_url={r.get('url'):r for r in previous if isinstance(r,dict) and r.get('url')}
+    for row in analysis_new:
+        by_url[row['url']]=row
+    library=sorted(by_url.values(),key=lambda r:r.get('published_utc',''),reverse=True)[:400]
+    save(library_path,library)
     yearmonths=set()
     dedup={}
     for row in new:dedup[row['id']]=row
@@ -138,7 +146,7 @@ def collect(now=None, reader=read_feed):
     localdate=local.date().isoformat()
     day_rows=sorted([r for r in recent if r['published_utc'][:10] >= (now-dt.timedelta(hours=36)).date().isoformat()], key=lambda r:(score(r),r['published_utc']),reverse=True)
     save(DATA/'daily'/f'{localdate}.json', {'date':localdate,'generated_utc':now.isoformat(),'items':day_rows[:75],'note':'Selección automática de entradas RSS; NO es un informe de hechos verificados ni análisis con IA.'})
-    save(DATA/'manifest.json',{'months':sorted(months,reverse=True),'days':sorted(set(index.get('days',[]))|{localdate},reverse=True),'runs':index.get('runs',0)+1,'last_attempt_utc':now.isoformat(),'last_attempt_lima':local.strftime('%Y-%m-%d %H:%M'),'last_successful_feeds':fetched,'feed_count':attempted,'new_entries_in_recent_feeds':len(dedup),'items_in_current':len(current)})
+    save(DATA/'manifest.json',{'months':sorted(months,reverse=True),'days':sorted(set(index.get('days',[]))|{localdate},reverse=True),'runs':index.get('runs',0)+1,'last_attempt_utc':now.isoformat(),'last_attempt_lima':local.strftime('%Y-%m-%d %H:%M'),'last_successful_feeds':fetched,'feed_count':attempted,'new_entries_in_recent_feeds':len(dedup),'items_in_current':len(current),'analysis_references':len(library),'analysis_sources':sum(1 for x in sources if x.get('uso_eleva')=='analisis' and x.get('rss'))})
     save(DATA/'health.json',{'updated_utc':now.isoformat(),'results':reports})
     print(f'Fecha Lima: {localdate}; RSS ok {fetched}/{attempted}; entradas RSS recientes {len(dedup)}; archivo meses {len(months)}')
     return fetched,attempted
