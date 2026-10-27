@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-10-27T18:12:05.307138+00:00",
+  "created_utc": "2026-10-27T18:46:10.594391+00:00",
   "events": [
     {
       "id": "a-f73dff1900b32994b7f8",
@@ -237,6 +237,52 @@
         "Cobertura de fuentes distintas",
         "Actores relevantes: Rusia, Ucrania",
         "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-37d6bfbd363aba3e8262",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "Russia-Qatar trade turnover modest in volume, but has increased by 10% — Putin",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "37d6bfbd363aba3e8262",
+          "titulo_original": "Russia-Qatar trade turnover modest in volume, but has increased by 10% — Putin",
+          "titulo_es": "Rusia-Qatar volumen de negocios modesto, pero ha aumentado un 10% — Putin",
+          "url": "https://tass.com/economy/2209071",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-10-27T18:24:17+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "A set of measures is being implemented to diversify and increase trade turnover, the Russian leader said",
+          "resumen_es": "Se está aplicando un conjunto de medidas para diversificar y aumentar la rotación del comercio, dijo el líder ruso"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Rusia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia compleja y economía política internacional",
+        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia",
+        "Ámbito: Comercio y finanzas",
+        "Posible decisión institucional o negociación"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -2281,160 +2327,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-116cc03917aa6cda94db",
-      "fecha": "2026-10-27",
-      "titulo_fuente": "The Anti-Taliban Resistance Has Survived. Can It Win?",
-      "region": "China",
-      "temas": [
-        "Diplomacia",
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "116cc03917aa6cda94db",
-          "titulo_original": "The Anti-Taliban Resistance Has Survived. Can It Win?",
-          "titulo_es": "",
-          "url": "https://warontherocks.com/the-anti-taliban-resistance-has-survived-can-it-win/",
-          "fuente": "War on the Rocks",
-          "pais": "Estados Unidos",
-          "fecha": "2026-10-27T07:30:16+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "As the Taliban enters its sixth year in power, it remains more powerful than it was before the Sept. 11 attacks. The Taliban’s flag flies in all of Afghanistan’s 34 provinces. While only Russia has formally recognized the group as the country’s government, China and the United Arab Emirates have officially accredited or accepted Taliban ambassadors and exchanged diplomatic staff, with Pakistan, Qatar, Iran, Kazakhstan, Uzbekistan, Turkmenistan, a",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "War on the Rocks"
-      ],
-      "actores_mencionados": [
-        "China",
-        "Rusia",
-        "Irán"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: China, Irán, Rusia",
-        "Ámbito: Diplomacia, Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-864ed27f792ab5af65d0",
-      "fecha": "2026-10-27",
-      "titulo_fuente": "Ceasefire brokered by Melania Trump begins in Russian-occupied Ukrainian town",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "864ed27f792ab5af65d0",
-          "titulo_original": "Ceasefire brokered by Melania Trump begins in Russian-occupied Ukrainian town",
-          "titulo_es": "",
-          "url": "https://www.scmp.com/news/world/europe/article/3372265/ceasefire-brokered-melania-trump-begins-russian-occupied-ukrainian-town",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-10-27T06:15:25+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "A localised ceasefire between Ukraine and Russia took effect early Tuesday ahead of a humanitarian mission brokered by US first lady Melania Trump, as missile attacks resumed in Kyiv. The local pause in fighting started at 3am to allow an aid mission into the Russian-occupied town of Oleshky in southern Ukraine later this week. According to her office, Melania Trump led talks with civilian negotiators from Russia and Ukraine after meeting with UN",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "South China Morning Post"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "Rusia",
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos, Rusia, Ucrania",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-cf2eeae66cc6d0fbb510",
-      "fecha": "2026-10-27",
-      "titulo_fuente": "Israeli military detains Egyptian national who crossed border",
-      "region": "Oriente Medio",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "cf2eeae66cc6d0fbb510",
-          "titulo_original": "Israeli military detains Egyptian national who crossed border",
-          "titulo_es": "El ejército israelí detiene a un nacional egipcio que cruzó la frontera",
-          "url": "https://www.aljazeera.com/news/2026/10/27/israeli-military-detains-egyptian-national-who-crossed-border?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-10-27T15:10:27+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Egyptian man held after crossing into Israel near Nitzana, his motive for the crossing still unknown.",
-          "resumen_es": "El hombre egipcio se mantuvo después de cruzar a Israel cerca de Nitzana, su motivo para el cruce aún desconocido."
-        },
-        {
-          "id": "7e180985ea4ffbf8cca0",
-          "titulo_original": "Israeli military says it detained Egyptian who crossed into its territory",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/news/international/israeli-military-says-it-detains-an-egyptian-civilian-who-crossed-the-border-near-nitzana/article71630138.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-10-27T07:24:11+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The Egyptian civilian was transferred to security ​forces ‌for further questioning, the ‌Israeli military said",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera",
-        "The Hindu"
-      ],
-      "actores_mencionados": [
-        "Israel"
-      ],
-      "fuentes_independientes": 2,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 5,
-      "motivos_seleccion": [
-        "Cobertura de fuentes distintas",
-        "Actores relevantes: Israel",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-8f1f15a018eec4d67361",
       "fecha": "2026-10-27",
       "titulo_fuente": "2 men charged in UK with helping Iran over air force base incident",
@@ -2489,6 +2381,324 @@
         "Cobertura de fuentes distintas",
         "Actores relevantes: Irán",
         "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-4d4b05602ee98264a224",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "Senior Russian diplomats discuss West’s steps to contain Russia, its militarization push",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Diplomacia",
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "4d4b05602ee98264a224",
+          "titulo_original": "Senior Russian diplomats discuss West’s steps to contain Russia, its militarization push",
+          "titulo_es": "Altos diplomáticos rusos debaten Los pasos de West para contener Rusia, su empuje de militarización",
+          "url": "https://tass.com/politics/2209089",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-10-27T18:40:09+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "In addition, threats and challenges to Russia’s national interests, ways to overcome those and prospects for unlocking the potential of the Trans-Arctic Transport Corridor in logistics as well as issues of ensuring security of the Kaliningrad Region were analyzed",
+          "resumen_es": "Además, amenazas y desafíos a los intereses nacionales de Rusia, maneras de superarlos y perspectivas de desbloquear el potencial del Corredor de Transporte Transáctico en logística, así como cuestiones de garantizar la seguridad del Kaliningr"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Rusia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia",
+        "Ámbito: Diplomacia, Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-7cb9d29cc1435140b999",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "The WhatsApp ‘general’ behind Lula’s election comeback in Brazil",
+      "region": "América Latina",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "7cb9d29cc1435140b999",
+          "titulo_original": "The WhatsApp ‘general’ behind Lula’s election comeback in Brazil",
+          "titulo_es": "El ‘general’ WhatsApp detrás de la vuelta electoral de Lula en Brasil",
+          "url": "https://www.aljazeera.com/news/2026/10/27/the-whatsapp-general-behind-lulas-election-comeback-in-brazil?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-10-27T18:35:05+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Andre Janones built a WhatsApp army of nearly 11 million subscribers. Did it help Lula win?",
+          "resumen_es": "Andre Janones construyó un ejército de WhatsApp de casi 11 millones de suscriptores. ¿Ayudaba a Lula a ganar?"
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [
+        "Brasil"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Brasil",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-b63c71edb881e6106775",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "Brazil's Flavio Bolsonaro headed to U.S. after losing election, sources say",
+      "region": "Estados Unidos",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "b63c71edb881e6106775",
+          "titulo_original": "Brazil's Flavio Bolsonaro headed to U.S. after losing election, sources say",
+          "titulo_es": "Flavio Bolsonaro de Brasil se dirigió a Estados Unidos después de perder la elección, fuentes dicen",
+          "url": "https://www.thehindu.com/news/international/brazilsflavio-bolsonaro-headed-to-us-after-losing-election-sources-say/article71633165.ece",
+          "fuente": "The Hindu",
+          "pais": "India",
+          "fecha": "2026-10-27T18:31:54+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "U.S. President Donald Trump’s administration has previously alleged that Flavio Bolsonaro’s father, former President ‌Jair Bolsonaro, was a victim of judicial persecution in Brazil",
+          "resumen_es": "El gobierno del presidente estadounidense Donald Trump ha alegado anteriormente que el padre de Flavio Bolsonaro, ex presidente Jair Bolsonaro, fue víctima de persecución judicial en Brasil"
+        }
+      ],
+      "fuentes": [
+        "The Hindu"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Brasil"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Brasil, Estados Unidos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-20dfe388cdbeb100c6da",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "Emir of Qatar says Doha proud of scale of its investment in Russian companies",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Diplomacia",
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "20dfe388cdbeb100c6da",
+          "titulo_original": "Emir of Qatar says Doha proud of scale of its investment in Russian companies",
+          "titulo_es": "Emir de Qatar dice Doha orgulloso de su inversión en las empresas rusas",
+          "url": "https://tass.com/economy/2209079",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-10-27T18:30:50+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Bilateral relations have developed actively in the economic and investment fields over the past ten years, Sheikh Tamim bin Hamad Al Thani noted",
+          "resumen_es": "Las relaciones bilaterales se han desarrollado activamente en las esferas económica y de inversión en los últimos diez años, señaló el Jeque Tamim bin Hamad Al Thani"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Rusia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia",
+        "Ámbito: Comercio y finanzas, Diplomacia"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-c1fca79f9c33af31814c",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "Finland, Norway do not intend to mediate Ukraine conflict settlement",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "c1fca79f9c33af31814c",
+          "titulo_original": "Finland, Norway do not intend to mediate Ukraine conflict settlement",
+          "titulo_es": "Finlandia, Noruega no tiene la intención de mediar la solución de conflictos en Ucrania",
+          "url": "https://tass.com/world/2209065",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-10-27T18:14:36+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The countries support the idea of a trilateral meeting in Abu Dhabi",
+          "resumen_es": "Los países apoyan la idea de una reunión trilateral en Abu Dhabi"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Ucrania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Ucrania",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-6c2b46838d24c5c073d9",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "Adam Brody acusa a Israel de genocidio en Palestina. Sus compañeros de reparto judíos no están de acuerdo: “Es seguir el libro de instrucciones de Hitler”",
+      "region": "Oriente Medio",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "6c2b46838d24c5c073d9",
+          "titulo_original": "Adam Brody acusa a Israel de genocidio en Palestina. Sus compañeros de reparto judíos no están de acuerdo: “Es seguir el libro de instrucciones de Hitler”",
+          "titulo_es": "",
+          "url": "https://elpais.com/us/entretenimiento/2026-10-27/adam-brody-acusa-a-israel-de-genocidio-en-palestina-sus-companeros-de-reparto-judios-no-estan-de-acuerdo-es-seguir-el-libro-de-instrucciones-de-hitler.html",
+          "fuente": "El País",
+          "pais": "España",
+          "fecha": "2026-10-27T18:12:03+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "El actor, que interpreta a un moderno rabino en la serie de Netflix ‘Nadie quiere esto’, ha declarado en una entrevista que quiere “una Palestina libre”, algo poco común en Hollywood",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "El País"
+      ],
+      "actores_mencionados": [
+        "Israel",
+        "Palestina"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Israel",
+        "Posible decisión institucional o negociación"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-00e49ec501cf3af81f9f",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "Russia to share experience in restoring refineries with countries on Arabian Peninsula",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Energía y clima"
+      ],
+      "noticias": [
+        {
+          "id": "00e49ec501cf3af81f9f",
+          "titulo_original": "Russia to share experience in restoring refineries with countries on Arabian Peninsula",
+          "titulo_es": "Rusia comparte experiencia en la restauración de refinerías con países de la península árabe",
+          "url": "https://tass.com/economy/2209063",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-10-27T18:11:02+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Virtually the entire range of oil and gas equipment, especially that required for oil refineries, is manufactured in Russia now, Alexander Novak said",
+          "resumen_es": "Prácticamente toda la gama de equipos de petróleo y gas, especialmente los necesarios para las refinerías de petróleo, se fabrica en Rusia ahora, dijo Alexander Novak"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Rusia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia y gobernanza global",
+        "pregunta": "¿Cómo se distribuyen los costos de coordinación y los incentivos para cooperar?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia",
+        "Ámbito: Energía y clima"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -2626,6 +2836,51 @@
       "motivos_seleccion": [
         "Actores relevantes: Rusia",
         "Ámbito: Energía y clima"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-8e760960cef9a98708e6",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "Flávio Bolsonaro huye a Estados Unidos tras su derrota electoral ante Lula",
+      "region": "Estados Unidos",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "8e760960cef9a98708e6",
+          "titulo_original": "Flávio Bolsonaro huye a Estados Unidos tras su derrota electoral ante Lula",
+          "titulo_es": "",
+          "url": "https://elpais.com/america/2026-10-27/flavio-bolsonaro-huye-a-estados-unidos-tras-su-derrota-electoral-ante-lula.html",
+          "fuente": "El País",
+          "pais": "España",
+          "fecha": "2026-10-27T17:40:54+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Colaboradores del líder ultra y fuentes oficiales estadounidenses confirman su fuga después de negarse a entregar los pasaportes al juez que lo investiga",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "El País"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Brasil"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Brasil, Estados Unidos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -3020,6 +3275,18 @@
           "titulo_original": "Ceasefire begins in Ukrainian city of Oleshky, Melania Trump announces - Politico",
           "titulo_es": "La cesación del fuego comienza en la ciudad ucraniana de Oleshky, Melania Trump anuncia - Politico",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBzY2dHMGtoVEI4VXRuaWl2d3cxT2prX2pVc1Bpc1hMWFV3d21IcTlkdF9aZDVBX3VBTVA2Z09CRXBpQnhoRzhuWjJJd080bkg1QS11Y2VKdkJGNFBGVnFpVmJjeGFNUWMyX2huT2xNNkRjTm1kRjlSb3BnOUQ?oc=5",
+          "fuente": "POLITICO US",
+          "pais": "Estados Unidos",
+          "fecha": "2026-10-27T17:11:00+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Ceasefire begins in Ukrainian city of Oleshky, Melania Trump announces Politico",
+          "resumen_es": "La cesación del fuego comienza en la ciudad ucraniana de Oleshky, Melania Trump anuncia política"
+        },
+        {
+          "id": "a36ff69ba9168ed52396",
+          "titulo_original": "Ceasefire begins in Ukrainian city of Oleshky, Melania Trump announces - Politico",
+          "titulo_es": "La cesación del fuego comienza en la ciudad ucraniana de Oleshky, Melania Trump anuncia - Politico",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLWhHU05lZUg1TnJUb2FVUmwyOVFDejI3OVhNb2x2OFNlc2Q4TV90ZTh1aWk1Y3dqN1JCUXBEMmVkNzhUSjNFOGZhejJkRFFaM3cyT2RWbmNBMENiaVZfMkd1bWViQTBoOGVWa2JYSFg3TUZKZThhR3l6RS1NUjJ2SmFzTTZaMjI4dXNmbDFybWxQUk0?oc=5",
           "fuente": "POLITICO US",
           "pais": "Estados Unidos",
           "fecha": "2026-10-27T17:11:00+00:00",
@@ -3689,6 +3956,51 @@
       "prioridad_orientativa": 4,
       "motivos_seleccion": [
         "Actores relevantes: Rusia, Ucrania"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-cf2eeae66cc6d0fbb510",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "Israeli military detains Egyptian national who crossed border",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "cf2eeae66cc6d0fbb510",
+          "titulo_original": "Israeli military detains Egyptian national who crossed border",
+          "titulo_es": "El ejército israelí detiene a un nacional egipcio que cruzó la frontera",
+          "url": "https://www.aljazeera.com/news/2026/10/27/israeli-military-detains-egyptian-national-who-crossed-border?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-10-27T15:10:27+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Egyptian man held after crossing into Israel near Nitzana, his motive for the crossing still unknown.",
+          "resumen_es": "El hombre egipcio se mantuvo después de cruzar a Israel cerca de Nitzana, su motivo para el cruce aún desconocido."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [
+        "Israel"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Israel",
+        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6623,92 +6935,59 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-b2721824511279587d6f",
+      "id": "a-76e2e74785553bc5f34f",
       "fecha": "2026-10-27",
-      "titulo_fuente": "One dead in bus strike on Zaporozhye Region, 222 downed UAVs: overnight attacks' aftermath",
-      "region": "Rusia-Ucrania",
+      "titulo_fuente": "Senator Flávio Bolsonaro heads to US following Brazil election loss - CNN",
+      "region": "América Latina",
       "temas": [
-        "Seguridad y conflictos"
+        "Actualidad"
       ],
       "noticias": [
         {
-          "id": "b2721824511279587d6f",
-          "titulo_original": "One dead in bus strike on Zaporozhye Region, 222 downed UAVs: overnight attacks' aftermath",
+          "id": "76e2e74785553bc5f34f",
+          "titulo_original": "Senator Flávio Bolsonaro heads to US following Brazil election loss - CNN",
           "titulo_es": "",
-          "url": "https://tass.com/emergencies/2208363",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-27T07:44:09+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The passenger bus was traveling from Simferopol to Moscow",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUzBQcGFLclZ1aFRtd0h5Y3Y4RGhYdmlXUXBNUnFOd0lUcXhQYXRtVFhISXktRDFHWmQxZzRRS3hsb2lYdjBaelpzQnUyblpFLThqVjMtZV9jUGpfaGM5cEQ2Qm1FUDZ6MTdXT0ZGWmtYNTRxa0VBekdTVDJSWk1KWkhHdjQ4OFFZOS1ROA?oc=5",
+          "fuente": "CNN",
+          "pais": "Estados Unidos",
+          "fecha": "2026-10-27T17:22:41+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Senator Flávio Bolsonaro heads to US following Brazil election loss CNN",
           "resumen_es": ""
+        },
+        {
+          "id": "c497cce3ddda52c5d308",
+          "titulo_original": "Flávio Bolsonaro rumoured to have fled Brazil after presidential election loss",
+          "titulo_es": "Flávio Bolsonaro retuvo haber huido de Brasil después de la derrota electoral presidencial",
+          "url": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-10-27T16:24:15+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Authorities demanded he hand over his passport after loss to Lula but far-right senator remains unaccounted for The far-right senator Flávio Bolsonaro has not been seen since Monday and missed a Tuesday-morning deadline to hand his passport to the federal police, fuelling rumours that he may have fled Brazil after losing Sunday’s presidential election. A supreme court justice cancelled Bolsonaro’s passport minutes after the result in a ruling rel",
+          "resumen_es": "Las autoridades exigieron que entregara su pasaporte después de la pérdida a Lula pero el senador de extrema derecha sigue sin contar para el senador de extrema derecha Flávio Bolsonaro no ha sido visto desde el lunes y se perdió un plazo de martes para entregar su pasaporte"
         }
       ],
       "fuentes": [
-        "TASS"
+        "CNN",
+        "The Guardian"
       ],
       "actores_mencionados": [
-        "Rusia"
+        "Brasil"
       ],
-      "fuentes_independientes": 1,
+      "fuentes_independientes": 2,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
       },
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
+      "prioridad_orientativa": 3,
       "motivos_seleccion": [
-        "Actores relevantes: Rusia",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-41a094262bd5a7262977",
-      "fecha": "2026-10-27",
-      "titulo_fuente": "Israelis vote in tense election testing Netanyahu’s grip on power",
-      "region": "Oriente Medio",
-      "temas": [
-        "Seguridad y conflictos",
-        "Energía y clima"
-      ],
-      "noticias": [
-        {
-          "id": "41a094262bd5a7262977",
-          "titulo_original": "Israelis vote in tense election testing Netanyahu’s grip on power",
-          "titulo_es": "",
-          "url": "https://www.scmp.com/news/world/middle-east/article/3372273/israelis-vote-tense-election-testing-netanyahus-grip-power",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-10-27T07:00:49+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Israelis are voting in a pivotal election Tuesday as their country is embroiled in unresolved wars, still reeling from Hamas’ 2023 attack and deeply divided over the character of the state and the right person to lead it. Prime Minister Benjamin Netanyahu is facing off against an array of parties seeking to oust the long-time leader from power. Opinion polls have suggested a tight race with his main rival, former military chief Gadi Eisenkot. Ove",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "South China Morning Post"
-      ],
-      "actores_mencionados": [
-        "Israel"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Israel",
-        "Ámbito: Energía y clima, Seguridad y conflictos"
+        "Cobertura de fuentes distintas",
+        "Actores relevantes: Brasil"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6770,118 +7049,32 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-56c21853f84135fdec54",
+      "id": "a-d3552dd8579e1fb03c49",
       "fecha": "2026-10-27",
-      "titulo_fuente": "EU eyes global tax deal revenue to boost next budget",
-      "region": "Europa",
-      "temas": [
-        "Comercio y finanzas"
-      ],
-      "noticias": [
-        {
-          "id": "56c21853f84135fdec54",
-          "titulo_original": "EU eyes global tax deal revenue to boost next budget",
-          "titulo_es": "",
-          "url": "https://www.politico.eu/article/eu-eyes-global-tax-deal-revenue-to-boost-next-budget/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "fuente": "POLITICO Europe",
-          "pais": "Unión Europea",
-          "fecha": "2026-10-27T17:58:36+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "European Council President António Costa is pushing national capitals to agree new EU-wide levies to finance the budget.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "POLITICO Europe"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia compleja y economía política internacional",
-        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Comercio y finanzas"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-eb5df91c57be120fa3d8",
-      "fecha": "2026-10-27",
-      "titulo_fuente": "Explosions heard over Riyadh as Saudi authorities say Houthi missiles downed",
-      "region": "Oriente Medio",
-      "temas": [
-        "Energía y clima"
-      ],
-      "noticias": [
-        {
-          "id": "eb5df91c57be120fa3d8",
-          "titulo_original": "Explosions heard over Riyadh as Saudi authorities say Houthi missiles downed",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/news/international/explosions-heard-over-riyadh-as-saudi-authorities-say-houthi-missiles-downed/article71633118.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-10-27T17:42:42+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Houthis accused government forces of killing two people in a strike at a gas station near the besieged Yemeni city of Taiz, where fighting has been intensifying between the two sides",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Hindu"
-      ],
-      "actores_mencionados": [
-        "Arabia Saudita"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia y gobernanza global",
-        "pregunta": "¿Cómo se distribuyen los costos de coordinación y los incentivos para cooperar?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Energía y clima"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-b50b38d12deb5dcce997",
-      "fecha": "2026-10-27",
-      "titulo_fuente": "Flavio Bolsonaro flees Brazil for US after shock loss to Lula",
-      "region": "América Latina",
+      "titulo_fuente": "Russian stocks close in the green on Tuesday",
+      "region": "Rusia-Ucrania",
       "temas": [
         "Actualidad"
       ],
       "noticias": [
         {
-          "id": "b50b38d12deb5dcce997",
-          "titulo_original": "Flavio Bolsonaro flees Brazil for US after shock loss to Lula",
-          "titulo_es": "Flavio Bolsonaro huye de Brasil por Estados Unidos después de la pérdida de choque a Lula",
-          "url": "https://www.scmp.com/news/world/americas/article/3372350/brazil-wonders-where-earth-flavio-bolsonaro",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-10-27T17:41:44+00:00",
+          "id": "d3552dd8579e1fb03c49",
+          "titulo_original": "Russian stocks close in the green on Tuesday",
+          "titulo_es": "Las acciones rusas cierran en el verde el martes",
+          "url": "https://tass.com/economy/2209085",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-10-27T18:37:21+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Brazilian Senator ⁠Flavio Bolsonaro has left the country for the US after losing Sunday’s presidential election and refusing to comply with a Supreme Court order to hand over his passports, two sources said. The US embassy in Brazil did not immediately respond ‌to a request for comment. Bolsonaro’s lawyer also declined to comment. Bolsonaro was favoured to win Sunday’s presidential election but ended up losing in a shock result to leftist incumbe",
-          "resumen_es": "El senador brasileño ⁠Flavio Bolsonaro ha abandonado el país para los Estados Unidos después de perder las elecciones presidenciales del domingo y negarse a cumplir con una orden del Tribunal Supremo de entregar sus pasaportes, dijeron dos fuentes. La embajada de Estados Unidos en Brasil no"
+          "resumen_original": "The ruble-denominated MOEX Index added 0.76% to 2,510.38 points, while the dollar-denominated RTS Index gained 0.71% to 982.02 points",
+          "resumen_es": "El índice MOEX denominado por rublos añadió 0,76% a 2,510.38 puntos, mientras que el índice RTS denominado en dólares ganó 0,71% a 982.02 puntos"
         }
       ],
       "fuentes": [
-        "South China Morning Post"
+        "TASS"
       ],
       "actores_mencionados": [
-        "Brasil"
+        "Rusia"
       ],
       "fuentes_independientes": 1,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
@@ -6894,218 +7087,49 @@
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
-        "Actores relevantes: Brasil"
+        "Actores relevantes: Rusia"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
     },
     {
-      "id": "a-6984c622f96021e59858",
+      "id": "a-607bb16251985c248e52",
       "fecha": "2026-10-27",
-      "titulo_fuente": "Protesters storm Serbian pro-Vucic TV station after his loss at polls",
+      "titulo_fuente": "Pope Leo’s cancer is ‘game changer’ for papacy, Vatican foreign minister says",
       "region": "Internacional",
       "temas": [
-        "Seguridad y conflictos"
+        "Diplomacia"
       ],
       "noticias": [
         {
-          "id": "6984c622f96021e59858",
-          "titulo_original": "Protesters storm Serbian pro-Vucic TV station after his loss at polls",
-          "titulo_es": "Los manifestantes tormentan la estación de televisión serbia pro-Vucic después de su pérdida en las encuestas",
-          "url": "https://www.aljazeera.com/news/2026/10/27/protesters-storm-serbian-pro-vucic-tv-station-after-his-loss-at-polls?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-10-27T17:37:51+00:00",
+          "id": "607bb16251985c248e52",
+          "titulo_original": "Pope Leo’s cancer is ‘game changer’ for papacy, Vatican foreign minister says",
+          "titulo_es": "El cáncer del Papa Leo es ‘cambiador de juego’ para el papado, el ministro de Relaciones Exteriores del Vaticano dice",
+          "url": "https://www.scmp.com/news/world/europe/article/3372351/pope-leos-cancer-game-changer-papacy-vatican-foreign-minister-says",
+          "fuente": "South China Morning Post",
+          "pais": "Hong Kong",
+          "fecha": "2026-10-27T18:30:57+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "President Vucic called the incident an attack on free speech and the freedom of journalism.",
-          "resumen_es": "El presidente Vucic llamó al incidente un ataque contra el discurso libre y la libertad de periodismo."
+          "resumen_original": "Pope Leo’s lung cancer diagnosis and surgery has affected how Catholics view his health and papacy, the Vatican’s foreign minister said on Tuesday, in an unusual acknowledgement by one of the Church’s most senior officials. “It’s a bit of ‌a game changer,” Archbishop Paul Gallagher told journalists at an event in Rome. Leo, 71, had part of one lung removed in surgery on October 13. His doctors have said the cancer was localised and had not spread",
+          "resumen_es": "El diagnóstico y cirugía del cáncer de pulmón del Papa Leo ha afectado cómo los católicos ven su salud y su papado, dijo el ministro de Relaciones Exteriores del Vaticano el martes, en un reconocimiento inusual por uno de los funcionarios más altos de la Iglesia. “Es un poco de"
         }
       ],
       "fuentes": [
-        "Al Jazeera"
+        "South China Morning Post"
       ],
       "actores_mencionados": [],
       "fuentes_independientes": 1,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
       },
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-aef0a609b6e5b76a22e6",
-      "fecha": "2026-10-27",
-      "titulo_fuente": "Attacks kill at least 60 Orthodox Christians in Ethiopia, church says",
-      "region": "Internacional",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "aef0a609b6e5b76a22e6",
-          "titulo_original": "Attacks kill at least 60 Orthodox Christians in Ethiopia, church says",
-          "titulo_es": "Los ataques matan al menos 60 cristianos ortodoxos en Etiopía, dice la iglesia",
-          "url": "https://www.thehindu.com/news/international/attacks-kill-at-least-60-orthodox-christians-in-ethiopia-church-says/article71633099.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-10-27T17:36:28+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "More than 20 people were seriously wounded, and 20 homes were burned down, the church said, describing the killings as “brutal and merciless massacres”",
-          "resumen_es": "Más de 20 personas resultaron gravemente heridas, y 20 casas fueron quemadas, dijo la iglesia, describiendo los asesinatos como “masas brutales y sin piedad”"
-        }
-      ],
-      "fuentes": [
-        "The Hindu"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-d0a75e9b6ea66b57343a",
-      "fecha": "2026-10-27",
-      "titulo_fuente": "Schrödinger’s racism, Nige’s latest wheeze to dodge his associates’ bigotry | John Crace",
-      "region": "Internacional",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "d0a75e9b6ea66b57343a",
-          "titulo_original": "Schrödinger’s racism, Nige’s latest wheeze to dodge his associates’ bigotry | John Crace",
-          "titulo_es": "El racismo de Schrödinger, el último golpe de Nige para esquivar la intolerancia de sus asociados",
-          "url": "https://www.theguardian.com/politics/2026/oct/27/nigel-farage-raheem-kassam-kemi-badenoch-nigerian-scammer",
-          "fuente": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-10-27T17:29:26+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "We are apparently to believe Raheem Kassam calling Kemi a ‘Nigerian scammer’ was racist and not racist at the same time Back to the future. Some of us can remember the days when the key to surviving a nuclear war was to kneel down under the kitchen table and keep your eyes closed till you were incinerated or died of radiation poisoning. Now the government wants you to hoard some baked beans and a few litres of water in the hope of getting through",
-          "resumen_es": "Parece que creemos que Raheem Kassam llamando a Kemi un ‘cammer nigeriano’ era racista y no racista al mismo tiempo Volver al futuro. Algunos de nosotros podemos recordar los días en que la clave para sobrevivir una guerra nuclear era arrodillarse bajo la"
-        }
-      ],
-      "fuentes": [
-        "The Guardian"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-29ed7a0b756e062412eb",
-      "fecha": "2026-10-27",
-      "titulo_fuente": "Homes across UK to get low- or no-interest loans to fund solar panels and heat pumps",
-      "region": "Estados Unidos",
-      "temas": [
-        "Seguridad y conflictos",
-        "Energía y clima"
-      ],
-      "noticias": [
-        {
-          "id": "29ed7a0b756e062412eb",
-          "titulo_original": "Homes across UK to get low- or no-interest loans to fund solar panels and heat pumps",
-          "titulo_es": "",
-          "url": "https://www.theguardian.com/environment/2026/oct/27/homes-across-uk-to-get-low--or-no-interest-loans-to-fund-solar-panels-and-heat-pumps",
-          "fuente": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-10-27T17:28:33+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Government-backed Warm Home Loans scheme to help households cut energy bills by hundreds of pounds Households across the UK can now cut their energy bills by hundreds of pounds a year at no upfront cost by applying for interest-free or “low-interest” loans to fund upgrades such as heat pumps, batteries and solar panels. The government-backed Warm Home Loans scheme, which launched on Tuesday, could mean thousands more households are able to access",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Guardian"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Energía y clima, Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-c20852d53bc5fdcf3f0d",
-      "fecha": "2026-10-27",
-      "titulo_fuente": "Spain deports migrants from Ceuta in move criticised by rights group",
-      "region": "Internacional",
-      "temas": [
-        "Migración y DD. HH."
-      ],
-      "noticias": [
-        {
-          "id": "c20852d53bc5fdcf3f0d",
-          "titulo_original": "Spain deports migrants from Ceuta in move criticised by rights group",
-          "titulo_es": "España deporta a migrantes de Ceuta en movimiento criticados por grupos de derechos",
-          "url": "https://www.aljazeera.com/news/2026/10/27/spain-deports-migrants-from-ceuta-in-move-criticised-by-rights-group?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-10-27T17:10:58+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The deportation was the first of its kind since a mass border crossing into the territory from Morocco in July.",
-          "resumen_es": "La deportación fue la primera de su tipo desde que una frontera masiva entró en el territorio desde Marruecos en julio."
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Derecho internacional y constructivismo",
-        "pregunta": "¿Qué normas, identidades y obligaciones internacionales invocan los actores?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Migración y DD. HH."
+        "Ámbito: Diplomacia"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
