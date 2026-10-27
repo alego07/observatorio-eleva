@@ -1,11 +1,11 @@
 {
-  "updated_utc": "2026-10-27T15:22:15.820873+00:00",
+  "updated_utc": "2026-10-27T15:33:42.905776+00:00",
   "results": [
     {
       "source_id": "f16",
       "source_name": "CNN",
-      "status": "error",
-      "message": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
+      "status": "ok",
+      "count_recent": 50
     },
     {
       "source_id": "f25",
@@ -70,8 +70,8 @@
     {
       "source_id": "f47",
       "source_name": "The Indian Express",
-      "status": "error",
-      "message": "HTTP Error 403: Forbidden"
+      "status": "ok",
+      "count_recent": 50
     },
     {
       "source_id": "f64",
@@ -100,8 +100,8 @@
     {
       "source_id": "f75",
       "source_name": "POLITICO US",
-      "status": "error",
-      "message": "HTTP Error 403: Forbidden"
+      "status": "ok",
+      "count_recent": 48
     },
     {
       "source_id": "f76",
@@ -118,8 +118,8 @@
     {
       "source_id": "f78",
       "source_name": "Americas Quarterly",
-      "status": "error",
-      "message": "XML or text declaration not at start of entity: line 2, column 1"
+      "status": "ok",
+      "count_recent": 0
     },
     {
       "source_id": "f79",

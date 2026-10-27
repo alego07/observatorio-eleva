@@ -1,17 +1,25 @@
 {
-  "actualizado_utc": "2026-10-27T15:23:43.019411+00:00",
+  "actualizado_utc": "2026-10-27T15:35:08.746266+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 845,
-      "nuevas_24h": 122,
-      "anteriores_24h": 66,
+      "cantidad_archivada": 848,
+      "nuevas_24h": 124,
+      "anteriores_24h": 67,
       "dias_con_registros": 12,
-      "fecha_ultima": "2026-10-27T15:16:43+00:00",
+      "fecha_ultima": "2026-10-27T15:29:22+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "9502f33ac579bc4a61ae",
+          "fecha": "2026-10-27T15:29:22+00:00",
+          "titulo": "Stubb says his call with Putin was arranged jointly with US, Ukraine",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2208871",
+          "traducida": false
+        },
         {
           "id": "14fea87d94bf749a6fdf",
           "fecha": "2026-10-27T15:16:43+00:00",
@@ -243,22 +251,14 @@
           "fuente": "TASS",
           "url": "https://tass.com/politics/2208727",
           "traducida": false
-        },
-        {
-          "id": "33e551f5fb5ab5d7431c",
-          "fecha": "2026-10-27T13:04:57+00:00",
-          "titulo": "Attempts to exclude Russian from gas market have serious consequences",
-          "fuente": "TASS",
-          "url": "https://tass.com/economy/2208723",
-          "traducida": false
         }
       ]
     },
     {
       "id": "oriente-medio",
       "titulo": "Oriente Medio: seguridad y diplomacia",
-      "cantidad_archivada": 504,
-      "nuevas_24h": 76,
+      "cantidad_archivada": 511,
+      "nuevas_24h": 83,
       "anteriores_24h": 60,
       "dias_con_registros": 12,
       "fecha_ultima": "2026-10-27T15:06:03+00:00",
@@ -507,11 +507,263 @@
       ]
     },
     {
+      "id": "india-asia",
+      "titulo": "India y Asia-Pacífico",
+      "cantidad_archivada": 205,
+      "nuevas_24h": 64,
+      "anteriores_24h": 19,
+      "dias_con_registros": 12,
+      "fecha_ultima": "2026-10-27T14:51:28+00:00",
+      "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
+      "publicaciones": [
+        {
+          "id": "df06dafda0083e89e7f9",
+          "fecha": "2026-10-27T14:51:28+00:00",
+          "titulo": "Microsoft offers voluntary exit to 60,000 employees: What it means for India staff - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbVE3RmVvM1FDMnNpdS0zdWZRQ3o2UWEtZGp3UFZncElxMGU4MTBKM3FPS2Q3aG5oVG9JX283eWRPZFA1RFJ4YnhndFh5YThaaHNldVdBV01FUklMZ2FQRGVBUTBBblNJcUQwazhHMEJJenFNVWZuZDRKMEl4V3h3VlQteFJXWTNKQmtnN1l6ZXNtSUxIZ09PaVZGY0llSk1Md1MwemdaU3I1b3l1YlNNUG85WXhrZm1zQTUwaWJUc1RPa3JfZ1J6VFRR0gHQAUFVX3lxTE5HSjVtRkhGWXZfaGlpYUg4WkI2SFNvQ0gzRm43TXpDcWVsc0MtUl9lT1FnaURtazExMVFnQVduQ3lETlJJNlM3djY0S29CZElCTFYxakZaNWFJWmdtY2JxSnlLVTJRdXp0YTdtZmNWRzRhWncxZHo5VXVaQ1ZvRmh6ZmVacFhZOGNVekl2SUwzXzBGMWFRMDJXSUVPWGdqTDRiYlhGdFU0YTNEVUtUcmNwWTFPMFV2cjN2dEtpdEtLejhtcHFTb1JmM09aMmZMT3c?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "af81920fad644d236c18",
+          "fecha": "2026-10-27T14:47:18+00:00",
+          "titulo": "Cyclone Arnab Update: Railways cancels 95 trains, 18 others affected – full list - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUk9fblBHYVdWRWxBUnR5cnVLZGJyT3MtVHBLOFB1QTNzanZtNVB1Rm1JVG4zZDg4MlBuOW1MWmJJQ2dXNkh5cnA2eEd4TTJLNWE2OUZ1Wm0zQjVOSGloancxczZxVjFXYjZ1RlRlb3JQY1VmNUZ1Vkc5VHpCQUpYX2dvX0ozeWNuVV91V1Vqa2hqS20xdXlwcEI2eGzSAaMBQVVfeXFMT2Rwc3lMRUMyLUtOeEhqRk5CTmF5THhVRkNUMHJiWEJmUmw4dHU0bWFyUjRReE15OXlhODZsSlRLRzVMbzZaaVhSZEZpVmNCNzd1WjA4Z0I5VWdPS1dQb3ozdEJLeDB6RGZTek5fLTllUEVESnhpYU5TWXFiN0FqMTdIRE9Va2RIeXBUNVJ4OXlNN1pfNEJFWkdRbnhHMk9DYmoxdw?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "59f1a4a76e84b6358b44",
+          "fecha": "2026-10-27T14:14:53+00:00",
+          "titulo": "Expert Explains | To counter China along LAC, why its grey-zone warfare tactics must be understood - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTUdZVmJqOHNKNlBfZ0I2Y2F1ZUIyTy1OamdjUVJ4ci15d0hUVExHWUlLME0zdmxrN1REN3BTNUtjQW5LdUFYZW9JbWdtbGc0X0lQXzBsVDhVejRtS3ZXQmlCVGRhS3U3eHI3bk9CS240Q1hIYjBSaUEzZmhFY0kwbXJYeTZ0Rk95V0YwUHF3T3hVbk92UDdPR3lIbWRXNkhFZzRtdNIBqwFBVV95cUxQZ0RkdXhkYkFUYmRFcDJSWm1yd1RFU2R2Vm9pNU11VWRZcU03RXBQbVVReG1sRDllSlRobEp2amQ3STd4SXUwWDFwRDFacl95OTl1N0pnU0JPZjBPV1VxaWY1QUVVcWI5MW5nWUVWYVVwdVZ0dkxvWnFkbE9QVzVEZU9wUldGWDY2ZG9ReERFb0h1alVBbGpqVEdQdWpuaGRkaXFSeGZEODVrN1U?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "48e9b375c8933160475b",
+          "fecha": "2026-10-27T13:15:32+00:00",
+          "titulo": "India-China border face-offs test Modi six years after deadly clash",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/27/india-china-border-face-offs-test-modi-six-years-after-deadly-clash?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "ffba84694c00620e27f9",
+          "fecha": "2026-10-27T13:09:43+00:00",
+          "titulo": "Cyclone Arnab LIVE Tracker: Where is cyclonic storm Arnab located? Track path and landfall updates here - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYURZS1FIR3FtcmU0UnRQV3NvMThfc0pGX1hVN09za1luVzNjd3VvX0lDSlNLWkE4Q3JkUndZb3U5ZHp0X1NOQktzTkdaS2tXSkJHbVJMUndzT19kTG5tNTZaSVpNdFIzOEk1dzhRVlIyaFZDX3NHLUNMc3luVDZMWHlXRVlTQTNDTzBjWXRmaUlDWnM2aUh6eTk5Nk4tcjJSS2dHTFJEV1Z1YTl5RmVablplVkNJZG1RVDRhNlpZdGJsV3hieExr0gHOAUFVX3lxTE8zaGdiQlk5bnpFWm1qQ1pEQUxZMWtaa2R0NFRTYzZhb2h4dVJGOFBwalU1WUplLVRmV1R3d2w0UmFQWGY4X1poSlM4YzVORVV5UDZ3N29Pa09OT1hkRGhPT1l6d1d0Nm4xMFJiU3J6MWRzTTQ3aDFoQVl6aTdzTDJhdUh0a3J4YzA2Z3RQYXhPQk1IRDE1Ty1tU3V5MWJDcWgybHJTQ2pCU1oyVjFrN1dqNXEyTnZkajF3ZkwtOXhqQUI0dG51WmpxWnViQjV3?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "e19ec490aa00f61e2ece",
+          "fecha": "2026-10-27T13:08:15+00:00",
+          "titulo": "Moscow calls on Tokyo to drop its unfriendly policies — Foreign Ministry",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2208727",
+          "traducida": false
+        },
+        {
+          "id": "65fde070daad36d07d51",
+          "fecha": "2026-10-27T13:07:24+00:00",
+          "titulo": "‘They get calls every day that they’ll be killed’: How a conversion case upended a family in UP’s Shamli - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVTVHeUpPMGFlUXVBZUxrMVdFSFd4RW9CdXVoOHpDZk12RXdwRHV6VTNYSjk2bnIxNDFqaWlaOXBySDl2QmRmUmJsemtwRG96aTloSXk3SllsenpmdDlaVXMwSmZGX21ucV9qZ1BxekNzbzFOZ1JkMzhGZGR2VE4xaWFJSkVaMnNRSjc1OXhwdjJKNzBwODVua2M3aC12X3FhQTRMMUtUeFR5eEs1bk9yTklOQ1F3dWF0Q1Mw0gHCAUFVX3lxTE9JNzhuTmxzRGo3ekpqUXpGZkVQNjIwVVZlVEV3QnlMNC1DUXRZeDFOZlpRVzZTUndFT3oybG81bURoYUhzcG1MWmdQWTUyYUtpRU5hWkcwRkJzT3gxY3dIWDJOa3pBVktmUVpqbmFGbmxheXM3WkpyeDB3QUV2dm5IamVzc0lVU3JMSjg1MDN1RW9nN3BUMjR6UXpkVjd4d1ItTjkzTDY1NGZqc2NKVmNCbHJab1VCRGg3Z2FsNTROZFBB?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "50718fd12407c38d6c9c",
+          "fecha": "2026-10-27T12:30:57+00:00",
+          "titulo": "UP man never had a sister, so found 101 Hindu, Muslim women’s weddings - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTE1qZEpGMXp5ZTVQNURZT2hoZzVKOTR5dllRMGx3b2lVSFpjLWxWRlNwTks5b2JUUzhuZnNBTl9ORVo3RFg3dW1VQUtpRmJlaG9KaDcyM3M3SjVuaUdkTy1FenI0LVZfS0QyX1FBbXdwUmZZb1g3YzBBeUk0bHhmS2FjNzNiZXRoVkFjQS1UQWF2T1p3UG9SUjF3bzJVSzRQYTNwLdIBqwFBVV95cUxOaXFFc1FSZGNSbWNEOXh0N1NoaTlnbTVqaDlYcWN3UFZmSHNUb3o3cjdIQ1NCOGVUZUVYMTJ0eDRodERXTDdiRlI1aDhzbnFYNXF6RE5vNHdLTVBDYVpYbTJRdFRhOUN3Z05zbTc1WGNYc1BkeXpuQzkxNTJMUWZZaWxUQ3c3eU5wd3NZbXdVYmFsSHpmWlM2T1htVUVzUWo3QkI2ZEFfNW9PbUk?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "d9585db2fbd594a10139",
+          "fecha": "2026-10-27T12:24:57+00:00",
+          "titulo": "50/30/20 budgeting rule: How to allocate your salary wisely - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPemszSnk3VGVUd25OT25JRUtSdFpYQThPMUU1YnYtemR0cktpX3NONC1ERnR2VjdUNndPRXRYLUowZ0JlNTlJbG11WWdlS1Nuc3BTTkVFT0p6STZLNk9KaDZZQzc1VWM0YVJNdmxwUDVYenFVMlkxRmdSN3RtLW5ieVpYUjd3RjRRRk5iUHVScUFyUENZNUVkV3d1Y3ZDemRQS3NKaXFCbnVua1B4bWxsMUVR0gG4AUFVX3lxTE9KbUxldHdULVZOcGlhQzRxeFpxRl9MeHg4QjRYUTBmS2M2NnhSNGJiZWwwVnhyRGJvQXFSOEdrX0JZdmdJN04wUXE1Q2ZvTW1QWGJmZWRZRjRTT21pei1PMkhVNkd5b3RKX2hUUXM2UklLeGVrWW0xZFk4Vm9meVlsZjNocm1oSGY0U3dybVZYemdXOTdLZUlSV2pWRlBKUDlTUC11SEE4N28tNFR4NGJzRUFjSnpxdzk?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "b10a64fab527c0758120",
+          "fecha": "2026-10-27T12:16:12+00:00",
+          "titulo": "Kylian Mbappe apologizes for controversial Mao Zedong comment - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObXZmUEFoU1lrdGZBSkJaNzItUWxlWWhLeXV4aUtSNThVa1RDei1qd1RLUXd0MTNNeXRzRVFyQ25INV9ZUzdBQzR0aWh4WWZQTzJib2g3SUtidnpSVkc2ejBqWjVieW1pTEp0bTB3Ym5RTUtqYlZ4eGRkUXJXVkNhMUFyZ3JudW1Cazc1UkhUcEJlRE42Y3JoTWVkSzhxUnBWTmlYNUZZV0dlZG9IRE1jWWpWS0g1NXZQLVBZ0gHCAUFVX3lxTFBxUlFvLUZuR1VzUkF4anZTazRuYVlBV2YtVmNzWWd5YVZVZWhrTFltSU01c1Q1VFhIbjVrUjVUbUk5STBoTVBFeFJRc3ZpQjVFQUVDeG1HckFDTTZpWVNlNUxFVWVuc1NHLW5uU2l1NlFWZ3dVbmwyWHMwNWRRX0huT2F1TTFqRWpmVFQycEZ2Y19Gcy10R01OcmZhb2JRRG0xY1RqRVJmN1VrMklfOGg2dEljY3lzblEwZ1hDSjVyUVJ3?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "b4cb22e24f38d498f687",
+          "fecha": "2026-10-27T12:15:00+00:00",
+          "titulo": "Two days to leave India, Bombay HC defers actor Imran Khan’s hearing - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVmRmYVIwR1FIMjFTMFRRdkkyOWdZWXJwLXV6TmY1X0lTX2pJQUJQbExMYmNPeDNtWm5OT0dRN0w0Z0xEcFc3bXlLSW1YNlJEanQ1RXpQYS1VSG9DQmt5cGlzLWNTU1loajlPZnhOTjdnYUh2NWxJLWljcHBwT09kbHUtZ3FNeXlrTXR6eW1sTGlvYTBrVmljQXNoMUVEQjVzanVnTUk0UlpQWGxDTERLUUd6aGRxcG81X1BZWTJ2MVRHa19CSlhXTHQ0WkFuc2hmMGF6dGNB0gHcAUFVX3lxTE91b05kZmZfTVc5SUNsU0xHa2JPcHlXZzktTUtFbWxhaHVQN29zNVd5cllnSW9uX1h5cTJUWXpobTRtdEo0a3R1WnJsM3hiaWY2SnpCV1pPZG9WSTBGcnNNV25kcVF6Qm5mNThoWEY1amxJd1dvdmJqUngzSXZNakNGNmpqSlFCUGF1TGJCVEdNUFFCbHc4WVM3SE1HMFdkTml5MXYwVWtaY1RMazZEdHdfWEJEdWpKTnJrSTVQZEpkeDlIYVl4OWJWOHd6bm9kZm9QQkZzNFg1YWdoRTQ?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "17ebe204563b8c022245",
+          "fecha": "2026-10-27T12:00:13+00:00",
+          "titulo": "US, Japan rehearse coordinated strikes to challenge PLA control of waters near Taiwan",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/military/article/3372314/us-japan-rehearse-coordinated-strikes-challenge-pla-control-waters-near-taiwan",
+          "traducida": false
+        },
+        {
+          "id": "7d554a7ac39991a64976",
+          "fecha": "2026-10-27T11:48:45+00:00",
+          "titulo": "‘Still can’t get 50 of 12’: Yuvraj’s playful dig at Abhishek after 38-ball 113 - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ3hGMWlsNUI0YjNvTzFsTjhEM0s4alBLdGluV3VzN2h2ZldaX0p3a0oxUkM2dXJRUUZuQVVSOXVDQlkwOTNOVnFnWXdmV0VHRm9TT1h3UXY4MGRGRzhYQU9SeGtyQnpXWFA0Q0JfZHJuR2E0U2FaYVZrTjMzTUYzajRpclI5S1g4Rzh1Ung1TkVXaE5ZSnpFek9UeU9WUFRrcXZwZFlOR0JfMW9aUkJiUWtqSV81ODjSAb4BQVVfeXFMUGVJdWxEU19pdnU5TTZUX1lId3prUzJqNUhkbU5xNFZUQ1BRaUNDS0NPZF90V1dnOENlMmRuNmdybm5Na1VCOHl3V1BPN3M5ZWFjNmtFbEpCTkxWaDN1TXNBQ2JYNzZ3Q1NaN2V2WjJlaW1NTkNlTFU2YUp6S2VkMnZJejdLSnpGWWZ0RldMLThDaTFkc19kVlltSUtKNl84UFZQMm9aZUV5blFPOFZVWVl1VHFuMmw4YnNtRHZBUQ?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "da547d265338bc221d93",
+          "fecha": "2026-10-27T11:32:23+00:00",
+          "titulo": "Anirudh Ravichander, Kavya’s wedding reception invite goes viral; PM Modi, Vijay invited - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLXgxWHlhVjlkOThoaEJrQzhpcmpSODFHYmh0djRyUUFkc054ZjZGX29VWlFNdG1DVmRwZ0tUbkgwTXIteVItSEFTcVpDdnVtaUpWTXEwanRudjd2RlBJMEV6NEVLZWJ6dkF4VUQ2WktvUEQ3RWxiNkVFTklVTDh6V21uSGZIcHMxa0l5S1Q4UUU3anJsZGg2UmtXR1liY015dElSOHZ2RnlxeTIyNTFHSlI4ekxYd2ZkbXRrblRqNVlKcm5QS1RtT3pDYThNTHFCRVhvR0FIMGthZEs3d0ZKcE1R0gHoAUFVX3lxTFBNRnhqai1nNmRnM2FVUlE3Si0zUTR6TVhDYUZpTVpRTlNZaUxyN0xaTjVmZjZqV2l1Q1ZLeGFUQUVQaTBwZ1dxQXNRdFdhQTZMeXVJODNUX0xfVzhETVpkdnA4VlNpOHEwcTNFV3NoazAybHBmX05lQkp3SVg1TWRuQm1GQktOc3JLZF9xNkdzN0NiNXlfNWxUdVlUUVpGeE9LcVlNZDZ1ZjBQVHFIVnN1WTFqMFhveUZ0TVJzSW5fV2x4S0ZrMFBJN2dhOGY5d2RmaEl0TEJfb2dSRmt3LWJKMjZwZ01DR0E?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "1d098073b5cbf83699b5",
+          "fecha": "2026-10-27T11:26:48+00:00",
+          "titulo": "Man with Multiple Sclerosis loses 100 kgs with diet, workouts; shares details - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTzdHdXVEa3NuYVdNWmFGTUU2bkFsSzJ0VzZQVGFrVVhhc25HRDJFS2o1YVNudHBjT3BpODBTTFBDSmVGRl9KSnoxQ2h1eVQ5cjFVY2V1TnkxUHE0aUJNWFh0NTN1VmJLUncxVGRFVUhjRVVmd0VFczVZY0V3bUxEQjl4dTZadDNNQzM2bUxBQjNvWUlDbkRlX2pBRjdEU2RTQXRkY2pvRC1RYVZDTEp3eUx1aDdmb19iTG9UYzA0dW5IWEhjVU9fMDZB0gHQAUFVX3lxTE53OHFKUmtMT21NOUI0dm9YYVloWmplN0x1NkZLcVRTbks0UzBBYVExbWdRcGxPUTAxejZDLURTb25GNnY1OFVhTE52SmRLSVppd1F2MFNaOG1KWER5RHVoVkw5TENVdlBmamVpUEQ1M0FXLURGVUVJdDhXUjJGNmNDZi05Y3R2a2Zud1Ribjk3RXZPcTNUMzhfMjJOb3JqQnhUY04xS1pHcHpra0Z1QnVsaDVsVW1FZ1owblZTcnhSR29HTktLS2txUkhHaWVhV1c?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "564f72e82e6e49c47f0b",
+          "fecha": "2026-10-27T11:14:25+00:00",
+          "titulo": "Cyclone Arnab Update: Indian Railways issues travel advisory for passengers - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcDBWM0stMHVyREIzVjd3Z3h4ek5nb2ZibnhqaHZOdVVMYzFwSkh2cG5MWW9OaUVNYlJfdGlTS1M2TWpZaEo0REtXWkY3cWk2QXRMYWFuRlRpdnRtVkp2WnJDSkRycmZYanhsRUdEbTJOcDI5REhua3RFbVNZNmUwRHRnRUozQXdPMGZoR2o2dGlNQkZBRWd0ejgyYlVqS25fRWFhZtIBqwFBVV95cUxPYW9ubXVKTXlvck1FaUFsMnhsLUN5RmpqN0tQSUZ2X1FoTGxqRHV5ODFpbHhoX3pVU2xqRjFpTFhUZFVNS1k2amc1djRLZVJxbFJZeXRSZzM0TDRaVVZ6MTY3VGhWYU1FWnZBT0xGMjAxOXVBOEMxalBnWTlkdURXVWRlTnpYZXR0S2F6WHd0ZkQ5RWRLWE9xNm1VSmNSLWhPVU56UXd3dEEtaGM?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "131c9b4c82148a180077",
+          "fecha": "2026-10-27T11:02:41+00:00",
+          "titulo": "Abhishek Sharma hits ton as India beat New Zealand by 6 wickets in 3rd T20",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/10/27/abhishek-sharma-hits-ton-as-india-beat-new-zealand-by-6-wickets-in-3rd-t20?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "0944686431d7e339a4ce",
+          "fecha": "2026-10-27T10:59:31+00:00",
+          "titulo": "Siang dam project: Planned to ‘counter China’, why it is being opposed in Arunachal - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ2tOeTI0X3BiZm9lUm94U2tHNF9ZbUNnS1R4YWg3STRrSmFtTlpOVGszZ0ZkdjJDME9TWWlxeFlnNExVbG1KbjduMVo4dWJKXzFPUWZQMjZvUWJJRk04MXptUWFEXzVxa3JMTFFCTWRqOFpXU2hBcVF1ZkJNNjYtRDJoUF9tSndxWGpjYmlicVBnY1o4VnZFeDVXY9IBogFBVV95cUxPeVZzN3JHVzhPanZ3cE85aUczN1lCVVFYVElRcDc0ekZ5Mktlcmd4VE1PYTVvazlTcTFsa1BVZml4S0ljcVBEenZRTDVDcWUzYjNNWEVOYXFWaDZlWUN2NG1IS0JYejFnSzNHYjlacGd4eGJGVGZBdVh6cVFLSGhXbVFLbVR0ODdkbUphWW1pQXFGVEhqN2ZuTGd0T3BTV3d5WHc?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "e6bdd7fb638e10f70213",
+          "fecha": "2026-10-27T10:56:22+00:00",
+          "titulo": "Media groups challenge India’s privacy law at top court",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/27/media-groups-challenge-indias-privacy-law-at-top-court?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "53dbde4e604024ceebe3",
+          "fecha": "2026-10-27T10:55:27+00:00",
+          "titulo": "Indian court orders documentary on Modi, tycoon Adani removed",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/asia/south-asia/article/3372312/indian-court-orders-documentary-modi-tycoon-adani-removed",
+          "traducida": false
+        },
+        {
+          "id": "db16e7340c29a71e0296",
+          "fecha": "2026-10-27T10:45:31+00:00",
+          "titulo": "Days after India-Pakistan sparring at UN, senior Indian official visits Islamabad for SCO planning meet",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/days-after-india-pakistan-sparring-at-un-senior-indian-official-visits-islamabad-for-sco-planning-meet/article71525343.ece",
+          "traducida": false
+        },
+        {
+          "id": "4b1f95aa089447332a39",
+          "fecha": "2026-10-27T10:16:33+00:00",
+          "titulo": "Can students use AI in exams? How IIMs, ISB and IISER Pune are rewriting rules - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOXhCQndVRDNIRjBmNmpWNVBMSG9UdXhIM2RnUGQtc0Z0cVpaUUs3allBeTJpdXd1UE1jTVhGZWxHSHMwdGxlam5jMG5maGVCb045NlB0aDVzdXVwRjZGX1h2N2YwSWtjM1FSVS1lT1JNWjlSX0xja3lVTFE1a2NsQl9mOTFyU3QwOWh4a0J2MFVJbXUtYTNXanFwNTk4NmRKUWZva0xSQzZocUFCOUQ3OUtzZEtTeXlEUnNURFY0MVpNMFJsM2ozSHBn0gHQAUFVX3lxTE10NTE3UWp2dDA1ZmIxdE1yYmlsU3RFYnpUS2FPNzNKR2hJYzdSZzdpMTFBQUxseDNKX2dydFVJRE9xQ2hlTWM3b0pqYVdvLUxKUVUyUVB3ZlV6dWVsb1JzYmZieXJ1eHhta2JPd2daMzg0a0tweFVEcHJSVU9ERWVsb25oVXZJZUhweXNJSGpydDdub1RTWGttRk4yMllieFc1bFgxQklvU1lrSkZqNV9PUnRMaXNwTUJ6NW9ZZFAydGJERUJYdkdpSDF6bHFicWc?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "e51882472b8d0d869131",
+          "fecha": "2026-10-27T10:14:12+00:00",
+          "titulo": "Day before Imran Khan’s ‘Leave India’ deadline, Bombay HC puts it on hold - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPeXpOWHUzTUo3a2h2QXRfamZKZWpQbXJqVng1QmtHTjJOOVJ0bnV2bnQ0eDBlbmhBOWxwQy1lRXQzRnQzSmw1UzlGRnBTbnFsNzJWU1poV3VqUWJEaWNJV0U0WHJhTUV3WEkyN3lCRkY5WHFrdTFITzlWY1FBbGVUZkF0bjFTMDFTRFhucVlIVHBELXNJM3h2bHRhTWt1VmVSbTZ2dUxYclgxUmx2STRyaGFFZFlqSkROc0w0Q19aRFNOUG9rOWhwMG9Wc01ZcmFOeGlNY21ITkk5NnlRRC1uTVJ6c3YwOWZG0gHvAUFVX3lxTE42QUxMRkFOSkc4WGxHOEU4Y3JBV3dLME9KRnlfS0VzWHlwa3ExcjZxbXpfX0dwM1ZXYVF6cEZKSHgwdTl0TUEyMGdFOFRhamhWNHZVQm8xYTZOcW1DWTYxMjd2NDF4UTFSXzNKT05FVHNyVDNwbjBOVk5NWm9oYW1lMHJoQy0xbXhZOG9ZLThmcFVkcEpkNTBzSHJRbGc2M0l5eHluaHI5Z3RuQl9INDhReExUS2t5WjctMFZFTEQ1TWE3R0RUZlJSX2RpU18wSFdNdjMyaldwdURaRTNMMlNsY3EtcVVMV21zNHJ2T3JZ?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "a87595941ac3937dd9c6",
+          "fecha": "2026-10-27T09:56:35+00:00",
+          "titulo": "‘We know everything’: Supreme Court on pleas alleging unilateral ECI decisions - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc0xwbHVKdEoyY2tTa0kzeUxFN2g1emR2a1Fic0ZIZWNSNUx6Rl90dFdCbURQSnRaQ1BwV0hYV3pKZ2ZkRXFkUW1oSDllRzVqbTZ0cElfSnY3QVBVeFU5dWpQT21WX2ZLNFAwZ3hQY3pfOTkyeldCcnR1SlNaNHp5S0oydWp0STRIcUl5U2x3RnFQSGdDSmdHbHduRThkTE9lV1dnUUNR0gGsAUFVX3lxTE5VU0gxVGladzcwMFVDSWFVTV9Mb1NQUlEyc1RLUTJ4SXJZamJxVG5nZVNmbzZrd1dWZlRyRHNTRUZVNUJrRXN4eXRSNmFGZGxtY0xtT2NsR2F5TnloYzRFaFRLXzZtU3RKMGFDM0JmWVlpeUM0WGpwcEZqc1pYd1cwcC1VNk5YRWhaMzBFMXZ1V0RfMWkyUVJ0dGhubnZOa0tONHBvT1lXYkNSYmQ?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "7fad9560c4f17200640f",
+          "fecha": "2026-10-27T09:48:01+00:00",
+          "titulo": "Mumbai local train disruptions explained: What caused delays, overcrowding, deaths? - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQkdFbXZGcENVZmpuMFBQMmdlR3lnbVFQNmpoay1TalNHb0w2R19qTDliQzZHeEhVa1l3TXpka0xXWWljb1h0ZlRrSy1hZkp3MXdlYW1mWFZEMnM5X2E2WTVHQjZ5LXJvYV9LdTNsOVp3bGtINVQyekJZa01tdVN0WjJEYjhUNXVkLTY5RmxKRTNETzR1d2ptZGRnUGVRZDc2T21XTkFUdjlZYUNUSkZuUnJyLWZFMjJWa3FzV3JvZ0lkcjF5X0xmNDhaU1ZtQ1BnTU9wbVlR0gHcAUFVX3lxTE5jNE5WSzEzMjMyRFAwNkxlaEFoWFpRR3B0Z2tEQ1VoQmRsX3g0Z2Y3QnRVVUFfbUlXNlNyUVNmWi1wWWdYQXNSckRCMDUyTUxFY195OXI4bjJRTEhsdDlSOVBDT3JMMHJ4Wk14eVM5V1FFNXJXY2NUaVVOcEdwMlgzQjZ2anhwU1N5aE1Ua2QzTy1IUDY4aWE4eVhRNzQ0eWttNV9Xb1JBUjg5VXdWaVlaU3pVT3VzdjhZVmxlcm5FVnZhUnRPSzA2WmEwTzYxRVlXZzNXWENxWjdxbVA?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "89326abc86b7675c72ca",
+          "fecha": "2026-10-27T09:28:10+00:00",
+          "titulo": "Soundarya Rajinikanth says she shares a different bond with father than sister: ‘Very secure as children’ - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd0JXMW1rSmtwdFdNeTMxaC1UMXYzS085Qm5PXzBpVEJzeTZid1Jpc2pmN3hNZnczalVqdUgtazZtN2JXM05SLUQ1ZW11X1FyS3lkUzFySFF0VzFMSW1tRlI1ZW9YakNYeDVMbDhYRE4wNXlKY2lqRE1ZNzhhLUtRbFJxdGdGbmJVVmpkQ0d6c3dGUW9qQjdmaTgyYkZueEY4TU9nWHVTSS1sUDZFSlJveVkxY0lST0960gG_AUFVX3lxTE03N1BXblRoNDVUeVQyNWtkd2oxTWMyS1ppSFduSzE1VVowa3oxbnNQRlp1VlBVYm5FUjRtTXNMWjIwYmw0T0c5VDhnQmRGMmJDcUczRGtyOUhfRkJlRTJybVFZNkExY1dzTnkzS0F2eHY3V2MzTkhaa2RvZjBfajNqMXdZTGZSRV9iZzJBVEV0WTVOdVpnNUw1R0pLTklDZ0Y5MllVb0tKbHR2b1lmWnZhdEJ4dUh6MlJaTnV3SUtR?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "9465b1eefae287422e6d",
+          "fecha": "2026-10-27T09:25:48+00:00",
+          "titulo": "Fragile India-China thaw tested by reported fresh Himalayan border face-offs",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3372296/fragile-india-china-thaw-tested-reported-fresh-himalayan-border-face-offs",
+          "traducida": false
+        },
+        {
+          "id": "4b43920ccda0c035b58b",
+          "fecha": "2026-10-27T09:21:33+00:00",
+          "titulo": "What Marco Rubio’s sidestepping of New Delhi says about the US’s stance on India",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/26/marco-rubio-us-secretary-of-state-india-visit-mumbai",
+          "traducida": false
+        },
+        {
+          "id": "0ffe8f4ac7b05264a570",
+          "fecha": "2026-10-27T08:52:46+00:00",
+          "titulo": "Armed thief shot her father, but Class 7 girl from Pune fought back - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNGhPR25FR2hlTDNQTUFXd2dIQmk2aUdCR2czbEp3V3JTN1JESlhNZWtYRlRyZS1sM3lOMVhEZHdzb0ZydFJHaWwwdERHZGxURC1WYjdIQmNhQUFUSmNCR054Q2pJbVVJN2FGVFhwaDF3NWdpVTFHeExzT1lGUEhDRnRlZGFEUE1TS1piQm9YZkpKd1R1YWNqNThWRFB4M0w5ckNsYVZ3ZU5PUWd6dUHSAbQBQVVfeXFMT0hreDhDMVNWYmhuelFYQlI3NE8zdTVfSnd4OVVfVFcycExpeDZKYzltU3haNE9QcXVaU0dsYlZJczNMSGxWSjJLVVB4eS1mV0RPaFRNR0NMdlA4REg2NDBkRFhWUjQyZ1lfNG9mRzlmMUJxSVY3Rkt5NjUtRWRvd3A2ekI5a2FGcHZaMW1mQ2xDaW1UMjdZUTQyOUU3dDlEYjBrMEpjSmE5aE1ma3g1NGpwVmFB?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "fcb877105227efe46fb5",
+          "fecha": "2026-10-27T08:39:25+00:00",
+          "titulo": "A realtor sent out messages naming another builder. Hours later, he was found dead in Dehradun - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWEpzZ0E2WXA1dDdhNjZ5cjlBemFhbDNRUGU5VTExU2hWSkhPdC1mUjhSQ2hjLV9mNlV6OUNCU2xueUtxb3Axenh3eDZiU3FFUW1EaTIxWFFHU3lSM1gxMFQxbkVuaVhYVWRJTEc0V1F1UjJkR2RQT2F5Zjd4dks5eXdfcE1EVTlxXzFSQ3dteUhRc01KcVl6S1g4bFBxU0hWOEVXNWVZTjItMmw5YW9CZ3EwNE1BY3RwbkRUWk14UFBXNWpYUnVkX2dOYThSaUYybTdxSEtfSGRTZ9IB4AFBVV95cUxQdlk1SUIyVGdsV0hvUkpmU3dMdGtwemhEUFRxU29uaUFqQTlORFJ5WWVyQWpVTzFYRUtPVHgzcXZJZWxKWjNTUkVLaDlQbm1CZUZMS2VtYTBNNG85eExaQlhxTEFiYlN0X0JHUWR1S2V5QUZ3bk1ZRm44Yk5VQWlvOWdycE1qRXpJSkowVy1idm45aHlNRUNhY1ZPVXliN2xWUEUtNU8zNFBIYzRqT2ZkWG9vcGU3bER4TkFqMTZJZ1JrVzhRcmNyYUFucXZnMDlySC1wX01ZbW94THRlMFRYZA?oc=5",
+          "traducida": false
+        }
+      ]
+    },
+    {
       "id": "suramerica",
       "titulo": "Sudamérica: integración y política exterior",
-      "cantidad_archivada": 158,
-      "nuevas_24h": 25,
-      "anteriores_24h": 45,
+      "cantidad_archivada": 163,
+      "nuevas_24h": 30,
+      "anteriores_24h": 44,
       "dias_con_registros": 12,
       "fecha_ultima": "2026-10-27T15:00:14+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -597,6 +849,14 @@
           "traducida": false
         },
         {
+          "id": "d29a7ec9a5f24b0b3c99",
+          "fecha": "2026-10-27T01:20:06+00:00",
+          "titulo": "Lula’s return is dramatic, his challenges formidable - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNckJXR0g4ZlRGWTl5dFA4OEU3ZTFXbGpGWkgtYUctNzM2clZ6UUhweVRvQ2hvSFVYWG1tdjAxTmdnV2FCTlJkcUhwT3B6TG1Xa3Z3X1VDM24tOTNJOG4xd2hsTVZvM3EyakFjZ1VPeDBXY1lzTWNKdnl2RjZnd3Zta1dNa1lFeUVETmZkOWRsbUdNbTZzMXRFSXZJONIBogFBVV95cUxNaWFaMS1ZZVg1bTJUX0pRZUJYZE53YnFEQlkzVmV6Sm1IbkFsUDhCdlpPVVZiZnRLX29LMWlDajBQNXBvS2YzS2xIN0FXX2c0ZVF6QV9VNU9CWVludGllZlVHZmo1Z01VM0tfSHNvU1I5M1pQckpqcmVYdDdWb3V0bXFxcWx4OTdzTTBLTDc5SUdqTXlNRVB2WTBDbElXQ3lzMHc?oc=5",
+          "traducida": false
+        },
+        {
           "id": "c2f8349f7f005c3175b8",
           "fecha": "2026-10-27T00:00:03+00:00",
           "titulo": "Reader Q&A: After Lula’s sensational victory in Brazil’s presidential election, post your questions for the Guardian’s Latin America correspondent",
@@ -613,6 +873,22 @@
           "traducida": false
         },
         {
+          "id": "33211fa3e41df46cb04b",
+          "fecha": "2026-10-26T22:11:00+00:00",
+          "titulo": "Brazil voted to reelect Lula. Trump’s allies aren’t happy. - Politico",
+          "fuente": "POLITICO US",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYml2aG52Uy1VdnJudnM3ZndlZVRtb0F4Vi1RMnBwWjByRFgtZFltLVVVeEVYVWx0NEI3cHlMbElTc3MyT0luMkFJblk4UDV4V2FBM1FBNVpGdkdxSHNaZUZaNkR3N3M1UEtPOFViM1ZGZU5wWnp5LUhQWkFZQzJFMUo4dnFSUXQ3WnBLajI3blJDZjNhVldUQy14aTVVZmhUbnBTVFdQRzE?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "c1fb9be22d1ee1bafece",
+          "fecha": "2026-10-26T22:10:00+00:00",
+          "titulo": "Trump says Brazil election looked ‘rigged’ after Bolsonaro loses - Politico",
+          "fuente": "POLITICO US",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZG9wTHJiNEZmY1l3VXVBRzkyMW5Oc3VSVnVYcXJIbVQtLXN5WTRuMVZFelhpZGJTdUZ6WXo3R1ZFWGdnSlRkUUkySC1oYnh6MVU2YV83WTZMalZhNHhkVlo1MTl1dzkxaTg2eGhXR1A0cVRZQVhqRUotRG5jRUhvQUZCalgzTlBBZ0J1c1lxWndQUQ?oc=5",
+          "traducida": false
+        },
+        {
           "id": "d3c1f5814222a58b6b41",
           "fecha": "2026-10-26T21:37:22+00:00",
           "titulo": "Trump says Brazil election looked 'rigged' without giving evidence",
@@ -621,11 +897,27 @@
           "traducida": false
         },
         {
+          "id": "9dd6adf7e1bbeaa2a09d",
+          "fecha": "2026-10-26T21:18:15+00:00",
+          "titulo": "The lesson from Brazil - Politico",
+          "fuente": "POLITICO US",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQkM5LXFoYjNkU3FrVU1OQ3BDdWRuTzV3ckppb1pGV2s2UW9VTXB1ZTNibHRHblo0ZUNIWFBISGg2UlB6b1lHZjFMa1paZmN5QjdJeHcyUElrLWF6SkM4T21CWVVwU2g4X0RvaktvemZKN3hHUEtjTV9XT2tPRm5ZTlFqSXlmdGVjSzdJQnZQUndmQQ?oc=5",
+          "traducida": false
+        },
+        {
           "id": "934bd8317579bd82d0ad",
           "fecha": "2026-10-26T19:45:15+00:00",
           "titulo": "A final surge: On Luiz Inácio Lula da Silva’s triumph in Brazil",
           "fuente": "The Hindu",
           "url": "https://www.thehindu.com/opinion/editorial/a-final-surge-on-luiz-inacio-lula-da-silvas-triumph-in-brazil/article71627840.ece",
+          "traducida": false
+        },
+        {
+          "id": "f1a925437285b61ebc20",
+          "fecha": "2026-10-26T19:10:04+00:00",
+          "titulo": "Lula secures a fourth term in historic comeback in Brazil - CNN",
+          "fuente": "CNN",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DNWs2bWp1Vjlaem1GMWREaWxFNVdiVWxHYmxrS3E4TzliaFNtV2Y3b1dCZEJoY2w1NjFjUmctR0hyTjgybHpXWnQ2TERoaS00R2RNUlFkOEt6azMtenFGWEo5SjBCdnBOaHliVDhqbDRoRUxhRjRaNFVoeGJxY0E?oc=5",
           "traducida": false
         },
         {
@@ -715,46 +1007,6 @@
           "fuente": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo?at_medium=RSS&at_campaign=rss",
           "traducida": false
-        },
-        {
-          "id": "85eb724d8f1ce8ed1ada",
-          "fecha": "2026-10-26T15:17:13+00:00",
-          "titulo": "El milagro de los nueve dedos",
-          "fuente": "El País",
-          "url": "https://elpais.com/america/2026-10-26/el-milagro-de-los-nueve-dedos.html",
-          "traducida": false
-        },
-        {
-          "id": "d5cd89b1149a51208031",
-          "fecha": "2026-10-26T15:00:25+00:00",
-          "titulo": "Lula réélu au Brésil : retrouvez notre direct consacré à la réélection du président sortant et les réactions internationales",
-          "fuente": "Le Monde",
-          "url": "https://www.lemonde.fr/international/live/2026/10/26/en-direct-lula-reelu-au-bresil-la-bourse-de-sao-paulo-plonge-lundi-pluie-de-felicitations-a-l-international-a-l-exception-remarquee-de-donald-trump_6800074_3210.html",
-          "traducida": false
-        },
-        {
-          "id": "c234a4ad9c1328724838",
-          "fecha": "2026-10-26T14:36:47+00:00",
-          "titulo": "Win for Lula boosts China’s foothold and gives Brazil rare earths leverage",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3372207/win-lula-boosts-chinas-foothold-and-gives-brazil-rare-earths-leverage",
-          "traducida": false
-        },
-        {
-          "id": "19ca303b7e161f4360d1",
-          "fecha": "2026-10-26T13:30:00+00:00",
-          "titulo": "Russia to be guest of honor at 2026 Hainan Winter Trade Fair — newspaper",
-          "fuente": "TASS",
-          "url": "https://tass.com/economy/2207963",
-          "traducida": false
-        },
-        {
-          "id": "d783f6406dc50806d98f",
-          "fecha": "2026-10-26T13:25:51+00:00",
-          "titulo": "Así votó cada municipio de Brasil: las grandes ciudades y el voto de terceros dieron la vuelta a la elección",
-          "fuente": "El País",
-          "url": "https://elpais.com/america/2026-10-26/asi-voto-cada-municipio-de-brasil-las-grandes-ciudades-y-el-voto-de-terceros-dieron-la-vuelta-a-la-eleccion.html",
-          "traducida": false
         }
       ]
     },
@@ -763,7 +1015,7 @@
       "titulo": "Unión Europea y relaciones exteriores",
       "cantidad_archivada": 305,
       "nuevas_24h": 15,
-      "anteriores_24h": 24,
+      "anteriores_24h": 23,
       "dias_con_registros": 12,
       "fecha_ultima": "2026-10-27T13:50:31+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -1006,258 +1258,6 @@
           "titulo": "Key European defence ministers meet in Paris to discuss Ukraine support",
           "fuente": "Al Jazeera",
           "url": "https://www.aljazeera.com/news/2026/10/26/key-european-defence-ministers-meet-in-paris-to-discuss-ukraine-support?traffic_source=rss",
-          "traducida": false
-        }
-      ]
-    },
-    {
-      "id": "india-asia",
-      "titulo": "India y Asia-Pacífico",
-      "cantidad_archivada": 155,
-      "nuevas_24h": 15,
-      "anteriores_24h": 18,
-      "dias_con_registros": 12,
-      "fecha_ultima": "2026-10-27T13:15:32+00:00",
-      "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
-      "publicaciones": [
-        {
-          "id": "48e9b375c8933160475b",
-          "fecha": "2026-10-27T13:15:32+00:00",
-          "titulo": "India-China border face-offs test Modi six years after deadly clash",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/27/india-china-border-face-offs-test-modi-six-years-after-deadly-clash?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "e19ec490aa00f61e2ece",
-          "fecha": "2026-10-27T13:08:15+00:00",
-          "titulo": "Moscow calls on Tokyo to drop its unfriendly policies — Foreign Ministry",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2208727",
-          "traducida": false
-        },
-        {
-          "id": "17ebe204563b8c022245",
-          "fecha": "2026-10-27T12:00:13+00:00",
-          "titulo": "US, Japan rehearse coordinated strikes to challenge PLA control of waters near Taiwan",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/military/article/3372314/us-japan-rehearse-coordinated-strikes-challenge-pla-control-waters-near-taiwan",
-          "traducida": false
-        },
-        {
-          "id": "131c9b4c82148a180077",
-          "fecha": "2026-10-27T11:02:41+00:00",
-          "titulo": "Abhishek Sharma hits ton as India beat New Zealand by 6 wickets in 3rd T20",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/10/27/abhishek-sharma-hits-ton-as-india-beat-new-zealand-by-6-wickets-in-3rd-t20?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "e6bdd7fb638e10f70213",
-          "fecha": "2026-10-27T10:56:22+00:00",
-          "titulo": "Media groups challenge India’s privacy law at top court",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/27/media-groups-challenge-indias-privacy-law-at-top-court?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "53dbde4e604024ceebe3",
-          "fecha": "2026-10-27T10:55:27+00:00",
-          "titulo": "Indian court orders documentary on Modi, tycoon Adani removed",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/asia/south-asia/article/3372312/indian-court-orders-documentary-modi-tycoon-adani-removed",
-          "traducida": false
-        },
-        {
-          "id": "db16e7340c29a71e0296",
-          "fecha": "2026-10-27T10:45:31+00:00",
-          "titulo": "Days after India-Pakistan sparring at UN, senior Indian official visits Islamabad for SCO planning meet",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/days-after-india-pakistan-sparring-at-un-senior-indian-official-visits-islamabad-for-sco-planning-meet/article71525343.ece",
-          "traducida": false
-        },
-        {
-          "id": "9465b1eefae287422e6d",
-          "fecha": "2026-10-27T09:25:48+00:00",
-          "titulo": "Fragile India-China thaw tested by reported fresh Himalayan border face-offs",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3372296/fragile-india-china-thaw-tested-reported-fresh-himalayan-border-face-offs",
-          "traducida": false
-        },
-        {
-          "id": "4b43920ccda0c035b58b",
-          "fecha": "2026-10-27T09:21:33+00:00",
-          "titulo": "What Marco Rubio’s sidestepping of New Delhi says about the US’s stance on India",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/26/marco-rubio-us-secretary-of-state-india-visit-mumbai",
-          "traducida": false
-        },
-        {
-          "id": "943cc615dc89d9bb60fa",
-          "fecha": "2026-10-27T08:19:25+00:00",
-          "titulo": "New UNSC permanent members without veto would be 'second-class': India",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/new-unsc-permanent-members-without-veto-would-be-second-class-india/article71630266.ece",
-          "traducida": false
-        },
-        {
-          "id": "ce9463cd26d41fdcca6f",
-          "fecha": "2026-10-27T08:02:37+00:00",
-          "titulo": "India evacuates tens of thousands as ‘very severe’ Cyclone Arnab nears",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/27/india-evacuates-tens-of-thousands-as-very-severe-cyclone-arnab-nears?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "a31e913a0c94c6737d77",
-          "fecha": "2026-10-27T05:32:16+00:00",
-          "titulo": "Microsoft offers voluntary exit packages to 60,000 staff, with some Indian teams eligible",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/technology/microsoft-offers-voluntary-exit-packages-to-60000-staff/article71629641.ece",
-          "traducida": false
-        },
-        {
-          "id": "1740252c2574cf8fe17f",
-          "fecha": "2026-10-27T04:30:07+00:00",
-          "titulo": "Why paper straws are worse than plastic; Japan’s ‘silver divorce’ rise: 7 Asia highlights",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/asia/article/3372227/why-paper-straws-are-worse-plastic-japans-silver-divorce-rise-7-asia-highlights",
-          "traducida": false
-        },
-        {
-          "id": "a7be1f4f1e47bba15fc7",
-          "fecha": "2026-10-27T02:50:31+00:00",
-          "titulo": "US bans vehicles from China’s BYD at Japan military base, calling them ‘unacceptable’ risk",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/27/us-bans-byd-electric-vehicles-kadena-military-base",
-          "traducida": false
-        },
-        {
-          "id": "2e5d4fd6fcdcfb2c7f17",
-          "fecha": "2026-10-26T16:55:11+00:00",
-          "titulo": "From climate targets to energy justice",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/energy-and-environment/from-climate-targets-to-energy-justice/article71628453.ece",
-          "traducida": false
-        },
-        {
-          "id": "77b015f6049aff9fb56c",
-          "fecha": "2026-10-26T14:48:38+00:00",
-          "titulo": "India’s Defense Ministry plans to modernize 80 Russian-made T-72, T-90 tanks annually",
-          "fuente": "TASS",
-          "url": "https://tass.com/defense/2208001",
-          "traducida": false
-        },
-        {
-          "id": "fbb47bbb644b2929e0c8",
-          "fecha": "2026-10-26T14:31:42+00:00",
-          "titulo": "Rohingya dismantle homes amid eviction threat in disputed Kashmir region",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/rohingya-deported-disputed-kashmir-region?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "1ee616a24c0ec358930a",
-          "fecha": "2026-10-26T14:13:18+00:00",
-          "titulo": "US Marine indicted for murder and robbery of woman in Japan",
-          "fuente": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c3vgxjex1z9wo?at_medium=RSS&at_campaign=rss",
-          "traducida": false
-        },
-        {
-          "id": "b6e747cadcd03046c1b3",
-          "fecha": "2026-10-26T13:32:00+00:00",
-          "titulo": "Germany's Merz heads to Asia as security issues loom large",
-          "fuente": "Deutsche Welle",
-          "url": "https://www.dw.com/en/germany-s-merz-heads-to-asia-as-security-issues-loom-large/a-79764065?maca=en-rss-en-world-4025-rdf",
-          "traducida": false
-        },
-        {
-          "id": "d93f4de996a6179478ad",
-          "fecha": "2026-10-26T13:32:00+00:00",
-          "titulo": "Germany's Merz in Asia as security issues loom large",
-          "fuente": "Deutsche Welle",
-          "url": "https://www.dw.com/en/germany-s-merz-in-asia-as-security-issues-loom-large/a-79764065?maca=en-rss-en-world-4025-rdf",
-          "traducida": false
-        },
-        {
-          "id": "5c34d364b9dc4ad917df",
-          "fecha": "2026-10-26T12:52:39+00:00",
-          "titulo": "Japanese prosecutors charge US marine suspected of robbing and killing woman",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/26/japanese-prosecuters-charge-marine-killing",
-          "traducida": false
-        },
-        {
-          "id": "86b7808ffb40aee742ba",
-          "fecha": "2026-10-26T12:20:20+00:00",
-          "titulo": "Death of former PM Yasuo Fukuda leaves void in fraught China-Japan relations",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3372192/death-former-pm-yasuo-fukuda-leaves-void-fraught-china-japan-relations",
-          "traducida": false
-        },
-        {
-          "id": "102e50fc97648c930edd",
-          "fecha": "2026-10-26T12:02:00+00:00",
-          "titulo": "Face-Offs at India-China Border Are Continuing at Multiple Points, ITBP Chief Confirms",
-          "fuente": "The Diplomat",
-          "url": "https://thediplomat.com/2026/10/face-offs-at-india-china-border-are-continuing-at-multiple-points-itbp-chief-confirms/",
-          "traducida": false
-        },
-        {
-          "id": "9def979b58e94ad698e8",
-          "fecha": "2026-10-26T09:34:41+00:00",
-          "titulo": "Why Poland wants a stronger relationship with India | The Hindu Editorial",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/videos/why-poland-wants-a-stronger-relationship-with-india-the-hindu-editorial/article71626195.ece",
-          "traducida": false
-        },
-        {
-          "id": "932bb428ca97c3cbe968",
-          "fecha": "2026-10-26T08:39:38+00:00",
-          "titulo": "AI chip surge lifts South Korea to record surplus, behind only China",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/week-asia/economics/article/3372150/ai-chip-surge-lifts-south-korea-record-surplus-behind-only-china",
-          "traducida": false
-        },
-        {
-          "id": "90d18e8402e46762b364",
-          "fecha": "2026-10-26T07:06:05+00:00",
-          "titulo": "Discovery of baby orangutans in India exposes booming illegal pet trade",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/asia/south-asia/article/3372133/discovery-baby-orangutans-india-exposes-booming-illegal-pet-trade",
-          "traducida": false
-        },
-        {
-          "id": "245524df6009cf26a36e",
-          "fecha": "2026-10-26T06:27:47+00:00",
-          "titulo": "Why did Tinder’s scam detection fail, and what should Indian users do?",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/technology/why-did-tinders-scam-detection-fail-and-what-should-indian-users-do/article71625830.ece",
-          "traducida": false
-        },
-        {
-          "id": "0696b90aa067784f2f75",
-          "fecha": "2026-10-26T06:05:32+00:00",
-          "titulo": "Cooler than Tokyo: Sendai named Japan’s most comfortable city amid record heat",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/week-asia/health-environment/article/3372132/cooler-tokyo-sendai-named-japans-most-comfortable-city-amid-record-heat",
-          "traducida": false
-        },
-        {
-          "id": "1e34665c104a7907d564",
-          "fecha": "2026-10-26T02:37:04+00:00",
-          "titulo": "Japan companies to compensate customers after major cyberattacks",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/asia/east-asia/article/3372105/japan-companies-compensate-customers-after-major-cyberattacks",
-          "traducida": false
-        },
-        {
-          "id": "d07bb31e3d4d6590d3db",
-          "fecha": "2026-10-26T01:49:34+00:00",
-          "titulo": "A physicist who took atoms near absolute zero, and physics further",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/science/claude-cohen-tannoudji-laser-cooling-pancharatnam-michael-berry-ramaseshan/article71625449.ece",
           "traducida": false
         }
       ]

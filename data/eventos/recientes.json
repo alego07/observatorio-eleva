@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-10-27T15:23:42.954081+00:00",
+  "created_utc": "2026-10-27T15:35:08.677869+00:00",
   "events": [
     {
       "id": "a-87fca09603b97f45ec86",
@@ -43,53 +43,6 @@
       "motivos_seleccion": [
         "Actores relevantes: Rusia, Ucrania",
         "Ámbito: Seguridad y conflictos",
-        "Posible decisión institucional o negociación"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-88bdee328bceda212931",
-      "fecha": "2026-10-26",
-      "titulo_fuente": "Will There Be a Putin-Trump-Xi Summit?",
-      "region": "Estados Unidos",
-      "temas": [
-        "Diplomacia"
-      ],
-      "noticias": [
-        {
-          "id": "88bdee328bceda212931",
-          "titulo_original": "Will There Be a Putin-Trump-Xi Summit?",
-          "titulo_es": "",
-          "url": "https://thediplomat.com/2026/10/will-there-be-a-putin-trump-xi-summit/",
-          "fuente": "The Diplomat",
-          "pais": "Internacional",
-          "fecha": "2026-10-26T18:05:00+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "If so, to what end? Panda and Putz discuss on the latest episode of the Asia Geopolitics podcast.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Diplomat"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 8,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos, Rusia",
-        "Ámbito: Diplomacia",
         "Posible decisión institucional o negociación"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
@@ -156,47 +109,62 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-0294c96f21e83b5a5532",
-      "fecha": "2026-10-26",
-      "titulo_fuente": "Pope Leo XIV confirms Latin America trip after recovering from surgery",
-      "region": "Perú",
+      "id": "a-864ed27f792ab5af65d0",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "Ceasefire brokered by Melania Trump begins in Russian-occupied Ukrainian town",
+      "region": "Rusia-Ucrania",
       "temas": [
-        "Actualidad"
+        "Seguridad y conflictos"
       ],
       "noticias": [
         {
-          "id": "0294c96f21e83b5a5532",
-          "titulo_original": "Pope Leo XIV confirms Latin America trip after recovering from surgery",
+          "id": "864ed27f792ab5af65d0",
+          "titulo_original": "Ceasefire brokered by Melania Trump begins in Russian-occupied Ukrainian town",
           "titulo_es": "",
-          "url": "https://www.euronews.com/2026/10/26/pope-leo-xiv-confirms-latin-america-trip-after-recovering-from-surgery",
-          "fuente": "Euronews",
-          "pais": "Unión Europea",
-          "fecha": "2026-10-26T17:59:09+00:00",
+          "url": "https://www.scmp.com/news/world/europe/article/3372265/ceasefire-brokered-melania-trump-begins-russian-occupied-ukrainian-town",
+          "fuente": "South China Morning Post",
+          "pais": "Hong Kong",
+          "fecha": "2026-10-27T06:15:25+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The Vatican says the Pope is recovering well and will be able to visit Uruguay, Argentina and Peru from 6 to 17 November, with doctors ruling out any complications that could derail the trip.",
+          "resumen_original": "A localised ceasefire between Ukraine and Russia took effect early Tuesday ahead of a humanitarian mission brokered by US first lady Melania Trump, as missile attacks resumed in Kyiv. The local pause in fighting started at 3am to allow an aid mission into the Russian-occupied town of Oleshky in southern Ukraine later this week. According to her office, Melania Trump led talks with civilian negotiators from Russia and Ukraine after meeting with UN",
+          "resumen_es": ""
+        },
+        {
+          "id": "72c443300b8ceadb85c5",
+          "titulo_original": "Melania Trump-brokered ceasefire takes effect around Russian-occupied city of Oleshky - CNN",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaE9lUkRYMEFocG5VajluMlVGejR6RTNfajNxdzg0UXhRN2lNRTNHZDgyMHJTQ0RKbWFDUGRCQ0tEcWI1N3Q2dHpwSzVvSHpBTFNTSm1samtKR1VPTlVGVzZEMTJPRHRINnZDQW1CbTlBQzNOUDZ3cFVTMng0cnZHZTBnOURvbXhYaERRUWp3?oc=5",
+          "fuente": "CNN",
+          "pais": "Estados Unidos",
+          "fecha": "2026-10-27T04:26:37+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Melania Trump-brokered ceasefire takes effect around Russian-occupied city of Oleshky CNN",
           "resumen_es": ""
         }
       ],
       "fuentes": [
-        "Euronews"
+        "CNN",
+        "South China Morning Post"
       ],
       "actores_mencionados": [
-        "Perú",
-        "Argentina"
+        "Estados Unidos",
+        "Rusia",
+        "Ucrania"
       ],
-      "fuentes_independientes": 1,
+      "fuentes_independientes": 2,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
       },
-      "relevancia_peru": "Perú aparece mencionado; falta verificar el alcance real de cualquier consecuencia.",
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
       "prioridad_orientativa": 7,
       "motivos_seleccion": [
-        "Actores relevantes: Perú",
-        "Mención expresa al Perú"
+        "Cobertura de fuentes distintas",
+        "Actores relevantes: Estados Unidos, Rusia, Ucrania",
+        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -504,6 +472,52 @@
         "Actores relevantes: Rusia",
         "Ámbito: Diplomacia",
         "Posible decisión institucional o negociación"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-59f1a4a76e84b6358b44",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "Expert Explains | To counter China along LAC, why its grey-zone warfare tactics must be understood - The Indian Express",
+      "region": "China",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "59f1a4a76e84b6358b44",
+          "titulo_original": "Expert Explains | To counter China along LAC, why its grey-zone warfare tactics must be understood - The Indian Express",
+          "titulo_es": "Explicaciones de expertos para contrarrestar China a lo largo de LAC, por qué sus tácticas de guerra de zonas grises deben ser entendidas - The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTUdZVmJqOHNKNlBfZ0I2Y2F1ZUIyTy1OamdjUVJ4ci15d0hUVExHWUlLME0zdmxrN1REN3BTNUtjQW5LdUFYZW9JbWdtbGc0X0lQXzBsVDhVejRtS3ZXQmlCVGRhS3U3eHI3bk9CS240Q1hIYjBSaUEzZmhFY0kwbXJYeTZ0Rk95V0YwUHF3T3hVbk92UDdPR3lIbWRXNkhFZzRtdNIBqwFBVV95cUxQZ0RkdXhkYkFUYmRFcDJSWm1yd1RFU2R2Vm9pNU11VWRZcU03RXBQbVVReG1sRDllSlRobEp2amQ3STd4SXUwWDFwRDFacl95OTl1N0pnU0JPZjBPV1VxaWY1QUVVcWI5MW5nWUVWYVVwdVZ0dkxvWnFkbE9QVzVEZU9wUldGWDY2ZG9ReERFb0h1alVBbGpqVEdQdWpuaGRkaXFSeGZEODVrN1U?oc=5",
+          "fuente": "The Indian Express",
+          "pais": "India",
+          "fecha": "2026-10-27T14:14:53+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Expert Explains | To counter China along LAC, why its grey-zone warfare tactics must be understood The Indian Express",
+          "resumen_es": "Explicaciones de expertos para contrarrestar a China a lo largo de LAC, por qué sus tácticas de guerra de zonas grises deben entenderse The Indian Express"
+        }
+      ],
+      "fuentes": [
+        "The Indian Express"
+      ],
+      "actores_mencionados": [
+        "China",
+        "India"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: China, India",
+        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -1792,53 +1806,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-864ed27f792ab5af65d0",
-      "fecha": "2026-10-27",
-      "titulo_fuente": "Ceasefire brokered by Melania Trump begins in Russian-occupied Ukrainian town",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "864ed27f792ab5af65d0",
-          "titulo_original": "Ceasefire brokered by Melania Trump begins in Russian-occupied Ukrainian town",
-          "titulo_es": "",
-          "url": "https://www.scmp.com/news/world/europe/article/3372265/ceasefire-brokered-melania-trump-begins-russian-occupied-ukrainian-town",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-10-27T06:15:25+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "A localised ceasefire between Ukraine and Russia took effect early Tuesday ahead of a humanitarian mission brokered by US first lady Melania Trump, as missile attacks resumed in Kyiv. The local pause in fighting started at 3am to allow an aid mission into the Russian-occupied town of Oleshky in southern Ukraine later this week. According to her office, Melania Trump led talks with civilian negotiators from Russia and Ukraine after meeting with UN",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "South China Morning Post"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "Rusia",
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos, Rusia, Ucrania",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-51bce90f8438efcaf6f9",
       "fecha": "2026-10-27",
       "titulo_fuente": "Carney says Trump moving closer to Canada's trade demands as midterms loom",
@@ -1977,173 +1944,47 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-3e08da52d5d49f3b493e",
-      "fecha": "2026-10-26",
-      "titulo_fuente": "IAEA tempts fate with muted reaction to Ukrainian attacks on ZNPP — Russia’s MFA",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "3e08da52d5d49f3b493e",
-          "titulo_original": "IAEA tempts fate with muted reaction to Ukrainian attacks on ZNPP — Russia’s MFA",
-          "titulo_es": "El OIEA tenta el destino con reacción a los ataques ucranianos contra el ZNPP — el MFA de Rusia",
-          "url": "https://tass.com/politics/2208251",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-26T19:48:25+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "International agencies underreact to Kiev’s provocative behavior, Maria Zakharova said",
-          "resumen_es": "Las agencias internacionales se someten al comportamiento provocador de Kiev, dijo Maria Zakharova"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia",
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia, Ucrania",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-a615f11b3e1f0453ec72",
-      "fecha": "2026-10-26",
-      "titulo_fuente": "Russian diplomat calls on UN to make Ukraine remove children’s data from Mirotvorets",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Diplomacia"
-      ],
-      "noticias": [
-        {
-          "id": "a615f11b3e1f0453ec72",
-          "titulo_original": "Russian diplomat calls on UN to make Ukraine remove children’s data from Mirotvorets",
-          "titulo_es": "El diplomático ruso llama a ONU para que Ucrania retire los datos de los niños de Mirotvorets",
-          "url": "https://tass.com/politics/2208249",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-26T19:46:56+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Vasily Nebenzya also called on the office of the UN envoy to pay utmost attention to this issue as part of its efforts to draw lessons regarding the risks associated with the use of digital technologies for the protection of children",
-          "resumen_es": "Vasily Nebenzya también pidió a la oficina del enviado de las Naciones Unidas que prestara la máxima atención a esta cuestión como parte de sus esfuerzos por extraer lecciones sobre los riesgos asociados al uso de tecnologías digitales para la protección de los niños"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia",
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia, Ucrania",
-        "Ámbito: Diplomacia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-cfe7f574eba0f0184b04",
-      "fecha": "2026-10-26",
-      "titulo_fuente": "Serbia’s Student List party pledges not to impose sanctions against Russia",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "cfe7f574eba0f0184b04",
-          "titulo_original": "Serbia’s Student List party pledges not to impose sanctions against Russia",
-          "titulo_es": "El partido de la Lista de Estudiantes de Serbia promete no imponer sanciones contra Rusia",
-          "url": "https://tass.com/world/2208247",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-26T19:36:40+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Serbia \"has endured UN sanctions and knows full well what an ordeal that is,\" Jovo Bakic, a Student List representative, said",
-          "resumen_es": "Serbia \"ha soportado las sanciones de la ONU y sabe muy bien lo que es una prueba\", dijo Jovo Bakic, representante de la Lista de Estudiantes,"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia",
-        "Ámbito: Seguridad y conflictos",
-        "Posible decisión institucional o negociación"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-4acb1fe84ef739b7da19",
-      "fecha": "2026-10-26",
-      "titulo_fuente": "Netanyahu reportedly pressured military to attack Iran in run-up to election",
+      "id": "a-8f1f15a018eec4d67361",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "2 men charged in UK with helping Iran over air force base incident",
       "region": "Oriente Medio",
       "temas": [
         "Seguridad y conflictos"
       ],
       "noticias": [
         {
-          "id": "4acb1fe84ef739b7da19",
-          "titulo_original": "Netanyahu reportedly pressured military to attack Iran in run-up to election",
-          "titulo_es": "Netanyahu habría presionado a los militares para atacar a Irán en el período previo a las elecciones",
-          "url": "https://www.theguardian.com/world/2026/oct/26/netanyahu-reportedly-pressured-israel-military-attack-iran-runup-to-election",
-          "fuente": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-10-26T19:21:36+00:00",
+          "id": "8f1f15a018eec4d67361",
+          "titulo_original": "2 men charged in UK with helping Iran over air force base incident",
+          "titulo_es": "2 hombres acusados en el Reino Unido de ayudar a Irán sobre el incidente de la base aérea",
+          "url": "https://www.scmp.com/news/world/europe/article/3372342/2-men-charged-uk-helping-iran-over-air-force-base-incident",
+          "fuente": "South China Morning Post",
+          "pais": "Hong Kong",
+          "fecha": "2026-10-27T14:02:48+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Israeli prime minister increases alarmist rhetoric as his far-right coalition narrowly trails in polls Benjamin Netanyahu has resorted to increasingly alarmist rhetoric and reportedly put pressure on Israel’s military to take action against Iran as his far-right coalition narrowly trails in the polls ahead of Tuesday’s close-run elections. The Israeli prime minister posted an AI-generated image of a nuclear mushroom cloud destroying Tel Aviv, tel",
-          "resumen_es": "Benjamin Netanyahu ha recurrido a una retórica cada vez más alarmista y, al parecer, ha presionado a los militares de Israel para que tomen medidas contra el ejército israelí"
+          "resumen_original": "⁠Two men were charged ⁠on Tuesday under Britain’s National Security Act ⁠following last month’s security incident at the RAF Fairford military base, with prosecutors accusing one of them of trying to assist Iranian intelligence operations in Britain. RAF Fairford had been used by US bombers to carry out strikes on Iran, but they were withdrawn ‌on security grounds shortly after five British men were arrested outside the base in southwest England ",
+          "resumen_es": "⁠ Dos hombres fueron acusados ⁠on martes bajo la Ley de Seguridad Nacional de Gran Bretaña ⁠ siguiendo el incidente de seguridad del mes pasado en la base militar de RAF Fairford, con fiscales acusando a uno de ellos de tratar de ayudar operaciones de inteligencia iraní i"
+        },
+        {
+          "id": "38df0d7bac16f09f5a04",
+          "titulo_original": "Two British men charged with helping Iran over Fairford airbase incident - CNN",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJSllzMXYzS1VocUVrZDFRNGdhYWRhT3Izbk13bFc5UFJ0YXVRWEVVMS1qblBqeU1XS192WEROOG5zUjlReVFZeExUZ3NFM3ZUT194WGZuLU51OUNCQ0haa3Y3dnozQlg5eTBFWnJuQ1V5SnNCRmxqZw?oc=5",
+          "fuente": "CNN",
+          "pais": "Estados Unidos",
+          "fecha": "2026-10-27T10:30:42+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Two British men charged with helping Iran over Fairford airbase incident CNN",
+          "resumen_es": ""
         }
       ],
       "fuentes": [
-        "The Guardian"
+        "CNN",
+        "South China Morning Post"
       ],
       "actores_mencionados": [
-        "Israel",
         "Irán"
       ],
-      "fuentes_independientes": 1,
+      "fuentes_independientes": 2,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
         "nombre": "Realismo y dilema de seguridad",
@@ -2152,337 +1993,45 @@
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
+      "prioridad_orientativa": 5,
       "motivos_seleccion": [
-        "Actores relevantes: Irán, Israel",
+        "Cobertura de fuentes distintas",
+        "Actores relevantes: Irán",
         "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
     },
     {
-      "id": "a-34f6ebc639e8d463b2e6",
-      "fecha": "2026-10-26",
-      "titulo_fuente": "Russia says open to mini Ukraine ceasefires, but no letup in war",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "34f6ebc639e8d463b2e6",
-          "titulo_original": "Russia says open to mini Ukraine ceasefires, but no letup in war",
-          "titulo_es": "Rusia dice que está abierta para minimizar las cesaciones de Ucrania, pero no hay desvío en la guerra",
-          "url": "https://www.thehindu.com/news/international/russia-says-open-to-mini-ukraine-ceasefires-but-no-let-up-in-war/article71628518.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-10-26T17:28:04+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "A ceasefire is to start in the southern Ukrainian city early October 27, brokered by U.S. First Lady Melania Trump after months of reports that residents faced dire food, water and medicine shortages",
-          "resumen_es": "Una cesación del fuego es comenzar en la ciudad ucraniana del sur a principios del 27 de octubre, corregida por la Primera Dama de EE.UU. Melania Trump después de meses de informes que los residentes enfrentaban escasez de alimentos, agua y medicinas."
-        }
-      ],
-      "fuentes": [
-        "The Hindu"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "Rusia",
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos, Rusia, Ucrania",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-01a8cabc14ada3d9524e",
-      "fecha": "2026-10-26",
-      "titulo_fuente": "Russian attacks on Ukraine’s energy infrastructure a war crime: UN",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Seguridad y conflictos",
-        "Energía y clima"
-      ],
-      "noticias": [
-        {
-          "id": "01a8cabc14ada3d9524e",
-          "titulo_original": "Russian attacks on Ukraine’s energy infrastructure a war crime: UN",
-          "titulo_es": "Los ataques rusos contra la infraestructura energética de Ucrania son un crimen de guerra: ONU",
-          "url": "https://www.aljazeera.com/news/2026/10/26/russian-attacks-on-ukraines-energy-infrastructure-a-war-crime-un?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-10-26T17:27:34+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "UN commission notes Russian weaponisation of cold in nearly five years of attacks on heating plants and power lines.",
-          "resumen_es": "La comisión de la ONU toma nota de la militarización rusa del frío en casi cinco años de ataques contra plantas de calefacción y líneas eléctricas."
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera"
-      ],
-      "actores_mencionados": [
-        "Rusia",
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia, Ucrania",
-        "Ámbito: Energía y clima, Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-ce77c80fb738f6496eb5",
-      "fecha": "2026-10-26",
-      "titulo_fuente": "Russia: flames engulf buildings after Ukrainian drone attack in Voronezh region",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "ce77c80fb738f6496eb5",
-          "titulo_original": "Russia: flames engulf buildings after Ukrainian drone attack in Voronezh region",
-          "titulo_es": "",
-          "url": "https://www.euronews.com/video/2026/10/26/russia-flames-engulf-buildings-after-ukrainian-drone-attack-in-voronezh-region",
-          "fuente": "Euronews",
-          "pais": "Unión Europea",
-          "fecha": "2026-10-26T17:19:45+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "At least two people were killed and 17 injured in a Ukrainian drone attack on Russia's Voronezh region. Flames engulfed buildings, while falling debris struck a commuter train.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Euronews"
-      ],
-      "actores_mencionados": [
-        "Rusia",
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia, Ucrania",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-406d6e4ccdc071effd42",
-      "fecha": "2026-10-26",
-      "titulo_fuente": "Zelenskyy calls out monthlong wait for Hegseth to sign off on Patriot missiles",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "406d6e4ccdc071effd42",
-          "titulo_original": "Zelenskyy calls out monthlong wait for Hegseth to sign off on Patriot missiles",
-          "titulo_es": "",
-          "url": "https://www.euronews.com/2026/10/26/zelenskyy-calls-out-monthlong-wait-for-hegseth-to-sign-off-on-patriot-missiles",
-          "fuente": "Euronews",
-          "pais": "Unión Europea",
-          "fecha": "2026-10-26T17:07:20+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Kyiv has repeatedly pressed the need for more interceptors to be delivered to its forces as Ukraine continues to defend against deadly Russian missile attacks and jet-powered drone strikes.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Euronews"
-      ],
-      "actores_mencionados": [
-        "Rusia",
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia, Ucrania",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-1d2b1b8ecb6a5d195a77",
-      "fecha": "2026-10-26",
-      "titulo_fuente": "Trade turnover between Russia, African countries above $27 bln in 2025 — Kremlin aide",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Comercio y finanzas"
-      ],
-      "noticias": [
-        {
-          "id": "1d2b1b8ecb6a5d195a77",
-          "titulo_original": "Trade turnover between Russia, African countries above $27 bln in 2025 — Kremlin aide",
-          "titulo_es": "Cambio comercial entre Rusia, países africanos por encima de $27 millones en 2025 — Kremlin aide",
-          "url": "https://tass.com/economy/2208211",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-26T17:05:09+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "\"Dynamics is good but actions could have been even more efficient,\" Yury Ushakov said",
-          "resumen_es": "\"La Dinámica es buena, pero las acciones podrían haber sido aún más eficientes\", dijo Yury Ushakov"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia compleja y economía política internacional",
-        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia",
-        "Ámbito: Comercio y finanzas",
-        "Posible decisión institucional o negociación"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-279488a4eafe56067f71",
-      "fecha": "2026-10-26",
-      "titulo_fuente": "Putin to take part in Gas Exporting Countries Forum’s summit — Kremlin aide",
-      "region": "Internacional",
-      "temas": [
-        "Diplomacia",
-        "Comercio y finanzas",
-        "Energía y clima"
-      ],
-      "noticias": [
-        {
-          "id": "279488a4eafe56067f71",
-          "titulo_original": "Putin to take part in Gas Exporting Countries Forum’s summit — Kremlin aide",
-          "titulo_es": "Putin participará en la cumbre del Foro de Países Exportadores de Gas — Kremlin aide",
-          "url": "https://tass.com/economy/2208191",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-26T16:43:01+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The forum kicks off tomorrow, on October 27",
-          "resumen_es": "El foro comienza mañana, el 27 de octubre"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia",
-        "Ámbito: Comercio y finanzas, Diplomacia",
-        "Posible decisión institucional o negociación"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-b92ecdef59a05f1c48c0",
+      "id": "a-9502f33ac579bc4a61ae",
       "fecha": "2026-10-27",
-      "titulo_fuente": "Brazil election ‘rigged’, says Trump without citing evidence",
-      "region": "Estados Unidos",
+      "titulo_fuente": "Stubb says his call with Putin was arranged jointly with US, Ukraine",
+      "region": "Rusia-Ucrania",
       "temas": [
         "Actualidad"
       ],
       "noticias": [
         {
-          "id": "b92ecdef59a05f1c48c0",
-          "titulo_original": "Brazil election ‘rigged’, says Trump without citing evidence",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/news/international/brazil-election-rigged-says-trump-without-citing-evidence/article71629584.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-10-27T09:49:26+00:00",
+          "id": "9502f33ac579bc4a61ae",
+          "titulo_original": "Stubb says his call with Putin was arranged jointly with US, Ukraine",
+          "titulo_es": "Stubb dice que su llamada con Putin fue arreglada conjuntamente con Estados Unidos, Ucrania",
+          "url": "https://tass.com/world/2208871",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-10-27T15:29:22+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Defeated ⁠right-wing Brazilian Senator Flavio Bolsonaro has refused ‌to concede defeat; his father, former President Jair Bolsonaro, was a close ally of Donald Trump’s ‌while in office",
-          "resumen_es": ""
-        },
-        {
-          "id": "d3c1f5814222a58b6b41",
-          "titulo_original": "Trump says Brazil election looked 'rigged' without giving evidence",
-          "titulo_es": "",
-          "url": "https://www.euronews.com/2026/10/26/trump-says-brazil-election-looked-rigged-without-giving-evidence",
-          "fuente": "Euronews",
-          "pais": "Unión Europea",
-          "fecha": "2026-10-26T21:37:22+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The Trump administration has hailed a recent wave of right-wing election victories across South America.",
-          "resumen_es": ""
+          "resumen_original": "According to the Finnish president, he and Jonas Gahr Store discussed the initiative with US negotiators and agreed that \"now is the best time for talks with the Russian leader\"",
+          "resumen_es": "Según el presidente finlandés, él y Jonas Gahr Store discutieron la iniciativa con los negociadores estadounidenses y acordaron que \"ahora es el mejor momento para conversar con el líder ruso\""
         }
       ],
       "fuentes": [
-        "Euronews",
-        "The Hindu"
+        "TASS"
       ],
       "actores_mencionados": [
-        "Brasil",
-        "Estados Unidos"
+        "Rusia",
+        "Ucrania"
       ],
-      "fuentes_independientes": 2,
+      "fuentes_independientes": 1,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
         "nombre": "Marco por determinar",
@@ -2491,69 +2040,9 @@
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 5,
+      "prioridad_orientativa": 4,
       "motivos_seleccion": [
-        "Cobertura de fuentes distintas",
-        "Actores relevantes: Brasil, Estados Unidos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-9aca7d99667bdaa3d0f2",
-      "fecha": "2026-10-26",
-      "titulo_fuente": "The 2026 US Midterm Elections: Ramifications for Australia",
-      "region": "Estados Unidos",
-      "temas": [
-        "Comercio y finanzas"
-      ],
-      "noticias": [
-        {
-          "id": "9aca7d99667bdaa3d0f2",
-          "titulo_original": "The 2026 US Midterm Elections: Ramifications for Australia",
-          "titulo_es": "",
-          "url": "https://thediplomat.com/2026/10/the-2026-us-midterm-elections-ramifications-for-australia/",
-          "fuente": "The Diplomat",
-          "pais": "Internacional",
-          "fecha": "2026-10-26T18:36:00+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "From AUKUS to trade, the implications of the upcoming U.S. midterm elections for Australia are likely to be profound.",
-          "resumen_es": ""
-        },
-        {
-          "id": "a3bad663dfb103045910",
-          "titulo_original": "US midterm elections 2026 in maps and charts",
-          "titulo_es": "Elecciones de mitad de período de Estados Unidos 2026 en mapas y gráficos",
-          "url": "https://www.aljazeera.com/news/2026/10/26/us-midterm-elections-2026-in-maps-and-charts?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-10-26T18:00:07+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "On November 3, Americans decide which party controls the US Congress for the second half of Donald Trump's presidency.",
-          "resumen_es": "El 3 de noviembre, los estadounidenses deciden qué partido controla el Congreso de Estados Unidos para la segunda mitad de la presidencia de Donald Trump."
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera",
-        "The Diplomat"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos"
-      ],
-      "fuentes_independientes": 2,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia compleja y economía política internacional",
-        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 5,
-      "motivos_seleccion": [
-        "Cobertura de fuentes distintas",
-        "Actores relevantes: Estados Unidos",
-        "Ámbito: Comercio y finanzas"
+        "Actores relevantes: Rusia, Ucrania"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -2872,51 +2361,6 @@
       "motivos_seleccion": [
         "Actores relevantes: China",
         "Ámbito: Diplomacia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-8f1f15a018eec4d67361",
-      "fecha": "2026-10-27",
-      "titulo_fuente": "2 men charged in UK with helping Iran over air force base incident",
-      "region": "Oriente Medio",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "8f1f15a018eec4d67361",
-          "titulo_original": "2 men charged in UK with helping Iran over air force base incident",
-          "titulo_es": "2 hombres acusados en el Reino Unido de ayudar a Irán sobre el incidente de la base aérea",
-          "url": "https://www.scmp.com/news/world/europe/article/3372342/2-men-charged-uk-helping-iran-over-air-force-base-incident",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-10-27T14:02:48+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "⁠Two men were charged ⁠on Tuesday under Britain’s National Security Act ⁠following last month’s security incident at the RAF Fairford military base, with prosecutors accusing one of them of trying to assist Iranian intelligence operations in Britain. RAF Fairford had been used by US bombers to carry out strikes on Iran, but they were withdrawn ‌on security grounds shortly after five British men were arrested outside the base in southwest England ",
-          "resumen_es": "⁠ Dos hombres fueron acusados ⁠on martes bajo la Ley de Seguridad Nacional de Gran Bretaña ⁠ siguiendo el incidente de seguridad del mes pasado en la base militar de RAF Fairford, con fiscales acusando a uno de ellos de tratar de ayudar operaciones de inteligencia iraní i"
-        }
-      ],
-      "fuentes": [
-        "South China Morning Post"
-      ],
-      "actores_mencionados": [
-        "Irán"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Irán",
-        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -3736,18 +3180,6 @@
           "estado": "publicación periodística; corroboración pendiente",
           "resumen_original": "The Russian leader said that a unique production complex has been established in the country",
           "resumen_es": "El líder ruso dijo que se ha establecido un complejo de producción único en el país"
-        },
-        {
-          "id": "da434dff485b4b615bd7",
-          "titulo_original": "Russia ranks first globally by natural gas reserves",
-          "titulo_es": "Rusia ocupa el primer lugar mundialmente por las reservas de gas natural",
-          "url": "https://tass.com/economy/2208243",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-26T18:53:49+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Russia has the developed infrastructure and considerable technological groundwork",
-          "resumen_es": "Rusia tiene la infraestructura desarrollada y las considerables bases tecnológicas"
         }
       ],
       "fuentes": [
@@ -4633,6 +4065,51 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-0944686431d7e339a4ce",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "Siang dam project: Planned to ‘counter China’, why it is being opposed in Arunachal - The Indian Express",
+      "region": "China",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "0944686431d7e339a4ce",
+          "titulo_original": "Siang dam project: Planned to ‘counter China’, why it is being opposed in Arunachal - The Indian Express",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ2tOeTI0X3BiZm9lUm94U2tHNF9ZbUNnS1R4YWg3STRrSmFtTlpOVGszZ0ZkdjJDME9TWWlxeFlnNExVbG1KbjduMVo4dWJKXzFPUWZQMjZvUWJJRk04MXptUWFEXzVxa3JMTFFCTWRqOFpXU2hBcVF1ZkJNNjYtRDJoUF9tSndxWGpjYmlicVBnY1o4VnZFeDVXY9IBogFBVV95cUxPeVZzN3JHVzhPanZ3cE85aUczN1lCVVFYVElRcDc0ekZ5Mktlcmd4VE1PYTVvazlTcTFsa1BVZml4S0ljcVBEenZRTDVDcWUzYjNNWEVOYXFWaDZlWUN2NG1IS0JYejFnSzNHYjlacGd4eGJGVGZBdVh6cVFLSGhXbVFLbVR0ODdkbUphWW1pQXFGVEhqN2ZuTGd0T3BTV3d5WHc?oc=5",
+          "fuente": "The Indian Express",
+          "pais": "India",
+          "fecha": "2026-10-27T10:59:31+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Siang dam project: Planned to ‘counter China’, why it is being opposed in Arunachal The Indian Express",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "The Indian Express"
+      ],
+      "actores_mencionados": [
+        "China",
+        "India"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: China, India"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-0c845ea173953c6e4050",
       "fecha": "2026-10-27",
       "titulo_fuente": "What does Israel's election mean for Gaza and the wider world?",
@@ -4859,6 +4336,51 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-b92ecdef59a05f1c48c0",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "Brazil election ‘rigged’, says Trump without citing evidence",
+      "region": "Estados Unidos",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "b92ecdef59a05f1c48c0",
+          "titulo_original": "Brazil election ‘rigged’, says Trump without citing evidence",
+          "titulo_es": "",
+          "url": "https://www.thehindu.com/news/international/brazil-election-rigged-says-trump-without-citing-evidence/article71629584.ece",
+          "fuente": "The Hindu",
+          "pais": "India",
+          "fecha": "2026-10-27T09:49:26+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Defeated ⁠right-wing Brazilian Senator Flavio Bolsonaro has refused ‌to concede defeat; his father, former President Jair Bolsonaro, was a close ally of Donald Trump’s ‌while in office",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "The Hindu"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Brasil"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Brasil, Estados Unidos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-4c040f3622b9bae5fe29",
       "fecha": "2026-10-27",
       "titulo_fuente": "Zelensky fuels anger, hatred toward Ukrainians worldwide — former spokeswoman",
@@ -4898,6 +4420,51 @@
       "prioridad_orientativa": 4,
       "motivos_seleccion": [
         "Actores relevantes: Ucrania",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-d84466c424f7dec5c68f",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "Ted Cruz warns Democrats may go after Trump if they win midterms - CNN",
+      "region": "Estados Unidos",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "d84466c424f7dec5c68f",
+          "titulo_original": "Ted Cruz warns Democrats may go after Trump if they win midterms - CNN",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeTRWalYzYzJFUnJBRTVXUklvQ0RCVHdGV1drSnp3ZFRrQmo4aFlqUHF6VVlWR01Jd2ExRWNwVXpmSnJJRHluVTRWd2xQVG9FNGsySHEtWnZsbWFZeE83cm13Tm9nME5WbkYtRVBrOHp2VmdCVnFqOGJJUDdHNlV3d0FmS01IQUwzNjgyUDJ1eGRLZ3BicEtmbUQ5RXBZREJYT21ueHZWZ3RTN2wxSWM2Tk5qSFVYY3hfeElN?oc=5",
+          "fuente": "CNN",
+          "pais": "Estados Unidos",
+          "fecha": "2026-10-27T09:46:00+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Ted Cruz warns Democrats may go after Trump if they win midterms CNN",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "CNN"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos",
         "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
@@ -5534,51 +5101,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-a31e913a0c94c6737d77",
-      "fecha": "2026-10-27",
-      "titulo_fuente": "Microsoft offers voluntary exit packages to 60,000 staff, with some Indian teams eligible",
-      "region": "Asia-Pacífico",
-      "temas": [
-        "Comercio y finanzas"
-      ],
-      "noticias": [
-        {
-          "id": "a31e913a0c94c6737d77",
-          "titulo_original": "Microsoft offers voluntary exit packages to 60,000 staff, with some Indian teams eligible",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/sci-tech/technology/microsoft-offers-voluntary-exit-packages-to-60000-staff/article71629641.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-10-27T05:32:16+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "As major tech giants continue to spend heavily on AI-related investments, concerns persist about the impact of the technology on jobs",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Hindu"
-      ],
-      "actores_mencionados": [
-        "India"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia compleja y economía política internacional",
-        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: India",
-        "Ámbito: Comercio y finanzas"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-dfee2e79005a03febb74",
       "fecha": "2026-10-27",
       "titulo_fuente": "Jordan strikes targets in Syria after deadly church attack",
@@ -5689,6 +5211,96 @@
       "prioridad_orientativa": 4,
       "motivos_seleccion": [
         "Actores relevantes: Estados Unidos, Rusia, Ucrania"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-5433da59927b4fd0da19",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "As China’s leaders huddle for ‘Fifth Plenum’, an expert explains its significance - The Indian Express",
+      "region": "China",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "5433da59927b4fd0da19",
+          "titulo_original": "As China’s leaders huddle for ‘Fifth Plenum’, an expert explains its significance - The Indian Express",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVzh5SzZYWVlDbndUbm9lSEdBSUVtTUQ4SENWVzFSSms0XzRBT0xpX25fVWNhdXQ0UlJvOG5hbkpRenhtSGVIUVpDTXRuUVIyOG5IeWU0QWxsclBEWWtCdWZKb1k4XzJJQk94MDl2UXB0eGdONjlJQWNad3hnZkhUZWJkcUdzR2VVdkExTVBjNEo3MnBRekxqU3E0VkphbC1veHpXMVFhOXAtVzFZYmpGbTJ30gG4AUFVX3lxTE5kN1VJdGFaUHI1NGpFVEFrMjRwcE1oR01PZWFHZC13RE9yWEd5YVoyLXhUT3RRcTNMREtzc3dtTC1LQUFlQ3ZUQjJ5QmlxTUppTlVDdW5QY3JhNTBzeFBYb0NmQ0VfRk1LaTluVlR5YmlXRXBhNXk5MlYzZFl0aEZ3QUtERTg4SDNWUG9Oam9fRVRBbG9CR19ySnJMR0VpbkJQYk5sMElQc3pvcGhsLWdMWnozc29XQ3U?oc=5",
+          "fuente": "The Indian Express",
+          "pais": "India",
+          "fecha": "2026-10-27T04:57:00+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "As China’s leaders huddle for ‘Fifth Plenum’, an expert explains its significance The Indian Express",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "The Indian Express"
+      ],
+      "actores_mencionados": [
+        "China",
+        "India"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: China, India"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-360d72a2b0636bd9731b",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "IIT Kharagpur to establish India’s first Physical AI school with Rs 35 crore investment - The Indian Express",
+      "region": "Asia-Pacífico",
+      "temas": [
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "360d72a2b0636bd9731b",
+          "titulo_original": "IIT Kharagpur to establish India’s first Physical AI school with Rs 35 crore investment - The Indian Express",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZ1dkNG4yeDhnT1JHcUtuaFplX1RRWXdtZnlFV3BGRGhoSmd1M3hSbUlLZS1DckphYTlWMG9VeTJtT2hQTGtfQUw5S21tNXlBUllxbHc1UHBaSW1zM0RLZEYxZXZ1S3ZsUVFxM0ptYmoxMHVUbm9POWdBWHdqQTNWdmFpWmJwbFhyd1VGbWZhMHFoR3U3QzI2SDk1NjdKeE04MHpzWXNmN3hzdXFyQ1RoaFA3U25wSFpySmViTjZ0UlR6M3ctZEJQNkV4bHVad2NsNENUQ3BURHhEU1RwWEljSEZEbVVDTEHSAe4BQVVfeXFMTTMzZ0FFQ2FIdDdDVW9UMkZLelRoV05rREh1MkFXYkR1RXlHSGs0cGVIbzdDdWFLNEltMC0zbHpaQW1PYmV5ZkRwdUFFbmNFWW1HVk9EQnQxSkJxdmNtMUhiaUM4LXB4YkxBQno3dWJoX0RpeVp1WFpwNGNRTFlDc2Ric09nZzQwRnlRYVQ1dC1Qd203LTF5N1J1N1VFWEI4WUFXcFNKdmpDOW1NYjJMVmdaZDlUTWIzaFBDRnlpbDNtNHoxTnRaREo3cHlVaVhsaTZ1cUdYeGVXcGxPc2xaTlE3VUJRSEtjZnR6S2hrQQ?oc=5",
+          "fuente": "The Indian Express",
+          "pais": "India",
+          "fecha": "2026-10-27T04:44:49+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "IIT Kharagpur to establish India’s first Physical AI school with Rs 35 crore investment The Indian Express",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "The Indian Express"
+      ],
+      "actores_mencionados": [
+        "India"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia compleja y economía política internacional",
+        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: India",
+        "Ámbito: Comercio y finanzas"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -5875,6 +5487,51 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-ce2aa3033e74e28c0092",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "Netanyahu’s legacy is on the line as Israelis vote in the first elections since the Oct. 7 attack - Politico",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "ce2aa3033e74e28c0092",
+          "titulo_original": "Netanyahu’s legacy is on the line as Israelis vote in the first elections since the Oct. 7 attack - Politico",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNS3FJdGFMQzEtT2NXSHFxTS1KUjZQRmZnN0tuUjFleS1qRWNaaEFIUThfTld4a3UyZmNLYzhzc096MENRcDNlZHFFQnNBNWducW9mUERGRlc5SHBtemY2VkNiT2FOa1ZfLVFueVdpYWd6dkZTLWRvMnV4MUdxVndtVGkyS2t0R0tENm1BT1kxbnplUlhRVmViUHhzTXNtUGJDbE9mZGFtc1FWVDAySVZDMFdUVnpoZzc4OEJnLW8wVTRCWjFqSmlPZmtKSzJXSTlmLVFjNnN2YlVhZlowdHc?oc=5",
+          "fuente": "POLITICO US",
+          "pais": "Estados Unidos",
+          "fecha": "2026-10-27T03:19:00+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Netanyahu’s legacy is on the line as Israelis vote in the first elections since the Oct. 7 attack Politico",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "POLITICO US"
+      ],
+      "actores_mencionados": [
+        "Israel"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Israel",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-a7be1f4f1e47bba15fc7",
       "fecha": "2026-10-27",
       "titulo_fuente": "US bans vehicles from China’s BYD at Japan military base, calling them ‘unacceptable’ risk",
@@ -5915,6 +5572,51 @@
       "prioridad_orientativa": 4,
       "motivos_seleccion": [
         "Actores relevantes: China",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-31eabcb5ab22a720ee6b",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "Ankita Bhandari case: Actress Urmila Sanawar held, hours before she was to appear in CBI court - The Indian Express",
+      "region": "Asia-Pacífico",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "31eabcb5ab22a720ee6b",
+          "titulo_original": "Ankita Bhandari case: Actress Urmila Sanawar held, hours before she was to appear in CBI court - The Indian Express",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeUFhT0ZndElSenZXc0ZMbXhkbEJkaF95TV9TdEVFM2VmSHgzYkRUWUpuVGRtX0QxUDJtS0RsNWQyOUc2MnRHSUduZ1FLd1BWWmJhSVgtSUQ5R3l0YkpBaDFmb09PMWJGeWNJNTg0LWFXQk16SlB3ZlN2dnpNZVpjZjJrNnU1THdNUzgwNk9tYWk0bXJzWUtrRUV4SU4tRDhl0gGnAUFVX3lxTE1SX21Oa0Z1di1xc1pNZ2hSTGw2a1M0bkIzeGt6V2NTQmU0RTRBZFRVQjJ6SXJIQ3B1elpadEUzTE1CZG9KelJjYXU0V1FuVGR5RlAtV1RsWnBhZ1QwY0xJbzg2MndqOXpyOGtDRnJDbzZYeWpxVm9CN1JHOFNma0M0R0ZjTVhkcnp5QWZCcjczaEZHcnNJRTBIbm1weGZHajlpSC15cVNJ?oc=5",
+          "fuente": "The Indian Express",
+          "pais": "India",
+          "fecha": "2026-10-27T01:40:00+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Ankita Bhandari case: Actress Urmila Sanawar held, hours before she was to appear in CBI court The Indian Express",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "The Indian Express"
+      ],
+      "actores_mencionados": [
+        "India"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: India",
         "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
@@ -5966,6 +5668,96 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-d29a7ec9a5f24b0b3c99",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "Lula’s return is dramatic, his challenges formidable - The Indian Express",
+      "region": "Asia-Pacífico",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "d29a7ec9a5f24b0b3c99",
+          "titulo_original": "Lula’s return is dramatic, his challenges formidable - The Indian Express",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNckJXR0g4ZlRGWTl5dFA4OEU3ZTFXbGpGWkgtYUctNzM2clZ6UUhweVRvQ2hvSFVYWG1tdjAxTmdnV2FCTlJkcUhwT3B6TG1Xa3Z3X1VDM24tOTNJOG4xd2hsTVZvM3EyakFjZ1VPeDBXY1lzTWNKdnl2RjZnd3Zta1dNa1lFeUVETmZkOWRsbUdNbTZzMXRFSXZJONIBogFBVV95cUxNaWFaMS1ZZVg1bTJUX0pRZUJYZE53YnFEQlkzVmV6Sm1IbkFsUDhCdlpPVVZiZnRLX29LMWlDajBQNXBvS2YzS2xIN0FXX2c0ZVF6QV9VNU9CWVludGllZlVHZmo1Z01VM0tfSHNvU1I5M1pQckpqcmVYdDdWb3V0bXFxcWx4OTdzTTBLTDc5SUdqTXlNRVB2WTBDbElXQ3lzMHc?oc=5",
+          "fuente": "The Indian Express",
+          "pais": "India",
+          "fecha": "2026-10-27T01:20:06+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Lula’s return is dramatic, his challenges formidable The Indian Express",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "The Indian Express"
+      ],
+      "actores_mencionados": [
+        "Brasil",
+        "India"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Brasil, India"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-7d10a2420b74403deccf",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "Climate justice needs quicker compensation - The Indian Express",
+      "region": "Perú",
+      "temas": [
+        "Energía y clima"
+      ],
+      "noticias": [
+        {
+          "id": "7d10a2420b74403deccf",
+          "titulo_original": "Climate justice needs quicker compensation - The Indian Express",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTmxTVkJGb0toU3FMNGZiMWpTTWMyazVMSzF2aExzTDRHTkxLQ2p0cmVBWkZIVTZZbHVrQnZUYXhUanNFS2tCcHY0akJvU2E2bnJpdW90bEJ0MDhDLW9TWmkyb1ozU0FQWW42alhnYVV4aFA2cU01NU9IMmhNREZrNmRRcUJuX3hLTFE0a3FuZncteHBzaTd0MmJBNG9uODJQcUdOejhB0gGsAUFVX3lxTE1lU1RRcmU4VUtndjJUelFxMlItSC1XSFhFLWl3RU9ITEdvVW9KdThKMzBPS0FWVDZObW1lT29ZOFV1RHJGYVZ2NHZTSkJ4ZTJxWF9LZWhUcS1ycWZpUEdFVVlyMHJ2VGotVjA2bVRDQm1GUmFlSDdiUHFEMlFOUGpxVWpRemZGUi1VN2dvTElVa2pmOFlZaVB5UlBueVZDOUZtLTdseUQ1ZG1XNzY?oc=5",
+          "fuente": "The Indian Express",
+          "pais": "India",
+          "fecha": "2026-10-27T00:30:42+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Climate justice needs quicker compensation The Indian Express",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "The Indian Express"
+      ],
+      "actores_mencionados": [
+        "India"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia y gobernanza global",
+        "pregunta": "¿Cómo se distribuyen los costos de coordinación y los incentivos para cooperar?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: India",
+        "Ámbito: Energía y clima"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-510a97978ddc80ccf6b7",
       "fecha": "2026-10-27",
       "titulo_fuente": "How Hong Kong’s yuan push is becoming a challenge to the US dollar",
@@ -6011,904 +5803,45 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-490361cbafe870885142",
-      "fecha": "2026-10-26",
-      "titulo_fuente": "The United Kingdom remains committed to working with Iraq, Kuwait, and the Tripartite Commission to provide answers for families of missing loved ones: UK statement at the UN Security Council",
-      "region": "Europa",
-      "temas": [
-        "Organismos multilaterales"
-      ],
-      "noticias": [
-        {
-          "id": "490361cbafe870885142",
-          "titulo_original": "The United Kingdom remains committed to working with Iraq, Kuwait, and the Tripartite Commission to provide answers for families of missing loved ones: UK statement at the UN Security Council",
-          "titulo_es": "",
-          "url": "https://www.gov.uk/government/speeches/the-united-kingdom-remains-committed-to-working-with-iraq-kuwait-and-the-tripartite-commission-to-provide-answers-for-families-of-missing-loved-ones-u",
-          "fuente": "GOV.UK FCDO",
-          "pais": "Reino Unido",
-          "fecha": "2026-10-26T20:07:23+00:00",
-          "estado": "declaración de la fuente; corroboración independiente pendiente",
-          "resumen_original": "Statement by Ambassador Kate Foster, UK Deputy Permanent Representative to the UN, at the UN Security Council meeting on the situation between Iraq and Kuwait.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "GOV.UK FCDO"
-      ],
-      "actores_mencionados": [
-        "ONU"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Institucionalismo liberal",
-        "pregunta": "¿Qué reglas, mecanismos de cooperación y límites institucionales afectan la decisión?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: ONU",
-        "Ámbito: Organismos multilaterales"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-68a76fee7961ee7eb11d",
-      "fecha": "2026-10-26",
-      "titulo_fuente": "Mecca pact countries in Iran in bid to stop war restarting",
-      "region": "Oriente Medio",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "68a76fee7961ee7eb11d",
-          "titulo_original": "Mecca pact countries in Iran in bid to stop war restarting",
-          "titulo_es": "Países del pacto de la Meca en Irán para detener la guerra",
-          "url": "https://www.scmp.com/news/world/middle-east/article/3372218/mecca-pact-countries-iran-bid-stop-war-restarting",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-10-26T19:47:10+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Senior officials from Saudi Arabia, Turkey and Pakistan held talks with Iran in Tehran on Monday in an attempt to stop the Middle East war from reigniting. Officials from the three Mecca pact countries flew to Iran as part of efforts to “de-escalate between the parties to the current crisis”, a Saudi foreign ministry statement said. The talks, which included heavyweight Saudi Defence Minister Prince Khalid bin Salman, followed warnings by the Uni",
-          "resumen_es": "Los altos funcionarios de Arabia Saudita, Turquía y Pakistán celebraron conversaciones con Irán en Teherán el lunes en un intento de impedir que reinara la guerra del Oriente Medio. Funcionarios de los tres países del pacto de la Meca volaron a Irán como parte de los esfuerzos por “de"
-        }
-      ],
-      "fuentes": [
-        "South China Morning Post"
-      ],
-      "actores_mencionados": [
-        "Irán",
-        "Turquía",
-        "Arabia Saudita"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Irán",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-934bd8317579bd82d0ad",
-      "fecha": "2026-10-26",
-      "titulo_fuente": "A final surge: On Luiz Inácio Lula da Silva’s triumph in Brazil",
-      "region": "Estados Unidos",
+      "id": "a-df06dafda0083e89e7f9",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "Microsoft offers voluntary exit to 60,000 employees: What it means for India staff - The Indian Express",
+      "region": "Asia-Pacífico",
       "temas": [
         "Actualidad"
       ],
       "noticias": [
         {
-          "id": "934bd8317579bd82d0ad",
-          "titulo_original": "A final surge: On Luiz Inácio Lula da Silva’s triumph in Brazil",
-          "titulo_es": "Una oleada final: el triunfo de Luiz Inácio Lula da Silva en Brasil",
-          "url": "https://www.thehindu.com/opinion/editorial/a-final-surge-on-luiz-inacio-lula-da-silvas-triumph-in-brazil/article71627840.ece",
+          "id": "df06dafda0083e89e7f9",
+          "titulo_original": "Microsoft offers voluntary exit to 60,000 employees: What it means for India staff - The Indian Express",
+          "titulo_es": "Microsoft ofrece salida voluntaria a 60.000 empleados: Lo que significa para el personal de la India - The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbVE3RmVvM1FDMnNpdS0zdWZRQ3o2UWEtZGp3UFZncElxMGU4MTBKM3FPS2Q3aG5oVG9JX283eWRPZFA1RFJ4YnhndFh5YThaaHNldVdBV01FUklMZ2FQRGVBUTBBblNJcUQwazhHMEJJenFNVWZuZDRKMEl4V3h3VlQteFJXWTNKQmtnN1l6ZXNtSUxIZ09PaVZGY0llSk1Md1MwemdaU3I1b3l1YlNNUG85WXhrZm1zQTUwaWJUc1RPa3JfZ1J6VFRR0gHQAUFVX3lxTE5HSjVtRkhGWXZfaGlpYUg4WkI2SFNvQ0gzRm43TXpDcWVsc0MtUl9lT1FnaURtazExMVFnQVduQ3lETlJJNlM3djY0S29CZElCTFYxakZaNWFJWmdtY2JxSnlLVTJRdXp0YTdtZmNWRzRhWncxZHo5VXVaQ1ZvRmh6ZmVacFhZOGNVekl2SUwzXzBGMWFRMDJXSUVPWGdqTDRiYlhGdFU0YTNEVUtUcmNwWTFPMFV2cjN2dEtpdEtLejhtcHFTb1JmM09aMmZMT3c?oc=5",
+          "fuente": "The Indian Express",
+          "pais": "India",
+          "fecha": "2026-10-27T14:51:28+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Microsoft offers voluntary exit to 60,000 employees: What it means for India staff The Indian Express",
+          "resumen_es": "Microsoft ofrece salida voluntaria a 60.000 empleados: Lo que significa para el personal de la India"
+        },
+        {
+          "id": "a31e913a0c94c6737d77",
+          "titulo_original": "Microsoft offers voluntary exit packages to 60,000 staff, with some Indian teams eligible",
+          "titulo_es": "",
+          "url": "https://www.thehindu.com/sci-tech/technology/microsoft-offers-voluntary-exit-packages-to-60000-staff/article71629641.ece",
           "fuente": "The Hindu",
           "pais": "India",
-          "fecha": "2026-10-26T19:45:15+00:00",
+          "fecha": "2026-10-27T05:32:16+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Lula is the resistance to U.S. imperial ambitions in South America",
-          "resumen_es": "Lula es la resistencia a las ambiciones imperiales de Estados Unidos en Sudamérica"
-        }
-      ],
-      "fuentes": [
-        "The Hindu"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "Brasil"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Brasil, Estados Unidos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-9711fa943b4c959d7361",
-      "fecha": "2026-10-26",
-      "titulo_fuente": "Nearly 40 Ukrainian drones taken down over Russian regions during day",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "9711fa943b4c959d7361",
-          "titulo_original": "Nearly 40 Ukrainian drones taken down over Russian regions during day",
-          "titulo_es": "Casi 40 drones ucranianos derribaron las regiones rusas durante el día",
-          "url": "https://tass.com/defense/2208245",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-26T19:30:40+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "They were shot down over the Belgorod, Bryansk, Kursk, Oryol, and Moscow Regions, and over the Black Sea",
-          "resumen_es": "They were shot down over the Belgorod, Bryansk, Kursk, Oryol, and Moscow Regions, and over the Black Sea"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia",
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia, Ucrania"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-e54dbe0c17cd82e3d288",
-      "fecha": "2026-10-26",
-      "titulo_fuente": "Burnham rules out UK return to EU free movement without referendum",
-      "region": "Europa",
-      "temas": [
-        "Diplomacia"
-      ],
-      "noticias": [
-        {
-          "id": "e54dbe0c17cd82e3d288",
-          "titulo_original": "Burnham rules out UK return to EU free movement without referendum",
-          "titulo_es": "Burnham descarta que el Reino Unido regrese a la UE libre movimiento sin referéndum",
-          "url": "https://www.scmp.com/news/world/europe/article/3372217/burnham-rules-out-uk-return-eu-free-movement-without-referendum",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-10-26T19:16:47+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "British Prime Minister Andy Burnham has said he would not return the UK to EU freedom of movement rules without a referendum, after ruling out the prospect of Britain rejoining the bloc within this parliamentary term. It comes after his call at the weekend for an “honest discussion” about a return to freedom of movement fuelled questions about the parameters around his vision for a deepening relationship with Brussels. The prime minister was aske",
-          "resumen_es": "Primer Ministro británico Andy Burnham ha dicho que no devolvería el Reino Unido a las reglas de la libertad de circulación de la UE sin referéndum, después de descartar la perspectiva de Gran Bretaña de unirse al bloque dentro de este mandato parlamentario. Viene después de su cal."
-        }
-      ],
-      "fuentes": [
-        "South China Morning Post"
-      ],
-      "actores_mencionados": [
-        "Unión Europea"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Unión Europea",
-        "Ámbito: Diplomacia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-63490e9d8f8db7d092fb",
-      "fecha": "2026-10-26",
-      "titulo_fuente": "EN DIRECT, guerre en Ukraine : « L’OTAN reste la pierre angulaire de notre sécurité », réaffirme le groupe des Cinq, en appelant l’Europe à « une plus grande responsabilité »",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "63490e9d8f8db7d092fb",
-          "titulo_original": "EN DIRECT, guerre en Ukraine : « L’OTAN reste la pierre angulaire de notre sécurité », réaffirme le groupe des Cinq, en appelant l’Europe à « une plus grande responsabilité »",
-          "titulo_es": "",
-          "url": "https://www.lemonde.fr/international/live/2026/10/26/en-direct-guerre-en-ukraine-l-otan-reste-la-pierre-angulaire-de-notre-securite-reaffirme-le-groupe-des-cinq-en-appelant-l-europe-a-une-plus-grande-responsabilite_6799896_3210.html",
-          "fuente": "Le Monde",
-          "pais": "Francia",
-          "fecha": "2026-10-26T18:52:48+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "« Nous allons assumer un plus grand leadership politique et militaire au sein de l’Alliance [atlantique], en modernisant nos forces et nos capacités », écrivent, dans un communiqué commun, les ministres français, allemand, italien, britannique et polonais, sous pression de Washington.",
+          "resumen_original": "As major tech giants continue to spend heavily on AI-related investments, concerns persist about the impact of the technology on jobs",
           "resumen_es": ""
         }
       ],
       "fuentes": [
-        "Le Monde"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos, Ucrania"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-a4e1bbb3d6e108f88b1c",
-      "fecha": "2026-10-26",
-      "titulo_fuente": "Are Critiques of Zelensky a Side Effect of Societal Exhaustion?",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "a4e1bbb3d6e108f88b1c",
-          "titulo_original": "Are Critiques of Zelensky a Side Effect of Societal Exhaustion?",
-          "titulo_es": "",
-          "url": "https://warontherocks.com/are-critiques-of-zelensky-a-side-effect-of-societal-exhaustion/",
-          "fuente": "War on the Rocks",
-          "pais": "Estados Unidos",
-          "fecha": "2026-10-26T18:45:56+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each week, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues shaping their country.Western coverage often narrows the view to the battlefield — these pieces widen it, revealing the texture of daily life, politics,",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "War on the Rocks"
-      ],
-      "actores_mencionados": [
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Ucrania",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-e8bc0029b254d628f41c",
-      "fecha": "2026-10-26",
-      "titulo_fuente": "Contacts with Africa, Putin’s 'extremely tight' schedule: Kremlin aide’s statements",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Diplomacia"
-      ],
-      "noticias": [
-        {
-          "id": "e8bc0029b254d628f41c",
-          "titulo_original": "Contacts with Africa, Putin’s 'extremely tight' schedule: Kremlin aide’s statements",
-          "titulo_es": "Contactos con África, el cronograma \"extremadamente ajustado\" de Putin: declaraciones de Kremlin aide",
-          "url": "https://tass.com/politics/2208229",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-26T18:31:20+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Forty-eight countries have confirmed their participation in the Russia-Africa summit, twenty-two of them will be represented at the top level",
-          "resumen_es": "Cuarenta y ocho países han confirmado su participación en la cumbre entre Rusia y África, veintidós de ellos estarán representados en el nivel superior"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia",
-        "Ámbito: Diplomacia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-7e13260f6f6a3c88bd5f",
-      "fecha": "2026-10-26",
-      "titulo_fuente": "Robles advierte en la ONU de que la paz no puede construirse de espaldas a las mujeres",
-      "region": "Internacional",
-      "temas": [
-        "Seguridad y conflictos",
-        "Organismos multilaterales"
-      ],
-      "noticias": [
-        {
-          "id": "7e13260f6f6a3c88bd5f",
-          "titulo_original": "Robles advierte en la ONU de que la paz no puede construirse de espaldas a las mujeres",
-          "titulo_es": "",
-          "url": "https://elpais.com/espana/2026-10-26/robles-advierte-en-la-onu-de-que-la-paz-no-puede-construirse-de-espaldas-a-las-mujeres.html",
-          "fuente": "El País",
-          "pais": "España",
-          "fecha": "2026-10-26T18:11:03+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "La ministra de Defensa pide elevar al 15 la presencia femenina en las operaciones militares de Naciones Unidas",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "El País"
-      ],
-      "actores_mencionados": [
-        "ONU"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: ONU",
-        "Ámbito: Organismos multilaterales, Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-c624c71c1afaf93bda8c",
-      "fecha": "2026-10-26",
-      "titulo_fuente": "Could the midterms change America’s military support for Israel?",
-      "region": "Oriente Medio",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "c624c71c1afaf93bda8c",
-          "titulo_original": "Could the midterms change America’s military support for Israel?",
-          "titulo_es": "¿Podrían cambiar el apoyo militar de Estados Unidos a Israel?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/could-the-midterms-change-americas-military-support-for-israel?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-10-26T18:05:12+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "From Texas to Michigan, Senate candidates are challenging US weapons transfers to Israel.",
-          "resumen_es": "De Texas a Michigan, los candidatos del Senado están desafiando las transferencias de armas estadounidenses a Israel."
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera"
-      ],
-      "actores_mencionados": [
-        "Israel"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Israel",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-8338747ee251eb4dc655",
-      "fecha": "2026-10-26",
-      "titulo_fuente": "Rubio to host G20 Foreign Ministers’ meet in Atlanta on Oct 30-31",
-      "region": "Estados Unidos",
-      "temas": [
-        "Diplomacia"
-      ],
-      "noticias": [
-        {
-          "id": "8338747ee251eb4dc655",
-          "titulo_original": "Rubio to host G20 Foreign Ministers’ meet in Atlanta on Oct 30-31",
-          "titulo_es": "Rubio acogerá a los Ministros de Relaciones Exteriores del G20 en Atlanta el 30-31 de octubre",
-          "url": "https://www.thehindu.com/news/international/rubio-to-host-g20-foreign-ministers-meet-in-atlanta-on-oct-30-31/article71628615.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-10-26T17:52:08+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "U.S. President Donald Trump is scheduled to host the G20 Leaders’ Summit in Miami on December 14-15",
-          "resumen_es": "El presidente estadounidense Donald Trump está programado para acoger la Cumbre de Líderes del G20 en Miami el 14 y 15 de diciembre"
-        }
-      ],
-      "fuentes": [
-        "The Hindu"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos",
-        "Ámbito: Diplomacia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-7a617464568587345532",
-      "fecha": "2026-10-26",
-      "titulo_fuente": "Britain sanctions Sudanese commanders over weaponised rape",
-      "region": "Europa",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "7a617464568587345532",
-          "titulo_original": "Britain sanctions Sudanese commanders over weaponised rape",
-          "titulo_es": "Sanciones británicas Comandantes sudaneses sobre violación armada",
-          "url": "https://www.aljazeera.com/news/2026/10/26/britain-sanctions-sudanese-commanders-over-weaponised-rape?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-10-26T17:32:46+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Commanders from the Rapid Support Forces (RSF) and Sudanese Armed Forces face travel and asset freezes.",
-          "resumen_es": "Los comandantes de las Fuerzas de Apoyo Rápido (RSF) y las Fuerzas Armadas Sudanesas se enfrentan a congelación de los viajes y los activos."
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Ámbito: Seguridad y conflictos",
-        "Posible decisión institucional o negociación"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-d6fd8ebf8ac138ea62a9",
-      "fecha": "2026-10-26",
-      "titulo_fuente": "We must protect and build on 30 years of work supporting the protection of children in conflicts: UK statement at the UN Security Council",
-      "region": "Europa",
-      "temas": [
-        "Seguridad y conflictos",
-        "Organismos multilaterales"
-      ],
-      "noticias": [
-        {
-          "id": "d6fd8ebf8ac138ea62a9",
-          "titulo_original": "We must protect and build on 30 years of work supporting the protection of children in conflicts: UK statement at the UN Security Council",
-          "titulo_es": "Debemos proteger y aprovechar los 30 años de trabajo que apoyan la protección de los niños en los conflictos: declaración del Reino Unido en el Consejo de Seguridad de las Naciones Unidas",
-          "url": "https://www.gov.uk/government/speeches/we-must-protect-and-build-on-30-years-of-work-supporting-the-protection-of-children-in-conflicts-uk-statement-at-the-un-security-council",
-          "fuente": "GOV.UK FCDO",
-          "pais": "Reino Unido",
-          "fecha": "2026-10-26T17:27:21+00:00",
-          "estado": "declaración de la fuente; corroboración independiente pendiente",
-          "resumen_original": "Statement by Ambassador Sarah MacIntosh, UK Permanent Representative to the UN, at the UN Security Council meeting on Children and Armed Conflict.",
-          "resumen_es": "Declaración de la Embajadora Sarah MacIntosh, Representante Permanente del Reino Unido ante las Naciones Unidas, en la reunión del Consejo de Seguridad sobre los niños y los conflictos armados."
-        }
-      ],
-      "fuentes": [
-        "GOV.UK FCDO"
-      ],
-      "actores_mencionados": [
-        "ONU"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: ONU",
-        "Ámbito: Organismos multilaterales, Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-7c485faaa583f5b8e5c5",
-      "fecha": "2026-10-26",
-      "titulo_fuente": "Russia considers important to support reliable gas supplies — Kremlin aide",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Energía y clima"
-      ],
-      "noticias": [
-        {
-          "id": "7c485faaa583f5b8e5c5",
-          "titulo_original": "Russia considers important to support reliable gas supplies — Kremlin aide",
-          "titulo_es": "Rusia considera importante apoyar suministros de gas fiables — Kremlin aide",
-          "url": "https://tass.com/economy/2208213",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-26T17:08:27+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Yury Ushakov noted that Moscow is a responsible player on the global gas market",
-          "resumen_es": "Yury Ushakov señaló que Moscú es un jugador responsable en el mercado mundial de gas"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia y gobernanza global",
-        "pregunta": "¿Cómo se distribuyen los costos de coordinación y los incentivos para cooperar?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia",
-        "Ámbito: Energía y clima"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-8fe636bd2b537103e2df",
-      "fecha": "2026-10-26",
-      "titulo_fuente": "Iran monitors situation following reports Ukraine deploys UAVs near its borders",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "8fe636bd2b537103e2df",
-          "titulo_original": "Iran monitors situation following reports Ukraine deploys UAVs near its borders",
-          "titulo_es": "Irán vigila la situación tras los informes que Ucrania despliega los VU cerca de sus fronteras",
-          "url": "https://tass.com/world/2208205",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-26T16:59:14+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Earlier, Iranian news agency Tasnim reported that Ukraine was actively deploying thousands of drones in countries bordering Iran, including Iraq’s Kurdistan region",
-          "resumen_es": "Anteriormente, la agencia de noticias iraní Tasnim informó que Ucrania estaba desplegando miles de drones en países que limitaban con Irán, incluida la región del Kurdistán de Iraq"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Ucrania",
-        "Irán"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Irán, Ucrania"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-2e5d4fd6fcdcfb2c7f17",
-      "fecha": "2026-10-26",
-      "titulo_fuente": "From climate targets to energy justice",
-      "region": "Perú",
-      "temas": [
-        "Energía y clima"
-      ],
-      "noticias": [
-        {
-          "id": "2e5d4fd6fcdcfb2c7f17",
-          "titulo_original": "From climate targets to energy justice",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/sci-tech/energy-and-environment/from-climate-targets-to-energy-justice/article71628453.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-10-26T16:55:11+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "India should reframe the climate issue as a set of national crises arising from unequal energy use, rather than as a global temperature goal driven by emissions; the global policy focus needs to shift from production to consumption patterns, as emerging countries are using much less energy to achieve comparable levels of well-being",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Hindu"
+        "The Hindu",
+        "The Indian Express"
       ],
       "actores_mencionados": [
         "India"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia y gobernanza global",
-        "pregunta": "¿Cómo se distribuyen los costos de coordinación y los incentivos para cooperar?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: India",
-        "Ámbito: Energía y clima"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-9437a2c4307bb9f35576",
-      "fecha": "2026-10-26",
-      "titulo_fuente": "Putin to meet with Zimbabwe, Madagascar, Sudan, and Namibia leaders, Kremlin aide says",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Diplomacia",
-        "Energía y clima"
-      ],
-      "noticias": [
-        {
-          "id": "9437a2c4307bb9f35576",
-          "titulo_original": "Putin to meet with Zimbabwe, Madagascar, Sudan, and Namibia leaders, Kremlin aide says",
-          "titulo_es": "Putin para reunirse con líderes de Zimbabwe, Madagascar, Sudán y Namibia, dice Kremlin aide",
-          "url": "https://tass.com/politics/2208197",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-26T16:54:36+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "A series of bilateral meetings will begin after two plenary sessions of the Russia-Africa summit",
-          "resumen_es": "Una serie de reuniones bilaterales comenzarán después de dos sesiones plenarias de la cumbre entre Rusia y África"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia",
-        "Ámbito: Diplomacia, Energía y clima"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-82d7584d695456dc0d07",
-      "fecha": "2026-10-26",
-      "titulo_fuente": "EU support for Ukraine: Council mobilises €4.9 billion under the European Peace Facility",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Seguridad y conflictos",
-        "Comercio y finanzas"
-      ],
-      "noticias": [
-        {
-          "id": "82d7584d695456dc0d07",
-          "titulo_original": "EU support for Ukraine: Council mobilises €4.9 billion under the European Peace Facility",
-          "titulo_es": "Apoyo de la UE para Ucrania: Consejo moviliza € 4.900 millones bajo el Fondo Europeo de Paz",
-          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/26/eu-support-for-ukraine-council-mobilises-49-billion-under-the-european-peace-facility/",
-          "fuente": "Noticias del Consejo de la UE",
-          "pais": "Unión Europea",
-          "fecha": "2026-10-26T16:45:00+00:00",
-          "estado": "declaración de la fuente; corroboración independiente pendiente",
-          "resumen_original": "Today the Council adopted a set of decisions mobilising funds for Ukraine under the European Peace Facility. These decisions will allow for the partial reimbursement of previously delivered military aid and provide additional financing for the EU Military Assistance Mission in Support of Ukraine.",
-          "resumen_es": "Hoy el Consejo adoptó un conjunto de decisiones que movilizan fondos para Ucrania en el marco del Fondo Europeo de Paz. Estas decisiones permitirán el reembolso parcial de la ayuda militar entregada anteriormente y proporcionarán financiación adicional para"
-        }
-      ],
-      "fuentes": [
-        "Noticias del Consejo de la UE"
-      ],
-      "actores_mencionados": [
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Ucrania",
-        "Ámbito: Comercio y finanzas, Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-151898c4b25f53767a19",
-      "fecha": "2026-10-26",
-      "titulo_fuente": "Guterres warns of ‘unimaginable’ consequences of Iran-Gulf escalation",
-      "region": "Oriente Medio",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "151898c4b25f53767a19",
-          "titulo_original": "Guterres warns of ‘unimaginable’ consequences of Iran-Gulf escalation",
-          "titulo_es": "Guterres advierte de las consecuencias \"impensables\" de la escalada Irán-Gulf",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/guterres-warns-iran-gulf-escalation-west-bank?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-10-26T16:39:48+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "UN Chief Antonio Guterres has warned of devastating consequences from any military escalation in the Gulf region.",
-          "resumen_es": "El Jefe de la ONU Antonio Guterres ha advertido de las consecuencias devastadoras de cualquier escalada militar en la región del Golfo."
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera"
-      ],
-      "actores_mencionados": [
-        "Irán"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Irán",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-b63e496ea127b23a5e2b",
-      "fecha": "2026-10-26",
-      "titulo_fuente": "Muere Walter Koenig, el Chekov original de ‘Star Trek’",
-      "region": "Estados Unidos",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "b63e496ea127b23a5e2b",
-          "titulo_original": "Muere Walter Koenig, el Chekov original de ‘Star Trek’",
-          "titulo_es": "",
-          "url": "https://elpais.com/television/2026-10-26/muere-walter-koenig-el-chekov-original-de-star-trek.html",
-          "fuente": "El País",
-          "pais": "España",
-          "fecha": "2026-10-26T17:38:48+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "El actor falleció este domingo en Los Ángeles, a los 90 años y por causas naturales, han confirmado sus representantes en un comunicado",
-          "resumen_es": ""
-        },
-        {
-          "id": "e7ed93f8fccf034b988d",
-          "titulo_original": "Walter Koenig, Star Trek’s original Pavel Chekov, dies at 90",
-          "titulo_es": "Walter Koenig, el original Pavel Chekov de Star Trek, muere a 90",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3372213/walter-koenig-star-treks-original-pavel-chekov-dies-90",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-10-26T17:25:02+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Actor Walter Koenig, who played Ensign Pavel Chekov, the youthful Russian navigator on the Star Trek television series and several films, has died. He was 90. Koenig died on Monday at his home in the North Hollywood neighbourhood of Los Angeles, talent agent Zachery McGinnis said in a statement. In Star Trek, Ensign Chekov was the sole Communist-bloc member of the spaceship Enterprise bridge staff. His friendly, supportive presence showed how the",
-          "resumen_es": "Actor Walter Koenig, que interpretó al alférez Pavel Chekov, el joven navegante ruso en la serie de televisión Star Trek y varias películas, ha muerto. Tenía 90 años. Koenig murió el lunes en su casa en el barrio de North Hollywood en Los Ang"
-        }
-      ],
-      "fuentes": [
-        "El País",
-        "South China Morning Post"
-      ],
-      "actores_mencionados": [
-        "Rusia"
       ],
       "fuentes_independientes": 2,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
@@ -6922,7 +5855,63 @@
       "prioridad_orientativa": 3,
       "motivos_seleccion": [
         "Cobertura de fuentes distintas",
-        "Actores relevantes: Rusia"
+        "Actores relevantes: India"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-30ad611020bd352851d8",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "EU divisions persist on ‘associate member’ label for Canada",
+      "region": "Internacional",
+      "temas": [
+        "Diplomacia"
+      ],
+      "noticias": [
+        {
+          "id": "30ad611020bd352851d8",
+          "titulo_original": "EU divisions persist on ‘associate member’ label for Canada",
+          "titulo_es": "",
+          "url": "https://www.politico.eu/article/eu-still-split-on-associate-member-label-for-canada/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "fuente": "POLITICO Europe",
+          "pais": "Unión Europea",
+          "fecha": "2026-10-27T13:07:17+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The bloc can't agree on controversial status just 48 hours before Montreal summit.",
+          "resumen_es": ""
+        },
+        {
+          "id": "4db1c77cfb6fb6d1c3a0",
+          "titulo_original": "EU divisions persist on ‘associate member’ label for Canada - Politico",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVnhIczNOT1lLb3lXRmtDMGRDcGwtVlBTcnhQS1k2Sk1CN0VScjlyWEpJSzA1TWYwNFVNLV9fd0JGRVItcUVsdEN2UC1RSWQyZ3pDUVBCaE1sYzJ5eFREZ29rMkFRdEt6LTNPZ0FQUjJJcXNXM1R6eWgxbzdXemh4dk42ejF5THVPM1BncFR2a1h2Wk4tNHdlVE9tODRqbUxuRUY0?oc=5",
+          "fuente": "POLITICO US",
+          "pais": "Estados Unidos",
+          "fecha": "2026-10-27T13:07:00+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "EU divisions persist on ‘associate member’ label for Canada Politico",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "POLITICO Europe",
+        "POLITICO US"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 2,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 3,
+      "motivos_seleccion": [
+        "Cobertura de fuentes distintas",
+        "Ámbito: Diplomacia"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -7010,6 +5999,956 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Ámbito: Migración y DD. HH."
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-b0f04157bf229ebc1547",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "French presidential candidate labels Ukraine ‘dictatorship’ after extension of martial law",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "b0f04157bf229ebc1547",
+          "titulo_original": "French presidential candidate labels Ukraine ‘dictatorship’ after extension of martial law",
+          "titulo_es": "candidato presidencial francés etiqueta Ucrania “dictadura” después de la extensión de la ley marcial",
+          "url": "https://tass.com/world/2208819",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-10-27T15:01:03+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Florian Philippot argued that all assistance to Kiev should be stopped immediately",
+          "resumen_es": "Florian Philippot argumentó que toda la asistencia a Kiev debe detenerse inmediatamente"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Ucrania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Ucrania"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-e742337351ae5ab5166f",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "Au Brésil, une enquête ouverte sur un possible financement étranger de la campagne de Flavio Bolsonaro",
+      "region": "Internacional",
+      "temas": [
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "e742337351ae5ab5166f",
+          "titulo_original": "Au Brésil, une enquête ouverte sur un possible financement étranger de la campagne de Flavio Bolsonaro",
+          "titulo_es": "",
+          "url": "https://www.lemonde.fr/international/article/2026/10/27/au-bresil-enquete-sur-un-possible-financement-etranger-de-la-campagne-de-flavio-bolsonaro_6801298_3210.html",
+          "fuente": "Le Monde",
+          "pais": "Francia",
+          "fecha": "2026-10-27T15:00:43+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Un juge de la Cour suprême brésilienne demande notamment à la police fédérale d’établir si le groupe conservateur américain Rockbridge Network a « participé à des tractations visant à l’obtention de soutien financier en faveur de la campagne présidentielle de Flavio Bolsonaro ».",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "Le Monde"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia compleja y economía política internacional",
+        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Comercio y finanzas"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-ff67ce0216d404ff4a11",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "Putin on permafrost: ‘Nothing is permanent’",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "ff67ce0216d404ff4a11",
+          "titulo_original": "Putin on permafrost: ‘Nothing is permanent’",
+          "titulo_es": "Putin en permafrost: Nada es permanente ’",
+          "url": "https://tass.com/politics/2208811",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-10-27T14:50:09+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The President stressed that Russia was ready to combine all efforts to respond appropriately to these challenges",
+          "resumen_es": "El Presidente subrayó que Rusia estaba dispuesta a combinar todos los esfuerzos para responder adecuadamente a esos desafíos"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Rusia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-889daf4164a64b331022",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "Israel keeps committing genocide in Gaza after truce, UN inquiry says",
+      "region": "Oriente Medio",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "889daf4164a64b331022",
+          "titulo_original": "Israel keeps committing genocide in Gaza after truce, UN inquiry says",
+          "titulo_es": "Israel sigue cometiendo genocidio en Gaza después de la tregua, dice la investigación de la ONU",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3372344/israel-keeps-committing-genocide-gaza-after-truce-un-inquiry-says",
+          "fuente": "South China Morning Post",
+          "pais": "Hong Kong",
+          "fecha": "2026-10-27T14:48:59+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Israel continued to commit genocide in Gaza after last ⁠October’s US-brokered ceasefire in the enclave, a ⁠UN commission said in a report published on Monday ⁠that Israel dismissed as part of a “misinformation campaign”. The report by the UN Independent International Commission of Inquiry on the Occupied Palestinian Territory, including East Jerusalem, and Israel, examined violations against Palestinian civilians, including children, since the st",
+          "resumen_es": "Israel siguió cometiendo genocidio en Gaza después de la cesación del fuego interrumpida por Estados Unidos en el enclave, una comisión ⁠UN dijo en un informe publicado el lunes ⁠ que Israel desestimó como parte de una “campaña de información”. El informe de U"
+        }
+      ],
+      "fuentes": [
+        "South China Morning Post"
+      ],
+      "actores_mencionados": [
+        "Israel",
+        "Palestina"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Israel"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-af81920fad644d236c18",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "Cyclone Arnab Update: Railways cancels 95 trains, 18 others affected – full list - The Indian Express",
+      "region": "Asia-Pacífico",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "af81920fad644d236c18",
+          "titulo_original": "Cyclone Arnab Update: Railways cancels 95 trains, 18 others affected – full list - The Indian Express",
+          "titulo_es": "Ciclone Arnab Actualización: Ferrocarriles cancela 95 trenes, 18 otros afectados – lista completa - El Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUk9fblBHYVdWRWxBUnR5cnVLZGJyT3MtVHBLOFB1QTNzanZtNVB1Rm1JVG4zZDg4MlBuOW1MWmJJQ2dXNkh5cnA2eEd4TTJLNWE2OUZ1Wm0zQjVOSGloancxczZxVjFXYjZ1RlRlb3JQY1VmNUZ1Vkc5VHpCQUpYX2dvX0ozeWNuVV91V1Vqa2hqS20xdXlwcEI2eGzSAaMBQVVfeXFMT2Rwc3lMRUMyLUtOeEhqRk5CTmF5THhVRkNUMHJiWEJmUmw4dHU0bWFyUjRReE15OXlhODZsSlRLRzVMbzZaaVhSZEZpVmNCNzd1WjA4Z0I5VWdPS1dQb3ozdEJLeDB6RGZTek5fLTllUEVESnhpYU5TWXFiN0FqMTdIRE9Va2RIeXBUNVJ4OXlNN1pfNEJFWkdRbnhHMk9DYmoxdw?oc=5",
+          "fuente": "The Indian Express",
+          "pais": "India",
+          "fecha": "2026-10-27T14:47:18+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Cyclone Arnab Update: Railways cancels 95 trains, 18 others affected – full list The Indian Express",
+          "resumen_es": "Ciclone Arnab Actualización: Ferrocarriles cancela 95 trenes, 18 otros afectados – lista completa El Indian Express"
+        }
+      ],
+      "fuentes": [
+        "The Indian Express"
+      ],
+      "actores_mencionados": [
+        "India"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: India"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-fae5e71f5e5c0857cd92",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "Sudan’s war steals children’s future with school closures and displacement",
+      "region": "África",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "fae5e71f5e5c0857cd92",
+          "titulo_original": "Sudan’s war steals children’s future with school closures and displacement",
+          "titulo_es": "La guerra de Sudán roba el futuro de los niños con cierres escolares y desplazamientos",
+          "url": "https://www.aljazeera.com/features/2026/10/27/sudans-war-steals-childrens-futures-with-school-closures-and-displacement?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-10-27T14:45:41+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The conflict in Sudan has left millions of children without education, as they work to help their families.",
+          "resumen_es": "El conflicto en Sudán ha dejado a millones de niños sin educación, ya que trabajan para ayudar a sus familias."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-5dd34bb4baabf00826f0",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "Shabana Mahmood urged to grant visa to former Weather Underground activist",
+      "region": "Internacional",
+      "temas": [
+        "Migración y DD. HH."
+      ],
+      "noticias": [
+        {
+          "id": "5dd34bb4baabf00826f0",
+          "titulo_original": "Shabana Mahmood urged to grant visa to former Weather Underground activist",
+          "titulo_es": "Shabana Mahmood instó a conceder visa a la ex activista de Weather Underground",
+          "url": "https://www.theguardian.com/politics/2026/oct/27/judith-clark-shabana-mahmood-visa-weather-underground",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-10-27T14:34:45+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Home Office refused entry to Judith Clark, 77, invited by RSC to speak about restorative justice after her time in prison Human rights activists and celebrities including the lawyer Helena Kennedy, the actor Harriet Walter and the theatre director Phyllida Lloyd have urged the Home Office to overturn its decision to refuse a visa to a former member of the radical US group the Weather Underground, saying her decades of rehabilitation should count ",
+          "resumen_es": "Home Office se negó a entrar a Judith Clark, 77, invitada por RSC a hablar sobre justicia restaurativa después de su tiempo en prisión Activistas y celebridades de derechos humanos, incluyendo el abogado Helena Kennedy, el actor Harriet Walter y el teatro d"
+        }
+      ],
+      "fuentes": [
+        "The Guardian"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Derecho internacional y constructivismo",
+        "pregunta": "¿Qué normas, identidades y obligaciones internacionales invocan los actores?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Migración y DD. HH."
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-cfda23687b2a46c34c6c",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "EU prepares for a grim future with new climate-proofing law",
+      "region": "Perú",
+      "temas": [
+        "Energía y clima"
+      ],
+      "noticias": [
+        {
+          "id": "cfda23687b2a46c34c6c",
+          "titulo_original": "EU prepares for a grim future with new climate-proofing law",
+          "titulo_es": "",
+          "url": "https://www.politico.eu/article/eu-prepare-future-new-climate-proofing-law/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "fuente": "POLITICO Europe",
+          "pais": "Unión Europea",
+          "fecha": "2026-10-27T14:30:45+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The Commission says it's not giving up on slashing emissions but acknowledges that's no longer enough.",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "POLITICO Europe"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia y gobernanza global",
+        "pregunta": "¿Cómo se distribuyen los costos de coordinación y los incentivos para cooperar?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Energía y clima"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-33b9e2b51c03f40a8d84",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "Una senadora acusada de distribuir marihuana y otras maniobras inusuales de la Fiscalía de Trump antes de las ‘midterms’",
+      "region": "Estados Unidos",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "33b9e2b51c03f40a8d84",
+          "titulo_original": "Una senadora acusada de distribuir marihuana y otras maniobras inusuales de la Fiscalía de Trump antes de las ‘midterms’",
+          "titulo_es": "",
+          "url": "https://elpais.com/us/2026-10-27/una-senadora-acusada-de-distribuir-marihuana-y-otras-maniobras-inusuales-de-la-fiscalia-de-trump-antes-de-las-midterms.html",
+          "fuente": "El País",
+          "pais": "España",
+          "fecha": "2026-10-27T14:26:40+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "En cuatro casos concretos, el Departamento de Justicia ha roto la vieja tradición de reservar para periodos alejados de las elecciones los procesos judiciales que involucran a figuras políticas",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "El País"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-fa45cc723635fb31b834",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "La ‘generación de Netanyahu’: 640.000 nuevos votantes a la derecha de sus padres",
+      "region": "Oriente Medio",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "fa45cc723635fb31b834",
+          "titulo_original": "La ‘generación de Netanyahu’: 640.000 nuevos votantes a la derecha de sus padres",
+          "titulo_es": "",
+          "url": "https://elpais.com/internacional/2026-10-27/la-generacion-de-netanyahu-640000-nuevos-votantes-a-la-derecha-de-sus-padres.html",
+          "fuente": "El País",
+          "pais": "España",
+          "fecha": "2026-10-27T14:23:33+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Un 10% de israelíes acuden por primera vez a las urnas más radicales y religiosos que sus mayores. No conocen otro primer ministro ni un diálogo de paz con los palestinos",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "El País"
+      ],
+      "actores_mencionados": [
+        "Israel"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Israel"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-3500fe71177633a4bd45",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "Trump-appointed CDC deputy director to resign after six months on the job",
+      "region": "Estados Unidos",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "3500fe71177633a4bd45",
+          "titulo_original": "Trump-appointed CDC deputy director to resign after six months on the job",
+          "titulo_es": "Director adjunto del CDC designado por Trump para dimitir después de seis meses en el trabajo",
+          "url": "https://www.theguardian.com/us-news/2026/oct/27/cdc-deputy-director-resigns-jennifer-shuford",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-10-27T14:17:19+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Jennifer Shuford is expected to leave her post after midterm elections ‘to spend more time with my family’ The deputy director and chief medical officer of the Centers for Disease Control and Prevention (CDC) will resign after six months on the job, according to an agency email obtained by the Guardian. Deputy director Dr Jennifer Shuford was appointed by Donald Trump in April as part of a four-person senior leadership team. Continue reading...",
+          "resumen_es": "Se espera que Jennifer Shuford abandone su puesto después de las elecciones de mitad de período “para pasar más tiempo con mi familia” El subdirector y jefe médico de los Centros de Control y Prevención de Enfermedades (CDC) renunciará después de seis meses."
+        }
+      ],
+      "fuentes": [
+        "The Guardian"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-5b79b7bdd042355f2919",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "Norwegian PM says keeping in touch with Russian leadership imperative",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "5b79b7bdd042355f2919",
+          "titulo_original": "Norwegian PM says keeping in touch with Russian leadership imperative",
+          "titulo_es": "Norwegian PM dice que mantenerse en contacto con el imperativo del liderazgo ruso",
+          "url": "https://tass.com/world/2208785",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-10-27T14:07:05+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "According to Jonas Gahr Store, the situation cannot be such that only Americans have a channel of communication with the Russian leadership",
+          "resumen_es": "Según Jonas Gahr Store, la situación no puede ser tal que sólo los estadounidenses tengan un canal de comunicación con el liderazgo ruso"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Rusia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-a40af315b44ed1e3fb13",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "Spot gas prices surge twofold — GECF",
+      "region": "Europa",
+      "temas": [
+        "Comercio y finanzas",
+        "Energía y clima"
+      ],
+      "noticias": [
+        {
+          "id": "a40af315b44ed1e3fb13",
+          "titulo_original": "Spot gas prices surge twofold — GECF",
+          "titulo_es": "Los precios del gas manchados se multiplican por dos: GECF",
+          "url": "https://tass.com/economy/2208779",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-10-27T14:02:48+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "LNG imports in major Asian and European markets have declined, Secretary General of the Gas Exporting Countries Forum said",
+          "resumen_es": "Las importaciones de GNL en los principales mercados asiáticos y europeos han disminuido, dijo el Secretario General del Foro de Países Exportadores de Gas"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia compleja y economía política internacional",
+        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Comercio y finanzas, Energía y clima"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-a4afaab45a9069acf3a3",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "Frontex soll soziale Medien auf Hinweise zu illegaler Migration überwachen",
+      "region": "Internacional",
+      "temas": [
+        "Migración y DD. HH."
+      ],
+      "noticias": [
+        {
+          "id": "a4afaab45a9069acf3a3",
+          "titulo_original": "Frontex soll soziale Medien auf Hinweise zu illegaler Migration überwachen",
+          "titulo_es": "",
+          "url": "https://www.politico.eu/article/frontex-soll-soziale-medien-auf-hinweise-zu-illegaler-migration-ueberwachen/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "fuente": "POLITICO Europe",
+          "pais": "Unión Europea",
+          "fecha": "2026-10-27T14:01:49+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Die EU-Grenzschutzagentur Frontex soll künftig soziale Netzwerke beobachten dürfen, um Informationen über Migrationsbewegungen zu sammeln.",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "POLITICO Europe"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Derecho internacional y constructivismo",
+        "pregunta": "¿Qué normas, identidades y obligaciones internacionales invocan los actores?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Migración y DD. HH."
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-15795aef7144e1bec1bf",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "EIB to sign framework deal with Canada on critical raw materials",
+      "region": "Internacional",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "15795aef7144e1bec1bf",
+          "titulo_original": "EIB to sign framework deal with Canada on critical raw materials",
+          "titulo_es": "",
+          "url": "https://www.politico.eu/article/eib-european-investment-bank-sign-framework-deal-canada-critical-raw-materials/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "fuente": "POLITICO Europe",
+          "pais": "Unión Europea",
+          "fecha": "2026-10-27T14:00:32+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Deal marks concrete step toward closer ties between the EU and Canada.",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "POLITICO Europe"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-7cd28d7a0d44826d4dd2",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "Lebanon’s lost olive season: harvesting olives under drones and warplanes",
+      "region": "Internacional",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "7cd28d7a0d44826d4dd2",
+          "titulo_original": "Lebanon’s lost olive season: harvesting olives under drones and warplanes",
+          "titulo_es": "La temporada de olivo perdida del Líbano: cosechando aceitunas bajo drones y aviones de guerra",
+          "url": "https://www.aljazeera.com/features/2026/10/27/lebanons-lost-olive-season-harvesting-olives-under-drones-and-warplanes?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-10-27T13:54:43+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Lebanon's olive harvesters are facing dangerous conditions, with potential attacks and fear of cluster munitions.",
+          "resumen_es": "Los olivos libaneses se enfrentan a condiciones peligrosas, con posibles ataques y miedo a las municiones en racimo."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-ea7d793a5b1db908aeac",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "Russia for wider consultations within GECF regarding crisis situations — Putin",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "ea7d793a5b1db908aeac",
+          "titulo_original": "Russia for wider consultations within GECF regarding crisis situations — Putin",
+          "titulo_es": "Rusia para consultas más amplias dentro del GECF sobre situaciones de crisis — Putin",
+          "url": "https://tass.com/politics/2208771",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-10-27T13:49:05+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The Russian leader cited OPEC+ countries as an example",
+          "resumen_es": "El líder ruso citó a los países de la OPEC+ como ejemplo"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Rusia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-33887d0eee13e9f9a197",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "Volume of components for UAVs made in Russia up 80% year-to-date — PM",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "33887d0eee13e9f9a197",
+          "titulo_original": "Volume of components for UAVs made in Russia up 80% year-to-date — PM",
+          "titulo_es": "Volumen de componentes para los VU hechos en Rusia hasta el 80% del año a día — PM",
+          "url": "https://tass.com/economy/2208767",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-10-27T13:47:19+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "A separate national project is dedicated to unmanned aerial systems, Mikhail Mishustin said",
+          "resumen_es": "Un proyecto nacional separado está dedicado a sistemas aéreos no tripulados, dijo Mikhail Mishustin"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Rusia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-c6afe67e3ad0a3fb64cd",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "Europe's birth rate hits all-time low",
+      "region": "Europa",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "c6afe67e3ad0a3fb64cd",
+          "titulo_original": "Europe's birth rate hits all-time low",
+          "titulo_es": "La tasa de natalidad de Europa golpea todo el tiempo bajo",
+          "url": "https://tass.com/society/2208765",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-10-27T13:45:20+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "According to Eurostat, over the past twenty years, birth rates in the European Union have remained below the natural replacement level",
+          "resumen_es": "Según Eurostat, en los últimos veinte años las tasas de natalidad en la Unión Europea han permanecido por debajo del nivel de sustitución natural"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Unión Europea"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Unión Europea"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-299db2b9a821dd6701fa",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "Houthis say they repelled attack from pro-Saudi forces near Bab el-Mandeb Strait",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "299db2b9a821dd6701fa",
+          "titulo_original": "Houthis say they repelled attack from pro-Saudi forces near Bab el-Mandeb Strait",
+          "titulo_es": "Houthis dicen que rechazaron el ataque de fuerzas pro-Saudi cerca del estrecho de Bab el-Mandeb",
+          "url": "https://tass.com/world/2208759",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-10-27T13:36:58+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "According to Houthi military representative Yahya Saree, the rebels attacked enemy concentrations using ballistic missiles and heavy weapons",
+          "resumen_es": "Según el representante militar de Houthi Yahya Saree, los rebeldes atacaron las concentraciones enemigas utilizando misiles balísticos y armas pesadas"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-0a499eceb965b8c04133",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "Ethiopian death toll from two attacks on Christians at 60",
+      "region": "Internacional",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "0a499eceb965b8c04133",
+          "titulo_original": "Ethiopian death toll from two attacks on Christians at 60",
+          "titulo_es": "Muerte etíope de dos ataques contra cristianos a 60",
+          "url": "https://tass.com/emergencies/2208749",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-10-27T13:34:51+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "More than 20 houses were burned down in the attacks, and over 20 people were hospitalized with serious injuries",
+          "resumen_es": "Más de 20 casas fueron quemadas en los ataques, y más de 20 personas fueron hospitalizadas con lesiones graves"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-90dcfbabb1a94c1306c3",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "Hong Kong lawmakers raise concerns about fresh HK$27 billion funding for tech hub",
+      "region": "China",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "90dcfbabb1a94c1306c3",
+          "titulo_original": "Hong Kong lawmakers raise concerns about fresh HK$27 billion funding for tech hub",
+          "titulo_es": "Los legisladores de Hong Kong plantean preocupaciones acerca de la financiación de nuevos HK$27 mil millones para centros tecnológicos",
+          "url": "https://www.scmp.com/news/hong-kong/society/article/3372338/hong-kong-lawmakers-raise-concerns-about-fresh-hk27-billion-funding-tech-hub",
+          "fuente": "South China Morning Post",
+          "pais": "Hong Kong",
+          "fecha": "2026-10-27T13:34:43+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Hong Kong lawmakers have raised concerns about the hefty cost of developing a flagship tech hub and a neighbouring wetland park near the city’s border with mainland China, as the government seeks to secure a fresh HK$27 billion for the second round of works. During a Legislative Council development panel meeting on Tuesday, government officials explained the HK$27.2 billion proposal. It covers forming 175 hectares (432 acres) of land at the San T",
+          "resumen_es": "Los legisladores de Hong Kong han expresado su preocupación por el elevado costo de desarrollar un centro tecnológico insignia y un parque vecino de humedales cerca de la frontera de la ciudad con China continental, ya que el gobierno busca asegurar un nuevo HK$27 mil millones para el seco"
+        }
+      ],
+      "fuentes": [
+        "South China Morning Post"
+      ],
+      "actores_mencionados": [
+        "China"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: China"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
