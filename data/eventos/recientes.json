@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-10-27T16:39:51.464729+00:00",
+  "created_utc": "2026-10-27T16:54:24.284068+00:00",
   "events": [
     {
       "id": "a-87fca09603b97f45ec86",
@@ -165,6 +165,54 @@
         "Cobertura de fuentes distintas",
         "Actores relevantes: Estados Unidos, Rusia, Ucrania",
         "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-9b412834ec2299f2450b",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "Putin holds talks with Iranian president in Kremlin",
+      "region": "Oriente Medio",
+      "temas": [
+        "Diplomacia",
+        "Comercio y finanzas",
+        "Energía y clima"
+      ],
+      "noticias": [
+        {
+          "id": "9b412834ec2299f2450b",
+          "titulo_original": "Putin holds talks with Iranian president in Kremlin",
+          "titulo_es": "Putin mantiene conversaciones con el presidente iraní en Kremlin",
+          "url": "https://tass.com/politics/2208997",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-10-27T16:50:01+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The meeting takes place within the framework of the eighth summit of the Forum of Gas Exporting Countries",
+          "resumen_es": "La reunión se celebra en el marco de la octava cumbre del Foro de Países Exportadores de Gas"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Rusia",
+        "Irán"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: Irán, Rusia",
+        "Ámbito: Comercio y finanzas, Diplomacia"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6045,97 +6093,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-f4d6c6b2b76ba65f2fec",
-      "fecha": "2026-10-27",
-      "titulo_fuente": "Au Brésil, Flavio Bolsonaro, isolé, renonce à demander l’annulation du scrutin après la victoire de Lula",
-      "region": "Internacional",
-      "temas": [
-        "Organismos multilaterales"
-      ],
-      "noticias": [
-        {
-          "id": "f4d6c6b2b76ba65f2fec",
-          "titulo_original": "Au Brésil, Flavio Bolsonaro, isolé, renonce à demander l’annulation du scrutin après la victoire de Lula",
-          "titulo_es": "",
-          "url": "https://www.lemonde.fr/international/article/2026/10/27/au-bresil-flavio-bolsonaro-isole-renonce-a-demander-l-annulation-du-scrutin-apres-la-victoire-de-lula_6801096_3210.html",
-          "fuente": "Le Monde",
-          "pais": "Francia",
-          "fecha": "2026-10-27T04:15:09+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Le parti du candidat défait a reconnu les résultats de l’élection présidentielle, comme ses alliés d’extrême droite en Amérique du Sud. Le fils de l’ex-président, mis en cause dans plusieurs affaires de corruption, s’est vu confisquer ses passeports par la justice et a interdiction de quitter le pays.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Le Monde"
-      ],
-      "actores_mencionados": [
-        "Brasil"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Institucionalismo liberal",
-        "pregunta": "¿Qué reglas, mecanismos de cooperación y límites institucionales afectan la decisión?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Brasil",
-        "Ámbito: Organismos multilaterales"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-cf95b9b131e6fcbdd805",
-      "fecha": "2026-10-27",
-      "titulo_fuente": "U.S.-brokered truce begins in Ukraine city occupied by Russia",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "cf95b9b131e6fcbdd805",
-          "titulo_original": "U.S.-brokered truce begins in Ukraine city occupied by Russia",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/news/international/us-brokered-truce-begins-in-ukraine-city-occupied-by-russia/article71629729.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-10-27T04:14:15+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Both Russia and Ukraine said they would observe the truce starting at 3:00 a.m. local time (0100 GMT)",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Hindu"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "Rusia",
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos, Rusia, Ucrania"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-df06dafda0083e89e7f9",
       "fecha": "2026-10-27",
       "titulo_fuente": "Microsoft offers voluntary exit to 60,000 employees: What it means for India staff - The Indian Express",
@@ -6245,6 +6202,92 @@
       "motivos_seleccion": [
         "Cobertura de fuentes distintas",
         "Ámbito: Diplomacia"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-b1c9ff04f1a840607546",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "Lo que hay detrás del creciente liderazgo económico de Madrid frente a Cataluña: 350.000 trabajadores que viven en otra comunidad",
+      "region": "Internacional",
+      "temas": [
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "b1c9ff04f1a840607546",
+          "titulo_original": "Lo que hay detrás del creciente liderazgo económico de Madrid frente a Cataluña: 350.000 trabajadores que viven en otra comunidad",
+          "titulo_es": "",
+          "url": "https://elpais.com/espana/catalunya/2026-10-27/lo-que-hay-detras-del-creciente-liderazgo-de-madrid-frente-a-cataluna-350000-trabajadores-que-viven-en-otra-comunidad.html",
+          "fuente": "El País",
+          "pais": "España",
+          "fecha": "2026-10-27T16:34:32+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "La Cámara de Comercio apunta que el problema no es de productividad, sino de la cantidad de empleados cuyo puesto de trabajo está en Madrid pero residen en otra región",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "El País"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia compleja y economía política internacional",
+        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Comercio y finanzas"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-c497cce3ddda52c5d308",
+      "fecha": "2026-10-27",
+      "titulo_fuente": "Flávio Bolsonaro rumoured to have fled Brazil after presidential election loss",
+      "region": "América Latina",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "c497cce3ddda52c5d308",
+          "titulo_original": "Flávio Bolsonaro rumoured to have fled Brazil after presidential election loss",
+          "titulo_es": "Flávio Bolsonaro retuvo haber huido de Brasil después de la derrota electoral presidencial",
+          "url": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-10-27T16:24:15+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Authorities demanded he hand over his passport after loss to Lula but far-right senator remains unaccounted for The far-right senator Flávio Bolsonaro has not been seen since Monday and missed a Tuesday-morning deadline to hand his passport to the federal police, fuelling rumours that he may have fled Brazil after losing Sunday’s presidential election. A supreme court justice cancelled Bolsonaro’s passport minutes after the result in a ruling rel",
+          "resumen_es": "Las autoridades exigieron que entregara su pasaporte después de la pérdida a Lula pero el senador de extrema derecha sigue sin contar para el senador de extrema derecha Flávio Bolsonaro no ha sido visto desde el lunes y se perdió un plazo de martes para entregar su pasaporte"
+        }
+      ],
+      "fuentes": [
+        "The Guardian"
+      ],
+      "actores_mencionados": [
+        "Brasil"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Brasil"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -7039,48 +7082,6 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Actores relevantes: India"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-fae5e71f5e5c0857cd92",
-      "fecha": "2026-10-27",
-      "titulo_fuente": "Sudan’s war steals children’s future with school closures and displacement",
-      "region": "África",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "fae5e71f5e5c0857cd92",
-          "titulo_original": "Sudan’s war steals children’s future with school closures and displacement",
-          "titulo_es": "La guerra de Sudán roba el futuro de los niños con cierres escolares y desplazamientos",
-          "url": "https://www.aljazeera.com/features/2026/10/27/sudans-war-steals-childrens-futures-with-school-closures-and-displacement?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-10-27T14:45:41+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The conflict in Sudan has left millions of children without education, as they work to help their families.",
-          "resumen_es": "El conflicto en Sudán ha dejado a millones de niños sin educación, ya que trabajan para ayudar a sus familias."
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null

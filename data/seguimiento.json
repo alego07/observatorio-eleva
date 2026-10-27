@@ -1,17 +1,25 @@
 {
-  "actualizado_utc": "2026-10-27T16:39:51.517316+00:00",
+  "actualizado_utc": "2026-10-27T16:54:24.347405+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 857,
-      "nuevas_24h": 123,
-      "anteriores_24h": 75,
+      "cantidad_archivada": 858,
+      "nuevas_24h": 122,
+      "anteriores_24h": 77,
       "dias_con_registros": 12,
-      "fecha_ultima": "2026-10-27T16:18:20+00:00",
+      "fecha_ultima": "2026-10-27T16:50:01+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "9b412834ec2299f2450b",
+          "fecha": "2026-10-27T16:50:01+00:00",
+          "titulo": "Putin holds talks with Iranian president in Kremlin",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2208997",
+          "traducida": false
+        },
         {
           "id": "01eeab038674e5f91c1d",
           "fecha": "2026-10-27T16:18:20+00:00",
@@ -243,27 +251,27 @@
           "fuente": "TASS",
           "url": "https://tass.com/politics/2208753",
           "traducida": false
-        },
-        {
-          "id": "6a8bd72a5df0b7e4eee9",
-          "fecha": "2026-10-27T13:34:07+00:00",
-          "titulo": "Russia strikes Kyiv ahead of localised ceasefire in Oleshky",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/russia-strikes-kyiv-ahead-of-localised-ceasefire-in-oleshky?traffic_source=rss",
-          "traducida": false
         }
       ]
     },
     {
       "id": "oriente-medio",
       "titulo": "Oriente Medio: seguridad y diplomacia",
-      "cantidad_archivada": 523,
-      "nuevas_24h": 84,
-      "anteriores_24h": 66,
+      "cantidad_archivada": 524,
+      "nuevas_24h": 83,
+      "anteriores_24h": 65,
       "dias_con_registros": 12,
-      "fecha_ultima": "2026-10-27T16:17:01+00:00",
+      "fecha_ultima": "2026-10-27T16:50:01+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "9b412834ec2299f2450b",
+          "fecha": "2026-10-27T16:50:01+00:00",
+          "titulo": "Putin holds talks with Iranian president in Kremlin",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2208997",
+          "traducida": false
+        },
         {
           "id": "3705a6b0e9af55993543",
           "fecha": "2026-10-27T16:17:01+00:00",
@@ -495,22 +503,14 @@
           "fuente": "The Hindu",
           "url": "https://www.thehindu.com/news/international/netanyahus-rival-eisenkot-urges-voters-to-unseat-worst-govt-in-israeli-history/article71631613.ece",
           "traducida": false
-        },
-        {
-          "id": "3793c0a3a290c356720f",
-          "fecha": "2026-10-27T13:00:07+00:00",
-          "titulo": "Le Pakistan, engagé dans le « pacte de La Mecque », contraint de jouer les équilibristes",
-          "fuente": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/10/27/le-pakistan-engage-dans-le-pacte-de-la-mecque-contraint-de-jouer-les-equilibristes_6801274_3232.html",
-          "traducida": false
         }
       ]
     },
     {
       "id": "india-asia",
       "titulo": "India y Asia-Pacífico",
-      "cantidad_archivada": 213,
-      "nuevas_24h": 68,
+      "cantidad_archivada": 214,
+      "nuevas_24h": 69,
       "anteriores_24h": 22,
       "dias_con_registros": 12,
       "fecha_ultima": "2026-10-27T15:11:12+00:00",
@@ -701,6 +701,14 @@
           "traducida": false
         },
         {
+          "id": "7c7cfbd653ac68bb44a7",
+          "fecha": "2026-10-27T10:57:26+00:00",
+          "titulo": "The life and literary journey of Sylvia Plath - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZUZJODhfOVE4MGRicWt6S2w3MVJmTXBuRGFjYXdmM2ZoQmdMNlpoNnNYWGRnSFJ3LWRRVF9oa05wWl9HeUgtdXh4NFo3SzJNR3QzWjJXbjQ4TlRWSkhubDE4dHdnZzFDVnJ4RDJmakNkM24xeUIxd0VGNmplNXY3VW0xeW92TV9UQjY5NTlnLWozSHRmSk9sclFHX1hqN0o3c2fSAagBQVVfeXFMUGlqWFZDSGw5amNTN3pzdzhoVk5fT0Z3cEtCM1I1X2FsNVY4cHR3MWxiZVVvZmlIcEwtWDVuZzZLQWthQkE4ZXVwMjJQckdCVW1ibkNLV2d0eGcxVDlrOHU2TnluVlNtb3ByenhjNmQ2S3FiZEhNMlFuczVrdnRWVnFiYzhtQnZyQjduYmVEdjdfQTN4cjJ6OUEzWVJPYjRnUHVrVUVqZE9Y?oc=5",
+          "traducida": false
+        },
+        {
           "id": "e6bdd7fb638e10f70213",
           "fecha": "2026-10-27T10:56:22+00:00",
           "titulo": "Media groups challenge India’s privacy law at top court",
@@ -747,27 +755,27 @@
           "fuente": "The Indian Express",
           "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPeXpOWHUzTUo3a2h2QXRfamZKZWpQbXJqVng1QmtHTjJOOVJ0bnV2bnQ0eDBlbmhBOWxwQy1lRXQzRnQzSmw1UzlGRnBTbnFsNzJWU1poV3VqUWJEaWNJV0U0WHJhTUV3WEkyN3lCRkY5WHFrdTFITzlWY1FBbGVUZkF0bjFTMDFTRFhucVlIVHBELXNJM3h2bHRhTWt1VmVSbTZ2dUxYclgxUmx2STRyaGFFZFlqSkROc0w0Q19aRFNOUG9rOWhwMG9Wc01ZcmFOeGlNY21ITkk5NnlRRC1uTVJ6c3YwOWZG0gHvAUFVX3lxTE42QUxMRkFOSkc4WGxHOEU4Y3JBV3dLME9KRnlfS0VzWHlwa3ExcjZxbXpfX0dwM1ZXYVF6cEZKSHgwdTl0TUEyMGdFOFRhamhWNHZVQm8xYTZOcW1DWTYxMjd2NDF4UTFSXzNKT05FVHNyVDNwbjBOVk5NWm9oYW1lMHJoQy0xbXhZOG9ZLThmcFVkcEpkNTBzSHJRbGc2M0l5eHluaHI5Z3RuQl9INDhReExUS2t5WjctMFZFTEQ1TWE3R0RUZlJSX2RpU18wSFdNdjMyaldwdURaRTNMMlNsY3EtcVVMV21zNHJ2T3JZ?oc=5",
           "traducida": false
-        },
-        {
-          "id": "a87595941ac3937dd9c6",
-          "fecha": "2026-10-27T09:56:35+00:00",
-          "titulo": "‘We know everything’: Supreme Court on pleas alleging unilateral ECI decisions - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc0xwbHVKdEoyY2tTa0kzeUxFN2g1emR2a1Fic0ZIZWNSNUx6Rl90dFdCbURQSnRaQ1BwV0hYV3pKZ2ZkRXFkUW1oSDllRzVqbTZ0cElfSnY3QVBVeFU5dWpQT21WX2ZLNFAwZ3hQY3pfOTkyeldCcnR1SlNaNHp5S0oydWp0STRIcUl5U2x3RnFQSGdDSmdHbHduRThkTE9lV1dnUUNR0gGsAUFVX3lxTE5VU0gxVGladzcwMFVDSWFVTV9Mb1NQUlEyc1RLUTJ4SXJZamJxVG5nZVNmbzZrd1dWZlRyRHNTRUZVNUJrRXN4eXRSNmFGZGxtY0xtT2NsR2F5TnloYzRFaFRLXzZtU3RKMGFDM0JmWVlpeUM0WGpwcEZqc1pYd1cwcC1VNk5YRWhaMzBFMXZ1V0RfMWkyUVJ0dGhubnZOa0tONHBvT1lXYkNSYmQ?oc=5",
-          "traducida": false
         }
       ]
     },
     {
       "id": "suramerica",
       "titulo": "Sudamérica: integración y política exterior",
-      "cantidad_archivada": 165,
+      "cantidad_archivada": 166,
       "nuevas_24h": 27,
       "anteriores_24h": 48,
       "dias_con_registros": 12,
-      "fecha_ultima": "2026-10-27T16:05:22+00:00",
+      "fecha_ultima": "2026-10-27T16:24:15+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "c497cce3ddda52c5d308",
+          "fecha": "2026-10-27T16:24:15+00:00",
+          "titulo": "Flávio Bolsonaro rumoured to have fled Brazil after presidential election loss",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
+          "traducida": false
+        },
         {
           "id": "c21d194728f8f22ccd35",
           "fecha": "2026-10-27T16:05:22+00:00",
@@ -999,14 +1007,6 @@
           "fuente": "El País",
           "url": "https://elpais.com/internacional/2026-10-26/el-vaticano-confirma-que-el-papa-viajara-a-uruguay-argentina-y-peru-del-6-al-17-de-noviembre.html",
           "traducida": false
-        },
-        {
-          "id": "6794605d4e83f18da71e",
-          "fecha": "2026-10-26T16:21:46+00:00",
-          "titulo": "Watch: Lula defeats far-right Bolsonaro to secure a fourth presidential term | Above the Fold | Oct 26, 2026",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/videos/shows/watch-lula-defeats-far-right-bolsonaro-to-secure-a-fourth-presidential-term-above-the-fold-oct-26-2026/article71628339.ece",
-          "traducida": false
         }
       ]
     },
@@ -1015,7 +1015,7 @@
       "titulo": "Unión Europea y relaciones exteriores",
       "cantidad_archivada": 305,
       "nuevas_24h": 11,
-      "anteriores_24h": 26,
+      "anteriores_24h": 25,
       "dias_con_registros": 12,
       "fecha_ultima": "2026-10-27T13:50:31+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
