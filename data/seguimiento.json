@@ -1,17 +1,57 @@
 {
-  "actualizado_utc": "2026-10-28T17:28:57.860615+00:00",
+  "actualizado_utc": "2026-10-28T18:28:51.894239+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 985,
-      "nuevas_24h": 119,
-      "anteriores_24h": 120,
+      "cantidad_archivada": 991,
+      "nuevas_24h": 112,
+      "anteriores_24h": 131,
       "dias_con_registros": 13,
-      "fecha_ultima": "2026-10-28T17:25:49+00:00",
+      "fecha_ultima": "2026-10-28T18:19:26+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "f47615bed4f04b321d32",
+          "fecha": "2026-10-28T18:19:26+00:00",
+          "titulo": "Europe realizes it must talk to Russia to end Ukraine conflict — Slovak prime minister",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2209741",
+          "traducida": false
+        },
+        {
+          "id": "140727231b9dff3f688a",
+          "fecha": "2026-10-28T18:10:16+00:00",
+          "titulo": "Russian Agriculture Ministry sees prospects for grain hub in Alexandria",
+          "fuente": "TASS",
+          "url": "https://tass.com/economy/2209739",
+          "traducida": false
+        },
+        {
+          "id": "1a7b82065b4fac4d70b5",
+          "fecha": "2026-10-28T17:57:10+00:00",
+          "titulo": "Russia’s Kasabiyeva wins gold at 2026 World Wrestling Championships",
+          "fuente": "TASS",
+          "url": "https://tass.com/sports/2209735",
+          "traducida": false
+        },
+        {
+          "id": "02b3dde116ecc3327244",
+          "fecha": "2026-10-28T17:48:42+00:00",
+          "titulo": "Ukrainian detained in Monaco on suspicion of involvement in prince's relative death-paper",
+          "fuente": "TASS",
+          "url": "https://tass.com/society/2209733",
+          "traducida": false
+        },
+        {
+          "id": "7eb9676d1adffa08ed9d",
+          "fecha": "2026-10-28T17:26:05+00:00",
+          "titulo": "Trump says Putin-Zelensky meeting to be set up 'very soon'",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/trump-says-putin-zelensky-meeting-to-be-set-up-very-soon/article71637712.ece",
+          "traducida": false
+        },
         {
           "id": "f92d78d0f20797e4e920",
           "fecha": "2026-10-28T17:25:49+00:00",
@@ -26,6 +66,14 @@
           "titulo": "Putin meets with Egyptian President al-Sisi",
           "fuente": "TASS",
           "url": "https://tass.com/politics/2209721",
+          "traducida": false
+        },
+        {
+          "id": "937af9b3be8879f35e28",
+          "fecha": "2026-10-28T17:04:00+00:00",
+          "titulo": "Evacuation from Oleshky: How are preparations going?",
+          "fuente": "Deutsche Welle",
+          "url": "https://www.dw.com/en/evacuation-from-oleshky-how-are-preparations-going/a-79790001?maca=en-rss-en-world-4025-rdf",
           "traducida": false
         },
         {
@@ -203,67 +251,51 @@
           "fuente": "TASS",
           "url": "https://tass.com/economy/2209627",
           "traducida": false
-        },
-        {
-          "id": "d7f4dfb76ea00a315fe7",
-          "fecha": "2026-10-28T14:27:06+00:00",
-          "titulo": "Russia aims to assist Africa with energy planning, hydrocarbon hubs — Energy Minister",
-          "fuente": "TASS",
-          "url": "https://tass.com/economy/2209613",
-          "traducida": false
-        },
-        {
-          "id": "02ec86065e60107ba6c8",
-          "fecha": "2026-10-28T14:24:16+00:00",
-          "titulo": "No dates set for Ukraine talks in Abu Dhabi; coordination process underway — TASS source",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2209625",
-          "traducida": false
-        },
-        {
-          "id": "d767dd992de40be68544",
-          "fecha": "2026-10-28T14:22:39+00:00",
-          "titulo": "Russia, United states need to agree upon positions for Arctic development",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2209619",
-          "traducida": false
-        },
-        {
-          "id": "234c56e9099a886aa8e7",
-          "fecha": "2026-10-28T14:17:48+00:00",
-          "titulo": "Putin speaks at Russia-Africa summit about tech race, new global era, Western colonialism",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2209603",
-          "traducida": false
-        },
-        {
-          "id": "d1ec9ff6dd28d79175cf",
-          "fecha": "2026-10-28T13:59:59+00:00",
-          "titulo": "Russia plans to establish transport hub on Africa's east coast — Deputy Foreign Minister",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2209589",
-          "traducida": false
-        },
-        {
-          "id": "bd947c4702bafdd7fb0e",
-          "fecha": "2026-10-28T13:47:44+00:00",
-          "titulo": "Russian Embassy in Spain conveys condolences over tragic train collision",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2209573",
-          "traducida": false
         }
       ]
     },
     {
       "id": "oriente-medio",
       "titulo": "Oriente Medio: seguridad y diplomacia",
-      "cantidad_archivada": 620,
-      "nuevas_24h": 91,
-      "anteriores_24h": 84,
+      "cantidad_archivada": 624,
+      "nuevas_24h": 89,
+      "anteriores_24h": 89,
       "dias_con_registros": 13,
-      "fecha_ultima": "2026-10-28T16:59:47+00:00",
+      "fecha_ultima": "2026-10-28T17:47:44+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "19e8687d3c3ce5f23430",
+          "fecha": "2026-10-28T17:47:44+00:00",
+          "titulo": "Iran warns of 'devastating' economic fallout from any new Israeli attack",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/iran-warns-of-devastating-economic-fallout-from-any-new-israeli-attack/article71637747.ece",
+          "traducida": false
+        },
+        {
+          "id": "84a326476a49dd706ebc",
+          "fecha": "2026-10-28T17:47:33+00:00",
+          "titulo": "Iran continues to pursue diplomacy, remains in contact with mediators — foreign minister",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2209731",
+          "traducida": false
+        },
+        {
+          "id": "bf6561b2fbae85f00e9d",
+          "fecha": "2026-10-28T17:39:33+00:00",
+          "titulo": "Netanyahu set to remain caretaker PM after inconclusive Israel election",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3372487/netanyahu-set-remain-caretaker-pm-after-inconclusive-israel-election",
+          "traducida": false
+        },
+        {
+          "id": "126308cd8ccec22bb30d",
+          "fecha": "2026-10-28T17:39:13+00:00",
+          "titulo": "News Analysis | What has driven the high Arab turnout in Israel’s elections?",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/news-analysis-what-has-driven-the-high-arab-turnout-in-israels-elections/article71637664.ece",
+          "traducida": false
+        },
         {
           "id": "d1f92f29ac2ee13c2aef",
           "fecha": "2026-10-28T16:59:47+00:00",
@@ -471,47 +503,15 @@
           "fuente": "Al Jazeera",
           "url": "https://www.aljazeera.com/features/2026/10/28/gaza-families-brace-for-a-fourth-winter-of-wind-rain-and-floods-in-camps?traffic_source=rss",
           "traducida": false
-        },
-        {
-          "id": "1c7e1d52891dca66fbfb",
-          "fecha": "2026-10-28T11:33:27+00:00",
-          "titulo": "Both blocs claim upper hand in crucial Israeli election | First Thing",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/oct/28/first-thing-israeli-election-elon-musk-ai-odyssey",
-          "traducida": false
-        },
-        {
-          "id": "00ead2d542bfafcb3870",
-          "fecha": "2026-10-28T11:33:13+00:00",
-          "titulo": "High voter turnout among Palestinian citizens of Israel threatens Netanyahu",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/28/high-voter-turnout-from-palestinian-citizens-of-israel-threatens-netanyahu?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "8a7f1cd606cd41a4f8f4",
-          "fecha": "2026-10-28T11:26:20+00:00",
-          "titulo": "Israel elections: Understanding how Knesset polls work vs India’s system",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/how-israel-elections-work-understanding-knesset-elections-vs-india/article71634802.ece",
-          "traducida": false
-        },
-        {
-          "id": "f1af0c279dfde4d45e2a",
-          "fecha": "2026-10-28T11:21:01+00:00",
-          "titulo": "Coalition talks loom in Israel as Netanyahu and Eisenkot blocs set to fall short of majority",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb",
-          "traducida": false
         }
       ]
     },
     {
       "id": "india-asia",
       "titulo": "India y Asia-Pacífico",
-      "cantidad_archivada": 302,
-      "nuevas_24h": 70,
-      "anteriores_24h": 86,
+      "cantidad_archivada": 304,
+      "nuevas_24h": 68,
+      "anteriores_24h": 90,
       "dias_con_registros": 13,
       "fecha_ultima": "2026-10-28T16:39:08+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -761,13 +761,21 @@
     {
       "id": "suramerica",
       "titulo": "Sudamérica: integración y política exterior",
-      "cantidad_archivada": 192,
-      "nuevas_24h": 23,
-      "anteriores_24h": 30,
+      "cantidad_archivada": 194,
+      "nuevas_24h": 22,
+      "anteriores_24h": 29,
       "dias_con_registros": 13,
-      "fecha_ultima": "2026-10-28T17:13:28+00:00",
+      "fecha_ultima": "2026-10-28T18:12:01+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "4f3bb516c7e66141e1db",
+          "fecha": "2026-10-28T18:12:01+00:00",
+          "titulo": "‘It all happened in a split-second’: survivors recount details of Spain’s second deadly train crash in 10 months",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/28/it-all-happened-in-a-split-second-survivors-recount-details-of-spains-second-deadly-train-crash-in-10-months",
+          "traducida": false
+        },
         {
           "id": "f1699ec7b6c0cd668d83",
           "fecha": "2026-10-28T17:13:28+00:00",
@@ -782,6 +790,14 @@
           "titulo": "Russia says determined to continue working with Brazil to strengthen partnership",
           "fuente": "TASS",
           "url": "https://tass.com/politics/2209709",
+          "traducida": false
+        },
+        {
+          "id": "6bb2e9a9f6282e7d03a5",
+          "fecha": "2026-10-28T16:30:29+00:00",
+          "titulo": "What we know as Flávio Bolsonaro lands in US after Brazil election loss",
+          "fuente": "BBC News",
+          "url": "https://www.bbc.co.uk/news/videos/c6x29djyx7g9o?at_medium=RSS&at_campaign=rss",
           "traducida": false
         },
         {
@@ -990,22 +1006,6 @@
           "titulo": "Lula’s victory echoes across BRICS after fears of a Bolsonaro win",
           "fuente": "Al Jazeera",
           "url": "https://www.aljazeera.com/news-analysis/2026/10/27/lulas-victory-echoes-across-brics-after-fears-over-a-bolsonaro-win?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "1e8b1f5a2b14f8425d98",
-          "fecha": "2026-10-27T16:03:31+00:00",
-          "titulo": "Brazilian police probe claims Flávio Bolsonaro fled via Argentina after election defeat",
-          "fuente": "Euronews",
-          "url": "https://www.euronews.com/2026/10/27/brazilian-police-probe-claims-flavio-bolsonaro-fled-to-argentina-after-election-defeat",
-          "traducida": false
-        },
-        {
-          "id": "58bd15a49eb47e3979b2",
-          "fecha": "2026-10-27T15:00:14+00:00",
-          "titulo": "Lula’s win in Brazil deals blow to Trump’s Latin America push: former China envoy",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3372318/lulas-win-brazil-deals-blow-trumps-latin-america-push-former-china-envoy",
           "traducida": false
         }
       ]
@@ -1519,7 +1519,7 @@
       "titulo": "Naciones Unidas y multilateralismo",
       "cantidad_archivada": 26,
       "nuevas_24h": 2,
-      "anteriores_24h": 4,
+      "anteriores_24h": 3,
       "dias_con_registros": 9,
       "fecha_ultima": "2026-10-28T07:56:27+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -1735,6 +1735,58 @@
       ]
     },
     {
+      "id": "peru-mundo",
+      "titulo": "Perú en el sistema internacional",
+      "cantidad_archivada": 5,
+      "nuevas_24h": 1,
+      "anteriores_24h": 0,
+      "dias_con_registros": 4,
+      "fecha_ultima": "2026-10-28T18:12:01+00:00",
+      "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
+      "publicaciones": [
+        {
+          "id": "4f3bb516c7e66141e1db",
+          "fecha": "2026-10-28T18:12:01+00:00",
+          "titulo": "‘It all happened in a split-second’: survivors recount details of Spain’s second deadly train crash in 10 months",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/28/it-all-happened-in-a-split-second-survivors-recount-details-of-spains-second-deadly-train-crash-in-10-months",
+          "traducida": false
+        },
+        {
+          "id": "0294c96f21e83b5a5532",
+          "fecha": "2026-10-26T17:59:09+00:00",
+          "titulo": "Pope Leo XIV confirms Latin America trip after recovering from surgery",
+          "fuente": "Euronews",
+          "url": "https://www.euronews.com/2026/10/26/pope-leo-xiv-confirms-latin-america-trip-after-recovering-from-surgery",
+          "traducida": false
+        },
+        {
+          "id": "7ce889c201d5eddf6cd3",
+          "fecha": "2026-10-26T16:23:00+00:00",
+          "titulo": "El Vaticano confirma que el Papa viajará a Uruguay, Argentina y Perú del 6 al 17 de noviembre",
+          "fuente": "El País",
+          "url": "https://elpais.com/internacional/2026-10-26/el-vaticano-confirma-que-el-papa-viajara-a-uruguay-argentina-y-peru-del-6-al-17-de-noviembre.html",
+          "traducida": false
+        },
+        {
+          "id": "0d3d4d56ed0bf1a93ad3",
+          "fecha": "2026-10-22T10:28:00+00:00",
+          "titulo": "Papa não precisará de mais tratamento contra o câncer, dizem médicos",
+          "fuente": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/papa-nao-precisara-de-mais-tratamento-contra-o-cancer-dizem-medicos",
+          "traducida": false
+        },
+        {
+          "id": "a140491b8307de63b2cd",
+          "fecha": "2026-10-20T12:00:36+00:00",
+          "titulo": "Giving £2 a day to people in the Amazon helps protect rainforest, pilot project finds",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/environment/2026/oct/20/unconditional-basic-income-amazon-rainforest-peru-study",
+          "traducida": false
+        }
+      ]
+    },
+    {
       "id": "china-taiwan",
       "titulo": "China y Taiwán",
       "cantidad_archivada": 21,
@@ -1910,50 +1962,6 @@
           "titulo": "‘Hybrid warfare’: Taiwan drives away 16 Chinese ships",
           "fuente": "Al Jazeera",
           "url": "https://www.aljazeera.com/news/2026/10/18/taiwan-drives-away-16-chinese-ships-accused-of-maritime-harassment?traffic_source=rss",
-          "traducida": false
-        }
-      ]
-    },
-    {
-      "id": "peru-mundo",
-      "titulo": "Perú en el sistema internacional",
-      "cantidad_archivada": 4,
-      "nuevas_24h": 0,
-      "anteriores_24h": 1,
-      "dias_con_registros": 3,
-      "fecha_ultima": "2026-10-26T17:59:09+00:00",
-      "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
-      "publicaciones": [
-        {
-          "id": "0294c96f21e83b5a5532",
-          "fecha": "2026-10-26T17:59:09+00:00",
-          "titulo": "Pope Leo XIV confirms Latin America trip after recovering from surgery",
-          "fuente": "Euronews",
-          "url": "https://www.euronews.com/2026/10/26/pope-leo-xiv-confirms-latin-america-trip-after-recovering-from-surgery",
-          "traducida": false
-        },
-        {
-          "id": "7ce889c201d5eddf6cd3",
-          "fecha": "2026-10-26T16:23:00+00:00",
-          "titulo": "El Vaticano confirma que el Papa viajará a Uruguay, Argentina y Perú del 6 al 17 de noviembre",
-          "fuente": "El País",
-          "url": "https://elpais.com/internacional/2026-10-26/el-vaticano-confirma-que-el-papa-viajara-a-uruguay-argentina-y-peru-del-6-al-17-de-noviembre.html",
-          "traducida": false
-        },
-        {
-          "id": "0d3d4d56ed0bf1a93ad3",
-          "fecha": "2026-10-22T10:28:00+00:00",
-          "titulo": "Papa não precisará de mais tratamento contra o câncer, dizem médicos",
-          "fuente": "Agência Brasil (EBC)",
-          "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/papa-nao-precisara-de-mais-tratamento-contra-o-cancer-dizem-medicos",
-          "traducida": false
-        },
-        {
-          "id": "a140491b8307de63b2cd",
-          "fecha": "2026-10-20T12:00:36+00:00",
-          "titulo": "Giving £2 a day to people in the Amazon helps protect rainforest, pilot project finds",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/environment/2026/oct/20/unconditional-basic-income-amazon-rainforest-peru-study",
           "traducida": false
         }
       ]
