@@ -1,17 +1,25 @@
 {
-  "actualizado_utc": "2026-10-28T17:11:37.213422+00:00",
+  "actualizado_utc": "2026-10-28T17:28:57.860615+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 984,
-      "nuevas_24h": 122,
+      "cantidad_archivada": 985,
+      "nuevas_24h": 119,
       "anteriores_24h": 120,
       "dias_con_registros": 13,
-      "fecha_ultima": "2026-10-28T17:05:41+00:00",
+      "fecha_ultima": "2026-10-28T17:25:49+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "f92d78d0f20797e4e920",
+          "fecha": "2026-10-28T17:25:49+00:00",
+          "titulo": "Putin notes steady increase of trade turnover between Russia and Egypt",
+          "fuente": "TASS",
+          "url": "https://tass.com/economy/2209727",
+          "traducida": false
+        },
         {
           "id": "c3d719a7616c65d49d4a",
           "fecha": "2026-10-28T17:05:41+00:00",
@@ -243,27 +251,27 @@
           "fuente": "TASS",
           "url": "https://tass.com/politics/2209573",
           "traducida": false
-        },
-        {
-          "id": "c5c612b303e813b283bc",
-          "fecha": "2026-10-28T13:44:30+00:00",
-          "titulo": "Russia builds highly efficient fishing fleet — Putin",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2209569",
-          "traducida": false
         }
       ]
     },
     {
       "id": "oriente-medio",
       "titulo": "Oriente Medio: seguridad y diplomacia",
-      "cantidad_archivada": 619,
-      "nuevas_24h": 92,
-      "anteriores_24h": 82,
+      "cantidad_archivada": 620,
+      "nuevas_24h": 91,
+      "anteriores_24h": 84,
       "dias_con_registros": 13,
-      "fecha_ultima": "2026-10-28T16:56:10+00:00",
+      "fecha_ultima": "2026-10-28T16:59:47+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "d1f92f29ac2ee13c2aef",
+          "fecha": "2026-10-28T16:59:47+00:00",
+          "titulo": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+          "fuente": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+          "traducida": false
+        },
         {
           "id": "dcf344de086bdca3e438",
           "fecha": "2026-10-28T16:56:10+00:00",
@@ -494,14 +502,6 @@
           "titulo": "Coalition talks loom in Israel as Netanyahu and Eisenkot blocs set to fall short of majority",
           "fuente": "The Guardian",
           "url": "https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb",
-          "traducida": false
-        },
-        {
-          "id": "2576d755174b4073a789",
-          "fecha": "2026-10-28T11:06:41+00:00",
-          "titulo": "Assailant outside Israeli embassy in Serbia killed after attacking police officer",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/world/europe/article/3372460/assailant-outside-israeli-embassy-serbia-killed-after-attacking-police-officer",
           "traducida": false
         }
       ]
@@ -761,13 +761,21 @@
     {
       "id": "suramerica",
       "titulo": "Sudamérica: integración y política exterior",
-      "cantidad_archivada": 191,
-      "nuevas_24h": 24,
-      "anteriores_24h": 28,
+      "cantidad_archivada": 192,
+      "nuevas_24h": 23,
+      "anteriores_24h": 30,
       "dias_con_registros": 13,
-      "fecha_ultima": "2026-10-28T16:39:08+00:00",
+      "fecha_ultima": "2026-10-28T17:13:28+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "f1699ec7b6c0cd668d83",
+          "fecha": "2026-10-28T17:13:28+00:00",
+          "titulo": "Fuite de Flavio Bolsonaro : en Argentine, l’opposition accuse Javier Milei de l’avoir aidé à rejoindre les Etats-Unis",
+          "fuente": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/10/28/fuite-de-flavio-bolsonaro-en-argentine-l-opposition-accuse-javier-milei-de-l-avoir-aide-a-rejoindre-les-etats-unis_6801619_3210.html",
+          "traducida": false
+        },
         {
           "id": "015240e75c02872f789c",
           "fecha": "2026-10-28T16:39:08+00:00",
@@ -999,14 +1007,6 @@
           "fuente": "South China Morning Post",
           "url": "https://www.scmp.com/news/china/diplomacy/article/3372318/lulas-win-brazil-deals-blow-trumps-latin-america-push-former-china-envoy",
           "traducida": false
-        },
-        {
-          "id": "f066515c9fb9f7068ec6",
-          "fecha": "2026-10-27T13:58:59+00:00",
-          "titulo": "Lula’s win gives Brazil an opportunity to cement its climate leadership, but challenges remain",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/science/lulas-win-gives-brazil-an-opportunity-to-cement-its-climate-leadership-but-challenges-remain/article71631670.ece",
-          "traducida": false
         }
       ]
     },
@@ -1014,8 +1014,8 @@
       "id": "union-europea",
       "titulo": "Unión Europea y relaciones exteriores",
       "cantidad_archivada": 320,
-      "nuevas_24h": 15,
-      "anteriores_24h": 11,
+      "nuevas_24h": 14,
+      "anteriores_24h": 12,
       "dias_con_registros": 13,
       "fecha_ultima": "2026-10-28T16:45:25+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -1519,7 +1519,7 @@
       "titulo": "Naciones Unidas y multilateralismo",
       "cantidad_archivada": 26,
       "nuevas_24h": 2,
-      "anteriores_24h": 5,
+      "anteriores_24h": 4,
       "dias_con_registros": 9,
       "fecha_ultima": "2026-10-28T07:56:27+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",

@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-10-28T17:11:37.152230+00:00",
+  "created_utc": "2026-10-28T17:28:57.809615+00:00",
   "events": [
     {
       "id": "a-f63691d5e47598038964",
@@ -184,6 +184,52 @@
       "prioridad_orientativa": 8,
       "motivos_seleccion": [
         "Actores relevantes: China, Unión Europea",
+        "Ámbito: Comercio y finanzas",
+        "Posible decisión institucional o negociación"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-f92d78d0f20797e4e920",
+      "fecha": "2026-10-28",
+      "titulo_fuente": "Putin notes steady increase of trade turnover between Russia and Egypt",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "f92d78d0f20797e4e920",
+          "titulo_original": "Putin notes steady increase of trade turnover between Russia and Egypt",
+          "titulo_es": "Putin observa un aumento constante de la rotación comercial entre Rusia y Egipto",
+          "url": "https://tass.com/economy/2209727",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-10-28T17:25:49+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "In the first eight months of this year its volume has already increased by 14%, the Russian president noted",
+          "resumen_es": "En los primeros ocho meses de este año su volumen ya ha aumentado un 14%, señaló el presidente ruso"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Rusia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia compleja y economía política internacional",
+        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia",
         "Ámbito: Comercio y finanzas",
         "Posible decisión institucional o negociación"
       ],
@@ -1667,6 +1713,50 @@
       "motivos_seleccion": [
         "Actores relevantes: Irán",
         "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-14f3aad73f16d6e93b26",
+      "fecha": "2026-10-28",
+      "titulo_fuente": "Canada-EU summit: What do both sides want, and what’s at stake?",
+      "region": "Internacional",
+      "temas": [
+        "Diplomacia",
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "14f3aad73f16d6e93b26",
+          "titulo_original": "Canada-EU summit: What do both sides want, and what’s at stake?",
+          "titulo_es": "Cumbre Canadá-UE: ¿Qué quieren ambos lados, y qué está en juego?",
+          "url": "https://www.aljazeera.com/economy/2026/10/28/canada-eu-summit-what-do-both-sides-want-and-whats-at-stake?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-10-28T16:54:51+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The EU has proposed to make Canada its first associate member amid tensions over US tariffs.",
+          "resumen_es": "La UE ha propuesto hacer de Canadá su primer miembro asociado en medio de tensiones sobre los aranceles estadounidenses."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Ámbito: Comercio y finanzas, Diplomacia",
+        "Posible decisión institucional o negociación"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -5563,6 +5653,65 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-d1f92f29ac2ee13c2aef",
+      "fecha": "2026-10-28",
+      "titulo_fuente": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "region": "Oriente Medio",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "d1f92f29ac2ee13c2aef",
+          "titulo_original": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+          "titulo_es": "El bloque de Netanyahu liderando las elecciones de Israel pero poco mayoritariamente, resultados parciales muestran",
+          "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News",
+          "pais": "Reino Unido",
+          "fecha": "2026-10-28T16:59:47+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
+          "resumen_es": "Con el 85% de los votos contados, el partido Likud de Netanyahu y sus aliados están listos para ganar 53 asientos en el Knesset de 120 asientos."
+        },
+        {
+          "id": "a46c124bc6fa2fef1b3f",
+          "titulo_original": "Israel election results live: Netanyahu bloc and main opposition set to fall short of majority as 84% of ballots counted",
+          "titulo_es": "Los resultados electorales de Israel viven: Netanyahu bloque y la oposición principal se desprendió de la mayoría al 84% de las votaciones contadas",
+          "url": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-10-28T12:06:09+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Opposition bloc and Netanyahu’s coalition predicted to fall short of 61 seats needed to form a government, while Palestinian parties set for big gains Full report: Coalition talks loom as Israel exit polls suggest Netanyahu and Eisenkot blocs tied Analysis: Rise of Palestinian parties in Knesset will redraw Israel’s political landscape Israel election: what we know so far One apparent loser from Tuesday’s election was far-right national security ",
+          "resumen_es": "El bloque de oposición y la coalición de Netanyahu predijeron que no quedan 61 escaños necesarios para formar un gobierno, mientras que los partidos palestinos establecen grandes ganancias Informe completo: Las conversaciones de la coalición se acaban cuando las encuestas de salida de Israel sugieren Netanyahu y Eisenkot blo"
+        }
+      ],
+      "fuentes": [
+        "BBC News",
+        "The Guardian"
+      ],
+      "actores_mencionados": [
+        "Israel",
+        "Palestina"
+      ],
+      "fuentes_independientes": 2,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 3,
+      "motivos_seleccion": [
+        "Cobertura de fuentes distintas",
+        "Actores relevantes: Israel"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-3fd2de65e1625a9bc5f5",
       "fecha": "2026-10-28",
       "titulo_fuente": "Real Madrid apologise to Chinese people for Mbappe’s Mao ‘dictator’ remark",
@@ -5672,6 +5821,177 @@
       "motivos_seleccion": [
         "Cobertura de fuentes distintas",
         "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-1f6376c81a0db6abf654",
+      "fecha": "2026-10-28",
+      "titulo_fuente": "Energy elections loom worldwide - Politico",
+      "region": "Internacional",
+      "temas": [
+        "Energía y clima"
+      ],
+      "noticias": [
+        {
+          "id": "1f6376c81a0db6abf654",
+          "titulo_original": "Energy elections loom worldwide - Politico",
+          "titulo_es": "Elecciones energéticas en todo el mundo - Politico",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRHdaRm5aYjVHc21PTE1mcmt1Z1ZDdERwWk5DZ19iYlM3SkJiWGhUck5tRkxCMFhEQzZ2UnFXOG9JeXRYWXNPZngzMmI1NlloRHh6WmtFSjQtWDFTTWNGeVJWVDFtYU1vZ2pNQ0NnNUpQOXBQdTBtNVRHc3FxcVFXWEtZVlNQXzFTQUttSjVta05kMWktN0kxZXV4bnRYeEFodzdvWVFB?oc=5",
+          "fuente": "POLITICO US",
+          "pais": "Estados Unidos",
+          "fecha": "2026-10-28T17:19:24+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Energy elections loom worldwide Politico",
+          "resumen_es": "Las elecciones energéticas se acercan a todo el mundo"
+        }
+      ],
+      "fuentes": [
+        "POLITICO US"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia y gobernanza global",
+        "pregunta": "¿Cómo se distribuyen los costos de coordinación y los incentivos para cooperar?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Energía y clima"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-a2a959b7ac607b422ef5",
+      "fecha": "2026-10-28",
+      "titulo_fuente": "Afghan-Pakistan border clash kills one, injures five",
+      "region": "Asia-Pacífico",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "a2a959b7ac607b422ef5",
+          "titulo_original": "Afghan-Pakistan border clash kills one, injures five",
+          "titulo_es": "El enfrentamiento fronterizo entre el Afganistán y el Pakistán mata a uno, y lesiona a cinco",
+          "url": "https://www.thehindu.com/news/international/afghan-pakistan-border-clash-kills-one-injures-five/article71637670.ece",
+          "fuente": "The Hindu",
+          "pais": "India",
+          "fecha": "2026-10-28T17:16:25+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The countries went to war earlier this year and, with no permanent resolution reached on security issues, there have been sporadic attacks since a March truce",
+          "resumen_es": "Los países fueron a la guerra a principios de este año y, sin ninguna resolución permanente sobre cuestiones de seguridad, se han producido ataques esporádicos desde una tregua de marzo"
+        }
+      ],
+      "fuentes": [
+        "The Hindu"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-7fa6d176f1666bf76dae",
+      "fecha": "2026-10-28",
+      "titulo_fuente": "The bottomless depths of Donald Trump’s midterm rally bigotry",
+      "region": "Estados Unidos",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "7fa6d176f1666bf76dae",
+          "titulo_original": "The bottomless depths of Donald Trump’s midterm rally bigotry",
+          "titulo_es": "Las profundidades infundadas del rallye de mitad de período de Donald Trump",
+          "url": "https://www.theguardian.com/us-news/2026/oct/27/trump-obama-rally-midterms-analysis",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-10-28T17:11:04+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Both Obama and Trump are on the campaign trail, but only one of them appears to be descending into madness This was originally published in This Week in Trumpland. Sign up to receive it in your inbox every Wednesday . Barack Obama versus Donald Trump . It is the presidential election that never happened but has come to define an era of US politics. Obama is back on the campaign trail for the midterms, still electrifying crowds, earning shouts of ",
+          "resumen_es": "Tanto Obama como Trump están en el camino de la campaña, pero sólo uno de ellos parece estar descendiendo a la locura Esto fue publicado originalmente en esta semana en Trumpland. Regístrese para recibirlo en su buzón de entrada cada miércoles . Barack Obama contra Do"
+        }
+      ],
+      "fuentes": [
+        "The Guardian"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-154e94da0b06d1ed15aa",
+      "fecha": "2026-10-28",
+      "titulo_fuente": "Sudan war and inflation leave families struggling to survive in Khartoum",
+      "region": "África",
+      "temas": [
+        "Seguridad y conflictos",
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "154e94da0b06d1ed15aa",
+          "titulo_original": "Sudan war and inflation leave families struggling to survive in Khartoum",
+          "titulo_es": "La guerra y la inflación del Sudán dejan a las familias que luchan por sobrevivir en Jartum",
+          "url": "https://www.aljazeera.com/features/2026/10/28/sudan-war-and-inflation-leave-families-struggling-to-survive-in-khartoum?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-10-28T17:09:05+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Soaring food prices and shrinking incomes force families in Sudan's capital to borrow money and skip meals.",
+          "resumen_es": "El uso de los precios de los alimentos y la reducción de los ingresos obligan a las familias en la capital de Sudán a pedir prestado dinero y evitar las comidas."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Comercio y finanzas, Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6575,308 +6895,6 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Ámbito: Comercio y finanzas, Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-13c8c90001214fbbd8d4",
-      "fecha": "2026-10-28",
-      "titulo_fuente": "What is the controversy between Real Madrid’s Kylian Mbappe and China?",
-      "region": "China",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "13c8c90001214fbbd8d4",
-          "titulo_original": "What is the controversy between Real Madrid’s Kylian Mbappe and China?",
-          "titulo_es": "¿Cuál es la controversia entre Kylian Mbappe del Real Madrid y China?",
-          "url": "https://www.aljazeera.com/sports/2026/10/28/kylian-mbappe-china-meme-mao-zedong-la-liga-real-madrid?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-10-28T15:36:39+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The French superstar's comments about Mao Zedong have drawn the ire of China, a lucrative market for sports teams.",
-          "resumen_es": "Los comentarios de la superestrella francesa sobre Mao Zedong han dibujado el ire de China, un mercado lucrativo para los equipos deportivos."
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera"
-      ],
-      "actores_mencionados": [
-        "China"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: China"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-879369f98236e5c0045e",
-      "fecha": "2026-10-28",
-      "titulo_fuente": "Europe displeased with Stubb and Store’s call to Putin — newspaper",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "879369f98236e5c0045e",
-          "titulo_original": "Europe displeased with Stubb and Store’s call to Putin — newspaper",
-          "titulo_es": "Europa disgustada con la llamada de Stubb y Store a Putin — periódico",
-          "url": "https://tass.com/world/2209661",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-28T15:35:09+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "An unnamed official from a European country said that individual countries holding talks with Russia undermined Europe’s united voice and was a bad idea",
-          "resumen_es": "Un funcionario sin nombre de un país europeo dijo que países individuales que mantienen conversaciones con Rusia socavaron la voz unida de Europa y fue una mala idea"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-d2bc02f157b3335dde71",
-      "fecha": "2026-10-28",
-      "titulo_fuente": "Ethiopie : au moins 50 000 personnes ont fui au Kenya, en raison d’affrontements dans le sud du pays",
-      "region": "Internacional",
-      "temas": [
-        "Organismos multilaterales"
-      ],
-      "noticias": [
-        {
-          "id": "d2bc02f157b3335dde71",
-          "titulo_original": "Ethiopie : au moins 50 000 personnes ont fui au Kenya, en raison d’affrontements dans le sud du pays",
-          "titulo_es": "",
-          "url": "https://www.lemonde.fr/afrique/article/2026/10/28/ethiopie-au-moins-50-000-personnes-ont-fui-au-kenya-en-raison-d-affrontements-dans-le-sud-du-pays_6801596_3212.html",
-          "fuente": "Le Monde",
-          "pais": "Francia",
-          "fecha": "2026-10-28T15:22:48+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Depuis qu’un conflit entre les forces armées de deux régions du sud de l’Ethiopie a éclaté, le 20 octobre, des dizaines de milliers d’Ethiopiens traversent la frontière vers le Kenya pour y trouver refuge, alerte l’ONU.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Le Monde"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Institucionalismo liberal",
-        "pregunta": "¿Qué reglas, mecanismos de cooperación y límites institucionales afectan la decisión?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Organismos multilaterales"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-17624476185c79140713",
-      "fecha": "2026-10-28",
-      "titulo_fuente": "US lawmakers demand action on overcharging at 7-Eleven, Dollar General and other chains",
-      "region": "Internacional",
-      "temas": [
-        "Comercio y finanzas"
-      ],
-      "noticias": [
-        {
-          "id": "17624476185c79140713",
-          "titulo_original": "US lawmakers demand action on overcharging at 7-Eleven, Dollar General and other chains",
-          "titulo_es": "Los legisladores estadounidenses demandan acción sobre sobrecarga a 7-Eleven, Dólar General y otras cadenas",
-          "url": "https://www.theguardian.com/us-news/2026/oct/28/lawmakers-7-eleven-dollar-general-overcharging",
-          "fuente": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-10-28T15:20:23+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Democrats urge FTC to tackle ‘systemic failure’ of biggest convenience and dollar stores over pricing practices after Guardian investigations Thirty-four members of Congress are calling on the Federal Trade Commission to investigate reports of widespread overcharging by some of America’s most-recognized brand-name retailers. The 28 October letter to the FTC comes in direct response to Guardian investigations of four of the nation’s largest dollar",
-          "resumen_es": "Los demócratas instan a la FTC a que afronte el “insuficiencia sistémica” de mayor comodidad y tiendas de dólares sobre prácticas de precios después de las investigaciones de Guardianes Treinta y cuatro miembros del Congreso están pidiendo a la Comisión Federal de Comercio que investigue informes"
-        }
-      ],
-      "fuentes": [
-        "The Guardian"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia compleja y economía política internacional",
-        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Comercio y finanzas"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-0cda17820f65663ea4c7",
-      "fecha": "2026-10-28",
-      "titulo_fuente": "UK vows defense spending boost by 2030 but dodges hard questions",
-      "region": "Europa",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "0cda17820f65663ea4c7",
-          "titulo_original": "UK vows defense spending boost by 2030 but dodges hard questions",
-          "titulo_es": "",
-          "url": "https://www.politico.eu/article/uk-vows-defense-spending-boost-by-2030-but-dodges-hard-questions-john-healey/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "fuente": "POLITICO Europe",
-          "pais": "Unión Europea",
-          "fecha": "2026-10-28T15:18:40+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "John Healey committed to spending 3% of GDP on the nation's defences by 2030 but declined to say where he would find the money.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "POLITICO Europe"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-ba98abdc9950f5118364",
-      "fecha": "2026-10-28",
-      "titulo_fuente": "Lavrov to lead Russian delegation at G20 meeting in Atlanta — spokeswoman",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "ba98abdc9950f5118364",
-          "titulo_original": "Lavrov to lead Russian delegation at G20 meeting in Atlanta — spokeswoman",
-          "titulo_es": "",
-          "url": "https://tass.com/politics/2209645",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-28T15:12:24+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The ministerial meeting in G20 format will take place on October 30-31",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-135032545213d69522d7",
-      "fecha": "2026-10-28",
-      "titulo_fuente": "Bank of Russia raises dollar exchange rate to 80.87 rubles for October 29",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "135032545213d69522d7",
-          "titulo_original": "Bank of Russia raises dollar exchange rate to 80.87 rubles for October 29",
-          "titulo_es": "",
-          "url": "https://tass.com/economy/2209647",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-28T15:11:18+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The official euro exchange rate has been raised by 6.83 kopecks to 90.166 rubles",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
