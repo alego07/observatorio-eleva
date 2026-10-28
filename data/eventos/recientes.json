@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-10-28T18:57:20.685824+00:00",
+  "created_utc": "2026-10-28T19:56:41.773307+00:00",
   "events": [
     {
       "id": "a-f63691d5e47598038964",
@@ -184,6 +184,52 @@
       "motivos_seleccion": [
         "Actores relevantes: Perú",
         "Mención expresa al Perú"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-1107d3305bc3481b8277",
+      "fecha": "2026-10-28",
+      "titulo_fuente": "Trade turnover between Russia, Africa climbed above $27 bln since 2022 — Putin",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "1107d3305bc3481b8277",
+          "titulo_original": "Trade turnover between Russia, Africa climbed above $27 bln since 2022 — Putin",
+          "titulo_es": "Cambio comercial entre Rusia, África subió por encima de $27 mil desde 2022 — Putin",
+          "url": "https://tass.com/economy/2209765",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-10-28T18:58:12+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Its total volume increased by 1.5 times, the Russian president said",
+          "resumen_es": "Su volumen total aumentó en 1,5 veces, dijo el presidente ruso"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Rusia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia compleja y economía política internacional",
+        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia",
+        "Ámbito: Comercio y finanzas",
+        "Posible decisión institucional o negociación"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -1446,82 +1492,150 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-118da45780ae5f105a18",
+      "id": "a-7c2c6aa834b3f516ae08",
       "fecha": "2026-10-28",
-      "titulo_fuente": "Iran hasn't tried to repair nuclear facilities damaged in Israeli-U.S. strikes: IAEA chief",
+      "titulo_fuente": "What Trump can learn from Lula and Netanyahu",
       "region": "Oriente Medio",
       "temas": [
-        "Seguridad y conflictos",
-        "Organismos multilaterales"
+        "Actualidad"
       ],
       "noticias": [
         {
-          "id": "118da45780ae5f105a18",
-          "titulo_original": "Iran hasn't tried to repair nuclear facilities damaged in Israeli-U.S. strikes: IAEA chief",
+          "id": "7c2c6aa834b3f516ae08",
+          "titulo_original": "What Trump can learn from Lula and Netanyahu",
           "titulo_es": "",
-          "url": "https://www.thehindu.com/news/international/iran-hasnt-tried-to-repair-nuclear-facilities-damaged-in-us-strikes-iaea-chief/article71634749.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-10-28T07:56:27+00:00",
+          "url": "https://www.politico.com/news/magazine/2026/10/28/trump-lessons-lula-netanyahu-column-01138909?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "fuente": "POLITICO Europe",
+          "pais": "Unión Europea",
+          "fecha": "2026-10-28T19:38:35+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "During a UN Security Council meeting, Rafael Grossi urged Iran to give inspectors access to all nuclear sites, including those damaged in the military attacks; Iran maintains that its nuclear program is peaceful",
+          "resumen_original": "Elections in Brazil and Israel offer a blueprint back to relevancy.",
           "resumen_es": ""
+        },
+        {
+          "id": "22af66382829c0109a97",
+          "titulo_original": "What Trump Can Learn From Lula and Netanyahu - Politico",
+          "titulo_es": "Lo que Trump puede aprender de Lula y Netanyahu - Politico",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVVdqU2kxQnJQekM3NjJURVI4MS1NNDM2Wjd0b1hPQkxBSDllOWNTb1U0c1N6LUR6aWRBaUFWd2JybVBTOXVZOExza0U5QzZPS29Mekg3X0dSd0oySGFQbEJzcFpKM25PbXltZ1JFTlBZdkttbDJOTDBQeEIyWGVSS3h0dzQzRnVWeDFvdzFPTDZvVTVtWFNnV2FB?oc=5",
+          "fuente": "POLITICO US",
+          "pais": "Estados Unidos",
+          "fecha": "2026-10-28T19:33:26+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "What Trump Can Learn From Lula and Netanyahu Politico",
+          "resumen_es": "Lo que Trump puede aprender de Lula y Netanyahu Politico"
         }
       ],
       "fuentes": [
-        "The Hindu"
+        "POLITICO Europe",
+        "POLITICO US"
       ],
       "actores_mencionados": [
+        "Brasil",
         "Estados Unidos",
-        "Israel",
-        "Irán",
-        "ONU"
+        "Israel"
       ],
-      "fuentes_independientes": 1,
+      "fuentes_independientes": 2,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
       },
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
+      "prioridad_orientativa": 5,
       "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos, Irán, Israel, ONU",
-        "Ámbito: Organismos multilaterales, Seguridad y conflictos"
+        "Cobertura de fuentes distintas",
+        "Actores relevantes: Brasil, Estados Unidos, Israel"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
     },
     {
-      "id": "a-f19a69035c3a67b41439",
+      "id": "a-f68f980d677b5d3c960b",
       "fecha": "2026-10-28",
-      "titulo_fuente": "Ukraine: massive fire engulfs buildings after Russian strike on Kharkiv",
+      "titulo_fuente": "EN DIRECT, guerre en Ukraine | Le cessez-le-feu à Olechky est un « immense succès », selon Volodymyr Zelensky, qui appelle à une rencontre entre Moscou, Kiev et Washington en novembre",
       "region": "Rusia-Ucrania",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "f68f980d677b5d3c960b",
+          "titulo_original": "EN DIRECT, guerre en Ukraine | Le cessez-le-feu à Olechky est un « immense succès », selon Volodymyr Zelensky, qui appelle à une rencontre entre Moscou, Kiev et Washington en novembre",
+          "titulo_es": "",
+          "url": "https://www.lemonde.fr/international/live/2026/10/28/en-direct-guerre-en-ukraine-le-cessez-le-feu-a-olechky-est-un-immense-succes-selon-volodymyr-zelensky-qui-appelle-a-une-rencontre-entre-moscou-kiev-et-washington-en-novembre_6799896_3210.html",
+          "fuente": "Le Monde",
+          "pais": "Francia",
+          "fecha": "2026-10-28T19:25:19+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Le président ukrainien s’est, en outre, réjoui que la trêve ait accordé un répit aux habitants de Kherson, chef-lieu de l’oblast, qui se trouve face à Olechky, sur l’autre rive du Dniepr.",
+          "resumen_es": ""
+        },
+        {
+          "id": "1d0a0981322afb3b117b",
+          "titulo_original": "EN DIRECT, guerre en Ukraine | Cessez-le-feu à Olechky depuis mardi : Volodymyr Zelensky parle d’un « immense succès »",
+          "titulo_es": "",
+          "url": "https://www.lemonde.fr/international/live/2026/10/28/en-direct-guerre-en-ukraine-cessez-le-feu-a-olechky-depuis-mardi-volodymyr-zelensky-parle-d-un-immense-succes_6799896_3210.html",
+          "fuente": "Le Monde",
+          "pais": "Francia",
+          "fecha": "2026-10-28T16:19:14+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Le président ukrainien s’est, en outre, réjoui que la trêve ait accordé un répit aux habitants de Kherson, chef-lieu de l’oblast, qui se trouve face à Olechky, sur l’autre rive du Dniepr.",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "Le Monde"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Ucrania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos, Ucrania"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-e5b64acb905ad2c3c176",
+      "fecha": "2026-10-28",
+      "titulo_fuente": "What are the implications of Israel’s elections?",
+      "region": "Oriente Medio",
       "temas": [
         "Seguridad y conflictos"
       ],
       "noticias": [
         {
-          "id": "f19a69035c3a67b41439",
-          "titulo_original": "Ukraine: massive fire engulfs buildings after Russian strike on Kharkiv",
-          "titulo_es": "",
-          "url": "https://www.euronews.com/video/2026/10/28/ukraine-massive-fire-engulfs-buildings-after-russian-strike-on-kharkiv",
-          "fuente": "Euronews",
-          "pais": "Unión Europea",
-          "fecha": "2026-10-28T07:43:15+00:00",
+          "id": "e5b64acb905ad2c3c176",
+          "titulo_original": "What are the implications of Israel’s elections?",
+          "titulo_es": "¿Cuáles son las implicaciones de las elecciones de Israel?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/10/28/what-are-the-implications-of-israels-elections?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-10-28T19:03:03+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Five people, including a 4-year-old child, were injured in an overnight Russian drone strike on Kharkiv. The attack set several buildings ablaze, with firefighters working under the threat of further strikes.",
-          "resumen_es": ""
+          "resumen_original": "No clear winner in Israel's first election since the October 7 attacks and genocidal war in Gaza.",
+          "resumen_es": "Ningún ganador claro en la primera elección de Israel desde los ataques del 7 de octubre y la guerra genocida en Gaza."
         }
       ],
       "fuentes": [
-        "Euronews"
+        "Al Jazeera"
       ],
       "actores_mencionados": [
-        "Rusia",
-        "Ucrania"
+        "Israel",
+        "Palestina"
       ],
       "fuentes_independientes": 1,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
@@ -1532,57 +1646,55 @@
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
+      "prioridad_orientativa": 4,
       "motivos_seleccion": [
-        "Actores relevantes: Rusia, Ucrania",
+        "Actores relevantes: Israel",
         "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
     },
     {
-      "id": "a-26ca8504f10631845c9e",
+      "id": "a-17cec6790fd72953802b",
       "fecha": "2026-10-28",
-      "titulo_fuente": "Trump drastically loosens oil and gas methane rules",
-      "region": "Oriente Medio",
+      "titulo_fuente": "Putin tells African leaders Moscow will not pursue ‘neo-colonialism’",
+      "region": "Rusia-Ucrania",
       "temas": [
-        "Seguridad y conflictos",
-        "Energía y clima"
+        "Diplomacia"
       ],
       "noticias": [
         {
-          "id": "26ca8504f10631845c9e",
-          "titulo_original": "Trump drastically loosens oil and gas methane rules",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/sci-tech/energy-and-environment/trump-drastically-loosens-oil-and-gas-methane-rules/article71634215.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-10-28T07:30:13+00:00",
+          "id": "17cec6790fd72953802b",
+          "titulo_original": "Putin tells African leaders Moscow will not pursue ‘neo-colonialism’",
+          "titulo_es": "Putin dice que los líderes africanos Moscú no perseguirá el \"neocolonialismo\" ’",
+          "url": "https://www.aljazeera.com/news/2026/10/28/putin-tells-african-leaders-moscow-will-not-pursue-neo-colonialism?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-10-28T19:01:46+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Mr. Trump is pushing ways of bringing down energy costs ahead of the midterms, amid voter anger over soaring oil costs caused by his war on Iran",
-          "resumen_es": ""
+          "resumen_original": "Speaking at the third Russia-Africa Summit, Putin frames Moscow as an alternative to former colonial powers.",
+          "resumen_es": "Hablando en la tercera Cumbre Rusia-África, Putin enmarca a Moscú como una alternativa a las antiguas potencias coloniales."
         }
       ],
       "fuentes": [
-        "The Hindu"
+        "Al Jazeera"
       ],
       "actores_mencionados": [
-        "Estados Unidos",
-        "Irán"
+        "Rusia"
       ],
       "fuentes_independientes": 1,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
       },
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
+      "prioridad_orientativa": 4,
       "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos, Irán",
-        "Ámbito: Energía y clima, Seguridad y conflictos"
+        "Actores relevantes: Rusia",
+        "Ámbito: Diplomacia"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -2440,77 +2552,6 @@
       "prioridad_orientativa": 4,
       "motivos_seleccion": [
         "Actores relevantes: Estados Unidos, Rusia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-6bb2e9a9f6282e7d03a5",
-      "fecha": "2026-10-28",
-      "titulo_fuente": "What we know as Flávio Bolsonaro lands in US after Brazil election loss",
-      "region": "América Latina",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "6bb2e9a9f6282e7d03a5",
-          "titulo_original": "What we know as Flávio Bolsonaro lands in US after Brazil election loss",
-          "titulo_es": "",
-          "url": "https://www.bbc.co.uk/news/videos/c6x29djyx7g9o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News",
-          "pais": "Reino Unido",
-          "fecha": "2026-10-28T16:30:29+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The BBC's Ione Wells unpacks Bolsonaro's journey to Miami after losing Brazil's presidential election and facing a passport surrender order.",
-          "resumen_es": ""
-        },
-        {
-          "id": "042f63fbdf06a976f909",
-          "titulo_original": "Flavio Bolsonaro lands in Miami after fleeing Brazil for US",
-          "titulo_es": "",
-          "url": "https://www.dw.com/en/flavio-bolsonaro-lands-in-miami-after-fleeing-brazil-for-us/a-79788659?maca=en-rss-en-world-4025-rdf",
-          "fuente": "Deutsche Welle",
-          "pais": "Alemania",
-          "fecha": "2026-10-28T15:10:00+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Defeated Brazilian presidential candidate Flavio Bolsonaro and his family landed in Florida early on Wednesday. Facing money laundering allegations, he fled just days after refusing to concede defeat to incumbent Lula.",
-          "resumen_es": ""
-        },
-        {
-          "id": "556ea93e7efc439bb2fe",
-          "titulo_original": "Flavio Bolsonaro lands in Miami after losing Brazil’s presidential election",
-          "titulo_es": "",
-          "url": "https://www.aljazeera.com/news/2026/10/28/flavio-bolsonaro-lands-in-miami-after-losing-brazils-presidential-election?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-10-28T14:32:16+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Bolsonaro and his family fled to the US amid a Brazilian Supreme Court order to surrender his passports.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera",
-        "BBC News",
-        "Deutsche Welle"
-      ],
-      "actores_mencionados": [
-        "Brasil"
-      ],
-      "fuentes_independientes": 3,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Cobertura de fuentes distintas",
-        "Actores relevantes: Brasil"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -5409,310 +5450,45 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-48fa1d41eae1c2c84467",
+      "id": "a-3539988275121536d2cd",
       "fecha": "2026-10-28",
-      "titulo_fuente": "Senior Russian diplomat describes Africa as one of key areas for BRICS development",
-      "region": "Rusia-Ucrania",
+      "titulo_fuente": "Fed leaves interest rates unchanged despite inflation in the US",
+      "region": "Internacional",
       "temas": [
-        "Diplomacia",
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "48fa1d41eae1c2c84467",
-          "titulo_original": "Senior Russian diplomat describes Africa as one of key areas for BRICS development",
-          "titulo_es": "",
-          "url": "https://tass.com/politics/2209259",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-28T08:06:01+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "According to Russian Deputy Foreign Minister Sergey Ryabkov, one of the key areas of cooperation is moving toward the establishment of a BRICS grain exchange",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia",
-        "Ámbito: Diplomacia, Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-f246be96d4157b632c68",
-      "fecha": "2026-10-28",
-      "titulo_fuente": "Africa to ensure its own food sovereignty in long term — Russian MFA",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Diplomacia"
-      ],
-      "noticias": [
-        {
-          "id": "f246be96d4157b632c68",
-          "titulo_original": "Africa to ensure its own food sovereignty in long term — Russian MFA",
-          "titulo_es": "",
-          "url": "https://tass.com/politics/2209257",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-28T08:02:01+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Russian Deputy Foreign Minister Sergey Ryabkov noted that Moscow provides significant humanitarian assistance to Africa",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia",
-        "Ámbito: Diplomacia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-31bd5c96859fa3bf70a9",
-      "fecha": "2026-10-28",
-      "titulo_fuente": "Why China’s ties with Serbia face scrutiny, not severance, after historic Vucic loss",
-      "region": "China",
-      "temas": [
-        "Diplomacia",
         "Comercio y finanzas"
       ],
       "noticias": [
         {
-          "id": "31bd5c96859fa3bf70a9",
-          "titulo_original": "Why China’s ties with Serbia face scrutiny, not severance, after historic Vucic loss",
-          "titulo_es": "",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3372406/why-china-ties-serbia-face-scrutiny-not-severance-after-historic-vucic-loss",
+          "id": "3539988275121536d2cd",
+          "titulo_original": "Fed leaves interest rates unchanged despite inflation in the US",
+          "titulo_es": "Fed deja las tasas de interés sin cambios a pesar de la inflación en EE.UU.",
+          "url": "https://www.aljazeera.com/economy/2026/10/28/fed-leaves-interest-rates-unchanged-despite-inflation-in-the-us?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-10-28T19:05:44+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Rates will remain 3.75-4 percent even as inflation continues to rise.",
+          "resumen_es": "Las tasas seguirán siendo del 3,75-4 por ciento, aunque la inflación siga aumentando."
+        },
+        {
+          "id": "39c5a5608c8bb15c14c0",
+          "titulo_original": "US Fed holds interest rates steady despite surging inflation",
+          "titulo_es": "Estados Unidos Fed mantiene tasas de interés estables a pesar del aumento de la inflación",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3372489/us-fed-holds-interest-rates-steady-despite-surging-inflation",
           "fuente": "South China Morning Post",
           "pais": "Hong Kong",
-          "fecha": "2026-10-28T08:00:08+00:00",
+          "fecha": "2026-10-28T18:37:06+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Massive crowds, fireworks and dancing have filled the streets across Belgrade since Serbia’s nationalist strongman Aleksandar Vucic conceded defeat in Sunday’s parliamentary election after 14 years in power. The political shift could cool diplomatic ties between Beijing and Belgrade and invite sharper scrutiny of Chinese investments in Serbia, but was unlikely to upend a relationship built on years of cooperation, analysts argued. Vucic conceded ",
-          "resumen_es": ""
+          "resumen_original": "The US Federal Reserve on Wednesday held interest rates steady, in line with market expectations, days ahead of crucial midterm elections where surging inflation has been a key issue. The 12-member Federal Open Market Committee voted 10-2 to hold rates at a target range between 3.75 to 4.00 per cent, citing the need for more data in the fight against inflation, after having hiked for the first time in three years at its previous meeting in Septem",
+          "resumen_es": "La Reserva Federal de EE.UU. el miércoles mantuvo tasas de interés estables, de acuerdo con las expectativas del mercado, días antes de las elecciones cruciales de mitad de período donde la inflación creciente ha sido un problema clave. El Comité Federal de Mercado Abierto de 12 miembros votó 10-2 t"
         }
       ],
       "fuentes": [
+        "Al Jazeera",
         "South China Morning Post"
       ],
-      "actores_mencionados": [
-        "China"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: China",
-        "Ámbito: Comercio y finanzas, Diplomacia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-cdca4f2e244638785633",
-      "fecha": "2026-10-28",
-      "titulo_fuente": "Oil rises over 1% after Saudi Arabian refinery attack reignites supply risk",
-      "region": "Oriente Medio",
-      "temas": [
-        "Seguridad y conflictos",
-        "Energía y clima"
-      ],
-      "noticias": [
-        {
-          "id": "cdca4f2e244638785633",
-          "titulo_original": "Oil rises over 1% after Saudi Arabian refinery attack reignites supply risk",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/news/international/oil-rises-after-saudi-arabian-refinery-attack-reignites-supply-risk/article71634583.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-10-28T07:58:38+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Yemen’s Iran-aligned Houthis said ‌they had hit Saudi Arabia’s biggest oil refinery with a missile, intensifying their strikes against ‌the world’s second-largest crude producer",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Hindu"
-      ],
-      "actores_mencionados": [
-        "Irán",
-        "Arabia Saudita"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Irán",
-        "Ámbito: Energía y clima, Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-c5da811584721f2a8e8e",
-      "fecha": "2026-10-28",
-      "titulo_fuente": "Injury in Lipetsk Region, damage in Tula Region, 531 UAVs: aftermath of Ukrainian attacks",
-      "region": "Europa",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "c5da811584721f2a8e8e",
-          "titulo_original": "Injury in Lipetsk Region, damage in Tula Region, 531 UAVs: aftermath of Ukrainian attacks",
-          "titulo_es": "",
-          "url": "https://tass.com/emergencies/2209255",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-28T07:56:07+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Information on casualties and damage is still being clarified",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Ucrania",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-1364477f70db1e40b9c5",
-      "fecha": "2026-10-28",
-      "titulo_fuente": "Trump would approve Flavio Bolsonaro coming to U.S.; says Brazil election was ‘very strange’",
-      "region": "Oriente Medio",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "1364477f70db1e40b9c5",
-          "titulo_original": "Trump would approve Flavio Bolsonaro coming to U.S.; says Brazil election was ‘very strange’",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/news/international/flavio-bolsonaro-us-trump-brazil-elections/article71634540.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-10-28T07:38:32+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Asked about Israeli Prime Minister Benjamin ​Netanyahu’s party losing seats in elections, Mr. Trump said he had heard that Mr. Netanyahu did very well",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Hindu"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "Brasil",
-        "Israel"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Brasil, Estados Unidos, Israel"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-e5cf7b0e911a85bcfcc8",
-      "fecha": "2026-10-28",
-      "titulo_fuente": "China’s hybrid car exports to EU up 200%; response to Tesla’s ‘flying car’: 7 EV reads",
-      "region": "China",
-      "temas": [
-        "Comercio y finanzas",
-        "Energía y clima"
-      ],
-      "noticias": [
-        {
-          "id": "e5cf7b0e911a85bcfcc8",
-          "titulo_original": "China’s hybrid car exports to EU up 200%; response to Tesla’s ‘flying car’: 7 EV reads",
-          "titulo_es": "",
-          "url": "https://www.scmp.com/business/china-evs/article/3372399/chinas-hybrid-car-exports-eu-200-response-teslas-flying-car-7-ev-reads",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-10-28T07:30:08+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "We have put together stories from our coverage on electric and new energy vehicles from the past two weeks to help you stay informed. If you would like to see more of our reporting, please consider subscribing. 1. BYD to build new factories in Europe to beat trade barriers aimed at Chinese EVs China’s BYD will build new factories in Europe for a bigger market share, as the world’s largest electric vehicle (EV) maker faces fiscal support pullback ",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "South China Morning Post"
-      ],
-      "actores_mencionados": [
-        "China"
-      ],
-      "fuentes_independientes": 1,
+      "actores_mencionados": [],
+      "fuentes_independientes": 2,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
         "nombre": "Interdependencia compleja y economía política internacional",
@@ -5721,100 +5497,69 @@
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
+      "prioridad_orientativa": 3,
       "motivos_seleccion": [
-        "Actores relevantes: China",
-        "Ámbito: Comercio y finanzas, Energía y clima"
+        "Cobertura de fuentes distintas",
+        "Ámbito: Comercio y finanzas"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
     },
     {
-      "id": "a-62bdef9ff67ba580808a",
+      "id": "a-da1b46e682616586de2a",
       "fecha": "2026-10-28",
-      "titulo_fuente": "Continuous round-the-world cruise comes to an end as Iran war spikes fuel costs - CNN",
-      "region": "Oriente Medio",
+      "titulo_fuente": "How did Flávio Bolsonaro end up in Miami?",
+      "region": "América Latina",
       "temas": [
-        "Seguridad y conflictos"
+        "Actualidad"
       ],
       "noticias": [
         {
-          "id": "62bdef9ff67ba580808a",
-          "titulo_original": "Continuous round-the-world cruise comes to an end as Iran war spikes fuel costs - CNN",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZExfT2RNakpJU2Uzb3hUaE4wZmZkTjZhbmdaRVREUGRNYnVXR0EzaXdfUS15YWx3XzJfUFZKQUVkU0cwU2FJUEN2bXZpN3RaTjVETnZqY244M3AtcFJ6UjlPMmx6blFsMjZVWnJqaS1jaXZuYWlVUkk0bEZmeDhrQmtPZE1pcWt3Y3h2S3VWMm91b3FacHlr?oc=5",
-          "fuente": "CNN",
-          "pais": "Estados Unidos",
-          "fecha": "2026-10-28T07:28:54+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Continuous round-the-world cruise comes to an end as Iran war spikes fuel costs CNN",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "CNN"
-      ],
-      "actores_mencionados": [
-        "Irán"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Irán",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-4cdab7a6ba7e0664a9c9",
-      "fecha": "2026-10-28",
-      "titulo_fuente": "Indian Captain Smit Machchhar, flydubai crew honoured by UAE President for bravery during mid-air attack",
-      "region": "Asia-Pacífico",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "4cdab7a6ba7e0664a9c9",
-          "titulo_original": "Indian Captain Smit Machchhar, flydubai crew honoured by UAE President for bravery during mid-air attack",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/news/national/indian-captain-smit-machchhar-flydubai-crew-honoured-by-uae-president-for-bravery-during-mid-air-attack/article71634465.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-10-28T07:21:46+00:00",
+          "id": "da1b46e682616586de2a",
+          "titulo_original": "How did Flávio Bolsonaro end up in Miami?",
+          "titulo_es": "¿Cómo terminó Flávio Bolsonaro en Miami?",
+          "url": "https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News",
+          "pais": "Reino Unido",
+          "fecha": "2026-10-28T18:51:05+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The medals were presented by His Highness Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum, Crown Prince of Dubai, Deputy Prime Minister and Minister of Defence",
+          "resumen_original": "BBC Verify has pieced together defeated presidential candidate Flávio Bolsonaro's journey through Brazil, Argentina and Ecuador to reach Miami.",
+          "resumen_es": "BBC Verify ha unido derrotado al candidato presidencial Flávio Bolsonaro por Brasil, Argentina y Ecuador para llegar a Miami."
+        },
+        {
+          "id": "042f63fbdf06a976f909",
+          "titulo_original": "Flavio Bolsonaro lands in Miami after fleeing Brazil for US",
+          "titulo_es": "",
+          "url": "https://www.dw.com/en/flavio-bolsonaro-lands-in-miami-after-fleeing-brazil-for-us/a-79788659?maca=en-rss-en-world-4025-rdf",
+          "fuente": "Deutsche Welle",
+          "pais": "Alemania",
+          "fecha": "2026-10-28T15:10:00+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Defeated Brazilian presidential candidate Flavio Bolsonaro and his family landed in Florida early on Wednesday. Facing money laundering allegations, he fled just days after refusing to concede defeat to incumbent Lula.",
           "resumen_es": ""
         }
       ],
       "fuentes": [
-        "The Hindu"
+        "BBC News",
+        "Deutsche Welle"
       ],
       "actores_mencionados": [
-        "India"
+        "Argentina",
+        "Brasil"
       ],
-      "fuentes_independientes": 1,
+      "fuentes_independientes": 2,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
       },
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
+      "prioridad_orientativa": 3,
       "motivos_seleccion": [
-        "Actores relevantes: India",
-        "Ámbito: Seguridad y conflictos"
+        "Cobertura de fuentes distintas",
+        "Actores relevantes: Brasil"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -5874,6 +5619,64 @@
       "motivos_seleccion": [
         "Cobertura de fuentes distintas",
         "Actores relevantes: Israel"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-6bb2e9a9f6282e7d03a5",
+      "fecha": "2026-10-28",
+      "titulo_fuente": "What we know as Flávio Bolsonaro lands in US after Brazil election loss",
+      "region": "América Latina",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "6bb2e9a9f6282e7d03a5",
+          "titulo_original": "What we know as Flávio Bolsonaro lands in US after Brazil election loss",
+          "titulo_es": "",
+          "url": "https://www.bbc.co.uk/news/videos/c6x29djyx7g9o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News",
+          "pais": "Reino Unido",
+          "fecha": "2026-10-28T16:30:29+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The BBC's Ione Wells unpacks Bolsonaro's journey to Miami after losing Brazil's presidential election and facing a passport surrender order.",
+          "resumen_es": ""
+        },
+        {
+          "id": "556ea93e7efc439bb2fe",
+          "titulo_original": "Flavio Bolsonaro lands in Miami after losing Brazil’s presidential election",
+          "titulo_es": "",
+          "url": "https://www.aljazeera.com/news/2026/10/28/flavio-bolsonaro-lands-in-miami-after-losing-brazils-presidential-election?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-10-28T14:32:16+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Bolsonaro and his family fled to the US amid a Brazilian Supreme Court order to surrender his passports.",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera",
+        "BBC News"
+      ],
+      "actores_mencionados": [
+        "Brasil"
+      ],
+      "fuentes_independientes": 2,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 3,
+      "motivos_seleccion": [
+        "Cobertura de fuentes distintas",
+        "Actores relevantes: Brasil"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6052,6 +5855,183 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-e446bdc5d5b26455c2ce",
+      "fecha": "2026-10-28",
+      "titulo_fuente": "EN DIRECT, Midterms 2026 : Donald Trump attendu dans l’Ohio, Barack Obama en Géorgie... Suivez la campagne des élections de mi-mandat aux Etats-Unis",
+      "region": "Estados Unidos",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "e446bdc5d5b26455c2ce",
+          "titulo_original": "EN DIRECT, Midterms 2026 : Donald Trump attendu dans l’Ohio, Barack Obama en Géorgie... Suivez la campagne des élections de mi-mandat aux Etats-Unis",
+          "titulo_es": "",
+          "url": "https://www.lemonde.fr/international/live/2026/10/28/en-direct-midterms-2026-donald-trump-attendu-dans-l-ohio-barack-obama-en-georgie-suivez-la-campagne-des-elections-de-mi-mandat-aux-etats-unis_6801590_3210.html",
+          "fuente": "Le Monde",
+          "pais": "Francia",
+          "fecha": "2026-10-28T19:54:24+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Alors que les républicains contrôlent le Congrès et la Maison Blanche, la totalité des sièges à la Chambre des représentants et un tiers des sièges du Sénat seront remis en jeu le 3 novembre.",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "Le Monde"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-6fb4d856823c6a064895",
+      "fecha": "2026-10-28",
+      "titulo_fuente": "Putin: Russia is African continent’s best partner, not ‘colonial’ West",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "6fb4d856823c6a064895",
+          "titulo_original": "Putin: Russia is African continent’s best partner, not ‘colonial’ West",
+          "titulo_es": "Putin: Rusia es el mejor socio del continente africano, no \"colonial\" Oeste",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/putin-russia-is-african-continents-best-partner-not-colonial-west?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-10-28T19:13:32+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Russian President Vladimir Putin told the leaders of dozens of African nations that Moscow was their best partner.",
+          "resumen_es": "El presidente ruso Vladimir Putin dijo a los líderes de docenas de naciones africanas que Moscú era su mejor socio."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [
+        "Rusia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-9bf7dffdb405f76783a9",
+      "fecha": "2026-10-28",
+      "titulo_fuente": "Israel’s choice: Netanyahu remaining in power or a Palestinian-backed coalition",
+      "region": "Oriente Medio",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "9bf7dffdb405f76783a9",
+          "titulo_original": "Israel’s choice: Netanyahu remaining in power or a Palestinian-backed coalition",
+          "titulo_es": "La elección de Israel: Netanyahu permaneciendo en el poder o una coalición respaldada por palestinos",
+          "url": "https://www.theguardian.com/world/2026/oct/28/israel-elections-choice-netanyahu-remaining-power-or-palestinian-backed-coalition",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-10-28T18:54:10+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Incumbent could turn defeat into another term in office as rival parties erect confected barrier to unseating him Israel election results – live updates Full report: Coalition talks loom in Israel Analysis: Rise of Palestinian parties will redraw political landscape Hours before the final results from Israel’s elections were in, several things were clear. Benjamin Netanyahu’s far-right coalition had lost its mandate, and the opposition had a firm",
+          "resumen_es": "Incumbent podría convertir la derrota en otro término en el cargo como partidos rivales levantar barrera confectada para deshacerse de él Israel resultados electorales – actualizaciones en vivo Informe completo: Las conversaciones de la Coalición se acercan a Israel Análisis: El surgimiento de los partidos palestinos"
+        }
+      ],
+      "fuentes": [
+        "The Guardian"
+      ],
+      "actores_mencionados": [
+        "Israel",
+        "Palestina"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Israel"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-382f6410eb4c521e3561",
+      "fecha": "2026-10-28",
+      "titulo_fuente": "Students on hunger strike in India demand restoration of student union",
+      "region": "Asia-Pacífico",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "382f6410eb4c521e3561",
+          "titulo_original": "Students on hunger strike in India demand restoration of student union",
+          "titulo_es": "Los estudiantes en huelga de hambre en la India exigen la restauración del sindicato estudiantil",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/students-on-hunger-strike-in-india-demand-restoration-of-student-union?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-10-28T18:52:58+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Students at New Delhi’s Jamia Millia Islamia university are on hunger strike demanding a student union.",
+          "resumen_es": "Los estudiantes de la universidad Jamia Millia Islamia de Nueva Delhi están en huelga de hambre exigiendo un sindicato estudiantil."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [
+        "India"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: India"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-da3926b978989c3691fd",
       "fecha": "2026-10-28",
       "titulo_fuente": "EN DIRECT, législatives en Israël : aucune majorité ne se dessine au lendemain du scrutin, après le dépouillement de plus de 85 % des suffrages exprimés",
@@ -6177,48 +6157,6 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-39c5a5608c8bb15c14c0",
-      "fecha": "2026-10-28",
-      "titulo_fuente": "US Fed holds interest rates steady despite surging inflation",
-      "region": "Internacional",
-      "temas": [
-        "Comercio y finanzas"
-      ],
-      "noticias": [
-        {
-          "id": "39c5a5608c8bb15c14c0",
-          "titulo_original": "US Fed holds interest rates steady despite surging inflation",
-          "titulo_es": "Estados Unidos Fed mantiene tasas de interés estables a pesar del aumento de la inflación",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3372489/us-fed-holds-interest-rates-steady-despite-surging-inflation",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-10-28T18:37:06+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The US Federal Reserve on Wednesday held interest rates steady, in line with market expectations, days ahead of crucial midterm elections where surging inflation has been a key issue. The 12-member Federal Open Market Committee voted 10-2 to hold rates at a target range between 3.75 to 4.00 per cent, citing the need for more data in the fight against inflation, after having hiked for the first time in three years at its previous meeting in Septem",
-          "resumen_es": "La Reserva Federal de EE.UU. el miércoles mantuvo tasas de interés estables, de acuerdo con las expectativas del mercado, días antes de las elecciones cruciales de mitad de período donde la inflación creciente ha sido un problema clave. El Comité Federal de Mercado Abierto de 12 miembros votó 10-2 t"
-        }
-      ],
-      "fuentes": [
-        "South China Morning Post"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia compleja y economía política internacional",
-        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Comercio y finanzas"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6863,6 +6801,93 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-7fa6d176f1666bf76dae",
+      "fecha": "2026-10-28",
+      "titulo_fuente": "The bottomless depths of Donald Trump’s midterm rally bigotry",
+      "region": "Estados Unidos",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "7fa6d176f1666bf76dae",
+          "titulo_original": "The bottomless depths of Donald Trump’s midterm rally bigotry",
+          "titulo_es": "Las profundidades infundadas del rallye de mitad de período de Donald Trump",
+          "url": "https://www.theguardian.com/us-news/2026/oct/27/trump-obama-rally-midterms-analysis",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-10-28T17:11:04+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Both Obama and Trump are on the campaign trail, but only one of them appears to be descending into madness This was originally published in This Week in Trumpland. Sign up to receive it in your inbox every Wednesday . Barack Obama versus Donald Trump . It is the presidential election that never happened but has come to define an era of US politics. Obama is back on the campaign trail for the midterms, still electrifying crowds, earning shouts of ",
+          "resumen_es": "Tanto Obama como Trump están en el camino de la campaña, pero sólo uno de ellos parece estar descendiendo a la locura Esto fue publicado originalmente en esta semana en Trumpland. Regístrese para recibirlo en su buzón de entrada cada miércoles . Barack Obama contra Do"
+        }
+      ],
+      "fuentes": [
+        "The Guardian"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-154e94da0b06d1ed15aa",
+      "fecha": "2026-10-28",
+      "titulo_fuente": "Sudan war and inflation leave families struggling to survive in Khartoum",
+      "region": "África",
+      "temas": [
+        "Seguridad y conflictos",
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "154e94da0b06d1ed15aa",
+          "titulo_original": "Sudan war and inflation leave families struggling to survive in Khartoum",
+          "titulo_es": "La guerra y la inflación del Sudán dejan a las familias que luchan por sobrevivir en Jartum",
+          "url": "https://www.aljazeera.com/features/2026/10/28/sudan-war-and-inflation-leave-families-struggling-to-survive-in-khartoum?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-10-28T17:09:05+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Soaring food prices and shrinking incomes force families in Sudan's capital to borrow money and skip meals.",
+          "resumen_es": "El uso de los precios de los alimentos y la reducción de los ingresos obligan a las familias en la capital de Sudán a pedir prestado dinero y evitar las comidas."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Comercio y finanzas, Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
