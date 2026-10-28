@@ -1,23 +1,55 @@
 {
-  "actualizado_utc": "2026-10-28T16:52:15.410087+00:00",
+  "actualizado_utc": "2026-10-28T17:11:37.213422+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 980,
+      "cantidad_archivada": 984,
       "nuevas_24h": 122,
-      "anteriores_24h": 122,
+      "anteriores_24h": 120,
       "dias_con_registros": 13,
-      "fecha_ultima": "2026-10-28T16:39:08+00:00",
+      "fecha_ultima": "2026-10-28T17:05:41+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "c3d719a7616c65d49d4a",
+          "fecha": "2026-10-28T17:05:41+00:00",
+          "titulo": "Putin meets with Egyptian President al-Sisi",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2209721",
+          "traducida": false
+        },
+        {
+          "id": "31fb8f6d71bcff852f20",
+          "fecha": "2026-10-28T17:02:57+00:00",
+          "titulo": "Russia hopes evacuation from Alyoshki to proceed without provocations — Kremlin",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2209719",
+          "traducida": false
+        },
+        {
+          "id": "d26d6a9bd9e8cfbfa86b",
+          "fecha": "2026-10-28T16:59:45+00:00",
+          "titulo": "Russia says Japanese diplomats get access to spy journalist according to regulations",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2209715",
+          "traducida": false
+        },
         {
           "id": "015240e75c02872f789c",
           "fecha": "2026-10-28T16:39:08+00:00",
           "titulo": "Russia says determined to continue working with Brazil to strengthen partnership",
           "fuente": "TASS",
           "url": "https://tass.com/politics/2209709",
+          "traducida": false
+        },
+        {
+          "id": "64f4edff15ac0da84519",
+          "fecha": "2026-10-28T16:35:30+00:00",
+          "titulo": "Ethiopia receives 12 Russian Su-35 jets, plans S-400 acquisition",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/28/ethiopia-receives-12-russian-su-35-jets-plans-s-400-acquisition?traffic_source=rss",
           "traducida": false
         },
         {
@@ -219,51 +251,27 @@
           "fuente": "TASS",
           "url": "https://tass.com/politics/2209569",
           "traducida": false
-        },
-        {
-          "id": "5b7a8f96e72ae0e02ad0",
-          "fecha": "2026-10-28T13:40:56+00:00",
-          "titulo": "Putin says only Russia has low-capacity NPPs already in operation",
-          "fuente": "TASS",
-          "url": "https://tass.com/economy/2209565",
-          "traducida": false
-        },
-        {
-          "id": "e5a39845e6c871cfc57a",
-          "fecha": "2026-10-28T13:37:08+00:00",
-          "titulo": "Britain intends to continue fighting by proxy on foreign soil — Russian envoy to Vienna",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2209563",
-          "traducida": false
-        },
-        {
-          "id": "cace0fdc0ce066f1408e",
-          "fecha": "2026-10-28T13:35:57+00:00",
-          "titulo": "Russian seafood exports to China may exceed $4 bln in 2026 — Federal Agency for Fishery",
-          "fuente": "TASS",
-          "url": "https://tass.com/economy/2209567",
-          "traducida": false
-        },
-        {
-          "id": "28652c99eed23c28dc04",
-          "fecha": "2026-10-28T13:32:39+00:00",
-          "titulo": "De Beers diamond miner wants to cooperate more with Russia — Putin",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2209561",
-          "traducida": false
         }
       ]
     },
     {
       "id": "oriente-medio",
       "titulo": "Oriente Medio: seguridad y diplomacia",
-      "cantidad_archivada": 618,
-      "nuevas_24h": 94,
-      "anteriores_24h": 83,
+      "cantidad_archivada": 619,
+      "nuevas_24h": 92,
+      "anteriores_24h": 82,
       "dias_con_registros": 13,
-      "fecha_ultima": "2026-10-28T16:25:50+00:00",
+      "fecha_ultima": "2026-10-28T16:56:10+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "dcf344de086bdca3e438",
+          "fecha": "2026-10-28T16:56:10+00:00",
+          "titulo": "Iranian film-maker Jafar Panahi given new prison sentence and has assets seized",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/film/2026/oct/28/iran-film-maker-jafar-panahi-new-prison-sentence-assets-seized",
+          "traducida": false
+        },
         {
           "id": "22f1efded50aa47e88ef",
           "fecha": "2026-10-28T16:25:50+00:00",
@@ -495,23 +503,15 @@
           "fuente": "South China Morning Post",
           "url": "https://www.scmp.com/news/world/europe/article/3372460/assailant-outside-israeli-embassy-serbia-killed-after-attacking-police-officer",
           "traducida": false
-        },
-        {
-          "id": "efc798a9ac498744e8b3",
-          "fecha": "2026-10-28T11:03:26+00:00",
-          "titulo": "Claves para formar Gobierno en Israel tras las elecciones o regresar a las urnas: consulta del presidente, negociación y votación",
-          "fuente": "El País",
-          "url": "https://elpais.com/internacional/2026-10-28/claves-para-formar-gobierno-en-israel-tras-las-elecciones-o-regresar-a-las-urnas-consulta-del-presidente-negociacion-y-votacion.html",
-          "traducida": false
         }
       ]
     },
     {
       "id": "india-asia",
       "titulo": "India y Asia-Pacífico",
-      "cantidad_archivada": 301,
-      "nuevas_24h": 69,
-      "anteriores_24h": 87,
+      "cantidad_archivada": 302,
+      "nuevas_24h": 70,
+      "anteriores_24h": 86,
       "dias_con_registros": 13,
       "fecha_ultima": "2026-10-28T16:39:08+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -570,6 +570,14 @@
           "titulo": "China’s disarmament union calls on IAEA to boost supervision of Japan's plutonium stocks",
           "fuente": "TASS",
           "url": "https://tass.com/world/2209439",
+          "traducida": false
+        },
+        {
+          "id": "f937365548e6fefaee59",
+          "fecha": "2026-10-28T11:29:04+00:00",
+          "titulo": "WPL 2027 Squads: Mumbai Indians, Royal Challengers Bengaluru, Delhi Capitals, UP Warriorz, Gujarat Giants complete players list - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPLU43UE9GZ3lmOXp4Rk1fOGx4N1BtQkZuM3dNb2lUR1FtTDdEaDUxUWdqQnFQZ3RjSHFwVzF5M2UwckZuSlFXY1A4cUpuN1FVbWJPR1FBazZ0LXJnNmFmV01JVWZEZGo2dWdBZ2thRmtEOVhSWlNGVGJ0RkstOGRhamZ4bUpPSlBhVkZadExLUHpObVZ2Y1dBSWZ3NmdIZ1hTdlNKTFZNaVdITUtoREVjR3NXQkZuNUpoU0xjcERfZDlnNnM2Sk1SSFJ0MG42aDlkRzMxdk15TnRiU25BV2Q5czRjTDhNU3RVLVVrMjM1Zl9NOXQ1ck40c2pKWXpqNkkwdE9iZ3JRWTF3Wl9k0gGTAkFVX3lxTE5vWGQtVTBPeExjUi1FOWIwVlptNU1CazNabm9TbUM2VUcwRzAzTnRGblNVbXducTFZV2xsZWNyekdrT2pFT1BGaGtvZkVjaWZEc0hPT3VHaXdHTl9ab3JadWRYWEIySVlWOEZsSjRpN0pBbUUwYmFMbTUwUWxEcWViaXlneWpHaTlQb09yS2Y2OU0zcVp6ZE9zc09ydkpyZjlhS0NPZHV4RmZ0aFNOTjdxa1duclp2WlZSdUdqNGZ3cjVWeXBQeEpqNEZtbEpST0NVZ3daQVJ4REJ0YXo2bnZJQTZwVDZTdGFQR2NYNDNzcFREa0ZCNlBodUdhazRRNFVNQWJ4NjBsc3Y3dU9uVHhvTVZB?oc=5",
           "traducida": false
         },
         {
@@ -747,14 +755,6 @@
           "fuente": "The Indian Express",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc1RFbTV5QW80dE9IM3QtRzEweUdsRjZmVjNBYlRWTF9pUTJjeUJPczhleEtveFJyTEVPc3JkcVNaZWNudVR2UHVWa1ZOcmc1MkEtVTBGTW9TS2ctaDFmcFV5ZXBWbDdXU2JfRmRvclliaEg2aFhRaGp6ZEtLaXhqd0RzZEk5YzZoUk1TM2RLT2ZRR0tKSUltdnBkSnhnOW1wTjhqdXZENNIBrgFBVV95cUxQR21kZ3FPMzRjcC13YUdOZ3FjQmxMNTJiVUt3YlFwbWxtRFJlTkxMTndRai1FX0NNeGtfUk8xRFdRSHgtX0Jrd3ZzNmlVZjk4NGdSMWxmZlNxVVBoNmlJcEZwbTRyckpUTzNHcFBNLWFUdFJkaVhBNXdEZGRoOTNFX1ZqbGZFLXltYTN5N1g3Ul85Wmd6c3dxVXY1MTlMempiMXVXTEVIN2VjN25MRXc?oc=5",
           "traducida": false
-        },
-        {
-          "id": "2d3499c96dcf595d5b9e",
-          "fecha": "2026-10-28T08:36:44+00:00",
-          "titulo": "Japan seeks to develop nuclear capability — China Arms Control and Disarmament Association",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2209267",
-          "traducida": false
         }
       ]
     },
@@ -762,8 +762,8 @@
       "id": "suramerica",
       "titulo": "Sudamérica: integración y política exterior",
       "cantidad_archivada": 191,
-      "nuevas_24h": 25,
-      "anteriores_24h": 27,
+      "nuevas_24h": 24,
+      "anteriores_24h": 28,
       "dias_con_registros": 13,
       "fecha_ultima": "2026-10-28T16:39:08+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -1013,13 +1013,21 @@
     {
       "id": "union-europea",
       "titulo": "Unión Europea y relaciones exteriores",
-      "cantidad_archivada": 319,
-      "nuevas_24h": 14,
+      "cantidad_archivada": 320,
+      "nuevas_24h": 15,
       "anteriores_24h": 11,
       "dias_con_registros": 13,
-      "fecha_ultima": "2026-10-28T16:11:21+00:00",
+      "fecha_ultima": "2026-10-28T16:45:25+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "e0fe1a1bcfa063635996",
+          "fecha": "2026-10-28T16:45:25+00:00",
+          "titulo": "Tory Brexit was ‘harder’ than promised in EU referendum, says Andy Burnham",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/politics/2026/oct/28/tory-brexit-harder-promised-referendum-andy-burnham",
+          "traducida": false
+        },
         {
           "id": "d1999e7f8a11b24e1487",
           "fecha": "2026-10-28T16:11:21+00:00",
@@ -1250,14 +1258,6 @@
           "titulo": "Russia not France’s enemy, presidential candidate Melenchon says",
           "fuente": "TASS",
           "url": "https://tass.com/world/2208115",
-          "traducida": false
-        },
-        {
-          "id": "be7f243c1026b50b2a74",
-          "fecha": "2026-10-26T14:42:27+00:00",
-          "titulo": "Audi boss under fire in Germany for Trump rally appearance",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/26/audi-boss-under-fire-in-germany-for-trump-rally-appearance",
           "traducida": false
         }
       ]
