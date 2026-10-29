@@ -1,17 +1,33 @@
 {
-  "actualizado_utc": "2026-10-29T19:01:02.073231+00:00",
+  "actualizado_utc": "2026-10-29T19:56:48.396356+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 1125,
-      "nuevas_24h": 129,
-      "anteriores_24h": 110,
+      "cantidad_archivada": 1127,
+      "nuevas_24h": 127,
+      "anteriores_24h": 111,
       "dias_con_registros": 14,
-      "fecha_ultima": "2026-10-29T18:52:49+00:00",
+      "fecha_ultima": "2026-10-29T19:04:17+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "f72c54a73a7d4876b865",
+          "fecha": "2026-10-29T19:04:17+00:00",
+          "titulo": "Seven oil tankers carrying 288,000 tonnes of Russian diesel sail towards US",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/oct/29/seven-oil-tankers-288000-tonnes-russian-diesel-sail-us-putin-trump",
+          "traducida": false
+        },
+        {
+          "id": "07874ab03d8223ce0dfd",
+          "fecha": "2026-10-29T19:02:19+00:00",
+          "titulo": "Pentagon fires general it says leaked classified information to media",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/29/pentagon-fires-general-it-says-leaked-classified-information-to-media?traffic_source=rss",
+          "traducida": false
+        },
         {
           "id": "1efa9b6669b47e625b01",
           "fecha": "2026-10-29T18:52:49+00:00",
@@ -235,31 +251,15 @@
           "fuente": "TASS",
           "url": "https://tass.com/world/2210371",
           "traducida": false
-        },
-        {
-          "id": "5104bf53eef78a1cb8a3",
-          "fecha": "2026-10-29T17:03:42+00:00",
-          "titulo": "Russia, Nigeria sign customs cooperation agreement to ease business, trade",
-          "fuente": "TASS",
-          "url": "https://tass.com/economy/2210369",
-          "traducida": false
-        },
-        {
-          "id": "758bf1bb64b24e34bc90",
-          "fecha": "2026-10-29T17:02:27+00:00",
-          "titulo": "Kallas may be among greatest disappointments in EU history — newspaper",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2210367",
-          "traducida": false
         }
       ]
     },
     {
       "id": "india-asia",
       "titulo": "India y Asia-Pacífico",
-      "cantidad_archivada": 396,
-      "nuevas_24h": 70,
-      "anteriores_24h": 88,
+      "cantidad_archivada": 398,
+      "nuevas_24h": 71,
+      "anteriores_24h": 89,
       "dias_con_registros": 14,
       "fecha_ultima": "2026-10-29T18:31:38+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -313,6 +313,14 @@
           "traducida": false
         },
         {
+          "id": "577cd5cb118b21a41ea9",
+          "fecha": "2026-10-29T13:59:59+00:00",
+          "titulo": "Prince Yadav: Delhi’s tennis-ball prodigy has become India’s death-overs man - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPckxmWUtIQjNhX3Iwc2ItZHpNeVRPdDQwZ045UDh0OWJLRUcyZTl5alhxcGlLY0ZuVlE4TkljNUZVRnVYTjNYcWlXVmlnSEV5d2djWEMwY1NKc2EtbnB4bDJXakVfRlNuejVqaHlBYmg5Mnd5UnRndkFDTlRMVVlFWWwzSnFIeHlTVy0tRnNvRk9OMUhVR01CdDRieGU0aEIwam1vQWhfdTcxRklraVhnU3Rjb3BtTHM2MDVB0gHCAUFVX3lxTE1XMDlSUERzaDNBSi1uajlSbDNGWldSUTJ1cmx1b3NpQXdpdHFOTUxTaVdBaFUzc2NDcWRVVDY1RWN0RkJpQzJVd3hhdm9iMFIxRmJkUHliczdGNnVSdzdFZF9EYWIyWi1iZ19GUFBYeE9LRHRYaXh0bUlVeTZuYWFseGZJeVZtRnMzTzZMcE1uVThSMDFMMldrRjRIRjlUWlBzQktKMFZlZEtpTHVHUHYtUkJMSjZtZ2pLNU5idTVteW1n?oc=5",
+          "traducida": false
+        },
+        {
           "id": "a33c6cedf51da838b63f",
           "fecha": "2026-10-29T13:57:50+00:00",
           "titulo": "India ready to share battle-tested counter-terrorism expertise with ASEAN partners: Rajnath",
@@ -334,6 +342,14 @@
           "titulo": "Jewish-Arab coalition in Israel? Netanyahu’s rivals face a crucial choice - The Indian Express",
           "fuente": "The Indian Express",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeWhRa0ZoeG9XMGd2MzZqa0ljcVp1c3lUQl9IeWRHYWxsYzYzZmt5aTlsYlBPeE4xSmk1SmxmVVJvT0JGaFdZS2pYMjcwd3Q0ZTVXdHotX1JfV1FWM3l1bWNNYVMxa05UQU5wZUo2aTlWNVhXcnJNQmVsNVYtNmtteHdvdEJ4VlIyV1JrRjBEVk9uNEVsLU9DSGQ5aGJQUHhCR0FlaFpyVTAzOXJ6VTlyU00zUjhkVXRsQjg2dXBWOElRRkly0gHLAUFVX3lxTE84S3dtc1hBOFBHZld3S2VrOHByUjhHYUdMM0oxU3ZuWTFkTXQ5Q000VllJcmRqaFZ5TE01bXRIYTlJclJBY1hFOFM5WE1ITU1mSGp1T2lSSUJnVjJsR0Z1dklXNGRLUVBnaHNZdUpwR3UxOXFpX1BlNVltY0lGeDdwMjM3cG1sUUJCQ2NlcllrWW9RTG1XdFZQclZ3dGp2THdJdzNsbG14UmEwVzJEYWFXeUhDakFGd2lVaFFSTE5LaDFrWldQN3hjbnpz?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "749f831bc6c05fa4c1cc",
+          "fecha": "2026-10-29T12:37:52+00:00",
+          "titulo": "Stitches on head, flydubai Indian pilot Smit Machchhar in UAE draws attention - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcjBmTlBRU3UtU2RNd0xCVlc3UDBFVEpXV0tyOVFGNmIyc21Cam1LbGdsZlNMZ09KY2E3bWVzWmRERVZMckQ2NUhEVkp6YkJQZ2YwbVdLNl9LTENDbW9abkFwVmpKNk52NDM2dGZyMVU3MXJMQ0RpV1VkamQyb0hrcmxNUVZpODk0V3ViZWdmUTNGUGktbXZyT2pGcHIzWVhkUy00dGNtRm1fVnlPWnhVUTZ6V2vSAbsBQVVfeXFMT2tpUzkyTkdEaF9udjJGcVpJWVRsSktkbVBMZC1MWVFxNXZDZFIzRkVrc0VGQi0welZlRW5yOFlPdHRZZ3Y3eU4xNkg2ZUZZbHhfV0lvQkRqTWgtQjRkVXN3Y2FIVlpaX2RWdFhHelVsa2d1V292Y2Z4M2tPY2RLN0RVVzUxXzFVR293V3hES3NjMkx4X1p2UDlYMDNaMTM1eF9RN01EOGdaRnZxSXJ0ZDhlNjgwQk1MNWZsWQ?oc=5",
           "traducida": false
         },
         {
@@ -487,35 +503,51 @@
           "fuente": "The Indian Express",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLXI4Zm1iM2p6Mm1TcGN0cE0tV05SdDFnZDZHcnlYNzZiNmk0RTczY2VwczFHX3ZyQzFfWWkzb0lsSldPcGx3SW1PSHpWYUVyUTQtQVNZSjJFSHhMWW1seV9Jazl3UV9TbWFuLXNxUnNkSzhHSFdzMTRhVHMzejRodExpeHU2SlV4cjB0eEpzSW1iM01yTlZPQ3VBTlZyanJoWkxGWmlOZS1NMVdfMHFVWVllcEx0YWJsRm9WU1YwMNIBxgFBVV95cUxNMHhaRi1iTEhsZUdqWUxrT2l2NGdIRW14QUx1RHhaN1AyZVdzUkpUcTQ2azFvUDk4N3QzMlZkVFNOSmMxcjFzWFRoS3RtQTk3Rm1wNEItYnF1X2IxcUxuNS1UalBpU1A5YnpqeWd3Mm1jWENLM0x4NUdMM0VHcUJyR0R1SVUyMzJFQXBBVTBnSDJyY1VoOUZXcjYxSF9CeDZ5cGlMR3oxaDJWeFZjMlBQakJGTWQwRzE2emJhT1VmT1ZUaVhyUGc?oc=5",
           "traducida": false
-        },
-        {
-          "id": "5049b378e43bc15fd9f2",
-          "fecha": "2026-10-29T07:00:15+00:00",
-          "titulo": "All about Horniman Circle: The Mumbai landmark that puzzled Vijay Deverakonda - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVDRBaU1XVkFvc0pvQk16cWx4U29ncUpWLWlZUk9sd1Vma2RrQVg1LUE1ZU9qSWVycnNQMmQ3THIxYkJuT1l0NjFYOUEtTzhzRHBRUmtVaElERzRaNDNsX21vZV9ncFFsN1JDRGc3Rl9HeHdEdE1UTzNYNEg3RWtKMlBNT0xuamZnVVJLSnFtRFhFckhvNXl6ejRPbkhFUDdKXzUzMFpRNlBIVnRoQmNIOF9Ud0Q3bVBleXdkSklqSXVIQk5yWVZQZ1VaTXpqMko2YzB3bUVfZ2o5OTdxOE9jS1N2ZG90UVlFclHSAfABQVVfeXFMTW90MGlWQWJhQlZjZXg5WXlrOG92Xy1WcjNWX3pJdVpNQkJEUVQzOEUzUVFlalFPeWpQX2c0bFA1YkREX21OUEZMZlA3RkFXT3J2dVNDZHJ3dmk4WDhUVW9BU3pnVFBPS1RILTJuMzJNS19TYmVISVcxMEVRcUM5X2RqbERfcTRfR3F5MFkxdVU5bl9MLWxmRTdqSnNyWTBJZEVFTlVWX1BWcng0VXZkQXR3bjFIUV9faXNGaDJ0OGdXR2Zod1pweFJOb1NISkl3aUNGTDhrX1pIQm03ZG1UUDBGRWFCcWpReDFsZTVwVlph?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "66b7869c2eb5845e41f9",
-          "fecha": "2026-10-29T06:48:49+00:00",
-          "titulo": "Ex-Speaker presiding, Congress to stage Gyanesh Kumar’s ‘impeachment’ - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPakllX1Z1ZThPeTg4MFd0RFpCNlhPZGVUaVFaZzRKTjNyMDVrNkZGa3oxVEZxcUJMUmU0d1dFMEtwNWNqSWh3UHl0cFkySmRDdG9ZWW55eW1DcUQ0OW5EazJnM1QzNmdoRlBQVERHcktVZWpUYm1yLXlwUGY0OGowNWlEa2RnVXVTdE83XzdhYTZpRVlrNkF1dkdtbkhhM3lIMkVLNmRPMFIxOVVXYXA4Q1VacU9kVHN4dDQ5MU9Qb2Zjb1cxamZjdndLRFFHZTFqcnJHMNIB2wFBVV95cUxNaFJ6WV9TQ25YbERXRjFJNHRsSUI1cHRaOFBFR2h0OGRhOHZkUXZxWjdOTlE0bzZfc3A5bFhLZThQV1dRQ2ppMjdVMDJSWVhBMlhUS2dHcTBFMEdrRF9zNnd3ZlJMYXFGY3dxcl9mZ1IwSXJyWFVWdC1MV1ZmWlZEZVRqOEQyWk90aWx1ZmVzaWR1NUNxQzF1eF9MZXdGd1lrSThXU2d2RFM3S3oyVzVTbDYybGNFdWNhZEUtSzNmU0lNZXpQQjNuNDZoWGxyd3JfSThSUmx3Ylo1UE0?oc=5",
-          "traducida": false
         }
       ]
     },
     {
       "id": "oriente-medio",
       "titulo": "Oriente Medio: seguridad y diplomacia",
-      "cantidad_archivada": 686,
-      "nuevas_24h": 56,
-      "anteriores_24h": 92,
+      "cantidad_archivada": 690,
+      "nuevas_24h": 57,
+      "anteriores_24h": 93,
       "dias_con_registros": 14,
-      "fecha_ultima": "2026-10-29T17:58:57+00:00",
+      "fecha_ultima": "2026-10-29T19:32:24+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "8b1d66e51bb1e5c361ff",
+          "fecha": "2026-10-29T19:32:24+00:00",
+          "titulo": "JD Vance letter may offer last chance to avert fresh conflict between US and Iran",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/29/jd-vance-letter-may-offer-last-chance-to-avert-fresh-conflict-between-us-and-iran",
+          "traducida": false
+        },
+        {
+          "id": "4ab3a42f36bc06f4e614",
+          "fecha": "2026-10-29T19:06:00+00:00",
+          "titulo": "Netanyahu attacks Palestinian-Israeli parties as he falls short of majority",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/netanyahu-attacks-palestinian-israeli-parties-as-he-falls-short-of-majority?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "8db046a20064a0048ee7",
+          "fecha": "2026-10-29T19:02:33+00:00",
+          "titulo": "‘Arab voice doesn’t count’: Jewish Israeli blocs reject Palestinian support",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/29/arab-voice-doesnt-count-jewish-israeli-blocs-reject-palestinian-support?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "07874ab03d8223ce0dfd",
+          "fecha": "2026-10-29T19:02:19+00:00",
+          "titulo": "Pentagon fires general it says leaked classified information to media",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/29/pentagon-fires-general-it-says-leaked-classified-information-to-media?traffic_source=rss",
+          "traducida": false
+        },
         {
           "id": "00bd9d6bc58f01ba90cf",
           "fecha": "2026-10-29T17:58:57+00:00",
@@ -723,37 +755,257 @@
           "fuente": "The Guardian",
           "url": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
           "traducida": false
-        },
+        }
+      ]
+    },
+    {
+      "id": "union-europea",
+      "titulo": "Unión Europea y relaciones exteriores",
+      "cantidad_archivada": 343,
+      "nuevas_24h": 22,
+      "anteriores_24h": 15,
+      "dias_con_registros": 14,
+      "fecha_ultima": "2026-10-29T19:43:34+00:00",
+      "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
+      "publicaciones": [
         {
-          "id": "a66ec8e12da34f83ce75",
-          "fecha": "2026-10-29T11:41:44+00:00",
-          "titulo": "What we know of Vance’s letter to Rezaei, as Trump warns Gulf to ‘prepare’",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/29/what-we-know-of-vances-letter-to-rezaei-as-trump-warns-gulf-to-prepare?traffic_source=rss",
+          "id": "85ee126d93f51be1de46",
+          "fecha": "2026-10-29T19:43:34+00:00",
+          "titulo": "EU considering Canada as ‘associate member’ despite internal opposition",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3372638/eu-considering-canada-associate-member-despite-internal-opposition",
           "traducida": false
         },
         {
-          "id": "7301eab94f0e2537da91",
-          "fecha": "2026-10-29T11:27:22+00:00",
-          "titulo": "Israel’s election rhetoric: What candidates said, and how they performed",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/29/israels-election-what-the-candidates-said-and-how-they-did?traffic_source=rss",
+          "id": "343b4731903c5a7992d0",
+          "fecha": "2026-10-29T19:29:15+00:00",
+          "titulo": "Left-wing Berlin mayor candidate’s private Hamas remarks complicate coalition talks",
+          "fuente": "POLITICO Europe",
+          "url": "https://www.politico.eu/article/berlin-mayor-candidate-elif-eralp-hamas-remarks-coalition-talks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
           "traducida": false
         },
         {
-          "id": "47e07be676892ae27574",
-          "fecha": "2026-10-29T11:22:16+00:00",
-          "titulo": "South Korea captain, LA star Son Heung-min backed by coach amid rift rumour",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/10/29/south-korea-captain-la-star-son-heung-min-backed-by-coach-amid-rift-rumour?traffic_source=rss",
+          "id": "7b9ebd7053e226e751b5",
+          "fecha": "2026-10-29T17:46:38+00:00",
+          "titulo": "Brazil’s victory for the planet and democracy: seven lessons from Lula’s win",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/29/brazil-victory-planet-democracy-lessons-lula-win",
           "traducida": false
         },
         {
-          "id": "baed8be27628a5e05019",
-          "fecha": "2026-10-29T11:20:33+00:00",
-          "titulo": "Israel: protesters demand Arab-Jewish unity government after election",
-          "fuente": "Euronews",
-          "url": "https://www.euronews.com/video/2026/10/29/israel-protesters-demand-arab-jewish-unity-government-after-election",
+          "id": "c18929ef4b42042756ba",
+          "fecha": "2026-10-29T17:41:23+00:00",
+          "titulo": "Paris Jackson acusa al gestor del legado de su padre de incompetente y de intentar apropiarse de 100 millones de dólares: “Basta de cortinas de humo”",
+          "fuente": "El País",
+          "url": "https://elpais.com/us/entretenimiento/2026-10-29/paris-jackson-acusa-al-gestor-del-legado-de-su-padre-de-incompetente-y-de-intentar-apropiarse-de-100-millones-de-dolares-basta-de-cortinas-de-humo.html",
+          "traducida": false
+        },
+        {
+          "id": "0f31b9255e5f154f9242",
+          "fecha": "2026-10-29T16:43:37+00:00",
+          "titulo": "France football chief backs Real Madrid’s Mbappe after China apology",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/10/29/france-football-chief-speaks-up-for-real-madrids-mbappe-in-china-apology?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "62e979a207a72a6a98fd",
+          "fecha": "2026-10-29T16:36:52+00:00",
+          "titulo": "Elke Sommer, prolific German star of A Shot in the Dark and And Then There Were None, dies aged 85",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/film/2026/oct/29/elke-sommer-prolific-german-star-of-a-shot-in-the-dark-and-and-then-there-were-none-dies",
+          "traducida": false
+        },
+        {
+          "id": "e7319af513850f33cac7",
+          "fecha": "2026-10-29T16:31:59+00:00",
+          "titulo": "Germany plans electronic surveillance of Russia, Belarus from Lithuania — vice admiral",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2210351",
+          "traducida": false
+        },
+        {
+          "id": "afcd6110f66c5fc7e87c",
+          "fecha": "2026-10-29T16:20:57+00:00",
+          "titulo": "Berlin Process Leaders’ Summit 2026: UK statement to the OSCE",
+          "fuente": "GOV.UK FCDO",
+          "url": "https://www.gov.uk/government/speeches/berlin-process-leaders-summit-2026-uk-statement-to-the-osce",
+          "traducida": false
+        },
+        {
+          "id": "d8c5c48b09facc8cccf4",
+          "fecha": "2026-10-29T15:26:50+00:00",
+          "titulo": "Russia’s OSCE envoy says West creates permanent military channel for Kiev",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2210307",
+          "traducida": false
+        },
+        {
+          "id": "8e8b9a01a2b5aef008e7",
+          "fecha": "2026-10-29T15:18:43+00:00",
+          "titulo": "Von der Leyen touts ‘associate member’ status for Canada over objections of EU capitals",
+          "fuente": "POLITICO Europe",
+          "url": "https://www.politico.eu/article/ursula-von-der-leyen-associate-member-status-canada-eu-capitals-objections/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "traducida": false
+        },
+        {
+          "id": "ba202290f924fd431427",
+          "fecha": "2026-10-29T15:09:33+00:00",
+          "titulo": "El detenido por disparar a musulmanes y africanos cerca de París admite el móvil racista",
+          "fuente": "El País",
+          "url": "https://elpais.com/internacional/2026-10-29/el-atacante-de-trappes-admite-que-disparo-contra-musulmanes-y-africanos-por-racismo.html",
+          "traducida": false
+        },
+        {
+          "id": "8141f325f8dd5549661d",
+          "fecha": "2026-10-29T13:06:01+00:00",
+          "titulo": "ECB head Lagarde resigns amid mounting economic, political challenges for Europe",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/europe/article/3372617/ecb-head-lagarde-resigns-amid-mounting-economic-political-challenges-europe",
+          "traducida": false
+        },
+        {
+          "id": "cc304c4b7d881a6ca482",
+          "fecha": "2026-10-29T12:47:50+00:00",
+          "titulo": "China slams EU’s potential new trade safeguards, says they may violate WTO rules",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/economy/china-economy/article/3372612/china-slams-eus-potential-new-trade-safeguards-says-they-may-violate-wto-rules",
+          "traducida": false
+        },
+        {
+          "id": "d4dee5bc39a47cdc9414",
+          "fecha": "2026-10-29T12:29:23+00:00",
+          "titulo": "EU tells capitals to halt their national social media bans for a year",
+          "fuente": "POLITICO Europe",
+          "url": "https://www.politico.eu/article/eu-tells-capitals-to-halt-their-national-social-media-bans-for-a-year/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "traducida": false
+        },
+        {
+          "id": "a88cc75bedca70114556",
+          "fecha": "2026-10-29T12:00:08+00:00",
+          "titulo": "La guerre en Ukraine à travers les lettres d’Olga et de Sasha : « Pour Luida, la naissance d’Olès, conçu post mortem, est une manière de perpétuer l’esprit de l’homme qu’elle a aimé et, en pleine guerre, c’est aussi une victoire d",
+          "fuente": "Le Monde",
+          "url": "https://www.lemonde.fr/m-le-mag/article/2026/10/29/la-guerre-en-ukraine-a-travers-les-lettres-d-olga-et-de-sasha-pour-luida-la-naissance-d-oles-concu-post-mortem-est-une-maniere-de-perpetuer-l-esprit-de-l-homme-qu-elle-a-aime-et-en-pleine-guerre-c-est-aussi-une-victoire-de-la-vie-sur-la-mort_6802323_4500055.html",
+          "traducida": false
+        },
+        {
+          "id": "b964d3c7ff8f48abc50d",
+          "fecha": "2026-10-29T11:36:38+00:00",
+          "titulo": "Accident ferroviaire en Espagne : la France sans nouvelles de « plusieurs » ressortissants",
+          "fuente": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/10/29/accident-ferroviaire-en-espagne-la-france-sans-nouvelles-de-plusieurs-ressortissants_6802317_3210.html",
+          "traducida": false
+        },
+        {
+          "id": "d945601fe3a096a02de5",
+          "fecha": "2026-10-29T10:19:16+00:00",
+          "titulo": "Christine Lagarde quittera ses fonctions de présidente de la BCE en février",
+          "fuente": "POLITICO Europe",
+          "url": "https://www.politico.eu/article/christine-lagarde-quittera-ses-fonctions-de-presidente-de-la-bce-en-fevrier/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "traducida": false
+        },
+        {
+          "id": "775660b05d7e8021b371",
+          "fecha": "2026-10-29T07:48:43+00:00",
+          "titulo": "Germany does not want China decoupling but must defend its interests, president warns",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3372562/we-dont-want-china-decoupling-we-must-defend-our-interests-german-president-warns",
+          "traducida": false
+        },
+        {
+          "id": "6c5a62827f49de460fd0",
+          "fecha": "2026-10-29T04:00:05+00:00",
+          "titulo": "Brussels wants industry to ditch Chinese suppliers. Businesses are pushing back",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3372511/brussels-wants-industry-ditch-chinese-suppliers-businesses-are-pushing-back",
+          "traducida": false
+        },
+        {
+          "id": "9022b19d1ef97d9d196e",
+          "fecha": "2026-10-29T01:30:45+00:00",
+          "titulo": "Adani’s Mumbai airport shift hits turbulence – Air France, Emirates refuse to give in - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ1dfYTk0RzlialpPaktDVGMxbnlWOU4wVFczeXBsQmlfZ19zYmxqWGJZSGxTNFBqV0lfblFqTF9QTUVMemhyRG41czBCYUMtQWRTZ2xTTHhGT2VURWE1YVBjMlNSa1VXSzlqbEVMbkFHcVlONkxuVXdEVkpid05reEw3NDNlUmVtU2hOWV9rMThuVFZZUkNwamVLV3V0T3FGVkdCRzItb3lFa0t1dGfSAbQBQVVfeXFMUFV3ZENVZ0ZnenNLdm1TLTBOQzNEWFdNM2dkWU80THc4TjRPQ3p6NGdyeWhCYzdicXhEOWpYTUI3YlRNNTVBX21KUzZiQ21GWDMwZkN1WHh4UFl2RlBNOFA0QkxhOTQ5bVNqZERIYWpvUEZfcFB0ZWlVZTNBbG1yNXFjMjhmYzlVaVU4VmxFSmsxR3o0VldJVXFZdFJkSGlvTm4xMk0xMWZRUlYtWWU3aVQzSXBQ?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "3c8154c241a4d2cf6612",
+          "fecha": "2026-10-29T01:30:45+00:00",
+          "titulo": "Adani’s Mumbai airport shift hits turbulence – Air France, Emirates refuse to give in - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ1dfYTk0RzlialpPaktDVGMxbnlWOU4wVFczeXBsQmlfZ19zYmxqWGJZSGxTNFBqV0lfblFqTF9QTUVMemhyRG41czBCYUMtQWRTZ2xTTHhGT2VURWE1YVBjMlNSa1VXSzlqbEVMbkFHcVlONkxuVXdEVkpid05reEw3NDNlUmVtU2hOWV9rMThuVFZZUkNwamVLV3V0T3FGVkdCRzItb3lFa0t1dGc?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "425cf4d2ecc4aed2cfc9",
+          "fecha": "2026-10-29T00:53:30+00:00",
+          "titulo": "In France, protests frame costs of state silence - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ0xHNGl3OU85dHRsTTJYQ0xiU2NRNkZkbGFTbUg1cmhYMHVmQWF2MjZDdGRtX3FKbVhXMzA3cF80aE9uWmpJX3BDc25oWmFXQ2Z1YUNvZkpFWXRLS0RvSGZ3NFpfblN6bWJKdmhxSUJMaE14akVndDcxN2hWOUhrQ194QjZRYWIyRVdldGZ6RW9JTnQ5SW81OW5CX2lqWWtXc1ZmbGY0MC1rUzhYczJaalRPWHRhSTJLM3ZUMGRvb9IBxgFBVV95cUxQcGZRcWR0WG5jLTJoMG1MY2twUWd2cTVqcDhoQWhoU3ltd2g2OEpVMnlyNFlqejFHYlg2cXQ2OThUX1g1R0dkT0xWZkt0UldyZ09hVDZXd3Nrc2lTdjJDYTE0VFRlc3RNbnlGUTU3V0x1TnhHa3oxS0JyZUJTY3gtWkZFQWU4X2lRSFZnZ3hGQmlNTmQwSEQtMzlwOUMtQ0Q2cnNBWlBXNm5Xd3lMTXJxMkFEWTBCWmQxeHNXVS1iaTRDM2NpdHc?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "5f834fbed05ce39e8eee",
+          "fecha": "2026-10-28T18:27:02+00:00",
+          "titulo": "La UE y Canadá buscan una alianza histórica tras descartar la fórmula de “miembro asociado”",
+          "fuente": "El País",
+          "url": "https://elpais.com/internacional/2026-10-28/la-ue-y-canada-buscan-una-alianza-historica-tras-la-descartar-la-formula-de-miembro-asociado.html",
+          "traducida": false
+        },
+        {
+          "id": "e0fe1a1bcfa063635996",
+          "fecha": "2026-10-28T16:45:25+00:00",
+          "titulo": "Tory Brexit was ‘harder’ than promised in EU referendum, says Andy Burnham",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/politics/2026/oct/28/tory-brexit-harder-promised-referendum-andy-burnham",
+          "traducida": false
+        },
+        {
+          "id": "d1999e7f8a11b24e1487",
+          "fecha": "2026-10-28T16:11:21+00:00",
+          "titulo": "Bruselas busca aumentar la capacidad de las refinerías europeas para frenar los precios de los combustibles",
+          "fuente": "El País",
+          "url": "https://elpais.com/economia/2026-10-28/bruselas-busca-aumentar-la-capacidad-de-las-refinerias-europeas-para-frenar-los-precios-de-los-combustibles.html",
+          "traducida": false
+        },
+        {
+          "id": "fdb9717549c7ac63304b",
+          "fecha": "2026-10-28T16:04:42+00:00",
+          "titulo": "National authorities should influence operation of social networks in their states — Putin",
+          "fuente": "TASS",
+          "url": "https://tass.com/economy/2209681",
+          "traducida": false
+        },
+        {
+          "id": "246a442cf34e962ba131",
+          "fecha": "2026-10-28T15:45:06+00:00",
+          "titulo": "In Serbia, a new type of democracy is taking hold, and Europe is watching closely",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/28/in-serbia-a-new-type-of-democracy-is-taking-hold-and-europe-is-watching-closely",
+          "traducida": false
+        },
+        {
+          "id": "700ded835f5ce28c217f",
+          "fecha": "2026-10-28T14:50:24+00:00",
+          "titulo": "EU set to scrap ‘associate member’ offer for Canada",
+          "fuente": "POLITICO Europe",
+          "url": "https://www.politico.eu/article/eu-set-to-scrap-associate-member-status-offer-for-canada/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "traducida": false
+        },
+        {
+          "id": "495594ef3112ce9f319f",
+          "fecha": "2026-10-28T13:00:13+00:00",
+          "titulo": "« La guerre de Trump contre le vote aux midterms confirme que le 6 janvier 2021 n’a pas été un accident mais l’application d’un principe du trumpisme »",
+          "fuente": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2026/10/28/la-guerre-de-trump-contre-le-vote-aux-midterms-confirme-que-le-6-janvier-2021-n-a-pas-ete-un-accident-mais-l-application-d-un-principe-du-trumpisme_6801576_3232.html",
+          "traducida": false
+        },
+        {
+          "id": "e698376275401d683c5b",
+          "fecha": "2026-10-28T12:53:34+00:00",
+          "titulo": "Ballon d’Or win will help keep Kane at Bayern, says Germany’s Matthaus",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/10/28/ballon-dor-win-will-help-keep-kane-at-bayern-says-germanys-matthaus?traffic_source=rss",
           "traducida": false
         }
       ]
@@ -761,13 +1013,21 @@
     {
       "id": "suramerica",
       "titulo": "Sudamérica: integración y política exterior",
-      "cantidad_archivada": 217,
-      "nuevas_24h": 21,
-      "anteriores_24h": 22,
+      "cantidad_archivada": 218,
+      "nuevas_24h": 20,
+      "anteriores_24h": 23,
       "dias_con_registros": 14,
-      "fecha_ultima": "2026-10-29T17:46:38+00:00",
+      "fecha_ultima": "2026-10-29T19:21:19+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "4498dfa315abeb874487",
+          "fecha": "2026-10-29T19:21:19+00:00",
+          "titulo": "Trump says won’t ‘take sides’ in Brazil election, but calls it a ‘disgrace’",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/29/trump-says-wont-take-sides-in-brazil-election-but-calls-it-a-disgrace?traffic_source=rss",
+          "traducida": false
+        },
         {
           "id": "7b9ebd7053e226e751b5",
           "fecha": "2026-10-29T17:46:38+00:00",
@@ -998,266 +1258,6 @@
           "titulo": "Brasil lamenta acidente de trem na Espanha, em que mais de 60 morreram",
           "fuente": "Agência Brasil (EBC)",
           "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/brasil-lamenta-acidente-com-trem-na-espanha-em-que-mais-de-60-morreram",
-          "traducida": false
-        },
-        {
-          "id": "556ea93e7efc439bb2fe",
-          "fecha": "2026-10-28T14:32:16+00:00",
-          "titulo": "Flavio Bolsonaro lands in Miami after losing Brazil’s presidential election",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/28/flavio-bolsonaro-lands-in-miami-after-losing-brazils-presidential-election?traffic_source=rss",
-          "traducida": false
-        }
-      ]
-    },
-    {
-      "id": "union-europea",
-      "titulo": "Unión Europea y relaciones exteriores",
-      "cantidad_archivada": 341,
-      "nuevas_24h": 20,
-      "anteriores_24h": 15,
-      "dias_con_registros": 14,
-      "fecha_ultima": "2026-10-29T17:46:38+00:00",
-      "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
-      "publicaciones": [
-        {
-          "id": "7b9ebd7053e226e751b5",
-          "fecha": "2026-10-29T17:46:38+00:00",
-          "titulo": "Brazil’s victory for the planet and democracy: seven lessons from Lula’s win",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/29/brazil-victory-planet-democracy-lessons-lula-win",
-          "traducida": false
-        },
-        {
-          "id": "c18929ef4b42042756ba",
-          "fecha": "2026-10-29T17:41:23+00:00",
-          "titulo": "Paris Jackson acusa al gestor del legado de su padre de incompetente y de intentar apropiarse de 100 millones de dólares: “Basta de cortinas de humo”",
-          "fuente": "El País",
-          "url": "https://elpais.com/us/entretenimiento/2026-10-29/paris-jackson-acusa-al-gestor-del-legado-de-su-padre-de-incompetente-y-de-intentar-apropiarse-de-100-millones-de-dolares-basta-de-cortinas-de-humo.html",
-          "traducida": false
-        },
-        {
-          "id": "0f31b9255e5f154f9242",
-          "fecha": "2026-10-29T16:43:37+00:00",
-          "titulo": "France football chief backs Real Madrid’s Mbappe after China apology",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/10/29/france-football-chief-speaks-up-for-real-madrids-mbappe-in-china-apology?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "62e979a207a72a6a98fd",
-          "fecha": "2026-10-29T16:36:52+00:00",
-          "titulo": "Elke Sommer, prolific German star of A Shot in the Dark and And Then There Were None, dies aged 85",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/film/2026/oct/29/elke-sommer-prolific-german-star-of-a-shot-in-the-dark-and-and-then-there-were-none-dies",
-          "traducida": false
-        },
-        {
-          "id": "e7319af513850f33cac7",
-          "fecha": "2026-10-29T16:31:59+00:00",
-          "titulo": "Germany plans electronic surveillance of Russia, Belarus from Lithuania — vice admiral",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2210351",
-          "traducida": false
-        },
-        {
-          "id": "afcd6110f66c5fc7e87c",
-          "fecha": "2026-10-29T16:20:57+00:00",
-          "titulo": "Berlin Process Leaders’ Summit 2026: UK statement to the OSCE",
-          "fuente": "GOV.UK FCDO",
-          "url": "https://www.gov.uk/government/speeches/berlin-process-leaders-summit-2026-uk-statement-to-the-osce",
-          "traducida": false
-        },
-        {
-          "id": "d8c5c48b09facc8cccf4",
-          "fecha": "2026-10-29T15:26:50+00:00",
-          "titulo": "Russia’s OSCE envoy says West creates permanent military channel for Kiev",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2210307",
-          "traducida": false
-        },
-        {
-          "id": "8e8b9a01a2b5aef008e7",
-          "fecha": "2026-10-29T15:18:43+00:00",
-          "titulo": "Von der Leyen touts ‘associate member’ status for Canada over objections of EU capitals",
-          "fuente": "POLITICO Europe",
-          "url": "https://www.politico.eu/article/ursula-von-der-leyen-associate-member-status-canada-eu-capitals-objections/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "traducida": false
-        },
-        {
-          "id": "ba202290f924fd431427",
-          "fecha": "2026-10-29T15:09:33+00:00",
-          "titulo": "El detenido por disparar a musulmanes y africanos cerca de París admite el móvil racista",
-          "fuente": "El País",
-          "url": "https://elpais.com/internacional/2026-10-29/el-atacante-de-trappes-admite-que-disparo-contra-musulmanes-y-africanos-por-racismo.html",
-          "traducida": false
-        },
-        {
-          "id": "8141f325f8dd5549661d",
-          "fecha": "2026-10-29T13:06:01+00:00",
-          "titulo": "ECB head Lagarde resigns amid mounting economic, political challenges for Europe",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/world/europe/article/3372617/ecb-head-lagarde-resigns-amid-mounting-economic-political-challenges-europe",
-          "traducida": false
-        },
-        {
-          "id": "cc304c4b7d881a6ca482",
-          "fecha": "2026-10-29T12:47:50+00:00",
-          "titulo": "China slams EU’s potential new trade safeguards, says they may violate WTO rules",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/economy/china-economy/article/3372612/china-slams-eus-potential-new-trade-safeguards-says-they-may-violate-wto-rules",
-          "traducida": false
-        },
-        {
-          "id": "d4dee5bc39a47cdc9414",
-          "fecha": "2026-10-29T12:29:23+00:00",
-          "titulo": "EU tells capitals to halt their national social media bans for a year",
-          "fuente": "POLITICO Europe",
-          "url": "https://www.politico.eu/article/eu-tells-capitals-to-halt-their-national-social-media-bans-for-a-year/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "traducida": false
-        },
-        {
-          "id": "a88cc75bedca70114556",
-          "fecha": "2026-10-29T12:00:08+00:00",
-          "titulo": "La guerre en Ukraine à travers les lettres d’Olga et de Sasha : « Pour Luida, la naissance d’Olès, conçu post mortem, est une manière de perpétuer l’esprit de l’homme qu’elle a aimé et, en pleine guerre, c’est aussi une victoire d",
-          "fuente": "Le Monde",
-          "url": "https://www.lemonde.fr/m-le-mag/article/2026/10/29/la-guerre-en-ukraine-a-travers-les-lettres-d-olga-et-de-sasha-pour-luida-la-naissance-d-oles-concu-post-mortem-est-une-maniere-de-perpetuer-l-esprit-de-l-homme-qu-elle-a-aime-et-en-pleine-guerre-c-est-aussi-une-victoire-de-la-vie-sur-la-mort_6802323_4500055.html",
-          "traducida": false
-        },
-        {
-          "id": "b964d3c7ff8f48abc50d",
-          "fecha": "2026-10-29T11:36:38+00:00",
-          "titulo": "Accident ferroviaire en Espagne : la France sans nouvelles de « plusieurs » ressortissants",
-          "fuente": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/10/29/accident-ferroviaire-en-espagne-la-france-sans-nouvelles-de-plusieurs-ressortissants_6802317_3210.html",
-          "traducida": false
-        },
-        {
-          "id": "d945601fe3a096a02de5",
-          "fecha": "2026-10-29T10:19:16+00:00",
-          "titulo": "Christine Lagarde quittera ses fonctions de présidente de la BCE en février",
-          "fuente": "POLITICO Europe",
-          "url": "https://www.politico.eu/article/christine-lagarde-quittera-ses-fonctions-de-presidente-de-la-bce-en-fevrier/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "traducida": false
-        },
-        {
-          "id": "775660b05d7e8021b371",
-          "fecha": "2026-10-29T07:48:43+00:00",
-          "titulo": "Germany does not want China decoupling but must defend its interests, president warns",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3372562/we-dont-want-china-decoupling-we-must-defend-our-interests-german-president-warns",
-          "traducida": false
-        },
-        {
-          "id": "6c5a62827f49de460fd0",
-          "fecha": "2026-10-29T04:00:05+00:00",
-          "titulo": "Brussels wants industry to ditch Chinese suppliers. Businesses are pushing back",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3372511/brussels-wants-industry-ditch-chinese-suppliers-businesses-are-pushing-back",
-          "traducida": false
-        },
-        {
-          "id": "9022b19d1ef97d9d196e",
-          "fecha": "2026-10-29T01:30:45+00:00",
-          "titulo": "Adani’s Mumbai airport shift hits turbulence – Air France, Emirates refuse to give in - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ1dfYTk0RzlialpPaktDVGMxbnlWOU4wVFczeXBsQmlfZ19zYmxqWGJZSGxTNFBqV0lfblFqTF9QTUVMemhyRG41czBCYUMtQWRTZ2xTTHhGT2VURWE1YVBjMlNSa1VXSzlqbEVMbkFHcVlONkxuVXdEVkpid05reEw3NDNlUmVtU2hOWV9rMThuVFZZUkNwamVLV3V0T3FGVkdCRzItb3lFa0t1dGfSAbQBQVVfeXFMUFV3ZENVZ0ZnenNLdm1TLTBOQzNEWFdNM2dkWU80THc4TjRPQ3p6NGdyeWhCYzdicXhEOWpYTUI3YlRNNTVBX21KUzZiQ21GWDMwZkN1WHh4UFl2RlBNOFA0QkxhOTQ5bVNqZERIYWpvUEZfcFB0ZWlVZTNBbG1yNXFjMjhmYzlVaVU4VmxFSmsxR3o0VldJVXFZdFJkSGlvTm4xMk0xMWZRUlYtWWU3aVQzSXBQ?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "3c8154c241a4d2cf6612",
-          "fecha": "2026-10-29T01:30:45+00:00",
-          "titulo": "Adani’s Mumbai airport shift hits turbulence – Air France, Emirates refuse to give in - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ1dfYTk0RzlialpPaktDVGMxbnlWOU4wVFczeXBsQmlfZ19zYmxqWGJZSGxTNFBqV0lfblFqTF9QTUVMemhyRG41czBCYUMtQWRTZ2xTTHhGT2VURWE1YVBjMlNSa1VXSzlqbEVMbkFHcVlONkxuVXdEVkpid05reEw3NDNlUmVtU2hOWV9rMThuVFZZUkNwamVLV3V0T3FGVkdCRzItb3lFa0t1dGc?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "425cf4d2ecc4aed2cfc9",
-          "fecha": "2026-10-29T00:53:30+00:00",
-          "titulo": "In France, protests frame costs of state silence - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ0xHNGl3OU85dHRsTTJYQ0xiU2NRNkZkbGFTbUg1cmhYMHVmQWF2MjZDdGRtX3FKbVhXMzA3cF80aE9uWmpJX3BDc25oWmFXQ2Z1YUNvZkpFWXRLS0RvSGZ3NFpfblN6bWJKdmhxSUJMaE14akVndDcxN2hWOUhrQ194QjZRYWIyRVdldGZ6RW9JTnQ5SW81OW5CX2lqWWtXc1ZmbGY0MC1rUzhYczJaalRPWHRhSTJLM3ZUMGRvb9IBxgFBVV95cUxQcGZRcWR0WG5jLTJoMG1MY2twUWd2cTVqcDhoQWhoU3ltd2g2OEpVMnlyNFlqejFHYlg2cXQ2OThUX1g1R0dkT0xWZkt0UldyZ09hVDZXd3Nrc2lTdjJDYTE0VFRlc3RNbnlGUTU3V0x1TnhHa3oxS0JyZUJTY3gtWkZFQWU4X2lRSFZnZ3hGQmlNTmQwSEQtMzlwOUMtQ0Q2cnNBWlBXNm5Xd3lMTXJxMkFEWTBCWmQxeHNXVS1iaTRDM2NpdHc?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "5f834fbed05ce39e8eee",
-          "fecha": "2026-10-28T18:27:02+00:00",
-          "titulo": "La UE y Canadá buscan una alianza histórica tras descartar la fórmula de “miembro asociado”",
-          "fuente": "El País",
-          "url": "https://elpais.com/internacional/2026-10-28/la-ue-y-canada-buscan-una-alianza-historica-tras-la-descartar-la-formula-de-miembro-asociado.html",
-          "traducida": false
-        },
-        {
-          "id": "e0fe1a1bcfa063635996",
-          "fecha": "2026-10-28T16:45:25+00:00",
-          "titulo": "Tory Brexit was ‘harder’ than promised in EU referendum, says Andy Burnham",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/politics/2026/oct/28/tory-brexit-harder-promised-referendum-andy-burnham",
-          "traducida": false
-        },
-        {
-          "id": "d1999e7f8a11b24e1487",
-          "fecha": "2026-10-28T16:11:21+00:00",
-          "titulo": "Bruselas busca aumentar la capacidad de las refinerías europeas para frenar los precios de los combustibles",
-          "fuente": "El País",
-          "url": "https://elpais.com/economia/2026-10-28/bruselas-busca-aumentar-la-capacidad-de-las-refinerias-europeas-para-frenar-los-precios-de-los-combustibles.html",
-          "traducida": false
-        },
-        {
-          "id": "fdb9717549c7ac63304b",
-          "fecha": "2026-10-28T16:04:42+00:00",
-          "titulo": "National authorities should influence operation of social networks in their states — Putin",
-          "fuente": "TASS",
-          "url": "https://tass.com/economy/2209681",
-          "traducida": false
-        },
-        {
-          "id": "246a442cf34e962ba131",
-          "fecha": "2026-10-28T15:45:06+00:00",
-          "titulo": "In Serbia, a new type of democracy is taking hold, and Europe is watching closely",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/28/in-serbia-a-new-type-of-democracy-is-taking-hold-and-europe-is-watching-closely",
-          "traducida": false
-        },
-        {
-          "id": "700ded835f5ce28c217f",
-          "fecha": "2026-10-28T14:50:24+00:00",
-          "titulo": "EU set to scrap ‘associate member’ offer for Canada",
-          "fuente": "POLITICO Europe",
-          "url": "https://www.politico.eu/article/eu-set-to-scrap-associate-member-status-offer-for-canada/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "traducida": false
-        },
-        {
-          "id": "495594ef3112ce9f319f",
-          "fecha": "2026-10-28T13:00:13+00:00",
-          "titulo": "« La guerre de Trump contre le vote aux midterms confirme que le 6 janvier 2021 n’a pas été un accident mais l’application d’un principe du trumpisme »",
-          "fuente": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/10/28/la-guerre-de-trump-contre-le-vote-aux-midterms-confirme-que-le-6-janvier-2021-n-a-pas-ete-un-accident-mais-l-application-d-un-principe-du-trumpisme_6801576_3232.html",
-          "traducida": false
-        },
-        {
-          "id": "e698376275401d683c5b",
-          "fecha": "2026-10-28T12:53:34+00:00",
-          "titulo": "Ballon d’Or win will help keep Kane at Bayern, says Germany’s Matthaus",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/10/28/ballon-dor-win-will-help-keep-kane-at-bayern-says-germanys-matthaus?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "a7f28fbfc3181a771464",
-          "fecha": "2026-10-28T12:47:03+00:00",
-          "titulo": "Berlin startet KI-Überwachung am Kottbusser Tor",
-          "fuente": "POLITICO Europe",
-          "url": "https://www.politico.eu/article/berlin-startet-ki-ueberwachung-am-kottbusser-tor/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "traducida": false
-        },
-        {
-          "id": "66c034187004384df854",
-          "fecha": "2026-10-28T11:43:40+00:00",
-          "titulo": "China’s military holds talks in France and Germany despite rising trade tensions",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/military/article/3372465/chinas-military-holds-talks-france-and-germany-despite-rising-trade-tensions",
           "traducida": false
         }
       ]
