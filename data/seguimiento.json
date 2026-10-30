@@ -1,17 +1,25 @@
 {
-  "actualizado_utc": "2026-10-30T16:51:19.167360+00:00",
+  "actualizado_utc": "2026-10-30T17:02:14.432502+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 1224,
-      "nuevas_24h": 131,
-      "anteriores_24h": 112,
+      "cantidad_archivada": 1225,
+      "nuevas_24h": 130,
+      "anteriores_24h": 113,
       "dias_con_registros": 15,
-      "fecha_ultima": "2026-10-30T16:47:37+00:00",
+      "fecha_ultima": "2026-10-30T16:51:11+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "2947c1fa8f5ef32ef3a7",
+          "fecha": "2026-10-30T16:51:11+00:00",
+          "titulo": "Russia, US begin coordinating date for November talks in Abu Dhabi — Kremlin aide",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2211091",
+          "traducida": false
+        },
         {
           "id": "348a7fa5921805aa7c8a",
           "fecha": "2026-10-30T16:47:37+00:00",
@@ -243,23 +251,15 @@
           "fuente": "TASS",
           "url": "https://tass.com/economy/2210991",
           "traducida": false
-        },
-        {
-          "id": "abfa993055820b89b7bc",
-          "fecha": "2026-10-30T13:59:46+00:00",
-          "titulo": "Chad eyes deeper security, energy cooperation with Russia",
-          "fuente": "TASS",
-          "url": "https://tass.com/economy/2210993",
-          "traducida": false
         }
       ]
     },
     {
       "id": "india-asia",
       "titulo": "India y Asia-Pacífico",
-      "cantidad_archivada": 473,
-      "nuevas_24h": 65,
-      "anteriores_24h": 88,
+      "cantidad_archivada": 474,
+      "nuevas_24h": 64,
+      "anteriores_24h": 89,
       "dias_con_registros": 15,
       "fecha_ultima": "2026-10-30T14:00:00+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -510,8 +510,8 @@
       "id": "oriente-medio",
       "titulo": "Oriente Medio: seguridad y diplomacia",
       "cantidad_archivada": 739,
-      "nuevas_24h": 56,
-      "anteriores_24h": 64,
+      "nuevas_24h": 55,
+      "anteriores_24h": 63,
       "dias_con_registros": 15,
       "fecha_ultima": "2026-10-30T16:44:16+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -1014,8 +1014,8 @@
       "id": "suramerica",
       "titulo": "Sudamérica: integración y política exterior",
       "cantidad_archivada": 229,
-      "nuevas_24h": 14,
-      "anteriores_24h": 22,
+      "nuevas_24h": 13,
+      "anteriores_24h": 23,
       "dias_con_registros": 15,
       "fecha_ultima": "2026-10-30T16:00:02+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
