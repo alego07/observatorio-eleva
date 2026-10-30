@@ -1,507 +1,255 @@
 {
-  "actualizado_utc": "2026-10-29T19:56:48.396356+00:00",
+  "actualizado_utc": "2026-10-30T12:37:01.756573+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 1127,
-      "nuevas_24h": 127,
-      "anteriores_24h": 111,
-      "dias_con_registros": 14,
-      "fecha_ultima": "2026-10-29T19:04:17+00:00",
+      "cantidad_archivada": 1179,
+      "nuevas_24h": 126,
+      "anteriores_24h": 112,
+      "dias_con_registros": 15,
+      "fecha_ultima": "2026-10-30T12:32:52+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
         {
-          "id": "f72c54a73a7d4876b865",
-          "fecha": "2026-10-29T19:04:17+00:00",
-          "titulo": "Seven oil tankers carrying 288,000 tonnes of Russian diesel sail towards US",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/oct/29/seven-oil-tankers-288000-tonnes-russian-diesel-sail-us-putin-trump",
-          "traducida": false
-        },
-        {
-          "id": "07874ab03d8223ce0dfd",
-          "fecha": "2026-10-29T19:02:19+00:00",
-          "titulo": "Pentagon fires general it says leaked classified information to media",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/29/pentagon-fires-general-it-says-leaked-classified-information-to-media?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "1efa9b6669b47e625b01",
-          "fecha": "2026-10-29T18:52:49+00:00",
-          "titulo": "Putin highlights Russia’ leading position in grain exports",
+          "id": "e62a7e88edda9491279f",
+          "fecha": "2026-10-30T12:32:52+00:00",
+          "titulo": "Russian troops liberate three communities in Ukraine operation over week — top brass",
           "fuente": "TASS",
-          "url": "https://tass.com/economy/2210529",
+          "url": "https://tass.com/politics/2210903",
           "traducida": false
         },
         {
-          "id": "bfb48264bfec46e14ac4",
-          "fecha": "2026-10-29T18:49:13+00:00",
-          "titulo": "Mine clearance completed for Alyoshki humanitarian mission — Russian official",
+          "id": "94aa3f110ea86261848e",
+          "fecha": "2026-10-30T12:32:15+00:00",
+          "titulo": "Russia, Sudan discuss joint projects to develop oil fields — Novak",
           "fuente": "TASS",
-          "url": "https://tass.com/society/2210525",
+          "url": "https://tass.com/economy/2210905",
           "traducida": false
         },
         {
-          "id": "a382bd466141564bc21f",
-          "fecha": "2026-10-29T18:47:11+00:00",
-          "titulo": "West fails to inflict strategic defeat on Russia — Putin",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2210527",
-          "traducida": false
-        },
-        {
-          "id": "bd03d13567db6d2a7afd",
-          "fecha": "2026-10-29T18:40:23+00:00",
-          "titulo": "Russia wants to avoid Hormuz scenario in Baltic Sea — Putin",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2210519",
-          "traducida": false
-        },
-        {
-          "id": "179b48a756041a94394c",
-          "fecha": "2026-10-29T18:37:42+00:00",
-          "titulo": "Russia does all it can to keep humanity from repeating previous global tragedies — Putin",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2210517",
-          "traducida": false
-        },
-        {
-          "id": "56dfc78a38598584e8b9",
-          "fecha": "2026-10-29T18:32:42+00:00",
-          "titulo": "Russia, Africa are natural allies in building new fair world — Putin",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2210513",
-          "traducida": false
-        },
-        {
-          "id": "dc62050c7689f63dc72e",
-          "fecha": "2026-10-29T18:30:44+00:00",
-          "titulo": "UN needs reform, but don't throw baby out with bathwater — Putin",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2210507",
-          "traducida": false
-        },
-        {
-          "id": "9c87f54077783825799e",
-          "fecha": "2026-10-29T18:27:05+00:00",
-          "titulo": "Russia ready to respond to any challenge in Baltic Sea — Putin",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2210499",
-          "traducida": false
-        },
-        {
-          "id": "b7902991afe2b2d96280",
-          "fecha": "2026-10-29T18:19:46+00:00",
-          "titulo": "Putin certain about Africa’s ability to achieve success",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2210479",
-          "traducida": false
-        },
-        {
-          "id": "01b3af8cb0afbe752dd1",
-          "fecha": "2026-10-29T18:15:50+00:00",
-          "titulo": "If it comes to war between Russia and Europe, 'there will be no winners' — Putin",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2210493",
-          "traducida": false
-        },
-        {
-          "id": "bd5316a122682aa5187a",
-          "fecha": "2026-10-29T18:13:32+00:00",
-          "titulo": "Putin cites Russia-Africa summit motto 'For Peace, Security and Development'",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2210477",
-          "traducida": false
-        },
-        {
-          "id": "d01d8976a7cad70549b6",
-          "fecha": "2026-10-29T18:10:29+00:00",
-          "titulo": "Question about rivalry has nothing to do with Russia, colonialism alien to it — Putin",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2210475",
-          "traducida": false
-        },
-        {
-          "id": "356861b34c4ab40fa46c",
-          "fecha": "2026-10-29T18:03:21+00:00",
-          "titulo": "At least 14 people killed in attack on Ukraine train station",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/aje-onl-nf_russian-drone-strike-at-dnipro-train-platform-291026?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "fb8d0b23dc173be6f435",
-          "fecha": "2026-10-29T18:01:55+00:00",
-          "titulo": "Current level of Russia-Africa trade turnover is not limit — Putin",
-          "fuente": "TASS",
-          "url": "https://tass.com/economy/2210471",
-          "traducida": false
-        },
-        {
-          "id": "bbcb028e43ccc9019d14",
-          "fecha": "2026-10-29T17:54:07+00:00",
-          "titulo": "Putin notes specific nature of challenges facing African regions",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2210449",
-          "traducida": false
-        },
-        {
-          "id": "905a514eb9bca866f767",
-          "fecha": "2026-10-29T17:49:04+00:00",
-          "titulo": "EN DIRECT, guerre en Ukraine : après une série de frappes, qui ont fait au moins 20 morts, l’UE exhorte ses alliés à accentuer la pression sur la Russie",
-          "fuente": "Le Monde",
-          "url": "https://www.lemonde.fr/international/live/2026/10/29/en-direct-guerre-en-ukraine-apres-une-serie-de-frappes-qui-ont-fait-au-moins-20-morts-l-ue-exhorte-ses-allies-a-accentuer-la-pression-sur-la-russie_6799896_3210.html",
-          "traducida": false
-        },
-        {
-          "id": "20571fe753246b0d761f",
-          "fecha": "2026-10-29T17:47:50+00:00",
-          "titulo": "Melania Trump hopes humanitarian operation in Alyoshki will help resolve Ukraine conflict",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2210441",
-          "traducida": false
-        },
-        {
-          "id": "e05568a5f9c4524ae267",
-          "fecha": "2026-10-29T17:45:03+00:00",
-          "titulo": "Ukraine : « L’Union européenne doit devenir le dépositaire des 210 milliards d’euros d’avoirs russes gelés en 2022 »",
-          "fuente": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/10/29/ukraine-l-union-europeenne-doit-devenir-le-depositaire-des-210-milliards-d-euros-d-avoirs-russes-geles-en-2022_6802371_3232.html",
-          "traducida": false
-        },
-        {
-          "id": "e3530939fe80af539781",
-          "fecha": "2026-10-29T17:43:54+00:00",
-          "titulo": "Putin talks about upcoming meetings with African leaders",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2210425",
-          "traducida": false
-        },
-        {
-          "id": "0a8c85cdc6dcd0f57f51",
-          "fecha": "2026-10-29T17:41:25+00:00",
-          "titulo": "Russia and Africa to hold exercises to counteract outbreaks of infections — Putin",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2210417",
-          "traducida": false
-        },
-        {
-          "id": "190b9f58fc977bf99b16",
-          "fecha": "2026-10-29T17:37:05+00:00",
-          "titulo": "Date, venue for next Russia-Africa summit to be agreed upon in due time — Putin",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2210413",
-          "traducida": false
-        },
-        {
-          "id": "127940d6f623d9d85c4a",
-          "fecha": "2026-10-29T17:36:00+00:00",
-          "titulo": "Russia-Africa summits to continue on regular basis, says Putin",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2210405",
-          "traducida": false
-        },
-        {
-          "id": "3812e09bfa5f0e5739c1",
-          "fecha": "2026-10-29T17:32:24+00:00",
-          "titulo": "Odessa rejects ban on Russian-language content",
-          "fuente": "TASS",
-          "url": "https://tass.com/society/2210407",
-          "traducida": false
-        },
-        {
-          "id": "09f2a63e8ded00ef3426",
-          "fecha": "2026-10-29T17:26:25+00:00",
-          "titulo": "Summits like Russia-Africa summit have become good tradition, Putin says",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2210391",
-          "traducida": false
-        },
-        {
-          "id": "0b47beac9d6d0d119219",
-          "fecha": "2026-10-29T17:20:41+00:00",
-          "titulo": "Turkey-Russia ties owe strength to Erdogan-Putin friendship — ambassador",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2210385",
-          "traducida": false
-        },
-        {
-          "id": "a765bb54082371e2f099",
-          "fecha": "2026-10-29T17:14:56+00:00",
-          "titulo": "European attempts to choose negotiator for talks with Russia descend into chaos — media",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2210377",
-          "traducida": false
-        },
-        {
-          "id": "de0a43e43c3c929fb695",
-          "fecha": "2026-10-29T17:13:00+00:00",
-          "titulo": "Russian Finance Ministry not supporting oil and gas sector taxation changes",
-          "fuente": "TASS",
-          "url": "https://tass.com/economy/2210375",
-          "traducida": false
-        },
-        {
-          "id": "ec39e15cad569ec18d98",
-          "fecha": "2026-10-29T17:06:20+00:00",
-          "titulo": "Mozambique welcomes Russian investment — President",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2210371",
-          "traducida": false
-        }
-      ]
-    },
-    {
-      "id": "india-asia",
-      "titulo": "India y Asia-Pacífico",
-      "cantidad_archivada": 398,
-      "nuevas_24h": 71,
-      "anteriores_24h": 89,
-      "dias_con_registros": 14,
-      "fecha_ultima": "2026-10-29T18:31:38+00:00",
-      "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
-      "publicaciones": [
-        {
-          "id": "394e5ffc415c87534e91",
-          "fecha": "2026-10-29T18:31:38+00:00",
-          "titulo": "Foreign Secretary to visit Kathmandu as plans get underway for Nepal PM’s India visit",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/foreign-secretary-to-visit-kathmandu-as-plans-get-underway-for-nepal-pms-india-visit/article71641874.ece",
-          "traducida": false
-        },
-        {
-          "id": "fe7f4fb38e926cef48e9",
-          "fecha": "2026-10-29T16:55:20+00:00",
-          "titulo": "India votes in favour of UNGA resolution calling for end to US embargo on Cuba",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/india-votes-in-favour-of-unga-resolution-calling-for-end-to-us-embargo-on-cuba/article71642069.ece",
-          "traducida": false
-        },
-        {
-          "id": "9abe1a5cf5eb69682573",
-          "fecha": "2026-10-29T16:30:00+00:00",
-          "titulo": "India increases growth forecast for fiscal year",
-          "fuente": "Deutsche Welle",
-          "url": "https://www.dw.com/en/india-increases-growth-forecast-for-fiscal-year/a-79798971?maca=en-rss-en-world-4025-rdf",
-          "traducida": false
-        },
-        {
-          "id": "8e1f1f9d8472c9778cc5",
-          "fecha": "2026-10-29T16:01:30+00:00",
-          "titulo": "UGC NET December 2026: NTA extends application deadline to October 31 - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNYzk5STN0cHd0dGZIZ2wtaVN2T0l4NmtuaUhvZWRxT3pwVDBZVFE3WHpqOHVCRFRzMWxOMGlySkxENkoyTE1YMzRFYXNhTWFBak5DU3ItZWFpVDdRM2c5U0NWMUhVTGxJQms3LWtKbkNPVlZER2hwMW5FTzRMal81bTVZU3M2NUhrYzRsWTBGRGIwWHFXTTZnaV9QaGFOREtZNVIwUFFhY2UxTnVPbVNPMzVlU3BWOURaQjRUNW1FZUJjM2U1bERpT3ZXSnB5MWlEcUE4QUtlVDdlY0VhRi1pb1l0Y21LT0HSAe4BQVVfeXFMTjNPT01aX09KeHhrNXRLMkJZTjZKX3lWbmZQQ1hHRGtiSURiSFNDeHpORDhVdko4NEtfVjhrejYyazgzMC1BUk40V3BxaWY5QWNEaVdiR0pCZDBHeE42YXJYd3VEcnVZbm9odGVTVUoyMERaXzhSNGhzSEM0eTFqSW50T0E4Y2lrVFdwMjhoZEdMY19STHdYZFNZWmhpNEpOb2hZUXFjZ0t6MmJzRllrT3BvTE9TcEd6ME1RTVBDb2NiMWFXdUFQUlluM1V3MmNUYUJlNFdhWG00MWYtX21OUUxpNktTZ05aU3FSdWhTdw?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "a4f1998207c24999a0c6",
-          "fecha": "2026-10-29T15:33:28+00:00",
-          "titulo": "‘LAC transgressions keep happening, nothing new … situation normal now’: Arunachal CM - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTHhLOXNJSURlcl8xQ0Q5bFNBMDhHampMZ3BKWmVKaHQ1am9NRGJ5elpGLUlyZV9Mdldmb0kzUlRLSGg3MjRGVzM1M19DMEItOENNWnQxMm1vNXZkT2FTTHUwaGxLYjhTbUN0OEMtVktoVWszTGdQeDIzQlZ0UnJsM0VlY2VtaEJXR2xNQllHZE5jVkM5aWF5TExYMlEzWFotcGdmOFRSN3BhR291YkxVV1JLLTM2Ty1INXlN0gHCAUFVX3lxTE9PdE1sT01CSElUZkZPQnhFSzc2a1plNzA4eGd0cUZtR3FyUVNyQjdWVzJpTFo0M2F0bXc2YXNwQ1B1WmpsZ2MxU3pyU25ZUlI1Sk1Cc0lxQWQ2X09ReURtOHhwYW1scXcwTU9mMVJXWUZDVTBEbms4TnJWeDV0MkRpYU1lM2k0MEp6aW9nQVlucVRDYTFERTluR3RDS0JUcmFDZks4WlpOdlEtU3dsdVExa3ZLUnF6TXJEdkxQWUhoajVR?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "4ed41c700198a8cbfc4f",
-          "fecha": "2026-10-29T15:09:22+00:00",
-          "titulo": "Indian Express Chandigarh epaper dated Thu, 29 Oct 26 - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmWDNJYW81OFE2c1FXbkxfd1VJY19SR2JuTlVkVFhKSW9GZ3Jwd1pKbW11bDdackw0NXZrTXZyTkVLNldrQjNPLXhWOV9kRjhMS1VPa3BzLXQ?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "577cd5cb118b21a41ea9",
-          "fecha": "2026-10-29T13:59:59+00:00",
-          "titulo": "Prince Yadav: Delhi’s tennis-ball prodigy has become India’s death-overs man - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPckxmWUtIQjNhX3Iwc2ItZHpNeVRPdDQwZ045UDh0OWJLRUcyZTl5alhxcGlLY0ZuVlE4TkljNUZVRnVYTjNYcWlXVmlnSEV5d2djWEMwY1NKc2EtbnB4bDJXakVfRlNuejVqaHlBYmg5Mnd5UnRndkFDTlRMVVlFWWwzSnFIeHlTVy0tRnNvRk9OMUhVR01CdDRieGU0aEIwam1vQWhfdTcxRklraVhnU3Rjb3BtTHM2MDVB0gHCAUFVX3lxTE1XMDlSUERzaDNBSi1uajlSbDNGWldSUTJ1cmx1b3NpQXdpdHFOTUxTaVdBaFUzc2NDcWRVVDY1RWN0RkJpQzJVd3hhdm9iMFIxRmJkUHliczdGNnVSdzdFZF9EYWIyWi1iZ19GUFBYeE9LRHRYaXh0bUlVeTZuYWFseGZJeVZtRnMzTzZMcE1uVThSMDFMMldrRjRIRjlUWlBzQktKMFZlZEtpTHVHUHYtUkJMSjZtZ2pLNU5idTVteW1n?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "a33c6cedf51da838b63f",
-          "fecha": "2026-10-29T13:57:50+00:00",
-          "titulo": "India ready to share battle-tested counter-terrorism expertise with ASEAN partners: Rajnath",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/india-ready-to-share-battle-tested-counter-terrorism-expertise-with-asean-partners-rajnath/article71640582.ece",
-          "traducida": false
-        },
-        {
-          "id": "ee991fdc93893d91be0c",
-          "fecha": "2026-10-29T13:26:00+00:00",
-          "titulo": "Can EU and India work together to secure Indo-Pacific?",
-          "fuente": "Deutsche Welle",
-          "url": "https://www.dw.com/en/can-eu-and-india-work-together-to-secure-indo-pacific/a-79796195?maca=en-rss-en-world-4025-rdf",
-          "traducida": false
-        },
-        {
-          "id": "7d7b035ea4fcc558dadd",
-          "fecha": "2026-10-29T13:13:56+00:00",
-          "titulo": "Jewish-Arab coalition in Israel? Netanyahu’s rivals face a crucial choice - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeWhRa0ZoeG9XMGd2MzZqa0ljcVp1c3lUQl9IeWRHYWxsYzYzZmt5aTlsYlBPeE4xSmk1SmxmVVJvT0JGaFdZS2pYMjcwd3Q0ZTVXdHotX1JfV1FWM3l1bWNNYVMxa05UQU5wZUo2aTlWNVhXcnJNQmVsNVYtNmtteHdvdEJ4VlIyV1JrRjBEVk9uNEVsLU9DSGQ5aGJQUHhCR0FlaFpyVTAzOXJ6VTlyU00zUjhkVXRsQjg2dXBWOElRRkly0gHLAUFVX3lxTE84S3dtc1hBOFBHZld3S2VrOHByUjhHYUdMM0oxU3ZuWTFkTXQ5Q000VllJcmRqaFZ5TE01bXRIYTlJclJBY1hFOFM5WE1ITU1mSGp1T2lSSUJnVjJsR0Z1dklXNGRLUVBnaHNZdUpwR3UxOXFpX1BlNVltY0lGeDdwMjM3cG1sUUJCQ2NlcllrWW9RTG1XdFZQclZ3dGp2THdJdzNsbG14UmEwVzJEYWFXeUhDakFGd2lVaFFSTE5LaDFrWldQN3hjbnpz?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "749f831bc6c05fa4c1cc",
-          "fecha": "2026-10-29T12:37:52+00:00",
-          "titulo": "Stitches on head, flydubai Indian pilot Smit Machchhar in UAE draws attention - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcjBmTlBRU3UtU2RNd0xCVlc3UDBFVEpXV0tyOVFGNmIyc21Cam1LbGdsZlNMZ09KY2E3bWVzWmRERVZMckQ2NUhEVkp6YkJQZ2YwbVdLNl9LTENDbW9abkFwVmpKNk52NDM2dGZyMVU3MXJMQ0RpV1VkamQyb0hrcmxNUVZpODk0V3ViZWdmUTNGUGktbXZyT2pGcHIzWVhkUy00dGNtRm1fVnlPWnhVUTZ6V2vSAbsBQVVfeXFMT2tpUzkyTkdEaF9udjJGcVpJWVRsSktkbVBMZC1MWVFxNXZDZFIzRkVrc0VGQi0welZlRW5yOFlPdHRZZ3Y3eU4xNkg2ZUZZbHhfV0lvQkRqTWgtQjRkVXN3Y2FIVlpaX2RWdFhHelVsa2d1V292Y2Z4M2tPY2RLN0RVVzUxXzFVR293V3hES3NjMkx4X1p2UDlYMDNaMTM1eF9RN01EOGdaRnZxSXJ0ZDhlNjgwQk1MNWZsWQ?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "1b2a1683f5fbea8928ae",
-          "fecha": "2026-10-29T12:10:35+00:00",
-          "titulo": "‘Ours is not like the old model’: Dr Shriram Nene on his 27-year marriage to Madhuri Dixit - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX0dUWkhFa0RRVW1YTG1DSzFqUzR3eGZjTzVJT2tLR2tGb0plWHBCSG5NdzRELUkyTUxQRzVvLUI4RVZ6TnVxZjY0UkJQLUw1TkoxUzR6LTMxLXpHcEdkUmI4am00MVZ0Y2VTMzdRd2JzZVNSQlVYZ2V3RVRZZFY1Z1NzLUtaSlVqYVhkSWlnYzVWQ3V6Nm8zbGRXQkJQTVB0cW1CRDNrbHMyVHVQMk1ROHZHaEk4YndTcWxwN2swcm9ZZGpVbm9IemFBNVhWSC1FdE03STNXTUJqX3RS0gHjAUFVX3lxTFBtcVJWaE9ZY0ZrV2NtQmc4NDFqb09kQTk1dnNNdXZzVTE4NS1XV0pSS0F6ZEhBcXRPLTdHVkRLajJ4SF9nd3ZnQ25aVDc1QWtpNEtuWng1dWpXY2F2ZHpsblNJRjhWRTJmLW9BMk9WeUJxWlU5RWV5OTBUZTlEcWQ1QXBVWDJfMFR1SVl1ZkxxMjJZMW5NR2NfZjVlZXRybG9OTVlRSk1tenFtbkJpeW03QmNpYlBmMlVaSF81SjBIT0h4ZXk0Qk5VSU8wdk1leGRxRk1ScFJLeE53SkZKU25HM3dn?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "4450d5380f30766e51b7",
-          "fecha": "2026-10-29T11:11:40+00:00",
-          "titulo": "Why Japan is pushing for a more ‘proactive’ Southeast Asia amid great-power rivalry",
+          "id": "4ef01b60e099c32ad73b",
+          "fecha": "2026-10-30T12:30:06+00:00",
+          "titulo": "A Xi-Trump-Putin summit in Shenzhen could kick-start peace in Ukraine",
           "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/week-asia/politics/article/3372603/why-japan-pushing-more-proactive-southeast-asia-amid-great-power-rivalry",
+          "url": "https://www.scmp.com/opinion/china-opinion/article/3372321/xi-trump-putin-summit-shenzhen-could-kick-start-peace-ukraine",
           "traducida": false
         },
         {
-          "id": "92ec837d12745f47db03",
-          "fecha": "2026-10-29T11:09:16+00:00",
-          "titulo": "U.K. PM Andy Burnham’s trip to India could take place soon: British Envoy",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/uk-pm-andy-burnham-trip-to-india-could-take-place-soon-british-envoy/article71640057.ece",
-          "traducida": false
-        },
-        {
-          "id": "d07bd8d24db045c21f0c",
-          "fecha": "2026-10-29T11:05:18+00:00",
-          "titulo": "Protest at India university where no students’ union vote held for 20 years",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/29/unrest-at-india-university-where-no-students-union-polls-held-for-20-years?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "13f08816b887ef1426f7",
-          "fecha": "2026-10-29T11:03:32+00:00",
-          "titulo": "This Tokyo neighborhood is famous for Halloween. Locals would like to change that - CNN",
-          "fuente": "CNN",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTmMwclRBRWNsSmtpOEhXQzdHR1o4MEFvT3A2OTBYeGZvZXpMVEFzNTdveVMtaDgwT0JNeUxRT3ZySGNWOXFpZW9DMUtOMzVsWUQyTmM5eTZNbGFDVUJIUWpwUzdqdFJYT3FmZXVnR25VaUFTaW1hQk5OR090aHNNdy1DaVpLUQ?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "8806e153c07ed5a47522",
-          "fecha": "2026-10-29T10:55:45+00:00",
-          "titulo": "Maharashtra MLC election: Why BJP lost Nagpur, Pune strongholds - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOG1sblh2YldScXhIZWZTaU9JdHJwdzNQWW1Xb0NqcXhxc3I2RGpJV3VvYWV4MkxmY09kTGJsZ1FJeWtRaS1Oa1FuaEJNTVp6SHdqdnp5OVZhVE8zQ0V5VjRXQkZ4bGozNkFyUVByM3lzUktxSEJGbXpCd1FCd3pVX1JmTHVrRjUtLThIRGZxTWRnME9DdkhrMVhZRnRJWFhRRWRubmtQdWZNS3hSWUNSeE5Pb1BMaG9KYlU2alRNOWF2S0dW0gHLAUFVX3lxTE9VZlFyTllvN2Y5cERBU1AyVmp3dVN1V1NvQWtUX3JkN3pKaE5RSV9ERl9hVExKWWVTdFpsNEE4V0JuZU1kUUlyb0pvS2gyYmFFSW9uekstVW9JZUJyeVN3REpjVklNbGZRelc2dVRQcmpUOHdTMlE1ZXJDVEp0QXVRU0RBblgwLUV4eXJJbVl3aUNlVnRGUERVTXQtaXNLVnJrUGpEaXdHaGtHb25XMEdpanV0cERJa2F3Y2M0Z1A4UmFyRG1jcjROXzA4?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "2abc060344c7fa75e6fb",
-          "fecha": "2026-10-29T10:25:13+00:00",
-          "titulo": "KBC contestant once told Amitabh Bachchan how she lost 20kg - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR1BWVFFOZG95YWZWcGVwWXFaY0NrV0l1X0pvcEdOUXdfcUp4amsxY1laTDFzWmpRLTVXUGFFbW9jZjdWUk9uWXlGVEdXVUx0VHVGTVI5aWhpOGwxUmp6SmlQR05WNnFyQWVJdVA0a1oweUpOdmtHZC1jSWhhS2FIdEJlZjNRb05QWUtocTBrMkN0WFBoYTJwc2F0aHBYRHhJLVVhekJVdHEyRi10QU5HcWtLamxMdVZudjFKZHNCcllZcFpLYzhPaUp30gHQAUFVX3lxTE9YOU0zS2VyTHBrbnF1QmdvN0RlTnk5OU9Td3N2UndfWkdCVk03eFNNb1RKRWk3NTdQeHZ3Qy1oMTdSdFVILWdZTDlBOGtDbnFuY29ybHhFRGxUMnpnV0hNcUJsSnl3VDhjYW5oQnc4a2NTTUhzVDdOeUh5VkpxV3RtQ2kyYXlBOF92TmZDekgtUURwMFpwNjR6ekd3UVBCZ2ZJWGkydnRiMFg3ZlRRR1ZEQXNrRGhfN0JuVzNRbXp4XzJsWTZhYzRhOEJHNDlpUkE?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "fe22128f1ea3175f67c2",
-          "fecha": "2026-10-29T10:17:15+00:00",
-          "titulo": "Osaka says she’ll return stronger after latest low, Tokyo exit to Pohankova",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/10/29/osaka-vows-to-return-stronger-after-latest-low-in-tokyo-exit-to-pohankova?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "af3f79ce43d7ed4fc2a7",
-          "fecha": "2026-10-29T10:07:33+00:00",
-          "titulo": "Caught on CCTV: ‘Annoyed by alarm’, Gujarat man sets neighbour’s car on fire - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTTFfSUM5RUVJY1ZMSm84YUVLN0FYNUc3bGtTV3pNV0U3eHp3enJpT2FWWVEwZHVHX1hHUGFkUXQwYVNMRkx6dTFGWGd6X1F6bUNsMTJjUTY1dzR3WUJYbjhXZ1U3Z1FQRlFhdEk4c1h6TTJyT0t1Qkhvcjl5SWFsOXZkUTR1U1pjQ0RFZnZtVUlnR1hUM3JINUY3RHdZSldrT3VoT19PbGNYZWIzbF8yX9IBtwFBVV95cUxQbEppYmNuekJEc1FrOUNoa1J6Qm53NVhyajJ5bUt0UnoxZ2gwRUVuVHpKcW9Mb2tFZTlKVzZEeGE4Z1FRS25yUkR6aDB4ZlprQkl4aHpjM1dFRF85bl81a0ZiZ2dMdjJSb0tFYk5ENnRHSkhjb0V6ZnpXN2hqLUhaWVJSZ2RIMzQwR3F6emg0dVpJUkJEOEI5STlNbEJEMlpUa3dTMGRORDlKdHpnektRYnRBUkFoZXc?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "b0e6f6330853b7b3155f",
-          "fecha": "2026-10-29T09:49:57+00:00",
-          "titulo": "Israel election: Netanyahu short of majority, door opens for Arab parties - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMEdTaUozYUpFTGhTUzJhNno1bEJ4SThBbGExSWpjX2RyeHJCekZpWWxwRmhaMHY3YVpQR3N4Yk5TX29LREpGeVMxVFkybW4xeWpXM1luNkMxRmZ3SkRmVFVuWHgweU5MTEdvYVhfQXFkNzVXYXFyT0JCcGxhTlgxcE9RQUx5SXJwSThNWmtwT0ZWWTNENVl0MHZXMkNSMnJNa0RDZGUwOWp1UDBRYTBpVDFaRWZlZXJneTVGbWZudlMxM0RrTXRnRjRkWXBTekF0eHJvWXhSSdIB3gFBVV95cUxQeEZDQ2gtVzZKbVVLRmlkbDF1d2laMkcxNG45Tkd0VGhiTV9mQ2Voa0ZnQVA5WXFTZ0Z4Q1Y0OGVZOTVuSTc0MUMzV0t0VVlHeHFKOXJVai0zWU9DSGxIby1ZYWNXR3NGb3RsS1pmUG9idVJPNWlBeDk4eUdpQUtlakJsYkdMRC14VFJ4NE85bTdzSUZBR0RsVnN2emJfTFZEV1AyZ0JKUUlBeWFpbmVFR3BWS2tBWjZ4NDJpZXVvcEdnM1JYWk9ibHExYk42Q2w4N2E0WTJYaVg0M3BVTlE?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "82429dcf004153257eec",
-          "fecha": "2026-10-29T09:38:31+00:00",
-          "titulo": "Spain train crash: Indian Embassy in Madrid issues helpline after deadly accident",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/spain-train-crash-indian-embassy-madrid-emergency-helpline/article71639009.ece",
-          "traducida": false
-        },
-        {
-          "id": "1acfb4d4660a81a30df6",
-          "fecha": "2026-10-29T09:17:05+00:00",
-          "titulo": "Audacious Indian jailbreak saga ends with 17 prisoners recaptured",
+          "id": "d739e6ac886f7d18169f",
+          "fecha": "2026-10-30T12:25:53+00:00",
+          "titulo": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
           "fuente": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cmx2qrgy591ro?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
           "traducida": false
         },
         {
-          "id": "994d4115cdfa44c1933c",
-          "fecha": "2026-10-29T09:06:38+00:00",
-          "titulo": "Photos: Aftermath of deadly Cyclone Arnab in southern India",
+          "id": "01abe07705b36d76fb37",
+          "fecha": "2026-10-30T12:23:53+00:00",
+          "titulo": "Madagascar is Russia’s important partner in building multipolar world, Putin says",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2210899",
+          "traducida": false
+        },
+        {
+          "id": "b058b2d2f7428bdd361d",
+          "fecha": "2026-10-30T12:15:55+00:00",
+          "titulo": "Kremlin aware of Zelensky’s remarks on territorial issue — presidential aide",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2210891",
+          "traducida": false
+        },
+        {
+          "id": "0b766ebdc771203c40fa",
+          "fecha": "2026-10-30T11:58:02+00:00",
+          "titulo": "Russia-Africa relations are developing successfully at good pace — Putin",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2210875",
+          "traducida": false
+        },
+        {
+          "id": "49fddccfc299e1033a4e",
+          "fecha": "2026-10-30T11:57:41+00:00",
+          "titulo": "Russian wheat exports via Baltic Sea to rise to 3 mln tons in October — expert",
+          "fuente": "TASS",
+          "url": "https://tass.com/economy/2210879",
+          "traducida": false
+        },
+        {
+          "id": "c728269ceaa65b6ed1f9",
+          "fecha": "2026-10-30T11:54:41+00:00",
+          "titulo": "Finnish politician accuses Kiev of seeking to derail peace talks",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2210873",
+          "traducida": false
+        },
+        {
+          "id": "3867226248660554f82f",
+          "fecha": "2026-10-30T11:48:06+00:00",
+          "titulo": "Russian crypto exchanges to be safer than foreign platforms due to domestic regulation",
+          "fuente": "TASS",
+          "url": "https://tass.com/economy/2210867",
+          "traducida": false
+        },
+        {
+          "id": "0ac6cc9c5acf718ae7e7",
+          "fecha": "2026-10-30T11:46:11+00:00",
+          "titulo": "Russia calls for peace in Sudan without external interference — ambassador",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2210857",
+          "traducida": false
+        },
+        {
+          "id": "48fd154044cd65905816",
+          "fecha": "2026-10-30T11:42:46+00:00",
+          "titulo": "Sudan grateful to Russia for support on international platforms — country’s leader",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2210855",
+          "traducida": false
+        },
+        {
+          "id": "8907866f4c3c732ced30",
+          "fecha": "2026-10-30T11:41:18+00:00",
+          "titulo": "Kremlin aide comments on desire for peace in Ukraine, EU participation in talks",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2210851",
+          "traducida": false
+        },
+        {
+          "id": "18f33dfad17e99a1008a",
+          "fecha": "2026-10-30T11:33:06+00:00",
+          "titulo": "World hockey is incomplete without Russians, CAS made right decision — legislator",
+          "fuente": "TASS",
+          "url": "https://tass.com/sports/2210849",
+          "traducida": false
+        },
+        {
+          "id": "a34fe55e109f37cef62b",
+          "fecha": "2026-10-30T11:28:44+00:00",
+          "titulo": "Former U.S. ambassadors: America must stand with Ukraine",
+          "fuente": "POLITICO Europe",
+          "url": "https://www.politico.eu/article/former-united-states-ambassadors-say-america-must-stand-with-ukraine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "traducida": false
+        },
+        {
+          "id": "7ae14559f4a6abab1a5c",
+          "fecha": "2026-10-30T11:24:35+00:00",
+          "titulo": "Putin presents Sudanese leader with Russia's roadmap setting out areas for cooperation",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2210843",
+          "traducida": false
+        },
+        {
+          "id": "d27611f6f76e30bd5912",
+          "fecha": "2026-10-30T11:20:48+00:00",
+          "titulo": "Brent crude price rises by nearly 2.5% on ICE exchange",
+          "fuente": "TASS",
+          "url": "https://tass.com/economy/2210841",
+          "traducida": false
+        },
+        {
+          "id": "2932932898d2c5a5eb15",
+          "fecha": "2026-10-30T11:19:58+00:00",
+          "titulo": "Trade, economic relations between Russia, Sudan developing — Putin",
+          "fuente": "TASS",
+          "url": "https://tass.com/economy/2210835",
+          "traducida": false
+        },
+        {
+          "id": "19084d2e286b4637c4ae",
+          "fecha": "2026-10-30T11:10:04+00:00",
+          "titulo": "Sudanese leader says Russia could establish free economic zone on Red Sea",
+          "fuente": "TASS",
+          "url": "https://tass.com/economy/2210833",
+          "traducida": false
+        },
+        {
+          "id": "8b8b271cea2a5510c8dd",
+          "fecha": "2026-10-30T11:09:40+00:00",
+          "titulo": "CAS directs IIHF to allow Russian national teams to compete in international tournaments",
+          "fuente": "TASS",
+          "url": "https://tass.com/sports/2210825",
+          "traducida": false
+        },
+        {
+          "id": "931ed4c233db8e2dfcfa",
+          "fecha": "2026-10-30T11:09:22+00:00",
+          "titulo": "Russian troops neutralize simulated enemy at training ground in Tajikistan",
+          "fuente": "TASS",
+          "url": "https://tass.com/defense/2210829",
+          "traducida": false
+        },
+        {
+          "id": "fbd641f10747e15c8242",
+          "fecha": "2026-10-30T11:08:00+00:00",
+          "titulo": "Russia ‘forces’ closure of investigative newspaper Novaya Gazeta",
           "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/gallery/2026/10/29/photos-aftermath-of-deadly-cyclone-arnab-in-southern-india?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/10/30/russia-forces-closure-of-investigative-newspaper-novaya-gazeta?traffic_source=rss",
           "traducida": false
         },
         {
-          "id": "510bd2d2ed50fa6fac98",
-          "fecha": "2026-10-29T08:30:12+00:00",
-          "titulo": "Katrina Kaif is in no hurry to ‘bounce back’ after pregnancy: ‘Will reach there at my own pace’ - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZVh0SVE0Z1V3TjRhckRtV25tSjJIbUR3YTNyS1JxWjJjTmRqT192SVV0SGs4MnlwSTl5NEZDNUlzcDhfelJGRVNxWHgxOGFlejhDbFF1cklmdC14YWpHWS05bFVzMFpIVHQ1eDdqVFJoekZubDJRZHNERnBwYXJuc1lsT2ZKbGxzUm9ZYXh5VGhaY2FUVjV5dEV6ZjdYNjRQODNZNWRKVmJ4Z9IBsAFBVV95cUxPWkdSZ2V1MTFoakdqa1ljc3ZYVzZ0Y2hOWmVBNjY1TmQwYk5TN2doSDBtVjdXQ3I1Ui05MC1qcncwcGFTWExmTTV6OGJJdkwtcno0RmI4cHVDbUlZTUVqWl9ZS2gtQWE4RFVLdlhpX3BzcUFwS3VyLUpLUFIycjU4MXdGMFk1Vkh5a3ljdXF1eG5BNTk2Wi1uazI5cVFDUmFfOFpGeHJaN0NvcUh5Z2hXOQ?oc=5",
+          "id": "45bd96da31e7dcc08bae",
+          "fecha": "2026-10-30T11:07:12+00:00",
+          "titulo": "Alyoshki mission, Putin's readiness to engage in dialogue: Kremlin's comments",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2210827",
           "traducida": false
         },
         {
-          "id": "df81c4f9b044cec40ff6",
-          "fecha": "2026-10-29T08:24:43+00:00",
-          "titulo": "‘Don’t fear police, lathis’: Rahul Gandhi rallies ‘Chalo Delhi’ protesters - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeTNSWUNyc2VITHBBVWpEcGprbEEtUnVCMXVqSUJ6MWZQd3hRMDBONGZTODJyZkJrTWlYQ2Z3ODU2ZWNLQjQtb1FHR1NjWjZMS1NMYXhyb3dueHVEdHZXZ0hXSG14THNpZTJBN0RRcGtQU19McTZtU3k0amU3WTVfbXo0bHJBZ29XOG82V1U0dTU2X0dIZTF3UzlnM3MzcGpGcm5xdm80dEJIaEZ3VWtkOVRzSjEydk8zTU53NXVkVDJ5cktFUVJ1SUcza1RpZGZxN2RzTy1xSDYzZ9IB4AFBVV95cUxQby03WWpJUHZuZmp3Q0ZqYUJnTFpWOG1vTWNjdlJubWhGTVFFYUJtTVRwMXdfZTFJT0M5d1Joa3dDSzlRdzVTYm9TeU5uN0ttSWdpLWpkVlVyWk5FMzUzcHRjemhyTXJmWGJlZkhzOVRtTlJxeUF0LW1QeG1SMURIclVtQnZXRGcweEdHT09ESzA3Z3U3RGNPdnFtdDREVTZtcnpDUW5WSkN5WTFiOWZ1TnFHR0Z5NThRSXpvV1dYQlRmdTJzY1pEblBzUmxXenpTd3RLYWg4UFNBNHNpQzMtZg?oc=5",
+          "id": "ff0929706b5ae7a150e8",
+          "fecha": "2026-10-30T10:55:00+00:00",
+          "titulo": "Air defenses destroy 100 Ukrainian UAVs over LPR in past day — republic head",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2210819",
           "traducida": false
         },
         {
-          "id": "819fc67e90bbebed7882",
-          "fecha": "2026-10-29T07:53:28+00:00",
-          "titulo": "Japan and US strike deal on missile assembly as Tokyo expands long-range arsenal",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/military/article/3372564/japan-and-us-strike-deal-missile-assembly-tokyo-expands-long-range-arsenal",
+          "id": "fb267752e21f988c1648",
+          "fecha": "2026-10-30T10:51:01+00:00",
+          "titulo": "Cameroonian families call for repatriation of relatives sent to fight for Russia in Ukraine",
+          "fuente": "Euronews",
+          "url": "https://www.euronews.com/2026/10/30/cameroonian-families-call-for-repatriation-of-relatives-sent-to-fight-for-russia-in-ukrain",
           "traducida": false
         },
         {
-          "id": "0a0d9d55ddba5ec3db52",
-          "fecha": "2026-10-29T07:52:30+00:00",
-          "titulo": "Poland pivots towards India as ‘strategic partnership’ with China develops cracks",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/poland-pivots-towards-india-as-strategic-partnership-with-china-develops-cracks/article71636517.ece",
+          "id": "5facc29dc181ed8f245e",
+          "fecha": "2026-10-30T10:45:15+00:00",
+          "titulo": "Aid convoy enters besieged Ukrainian town Oleshky",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/30/aid-convoy-enters-besieged-ukrainian-town-oleshky?traffic_source=rss",
           "traducida": false
         },
         {
-          "id": "4bb16c785e1f4d513822",
-          "fecha": "2026-10-29T07:25:21+00:00",
-          "titulo": "India ready to share 'battle-tested' anti-terror expertise with ASEAN, its dialogue partners: Rajnath Singh",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/rajnath-singh-india-asean-defence-ministers-meeting-plus-conclave-philippines/article71639347.ece",
+          "id": "39c525395b827d8d88a6",
+          "fecha": "2026-10-30T10:44:13+00:00",
+          "titulo": "Everyone wants peace in Ukraine, striving to achieve it — Kremlin aide",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2210811",
           "traducida": false
         },
         {
-          "id": "87d2622ea37913d5abb6",
-          "fecha": "2026-10-29T07:16:28+00:00",
-          "titulo": "Demolition of Delhi Race Course mosque near PM’s house paused for 4 weeks - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLXI4Zm1iM2p6Mm1TcGN0cE0tV05SdDFnZDZHcnlYNzZiNmk0RTczY2VwczFHX3ZyQzFfWWkzb0lsSldPcGx3SW1PSHpWYUVyUTQtQVNZSjJFSHhMWW1seV9Jazl3UV9TbWFuLXNxUnNkSzhHSFdzMTRhVHMzejRodExpeHU2SlV4cjB0eEpzSW1iM01yTlZPQ3VBTlZyanJoWkxGWmlOZS1NMVdfMHFVWVllcEx0YWJsRm9WU1YwMNIBxgFBVV95cUxNMHhaRi1iTEhsZUdqWUxrT2l2NGdIRW14QUx1RHhaN1AyZVdzUkpUcTQ2azFvUDk4N3QzMlZkVFNOSmMxcjFzWFRoS3RtQTk3Rm1wNEItYnF1X2IxcUxuNS1UalBpU1A5YnpqeWd3Mm1jWENLM0x4NUdMM0VHcUJyR0R1SVUyMzJFQXBBVTBnSDJyY1VoOUZXcjYxSF9CeDZ5cGlMR3oxaDJWeFZjMlBQakJGTWQwRzE2emJhT1VmT1ZUaVhyUGc?oc=5",
+          "id": "48dfb91bde24766205a6",
+          "fecha": "2026-10-30T10:33:02+00:00",
+          "titulo": "Russian Defense Ministry confirms soldier killed clearing roads to Alyoshki",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2210801",
+          "traducida": false
+        },
+        {
+          "id": "c4e18adec88b1454b4d7",
+          "fecha": "2026-10-30T10:16:27+00:00",
+          "titulo": "Bank of Russia buys $150.78 mln worth of yuan for October 29 settlement",
+          "fuente": "TASS",
+          "url": "https://tass.com/economy/2210791",
+          "traducida": false
+        },
+        {
+          "id": "ec67c7b26692bb7aac29",
+          "fecha": "2026-10-30T10:12:15+00:00",
+          "titulo": "Kremlin urges against seeing Kallas’s remarks as signal",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2210787",
           "traducida": false
         }
       ]
@@ -509,251 +257,503 @@
     {
       "id": "oriente-medio",
       "titulo": "Oriente Medio: seguridad y diplomacia",
-      "cantidad_archivada": 690,
-      "nuevas_24h": 57,
-      "anteriores_24h": 93,
-      "dias_con_registros": 14,
-      "fecha_ultima": "2026-10-29T19:32:24+00:00",
+      "cantidad_archivada": 722,
+      "nuevas_24h": 60,
+      "anteriores_24h": 62,
+      "dias_con_registros": 15,
+      "fecha_ultima": "2026-10-30T12:23:23+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
         {
-          "id": "8b1d66e51bb1e5c361ff",
-          "fecha": "2026-10-29T19:32:24+00:00",
-          "titulo": "JD Vance letter may offer last chance to avert fresh conflict between US and Iran",
+          "id": "abbf34be2e09b9a0caf8",
+          "fecha": "2026-10-30T12:23:23+00:00",
+          "titulo": "US military preparing options for potential strikes on Iran — TV",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2210897",
+          "traducida": false
+        },
+        {
+          "id": "53d2b9361d26a074ea07",
+          "fecha": "2026-10-30T12:06:56+00:00",
+          "titulo": "Gulf states must rethink trillion-dollar defence in light of US-Iran war, says report",
           "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/29/jd-vance-letter-may-offer-last-chance-to-avert-fresh-conflict-between-us-and-iran",
+          "url": "https://www.theguardian.com/world/2026/oct/30/gulf-states-rethink-trillion-dollar-defence-us-iran-war-iiss-report",
           "traducida": false
         },
         {
-          "id": "4ab3a42f36bc06f4e614",
-          "fecha": "2026-10-29T19:06:00+00:00",
-          "titulo": "Netanyahu attacks Palestinian-Israeli parties as he falls short of majority",
+          "id": "1f4188dc23ae5a5c9251",
+          "fecha": "2026-10-30T11:45:34+00:00",
+          "titulo": "BP profits hit 18-year high as Iran war drives up oil refining margins",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/business/2026/oct/30/bp-profits-jump-as-middle-east-conflict-drives-up-oil-refining-margins",
+          "traducida": false
+        },
+        {
+          "id": "160440682a8aa153a3b9",
+          "fecha": "2026-10-30T11:43:17+00:00",
+          "titulo": "Palestinian voter turnout exposes Israel’s attitude towards Arab citizens",
           "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/netanyahu-attacks-palestinian-israeli-parties-as-he-falls-short-of-majority?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/palestinian-turnout-exposes-israels-treatment-of-arab-citizens?traffic_source=rss",
           "traducida": false
         },
         {
-          "id": "8db046a20064a0048ee7",
-          "fecha": "2026-10-29T19:02:33+00:00",
-          "titulo": "‘Arab voice doesn’t count’: Jewish Israeli blocs reject Palestinian support",
+          "id": "cb5c05df70d12dc0caa2",
+          "fecha": "2026-10-30T10:52:08+00:00",
+          "titulo": "Activists urge Eisenkot to form new Israeli gov’t with Arab parties",
           "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/29/arab-voice-doesnt-count-jewish-israeli-blocs-reject-palestinian-support?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/activists-urge-eisenkot-to-form-new-israeli-govt-with-arab-parties?traffic_source=rss",
           "traducida": false
         },
         {
-          "id": "07874ab03d8223ce0dfd",
-          "fecha": "2026-10-29T19:02:19+00:00",
-          "titulo": "Pentagon fires general it says leaked classified information to media",
+          "id": "6bc5a222816f04a6ebff",
+          "fecha": "2026-10-30T10:50:21+00:00",
+          "titulo": "How can Israel break its election deadlock?",
           "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/29/pentagon-fires-general-it-says-leaked-classified-information-to-media?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/10/30/how-can-israel-break-its-election-deadlock?traffic_source=rss",
           "traducida": false
         },
         {
-          "id": "00bd9d6bc58f01ba90cf",
-          "fecha": "2026-10-29T17:58:57+00:00",
-          "titulo": "3 killed in rock spire collapse in Turkey’s touristic Cappadocia",
+          "id": "e05b245c10448d5821f8",
+          "fecha": "2026-10-30T10:40:52+00:00",
+          "titulo": "US weighs new Iran strikes as Vance reaches out: Is war or a deal closer?",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/30/us-weighs-new-iran-strikes-as-vance-reaches-out-is-war-or-a-deal-closer?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "c72b69d9695c16709c7d",
+          "fecha": "2026-10-30T10:21:13+00:00",
+          "titulo": "Dakar Rally 2027 to be held in Portugal, Morocco as Saudi hosting revoked",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/10/30/dakar-rally-2027-to-be-held-in-portugal-morocco-as-saudi-hosting-revoked?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "71e927c2efd319e2c556",
+          "fecha": "2026-10-30T10:07:16+00:00",
+          "titulo": "Severe rainfall and flood warnings issued for central Greece and western Turkey",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/environment/2026/oct/30/severe-rainfall-flood-warnings-greece-turkey",
+          "traducida": false
+        },
+        {
+          "id": "b2dca33c76e6071ba11c",
+          "fecha": "2026-10-30T10:04:35+00:00",
+          "titulo": "What can a global strike of dockworkers achieve for Gaza?",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/features/2026/10/30/what-can-a-global-strike-of-dockworkers-achieve-for-gaza?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "a9335e1f5155df20c8bc",
+          "fecha": "2026-10-30T09:42:42+00:00",
+          "titulo": "Saudi Arabia reports interception of Houthi drone targeting Mecca",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/30/saudi-arabia-reports-interception-of-houthi-drone-targeting-mecca?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "3fb3185e818d3c4b07a4",
+          "fecha": "2026-10-30T09:25:58+00:00",
+          "titulo": "Saudi Arabia says Houthis-launched drone destroyed near Mecca, group denies",
           "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/world/europe/article/3372637/3-killed-rock-spire-collapse-turkeys-touristic-cappadocia",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3372733/saudi-arabia-says-houthis-launched-drone-destroyed-near-mecca-group-denies",
           "traducida": false
         },
         {
-          "id": "f495ba54dd066bea727a",
-          "fecha": "2026-10-29T17:26:06+00:00",
-          "titulo": "Israeli leader Netanyahu accused of using ‘ugly’ smear tactics to cling to power",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/29/israeli-leader-netanyahu-accused-of-using-ugly-smear-tactics-to-cling-to-power",
+          "id": "049152418dfd2fbf20c2",
+          "fecha": "2026-10-30T09:00:00+00:00",
+          "titulo": "Trump turns defense into midterm campaign pitch — never mind Iran - Politico",
+          "fuente": "POLITICO US",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdngwVmNaVnM4d1VjS3dxa0lPckZnZEFBMkFjV0R6ZXdrZW1uWTlhbFd1VjJyRHZUcmktLWlfLXRTckFuXzI3TDFUMzNIbkFyaWdFakl2ZVpTY1dPOGFLZ3FpSHJoWTJSNUVqZnRoY0RsTHp0eHJUMGxlNmdNOFlSQ1otN3BkVlBMSi0zYmVn?oc=5",
           "traducida": false
         },
         {
-          "id": "0b47beac9d6d0d119219",
-          "fecha": "2026-10-29T17:20:41+00:00",
-          "titulo": "Turkey-Russia ties owe strength to Erdogan-Putin friendship — ambassador",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2210385",
+          "id": "74583c4e0f163ca83977",
+          "fecha": "2026-10-30T09:00:00+00:00",
+          "titulo": "Democrats Haven’t Thought Far Enough Ahead on Iran - Politico",
+          "fuente": "POLITICO US",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQkRIaDd6YmxVNG1IZUFjQlY4ZldsVnZkOWhfSFhfeDFELTBfMDBnX2JQY3JJbXhpVVJ4VjMxaWZBM2Vtbm5sZ0VIaGgtbnRiUk1QLWZDb1lYTEUwUHhmZUJrVmh3UUpCUzdDVFRDdzFLbUo3SXVVTW1EUF80Um9xQ29SVXpJQU9KX2RteQ?oc=5",
           "traducida": false
         },
         {
-          "id": "1b5461c8075a79953bbc",
-          "fecha": "2026-10-29T17:00:18+00:00",
-          "titulo": "En Afghanistan, la crise humanitaire s’aggrave sous l’effet de la politique des talibans et faute de financements : « Nous sommes livrés à nous-mêmes »",
-          "fuente": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/10/29/en-afghanistan-la-crise-humanitaire-s-aggrave-sous-l-effet-de-la-politique-des-talibans-et-faute-de-financements-nous-sommes-livres-a-nous-memes_6802366_3210.html",
-          "traducida": false
-        },
-        {
-          "id": "ab08cd85455ab0f63bb8",
-          "fecha": "2026-10-29T16:32:17+00:00",
-          "titulo": "Iran says four tankers on fire after hitting mines in Hormuz",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/iran-says-four-tankers-on-fire-after-hitting-mines-in-hormuz/article71642019.ece",
-          "traducida": false
-        },
-        {
-          "id": "bfce183922a915727815",
-          "fecha": "2026-10-29T16:20:15+00:00",
-          "titulo": "Deadly rock collapse at famous Turkiye tourist site",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/deadly-rock-collapse-at-famous-turkiye-tourist-site?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "8ac9325119ab94c00bec",
-          "fecha": "2026-10-29T16:13:39+00:00",
-          "titulo": "Netenyahu's Likud party alleges interference and fraud in Israel's election",
-          "fuente": "Euronews",
-          "url": "https://www.euronews.com/2026/10/29/netenyahus-likud-party-alleges-interference-and-fraud-in-israels-election",
-          "traducida": false
-        },
-        {
-          "id": "d7d1f3598dd2e190529f",
-          "fecha": "2026-10-29T16:12:01+00:00",
-          "titulo": "A rock formation collapse in Turkey’s touristic Cappadocia region kills at least 3 - CNN",
+          "id": "def1326941487f0059a0",
+          "fecha": "2026-10-30T08:43:00+00:00",
+          "titulo": "Somali piracy is back as the US-Iran war rattles shipping - CNN",
           "fuente": "CNN",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZEtoRk9WWk5vNENWYWIyRkRIcjdhdk1KSUpQQmE3cEM0cjhuaWg1ZTNnM1RKa2lvWEFjUnFVUTh0eGVvVGhXNDBtaGZDbUcwSUhjQ1RaYkxsX195YkJtRS1ZLWlTX00temx3N1RKZlUwT1Z2Q3laZ18wM2FPZTQ5RlhIWDJLdw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdXJjcGEtWEJFVEgxR2xqWWFrVk9Ed1BEYldQV3VkcGNKUWFMcnNHN3B5eG42b1NVb2JzR24zWjMtTGoxR2dfVTA1dWN6SXRHeXFMbGF4U1liWEJieUpldS1VaEdMTjNDZ01RMFNTTGduMk11aVNGd1pkcFRuWjBLd2pKUm5NOHlsY3pOOVZvQ0gtenFtQlpvSDVQRFJNVXhROXJLcHFuVFF5WEdSSDJwa2ZR?oc=5",
           "traducida": false
         },
         {
-          "id": "ec23a576effa840345ec",
-          "fecha": "2026-10-29T15:40:29+00:00",
-          "titulo": "Iran yet to respond to Vance’s letter to security council secretary — Tasnim",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2210315",
-          "traducida": false
-        },
-        {
-          "id": "d143c4b5a4fbc90cd202",
-          "fecha": "2026-10-29T15:35:53+00:00",
-          "titulo": "Israel’s anti-Qatar campaign bleeds into elections",
+          "id": "38490938d3e5e5fd06f7",
+          "fecha": "2026-10-30T08:36:11+00:00",
+          "titulo": "Oil flows are up as Iran war turmoil eases. Why do prices keep rising?",
           "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/29/israels-anti-qatar-campaign-bleeds-into-elections?traffic_source=rss",
+          "url": "https://www.aljazeera.com/economy/2026/10/30/oil-flows-are-up-as-iran-war-turmoil-eases-why-do-prices-keep-rising?traffic_source=rss",
           "traducida": false
         },
         {
-          "id": "eb05e6e888d7da830866",
-          "fecha": "2026-10-29T15:30:14+00:00",
-          "titulo": "En Israël, Benyamin Nétanyahou accuse les partis arabes de fraude électorale et d’avoir reçu des fonds de l’étranger",
-          "fuente": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/10/29/en-israel-benyamin-netanyahou-accuse-les-partis-arabes-de-fraude-electorale-et-d-avoir-recu-des-fonds-de-l-etranger_6802349_3210.html",
+          "id": "dd7e703664e436cdc4c1",
+          "fecha": "2026-10-30T07:58:31+00:00",
+          "titulo": "Marco Rubio hosts G20 Foreign Ministers as Iran, Ukraine wars divide members",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/marco-rubio-hosts-g20-foreign-ministers-as-iran-ukraine-wars-divide-members/article71643995.ece",
           "traducida": false
         },
         {
-          "id": "7a89e1844db29b44492f",
-          "fecha": "2026-10-29T15:12:36+00:00",
-          "titulo": "Israeli strikes hit Gaza as Health Ministry urges Rafah opening",
+          "id": "16de868b8b2bbbf479f0",
+          "fecha": "2026-10-30T07:51:08+00:00",
+          "titulo": "‘My life is buried here’: Iranian man whose 12 family members were killed",
           "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/29/israeli-strikes-hit-gaza-as-health-ministry-urges-rafah-opening?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/10/30/my-life-is-buried-here-iranian-man-whose-12-family-members-were-killed?traffic_source=rss",
           "traducida": false
         },
         {
-          "id": "93e10ff060b84032b0a2",
-          "fecha": "2026-10-29T15:05:30+00:00",
-          "titulo": "Two killed in rockslide near entrance to open-air museum in Turkey",
-          "fuente": "TASS",
-          "url": "https://tass.com/emergencies/2210293",
-          "traducida": false
-        },
-        {
-          "id": "b7c4cdd175f77a9bc8a5",
-          "fecha": "2026-10-29T15:00:27+00:00",
-          "titulo": "Netanyahu’s party retains lead with 97.3% of ballots counted — election committee",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2210289",
-          "traducida": false
-        },
-        {
-          "id": "2b4e0d0b832d784e617b",
-          "fecha": "2026-10-29T14:58:44+00:00",
-          "titulo": "Palestine ready to discuss peace with Israel’s new government — Abbas",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2210283",
-          "traducida": false
-        },
-        {
-          "id": "31a7783c7da61826b31c",
-          "fecha": "2026-10-29T14:39:02+00:00",
-          "titulo": "Palestinian President says hopes for peace talks with new Israeli government",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/palestinian-president-says-hopes-for-peace-talks-with-new-israeli-government/article71641117.ece",
-          "traducida": false
-        },
-        {
-          "id": "a8b71cbbe6a447431364",
-          "fecha": "2026-10-29T14:36:04+00:00",
-          "titulo": "Israel piles pressure on Arab parties as Netanyahu seeks government",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/israel-piles-pressure-on-arab-parties-as-netanyahu-seeks-government/article71641215.ece",
-          "traducida": false
-        },
-        {
-          "id": "5514b23111ba2463a60e",
-          "fecha": "2026-10-29T14:28:05+00:00",
-          "titulo": "Iran calls on US to prove Hormuz mine clearance — IRGC spokesman",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2210271",
-          "traducida": false
-        },
-        {
-          "id": "b794485c075274938d8f",
-          "fecha": "2026-10-29T13:52:11+00:00",
-          "titulo": "Israel seeks US permission to strike Iranian energy facilities — broadcaster",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2210251",
-          "traducida": false
-        },
-        {
-          "id": "5f0807930fe6f10da156",
-          "fecha": "2026-10-29T13:45:46+00:00",
-          "titulo": "‘Surrender’ absent from Iranian people’s vocabulary — chief of staff",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2210249",
-          "traducida": false
-        },
-        {
-          "id": "240852db51392a025bfe",
-          "fecha": "2026-10-29T13:44:39+00:00",
-          "titulo": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
-          "fuente": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o?at_medium=RSS&at_campaign=rss",
-          "traducida": false
-        },
-        {
-          "id": "04127773243f076529cd",
-          "fecha": "2026-10-29T13:32:32+00:00",
-          "titulo": "JD Vance contacts senior Iranian official in bid to revive peace talks",
+          "id": "252f57879362e46263ce",
+          "fecha": "2026-10-30T07:31:44+00:00",
+          "titulo": "Netanyahu bloc first but without majority as Arab parties hold balance of power in Israel election",
           "fuente": "Euronews",
-          "url": "https://www.euronews.com/2026/10/29/jd-vance-contacts-senior-iranian-official-in-bid-to-revive-peace-talks",
+          "url": "https://www.euronews.com/2026/10/30/netanyahu-bloc-emerges-ahead-in-israeli-election-but-fails-to-secure-majority",
           "traducida": false
         },
         {
-          "id": "7d7b035ea4fcc558dadd",
-          "fecha": "2026-10-29T13:13:56+00:00",
-          "titulo": "Jewish-Arab coalition in Israel? Netanyahu’s rivals face a crucial choice - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeWhRa0ZoeG9XMGd2MzZqa0ljcVp1c3lUQl9IeWRHYWxsYzYzZmt5aTlsYlBPeE4xSmk1SmxmVVJvT0JGaFdZS2pYMjcwd3Q0ZTVXdHotX1JfV1FWM3l1bWNNYVMxa05UQU5wZUo2aTlWNVhXcnJNQmVsNVYtNmtteHdvdEJ4VlIyV1JrRjBEVk9uNEVsLU9DSGQ5aGJQUHhCR0FlaFpyVTAzOXJ6VTlyU00zUjhkVXRsQjg2dXBWOElRRkly0gHLAUFVX3lxTE84S3dtc1hBOFBHZld3S2VrOHByUjhHYUdMM0oxU3ZuWTFkTXQ5Q000VllJcmRqaFZ5TE01bXRIYTlJclJBY1hFOFM5WE1ITU1mSGp1T2lSSUJnVjJsR0Z1dklXNGRLUVBnaHNZdUpwR3UxOXFpX1BlNVltY0lGeDdwMjM3cG1sUUJCQ2NlcllrWW9RTG1XdFZQclZ3dGp2THdJdzNsbG14UmEwVzJEYWFXeUhDakFGd2lVaFFSTE5LaDFrWldQN3hjbnpz?oc=5",
+          "id": "e524e9445a3b17ceaa3d",
+          "fecha": "2026-10-30T07:01:54+00:00",
+          "titulo": "Europe Today: Rare Oleshky truce holds in Ukraine, Albania imposes heavy fines on protesters",
+          "fuente": "Euronews",
+          "url": "https://www.euronews.com/2026/10/30/europe-today-rare-oleshky-truce-holds-in-ukraine-albania-imposes-heavy-fines-on-protesters",
           "traducida": false
         },
         {
-          "id": "2f1b50662496799bfead",
-          "fecha": "2026-10-29T13:03:00+00:00",
-          "titulo": "Israel: sem vencedor declarado, partidos discutem coligações",
-          "fuente": "Agência Brasil (EBC)",
-          "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/israel-sem-vencedor-declarado-partidos-discutem-coligacoes",
-          "traducida": false
-        },
-        {
-          "id": "2ea8b077095fe42cdfbd",
-          "fecha": "2026-10-29T12:29:05+00:00",
-          "titulo": "A week of Israel’s lockdown in Hebron: What’s happened, when will it end?",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/29/a-week-of-israels-lockdown-in-hebron-whats-happened-when-will-it-end?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "25c715202ef46e8f9ba7",
-          "fecha": "2026-10-29T12:17:11+00:00",
-          "titulo": "Israel election results live: president warns against ‘tarnishing an entire community’ in defence of Palestinian vote",
+          "id": "a226f1145b4d3c41859d",
+          "fecha": "2026-10-30T06:44:29+00:00",
+          "titulo": "Friday briefing: Israel has a dilemma - can its opposition govern with Palestinian parties?",
           "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
+          "url": "https://www.theguardian.com/world/2026/oct/30/friday-briefing-israel-has-a-dilemma-can-its-opposition-govern-with-palestinian-parties",
+          "traducida": false
+        },
+        {
+          "id": "cde09417319fa5243105",
+          "fecha": "2026-10-30T05:00:15+00:00",
+          "titulo": "After decades of boycotts, Palestinian citizens of Israel turned out to vote. It could shape what comes next - CNN",
+          "fuente": "CNN",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdW50ZGFxRW5oWEF4S3p3UTdoamJ1QUVHLW85OVBNS3VaQy1wNVhUT2lUNXRhaVB4aHMxd19Wa0RIcUNJb1dieDE3MHA1ZWZISkkzTmdneGpMS3VOLTBlOGtLSjMwd1FLb2VwdFdyOTRlMERlMzdwcGZKNGxXZXBuWXBRelZ3WmxEV1E?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "e321d6f5d8141672d250",
+          "fecha": "2026-10-30T04:30:08+00:00",
+          "titulo": "En Iran, la menace d’une nouvelle confrontation avec les Etats-Unis et Israël prise au sérieux, malgré les tractations diplomatiques",
+          "fuente": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/10/30/en-iran-la-menace-d-une-nouvelle-confrontation-avec-les-etats-unis-et-israel-prise-au-serieux-malgre-les-tractations-diplomatiques_6802767_3210.html",
+          "traducida": false
+        },
+        {
+          "id": "5882b970c103ef3d0017",
+          "fecha": "2026-10-30T03:54:33+00:00",
+          "titulo": "En Israël, Isaac Herzog, le président honorifique devenu arbitre d’une Knesset sans majorité",
+          "fuente": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/10/30/en-israel-isaac-herzog-le-president-honorifique-devenu-arbitre-d-une-knesset-sans-majorite_6802757_3210.html",
+          "traducida": false
+        },
+        {
+          "id": "8227e24fc50cacdd0919",
+          "fecha": "2026-10-30T03:49:12+00:00",
+          "titulo": "Netanyahu's party claims Israel election 'stolen' as results show him losing majority",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/netanyahus-party-claims-election-stolen-as-results-show-him-losing-majority/article71643395.ece",
+          "traducida": false
+        },
+        {
+          "id": "ecaea03d30d29d3fb90d",
+          "fecha": "2026-10-30T00:44:36+00:00",
+          "titulo": "The final Israeli election results are in. Netanyahu hasn’t won – but he hasn’t lost either - CNN",
+          "fuente": "CNN",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYThNdFBIMVdNX2xjd3pBczFNUnd5M0dqWDQ3aGRxaDVkMlJKMmhtU1NBMUZBSERNd28wUGhWb2pzeHBBZXhqdlY2YVpGRWpibnRZU0w5UGFrcnQwLWJKZXkwb1VDMGQwMFEyYmRCdGRYUFNiUE9vQUQzRXE0Tk1sR2FnVEs5bmU2YWtHOV96d3ViRkV0TVBFc2FFekdwVkRW?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "08ac3ad50c0d00f4e7a4",
+          "fecha": "2026-10-30T00:37:36+00:00",
+          "titulo": "Antisemitism envoy proposes ‘external ombudsman’ to monitor ABC and SBS coverage of Israel and Middle East",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/media/2026/oct/30/jillian-segal-antisemitism-envoy-plan-report-priorities-ntwnfb",
+          "traducida": false
+        },
+        {
+          "id": "fa1d558df89df90b71b3",
+          "fecha": "2026-10-29T23:32:33+00:00",
+          "titulo": "Netanyahu’s bloc falls well short of majority as his party claims Israel election ‘stolen’",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3372644/netanyahus-party-claims-election-stolen-results-show-him-losing-majority",
+          "traducida": false
+        },
+        {
+          "id": "c0696d2a2075f630acf3",
+          "fecha": "2026-10-29T23:27:46+00:00",
+          "titulo": "Israel election results: How to break the deadlock - CNN",
+          "fuente": "CNN",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRW9WX3Z5cmdXMnlQR0Q2Smx5SFlQWWFJZHN4Um44Yk5iVm9OZlB4VG44YzZWUVUzYk1VSzJISHdjeE1wTWJQYlpiSkp3M1AzeXhzY0YtSFlaSDhWY0xNOXBlY3ktVTk5S1RwR0N4elpSVmFpenQ3aVVIblNza044MUR2Ti1MRzN6YVlJ?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "0429e0fa053cab362ba1",
+          "fecha": "2026-10-29T20:21:54+00:00",
+          "titulo": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+          "fuente": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
+          "traducida": false
+        }
+      ]
+    },
+    {
+      "id": "india-asia",
+      "titulo": "India y Asia-Pacífico",
+      "cantidad_archivada": 445,
+      "nuevas_24h": 58,
+      "anteriores_24h": 83,
+      "dias_con_registros": 15,
+      "fecha_ultima": "2026-10-30T10:44:08+00:00",
+      "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
+      "publicaciones": [
+        {
+          "id": "2ff817d32e36ce9a8bc5",
+          "fecha": "2026-10-30T10:44:08+00:00",
+          "titulo": "‘Digital arrest’: How big is the scam in India, what are banks doing to stop them? - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZmtZbXY3am5HWnZHLW1rUHdXMVU5cUUtRm9LN25iVHVhV3UwRTdVTkhwZ0JVa2M3cWtmU1dFZ1JidlgySVcyX05VQXg1SUdtVmo2bGFrRU1jdXVYcU1STE1ENHpDRWhSQ0FJbzE3VUZoRVNkajJ0MDNlZ2YtaGpxZ2ptV2hZeVNUSmd1anF3STRZTzdGbjJzbnJnR3ZXTDJPVm1KbDh0bjRQMnJMSmVSZEFQa2N4NS1N0gG_AUFVX3lxTE1nWk5vQzRPMVYteU1ISFFBb1d6M1pzN2QwVzNDTWlHckFGRU1tYUJFcV9STkVQdlNjaHptaTNDbnNVbnBLMGhRU2lDbDRCM3JDU3ZGajJoV3hwWVJKNkhlX0p4MXMxYVhDNFV4M2NnMTNmQ2Y2dnhTcWpsekYyRHpZNkEtcEMwMVkzOURSUERYaEtJYXdVN1hKb19DTFUtcEdNVFN3YjB0NEtRSUp1dDZnVGc0ZzFrQm51azNNY3pv?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "43d3c4ff1e9f08c7ee05",
+          "fecha": "2026-10-30T10:07:58+00:00",
+          "titulo": "Helicopter carrying six people crashes in northern Indian state",
+          "fuente": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
+          "traducida": false
+        },
+        {
+          "id": "e68d42af9766c46018e8",
+          "fecha": "2026-10-30T10:00:06+00:00",
+          "titulo": "Asian scientists are looking to South Korea as it becomes harder to stay in the US",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/science/article/3372506/asian-scientists-are-looking-south-korea-it-becomes-harder-stay-us",
+          "traducida": false
+        },
+        {
+          "id": "03c4ca6f0c494b4543dc",
+          "fecha": "2026-10-30T09:36:52+00:00",
+          "titulo": "Helicopter with Badrinath pilgrims crashes in Uttarakhand amid weather alert - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOVg5VEhOZkhZd3MwSzBYTGcwc1JkZERRZU9OU1BmRkJsLTJuX1NfSzJiVWZDYjUtczBqYklpOWIxdkpJZURIVUN1RW0zLTVSMEtMVGxMNjd2RkZiX3JldllENVc4NVhzUFJ6cklrZ05KUzFIWmJzamUxaVVVSzFvTVFlUFJ5LXdHRzNsVjE2aDFNS3phY1pScUZqODR0THBFXzI1bFF3TEZ4S201ZG1IT9IBtwFBVV95cUxQaUpteGtxTmxyeXVMSUYyWk5pT3ZtclZhdUxmU2xxeVIyblAyQktZNXZmYU5MTFR4SXVqeGFaS2VUWGxGdGVDa3ZTbE1qcFoySHZJRlFjRjdmbkZ1eDZqT2RNNzFpMC1JUWhyY29EdGtQbENqbkN4dWp0Z3kwMk4xUmRTY3ZXTl9hLVFKcXZSMzBwbzRlN09UajZ0enhycDRCVTZfRmhpWW8tbEMybk5LSXByZ3gzVEk?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "8c96dc0821f0a35a4dc7",
+          "fecha": "2026-10-30T08:57:08+00:00",
+          "titulo": "Rohit Sharma likely to take over as Mumbai Indians captain for IPL 2027 - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbWVGSnBGRUt1cE9XZXFUd1NBNUJSWjBnbTZlNTlTRWlXQXlrOG5GNFpueU5LcG1xODBQb1lDbmdpLVIwZVNvbUthMV9sZFFOMGRZU21GR2NLYTZ6dExub3hQQkVVOE5pRFloOGJrakdQaXFNYk9lLXo2MHotQUVfSXBiZlZPYnVRY2dVMGhfaFAyWFdmbWY5T2YtTUNwYzJ3ZTJSSlhTeFJEbUpFeFpDekRWT1NORFcxY21NcVpBSE1NQdIByAFBVV95cUxOVWZIT1VCVXNXMHJMNkhGRVpDcEMyenpiYzg4VDFFbl9NSUpjWHN2ZTFlMXpLOWlNOFB6eVJyeGcxcVF6dE5uUTRpNFRhWTdjNXFGQTJ2VDF4QW16TWV3VTM3a09GT3VwSmV3eC0yVGFwd0wzTkxkOWJ0cXBPSXdhNlBxaU5qN1BNcXlBZjFNYVVGY083SlFmQ0ljRVdDWElkQ05uS2VJQlVQNDduNnZZTG00blZ4THM1RzNYbVRoaDV1cHlhUFdqNA?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "b5b570c841112d5e0237",
+          "fecha": "2026-10-30T08:38:03+00:00",
+          "titulo": "Cathay Pacific says data from 53,000 bookings compromised in Amadeus cyberattack",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/hong-kong/transport/article/3372722/cathay-pacific-says-data-53000-bookings-compromised-amadeus-cyberattack",
+          "traducida": false
+        },
+        {
+          "id": "7b038f88070533e7eae1",
+          "fecha": "2026-10-30T08:04:00+00:00",
+          "titulo": "Why Surat’s Diamond Bourse isn’t shining three years after Modi inaugurated it - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQ0dGV19JLXV3b0hNNmRlbU43M2g5dURzZFBzUVY5Q0ZVWEh1bFkxVGNoNUhnemRBS1pjVmpPdHBWY04wWmFCX09WZHh5X3BQeUFsQ0NxelZYemc0U291M0Y3aDFOMVhWNUIwTVJMUmdjZ2dUdzhKZlRzNVptdDBOY3NfTFdQTXQ1QlRWWndtTW9VWHBFbUptVjNUams3WVNsNFhDdW50VURDemFqa1M3bWJ3R2ZfaEFKb2ZObWV6X3gydk95WkJ4TWhGbVrSAdMBQVVfeXFMTUZHY2pYV0JYaVlTMHNHbmxIUFFWVE9UcXF4RE9OVGJFdEh3U0xHMHVkWlE1ZndSNTgyT29jLU9kM1p1Z0RnOVlITzhDVzZHWDhWdEMxdlpqR0ZqZnppdDQ1YjU3RmVsRGZqWFVvYjl1QU1uand6dkpUQmgwSmR3YW1COEo1aUl1aWdjb2ZqTVJ0OW12ZjVfNzVRbGp2NmlzRnNCRXlNbDQ2Q2ZWUmJqcDVHNmtSR0o5RzNBUVpGNUcxS01qMm5pTDRSbmJnMVFEYjFWWQ?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "b9682b9bf4a037b28e2a",
+          "fecha": "2026-10-30T07:48:52+00:00",
+          "titulo": "Hyrox athlete Joanna Wietrzyk who soiled herself in race says backlash was ‘traumatic’ ahead of comeback - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON1d0SDJjUzFOa3k5bUQ0aVBTRDRWWnNvS3NUTnY2cUZjMEJFNkdUM3RxOEFVb2F1dkpfbkhBc0dJd1dnZE1jRTFVbE8zdlNNTU1PLWxmVmZ2TU92ZlJvUjhCT1BTOEJIOGtCTDAycmxya3VNU1RHQmFmcVBaZmVYOXNOSDd6WFdZUFR1LVhWRmQzaERIZXpacnlPMVZQQUpqcnNjMU9sNXZQZ9IBsAFBVV95cUxNR0g3X0NhMDhBQjhBeWFCeG1qOTY5V0dtMS1CcDlxSFlERHR0V1RTRTNLQjl1ZUxiTUdsV3MtbDhFNFpHdWI2Yk5hb3VtbjU4a2RrZ3BfQ2otUFpLNjh4ZWtQUmY1WjI0Q0EwdnhDOFJXVVBDZ3B1ZDRuOUNZUnBZQ09FRmJlWkpnelVnMnlhTGhKYzVEVWFHc01HVUpDT2NNT3pfQ1pMTkRMWE0wYlpabQ?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "a3d85396a6ef701ab3c8",
+          "fecha": "2026-10-30T07:24:52+00:00",
+          "titulo": "Nashik Kumbh begins October 31: What makes it different from other Kumbh Melas? - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZUh5dUVWb3FhX091MlViUmVaOUdCcUFCbVdGR1pXQ0hpQ25vOFVDbm1abllmWEVWMDlyRXYtekJ1NXFEQmtyTXh4OXdvQ2tUM3Z3UlpIMmEzTkxTdnBOQnVGLTdLZ1hvNlBEMUpmNEVEQkVJM1g3YzB0MUJ1Sk9HR1ZyODhZaDJzZzJkNnJ0RklXTFZ1cG9OQTZEYXlaeVludlZoX3ZLbVJDaVc4VVNmWm5IeE5fNFA5alFvbNIBwwFBVV95cUxOaFJaUG1NNGROZU9lUlNrbWlTQ2JQb0tPV05VSWVyUFpHMjVrcTJORDRBN2NvYUF4ZVFacFJhYmo4b3NwMHBFQi1QVjNyUm5qd3RBQ0dGdUQ3THVkdW5DZjVpTmZNaFhNaTdELTdabmhNWTJ3ZkFjSkhSLVdhanV1Mk51U0NwVHZQdmZsLW41TjdCUG5DU1ZYMFFkWDFfS3BlWkJRSmVkYWRWNHROcEpHQ3ctTXp2UG0yMVg1WnhiUEt0SUE?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "9ed081792960e1dad498",
+          "fecha": "2026-10-30T06:48:22+00:00",
+          "titulo": "Indonesian firefighters jump with joy as rain falls amid brutal wildfires. Watch video - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdEppVGlBZmdkYk1melJndXhxOWtPbWZXMmxyalR6T3E5ZmFETHg5QjVhaXdPd1VlUkNRazJiQm0xTzN1RktWOGs2SVJJWGoteVRERFZ6OVVCRmU0aWJ0a3dibVhfMHlZclMzTVR5TVZrQ0lXTklfakFYZHBpaE4yUlhpc3dseHAyVDZZUW83cGtzWU1ocUYxZTF6UTV1X1B6NnI3b2k0UTVoZFFrOS0yRkNBZFBJMWRPRzBSczBnWEtoTmktdkd2MkhTb2RIQVU0bWNxMzBPbUk2ZmY4cVNBeE5seWI3VEFrYUtta9IB8wFBVV95cUxQN0VzX3hqdi00WGtycjBTWk84VWloQnZPY1doTzZkR0VRMXRXS0dQNzNXZFlMZ0YtQ0ZQeUJTV3RoX25NSzkySHMxaWZrcDNtSGpNdmttWHIxWnlHNDRkLUtBZmV5a2V4TlhUOHRsOWJGUHVfbWhCUF9Db1B0emxxS1ByZDZRRHh0dFBrVllxZ3FES19fYzlEQnFRdzI1cjVRVEpLMjZ3aURLVktpX0lINkFrcDNXclQxNHNyNVhqRUtCeXJicU9rZEFvQjNUVkZpTkZMQmpCRkZra3lmT2tfTVEtb2ZabENkWV9uMTVZV1VyU1E?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "cbbcb5e489fde58f8aa0",
+          "fecha": "2026-10-30T06:11:11+00:00",
+          "titulo": "Sridevi didn’t want Boney Kapoor to get a hair transplant; Janhvi Kapoor says he got paid to do it - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOYkxlUXZrZGptdS1teUtXV0ZtTFdPb0NWR2NOUnI2YkEwV3R0YjVCUDg4NEh2WERBc0xiSkx4cjZuc19SODBud3F6SFZmeGFKSU9UY3JmM0tEVW8xM2lBWU1nNWxnY3NYeGt1U213TUdzdUI4Qy1aN2pZSGdKRVNLbHNDNFIxRDFNVkc4WUpHcE1DcU1CQV9QVzBXWFFzY3AxZDR2VERoY2d4OWVzOExiNWFRVW5vS2t2MDRUeE5XM1BUcTVkNVh6elFqNFRuQWN5Vmx5aHJVY3ZSZ2RpVkMwdEtSaGl5dHVKQmfSAfABQVVfeXFMT3Y1QnQ4WEIyTlUwWWlhSDhhZjV2V2czS1FyU2F5VlNhR1hLb3R3VVhLQzdCdnd6WFlodVZPREFKazZ2V2JlY1A3UjlaOG81ZGFCbjRLTDF0UVVXcVNrTUJiZWVHZWQ0bC1NOFd6MXNvSG5aOC10THZseVNza2NzUjdSSi1UdmZaakpzMXBsbzVtWm0zOVBZRDZtRlRXSW1DUXVtelNKNWJyZjZKd1c2UUswT1R4Y1FZUTNtcUg4WjZ2RU1QYk9NbnVKZjNLUTZza21Bb092c3V3eTZ0dGxkVHU2amdLLVl4NVlObGdYUHlV?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "f800c966e97597e0a7ef",
+          "fecha": "2026-10-30T05:48:13+00:00",
+          "titulo": "Crypto exchange Binance freezes $3 billion after security breach - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQenA2RnZxV2FRV1R6MzN6NkFUcEp3VER0VldfNm1MV2JXakJoTzVKd1N5YUhfcG5sbFM3Ui1rcXo1WVBIUDNiVzFKMDY3TFFaa3d6QTBTZUxodjBoUjRnUHRrTElTY3RaMjRBNDJDUzZ3d2N5QzF5YXpLQ253V0REZXFWY282YzZmaVBYUUNBeGk3SlY3LVZVREs2T1lZekVpTWJWcV9EOVpyZ0hXdUs0Y1FLelJxeGdl0gG_AUFVX3lxTFBkd3N5NmhwRFVXRjAxNE56QlEtM1B3V3JvakYtX3h3WnN2QU5CYk1YMWlXbWI5WTJ1TkZIdlhJbUlKYURybVlxMlg0Mnk3ejJxeWNzSks1ZVpiNEFkSUVPckJZWm5FcFZFbjN0UEx6RjJLZUlQS0pxcUJMeHdQS2xPLUo1aEZEcGw4M1hWUzdGbnJzQ0JFbVNGcUtwWDZiVkczM2pPTDJ5VHJ1eWFlNC1PSWZlQmhNTjVDMzVkR2NJ?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "214ef6620685d5bfb6b3",
+          "fecha": "2026-10-30T05:18:00+00:00",
+          "titulo": "Sweden planning global job portal, wants Indian STEM talent: Ambassador - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOUWhKV3dJaXlVQ0ZpZ0VxQkF6WDJzQ1JfRWZtcWtFSDFONVRDYklDTGRKVVdYUmktNzBjMlVCT1ZIUVVScWY4NVZNQXIwUk9yOWMyU0xlSFNUQ2pBUmZxanJtbi1HdEpLSkNVUklqeTM1QWtfbDNWTmV5eUd0Wm1Nb05uX3poWFFCMzd6ZDdhZkJiYk9pSENxVTlfaDBkdTg2ZDhBczMwNmNlMVIwc1UzckhwSjBzWXA0aXpJTFp4eHkzNGF3UEY4OUxOWTUydG5INjUySm10LVc3dFRYaW9aMWZvbXMtTWdOVVJqZGlsNV9XcUVndlY0VC1QUnJiZ0100gGHAkFVX3lxTFBHX0htTzhNTWVMWnJIejFzS0JJdXN5V0lrQjBpM2ViSjlyTHJjaEVuMTBidGZZQTJEalM5bGp0bzlvTEtrN1duZW1IQ3hzdk9fMDhwc2hIdTBpN0lPak5rUUkwVEtaRHlvWnQzX3o3YlpPclk4dFdNSHJEcEV3anl1bDZxQjBDNVBrX0hVc0pLeGhBYlRTaXlWUHRuMUZyclB3LVdsMHdNMjhrLVFuLThsR3plb3llWDBVUHVGMENtdFJ1bnY3eTB4aTNENUNHXzJNT3FkSGFSd1gwZWVJcDM0UVlmX0pMSUFkQnEzSVdWV1RhWUdRdGh5aE9RUW55RkhDTEtLVXlJ?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "3482a37cf9fe7a89a545",
+          "fecha": "2026-10-30T05:10:16+00:00",
+          "titulo": "Nick Jonas adjusts his tour to be home for Priyanka Chopra’s Karwa Chauth: ‘No one like my guy’ - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZTNxcF9tc01vaFhITnkyMUZGT0Z3OVp5eFR4T2xJYktuUXgwSm01NzFYZE5ER0o2MW9FTGVJS1o1OHQ5V0NEZXQ2SkZ4NksyR1hhejVFWm9FRW9qN3JYZDF2VTRWR1FnSGJ5WjRvQlQyNlVTalRBQU0tMUk5cXBEaUh0LVdyNWduelpLenlDZEQ3Q1VBUUNPVHY1Z1NTUlY5dmJwWFhVX1dBSzlFc2lseEtRclRZVFFhWHQ0bjdmSVVIWkVzakhzZmlPeWoxSDNibXdFQTZSM3AyZVB1aWVxc0wyS0pfMUdqYWRCQjhXX1jSAfcBQVVfeXFMTUY4bkkyTGhQSGU2bHNGTHVsME4teVRLQnFJVDZlNXRRc2RES2o2RnV0S3JHYWtYcEV6enNiakJCMFZrUGxZWlNWOVhCOTRMeTdKQVpVSHBQRGd0a0p5RlRodzh1YzRPZnAyTkIycVBMVmtYZjdoNFhoYW93ampDdWdFLWFlelBCT2xXazc2M0sxVXo0VHJqMDcyOXVDaWR6N0FiN0YwWWpSdG9hTEZpQXI5XzVIZlJZQ01aS2p5RDdKaWkxTTlLbGZVZEFZTkJXajJiZlA2dll3NzhCRHlwd19CSkxzZ1ozeHlwRHFRTWltRTNKNXZJNA?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "9fc1f314d7c2a4aa5043",
+          "fecha": "2026-10-30T04:27:00+00:00",
+          "titulo": "Nitesh Tiwari’s wife Ashwiny shares note after Ramayana’s Los Angeles premiere: ‘It’s karma’ - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQjVGVWNqLVd0ZTVJdmVXc09ZQkdQM1BkckhQRFJKYkR5dkl5ZEVTbnVhM1o3S05tRU54SGVGaFloVHp4SjczeFZHOWx1Wmd6dXBVOV9rTzFnUGs2Wnd1TXM2bTBxQmgxRWk1RE5rb3YweDFKZGVma3h0czhDd2wwaDZybG80SHozUHZYQmxvZWswQl9TaENmMGlnTTlpRDl2cTMwQ3VZdHpVT2tVM2RoZGxFTWJWeUlCU0FWS0V6RU5YZHpGUmY2QkdLUHM0SVRuRE11ZW9TYkE1VU04MzI5WTRKczA5S01E0gHvAUFVX3lxTE41SDlfN3JWWkJ5XzJHTkttWGg2TUFvaFRxUi1sQ2xCSjBNVHZ0aC1hdDUzYkJidVpZdkRkMFdvNFhUSlZhRzFyU1ZIRkF6NjRmS2hRaUJEeEVUQVJJcFFzVDhKdThuYXkwY3QxYndLOVMyNE04WGdFXzVQVnZrLWI2SlZaS3IwWmRfZl9sSG1xcmY2X2NSTVBGanMySWtYZTlIMGNRbjlmUWhGVVNFZHBSbVZaQmJCY0pDeDktMl85LS13eFNRUWkybll3Yl9MaC1FNC15b2poQ09saUVpYkh4M1U0Tkd1X3RRMU9kQjcw?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "f0b77ccda98526bb914a",
+          "fecha": "2026-10-30T04:07:06+00:00",
+          "titulo": "Why Alphabet, Google’s parent company, just lost $500 billion in a day - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbV9uOG5xdC1tNEpRVHdqVU9wT19OSmVMWFBLbnpkYTBmc01iaUJBdll4Tzl0T3kwcjlDQnRmSGVuX3dXRk8xOHhHakZKNE5VSng4TGxiRmNRalpiVURVNUFfNjNnRmZ2MzVlRThiOEVkNFhQUDlzUGw4amM1aVpPSnFGcVBaVE1VQzluQVlITFBtVWU4R29RRk51Q29mTms5MUFMM3ZYaU8zRXkzVzFoQXpsNmt6Z29wbVFwQXBhNNIBxgFBVV95cUxNcDdaU0h0SUZwc0puMldsZU53akduS2JudWZfaDFtOTd6c0pNS0Z3V3l2QmZ1am1PRnktQjJIT0YxMzN3OEZqaW5IdzVNajVRenFtZDNPQjFWcmpvc0w4RWJsOGRmZGkzU3VuLUtZcEc1ZDZFTWpyVkExNTlMdl84NGROamtvWVpnQkJHN2dzRDdaNHFqTjVwbWVGZFA4ZmxVX0tlSHNlX3lweVlzalFfNW83Zy01U0l5QXJnRUhRa0xESEpMa0E?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "89f15c04a37c77971872",
+          "fecha": "2026-10-30T03:52:26+00:00",
+          "titulo": "‘I didn’t sit on my sofa for a year’: The hidden cost of living with OCD - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTUlmR1hFUHZ5eVlTZHJXUWZKQkZYcHIwMTN0clpGUTJ3MVNJWm9ZWFFFSS1ISWlLcnFRZlpWWDZueDZXXzdPeVl5cDVIU1diWGprVkdvS2hsaGxMZ1RZNmVhLWlQWXhOSzZSeUNmSVF6ejFKcUE5cmk3NXZkenBfUW9zZmFZRnc3UzJlYVhrZHpJLVhwdDZrUW12cWk5ak5YNXBseWxEcHpZRVhUNUZzQXhqLXlhRkFOVUQ3ZndxOG1hV2VfY1VBMU4zZ3ZfQkJiT3lJM1dYNNIB3gFBVV95cUxOZUZnMVBPRy1TeTJoOHA5bTJKSmFGNTBTR2VwRUh4NTI4enNuejNfYUVYUW1wdWs0MmJqSnAtbklaQVQ5Y2FPY3lhOWZBNFZIMnVTSjktR3BSU0lUR3VfWEIwcndlMjAyc193eHo1cXFySXhfeERZTmtNN3hoTFJSRjFZblhpQngxRlB6a2pkT3VBcVpJcDdBY0QwYjAwdXh5S2ZOdnJZRENSZlpnMUtJWV9zaF9TeUttcGIwOVh2c2RpVGJCc0poMURXRTRQRVkwcTR2YnY5YnZuV1RjV3c?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "a55b37e18a6a462e1248",
+          "fecha": "2026-10-30T02:18:18+00:00",
+          "titulo": "Most Malaysians held for drug crimes abroad detained in Indonesia, China",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3372654/most-malaysians-held-drug-crimes-abroad-detained-indonesia-china",
+          "traducida": false
+        },
+        {
+          "id": "db7d5658e734c409596b",
+          "fecha": "2026-10-30T01:45:39+00:00",
+          "titulo": "What Samajwadi Party’s MLC poll wins in BJP strongholds mean for 2027 - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWThOazMxWlFqR1NIYnNuOVJVTTVOWkhxaDdkZVB4YTZJcFk2S3I0SVJ2RF8zUjVVblFkQkJ0cVFMODdiYnJHa1RrX2VqQWs4SmE4V0RaYTlJdkEtRWtuckc2STFzQXkxSTNvaHlYamdld0J0SHV6Zi1OcW1xQk1lXzlLVXQzdlZ3M2VUVTNPaV9yQ0UtcFlSbVp1WVZqbmk1bnVjNVdYVVRvaTRzdVRKbHpHRzZtSi00cmJvajN6N1ZTSmRwNEhiMkJKMEhRWVZNUHFKSWVYN29TUkdycWxIQ9IB5wFBVV95cUxQZnpGMkQ4QjZsUGFyaE52bDBqSXdOVmQ1R01hLXYwRkc4Y005NlhpbUlFeGlzbThZS3VtVzlKckpQblhMcFlhUThUR0IzOG0yYmZ5YVl0aWg4eDV4eUIzWGh5STA1MWhLYUVPd05TaFdLX2JOLUlyaWoxM3c5ZDFtMUhFMC1OeTEwek9rR0FUS1lCR0NXMFI5WC1VdGF1TGpqZVF1ckZscTRUSXNrcDlJRVFTczd1UkthN0J3SzI4TXZiajVQc240OTdjXzVKOVJEdlg1Zk9lcTM4RUJHOGlaRmdIY1VCUU0?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "ba196df935c55fe09daa",
+          "fecha": "2026-10-30T00:30:55+00:00",
+          "titulo": "CPC plenum shifts spotlight inward, to party purges, discipline - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRmpLVVNIclB0RzV1VmxRUWV4LUNFWXJQWmhnRkdmRDNxdFpoVUhsRlRmZkxYZHE1bGhOMnY5cWRqbUkyRVRXVFZuWXl4S1czQUFTb0lCSUZzV2poZnRPNHBxcVJfTS1EdVRPSENzOXlNZFJxUjBSZGlweTRPTXc2ZE1rV2ZCdVZzWGdtVk5iR1J3aTV4TjczQmRnSm5uc0g3cUlOY0VvQ3c4WkNwYVBib2JJMmlVSlpDaVln0gHCAUFVX3lxTE5YZkdpQVo5a05CVUZ2Um1OdTZ3VGpsRUVvTjRpa0lYckdFUDItTGpIMzZQdE9OaWdEdHdzU01BZXlCaWZSMEpVa29jZ0ZISXhtWUZhdW1jS0YxT1IzaXMwUDl4NE5WdjJzc3F6VC1pMjl3VnhMNkJRRnlYZUZZY201N0NTZ3FhRnE5dU9KYlFJZG5iWVdid3g3R3FBQnhTWDhLVmpnWXRtQzhBQ3VVZW1tOUx4VktXTmQ0YVk0VXVCdV9R?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "6ab58b45450535c52bef",
+          "fecha": "2026-10-30T00:30:05+00:00",
+          "titulo": "Arun Vijay on rebuilding fitness after 1.5 years away from workouts: ‘Give me 2-3 months’ - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZW5QTWtIV0VjSzJkRDI5enpsYzVINkRudmpGQklMUzJPRm9BX2NnWXBFUHRWanVEQVpnVWxoTHNiS3VoT0NrdHAtcTlwc28wQkZxY1hQeVEzVjNFbDIwajBNay1pOTlfMmhTSUpmWndyU2wwSFBWZlBoTkxEYlhZOHJDOXFKbGJUbFpONFdxUjhJUWFLZndLYVcxMFdEUTZwcmpMUEs5TC1Mc0s2SUZFZy1YZ3A2cjdPN2fSAcABQVVfeXFMUGM4Z0JfOUxsZnBCTnpMYmJWdUxPdG1tZE94YTNZOHY3aEFmQU90VUVkN01hMGZxNTlKZTRBVzlRSXhHbUlYcmZ0WWU5QWJqU25Vb1RpbnRNRHljRTAwRGRfMmlPaU1na21XbnBMeEZzUTNEZTNxTnYwaDFTS0FpMnp2aEVIRjVKZEQwNkhDZzhHR2hmclRsTUFxUWYtRHhxTGZrUE9GWHl4MXdwNVFXa0QwWHRiV2ZlazhGY01pZzlY?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "0ccf9de24a197ac3cfea",
+          "fecha": "2026-10-30T00:18:12+00:00",
+          "titulo": "Once part of Pakistan’s ruling elite, now a sarpanch in Rajasthan - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUTBpWWd5NzFJU1hUSE9NVjJoWU1Uc2lXWG4zV1UxUks0eDkzQmJJaDZ0QzRBSkMtbDFpX1dYSjB6OC0xZ0ExZ28wUUxuZkRuWlpHbVVIUnA5enRURldkTWFKTC1hMUlZSXEtSk9uYzNaWWpHbDlNRTNXanB5UFJRNnQ2ZFdXOG9mZjAxOTh1Tzc2RmN4LWtyeHBob0x2WXFCV2J0ZkwtcUtDd0NwR1pGbk03MXNtem9HZlo0MFpuM0YwcTZQakhB0gHOAUFVX3lxTE16bG41R3pRUzl0dThqNGFSYms5cS1HTGZKZHNNNFJyOTBaMloySjE5QWlQUGo1U01QOXI1Ulk0bFc5dWNySUlDZHRlYWJZYW1HVHVPWDZENEdNdUpQdDhNc05NZC1haEt2WDdaWVpTZ2lycWhYWmktOE43clhJSHZVWU1XN0llbHdfdlBhODNsYzVrYjdhbl9CX1pmYTZmazZYSkhaUTJjM3dGam5CQlEwMFVUd3dudXVMZ28zaTB2YWxXNkFWbHh5Mm91MGp3?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "911480a83b8089870c64",
+          "fecha": "2026-10-30T00:02:35+00:00",
+          "titulo": "Indians turn to start-ups to care for ageing parents as young become more mobile",
+          "fuente": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cmx2qr4rp1xeo?at_medium=RSS&at_campaign=rss",
+          "traducida": false
+        },
+        {
+          "id": "cab2f70094691b471b6a",
+          "fecha": "2026-10-30T00:00:48+00:00",
+          "titulo": "Only 6-month extension for Invest India CEO as key decisions under scrutiny - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWTc3YWhBNTN4eU9QZ3h2VTlGaV9HcW5PM3ZwUDR3REVSTUl2WVpVVjBHd0Z4RkQwbEdYTV9scEJSNk81MjByeG1iMHFzVG5mV1pEQ0Y1dHZIMFc3LV94MlZLMzJzWTVuR1ZDelk3aVRvcjJsczBVR252bXViR1JpeTNjVlZ6d2w2VkRpX3ZnWEw3S0pxb1HSAZwBQVVfeXFMUF9MWTEzbEpBVmdJNmhWT1lTX0pRTFEyRXMyUHk1SWNvQ2Q5cWZXY1ppUV93Snp5LXhGM2JaUG1SY1Vicjhab1IwZXB5bkdLUmZWYjJhYk5BUUFxdktYQUpMN0pYc0RTdUQwZGlzaFVGc0FXVmUwM3NYNDlqa1dPd0VydmlzUktZV1VmLS1UYTRXbjJRRW80VWF0TDZR?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "1f2cbc55fa913cca8b66",
+          "fecha": "2026-10-30T00:00:21+00:00",
+          "titulo": "‘Can take on gangs, grenade… what about idle youths?’: Punjab Police despair in border areas - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRGdETTF2blIxaDVockhzY3J4OUJEOVpKcnlyb3NVbHhnRWVYcmF4d0ZNZDRtbjUxSUpReUU2Y3NOSUxKVXVfZk5KZlJxWldoV24zbUJpTHpDcDBxQ1NJRldTRTUyRHdGVmNWV21mQUNuUGxhLUdidkdlWll3LTJDWHZnT0ZrdTBvREJQNDdiZmRHdHY0U1ZPWWY1R0FuTWR5ZkU0ZTg3ZkXSAa8BQVVfeXFMTUVsaDMxZU9lSkdfM0ZTV2pqcHR1M2g1c0dyYW9PVVg0WDJEQVl6dmFVVExLd0thZFNWcjBLSXFfVFRQSlA2X3FpMFlGSldXZHViMEQ3VWI4NnM1RXJuTHhBM0VwOTVzMm90WTVtSGNZSWxMNTJ3YWJJWlluUHpSd09iOHhsT0J2LWdqRk9HcEg4NmlRbGg1VlREZE1HeVUyZHEwXzZWSGU1ZTN5LUtxMA?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "34ed9f22ff1f192089f5",
+          "fecha": "2026-10-29T22:57:22+00:00",
+          "titulo": "CBSE revises Scheme of Studies for 2028 Class X board exams - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMTQzWGloWDVxMU1LMnZzdFFZLVpuT0dlWGhoVTVXTTJDZWM5RGM5amJSNkx4X1ZCbGZXTjczTTlUUkc3Z0dudDdlTmRIbmQzdThhZC12MENTTHNfcmZLcXdvUVBLWEhPMm9QdlBTS2pfZllLWXhOQkRhcGVabXh0ZE1LRGlObElkb0tNY2RLSm1yQU9xeDlvYkZWTDJxSjRyRmszVjBHdExiODRTZzNkTjhvNNIBugFBVV95cUxNZjNtREg2MFUxcnhNMjFEeERhZzBGWTFsSlAzdF9TcjZvTkMwdUdfeWN5VU55Vjh1M1hHWmxtZ3ZmR3FmVm1YdHMzLXNpQVpZaXhYRFpBaUpqcW9BNzk5eHRfcUdNN1RHQmtDNGZ2VDUxbXlzRnJkb1pTX2dGMzJwcXVHbUdmbFFEMGpRSFFtNTE1T2E2a25WU1prV0t6SnRqN3NTcjVjODVfM0ptcDF2T2czZFk1clplWWc?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "f7ea9120bc747ae21007",
+          "fecha": "2026-10-29T22:55:02+00:00",
+          "titulo": "Cow regarded as ‘mother of the world’: Gandhinagar court sentences three to life - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSHJ4YkxpM2V5di1DNHdxbXRRdHhBb3p2X0FnSTNabHpSNzlLdzllWGJkdjBDSVBSSVpwMUlxN2xraUY3RzJiLXlLRmg4OXJCajl1LWxJcGlJSGtnZG9DTEVtNnh3VlJ6VGp0M3NkZmFjUFljaG5pWWw3YXlHWUtJNTk1Z2N4RmZ2WFM4X2x6MG9OYWtMM3RPOTBXRDZPT2g0bGFtcFJFSU5EeEh2Nkx0VVNseEVGbWl0X0hFZlZWWWNDazVXdmhBcl9QV05SeFF2OTBnT9IB2wFBVV95cUxPX2hVVmdMQjZyZ09XLXBFWXE2emFiMTFKdExYRlpjei1lVUZ4UGx2bWNDaVlSelp4QU1ycVBDQ0xWZ2lRb3JLOTNYRjlaUm51cVA3TXVVdjBFUU0xd3ZFRy01ZXpZZWZsZVotWVFyTTBtLTBTcGM2OC14QzdxZEV0THdGaTZvdnpmWG5qQXVFQWNtSWlsZEtBY2VpZ25lZzE2R2t3MVBEcTJNUllwNy1odGZCWnZpT0ZUUnNPUzdQT19SbDJDLTJkVk05ME81YlVuZlMzSjFyQUVSQnc?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "2c6ad43c56bab374f44c",
+          "fecha": "2026-10-29T19:26:00+00:00",
+          "titulo": "The second ‘I Do’: Why couples are choosing to renew their wedding vows - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRU1yWVZjT1ZBcDFrNVBGa1ExNmpORGJlektiLWlvaDBEZ3E4Qi00aHZ0bUtCVG5Gak82RWhNcHB3RnFnZ3VRNXVFeWc2dXJIR3UxOUx0ZTJveUlLU05oaUMzcnVyaE9wa0MyX2g0RVNhLWxkckNnNkIzUTFnc05BVXBwYnpZbjVIUW0wckducG9kTmZZU2tSZXBEcGYxM0doQ3RNZVl6Zi1LWDJK0gGzAUFVX3lxTE5OV0xwcmp0SnhoMGotSThUQngzb01sNlNYTlkwSUx4dGs4aWNDWnppVmV1N1RWNTZrR1RVUE5sZzRRZUxQZkUtVU5HTkVZRV9pWDlEeUJoYXRXdzhvWGpBeVJXTnJhSm41ZEY2a0ZLQWkwbWhoTWZIVGxySkhzNE5XdEd4a181c2RGR3l2YlhwYmdpM3hlRVVGdlFyVlJlVzRZWHlVbDhILTRnRVhMLWFfY2d3?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "3816525fe5fa327c8698",
+          "fecha": "2026-10-29T18:39:00+00:00",
+          "titulo": "Daughter murdered in US, Ludhiana family seeks her infant son’s custody - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb0RDQkdkTjVpSWpEbVI2bEUxWjFVNkRzTGg5bnUwZ0UzTHBmTjFjOElwcWMwUEtOMlFfMjAtOXNtNXVYTDMwbEVuQ3FyMExGNUJBcGNKdkg3NFpjRGZZeVBDcElRZFBidDhfdVRHbHZqcUtGMUx5blpjdmpGX3JYMUo3aHp0UUZZc3ppd2NseUZfRmtRZmF4NnpmSzlsSkp4OE5qeEQySmlOMlBrVUpONtIBtwFBVV95cUxNNjJ6Um1RQ1ozV3AzOWtvSTAyZlJsTWVfeUdKcTUzMzhQenpxS21wSzBpWFRaeXBIUWZPUThJa0RKTHdCMk5OT2ZqT3BZUTVnMEFYMlBiOHZ0RzFXMTZ3MTFjSGZOQzdlQWRUREhZRHlRVnB0cS1KQ1hEX2RSWkZQOWMzNWV2MS1XNVlwOE9BcVhodVFTcDgxbkpfbDFsNlowVUpDMUhQR3dIbjRKdDFoQlFLSnF4RGc?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "394e5ffc415c87534e91",
+          "fecha": "2026-10-29T18:31:38+00:00",
+          "titulo": "Foreign Secretary to visit Kathmandu as plans get underway for Nepal PM’s India visit",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/foreign-secretary-to-visit-kathmandu-as-plans-get-underway-for-nepal-pms-india-visit/article71641874.ece",
           "traducida": false
         }
       ]
@@ -761,13 +761,85 @@
     {
       "id": "union-europea",
       "titulo": "Unión Europea y relaciones exteriores",
-      "cantidad_archivada": 343,
+      "cantidad_archivada": 352,
       "nuevas_24h": 22,
-      "anteriores_24h": 15,
-      "dias_con_registros": 14,
-      "fecha_ultima": "2026-10-29T19:43:34+00:00",
+      "anteriores_24h": 18,
+      "dias_con_registros": 15,
+      "fecha_ultima": "2026-10-30T11:00:52+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "da9f1b2672ba1a94e47a",
+          "fecha": "2026-10-30T11:00:52+00:00",
+          "titulo": "Families in the US are opting for earlier measles vaccinations amid outbreak",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/oct/30/measles-outbreak-vaccination",
+          "traducida": false
+        },
+        {
+          "id": "bf502ac7a7ffe33c2cab",
+          "fecha": "2026-10-30T10:19:54+00:00",
+          "titulo": "Economy minister warns France could ‘hit the wall’ as new figures show GDP contraction",
+          "fuente": "POLITICO Europe",
+          "url": "https://www.politico.eu/article/economy-minister-roland-lescure-warns-france-could-hit-the-wall-as-new-figures-show-gdp-contraction/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "traducida": false
+        },
+        {
+          "id": "ce5fb79b9212b3647fb7",
+          "fecha": "2026-10-30T09:35:53+00:00",
+          "titulo": "EU lacks basis for talks with US, Russia on Ukraine — source in Brussels",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2210753",
+          "traducida": false
+        },
+        {
+          "id": "30c10a3a65b02f30fc51",
+          "fecha": "2026-10-30T07:00:47+00:00",
+          "titulo": "France network outage puts Nokia under scrutiny as EU pushes to phase out Huawei, ZTE gear",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/economy/global-economy/article/3372699/france-network-outage-puts-nokia-under-scrutiny-eu-pushes-phase-out-huawei-zte-gear",
+          "traducida": false
+        },
+        {
+          "id": "bc0e43395ca02dfea4b0",
+          "fecha": "2026-10-30T05:25:54+00:00",
+          "titulo": "France on alert as 70,000 police mobilised for Halloween protests",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/europe/article/3372682/france-alert-70000-police-mobilised-halloween-protests",
+          "traducida": false
+        },
+        {
+          "id": "017391cfff32d40ee0d3",
+          "fecha": "2026-10-30T04:30:01+00:00",
+          "titulo": "Morir por el color de la piel en la Francia de 2026",
+          "fuente": "El País",
+          "url": "https://elpais.com/opinion/2026-10-30/morir-por-el-color-de-la-piel-en-la-francia-de-2026.html",
+          "traducida": false
+        },
+        {
+          "id": "03c63432694f0d0377b6",
+          "fecha": "2026-10-30T04:00:15+00:00",
+          "titulo": "Protests and violence now go hand in hand in France. It wasn’t always like this - CNN",
+          "fuente": "CNN",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxMFpxQ1FPb1ZBaGdaSVhaMmt2S01WOGZLX0gxSkRsZElzbG9iaElUUU5pZUltY0RWTmMweTJ4VTY4MUVBR3dsMWkwbXd0ZXFYV3lkMjN4bHVYRVY0QmMzbXhia1N3RHJrQ0FIV0VhREF4eXRlakE?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "e3710dbf5f99614de4f2",
+          "fecha": "2026-10-30T03:15:06+00:00",
+          "titulo": "Hong Kong’s M+ forges new alliance with MoMA and Centre Pompidou to redefine museum loans",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/lifestyle/arts/article/3372366/hong-kongs-m-forges-new-alliance-moma-and-centre-pompidou-redefine-museum-loans",
+          "traducida": false
+        },
+        {
+          "id": "33334f82357fe4dda2f2",
+          "fecha": "2026-10-30T01:30:08+00:00",
+          "titulo": "France’s protests, like Hong Kong’s in 2019, risk being defined by violence",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/opinion/world-opinion/article/3372437/frances-protests-hong-kongs-2019-risk-being-defined-violence",
+          "traducida": false
+        },
         {
           "id": "85ee126d93f51be1de46",
           "fecha": "2026-10-29T19:43:34+00:00",
@@ -935,91 +1007,83 @@
           "fuente": "The Indian Express",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ1dfYTk0RzlialpPaktDVGMxbnlWOU4wVFczeXBsQmlfZ19zYmxqWGJZSGxTNFBqV0lfblFqTF9QTUVMemhyRG41czBCYUMtQWRTZ2xTTHhGT2VURWE1YVBjMlNSa1VXSzlqbEVMbkFHcVlONkxuVXdEVkpid05reEw3NDNlUmVtU2hOWV9rMThuVFZZUkNwamVLV3V0T3FGVkdCRzItb3lFa0t1dGc?oc=5",
           "traducida": false
-        },
-        {
-          "id": "425cf4d2ecc4aed2cfc9",
-          "fecha": "2026-10-29T00:53:30+00:00",
-          "titulo": "In France, protests frame costs of state silence - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ0xHNGl3OU85dHRsTTJYQ0xiU2NRNkZkbGFTbUg1cmhYMHVmQWF2MjZDdGRtX3FKbVhXMzA3cF80aE9uWmpJX3BDc25oWmFXQ2Z1YUNvZkpFWXRLS0RvSGZ3NFpfblN6bWJKdmhxSUJMaE14akVndDcxN2hWOUhrQ194QjZRYWIyRVdldGZ6RW9JTnQ5SW81OW5CX2lqWWtXc1ZmbGY0MC1rUzhYczJaalRPWHRhSTJLM3ZUMGRvb9IBxgFBVV95cUxQcGZRcWR0WG5jLTJoMG1MY2twUWd2cTVqcDhoQWhoU3ltd2g2OEpVMnlyNFlqejFHYlg2cXQ2OThUX1g1R0dkT0xWZkt0UldyZ09hVDZXd3Nrc2lTdjJDYTE0VFRlc3RNbnlGUTU3V0x1TnhHa3oxS0JyZUJTY3gtWkZFQWU4X2lRSFZnZ3hGQmlNTmQwSEQtMzlwOUMtQ0Q2cnNBWlBXNm5Xd3lMTXJxMkFEWTBCWmQxeHNXVS1iaTRDM2NpdHc?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "5f834fbed05ce39e8eee",
-          "fecha": "2026-10-28T18:27:02+00:00",
-          "titulo": "La UE y Canadá buscan una alianza histórica tras descartar la fórmula de “miembro asociado”",
-          "fuente": "El País",
-          "url": "https://elpais.com/internacional/2026-10-28/la-ue-y-canada-buscan-una-alianza-historica-tras-la-descartar-la-formula-de-miembro-asociado.html",
-          "traducida": false
-        },
-        {
-          "id": "e0fe1a1bcfa063635996",
-          "fecha": "2026-10-28T16:45:25+00:00",
-          "titulo": "Tory Brexit was ‘harder’ than promised in EU referendum, says Andy Burnham",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/politics/2026/oct/28/tory-brexit-harder-promised-referendum-andy-burnham",
-          "traducida": false
-        },
-        {
-          "id": "d1999e7f8a11b24e1487",
-          "fecha": "2026-10-28T16:11:21+00:00",
-          "titulo": "Bruselas busca aumentar la capacidad de las refinerías europeas para frenar los precios de los combustibles",
-          "fuente": "El País",
-          "url": "https://elpais.com/economia/2026-10-28/bruselas-busca-aumentar-la-capacidad-de-las-refinerias-europeas-para-frenar-los-precios-de-los-combustibles.html",
-          "traducida": false
-        },
-        {
-          "id": "fdb9717549c7ac63304b",
-          "fecha": "2026-10-28T16:04:42+00:00",
-          "titulo": "National authorities should influence operation of social networks in their states — Putin",
-          "fuente": "TASS",
-          "url": "https://tass.com/economy/2209681",
-          "traducida": false
-        },
-        {
-          "id": "246a442cf34e962ba131",
-          "fecha": "2026-10-28T15:45:06+00:00",
-          "titulo": "In Serbia, a new type of democracy is taking hold, and Europe is watching closely",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/28/in-serbia-a-new-type-of-democracy-is-taking-hold-and-europe-is-watching-closely",
-          "traducida": false
-        },
-        {
-          "id": "700ded835f5ce28c217f",
-          "fecha": "2026-10-28T14:50:24+00:00",
-          "titulo": "EU set to scrap ‘associate member’ offer for Canada",
-          "fuente": "POLITICO Europe",
-          "url": "https://www.politico.eu/article/eu-set-to-scrap-associate-member-status-offer-for-canada/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "traducida": false
-        },
-        {
-          "id": "495594ef3112ce9f319f",
-          "fecha": "2026-10-28T13:00:13+00:00",
-          "titulo": "« La guerre de Trump contre le vote aux midterms confirme que le 6 janvier 2021 n’a pas été un accident mais l’application d’un principe du trumpisme »",
-          "fuente": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/10/28/la-guerre-de-trump-contre-le-vote-aux-midterms-confirme-que-le-6-janvier-2021-n-a-pas-ete-un-accident-mais-l-application-d-un-principe-du-trumpisme_6801576_3232.html",
-          "traducida": false
-        },
-        {
-          "id": "e698376275401d683c5b",
-          "fecha": "2026-10-28T12:53:34+00:00",
-          "titulo": "Ballon d’Or win will help keep Kane at Bayern, says Germany’s Matthaus",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/10/28/ballon-dor-win-will-help-keep-kane-at-bayern-says-germanys-matthaus?traffic_source=rss",
-          "traducida": false
         }
       ]
     },
     {
       "id": "suramerica",
       "titulo": "Sudamérica: integración y política exterior",
-      "cantidad_archivada": 218,
-      "nuevas_24h": 20,
-      "anteriores_24h": 23,
-      "dias_con_registros": 14,
-      "fecha_ultima": "2026-10-29T19:21:19+00:00",
+      "cantidad_archivada": 226,
+      "nuevas_24h": 13,
+      "anteriores_24h": 28,
+      "dias_con_registros": 15,
+      "fecha_ultima": "2026-10-30T11:00:08+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "7fa93a9fa8415fcb1f9b",
+          "fecha": "2026-10-30T11:00:08+00:00",
+          "titulo": "Au Brésil, les marges de manœuvre limitées de Lula sur la protection de l’environnement",
+          "fuente": "Le Monde",
+          "url": "https://www.lemonde.fr/planete/article/2026/10/30/au-bresil-les-marges-de-man-uvre-limitees-de-lula-sur-la-protection-de-l-environnement_6803076_3244.html",
+          "traducida": false
+        },
+        {
+          "id": "dc0a119bf0da6bacf382",
+          "fecha": "2026-10-30T10:31:00+00:00",
+          "titulo": "Risco de invasão de Cuba pelos EUA é real, avalia embaixador",
+          "fuente": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/risco-de-invasao-de-cuba-pelos-eua-e-real-avalia-embaixador",
+          "traducida": false
+        },
+        {
+          "id": "c859726f76ef34217853",
+          "fecha": "2026-10-30T09:30:00+00:00",
+          "titulo": "El gobernador de São Paulo emerge como figura de la derecha brasileña tras la fuga de Flávio Bolsonaro",
+          "fuente": "El País",
+          "url": "https://elpais.com/america/2026-10-30/el-gobernador-de-sao-paulo-emerge-como-figura-de-la-derecha-brasilena-tras-la-fuga-de-flavio-bolsonaro.html",
+          "traducida": false
+        },
+        {
+          "id": "b712ddd84e0a11c1c1d6",
+          "fecha": "2026-10-30T09:00:31+00:00",
+          "titulo": "Politburo promotion, Lula victory, US midterm elections",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/plus/news/china/politics/article/3372719/politburo-promotion-lula-victory-us-midterm-elections",
+          "traducida": false
+        },
+        {
+          "id": "4fd2c42c22a47feab27c",
+          "fecha": "2026-10-30T09:00:16+00:00",
+          "titulo": "Au Brésil, André Janones, le « général » à l’origine de l’« armée numérique » de Lula",
+          "fuente": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/10/30/au-bresil-andre-janones-le-general-a-l-origine-de-l-armee-numerique-de-lula_6802922_3210.html",
+          "traducida": false
+        },
+        {
+          "id": "b53ed508ef3ce40a26dc",
+          "fecha": "2026-10-30T04:30:00+00:00",
+          "titulo": "De Penélope Cruz y Salma Hayek a Jude Law y Ewan McGregor: actores, músicos y escritores que vivieron juntos",
+          "fuente": "El País",
+          "url": "https://elpais.com/gente/2026-10-30/de-penelope-cruz-y-salma-hayek-a-jude-law-y-ewan-mcgregor-actores-musicos-y-escritores-que-vivieron-juntos.html",
+          "traducida": false
+        },
+        {
+          "id": "bde66f3e38ffd96f2da9",
+          "fecha": "2026-10-30T04:15:06+00:00",
+          "titulo": "Lula’s win aids China ties; Hong Kong official quits over Tai Po fire: SCMP’s 7 highlights",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/article/3372658/lulas-win-aids-china-ties-hong-kong-official-quits-over-tai-po-fire-scmps-7-highlights",
+          "traducida": false
+        },
+        {
+          "id": "0a5b57d063795f39f8c5",
+          "fecha": "2026-10-30T01:17:29+00:00",
+          "titulo": "Milei vuelve a España después de sacudir la campaña con sus insultos a Pedro Sánchez",
+          "fuente": "El País",
+          "url": "https://elpais.com/argentina/2026-10-30/milei-vuelve-a-espana-despues-de-sacudir-la-campana-con-sus-insultos-a-pedro-sanchez.html",
+          "traducida": false
+        },
         {
           "id": "4498dfa315abeb874487",
           "fecha": "2026-10-29T19:21:19+00:00",
@@ -1195,69 +1259,257 @@
           "fuente": "POLITICO US",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVVdqU2kxQnJQekM3NjJURVI4MS1NNDM2Wjd0b1hPQkxBSDllOWNTb1U0c1N6LUR6aWRBaUFWd2JybVBTOXVZOExza0U5QzZPS29Mekg3X0dSd0oySGFQbEJzcFpKM25PbXltZ1JFTlBZdkttbDJOTDBQeEIyWGVSS3h0dzQzRnVWeDFvdzFPTDZvVTVtWFNnV2FB?oc=5",
           "traducida": false
-        },
+        }
+      ]
+    },
+    {
+      "id": "eeuu-china",
+      "titulo": "Competencia estratégica Estados Unidos–China",
+      "cantidad_archivada": 54,
+      "nuevas_24h": 8,
+      "anteriores_24h": 4,
+      "dias_con_registros": 13,
+      "fecha_ultima": "2026-10-30T12:30:06+00:00",
+      "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
+      "publicaciones": [
         {
-          "id": "da1b46e682616586de2a",
-          "fecha": "2026-10-28T18:51:05+00:00",
-          "titulo": "How did Flávio Bolsonaro end up in Miami?",
-          "fuente": "BBC News",
-          "url": "https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&at_campaign=rss",
+          "id": "4ef01b60e099c32ad73b",
+          "fecha": "2026-10-30T12:30:06+00:00",
+          "titulo": "A Xi-Trump-Putin summit in Shenzhen could kick-start peace in Ukraine",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/opinion/china-opinion/article/3372321/xi-trump-putin-summit-shenzhen-could-kick-start-peace-ukraine",
           "traducida": false
         },
         {
-          "id": "4f3bb516c7e66141e1db",
-          "fecha": "2026-10-28T18:12:01+00:00",
-          "titulo": "‘It all happened in a split-second’: survivors recount details of Spain’s second deadly train crash in 10 months",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/28/it-all-happened-in-a-split-second-survivors-recount-details-of-spains-second-deadly-train-crash-in-10-months",
+          "id": "feac27f06da8958f73bc",
+          "fecha": "2026-10-30T11:31:16+00:00",
+          "titulo": "La amistad de Jensen Huang, jefe de Nvidia, con una presunta agente china dispara las alarmas sobre el espionaje en el mundo de la IA",
+          "fuente": "El País",
+          "url": "https://elpais.com/tecnologia/2026-10-30/la-amistad-de-jensen-huang-jefe-de-nvidia-con-una-presunta-agente-china-dispara-las-alarmas-sobre-el-espionaje-en-el-mundo-de-la-ia.html",
           "traducida": false
         },
         {
-          "id": "f1699ec7b6c0cd668d83",
-          "fecha": "2026-10-28T17:13:28+00:00",
-          "titulo": "Fuite de Flavio Bolsonaro : en Argentine, l’opposition accuse Javier Milei de l’avoir aidé à rejoindre les Etats-Unis",
-          "fuente": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/10/28/fuite-de-flavio-bolsonaro-en-argentine-l-opposition-accuse-javier-milei-de-l-avoir-aide-a-rejoindre-les-etats-unis_6801619_3210.html",
+          "id": "0c0b4b286796fb0b8405",
+          "fecha": "2026-10-30T09:00:06+00:00",
+          "titulo": "Economist Stephen Roach warns the US and China are in a ‘conflicted co-dependency’",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3372665/economist-stephen-roach-warns-us-and-china-are-conflicted-co-dependency",
           "traducida": false
         },
         {
-          "id": "015240e75c02872f789c",
-          "fecha": "2026-10-28T16:39:08+00:00",
-          "titulo": "Russia says determined to continue working with Brazil to strengthen partnership",
+          "id": "210c00f8a2f74abaae21",
+          "fecha": "2026-10-30T08:31:14+00:00",
+          "titulo": "Trump’s days of running US-China relations on personal ties are numbered",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/opinion/world-opinion/article/3372343/trumps-days-running-us-china-relations-personal-ties-are-numbered",
+          "traducida": false
+        },
+        {
+          "id": "0a538af1587aa7e1cef4",
+          "fecha": "2026-10-30T07:00:12+00:00",
+          "titulo": "Australian PM to visit Beijing after China-hosted Apec summit as tensions simmer",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3372671/australian-pm-visit-beijing-after-china-hosted-apec-summit-tensions-simmer",
+          "traducida": false
+        },
+        {
+          "id": "cbee982671234688b523",
+          "fecha": "2026-10-30T04:27:35+00:00",
+          "titulo": "China’s optical suppliers extend sell-off as fears of slower AI growth trump upbeat earnings",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/tech/tech-trends/article/3372672/chinas-optical-suppliers-extend-sell-fears-slower-ai-growth-trump-upbeat-earnings",
+          "traducida": false
+        },
+        {
+          "id": "54a83c66db4cffb587d1",
+          "fecha": "2026-10-29T22:22:06+00:00",
+          "titulo": "Chinese scientists dissatisfied with jobs but optimistic about future, survey says",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3372643/chinese-scientists-dissatisfied-jobs-optimistic-about-future-survey-says",
+          "traducida": false
+        },
+        {
+          "id": "e9218b9e6c45bee64b8d",
+          "fecha": "2026-10-29T15:39:38+00:00",
+          "titulo": "US bans Chinese labs from testing electronics ahead of Trump-Xi meeting",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/us/article/3372632/us-bans-chinese-labs-testing-electronics-ahead-trump-xi-meeting",
+          "traducida": false
+        },
+        {
+          "id": "6fd0979c138154f50af4",
+          "fecha": "2026-10-29T08:02:01+00:00",
+          "titulo": "U.S. bans imports from Chinese genomics companies over forced labour concerns",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/us-bans-chinese-genomics-imports-from-companies-forced-labour-concerns-alleged-detention-of-uyghurs-muslims-minorities/article71639437.ece",
+          "traducida": false
+        },
+        {
+          "id": "486803bbd521972ed30f",
+          "fecha": "2026-10-29T01:00:12+00:00",
+          "titulo": "US should spy on Chinese firms to maintain edge in tech race: ex-CIA official",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/economy/china-economy/article/3372475/us-should-spy-chinese-firms-maintain-edge-tech-race-ex-cia-official",
+          "traducida": false
+        },
+        {
+          "id": "5f834fbed05ce39e8eee",
+          "fecha": "2026-10-28T18:27:02+00:00",
+          "titulo": "La UE y Canadá buscan una alianza histórica tras descartar la fórmula de “miembro asociado”",
+          "fuente": "El País",
+          "url": "https://elpais.com/internacional/2026-10-28/la-ue-y-canada-buscan-una-alianza-historica-tras-la-descartar-la-formula-de-miembro-asociado.html",
+          "traducida": false
+        },
+        {
+          "id": "0facc722104aa798a9d7",
+          "fecha": "2026-10-28T16:20:31+00:00",
+          "titulo": "No final agreement on meeting between Putin, Trump, Xi Jinping — Kremlin",
           "fuente": "TASS",
-          "url": "https://tass.com/politics/2209709",
+          "url": "https://tass.com/politics/2209691",
           "traducida": false
         },
         {
-          "id": "6bb2e9a9f6282e7d03a5",
-          "fecha": "2026-10-28T16:30:29+00:00",
-          "titulo": "What we know as Flávio Bolsonaro lands in US after Brazil election loss",
-          "fuente": "BBC News",
-          "url": "https://www.bbc.co.uk/news/videos/c6x29djyx7g9o?at_medium=RSS&at_campaign=rss",
+          "id": "f63691d5e47598038964",
+          "fecha": "2026-10-28T12:30:14+00:00",
+          "titulo": "Why Kim Jong-un’s border trip to China differs from past pre-summit playbooks",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3372396/why-kim-jong-uns-border-trip-china-differs-past-pre-summit-playbooks",
           "traducida": false
         },
         {
-          "id": "042f63fbdf06a976f909",
-          "fecha": "2026-10-28T15:10:00+00:00",
-          "titulo": "Flavio Bolsonaro lands in Miami after fleeing Brazil for US",
-          "fuente": "Deutsche Welle",
-          "url": "https://www.dw.com/en/flavio-bolsonaro-lands-in-miami-after-fleeing-brazil-for-us/a-79788659?maca=en-rss-en-world-4025-rdf",
+          "id": "5eca7de3a873e8dca409",
+          "fecha": "2026-10-28T09:42:20+00:00",
+          "titulo": "Grossi, Orban candidacies for UN secretary-general post good for Russia — Likhachev",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2209319",
           "traducida": false
         },
         {
-          "id": "9d8a76fe700f9f89255a",
-          "fecha": "2026-10-28T15:02:04+00:00",
-          "titulo": "Bolsonaro turns up in Florida after vanishing from public view",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/aje-onl-nf_bolsonaro-in-florida-after-vanishing-from-public-281026?traffic_source=rss",
+          "id": "378a0caf665843ecb0ff",
+          "fecha": "2026-10-28T08:18:53+00:00",
+          "titulo": "Hegseth proposes 'ambitious' U.S.-ASEAN defence framework at Philippine summit",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/hegseth-proposes-ambitious-us-asean-defence-framework-at-philippine-summit/article71634830.ece",
           "traducida": false
         },
         {
-          "id": "ec9d2f7fcdf2f9262faf",
-          "fecha": "2026-10-28T14:35:00+00:00",
-          "titulo": "Brasil lamenta acidente de trem na Espanha, em que mais de 60 morreram",
-          "fuente": "Agência Brasil (EBC)",
-          "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/brasil-lamenta-acidente-com-trem-na-espanha-em-que-mais-de-60-morreram",
+          "id": "01eeab038674e5f91c1d",
+          "fecha": "2026-10-27T16:18:20+00:00",
+          "titulo": "Rubio invokes China, Russia to defend disputed Venezuela oil deal",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3372347/rubio-invokes-china-russia-defend-disputed-venezuela-oil-deal",
+          "traducida": false
+        },
+        {
+          "id": "58bd15a49eb47e3979b2",
+          "fecha": "2026-10-27T15:00:14+00:00",
+          "titulo": "Lula’s win in Brazil deals blow to Trump’s Latin America push: former China envoy",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3372318/lulas-win-brazil-deals-blow-trumps-latin-america-push-former-china-envoy",
+          "traducida": false
+        },
+        {
+          "id": "d70bd7609a34146a322f",
+          "fecha": "2026-10-27T10:25:59+00:00",
+          "titulo": "US ends visa waiver for Chinese over birth tourism, people smuggling allegations",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3372309/us-ends-pacific-visa-waiver-over-birth-tourism-people-smuggling-allegations",
+          "traducida": false
+        },
+        {
+          "id": "e6d594ea2a28ff43dd71",
+          "fecha": "2026-10-27T04:42:50+00:00",
+          "titulo": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
+          "traducida": false
+        },
+        {
+          "id": "71cc5ed131ca52343cd1",
+          "fecha": "2026-10-26T19:45:41+00:00",
+          "titulo": "Tensions Rise",
+          "fuente": "War on the Rocks",
+          "url": "https://warontherocks.com/tensions-rise/",
+          "traducida": false
+        },
+        {
+          "id": "c234a4ad9c1328724838",
+          "fecha": "2026-10-26T14:36:47+00:00",
+          "titulo": "Win for Lula boosts China’s foothold and gives Brazil rare earths leverage",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3372207/win-lula-boosts-chinas-foothold-and-gives-brazil-rare-earths-leverage",
+          "traducida": false
+        },
+        {
+          "id": "87f26598c242a4e434f8",
+          "fecha": "2026-10-26T11:11:58+00:00",
+          "titulo": "Trump officials back Orbán bid for UN secretary-general, WSJ reports",
+          "fuente": "Euronews",
+          "url": "https://www.euronews.com/2026/10/26/trump-officials-back-orban-bid-for-un-secretary-general-wsj-reports",
+          "traducida": false
+        },
+        {
+          "id": "fa804b578b558026cb66",
+          "fecha": "2026-10-26T11:03:12+00:00",
+          "titulo": "Pentagon chief Hegseth to visit Philippines to meet US allies at Asean events",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3372182/pentagon-chief-hegseth-visit-philippines-meet-us-allies-asean-events",
+          "traducida": false
+        },
+        {
+          "id": "81c60c88e50af5c04b52",
+          "fecha": "2026-10-26T09:07:52+00:00",
+          "titulo": "Lula secures surprise win to retain Brazil presidency",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3372167/lula-secures-surprise-win-retain-brazil-presidency",
+          "traducida": false
+        },
+        {
+          "id": "655c80d2689095ec28a7",
+          "fecha": "2026-10-26T08:00:23+00:00",
+          "titulo": "Could new US investment curbs complicate China’s biotech licensing surge?",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/business/article/3372151/could-new-us-investment-curbs-complicate-chinas-biotech-licensing-surge",
+          "traducida": false
+        },
+        {
+          "id": "5eaedd630adeb6d6403a",
+          "fecha": "2026-10-26T04:45:07+00:00",
+          "titulo": "US visits to China decline, Turkish rare earth deposit: 5 weekend reads you missed",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/article/3372113/us-visits-china-decline-turkish-rare-earth-deposit-5-weekend-reads-you-missed",
+          "traducida": false
+        },
+        {
+          "id": "097ce32a83063d9a7579",
+          "fecha": "2026-10-25T13:43:19+00:00",
+          "titulo": "Volkswagen to build $4bn Audi SUV factory in US despite job cuts at home",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home",
+          "traducida": false
+        },
+        {
+          "id": "2c94ae730102ccdc05cf",
+          "fecha": "2026-10-25T12:49:35+00:00",
+          "titulo": "Bilateral meeting between Putin, Trump at APEC not arranged but possible — Kremlin aide",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2207523",
+          "traducida": false
+        },
+        {
+          "id": "fe003398e25460d084ce",
+          "fecha": "2026-10-25T08:30:06+00:00",
+          "titulo": "East Asia’s cultural economies are bridging politics-driven divides",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/opinion/asia-opinion/article/3371868/east-asias-cultural-economies-are-bridging-politics-driven-divides",
+          "traducida": false
+        },
+        {
+          "id": "d3fefb6394151b5eebf1",
+          "fecha": "2026-10-24T11:08:27+00:00",
+          "titulo": "North Korean leader Kim Jong-un visits Chinese border city of Dandong",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3372026/north-korean-leader-kim-jong-un-visits-chinese-border-city-dandong",
           "traducida": false
         }
       ]
@@ -1266,7 +1518,7 @@
       "id": "onu",
       "titulo": "Naciones Unidas y multilateralismo",
       "cantidad_archivada": 30,
-      "nuevas_24h": 4,
+      "nuevas_24h": 2,
       "anteriores_24h": 2,
       "dias_con_registros": 10,
       "fecha_ultima": "2026-10-29T15:40:29+00:00",
@@ -1510,258 +1762,6 @@
           "titulo": "As we remember the victims of El Fasher, the parties need to protect civilians, allow humanitarian assistance to reach those who need it, and choose diplomacy over continued war: UK statement at the UN Security Council",
           "fuente": "GOV.UK FCDO",
           "url": "https://www.gov.uk/government/speeches/as-we-remember-the-victims-of-el-fasher-the-parties-need-to-protect-civilians-allow-humanitarian-assistance-to-reach-those-who-need-it-and-choose-dipl",
-          "traducida": false
-        }
-      ]
-    },
-    {
-      "id": "eeuu-china",
-      "titulo": "Competencia estratégica Estados Unidos–China",
-      "cantidad_archivada": 47,
-      "nuevas_24h": 3,
-      "anteriores_24h": 5,
-      "dias_con_registros": 12,
-      "fecha_ultima": "2026-10-29T15:39:38+00:00",
-      "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
-      "publicaciones": [
-        {
-          "id": "e9218b9e6c45bee64b8d",
-          "fecha": "2026-10-29T15:39:38+00:00",
-          "titulo": "US bans Chinese labs from testing electronics ahead of Trump-Xi meeting",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/us/article/3372632/us-bans-chinese-labs-testing-electronics-ahead-trump-xi-meeting",
-          "traducida": false
-        },
-        {
-          "id": "6fd0979c138154f50af4",
-          "fecha": "2026-10-29T08:02:01+00:00",
-          "titulo": "U.S. bans imports from Chinese genomics companies over forced labour concerns",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/us-bans-chinese-genomics-imports-from-companies-forced-labour-concerns-alleged-detention-of-uyghurs-muslims-minorities/article71639437.ece",
-          "traducida": false
-        },
-        {
-          "id": "486803bbd521972ed30f",
-          "fecha": "2026-10-29T01:00:12+00:00",
-          "titulo": "US should spy on Chinese firms to maintain edge in tech race: ex-CIA official",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/economy/china-economy/article/3372475/us-should-spy-chinese-firms-maintain-edge-tech-race-ex-cia-official",
-          "traducida": false
-        },
-        {
-          "id": "5f834fbed05ce39e8eee",
-          "fecha": "2026-10-28T18:27:02+00:00",
-          "titulo": "La UE y Canadá buscan una alianza histórica tras descartar la fórmula de “miembro asociado”",
-          "fuente": "El País",
-          "url": "https://elpais.com/internacional/2026-10-28/la-ue-y-canada-buscan-una-alianza-historica-tras-la-descartar-la-formula-de-miembro-asociado.html",
-          "traducida": false
-        },
-        {
-          "id": "0facc722104aa798a9d7",
-          "fecha": "2026-10-28T16:20:31+00:00",
-          "titulo": "No final agreement on meeting between Putin, Trump, Xi Jinping — Kremlin",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2209691",
-          "traducida": false
-        },
-        {
-          "id": "f63691d5e47598038964",
-          "fecha": "2026-10-28T12:30:14+00:00",
-          "titulo": "Why Kim Jong-un’s border trip to China differs from past pre-summit playbooks",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3372396/why-kim-jong-uns-border-trip-china-differs-past-pre-summit-playbooks",
-          "traducida": false
-        },
-        {
-          "id": "5eca7de3a873e8dca409",
-          "fecha": "2026-10-28T09:42:20+00:00",
-          "titulo": "Grossi, Orban candidacies for UN secretary-general post good for Russia — Likhachev",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2209319",
-          "traducida": false
-        },
-        {
-          "id": "378a0caf665843ecb0ff",
-          "fecha": "2026-10-28T08:18:53+00:00",
-          "titulo": "Hegseth proposes 'ambitious' U.S.-ASEAN defence framework at Philippine summit",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/hegseth-proposes-ambitious-us-asean-defence-framework-at-philippine-summit/article71634830.ece",
-          "traducida": false
-        },
-        {
-          "id": "01eeab038674e5f91c1d",
-          "fecha": "2026-10-27T16:18:20+00:00",
-          "titulo": "Rubio invokes China, Russia to defend disputed Venezuela oil deal",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3372347/rubio-invokes-china-russia-defend-disputed-venezuela-oil-deal",
-          "traducida": false
-        },
-        {
-          "id": "58bd15a49eb47e3979b2",
-          "fecha": "2026-10-27T15:00:14+00:00",
-          "titulo": "Lula’s win in Brazil deals blow to Trump’s Latin America push: former China envoy",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3372318/lulas-win-brazil-deals-blow-trumps-latin-america-push-former-china-envoy",
-          "traducida": false
-        },
-        {
-          "id": "d70bd7609a34146a322f",
-          "fecha": "2026-10-27T10:25:59+00:00",
-          "titulo": "US ends visa waiver for Chinese over birth tourism, people smuggling allegations",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3372309/us-ends-pacific-visa-waiver-over-birth-tourism-people-smuggling-allegations",
-          "traducida": false
-        },
-        {
-          "id": "e6d594ea2a28ff43dd71",
-          "fecha": "2026-10-27T04:42:50+00:00",
-          "titulo": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
-          "traducida": false
-        },
-        {
-          "id": "71cc5ed131ca52343cd1",
-          "fecha": "2026-10-26T19:45:41+00:00",
-          "titulo": "Tensions Rise",
-          "fuente": "War on the Rocks",
-          "url": "https://warontherocks.com/tensions-rise/",
-          "traducida": false
-        },
-        {
-          "id": "c234a4ad9c1328724838",
-          "fecha": "2026-10-26T14:36:47+00:00",
-          "titulo": "Win for Lula boosts China’s foothold and gives Brazil rare earths leverage",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3372207/win-lula-boosts-chinas-foothold-and-gives-brazil-rare-earths-leverage",
-          "traducida": false
-        },
-        {
-          "id": "87f26598c242a4e434f8",
-          "fecha": "2026-10-26T11:11:58+00:00",
-          "titulo": "Trump officials back Orbán bid for UN secretary-general, WSJ reports",
-          "fuente": "Euronews",
-          "url": "https://www.euronews.com/2026/10/26/trump-officials-back-orban-bid-for-un-secretary-general-wsj-reports",
-          "traducida": false
-        },
-        {
-          "id": "fa804b578b558026cb66",
-          "fecha": "2026-10-26T11:03:12+00:00",
-          "titulo": "Pentagon chief Hegseth to visit Philippines to meet US allies at Asean events",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3372182/pentagon-chief-hegseth-visit-philippines-meet-us-allies-asean-events",
-          "traducida": false
-        },
-        {
-          "id": "81c60c88e50af5c04b52",
-          "fecha": "2026-10-26T09:07:52+00:00",
-          "titulo": "Lula secures surprise win to retain Brazil presidency",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3372167/lula-secures-surprise-win-retain-brazil-presidency",
-          "traducida": false
-        },
-        {
-          "id": "655c80d2689095ec28a7",
-          "fecha": "2026-10-26T08:00:23+00:00",
-          "titulo": "Could new US investment curbs complicate China’s biotech licensing surge?",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/business/article/3372151/could-new-us-investment-curbs-complicate-chinas-biotech-licensing-surge",
-          "traducida": false
-        },
-        {
-          "id": "5eaedd630adeb6d6403a",
-          "fecha": "2026-10-26T04:45:07+00:00",
-          "titulo": "US visits to China decline, Turkish rare earth deposit: 5 weekend reads you missed",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/world/article/3372113/us-visits-china-decline-turkish-rare-earth-deposit-5-weekend-reads-you-missed",
-          "traducida": false
-        },
-        {
-          "id": "097ce32a83063d9a7579",
-          "fecha": "2026-10-25T13:43:19+00:00",
-          "titulo": "Volkswagen to build $4bn Audi SUV factory in US despite job cuts at home",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home",
-          "traducida": false
-        },
-        {
-          "id": "2c94ae730102ccdc05cf",
-          "fecha": "2026-10-25T12:49:35+00:00",
-          "titulo": "Bilateral meeting between Putin, Trump at APEC not arranged but possible — Kremlin aide",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2207523",
-          "traducida": false
-        },
-        {
-          "id": "fe003398e25460d084ce",
-          "fecha": "2026-10-25T08:30:06+00:00",
-          "titulo": "East Asia’s cultural economies are bridging politics-driven divides",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/opinion/asia-opinion/article/3371868/east-asias-cultural-economies-are-bridging-politics-driven-divides",
-          "traducida": false
-        },
-        {
-          "id": "d3fefb6394151b5eebf1",
-          "fecha": "2026-10-24T11:08:27+00:00",
-          "titulo": "North Korean leader Kim Jong-un visits Chinese border city of Dandong",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3372026/north-korean-leader-kim-jong-un-visits-chinese-border-city-dandong",
-          "traducida": false
-        },
-        {
-          "id": "1dd5989885c624ca76bb",
-          "fecha": "2026-10-24T10:03:53+00:00",
-          "titulo": "Is Washington misreading Beijing? Decline in US visits to China sparks concern",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3371535/washington-misreading-beijing-decline-us-visits-china-sparks-concern",
-          "traducida": false
-        },
-        {
-          "id": "74fec8a470ad92b0734e",
-          "fecha": "2026-10-24T09:20:03+00:00",
-          "titulo": "‘Systematically dismantled’: Hegseth’s new offensive against China’s Confucius Institutes",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3372023/systematically-dismantled-hegseths-new-offensive-against-chinas-confucius-institutes",
-          "traducida": false
-        },
-        {
-          "id": "9b6adc05960a3f8eaefe",
-          "fecha": "2026-10-23T22:27:23+00:00",
-          "titulo": "US, allies and China vie for influence through Pacific security deals",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/us/article/3371989/us-allies-and-china-vie-influence-through-pacific-security-deals",
-          "traducida": false
-        },
-        {
-          "id": "753944d645f4b7bde6b4",
-          "fecha": "2026-10-23T20:51:17+00:00",
-          "titulo": "Zelensky hopes Beijing can use ‘influence’ over Moscow to help stop Ukraine war",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3371987/zelensky-hopes-beijing-can-use-influence-over-moscow-help-stop-ukraine-war",
-          "traducida": false
-        },
-        {
-          "id": "ec6515a40bf41f7cffeb",
-          "fecha": "2026-10-22T15:00:05+00:00",
-          "titulo": "Quad confirmed, Manila envoy signals likely ‘Squad’ talks before Trump-Xi summit",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/us/diplomacy/article/3371804/quad-confirmed-manila-envoy-signals-likely-squad-talks-trump-xi-summit",
-          "traducida": false
-        },
-        {
-          "id": "17361f123b0ba9738323",
-          "fecha": "2026-10-22T13:30:09+00:00",
-          "titulo": "EU’s idea that China is caving to pressure is ‘serious misjudgment’: ex-diplomat",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/economy/china-economy/article/3371803/eus-idea-china-caving-pressure-serious-misjudgment-ex-diplomat",
-          "traducida": false
-        },
-        {
-          "id": "a59ead78000729a1cdb2",
-          "fecha": "2026-10-22T12:00:10+00:00",
-          "titulo": "US-China ties need more working-level dialogues, not just summits: business chamber",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/economy/article/3371746/us-china-ties-need-more-working-level-dialogues-not-just-summits-business-chamber",
           "traducida": false
         }
       ]
