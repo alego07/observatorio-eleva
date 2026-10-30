@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-10-30T17:02:14.380971+00:00",
+  "created_utc": "2026-10-30T17:17:00.218242+00:00",
   "events": [
     {
       "id": "a-4ef01b60e099c32ad73b",
@@ -96,6 +96,66 @@
         "Actores relevantes: China, Estados Unidos",
         "Ámbito: Comercio y finanzas, Diplomacia",
         "Posible decisión institucional o negociación"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-2aaf7c6ab43e1563b067",
+      "fecha": "2026-10-30",
+      "titulo_fuente": "China denies spying on Nvidia's Jensen Huang",
+      "region": "China",
+      "temas": [
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "2aaf7c6ab43e1563b067",
+          "titulo_original": "China denies spying on Nvidia's Jensen Huang",
+          "titulo_es": "China niega espiar al Jensen Huang de Nvidia",
+          "url": "https://www.thehindu.com/news/international/china-denies-spying-on-nvidias-jensen-huang/article71646557.ece",
+          "fuente": "The Hindu",
+          "pais": "India",
+          "fecha": "2026-10-30T17:00:37+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "China is in a race for tech dominance with the United States, which restricts the export to China of the most cutting-edge silicon chips, designed by industry leader Nvidia and used to train and run AI models",
+          "resumen_es": "China está en una carrera por el dominio tecnológico con los Estados Unidos, que restringe la exportación a China de los chips de silicio más avanzados, diseñados por el líder de la industria Nvidia y utilizados para entrenar y ejecutar modelos AI"
+        },
+        {
+          "id": "c2e10c1c3ab2cc863609",
+          "titulo_original": "China rejects report of spy plot targeting Nvidia's Jensen Huang",
+          "titulo_es": "China rechaza el informe de la conspiración espía dirigida al Jensen Huang de Nvidia",
+          "url": "https://www.euronews.com/2026/10/30/china-rejects-report-of-spy-plot-targeting-nvidias-jensen-huang",
+          "fuente": "Euronews",
+          "pais": "Unión Europea",
+          "fecha": "2026-10-30T12:14:31+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "\"Our regional cloud customers receive ordinary business information - not sensitive NVIDIA trade secrets - and zero information relevant to national security,\" a spokesperson for Nvidia told the AFP news agency on Friday.",
+          "resumen_es": "\"Nuestros clientes de la nube regional reciben información comercial ordinaria - secretos comerciales no sensibles de NVIDIA - y información cero relevante para la seguridad nacional\", dijo el viernes un portavoz de Nvidia a la agencia de noticias de la AFP."
+        }
+      ],
+      "fuentes": [
+        "Euronews",
+        "The Hindu"
+      ],
+      "actores_mencionados": [
+        "China",
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 2,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia compleja y economía política internacional",
+        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 7,
+      "motivos_seleccion": [
+        "Cobertura de fuentes distintas",
+        "Actores relevantes: China, Estados Unidos",
+        "Ámbito: Comercio y finanzas"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -235,52 +295,6 @@
         "Actores relevantes: ONU",
         "Ámbito: Organismos multilaterales, Seguridad y conflictos",
         "Posible decisión institucional o negociación"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-adb3ffc9d9e6d7ee1bd0",
-      "fecha": "2026-10-30",
-      "titulo_fuente": "Russian independent newspaper Novaya Gazeta says it will shut down following pressure from Kremlin",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "adb3ffc9d9e6d7ee1bd0",
-          "titulo_original": "Russian independent newspaper Novaya Gazeta says it will shut down following pressure from Kremlin",
-          "titulo_es": "",
-          "url": "https://www.euronews.com/2026/10/30/russian-independent-newspaper-novaya-gazeta-says-it-will-shut-down-following-pressure-from",
-          "fuente": "Euronews",
-          "pais": "Unión Europea",
-          "fecha": "2026-10-30T15:08:00+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The paper is one of the few Russian outlets that has been openly critical of Russia's war in Ukraine, but it has come under increasing pressure from Moscow.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Euronews"
-      ],
-      "actores_mencionados": [
-        "Rusia",
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia, Ucrania",
-        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -1602,6 +1616,65 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-a8b963a27a9b75282644",
+      "fecha": "2026-10-30",
+      "titulo_fuente": "Independent Russian newspaper Novaya Gazeta shuts under Kremlin pressure",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "a8b963a27a9b75282644",
+          "titulo_original": "Independent Russian newspaper Novaya Gazeta shuts under Kremlin pressure",
+          "titulo_es": "Periódico ruso independiente Novaya Gazeta cierra bajo presión Kremlin",
+          "url": "https://www.thehindu.com/news/international/independent-russian-newspaper-novaya-gazeta-shuts-under-kremlin-pressure/article71646590.ece",
+          "fuente": "The Hindu",
+          "pais": "India",
+          "fecha": "2026-10-30T17:03:17+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The closure of Novaya Gazeta — one of the last outlets to openly criticise Russia's offensive — marks a new low in Moscow's campaign against dissenting voices that gained speed after the Kremlin sent troops into its neighbour in 2022",
+          "resumen_es": "El cierre de Novaya Gazeta —uno de los últimos medios para criticar abiertamente la ofensiva de Rusia— marca un nuevo bajo en la campaña de Moscú contra las voces disidentes que se aceleraron después de que el Kremlin enviara tropas a su vecino en 2022"
+        },
+        {
+          "id": "adb3ffc9d9e6d7ee1bd0",
+          "titulo_original": "Russian independent newspaper Novaya Gazeta says it will shut down following pressure from Kremlin",
+          "titulo_es": "",
+          "url": "https://www.euronews.com/2026/10/30/russian-independent-newspaper-novaya-gazeta-says-it-will-shut-down-following-pressure-from",
+          "fuente": "Euronews",
+          "pais": "Unión Europea",
+          "fecha": "2026-10-30T15:08:00+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The paper is one of the few Russian outlets that has been openly critical of Russia's war in Ukraine, but it has come under increasing pressure from Moscow.",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "Euronews",
+        "The Hindu"
+      ],
+      "actores_mencionados": [
+        "Rusia",
+        "Ucrania"
+      ],
+      "fuentes_independientes": 2,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 5,
+      "motivos_seleccion": [
+        "Cobertura de fuentes distintas",
+        "Actores relevantes: Rusia, Ucrania"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-4cb0aca3bd91ccfcfbbb",
       "fecha": "2026-10-30",
       "titulo_fuente": "Pope Leo XIV becomes first pontiff to vote in a US election",
@@ -1661,60 +1734,91 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-c2e10c1c3ab2cc863609",
+      "id": "a-d1d0d2845dee55a7e1cb",
       "fecha": "2026-10-30",
-      "titulo_fuente": "China rejects report of spy plot targeting Nvidia's Jensen Huang",
-      "region": "China",
+      "titulo_fuente": "Alyoshki residents leaving for both Russia, Ukraine — ombudswoman",
+      "region": "Rusia-Ucrania",
       "temas": [
-        "Comercio y finanzas"
+        "Actualidad"
       ],
       "noticias": [
         {
-          "id": "c2e10c1c3ab2cc863609",
-          "titulo_original": "China rejects report of spy plot targeting Nvidia's Jensen Huang",
-          "titulo_es": "China rechaza el informe de la conspiración espía dirigida al Jensen Huang de Nvidia",
-          "url": "https://www.euronews.com/2026/10/30/china-rejects-report-of-spy-plot-targeting-nvidias-jensen-huang",
-          "fuente": "Euronews",
-          "pais": "Unión Europea",
-          "fecha": "2026-10-30T12:14:31+00:00",
+          "id": "d1d0d2845dee55a7e1cb",
+          "titulo_original": "Alyoshki residents leaving for both Russia, Ukraine — ombudswoman",
+          "titulo_es": "Residentes de Alyoshki saliendo para Rusia, Ucrania — Ombudsman",
+          "url": "https://tass.com/society/2211123",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-10-30T17:10:13+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "\"Our regional cloud customers receive ordinary business information - not sensitive NVIDIA trade secrets - and zero information relevant to national security,\" a spokesperson for Nvidia told the AFP news agency on Friday.",
-          "resumen_es": "\"Nuestros clientes de la nube regional reciben información comercial ordinaria - secretos comerciales no sensibles de NVIDIA - y información cero relevante para la seguridad nacional\", dijo el viernes un portavoz de Nvidia a la agencia de noticias de la AFP."
-        },
-        {
-          "id": "c8aca8d42c624c4503ef",
-          "titulo_original": "China dismisses US report of suspected spy targeting Nvidia CEO Jensen Huang as ‘groundless’",
-          "titulo_es": "",
-          "url": "https://www.scmp.com/tech/tech-war/article/3372743/china-dismisses-us-report-suspected-spy-targeting-nvidia-ceo-jensen-huang-groundless",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-10-30T10:30:07+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "China on Friday hit out at reported US intelligence allegations that a suspected Chinese spy had targeted Nvidia chief executive Jensen Huang, dismissing the claims as “groundless speculation” aimed at smearing Beijing. “The relevant report is based on groundless speculation and [is] purely aimed at smearing and slandering China,” Chinese foreign ministry spokesman Guo Jiakun told a regular media briefing in Beijing. The pushback came after US ou",
-          "resumen_es": ""
+          "resumen_original": "\"The offices of both ombudspersons are monitoring the situation, so, everything is proceeding routinely,\" Yana Lantratova said",
+          "resumen_es": "\"Las oficinas de ambos ombudspersons están monitoreando la situación, así que todo está pasando rutinariamente\", dijo Yana Lantratova"
         }
       ],
       "fuentes": [
-        "Euronews",
-        "South China Morning Post"
+        "TASS"
       ],
       "actores_mencionados": [
-        "China"
+        "Rusia",
+        "Ucrania"
       ],
-      "fuentes_independientes": 2,
+      "fuentes_independientes": 1,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
-        "nombre": "Interdependencia compleja y economía política internacional",
-        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
       },
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 5,
+      "prioridad_orientativa": 4,
       "motivos_seleccion": [
-        "Cobertura de fuentes distintas",
-        "Actores relevantes: China",
-        "Ámbito: Comercio y finanzas"
+        "Actores relevantes: Rusia, Ucrania"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-3bf6ac812fc98c7aba7b",
+      "fecha": "2026-10-30",
+      "titulo_fuente": "EU diplomats object to G20 photo with Lavrov, prompting US cancellation",
+      "region": "Estados Unidos",
+      "temas": [
+        "Diplomacia"
+      ],
+      "noticias": [
+        {
+          "id": "3bf6ac812fc98c7aba7b",
+          "titulo_original": "EU diplomats object to G20 photo with Lavrov, prompting US cancellation",
+          "titulo_es": "Los diplomáticos de la UE se oponen a la foto G20 con Lavrov, provocando la cancelación de EE.UU.",
+          "url": "https://www.euronews.com/2026/10/30/eu-diplomats-object-to-g20-photo-with-lavrov-prompting-us-cancellation",
+          "fuente": "Euronews",
+          "pais": "Unión Europea",
+          "fecha": "2026-10-30T17:03:13+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The meeting in Atlanta will go ahead as planned, ahead of a G20 leaders’ summit hosted by President Donald Trump at his Miami golf club in December.",
+          "resumen_es": "La reunión en Atlanta continuará según lo previsto, antes de una cumbre de líderes del G20 organizada por el presidente Donald Trump en su club de golf de Miami en diciembre."
+        }
+      ],
+      "fuentes": [
+        "Euronews"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos",
+        "Ámbito: Diplomacia"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -1940,6 +2044,51 @@
       "motivos_seleccion": [
         "Ámbito: Seguridad y conflictos",
         "Posible decisión institucional o negociación"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-f1321b32f74547ade13c",
+      "fecha": "2026-10-30",
+      "titulo_fuente": "Inflation, jobs, and healthcare: What are Americans voting on in 2026? - The Indian Express",
+      "region": "Asia-Pacífico",
+      "temas": [
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "f1321b32f74547ade13c",
+          "titulo_original": "Inflation, jobs, and healthcare: What are Americans voting on in 2026? - The Indian Express",
+          "titulo_es": "Inflación, empleos y salud: ¿Qué están votando los americanos en 2026? - El Expreso Indio",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR3BEcTI3YTdTM3dRZWxudzdUT3V6ZnM2RndfWjZrWU12TDNXT08ycURkRF9oQTdWaVhMLTkzV3pFdXpzTWZaYXNEbXpYdHZnQnUwYlU3ME1sZEsyR0pVa2hTZDVVUUtKR282XzF0X2dQdzBUMDRiSjd4SDdiR0x5YWk1aFpLWGtrd2VnZzVxTWxBWVVmU2hxQVU4cHF4UHRJQ19kX0ZWUlBHVm5iNVlxV1hYa2TSAbsBQVVfeXFMTnUtc0FkOXJ4dVRUSk9zMEk3NmI0VThWLXA3bUo4bHFtTU5PLWtMLWtveExSazcxQU5uZjgxS2FmbW5wdEhaZXIteUEtbGhjYW5qMXY1Rlp4bG5TcjFhVUVzMFYxdHdlOHFKNzd6OThoeU84WlREOVZGUVlzdnE4bm1Yd0lzeUI4Y0U4MHVMNXlzelRjeTlNWjNsUG1SSlBjU1Bwc3lrVXVNcll4NVRmczVQbzhMNGFpQkJybw?oc=5",
+          "fuente": "The Indian Express",
+          "pais": "India",
+          "fecha": "2026-10-30T16:02:55+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Inflation, jobs, and healthcare: What are Americans voting on in 2026? The Indian Express",
+          "resumen_es": "Inflación, empleos y salud: ¿Qué están votando los americanos en 2026? The Indian Express"
+        }
+      ],
+      "fuentes": [
+        "The Indian Express"
+      ],
+      "actores_mencionados": [
+        "India"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia compleja y economía política internacional",
+        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: India",
+        "Ámbito: Comercio y finanzas"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -5111,6 +5260,51 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-5237040a35b54adf4d98",
+      "fecha": "2026-10-30",
+      "titulo_fuente": "Video shows toxic foam in Yamuna a day after Manoj Tiwari’s ‘river cleaned’ claim - The Indian Express",
+      "region": "Asia-Pacífico",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "5237040a35b54adf4d98",
+          "titulo_original": "Video shows toxic foam in Yamuna a day after Manoj Tiwari’s ‘river cleaned’ claim - The Indian Express",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZU85Z09ZN3BENlpyREdTcVFGTjBZdVkteUR2R0dLak1kX3hxVjhDczdMV09DQ3dRaFUtZlVBMHNVdkNheUw0WDlsaWh5OENQU1gwLU94RzBHeThrMTFHV1JLeVplUElrb2ZQMDE3cXAzZEo5S1JpR2lvT3E5ZWszdlpQZXlWbTNiVnVQLUF2cTV1TV9LdTFjODg5RG5XVlhMdUJIaVlOampaakNFcF9pRURGb0dQeVJXQTgw0gHCAUFVX3lxTE1NZTRJS1RVUnBtR0xWVlNha2NvWUlNYTl0LVdFTUZPbU5tR3cyRjNVUGxzX2pSNW9QbzF4alc0ajdTVko4UFlSZEQtNVF5WVRYeHJpb0lUZTViX1VOSVF1Z3lTa0dOWUc3OFZfVS1KMjZpcnljWmxidkxtQTRaV0hQR0ozNHp0eEluNkswSWstTG1BUHMyNEgyaUU3YkZvc2FtMGFJU2Z6R2RZX3RJQ25CMHExLWg5WjNocHFPajlnZktR?oc=5",
+          "fuente": "The Indian Express",
+          "pais": "India",
+          "fecha": "2026-10-30T07:54:13+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Video shows toxic foam in Yamuna a day after Manoj Tiwari’s ‘river cleaned’ claim The Indian Express",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "The Indian Express"
+      ],
+      "actores_mencionados": [
+        "India"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: India",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-b9682b9bf4a037b28e2a",
       "fecha": "2026-10-30",
       "titulo_fuente": "Hyrox athlete Joanna Wietrzyk who soiled herself in race says backlash was ‘traumatic’ ahead of comeback - The Indian Express",
@@ -5426,33 +5620,32 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-cbee982671234688b523",
+      "id": "a-4188736f656d66b8d862",
       "fecha": "2026-10-30",
-      "titulo_fuente": "China’s optical suppliers extend sell-off as fears of slower AI growth trump upbeat earnings",
-      "region": "China",
+      "titulo_fuente": "European Commission takes in €8 bln from frozen Russian assets since 2024 — Euroclear",
+      "region": "Rusia-Ucrania",
       "temas": [
         "Actualidad"
       ],
       "noticias": [
         {
-          "id": "cbee982671234688b523",
-          "titulo_original": "China’s optical suppliers extend sell-off as fears of slower AI growth trump upbeat earnings",
+          "id": "4188736f656d66b8d862",
+          "titulo_original": "European Commission takes in €8 bln from frozen Russian assets since 2024 — Euroclear",
           "titulo_es": "",
-          "url": "https://www.scmp.com/tech/tech-trends/article/3372672/chinas-optical-suppliers-extend-sell-fears-slower-ai-growth-trump-upbeat-earnings",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-10-30T04:27:35+00:00",
+          "url": "https://tass.com/economy/2211115",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-10-30T17:01:01+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Shares of major Chinese optical communications suppliers slumped on Friday before clawing back some of their losses, extending a two-day sell-off despite upbeat third-quarter earnings driven by the global artificial intelligence infrastructure boom. Chengdu-based Eoptolink Technology closed 14.2 per cent lower at 196.00 yuan in Shenzhen on Friday, while Suzhou TFC Communication slid 8.4 per cent to 148.00 yuan and industry leader Zhongji Innoligh",
+          "resumen_original": "The latest tranche of €1.4 billion was transferred to the EC in August",
           "resumen_es": ""
         }
       ],
       "fuentes": [
-        "South China Morning Post"
+        "TASS"
       ],
       "actores_mencionados": [
-        "Estados Unidos",
-        "China"
+        "Rusia"
       ],
       "fuentes_independientes": 1,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
@@ -5463,99 +5656,9 @@
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
+      "prioridad_orientativa": 2,
       "motivos_seleccion": [
-        "Actores relevantes: China, Estados Unidos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-9fc1f314d7c2a4aa5043",
-      "fecha": "2026-10-30",
-      "titulo_fuente": "Nitesh Tiwari’s wife Ashwiny shares note after Ramayana’s Los Angeles premiere: ‘It’s karma’ - The Indian Express",
-      "region": "Asia-Pacífico",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "9fc1f314d7c2a4aa5043",
-          "titulo_original": "Nitesh Tiwari’s wife Ashwiny shares note after Ramayana’s Los Angeles premiere: ‘It’s karma’ - The Indian Express",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQjVGVWNqLVd0ZTVJdmVXc09ZQkdQM1BkckhQRFJKYkR5dkl5ZEVTbnVhM1o3S05tRU54SGVGaFloVHp4SjczeFZHOWx1Wmd6dXBVOV9rTzFnUGs2Wnd1TXM2bTBxQmgxRWk1RE5rb3YweDFKZGVma3h0czhDd2wwaDZybG80SHozUHZYQmxvZWswQl9TaENmMGlnTTlpRDl2cTMwQ3VZdHpVT2tVM2RoZGxFTWJWeUlCU0FWS0V6RU5YZHpGUmY2QkdLUHM0SVRuRE11ZW9TYkE1VU04MzI5WTRKczA5S01E0gHvAUFVX3lxTE41SDlfN3JWWkJ5XzJHTkttWGg2TUFvaFRxUi1sQ2xCSjBNVHZ0aC1hdDUzYkJidVpZdkRkMFdvNFhUSlZhRzFyU1ZIRkF6NjRmS2hRaUJEeEVUQVJJcFFzVDhKdThuYXkwY3QxYndLOVMyNE04WGdFXzVQVnZrLWI2SlZaS3IwWmRfZl9sSG1xcmY2X2NSTVBGanMySWtYZTlIMGNRbjlmUWhGVVNFZHBSbVZaQmJCY0pDeDktMl85LS13eFNRUWkybll3Yl9MaC1FNC15b2poQ09saUVpYkh4M1U0Tkd1X3RRMU9kQjcw?oc=5",
-          "fuente": "The Indian Express",
-          "pais": "India",
-          "fecha": "2026-10-30T04:27:00+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Nitesh Tiwari’s wife Ashwiny shares note after Ramayana’s Los Angeles premiere: ‘It’s karma’ The Indian Express",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Indian Express"
-      ],
-      "actores_mencionados": [
-        "India"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: India",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-bde66f3e38ffd96f2da9",
-      "fecha": "2026-10-30",
-      "titulo_fuente": "Lula’s win aids China ties; Hong Kong official quits over Tai Po fire: SCMP’s 7 highlights",
-      "region": "China",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "bde66f3e38ffd96f2da9",
-          "titulo_original": "Lula’s win aids China ties; Hong Kong official quits over Tai Po fire: SCMP’s 7 highlights",
-          "titulo_es": "",
-          "url": "https://www.scmp.com/news/china/article/3372658/lulas-win-aids-china-ties-hong-kong-official-quits-over-tai-po-fire-scmps-7-highlights",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-10-30T04:15:06+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "We have selected seven stories from this week’s news across Hong Kong, mainland China, the wider Asia region and beyond that resonated with our readers and shed light on topical issues. If you would like to see more of our reporting, please consider subscribing. 1. Win for Lula boosts China’s foothold and gives Brazil rare earths leverage Brazilian President Luiz Inacio Lula da Silva’s re-election preserves Beijing’s most critical foothold in Lat",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "South China Morning Post"
-      ],
-      "actores_mencionados": [
-        "China",
-        "Brasil"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Brasil, China"
+        "Actores relevantes: Rusia"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -5600,6 +5703,48 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Actores relevantes: Rusia"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-02ecd35b7079ec56efee",
+      "fecha": "2026-10-30",
+      "titulo_fuente": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "region": "Internacional",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "02ecd35b7079ec56efee",
+          "titulo_original": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+          "titulo_es": "Crypto gigante Binance intentando recuperar $6.3bn robado en hack vinculado a Corea del Norte",
+          "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News",
+          "pais": "Reino Unido",
+          "fecha": "2026-10-30T16:48:12+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+          "resumen_es": "El ciberataque, que la empresa describe como complejo, se cree que es el más grande de su tipo."
+        }
+      ],
+      "fuentes": [
+        "BBC News"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6671,134 +6816,6 @@
       ],
       "fuentes": [
         "Agência Brasil (EBC)"
-      ],
-      "actores_mencionados": [
-        "Israel"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Israel"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-19e24e7615e6b3244888",
-      "fecha": "2026-10-30",
-      "titulo_fuente": "IRGC says supertanker with over 2 mln barrels of oil struck mine in Strait of Hormuz",
-      "region": "Internacional",
-      "temas": [
-        "Energía y clima"
-      ],
-      "noticias": [
-        {
-          "id": "19e24e7615e6b3244888",
-          "titulo_original": "IRGC says supertanker with over 2 mln barrels of oil struck mine in Strait of Hormuz",
-          "titulo_es": "",
-          "url": "https://tass.com/world/2211041",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-30T15:11:26+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Two more such incidents in the southern part of the Strait of Hormuz were reported by the IRGC earlier",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia y gobernanza global",
-        "pregunta": "¿Cómo se distribuyen los costos de coordinación y los incentivos para cooperar?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Energía y clima"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-363571a466caa1af27c0",
-      "fecha": "2026-10-30",
-      "titulo_fuente": "Perfume bottle and child’s necklace among treasures found in Pompeii wardrobe",
-      "region": "Internacional",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "363571a466caa1af27c0",
-          "titulo_original": "Perfume bottle and child’s necklace among treasures found in Pompeii wardrobe",
-          "titulo_es": "",
-          "url": "https://www.theguardian.com/science/2026/oct/30/perfume-bottle-child-necklace-pompeii-wardrobe",
-          "fuente": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-10-30T15:06:39+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Archaeologists uncover jewellery, cosmetics and coins in cabinet sealed since eruption of Mount Vesuvius in AD79 Fragments of personal objects, from makeup tools and a perfume bottle to coins and a child’s necklace, have been found tucked away in a wooden wardrobe sealed off for almost 2,000 years in the ruins of Pompeii. The artifacts provide an intimate glimpse of daily life in the ancient Roman city before it was devastated by the eruption of ",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Guardian"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-e19cf41dd441d2ffe10a",
-      "fecha": "2026-10-30",
-      "titulo_fuente": "Israeli forces blow up homes of Palestinians accused of killing soldiers",
-      "region": "Oriente Medio",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "e19cf41dd441d2ffe10a",
-          "titulo_original": "Israeli forces blow up homes of Palestinians accused of killing soldiers",
-          "titulo_es": "",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/israeli-forces-blow-up-homes-of-palestinians-accused-of-killing-soldiers?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-10-30T15:06:00+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Israeli forces demolished the homes of two Palestinians accused of killing two Israeli soldiers in Hebron last week.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera"
       ],
       "actores_mencionados": [
         "Israel"
