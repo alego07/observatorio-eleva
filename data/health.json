@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-31T16:20:44.838720+00:00",
+  "updated_utc": "2026-10-31T17:20:27.101024+00:00",
   "results": [
     {
       "source_id": "f16",
@@ -71,7 +71,7 @@
       "source_id": "f47",
       "source_name": "The Indian Express",
       "status": "ok",
-      "count_recent": 48
+      "count_recent": 49
     },
     {
       "source_id": "f64",
@@ -82,8 +82,8 @@
     {
       "source_id": "f66",
       "source_name": "Noticias del Consejo de la UE",
-      "status": "ok",
-      "count_recent": 11
+      "status": "error",
+      "message": "The read operation timed out"
     },
     {
       "source_id": "f67",
@@ -113,7 +113,7 @@
       "source_id": "f77",
       "source_name": "The Diplomat",
       "status": "ok",
-      "count_recent": 35
+      "count_recent": 34
     },
     {
       "source_id": "f78",
