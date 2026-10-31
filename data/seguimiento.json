@@ -1,17 +1,25 @@
 {
-  "actualizado_utc": "2026-10-31T16:07:38.514678+00:00",
+  "actualizado_utc": "2026-10-31T16:22:15.351740+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 1301,
-      "nuevas_24h": 81,
-      "anteriores_24h": 140,
+      "cantidad_archivada": 1302,
+      "nuevas_24h": 80,
+      "anteriores_24h": 138,
       "dias_con_registros": 16,
-      "fecha_ultima": "2026-10-31T15:48:49+00:00",
+      "fecha_ultima": "2026-10-31T16:14:29+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "6a2d11dab350117c0d7e",
+          "fecha": "2026-10-31T16:14:29+00:00",
+          "titulo": "Finnish president says he, Norwegian PM called Putin at Kiev’s request",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2211391",
+          "traducida": false
+        },
         {
           "id": "68e8eab29ab516dfc387",
           "fecha": "2026-10-31T15:48:49+00:00",
@@ -243,27 +251,35 @@
           "fuente": "CNN",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PZEZrRGp3Z2FOWVVsRXZBSWxPY3JodHlyZ1ZSYmhYSnB3TXRPeDRJem02ZFJwbHlCRzBVUHFvUDZ4VFhPMEVjNnBnT3YwS25OZEYxX09adW5lQl9BZklQRzd4c1cxaExlMmJ1ZVRfOThfMldxZWxmR0JPeTJ3a2c?oc=5",
           "traducida": false
-        },
-        {
-          "id": "c921ac220b25ae348de5",
-          "fecha": "2026-10-31T03:25:16+00:00",
-          "titulo": "Russian foreign minister tells DW journalist not to believe Ukrainian officials",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2211313",
-          "traducida": false
         }
       ]
     },
     {
       "id": "india-asia",
       "titulo": "India y Asia-Pacífico",
-      "cantidad_archivada": 552,
-      "nuevas_24h": 54,
+      "cantidad_archivada": 559,
+      "nuevas_24h": 61,
       "anteriores_24h": 93,
       "dias_con_registros": 16,
-      "fecha_ultima": "2026-10-31T15:36:51+00:00",
+      "fecha_ultima": "2026-10-31T16:17:17+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "73064e16de677b5b9b4d",
+          "fecha": "2026-10-31T16:17:17+00:00",
+          "titulo": "Quad diplomats finalise first leaders’ summit in two years before Trump-Xi meeting",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3372852/quad-diplomats-finalise-first-leaders-summit-two-years-trump-xi-meeting",
+          "traducida": false
+        },
+        {
+          "id": "aebec82fbb31eeff0b43",
+          "fecha": "2026-10-31T16:16:21+00:00",
+          "titulo": "Bangladesh opposition leader warns against India corridor, seeks fair Ganges water pact: Reports",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/bangladesh-opposition-leader-warns-against-india-corridor-seeks-fair-ganges-water-pact-reports/article71650427.ece",
+          "traducida": false
+        },
         {
           "id": "7a1597c0700f423ae0cc",
           "fecha": "2026-10-31T15:36:51+00:00",
@@ -302,6 +318,14 @@
           "titulo": "US midterm elections 2026: Election Day date, polling hours, results and when to expect winners - The Indian Express",
           "fuente": "The Indian Express",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONXFBRzRDWGFPdDRmZkpWZ0lyQnlaMlZzMTBRN0J1TDlucXhVdUI0Y2JFX3k2aEJXSUdSZGY3WDBDT3pJYTZrZkhIRUcwQnBIelNLT0h2N0JBY0NFakNsSWFXWWk3UTRPNnVSVV9iZkJXVDRyMDJGUjMteXR0SlE4UUdOYWZrV0UwQXM5clhkRURNMW1GeE5UMWhTOFE5bjdvVXcyOTBvcGNzUnRaNjZITzFNYklMY1YxX2pn0gHCAUFVX3lxTE9XWEJQWkFqajVKUWRZU3BJMDlQb1FxTzdHLXFGanBoOFJlLXY2ZnBuUFNwNTZkQVNpcGhoNlo3b29XZkN1WEp2OVhOay1INEJDVGNBV2RkRC1yMjg4dVRkc3paS05nVG1NaU1KYk8zZXFLdkRPUFZXVmJWZDBnSUhqMWtNa2k5XzVxRC1IMmtpUFlTYjBFcVBydFE4UlZrakRDYzQ2ay04ZS10OTFoWGJsR01DZWNBbFd3bUJOSFMtRm5B?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "a2ccc6a29186cd226aef",
+          "fecha": "2026-10-31T10:30:43+00:00",
+          "titulo": "Piyush Goyal says foreign Deputy PM’s daughter wants to work in Bollywood: ‘He’s been behind me’ - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVzFNSUVDd0E2dDB6R1BheWZkaUJlNEE5dGI1MklLLUhicVpzZGVVd3ZONzBHNTdNc0Q1dnRPTEdycXJCMWZUWWpoeU1xanFuZ05kTjhIdUoxTjhDNlRSa2ttLXFzZW9CT2VUVE1sYUpKa3hFV0gwdHdvM2lKWGs5NjRGU25TclBOZU9pVlNuWnhjd2h4eXdLOFFuN29DWkkwT3AyRlFDSWZ1SmdrcU1obnRhRVJWUjY3TEFhYmlxODdsSmV2cmZRSlYzenZpVjJ4MEFnRm9uUFFiX0dac2xMNHZTNlByaGFfc0h3MC1zNTTSAfcBQVVfeXFMTVFiMnhBZi1YX01mclRFMnBUN1V5dy10NlBIMU1YalVzTXItMEc4WmpaWHEwWjRPWjF0aTFiTnFDME9CZjdTa2VxQmRQTl9FcFNfT21YOFFyZkZmMU9jLV9fVDhwaG1pandXQlp3cEpiUXd6LTVLRWM5RjJ2YVhSODAwM0FFLW1RQzA5Tk5jdzVkSDV2aGRxU1lVVV93MG14Y2w2bUdDM3ZQZ3RpMnBOTG5Ld1V2aXUwQm9odU45OFRVaEV4OGVoNEY4bHpWVEpMMTZIUi1lZDlIT0tROGxJeWE4ZWFKdlFINzloWjNWQjBXa1pMWWdZdw?oc=5",
           "traducida": false
         },
         {
@@ -350,6 +374,14 @@
           "titulo": "Both Japan and China can help Bangladesh reach its full potential",
           "fuente": "South China Morning Post",
           "url": "https://www.scmp.com/opinion/asia-opinion/article/3372553/both-japan-and-china-can-help-bangladesh-reach-its-full-potential",
+          "traducida": false
+        },
+        {
+          "id": "bb5f0ca034ea32a907e5",
+          "fecha": "2026-10-31T08:14:00+00:00",
+          "titulo": "SBI ordered to pay Rs 50,000 after Delhi advocate loses Rs 35,000 to fake KYC app - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRGFnMmZ0ZE9iSEZkWVJSOGEya3p5dWRfeDNBaWxlZV9UWXNRcm5mTDFoeUJzQ0Z6VG92TlRBdG9wMFVrUTRvUDU4RjFHMjR4aWhLTlc4QnJCZHNZb2VKRHMtNHZjV0hiTGx5ZTlrbGxTRGk4a0dmalY4N3VUVnNjdl84N0R0Rm5Mdkg4YVd0eXZ5TGNkMk9rX09hUHNKQnpMc3YxVk1aVEhzYUtsXzUycFpCbUhGbjTSAb4BQVVfeXFMTkM0WVhoVTkwMGdxS2dsVHVQbGIwbnAwV2VFc2lxMTI2MXVEWnRfMzEzRGJnSVBEaDM2RW1IdEhxMnd2c3NnMWhLZURjTnRqV3FHSWR4R25OWV9QT0lZekdrV2gxS1pTZC01Z2UwaTdDYzkwc2Y4dWRCS0VKLWdJVHJIUDZVbTl4eGRlV0JLclVvcTRKcEt5Q2VlSHVveFktOEdiTXptcmc5dE81cFptNnh5eWN3R3J0VnRWWjE4UQ?oc=5",
           "traducida": false
         },
         {
@@ -457,51 +489,19 @@
           "traducida": false
         },
         {
+          "id": "b462f6ef398146e3ab1d",
+          "fecha": "2026-10-31T05:00:56+00:00",
+          "titulo": "AICTE extends Industry Fellowship Programme 2026-27 Phase 2 registration deadline to October 31 - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOT2hza0g3YnZ6bkNYNnFHQkRET0JaTV9fX1RnWFIzbkNjS3pWUmlITWVBSktMLVJrdjNXSlpXWnh1LUIyRmI0a3N0U09SaVl5VDJKVjRRU0RJRHVtQi15TnpGX2cwMUNMSjhod3FfbEhsRGhqaWdPem81aFFtWTJ6LVExSVR6YWdWajZ0d3lUMEJ2NFByVGpIMmh0azRHZWJJYXd3cmVFYmdCeTVVVmh2UmhLYVBDQXFobkE5aDBUS1VzZ1hCdWtHRzIzWURTX1RUVnc1M2hXb2V1dEdGVWFOSXRjUdIB6gFBVV95cUxPSklUZkwwT2lfbDJwMW5kRXZRVnh3ZkkwYVg0SmNXT2hoU2NMbS1iVXF3VW1zMkZSN0kzVm5DNjJjSzQ0U3p2N0lWZ041QkhOeS02OTQ1UnV5SENSX2ZvVGlrSVVWY1dNZmpfdTZZcW44eVc4dGF6VDFSanR3Z1JGNWs4bmU0RUcwb0dXUzl2QXlmQ0lsU1huYWZkcThSMi02ZkJtUDJYNklNaU14RE9weFRKVjU1a0F1X2xjUkNLSGJhLXlUYlVDUzFLLV9ZN0JaOE4tMzM2NDlkNEtWM2pRd2h1S2pOM25sOGc?oc=5",
+          "traducida": false
+        },
+        {
           "id": "1e308527164454788c60",
           "fecha": "2026-10-31T04:50:31+00:00",
           "titulo": "Gulliver’s Travels turns 300: The surprising India connection in Jonathan Swift’s classic - The Indian Express",
           "fuente": "The Indian Express",
           "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZ09ZX3NFcWNqVkxNWHhpcTc0MGE4UGtRZ3k0T1V1V0lUOXhHTHJfem5kcmhSVTM1dVc3ZU5iMURGeVNqVXcwNldhQ1l0d2E5SXNMSkZwTTRRWTE0cHAzYXh6Und6cWNhUThLaVh5OW5wc2pJV1RGNzRPWU9hT2NBYzZybkFvLXk1UWxJNlJvd1hZc1NES1Y5c2o3R0huUHVvQ3RkeWRaTWI4ZFNRZjRqYzNEWlgzODVzZ2kwd3pyaFd1Z25VaEU1LTRpdGp2MGVLdTFuemNHdl9Ud0VzN1hrazBKOGRXQdIB7AFBVV95cUxQTmNjV00tT2dnV1YtWVJfQldraC1mUVB0ZzZoajNDY3o3b1g4VEJPSjRaQVAwLUNkZ2U4RENJQ2gwZnBpWGp5LW80WUd5WlRwUUc0RG53dHZmNko0dFlyeXNPbGhITWdhWndEdEdIUENodlZCRzRCNTBBekxOeldBdFZOWHF6TVBqNEVNZERlN3FVT1ZkVjBHVUlkR1dvLWJDSHNHLUZNOHNnS0laOHNtZUpmamtDdzdQWkcwTGZrOTcwLXpVVnJkczdKWmVXS0hQcHk1TnVGVHpYTlVhb0tEaHhHSWRsamNrQ3V0bQ?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "e9bc41f60cba3c16a331",
-          "fecha": "2026-10-31T04:49:24+00:00",
-          "titulo": "Former Indian cricketer on Bhuvneshwar: ‘Indian management is saying we have had enough’ - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVDg0T2oxRUZCbnh5R0ppcEhRN2liaGNPaDVzZXplTkMwQV9JNlpITFhkbmZQUEV5Q29sdndqVU9YelJFcVR6TGZvTWZvaW9VeG9yWG1aSldTMWxFYVhFUmJyRlBoRnNvMnJCcDhvVThhUURnaEROVjdBWlU4ZXJTTERnR3lFZ0w1b1BKNW12R25weUtZblY4ZEVxckJXZVVmVk1KMnY0RmdRd9IBsAFBVV95cUxPTVBFc1R6SXhQNWdELUhBSHMzWHFlYVBJazFXaUhycGZjdjNCdXdaRzBDLXdQSUxBZ3cxeXgxNXB5Zi1UM3ktUTNCRnRUOUNQMUhQc1NLRjZWU2ZoMDdpdlJqdkx1SGdXQmUxYUt2WTdxX3pJN1MxX3FSMkpfczdZZ3JhNVNhVlJmTWQ2blFkMFdlY2NCTWNYZ3k1al9SWU1WMzF2N05ydVRLMWRJLUNWRw?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "21d53d17330cf7750e60",
-          "fecha": "2026-10-31T03:54:00+00:00",
-          "titulo": "Couple, daughter killed in Delhi-Mumbai Expressway crash; 2 children pulled out alive - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUXpySGg2b01ZOTh6VzJnRGFrZ1Y4RV84YWY1dXJ4WlFpNzZpZHQ1RFdiQnloaW9oM3ExNm5DWW03MFhFWWM1NldlajVQNGduZm1RWEhkVG9wSnZQTGhCNUl5ZmM0Yl9pUjNMMWN4WnBBZUtRNjRGR0VkTjhRbDR3Ui1VWDFpLUNITUczTnZiNXhUaTgyT2lNVmxVQTFOQThqbHJfQzlubVVwOWsxTUHSAbQBQVVfeXFMTnFmYW0wME5Bb0laVDRhc2s1ZUdRdmFGemZTNDd2NlZDTHVJZ3dnX2loenhESDFMTkNCN1ZtVjlhM2RxRlcwU3ZVQ21tejBVbGRpOWpjZUJQTzlPWlNBTk5MZ0ViY1RxRFRZM2xXMWM4V0JfUkRmQW4ySGljMENBZjl6VlA5Y1RkMGM2bjJNZFJESjRNWW9iNmxqZkdmVWxDOTkyMU5HZkozeWlzRVk4aWxzeV9T?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "13d5e5eee8723e724ee1",
-          "fecha": "2026-10-31T03:53:15+00:00",
-          "titulo": "‘Bad time to troll’: Binance founder reminds Elon Musk of $500m Twitter support - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWmNqTnZkY3N0aTJqMGs3YTJHdDB2aWFFclhpMDA2NVNFTGxuaGlRRTl2UmpfQzVydFV1Um9naWRrX2tIWlBJc1lHNV9paXdTc1dwZVppV0Z4Tjg4U1JnV0ItSkcxZkZ4WmU3U3pWWjVOM3VFRlJDODQxY0U4VVViTUdOYlUyamhSS0t3SHFaMTgyLTk1UmsxeVBKRHNtRjlUQ0FqaHYtSjNWbzNseEJYRUEyNNIBugFBVV95cUxNYzRvX3E3cFhGUFNHUWVKYzVLam9VY29ta2M1VkZLTWg0aVl1eFlEdlMxdldpS01wVkozbDNKRmVCUW55d3lPX29UaXg0Vmw2UmhkdnZuY2huSDRKUU1Ed0V1TU1vU0VHVWZRMXlVTnYwa29jMFlFR3hRcU9CZ0tXbi1ZamVodmJGYXpXMkI3MDNtNDVkQVJzX1BTTjhNV0FUR05aMXBzR1BRYXlmeTFiNDIzT0swb19LM2c?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "3e71ff89014794e7d3cf",
-          "fecha": "2026-10-31T03:52:24+00:00",
-          "titulo": "CJP’s Abhijeet Dipke apologises to Diljit Dosanjh as singer slams him for mocking Satluj - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQWo0X25IZnYyRFFFWkVURFBMYldJeTQyNXRaVy1naG0xSXBna3NjdV8xY3VYS1ZSQjBCVThQRnNqNkk1SWxyQkV3Ujd4WVFLVzM4V0xTcFQ1ZnNEVmt4UThLMlNudlR4M0Nmc3IyeU4wTXRRNFlzTG0waHh0dW01dVQtZnQ0WTBWOUV4NTQ4RHh6WXBZaEFIWDFzYnZlUWlCcVJ3THItQ3dzNWh2ay1kaUtZRjU0SDVoUUxBcUJWbm5ELXpySzMzVVRvNVRVd0Y5ZDZjYVNuUUJZX1pvaTlIbDFkYmVhajdl0gHvAUFVX3lxTFBzS2xyWGZzdDJuOTJvSDlmdnZpRzdFMDFWZm1ZS0tjZmE0MV9ibVhIejhvYThtd25ob2lWN0c4SDMwVGRKU0ZtMEZ3MzNPZEdvZlFDNEpXTFZITGs2MW5jZlI1a2dlR3dOQVkxZXk1R2dVdnlIaVUxN3huYVM3M3hWMXZ3RWVabFNmc1ZWcEZRNnM2QzdDZ05wTHJicjNKSlpJUWpudnVwMEpnWWxTWlpvYnR6dFBxS3dkTjczMEsybzFWbWprbGpkOXByTzItTkgzZTEwMkNqM2xiREpLZXZyUmtCNmxrOGM3R29DRUhB?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "b10e537d691b98f1a28d",
-          "fecha": "2026-10-31T03:28:23+00:00",
-          "titulo": "U.S., South Korea, Japan vow ‘complete’ North Korea’s denuclearisation",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/us-south-korea-japan-vow-complete-north-korea-denuclearisation/article71648121.ece",
           "traducida": false
         }
       ]
@@ -511,7 +511,7 @@
       "titulo": "Oriente Medio: seguridad y diplomacia",
       "cantidad_archivada": 777,
       "nuevas_24h": 38,
-      "anteriores_24h": 60,
+      "anteriores_24h": 57,
       "dias_con_registros": 16,
       "fecha_ultima": "2026-10-31T14:36:54+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -763,7 +763,7 @@
       "titulo": "Unión Europea y relaciones exteriores",
       "cantidad_archivada": 375,
       "nuevas_24h": 17,
-      "anteriores_24h": 23,
+      "anteriores_24h": 22,
       "dias_con_registros": 16,
       "fecha_ultima": "2026-10-31T13:28:03+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -1013,13 +1013,21 @@
     {
       "id": "suramerica",
       "titulo": "Sudamérica: integración y política exterior",
-      "cantidad_archivada": 237,
-      "nuevas_24h": 8,
+      "cantidad_archivada": 238,
+      "nuevas_24h": 9,
       "anteriores_24h": 14,
       "dias_con_registros": 16,
-      "fecha_ultima": "2026-10-31T09:30:00+00:00",
+      "fecha_ultima": "2026-10-31T16:12:55+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "c8c8e9008d7a3d18e4d3",
+          "fecha": "2026-10-31T16:12:55+00:00",
+          "titulo": "Flávio Bolsonaro asegura desde Estados Unidos que volverá a ser candidato a la Presidencia de Brasil",
+          "fuente": "El País",
+          "url": "https://elpais.com/america/2026-10-31/flavio-bolsonaro-asegura-desde-estados-unidos-que-volvera-a-ser-candidato-a-la-presidencia-de-brasil.html",
+          "traducida": false
+        },
         {
           "id": "c492b861cfb359aa72e7",
           "fecha": "2026-10-31T09:30:00+00:00",
@@ -1251,27 +1259,27 @@
           "fuente": "Al Jazeera",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/brazilians-split-over-flavio-bolsonaros-exit-to-us-2?traffic_source=rss",
           "traducida": false
-        },
-        {
-          "id": "77afabf8cbd2b1670aa6",
-          "fecha": "2026-10-29T06:30:36+00:00",
-          "titulo": "Flavio Bolsonaro claims he is Brazil’s true leader after fleeing to U.S.",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/flavio-bolsonaro-claims-he-is-brazils-true-leader-after-fleeing-to-us/article71639212.ece",
-          "traducida": false
         }
       ]
     },
     {
       "id": "eeuu-china",
       "titulo": "Competencia estratégica Estados Unidos–China",
-      "cantidad_archivada": 63,
-      "nuevas_24h": 8,
+      "cantidad_archivada": 64,
+      "nuevas_24h": 9,
       "anteriores_24h": 8,
       "dias_con_registros": 14,
-      "fecha_ultima": "2026-10-31T14:39:19+00:00",
+      "fecha_ultima": "2026-10-31T16:17:17+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "73064e16de677b5b9b4d",
+          "fecha": "2026-10-31T16:17:17+00:00",
+          "titulo": "Quad diplomats finalise first leaders’ summit in two years before Trump-Xi meeting",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3372852/quad-diplomats-finalise-first-leaders-summit-two-years-trump-xi-meeting",
+          "traducida": false
+        },
         {
           "id": "626beb974b866cd25e35",
           "fecha": "2026-10-31T14:39:19+00:00",
@@ -1502,14 +1510,6 @@
           "titulo": "Tensions Rise",
           "fuente": "War on the Rocks",
           "url": "https://warontherocks.com/tensions-rise/",
-          "traducida": false
-        },
-        {
-          "id": "c234a4ad9c1328724838",
-          "fecha": "2026-10-26T14:36:47+00:00",
-          "titulo": "Win for Lula boosts China’s foothold and gives Brazil rare earths leverage",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3372207/win-lula-boosts-chinas-foothold-and-gives-brazil-rare-earths-leverage",
           "traducida": false
         }
       ]
