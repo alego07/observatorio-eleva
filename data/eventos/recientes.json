@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-10-31T15:54:18.473539+00:00",
+  "created_utc": "2026-10-31T16:07:38.472418+00:00",
   "events": [
     {
       "id": "a-1ec4a933c88440e475fa",
@@ -46,6 +46,92 @@
         "Actores relevantes: Estados Unidos, Rusia, Ucrania",
         "Ámbito: Comercio y finanzas, Seguridad y conflictos",
         "Posible decisión institucional o negociación"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-68e8eab29ab516dfc387",
+      "fecha": "2026-10-31",
+      "titulo_fuente": "Trump admin approves potential Patriot missiles sale to Ukraine",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "68e8eab29ab516dfc387",
+          "titulo_original": "Trump admin approves potential Patriot missiles sale to Ukraine",
+          "titulo_es": "Trump admin aprueba la venta potencial de misiles Patriot a Ucrania",
+          "url": "https://www.thehindu.com/news/international/trump-admin-approves-potential-patriot-missiles-sale-to-ukraine/article71650369.ece",
+          "fuente": "The Hindu",
+          "pais": "India",
+          "fecha": "2026-10-31T15:48:49+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The approval, which goes to Congress for review, comes after weeks of complaints by Ukrainian authorities that its supplies of the interceptor missiles were dwindling",
+          "resumen_es": "La aprobación, que va al Congreso para su revisión, viene después de semanas de denuncias de las autoridades ucranianas de que sus suministros de los misiles interceptores estaban disminuyendo"
+        },
+        {
+          "id": "736c0e058d642f6b9fa1",
+          "titulo_original": "US approves sale of 500 Patriot missiles to Ukraine",
+          "titulo_es": "Estados Unidos aprueba la venta de 500 misiles Patriot a Ucrania",
+          "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News",
+          "pais": "Reino Unido",
+          "fecha": "2026-10-31T12:21:25+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+          "resumen_es": "Los interceptores de fabricación estadounidense son el único arma eficaz para reducir los misiles balísticos de Rusia."
+        },
+        {
+          "id": "d660ed8804c7f21e440c",
+          "titulo_original": "US approves sale of 500 Patriot missiles to Ukraine for $2.1 bln — State Department",
+          "titulo_es": "",
+          "url": "https://tass.com/world/2211295",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-10-30T23:28:56+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "According to Washington, \"this proposed sale will support the foreign policy and national security objectives of the United States by improving the security of a partner country that is a force for political and economic stability in Europe\"",
+          "resumen_es": ""
+        },
+        {
+          "id": "129b7806a846c92d9761",
+          "titulo_original": "US approves potential $2.1 billion sale of scarce Patriot missiles to Ukraine - CNN",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeldtQ3QtUnl5ODNVUHVwcUJBSWQwZ1E5UG5xMlpHTUxLZWxCLVJLSG5UUThoeUVEX0RCMmttd2Q5eG9FVE8zdEdqZ25oQ1RuR0N1WkxMeURLODJyaFhqbV9qMmdTSExKU2F0U3JuZVh6bUxOcVhqQU92a1NKS0N3RDU4bUpKOXp2d2VObWtWS0RWWGhW?oc=5",
+          "fuente": "CNN",
+          "pais": "Estados Unidos",
+          "fecha": "2026-10-30T20:22:41+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "US approves potential $2.1 billion sale of scarce Patriot missiles to Ukraine CNN",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "BBC News",
+        "CNN",
+        "TASS",
+        "The Hindu"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Rusia",
+        "Ucrania"
+      ],
+      "fuentes_independientes": 4,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 7,
+      "motivos_seleccion": [
+        "Cobertura de fuentes distintas",
+        "Actores relevantes: Estados Unidos, Rusia, Ucrania"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -148,66 +234,6 @@
       "fuentes": [
         "Euronews",
         "The Guardian"
-      ],
-      "actores_mencionados": [
-        "Rusia",
-        "Ucrania"
-      ],
-      "fuentes_independientes": 2,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 7,
-      "motivos_seleccion": [
-        "Cobertura de fuentes distintas",
-        "Actores relevantes: Rusia, Ucrania",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-e452e77e9a14ff946e73",
-      "fecha": "2026-10-30",
-      "titulo_fuente": "Russia’s top independent newspaper Novaya Gazeta ‘killed’ by Kremlin pressure",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "e452e77e9a14ff946e73",
-          "titulo_original": "Russia’s top independent newspaper Novaya Gazeta ‘killed’ by Kremlin pressure",
-          "titulo_es": "",
-          "url": "https://www.scmp.com/news/world/russia-central-asia/article/3372798/russias-top-independent-newspaper-novaya-gazeta-shuts-under-kremlin-pressure",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-10-30T21:03:58+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Russia’s flagship independent newspaper Novaya Gazeta announced on Friday it was closing, saying it had been “killed” by state pressure after years of repression targeting its journalists whose reporting was critical of the Kremlin and its Ukraine war. The closure of Novaya Gazeta – one of the last outlets to openly criticise Russia’s offensive – marks the latest outcome of Moscow’s campaign against dissenting voices, which intensified after the ",
-          "resumen_es": ""
-        },
-        {
-          "id": "a8b963a27a9b75282644",
-          "titulo_original": "Independent Russian newspaper Novaya Gazeta shuts under Kremlin pressure",
-          "titulo_es": "Periódico ruso independiente Novaya Gazeta cierra bajo presión Kremlin",
-          "url": "https://www.thehindu.com/news/international/independent-russian-newspaper-novaya-gazeta-shuts-under-kremlin-pressure/article71646590.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-10-30T17:03:17+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The closure of Novaya Gazeta — one of the last outlets to openly criticise Russia's offensive — marks a new low in Moscow's campaign against dissenting voices that gained speed after the Kremlin sent troops into its neighbour in 2022",
-          "resumen_es": "El cierre de Novaya Gazeta —uno de los últimos medios para criticar abiertamente la ofensiva de Rusia— marca un nuevo bajo en la campaña de Moscú contra las voces disidentes que se aceleraron después de que el Kremlin enviara tropas a su vecino en 2022"
-        }
-      ],
-      "fuentes": [
-        "South China Morning Post",
-        "The Hindu"
       ],
       "actores_mencionados": [
         "Rusia",
@@ -505,79 +531,6 @@
       "motivos_seleccion": [
         "Actores relevantes: Estados Unidos, Irán, Israel",
         "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-736c0e058d642f6b9fa1",
-      "fecha": "2026-10-31",
-      "titulo_fuente": "US approves sale of 500 Patriot missiles to Ukraine",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "736c0e058d642f6b9fa1",
-          "titulo_original": "US approves sale of 500 Patriot missiles to Ukraine",
-          "titulo_es": "Estados Unidos aprueba la venta de 500 misiles Patriot a Ucrania",
-          "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News",
-          "pais": "Reino Unido",
-          "fecha": "2026-10-31T12:21:25+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
-          "resumen_es": "Los interceptores de fabricación estadounidense son el único arma eficaz para reducir los misiles balísticos de Rusia."
-        },
-        {
-          "id": "d660ed8804c7f21e440c",
-          "titulo_original": "US approves sale of 500 Patriot missiles to Ukraine for $2.1 bln — State Department",
-          "titulo_es": "",
-          "url": "https://tass.com/world/2211295",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-30T23:28:56+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "According to Washington, \"this proposed sale will support the foreign policy and national security objectives of the United States by improving the security of a partner country that is a force for political and economic stability in Europe\"",
-          "resumen_es": ""
-        },
-        {
-          "id": "129b7806a846c92d9761",
-          "titulo_original": "US approves potential $2.1 billion sale of scarce Patriot missiles to Ukraine - CNN",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeldtQ3QtUnl5ODNVUHVwcUJBSWQwZ1E5UG5xMlpHTUxLZWxCLVJLSG5UUThoeUVEX0RCMmttd2Q5eG9FVE8zdEdqZ25oQ1RuR0N1WkxMeURLODJyaFhqbV9qMmdTSExKU2F0U3JuZVh6bUxOcVhqQU92a1NKS0N3RDU4bUpKOXp2d2VObWtWS0RWWGhW?oc=5",
-          "fuente": "CNN",
-          "pais": "Estados Unidos",
-          "fecha": "2026-10-30T20:22:41+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "US approves potential $2.1 billion sale of scarce Patriot missiles to Ukraine CNN",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "BBC News",
-        "CNN",
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "Rusia",
-        "Ucrania"
-      ],
-      "fuentes_independientes": 3,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Cobertura de fuentes distintas",
-        "Actores relevantes: Estados Unidos, Rusia, Ucrania"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -2006,6 +1959,52 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-e452e77e9a14ff946e73",
+      "fecha": "2026-10-30",
+      "titulo_fuente": "Russia’s top independent newspaper Novaya Gazeta ‘killed’ by Kremlin pressure",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "e452e77e9a14ff946e73",
+          "titulo_original": "Russia’s top independent newspaper Novaya Gazeta ‘killed’ by Kremlin pressure",
+          "titulo_es": "",
+          "url": "https://www.scmp.com/news/world/russia-central-asia/article/3372798/russias-top-independent-newspaper-novaya-gazeta-shuts-under-kremlin-pressure",
+          "fuente": "South China Morning Post",
+          "pais": "Hong Kong",
+          "fecha": "2026-10-30T21:03:58+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Russia’s flagship independent newspaper Novaya Gazeta announced on Friday it was closing, saying it had been “killed” by state pressure after years of repression targeting its journalists whose reporting was critical of the Kremlin and its Ukraine war. The closure of Novaya Gazeta – one of the last outlets to openly criticise Russia’s offensive – marks the latest outcome of Moscow’s campaign against dissenting voices, which intensified after the ",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "South China Morning Post"
+      ],
+      "actores_mencionados": [
+        "Rusia",
+        "Ucrania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia, Ucrania",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-b92b208d9bd023c35f6f",
       "fecha": "2026-10-30",
       "titulo_fuente": "Russia’s decision to veto this draft resolution risks setting back progress on the political process for the Western Sahara: UK statement at the UN Security Council",
@@ -2425,98 +2424,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-3cd05965d9c6ec7cc41c",
-      "fecha": "2026-10-30",
-      "titulo_fuente": "Ukraine has resumed strikes on Russian oil refineries, Russia says",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Energía y clima"
-      ],
-      "noticias": [
-        {
-          "id": "3cd05965d9c6ec7cc41c",
-          "titulo_original": "Ukraine has resumed strikes on Russian oil refineries, Russia says",
-          "titulo_es": "Ucrania ha reanudado las huelgas en las refinerías de petróleo rusas, dice Rusia",
-          "url": "https://www.thehindu.com/news/international/ukraine-has-resumed-strikes-on-russian-oil-refineries-russia-says/article71646653.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-10-30T17:20:16+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "There was no immediate comment from Ukraine",
-          "resumen_es": "No hubo comentarios inmediatos de Ucrania"
-        }
-      ],
-      "fuentes": [
-        "The Hindu"
-      ],
-      "actores_mencionados": [
-        "Rusia",
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia y gobernanza global",
-        "pregunta": "¿Cómo se distribuyen los costos de coordinación y los incentivos para cooperar?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia, Ucrania",
-        "Ámbito: Energía y clima"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-5cd3eade375225242b31",
-      "fecha": "2026-10-30",
-      "titulo_fuente": "Evacuation of civilians begins in besieged Ukrainian city of Oleshky",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "5cd3eade375225242b31",
-          "titulo_original": "Evacuation of civilians begins in besieged Ukrainian city of Oleshky",
-          "titulo_es": "La evacuación de civiles comienza en la asediada ciudad ucraniana de Oleshky",
-          "url": "https://www.theguardian.com/world/2026/oct/30/evacuation-besieged-ukrainian-city-oleshky",
-          "fuente": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-10-30T17:13:48+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Humanitarian convoy brings food and medicine to Russian-held city where people have suffered severe shortages People living in the besieged Russian-held city of Oleshky in southern Ukraine were evacuated on Friday as part of a joint relief operation, the first of its kind in four years and eight months of war. The city, which lies on the Russian-occupied side of the Dnipro River, opposite Kherson, has suffered months of serious food and medical s",
-          "resumen_es": "El convoy humanitario trae alimentos y medicinas a la ciudad rusa donde la gente ha sufrido graves carencias Las personas que viven en la asediada ciudad rusa de Oleshky en el sur de Ucrania fueron evacuadas el viernes como parte de un alivio conjunto"
-        }
-      ],
-      "fuentes": [
-        "The Guardian"
-      ],
-      "actores_mencionados": [
-        "Rusia",
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia, Ucrania",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-68dcc7574cceb555da33",
       "fecha": "2026-10-31",
       "titulo_fuente": "Burnham opens door to formal apology for Britain’s slave trade",
@@ -2528,14 +2435,14 @@
         {
           "id": "68dcc7574cceb555da33",
           "titulo_original": "Burnham opens door to formal apology for Britain’s slave trade",
-          "titulo_es": "",
+          "titulo_es": "Burnham abre puerta a la disculpa formal por la trata de esclavos británica",
           "url": "https://www.aljazeera.com/news/2026/10/31/burnham-opens-door-to-formal-apology-for-britains-slave-trade?traffic_source=rss",
           "fuente": "Al Jazeera",
           "pais": "Catar",
           "fecha": "2026-10-31T13:19:23+00:00",
           "estado": "publicación periodística; corroboración pendiente",
           "resumen_original": "UK Prime Minister rules out financial reparations, despite longstanding Caribbean demands.",
-          "resumen_es": ""
+          "resumen_es": "El Primer Ministro del Reino Unido descarta reparaciones financieras, a pesar de las exigencias del Caribe de larga data."
         },
         {
           "id": "066cb5b918b7f7b62c87",
@@ -3084,6 +2991,18 @@
           "titulo_original": "Reunited after 1,711 days: Oleshky evacuees return to Ukraine under Melania Trump-brokered ceasefire - CNN",
           "titulo_es": "",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR1JWYmpMU0lmSExXUVNRTXROa0d6c2w1UWlEdnh2VnVyMHRLR0E5Wml0bkdxQzdGTF9NdnlGYWhlYVhtaEE5a0F2LVRRWlRtUXdmRjBVdlZfbUtYWkNqcTI1RHFfNzBZeFNBdjNuZlJFUm1KUGduWGlwSHBoTG05YkZ3?oc=5",
+          "fuente": "CNN",
+          "pais": "Estados Unidos",
+          "fecha": "2026-10-31T13:07:47+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Reunited after 1,711 days: Oleshky evacuees return to Ukraine under Melania Trump-brokered ceasefire CNN",
+          "resumen_es": ""
+        },
+        {
+          "id": "76b6580cc945e30fac14",
+          "titulo_original": "Reunited after 1,711 days: Oleshky evacuees return to Ukraine under Melania Trump-brokered ceasefire - CNN",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSGhpMlhFeDZzcmJkMy1NWFRHTDU0NDhNTG5GQ0ZTbGw1TVFURXZ3LTlnYjRuYkEtckVNS2d4Z2ZnMWNvSHozc0p3ZzBJZy1CeS1DNHl3b1hmLV9JYURQUHpjZXBiaFNSZEN4SGNMVjdqRWVVUzdZanFmdmx6OWM4Ymt4ZXBsN3NqYWNEQQ?oc=5",
           "fuente": "CNN",
           "pais": "Estados Unidos",
           "fecha": "2026-10-31T13:07:47+00:00",
@@ -6050,76 +5969,158 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-92dcddb1b3028ffa4a3f",
-      "fecha": "2026-10-30",
-      "titulo_fuente": "Remarks by President António Costa at the press conference following the EU-Canada summit",
-      "region": "Europa",
+      "id": "a-1205c36a2987f71af131",
+      "fecha": "2026-10-31",
+      "titulo_fuente": "Última hora de las manifestaciones de Blocus en España, en directo | Madrid, Barcelona, Valencia y San Sebastián se blindan ante posibles disturbios",
+      "region": "Internacional",
       "temas": [
-        "Diplomacia"
+        "Comercio y finanzas"
       ],
       "noticias": [
         {
-          "id": "92dcddb1b3028ffa4a3f",
-          "titulo_original": "Remarks by President António Costa at the press conference following the EU-Canada summit",
-          "titulo_es": "Palabras del Presidente António Costa en la conferencia de prensa tras la cumbre UE-Canadá",
-          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/30/remarks-by-president-antonio-costa-at-the-press-conference-following-the-eu-canada-summit/",
-          "fuente": "Noticias del Consejo de la UE",
-          "pais": "Unión Europea",
-          "fecha": "2026-10-30T17:20:00+00:00",
-          "estado": "declaración de la fuente; corroboración independiente pendiente",
-          "resumen_original": "President of the European Council António Costa presented the main results of the discussions of the leaders during the 21st EU-Canada summit held in Montreal on 29-30 October 2026.",
-          "resumen_es": "El Presidente del Consejo Europeo António Costa presentó los principales resultados de los debates de los líderes durante la XXI Cumbre UE-Canadá celebrada en Montreal los días 29 y 30 de octubre de 2026."
+          "id": "1205c36a2987f71af131",
+          "titulo_original": "Última hora de las manifestaciones de Blocus en España, en directo | Madrid, Barcelona, Valencia y San Sebastián se blindan ante posibles disturbios",
+          "titulo_es": "",
+          "url": "https://elpais.com/espana/2026-10-31/ultima-hora-de-las-manifestaciones-de-blocus-en-espana.html",
+          "fuente": "El País",
+          "pais": "España",
+          "fecha": "2026-10-31T16:05:10+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "El comercio del centro de algunas de las principales ciudades españolas echa el cierre ante el temor de saqueos y disturbios como los sucedidos la semana pasada en Barcelona",
+          "resumen_es": ""
         }
       ],
       "fuentes": [
-        "Noticias del Consejo de la UE"
+        "El País"
       ],
       "actores_mencionados": [],
       "fuentes_independientes": 1,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+        "nombre": "Interdependencia compleja y economía política internacional",
+        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
       },
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
+      "prioridad_orientativa": 2,
       "motivos_seleccion": [
-        "Ámbito: Diplomacia",
-        "Posible decisión institucional o negociación"
+        "Ámbito: Comercio y finanzas"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
     },
     {
-      "id": "a-d1d0d2845dee55a7e1cb",
-      "fecha": "2026-10-30",
-      "titulo_fuente": "Alyoshki residents leaving for both Russia, Ukraine — ombudswoman",
-      "region": "Rusia-Ucrania",
+      "id": "a-79412bf1c5c3cb32fc6f",
+      "fecha": "2026-10-31",
+      "titulo_fuente": "Poland's President accuses PM Tusk of forced takeover of country's top court",
+      "region": "Europa",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "79412bf1c5c3cb32fc6f",
+          "titulo_original": "Poland's President accuses PM Tusk of forced takeover of country's top court",
+          "titulo_es": "El presidente de Polonia acusa a la PM Tusk of forced takeover of country's top court",
+          "url": "https://www.thehindu.com/news/international/polands-president-accuses-pm-tusk-of-forced-takeover-of-countrys-top-court/article71650399.ece",
+          "fuente": "The Hindu",
+          "pais": "India",
+          "fecha": "2026-10-31T16:01:20+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "A long-running political dispute over the Constitutional Tribunal has effectively paralysed the institution, with the pro-European government and the nationalist President refusing to ‌recognise appointees put forward by the other side",
+          "resumen_es": "Una disputa política de larga data sobre el Tribunal Constitucional ha paralizado efectivamente a la institución, con el gobierno proeuropeo y el Presidente nacionalista negándose a reconocer a los candidatos propuestos por el otro lado"
+        }
+      ],
+      "fuentes": [
+        "The Hindu"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-9bb191fe543ca47968f9",
+      "fecha": "2026-10-31",
+      "titulo_fuente": "Cédric Chetaille, contre-amiral : « Nous assistons à une forme de nouvelle “guerre des étoiles” sous-marine »",
+      "region": "Internacional",
+      "temas": [
+        "Energía y clima"
+      ],
+      "noticias": [
+        {
+          "id": "9bb191fe543ca47968f9",
+          "titulo_original": "Cédric Chetaille, contre-amiral : « Nous assistons à une forme de nouvelle “guerre des étoiles” sous-marine »",
+          "titulo_es": "",
+          "url": "https://www.lemonde.fr/international/article/2026/10/31/cedric-chetaille-contre-amiral-nous-assistons-a-une-forme-de-nouvelle-guerre-des-etoiles-sous-marine_6803715_3210.html",
+          "fuente": "Le Monde",
+          "pais": "Francia",
+          "fecha": "2026-10-31T16:00:10+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Le fond des océans fait l’objet d’une inédite compétition militaire. La multiplication de réseaux de capteurs à des fins de surveillance ou d’espionnage risque de bouleverser les tactiques navales, explique l’ancien commandant de sous-marins nucléaires dans un entretien au « Monde ».",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "Le Monde"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia y gobernanza global",
+        "pregunta": "¿Cómo se distribuyen los costos de coordinación y los incentivos para cooperar?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Energía y clima"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-4965906e457245c61c0a",
+      "fecha": "2026-10-31",
+      "titulo_fuente": "DC and Virginia sue to block Trump arch construction - Politico",
+      "region": "Estados Unidos",
       "temas": [
         "Actualidad"
       ],
       "noticias": [
         {
-          "id": "d1d0d2845dee55a7e1cb",
-          "titulo_original": "Alyoshki residents leaving for both Russia, Ukraine — ombudswoman",
-          "titulo_es": "Residentes de Alyoshki saliendo para Rusia, Ucrania — Ombudsman",
-          "url": "https://tass.com/society/2211123",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-30T17:10:13+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "\"The offices of both ombudspersons are monitoring the situation, so, everything is proceeding routinely,\" Yana Lantratova said",
-          "resumen_es": "\"Las oficinas de ambos ombudspersons están monitoreando la situación, así que todo está pasando rutinariamente\", dijo Yana Lantratova"
+          "id": "4965906e457245c61c0a",
+          "titulo_original": "DC and Virginia sue to block Trump arch construction - Politico",
+          "titulo_es": "DC y Virginia demandan bloquear la construcción de arco de Trump - Politico",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWXU1VzhlejQyTk9EMGJ1bWFvbGEzakJnT0FfNU9xM1lETFZQMHVtUFlzbGNPdThZeEgtWFExTWl6TkhGT0RxaHFQeUF1b0JnZTVWWjdHUkkxcl8xbThqMHVDeDNyMXlkX0NHX20tclB0M2s3bGMxVm9iUkZxbjlFNWRB?oc=5",
+          "fuente": "POLITICO US",
+          "pais": "Estados Unidos",
+          "fecha": "2026-10-31T15:53:00+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "DC and Virginia sue to block Trump arch construction Politico",
+          "resumen_es": "DC y Virginia demandan bloquear la construcción del arco de Trump Politico"
         }
       ],
       "fuentes": [
-        "TASS"
+        "POLITICO US"
       ],
       "actores_mencionados": [
-        "Rusia",
-        "Ucrania"
+        "Estados Unidos"
       ],
       "fuentes_independientes": 1,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
@@ -6130,9 +6131,9 @@
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
+      "prioridad_orientativa": 2,
       "motivos_seleccion": [
-        "Actores relevantes: Rusia, Ucrania"
+        "Actores relevantes: Estados Unidos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6627,14 +6628,14 @@
         {
           "id": "6460ce831dce68fd95a9",
           "titulo_original": "Ukraine faces complicated situation with power supplies, says Zelensky",
-          "titulo_es": "",
+          "titulo_es": "Ucrania enfrenta una situación complicada con los suministros de energía, dice Zelensky",
           "url": "https://tass.com/economy/2211361",
           "fuente": "TASS",
           "pais": "Rusia",
           "fecha": "2026-10-31T13:20:23+00:00",
           "estado": "publicación periodística; corroboración pendiente",
           "resumen_original": "He reported about strikes delivered against thermal power plants in Kiev, Dnepropetrovsk and Kharkov",
-          "resumen_es": ""
+          "resumen_es": "He reported about strikes delivered against term power plants in Kiev, Dnepropetrovsk and Kharkov"
         }
       ],
       "fuentes": [
