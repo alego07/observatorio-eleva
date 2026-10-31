@@ -1,17 +1,73 @@
 {
-  "actualizado_utc": "2026-10-31T12:33:25.368035+00:00",
+  "actualizado_utc": "2026-10-31T15:54:18.522679+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 1292,
-      "nuevas_24h": 111,
-      "anteriores_24h": 128,
+      "cantidad_archivada": 1299,
+      "nuevas_24h": 80,
+      "anteriores_24h": 140,
       "dias_con_registros": 16,
-      "fecha_ultima": "2026-10-31T12:21:25+00:00",
+      "fecha_ultima": "2026-10-31T15:21:12+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "0777c1907794af20808e",
+          "fecha": "2026-10-31T15:21:12+00:00",
+          "titulo": "US warns Russia of planned terrorist attack in Moscow — FSB",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2211387",
+          "traducida": false
+        },
+        {
+          "id": "c26587d276686d142520",
+          "fecha": "2026-10-31T14:15:24+00:00",
+          "titulo": "Alla Didur reçoit le prix du « News Fixer » 2026, remis par le Fonds américain Kurt Schork",
+          "fuente": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/10/31/alla-didur-recoit-le-prix-du-news-fixer-2026-remis-par-le-fonds-americain-kurt-schork_6803672_3210.html",
+          "traducida": false
+        },
+        {
+          "id": "0854f51f9b841112c4eb",
+          "fecha": "2026-10-31T13:32:25+00:00",
+          "titulo": "Starmer says UK must get closer to Europe as US relationship changes",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/politics/2026/oct/31/keir-starmer-uk-europe-us-relationship-trump",
+          "traducida": false
+        },
+        {
+          "id": "6460ce831dce68fd95a9",
+          "fecha": "2026-10-31T13:20:23+00:00",
+          "titulo": "Ukraine faces complicated situation with power supplies, says Zelensky",
+          "fuente": "TASS",
+          "url": "https://tass.com/economy/2211361",
+          "traducida": false
+        },
+        {
+          "id": "0b216c6ebb7e9547e1c6",
+          "fecha": "2026-10-31T13:08:04+00:00",
+          "titulo": "Los evacuados de la ocupada Olsehki regresan a territorio controlado por Ucrania",
+          "fuente": "El País",
+          "url": "https://elpais.com/internacional/2026-10-31/los-evacuados-de-la-ocupada-olsehki-regresan-a-territorio-controlado-por-ucrania.html",
+          "traducida": false
+        },
+        {
+          "id": "928452880393ff956a09",
+          "fecha": "2026-10-31T13:07:47+00:00",
+          "titulo": "Reunited after 1,711 days: Oleshky evacuees return to Ukraine under Melania Trump-brokered ceasefire - CNN",
+          "fuente": "CNN",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR1JWYmpMU0lmSExXUVNRTXROa0d6c2w1UWlEdnh2VnVyMHRLR0E5Wml0bkdxQzdGTF9NdnlGYWhlYVhtaEE5a0F2LVRRWlRtUXdmRjBVdlZfbUtYWkNqcTI1RHFfNzBZeFNBdjNuZlJFUm1KUGduWGlwSHBoTG05YkZ3?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "f54c76797df799479c3d",
+          "fecha": "2026-10-31T12:58:28+00:00",
+          "titulo": "On the Norway-Russia border, the Sámi people face a growing divide",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/features/longform/2026/10/31/on-the-norway-russia-border-the-sami-people-face-a-growing-divide?traffic_source=rss",
+          "traducida": false
+        },
         {
           "id": "736c0e058d642f6b9fa1",
           "fecha": "2026-10-31T12:21:25+00:00",
@@ -195,75 +251,35 @@
           "fuente": "TASS",
           "url": "https://tass.com/economy/2211311",
           "traducida": false
-        },
-        {
-          "id": "bc8d544a1e4998f7e120",
-          "fecha": "2026-10-31T02:19:53+00:00",
-          "titulo": "Ukrainian armed forces lose around 1,230 troops in special military op zone in one day",
-          "fuente": "TASS",
-          "url": "https://tass.com/defense/2211309",
-          "traducida": false
-        },
-        {
-          "id": "70715445a9d34eff2a0c",
-          "fecha": "2026-10-31T02:18:17+00:00",
-          "titulo": "Ukraine’s Zelenskyy praises US over $2.1bn Patriot missile deal but warns it could take years",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/31/ukraines-zelenskyy-praises-us-over-21bn-patriot-missile-deal-but-warns-it-could-take-years",
-          "traducida": false
-        },
-        {
-          "id": "b8272d80d9a66ea3975e",
-          "fecha": "2026-10-31T02:02:59+00:00",
-          "titulo": "Mark Carney on Trump, Ukraine — and those Brooks Brothers shirts - Politico",
-          "fuente": "POLITICO US",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRmxVZFRaY01DaG81WDU4akZObEU3YnRhbHFYdUZEcEE0UnRqV1p3NzlJR1MwT2lvOU95Z09DdWhhSlItUy1mUjZwcGFzTEl0RTQzNEsyZ2p2OTdKdUFCTWFpQmdPRW5UVFFGTTBfVzlSd1dDUWNZS2wzSmZWZmhXS09HbUU2N3pPdWd2TnRDRFF2M2RUZlNmd01aZWhKSE1fTDYzWkRCZjdRYXpDeVBKcQ?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "a7053f52dd1b9243fe1a",
-          "fecha": "2026-10-31T01:45:06+00:00",
-          "titulo": "G20 talks expose deep rift as Russia stays defiant while Rubio pursues sideline diplomacy",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/world/russia-central-asia/article/3372805/g20-talks-expose-deep-rift-russia-stays-defiant-while-rubio-pursues-sideline-diplomacy",
-          "traducida": false
-        },
-        {
-          "id": "171959cb3cf02b9fc2cc",
-          "fecha": "2026-10-31T00:57:58+00:00",
-          "titulo": "Russian Red Cross provides assistance to over 133,000 residents of border regions",
-          "fuente": "TASS",
-          "url": "https://tass.com/society/2211303",
-          "traducida": false
-        },
-        {
-          "id": "b3293af492d639bf23c5",
-          "fecha": "2026-10-31T00:29:28+00:00",
-          "titulo": "US cancels G20 ‘family photo’ after Australia, UK and others refuse to appear with Russia",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/31/us-cancels-g20-family-photo-after-australia-uk-and-others-refuse-to-appear-with-russia",
-          "traducida": false
-        },
-        {
-          "id": "8757b0c0c405d3291d0f",
-          "fecha": "2026-10-31T00:01:46+00:00",
-          "titulo": "Trump praises Russia’s actions in Hubbard’s release",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2211297",
-          "traducida": false
         }
       ]
     },
     {
       "id": "india-asia",
       "titulo": "India y Asia-Pacífico",
-      "cantidad_archivada": 536,
-      "nuevas_24h": 60,
-      "anteriores_24h": 89,
+      "cantidad_archivada": 551,
+      "nuevas_24h": 55,
+      "anteriores_24h": 92,
       "dias_con_registros": 16,
-      "fecha_ultima": "2026-10-31T10:46:07+00:00",
+      "fecha_ultima": "2026-10-31T15:36:51+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "7a1597c0700f423ae0cc",
+          "fecha": "2026-10-31T15:36:51+00:00",
+          "titulo": "India-linked Buddha relics to be enshrined in 108 chortens in Bhutan",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/india-linked-buddha-relics-to-be-enshrined-in-108-chortens-in-bhutan/article71649782.ece",
+          "traducida": false
+        },
+        {
+          "id": "9f77d283918369e2dd3e",
+          "fecha": "2026-10-31T11:57:47+00:00",
+          "titulo": "‘It’s done bro’: Nidhi Razdan’s cheeky wedding post with Omar Abdullah - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRjI2aThXTmpWTnFqM3U1QkpCd3Vicmx5akRfNUJLTXpGQnlPZnZ0ZWpuUlR4UXBhYUlDUVNXTzNRRDFQbld1bjZGeU5INkRtTHYyYXFGS0VIcUxNRkdWd3NtU3NDOXBkcGYyWTRfSEs5WGxnQkZTLVEyNktyOW1wbUlrVTdyOTFVYXFnUkZmSXVaMkN1X2JfaF9yQXhGR2dw0gGnAUFVX3lxTE9oSUhEUy1xNmFlTkVTMlVnX25uTGNlSmxGTEJYVU55MHJrY3c0TDdkNTNRUG9NNWVQUFNqZVBuTmRMYkpZSjJxcGNXMzRtMlRHeUVrSC16OEpieHJiSFhkdmJhMGwwR051bTVMUkV0bDBQaC1WY2lIZG43aDVCZlRxenJLVjUyRWdmM1NSLUpMNE5tREI2UmVZbWJYZjBEa2cwalBsT3h3?oc=5",
+          "traducida": false
+        },
         {
           "id": "f52acd8c12ef263777cb",
           "fecha": "2026-10-31T10:46:07+00:00",
@@ -278,6 +294,22 @@
           "titulo": "How Ambani’s Jio became India’s second-largest company",
           "fuente": "Al Jazeera",
           "url": "https://www.aljazeera.com/news/2026/10/31/how-ambanis-jio-became-indias-second-largest-company?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "a56031ecc6a773151346",
+          "fecha": "2026-10-31T10:38:13+00:00",
+          "titulo": "US midterm elections 2026: Election Day date, polling hours, results and when to expect winners - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONXFBRzRDWGFPdDRmZkpWZ0lyQnlaMlZzMTBRN0J1TDlucXhVdUI0Y2JFX3k2aEJXSUdSZGY3WDBDT3pJYTZrZkhIRUcwQnBIelNLT0h2N0JBY0NFakNsSWFXWWk3UTRPNnVSVV9iZkJXVDRyMDJGUjMteXR0SlE4UUdOYWZrV0UwQXM5clhkRURNMW1GeE5UMWhTOFE5bjdvVXcyOTBvcGNzUnRaNjZITzFNYklMY1YxX2pn0gHCAUFVX3lxTE9XWEJQWkFqajVKUWRZU3BJMDlQb1FxTzdHLXFGanBoOFJlLXY2ZnBuUFNwNTZkQVNpcGhoNlo3b29XZkN1WEp2OVhOay1INEJDVGNBV2RkRC1yMjg4dVRkc3paS05nVG1NaU1KYk8zZXFLdkRPUFZXVmJWZDBnSUhqMWtNa2k5XzVxRC1IMmtpUFlTYjBFcVBydFE4UlZrakRDYzQ2ay04ZS10OTFoWGJsR01DZWNBbFd3bUJOSFMtRm5B?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "d35b1ec973a3e61ede89",
+          "fecha": "2026-10-31T09:28:14+00:00",
+          "titulo": "Ashton Villa to sue former Liverpool player over ‘Villa will never be Manchester United’ comments - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZDNsa2dpSnZsMjhjRWp0RW1kbVlnNEd4VzZnZWowZ09ZaE9ldGRSaGlyNmhZdE9KQUk1LXlBS1hyZXc0ajNKUGU3WlBkZ0dneUxGYWh6LUVLUzF2dWpXd3VucHRtVWdwZElfY3JuSENFZUUzODdVVE85RjNNWk5JUFJib2h1eE5QcnZfNF9QMjZtcEF3VmNfNFprSE9wU1M2ZzZDWTF5Q19mUUxENmVB0gG2AUFVX3lxTE41UFc3TkdLR2w4OVd1QTFZSDZqRGdaZGhUMFFkNk94dFk1M3llNWZJXzk1TEJ3OGNMb3lMN3dvbnIyWTB1Y0lyMFlwaWQxNXNtUG1jSjgyVUw5WlNEZGFZU1ZJOFY4aml4ZzZsendfMW5SN1pDWTlZV3d2S2pOZ0RSWDlabUtkNmNCcHpDTzJEUTB3MUpMTXAyLTNZQmZPMUJ0LWpEN1BWNGY0UWFPU0prcXgteWRn?oc=5",
           "traducida": false
         },
         {
@@ -297,6 +329,22 @@
           "traducida": false
         },
         {
+          "id": "4c3572ea917854a8b2da",
+          "fecha": "2026-10-31T09:01:11+00:00",
+          "titulo": "Katrina Kaif’s postpartum fitness journey: How new mums can lose weight gradually and safely - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOX1dGaVphMnJZOHRQYlcwV1FjcnE5TFotdGZQaEVpRUtaUXNIOHVWTVJGejZmdngzNjN5bjZiMGVhRkc2eXlLbHUwSWVHbm5TcXVJWXpmRFh3ZzNZeXFzV1l0NE9MckRTckRvZmhvWGJxTFVGZ3hPTzF4NUZ2R3pkNWpDLWxuVHp3TTl0a1EwY09XeFJxRGk2Z0FLcE9jX2NQRG1HY0doajM4SlU3OWh5alJfUV9UMGZCNDZrVmN2bkRsWXg3N09ucmVsV2pwT0nSAdYBQVVfeXFMTWpLcFp0UGp0a1BxQVZfTU5XMldBekZJYi12SG94aUpnT2o0bk1wOWJYTmxkdFBoMGM2b2pzVTNZckRIdW9BVjh1UFpxbDVmZ1NxTXhLaFNxV09BV0lvMlROUkttUmVJR2Q3Y05mV1ZXdV9kb2E5TWdhRkl2aFJlb3JLVWtLb3VWOWpUNEF1X1luMWJSa1NDTzFiX0k3ejJGT2ZJbVlZWWFMR2JFd1hqdEVnc3N2RHJLSUlUQTVscldtaFhtRHFZaGY0OFpuaEE1aWhwd2F4Zw?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "45a2f704ab0afbe1af13",
+          "fecha": "2026-10-31T08:42:59+00:00",
+          "titulo": "Sanjay Gupta brought Quentin Tarantino’s grunge to Bollywood, made slo-mo a staple - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUEtfdDFPNHBKT0FiUGFpYjItTFg0YTRSQ3hHM2hVaXJZdXd6SlBXNUZYYnlpdmtxMmZNejJzUlh1UHMySjdXcDRMeFBVNXRhRkZPcURTR3lESnRHXzBISng5WThZUUxvWnNGd2VjVzUtNkdCNXZKNWM4SzQyWThaRm9xTUpUVUdlbW1SS3NaeUxqWTJ2ZkhhdFZtVWNZeUpCQ3JmYXdGcWdJMFpBSF85Y0g2R2lGMW1mVmVIdFcxRGVSTjN3ZmE0TkxWWjN1WlpyVmN1Vms1VWU2Nk1BWDJVZXFR0gHoAUFVX3lxTE1RY2VrV1NGNEdkeG5tbS00QlRUUXBWbjZXekxpOER4OFBiWmxCRmlnVFpabG8zUEpjMmxQeU9lVS1qcURlWWRQems0NUQ3V2x6SGZLamoxVUxVUmVYdm85VHBZRm9yT1BMT3lYb25BSlREcFlybjBUcFZJSm1xWHViY0NjUURRZmlDX2Nqa2xJZ3pzQ1BhMkVxdzJsVTB2T0hldEVqYXN0MHNwUG9zVEZUODBTSkQxYTg3ckZhS0Ftb29sOF9lOW91OWFMSEtUdmtSM2xIYUM0QzY0ckdQYUR0V1RWRE5DQ0w?oc=5",
+          "traducida": false
+        },
+        {
           "id": "9eb993021fb172a5c585",
           "fecha": "2026-10-31T08:30:08+00:00",
           "titulo": "Both Japan and China can help Bangladesh reach its full potential",
@@ -310,6 +358,30 @@
           "titulo": "‘Underworld led to our separation’: Sanjay Gupta won ex-wife Anu back, remarried her after divorce - The Indian Express",
           "fuente": "The Indian Express",
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPV1JmbVRKMy13LXI4eGxrSWk2Um1iTHAzNXVtVFJZTENaaktXaTBUTHgzbm1xZElCS2JzNFFDZDhEZHVsalAyems0MFVUVkY4aEVSek14cnFRWFFweXAwSjNyd2hNNTRBZ182UUVkMDNKRldBdnpTdjc2T0oxWHRBM3FYaXJNeUxJcGRiSW5uMzhEOTZjRzF6VE14ZTcwcnpCZ29xaEw4cVI1NGJCemNzVTRIZGRDT1R2cHBJcnNlYU9KZl8ycl9tb2hMMWhhRHlsNjBiMVlaWW5yUEtpNzhv0gHmAUFVX3lxTE1jYWE2UVJObkZ3UFRkYm1RQWFYaFRpeVpadHZjVnU1bzBSQnJHbjBWWXRRNU95czRyWVVtSzFzekdoOWxlNFJNcXJFS18zTHZMemxHa0NNZ3VxaVgzZm5QekwwUjJueDhsNjJ6TXJEZ0M4czNEYkctbG5xVldta1FMbkJ0SmR2NjlTWVY2a1ZvRzY0b2MtS2otemZ2aHc1ZHBsV25DZ055aXRsZ3g5c1IxMDNub3hRVWpoRFpTbmZCc0JDQmlJREkwUWVNN3BSX01Ha2ZyLUw3M2g2TkRSeFVRTl9oT1F3?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "ffc22db73a042622fec2",
+          "fecha": "2026-10-31T08:04:04+00:00",
+          "titulo": "2 girls critical after chainsaw attack at Andhra school - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWVpXbVMtckZRaU92b0p4Z1FHX2x5LUkwcGd5YTl6R2QwWHdpX2pLdms2dW9EWXRDMjN4NGlOOWFxQlJWZUlfczUxaUYzNHFrRVcyd0plazNnVE1VMDNjWUIzdUxqSTZ5Y01zOEdtMXgyQ21ZWlRlU2hJQXd0Ym1GV1RsODAxb0RuUjVXTjlVRFUtR2hFcWxYMWctNXlXWUJrUnNmVHZOMjF6bkhQV1ZRdE85OXNpLWRQRHR5Z3ZCTTJ2N1HSAcoBQVVfeXFMT1dwV3JTZG9XUnhhWndvbFA1SWMzZ2RDUzFqWUVsTThpY3Vfd2lwdWRPNFJ3XzRKZU5qdGdENE9uanZONlBJRW5ManI1Z1hUUDZveVIyYkdqUFBrMXQ3clVpQmlOYzJLaU1xQVhCME9iWUwxd2ZqN1l1MmhORGU1S2JnMjF0M3MwTTBwaXR6SW13SlR0elNhX0IwN3lTT2NyTUgzWWtyakNlY05jYnNMUnBfUVJwWWNmRE1Wc0E2WHMxak5aUFpyY0NnUQ?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "e3b28bb513e071b3e9a9",
+          "fecha": "2026-10-31T07:47:06+00:00",
+          "titulo": "UPSC Current Affairs 2026, Daily Current Affairs Latest News from India & World - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBncVNFemtjNWVDQTRfd0VSV1lON3BHT2VOd3NpelZZWkJWTnVneHhOcWpfS25KaF9jLVRQTENOS21EMng3d2IwV2xpWHVoRTA0VF9TZG5wZjVWdVp3ZGUxSGhqQjA3dw?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "faf5f4d008ac7266e422",
+          "fecha": "2026-10-31T07:39:25+00:00",
+          "titulo": "6-year-old Haryana girl attacked with brick by Class 3 student, suffers head injury - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQWlhM1U5U1NfLXN1NFNVZXRRVFJNVlhEeDVpZzFsemFPX2t3NFN3Qll0M2NfQ0J5b3pBLWttNmdPaDdCay11TlZUUTBNQW1iYks3S2tKZm1YVm51Vk5pejZ0c045YkYtWDRLdDlRMTY5NWxEZEhObXduVGo0dmxGdXZzRlRCQU1xRTFLeDI5TEFuRDFkUkZwZktNcjZWcGY3WkhoUzNGSk1KVVBLaXBacGtiV2tTWnFZQ0ZZOUZMN2cwSzhzNW5NQ9IBzwFBVV95cUxONmItWTBtVEpuWXdrSmphWHNqQTRWV2J4OU9uR3R2MHFCM3hMbUlyTDNMZlhFQlEycU0zLW1lMURxYTlfT3M1V1BLMHY5Y3BCSldTZjh5X2J0dm1ZYmFuNldYZlVQeUE3dXlLWW9QYUhsREFPWGJsbjNtYnpmbXo0OXlRZl9ZTm55bW8wTmFmR3ptLWFhdGY0SUpBclVHWkRlUTNBazU5ZFlfMDRtanNfNllibTMybjczOWpmMlZKRTlyeFVNc3pCNU9faDdIVU0?oc=5",
           "traducida": false
         },
         {
@@ -369,11 +441,27 @@
           "traducida": false
         },
         {
+          "id": "022aac4e7a7e236b8eae",
+          "fecha": "2026-10-31T05:02:13+00:00",
+          "titulo": "From AI Startups to Fashion: Inside IIM Ahmedabad’s Summer Placements 2028 - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUVdvWUM2VnJJS0tvVnAzNFJXbUV0X3I0VzNTak9yVndIODd5d1ZGVE1RVVljbThZMFVCeW45OW9jS0tveW1rYUFfQUZFcWxzTk4wdE1XNzhUTU5jTUlaVng0Z09VVkRRU05Pb0FFOXgxb1BVVVZtZlZ2SnpYbDZDdkNoNm56enBTYnd6RmdVTzFDVDN5eFJXYllMME5Jc2xGTnVkdkFjTEE5N1MxbUhZQlY1WHRFeFRqTlRrOThDQzJGLXU5ZmxRT0txbGNJZGfSAdYBQVVfeXFMTlVYc3I0TW4ycUJSMGdCaHJfeUQ3clNvczJKM2s0Smd1WDhiSURISVZ6S3l2STBxVzhpR2VWN3R2UW4wMzJzZlhYbDlZaWNuazM3RlliQTNoX0ROYTlGZElsWG9LQkxJWnJqZXB5RTU1amhJT2dXRzZDOTZhMklRbFlvVXdsVVhTODRwZFczZDJtWmxzSWtEbVJ3b2JOZ0pac3A3UDFoS3hHNTZXUVJwYS1hTlZBNmZZNXZDc0U3MVNqYnpTcFFhd2xlVkE3N25QR2Z3cVFYQQ?oc=5",
+          "traducida": false
+        },
+        {
           "id": "1e308527164454788c60",
           "fecha": "2026-10-31T04:50:31+00:00",
           "titulo": "Gulliver’s Travels turns 300: The surprising India connection in Jonathan Swift’s classic - The Indian Express",
           "fuente": "The Indian Express",
           "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZ09ZX3NFcWNqVkxNWHhpcTc0MGE4UGtRZ3k0T1V1V0lUOXhHTHJfem5kcmhSVTM1dVc3ZU5iMURGeVNqVXcwNldhQ1l0d2E5SXNMSkZwTTRRWTE0cHAzYXh6Und6cWNhUThLaVh5OW5wc2pJV1RGNzRPWU9hT2NBYzZybkFvLXk1UWxJNlJvd1hZc1NES1Y5c2o3R0huUHVvQ3RkeWRaTWI4ZFNRZjRqYzNEWlgzODVzZ2kwd3pyaFd1Z25VaEU1LTRpdGp2MGVLdTFuemNHdl9Ud0VzN1hrazBKOGRXQdIB7AFBVV95cUxQTmNjV00tT2dnV1YtWVJfQldraC1mUVB0ZzZoajNDY3o3b1g4VEJPSjRaQVAwLUNkZ2U4RENJQ2gwZnBpWGp5LW80WUd5WlRwUUc0RG53dHZmNko0dFlyeXNPbGhITWdhWndEdEdIUENodlZCRzRCNTBBekxOeldBdFZOWHF6TVBqNEVNZERlN3FVT1ZkVjBHVUlkR1dvLWJDSHNHLUZNOHNnS0laOHNtZUpmamtDdzdQWkcwTGZrOTcwLXpVVnJkczdKWmVXS0hQcHk1TnVGVHpYTlVhb0tEaHhHSWRsamNrQ3V0bQ?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "e9bc41f60cba3c16a331",
+          "fecha": "2026-10-31T04:49:24+00:00",
+          "titulo": "Former Indian cricketer on Bhuvneshwar: ‘Indian management is saying we have had enough’ - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVDg0T2oxRUZCbnh5R0ppcEhRN2liaGNPaDVzZXplTkMwQV9JNlpITFhkbmZQUEV5Q29sdndqVU9YelJFcVR6TGZvTWZvaW9VeG9yWG1aSldTMWxFYVhFUmJyRlBoRnNvMnJCcDhvVThhUURnaEROVjdBWlU4ZXJTTERnR3lFZ0w1b1BKNW12R25weUtZblY4ZEVxckJXZVVmVk1KMnY0RmdRd9IBsAFBVV95cUxPTVBFc1R6SXhQNWdELUhBSHMzWHFlYVBJazFXaUhycGZjdjNCdXdaRzBDLXdQSUxBZ3cxeXgxNXB5Zi1UM3ktUTNCRnRUOUNQMUhQc1NLRjZWU2ZoMDdpdlJqdkx1SGdXQmUxYUt2WTdxX3pJN1MxX3FSMkpfczdZZ3JhNVNhVlJmTWQ2blFkMFdlY2NCTWNYZ3k1al9SWU1WMzF2N05ydVRLMWRJLUNWRw?oc=5",
           "traducida": false
         },
         {
@@ -415,107 +503,115 @@
           "fuente": "The Indian Express",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaVFmb3R5dFlCNlItV28yVjhHWDlYM1JKUUVFVlRpX1BwaVpRdFlnd2dpNlo3RExsU0R3VFZlSlU2X3ZqWEhIcG5XWXJmYXFzc3RlaEdNM3dZalh4R2w1UjB0RVJVWVlQTTNKSTBmWkh6SlJMcnhiaVVrMmN1dFBrSmExWHpHd1dMTXlZN3ZrZXF2R0R5X0xFM0VQcnE3cVM40gGnAUFVX3lxTE5TbUF1UWl4OWtJM2J1TXA2S0VnQmxmY25lTC1uYS1OOF9hUWtucFczSTZIcHdhTFB3cXk4ang5WlBFUUpQaUxhN0pLUUc1bjJVQXlqYjdnOC1nanJjNkhpYm5UTzM3dXh1Nzk2MWlWQzMwUkpibzlSNEQ2SWVlblhraWVoU1NnSVgxVDV5eHV4a1lJUHk2ZjRWQlI3ckhwUHhHU2g3UmJZ?oc=5",
           "traducida": false
-        },
-        {
-          "id": "ceabdf053966c45ab4d1",
-          "fecha": "2026-10-31T03:04:48+00:00",
-          "titulo": "Pune Airport bags top spot among 16 AAI airports in Q3 ACI-ASQ survey - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVzhBWDVVekVTRkVfNDNJcEdTR19DbGJKeWNZdTBTVHotVVhuMi1xcjJhSVB2TVBmM255UmVDTU9XckozbTAtX0ZqbkFrcW9iQ3pycDBGOEpnSHlrNUp4X25LTG8xRHVobnVMSEJpSFJraDdwWUJuVXYybFVBc1ZUdi1CSkxFV2R5U3dqVGRJYldENGJNMThndTJBNklDQjYzMGxLSUpWRzQ3MXJEbVHSAbQBQVVfeXFMUENFUkQ3M3NEOU9OR1h2Mk9URS0wZXd1blhuRHEwMUdwM3FoTE0tSVI4WGdTb1VicjN6Y2twMl9RS2ZfR0ppNVRqYnVhMV9MQkxieGR3b3BCYnR5Rks2RFlrd2xlRTJ3TWx5ZWlwaHdkSFhZNUgySXFFbWxUWHBoSUFEWkpKeC1xQXhtV1hwSlZWYVU4TmgzcEpjbjFabjNYbUw2b05DRF9ZWUNPVHdsYWVsYjFq?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "457c834aa4332134e93d",
-          "fecha": "2026-10-31T02:38:33+00:00",
-          "titulo": "Delhi Confidential: How TDP MPs are keeping tabs on Centre, Rahul Gandhi’s INDIA bloc gesture - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUXlhM1JRNTlFcXVPMDZuSmpkNHp3T01LTkVWTHBEbjBiVGczRGs0TmtTNTdpRVRDNXJiNjNGMjNNd2J6bWVkLTlPSnZfdUFydWhqVzlrREJLTnEzUkRsZUZheTVIV0pZT3VpUThabjZqaHVJOFN6THNUb3FxQUhfb19jWUQ2WE1RcVZrWkxVbWsxMTRQbEhpLVpCU3RlWEJmbDdZemdRQ0pXYW1uekE?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "1a26ce89dab12e449838",
-          "fecha": "2026-10-31T02:36:38+00:00",
-          "titulo": "Why Netanyahu is accusing Arab Parties of ‘stealing’ Israel election and what officials found - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcm1pRzdRdGIwcEc4XzNqejZ6WUdDSExHdTdaZ1VCbkkwRFFma0lwRHBlYjhHdHJEZUVqb3lyN1dpZTFaSmdsSjV0dUJwTGY0TVpPdnQ0NDlCdGFldDRNb0VLVlFzOG9sMkZ2QjBwSzlBaU5kSmEtTnhtOTJGX0pMdXJvdHM1SXlXS0ZBSXhwZVRTVnV3WkFyZ0tWdnQ5U3R1UEJCakRaZzZrTkFMeGtSZ21TdU1zV1hVZk9jSElHeUR0S0VvR0dJZm9tR0FudzZZV0xURFNKd9IB3gFBVV95cUxQYUNHYTNpMklKbkJFZnFXeWw0aVBVUl9ZM2R6SlBucEFDT1BrMmpyenV1SVJPQ3NxUm1IQmNxbjcwdXRnUGZlamk1VVdDNkYwNnV6eWJIMndKVFZ4RWc5R3JWMklySzRvUGFLTnVoWGEzZjFad3huYktQN0RKSzkwbExNLUNIbnBuUl9UUzlKRi1oQ0xfcEpVM0ZSSVBpR3FPeVFabWkyVnVUQmRGNTMtUlNhZERxamtSbDhsQjlackkyVkxKQTNjWW0yak81ejZOYzNaek9xR2FZdHo1c2c?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "8e8611842ca83b6a1b74",
-          "fecha": "2026-10-31T02:02:16+00:00",
-          "titulo": "The Indian chef who brought curry to America - then vanished",
-          "fuente": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/crm941n0413o?at_medium=RSS&at_campaign=rss",
-          "traducida": false
-        },
-        {
-          "id": "4ae0bd368cee004aa2e4",
-          "fecha": "2026-10-31T01:33:55+00:00",
-          "titulo": "India slams global energy disruptions through sanctions, chokepoints",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/india-slams-global-energy-disruptions-through-sanctions-chokepoints/article71648072.ece",
-          "traducida": false
-        },
-        {
-          "id": "4456aecfa6ef096c3b33",
-          "fecha": "2026-10-31T01:32:33+00:00",
-          "titulo": "Responsible or panicked? Meet the people around the world already preparing for crisis",
-          "fuente": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/ckreypn92w49o?at_medium=RSS&at_campaign=rss",
-          "traducida": false
-        },
-        {
-          "id": "1909d5b522cf0d1a45f8",
-          "fecha": "2026-10-31T01:30:54+00:00",
-          "titulo": "Amit Shah’s message to UP BJP workers: ‘Throw your resentment in the Gomti’ - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcm5fTVhiOFY1cjF5eURSaE1Sb0tVMUlvZWRuZzJXWFg0QXY4eEdWbmJCSy1wODhzZ05qR1BoVUJTMWtCeEJMUVJtZVBiNGU4ZU9OUkx2MHZ3c0wtZHF4ZDdid2ZtczdMdE9EaFhKNVo2Wkh2bVdjdi1ubll0dXA1VU5KRUdtbW0tRGtFSEJud2s4OXVySGRjdXMyTWhYcHZWd0Jfc2dIQXJaQdIBsAFBVV95cUxQOVRmaURDV0dhOG5YSkZuLWJBQjRZVzlWWFFaWlJnRGNBZmRyY0JuS19zWGZNS055d1RlM3hZcVg1c2ZUV0tkRURRdWJkSjBuSHNxYVBOdEpoZFgwVmo2aTJFbnMwZERYaVk0c1hDTTJveWFTaHo3M1hTZk1ja3RYZ2tCUGY1UTV2MEtnQ3hUOTcyamhZc2lGRE9nTVU2bEFnSWtYWTVqdno1QkJJRTY4bw?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "55d19446df3e7aade55c",
-          "fecha": "2026-10-31T01:30:07+00:00",
-          "titulo": "Dark past of Japan’s Unit 731 buried under airport expansion",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3372753/dark-past-japans-unit-731-buried-under-airport-expansion",
-          "traducida": false
-        },
-        {
-          "id": "1a730f9f6f92548cb4ed",
-          "fecha": "2026-10-31T01:19:42+00:00",
-          "titulo": "40 villas ‘at throwaway prices’, ‘favours’ to resort firm: Rajasthan clears probe against IAS officer - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMHJ3aTNRRWNOMUMyZ0Z3YnJaTTFRc1pEOGdqNlROWWNmZUw1RjZpbkdld1hLYk1kaktxSGp5WkZfRm1INkNjRzh6X2Q4Z2d6X0JkeklMOWQ1U1JBSC1JcFlDUm9WWXd0ZERtckd2akZYTVRpWnFFLVk5RDd1aHVZNWRwNjF1Zml4WGU4Tko4X3EwZUQ4YkxrZHNzLTBIeko0RnF2Vk5Ld1VVOFlSd2NRMEU3UlhqQjl6TkHSAcABQVVfeXFMTXl6Mkl6eGZicl9pR2xCempLVnQycENfanVjbURZb3BUaXBMbGV5WUtNZElDa0M0X1pPWHgzcDNrbk1Ld05nTmx1RVlYSmR6aFc4ajF1V2pvMmtRSU9vY2JsUFpZRDFOWVNoQmdVekx5YjAxenV4cnhVMm9vaXk3VEpZb09DNHI4aUI1aUs0RTFwRGdUUEMxcmt4QjdxSjRseGt3STJKbWRnWkJMb294SGwtVWVuSkZwd2RTaFQzY1gz?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "e154fab3dcb6817ef55a",
-          "fecha": "2026-10-31T01:15:55+00:00",
-          "titulo": "Sops, debt and Ed Sheeran song: At 60, why Punjab falls, Punjabi rises - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd3pNOUtDbk9zZmxPT3FTTU0weWhvRGhDZWxQcTNMdnBEYld3NTZFdXptVU5rVVdoX2xIaHFyNEc3bnNxcFJoNjRBbVdqSTdwNkt2VXFXbnpTSkM5Z0FMRzVKcXFxUEZzYXBhZUNibzhhWnNrNi05YVFLVnVWR1pPUVlqMlFqWEppZ1Rwckt0WURYbjF5QTlCUWhBeE9ObHZIejJRUjlTVG9VT3PSAbIBQVVfeXFMUC1QemVlWE5DS3JEMzZmMUR3Q3dRcl9ZOGZ4LUVjTm1xZ09NRmhwdUNmVW95ejAzLWtzZnV1ZHo2S0JEbm9fUW1CNzRQNTBTbDNlUDRjR211Y0V4TUdoNEtJNDlKbjFIUU9MTGRJZ1RFX0xKcjA4NzByM1l4enNDVjJ1bEQzemRxR2owTUlsem5Sb2M5VHdKakhacWlaMEZFS0dVRlJKM3ZTeVpYd09pZzRRdw?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "966ea230a00ff61af419",
-          "fecha": "2026-10-31T01:05:57+00:00",
-          "titulo": "In Israel, a deadlock & the difficulties of change - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOXVSajVDQXV1RUFRdU9BWk5GeUtqcGhjVmNrVENObnU4WHpyZk1KeVdrSlJ2VjRXZWx5eE8wSXJadkJMMkZudTR0ZktETjM2VTgybkE5ai12LVBjWWFYN2FVQjhQRktsY24zQWtsaEYzSmVDY1hyU2R3dXByRHIwanQ0ZVhmU09GVlNOVmZzY3dNcUFRWmMyUF9yM1ZCZ0I2VThmb3NzbVM4MUMwSFp30gG2AUFVX3lxTE11LW9HQkNza3V4QmJxcndIbXN4OHF2OVdJSnVXbWh3STdVLUdpZ1JTQ1J2aUQ5aU5MZjZyNXVHdEc5cXpUeU05Z1d4ajB1bDR4NWhSNGFUanBKajVlVTN4V2J1S2NyS291aGhZT2hKM2YxTk9maEtIQ2NpWTN4QW5zVnRnUWhpYUFZYnVCU2YtdzRwQUV2RUFmZTVmanBZQXVoS29sZ0pVSXkzSklHSERsRjVDUklB?oc=5",
-          "traducida": false
         }
       ]
     },
     {
       "id": "oriente-medio",
       "titulo": "Oriente Medio: seguridad y diplomacia",
-      "cantidad_archivada": 764,
+      "cantidad_archivada": 777,
       "nuevas_24h": 38,
-      "anteriores_24h": 64,
+      "anteriores_24h": 60,
       "dias_con_registros": 16,
-      "fecha_ultima": "2026-10-31T12:29:32+00:00",
+      "fecha_ultima": "2026-10-31T14:36:54+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "0099fc7852b1901be428",
+          "fecha": "2026-10-31T14:36:54+00:00",
+          "titulo": "Iran remains committed to Nuclear Non-Proliferation Treaty — foreign minister",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2211381",
+          "traducida": false
+        },
+        {
+          "id": "68de193e7d3d7d9385fd",
+          "fecha": "2026-10-31T14:35:57+00:00",
+          "titulo": "More than 100 protest against Palestine Action ban outside US embassy in London",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/uk-news/2026/oct/31/protest-against-palestine-action-ban-outside-us-embassy-in-london",
+          "traducida": false
+        },
+        {
+          "id": "86ed736fd2dd16783ab3",
+          "fecha": "2026-10-31T14:35:21+00:00",
+          "titulo": "Iran has no plans for direct meetings with US officials — foreign minister",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2211379",
+          "traducida": false
+        },
+        {
+          "id": "b76babf02b3652559a6f",
+          "fecha": "2026-10-31T14:32:41+00:00",
+          "titulo": "Iran demands reduction in US forces in region as condition for settlement — top diplomat",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2211377",
+          "traducida": false
+        },
+        {
+          "id": "ea39b3dca31cf0d19eb7",
+          "fecha": "2026-10-31T14:31:37+00:00",
+          "titulo": "Iran FM says US outreach a ‘positive step’ as delegation in Qatar for talks",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/31/iran-fm-says-us-outreach-a-positive-step-as-delegation-in-qatar-for-talks?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "a87f03fcfb7d76bcf55f",
+          "fecha": "2026-10-31T14:20:23+00:00",
+          "titulo": "Syria considering entry into Mecca defence pact, says foreign minister",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/31/syria-considering-entry-into-mecca-defence-pact-says-foreign-minister?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "6233b57528b6089b8c9d",
+          "fecha": "2026-10-31T14:16:26+00:00",
+          "titulo": "Iran’s supreme leader warns US, Israel against war",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3372847/irans-supreme-leader-warns-us-israel-against-war",
+          "traducida": false
+        },
+        {
+          "id": "a1fbd8d2ea4add5ae788",
+          "fecha": "2026-10-31T13:57:33+00:00",
+          "titulo": "Iran agrees to reopen Strait of Hormuz within two days if deal reached with US",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2211373",
+          "traducida": false
+        },
+        {
+          "id": "1a607d3699d8e604a400",
+          "fecha": "2026-10-31T13:48:07+00:00",
+          "titulo": "Iranian delegation arrives in Doha to discuss nuclear proposals",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2211371",
+          "traducida": false
+        },
+        {
+          "id": "2666017495684eded529",
+          "fecha": "2026-10-31T13:35:51+00:00",
+          "titulo": "Israel voted for Israel: Why Gaza wasn’t on the ballot",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/31/israel-voted-for-israel-why-gaza-wasnt-on-the-ballot?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "388766d0b707328d63fc",
+          "fecha": "2026-10-31T13:32:39+00:00",
+          "titulo": "Iran to respond to any threat regardless of geographical restrictions — supreme leader",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2211365",
+          "traducida": false
+        },
+        {
+          "id": "a6ca2f30c8a7e1f3faa8",
+          "fecha": "2026-10-31T12:31:44+00:00",
+          "titulo": "En Iran, Mojtaba Khamenei menace les Etats-Unis d’une « riposte sans limite géographique » en cas de nouveau bombardement",
+          "fuente": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/10/31/en-iran-mojtaba-khamenei-menace-les-etats-unis-d-une-riposte-sans-limite-geographique-en-cas-de-nouveau-bombardement_6803598_3210.html",
+          "traducida": false
+        },
         {
           "id": "4578c089b66ea58724cb",
           "fecha": "2026-10-31T12:29:32+00:00",
@@ -530,6 +626,14 @@
           "titulo": "Iran to determine war’s end in case of new assaults — country’s supreme leader",
           "fuente": "TASS",
           "url": "https://tass.com/world/2211359",
+          "traducida": false
+        },
+        {
+          "id": "caa117590bede6189f5e",
+          "fecha": "2026-10-31T12:22:45+00:00",
+          "titulo": "Iran lawmakers call for withdrawal from NPT: Will we have war or peace?",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/31/iran-lawmakers-call-for-withdrawal-from-npt-will-we-have-war-or-peace?traffic_source=rss",
           "traducida": false
         },
         {
@@ -651,123 +755,67 @@
           "fuente": "TASS",
           "url": "https://tass.com/world/2211305",
           "traducida": false
-        },
-        {
-          "id": "966ea230a00ff61af419",
-          "fecha": "2026-10-31T01:05:57+00:00",
-          "titulo": "In Israel, a deadlock & the difficulties of change - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOXVSajVDQXV1RUFRdU9BWk5GeUtqcGhjVmNrVENObnU4WHpyZk1KeVdrSlJ2VjRXZWx5eE8wSXJadkJMMkZudTR0ZktETjM2VTgybkE5ai12LVBjWWFYN2FVQjhQRktsY24zQWtsaEYzSmVDY1hyU2R3dXByRHIwanQ0ZVhmU09GVlNOVmZzY3dNcUFRWmMyUF9yM1ZCZ0I2VThmb3NzbVM4MUMwSFp30gG2AUFVX3lxTE11LW9HQkNza3V4QmJxcndIbXN4OHF2OVdJSnVXbWh3STdVLUdpZ1JTQ1J2aUQ5aU5MZjZyNXVHdEc5cXpUeU05Z1d4ajB1bDR4NWhSNGFUanBKajVlVTN4V2J1S2NyS291aGhZT2hKM2YxTk9maEtIQ2NpWTN4QW5zVnRnUWhpYUFZYnVCU2YtdzRwQUV2RUFmZTVmanBZQXVoS29sZ0pVSXkzSklHSERsRjVDUklB?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "2604df3fdefbd3b0d332",
-          "fecha": "2026-10-30T22:49:02+00:00",
-          "titulo": "Dem Rep on reports Trump plans to restart Iran war: ‘What the heck would the goal be?’ - CNN",
-          "fuente": "CNN",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQTdYbV9xSXNOOHZRWFZ1OHFrQ0xaM09LRm5DSmNjQzdOeTg2YmJDQlB3RjN5eDFydGViZnp0NTdHOXhkRnNMOGhPZ0FCNmNEM1lvWmsxa2R1SS1CaEhoYVBkOVhpc0pxdXNNQjhSU1k0NFlqZklSQk9RVHI2VEo1WGVZZTNaNUh4VWgyTFJYYzItaGlENjZPUldSNHliMkRUV2FaaHpManA5T21ON0VFaDF3WEYxZnEwLVVpQ1hWc1pQc0JXeXBDd1NiWE02Smt4SzZ2RU1TVHVnOThzTEdqRW40cw?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "5de20c77426187d1e9cd",
-          "fecha": "2026-10-30T21:21:39+00:00",
-          "titulo": "Trump in a ‘very disadvantaged position’ to negotiate with Iran, says John Kerry - CNN",
-          "fuente": "CNN",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBHdlQ1MnNlUFlhSHdDZDEwckJxTlhRTjNhS0tkOGFWSFhIMzNoR2JSa2o3S0NVUXlYbDJpaGN5cXJpQldRakllYUVJRUppR04takRiSkhlRWN2UzF2Zk1PcTB0b05Ndm1jenNURkRwbU8welNOUTJ3?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "7ffed34a4d6c2001b32b",
-          "fecha": "2026-10-30T18:55:36+00:00",
-          "titulo": "Pakistan army ‘cautiously optimistic’ about US-Iran mediation efforts",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/30/pakistan-army-cautiously-optimistic-about-us-iran-mediation-efforts?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "e05917d40d80413e91a3",
-          "fecha": "2026-10-30T18:35:44+00:00",
-          "titulo": "Israel demolishes homes of Palestinians blamed for attack on soldiers",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/30/israel-demolishes-homes-of-palestinians-blamed-for-attack-on-soldiers?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "f7a50b00bc156851cdd5",
-          "fecha": "2026-10-30T18:33:29+00:00",
-          "titulo": "Oman rescues 25 from burning oil tanker in Strait of Hormuz",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "24460a38ee06b5ce7325",
-          "fecha": "2026-10-30T17:52:05+00:00",
-          "titulo": "Trump did not discuss strikes on Iran with CENTCOM head on Thursday — Axios",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2211145",
-          "traducida": false
-        },
-        {
-          "id": "55c1676907679e90b824",
-          "fecha": "2026-10-30T16:44:16+00:00",
-          "titulo": "Turkic states press on with Asia-Europe transport projects as new opportunities emerge",
-          "fuente": "Euronews",
-          "url": "https://www.euronews.com/2026/10/30/turkic-states-press-on-with-asia-europe-transport-projects-as-new-opportunities-emerge",
-          "traducida": false
-        },
-        {
-          "id": "95c61155cae123bded22",
-          "fecha": "2026-10-30T15:50:23+00:00",
-          "titulo": "Jerusalem Daily: Israel’s siege on Hebron displaces thousands",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/jerusalem-daily-israels-siege-on-hebron-displaces-thousands?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "e3a945b8c588a53ea52f",
-          "fecha": "2026-10-30T15:17:00+00:00",
-          "titulo": "Oposição em Israel depende dos árabes para tirar Netanyahu do poder",
-          "fuente": "Agência Brasil (EBC)",
-          "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/oposicao-em-israel-depende-dos-arabes-para-tirar-netanyahu-do-poder",
-          "traducida": false
-        },
-        {
-          "id": "5125096aea2bf8d000c7",
-          "fecha": "2026-10-30T15:08:10+00:00",
-          "titulo": "Iran destroys enemy drone boat east of Strait of Hormuz — navy",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2211037",
-          "traducida": false
-        },
-        {
-          "id": "e19cf41dd441d2ffe10a",
-          "fecha": "2026-10-30T15:06:00+00:00",
-          "titulo": "Israeli forces blow up homes of Palestinians accused of killing soldiers",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/israeli-forces-blow-up-homes-of-palestinians-accused-of-killing-soldiers?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "b1c6d9da87d7c45c4ede",
-          "fecha": "2026-10-30T14:43:36+00:00",
-          "titulo": "Iran’s Revolutionary Guard reports three tankers on fire in Strait of Hormuz as talks continue",
-          "fuente": "Euronews",
-          "url": "https://www.euronews.com/2026/10/30/irans-revolutionary-guard-reports-two-tankers-on-fire-in-strait-of-hormuz-as-talks-continu",
-          "traducida": false
         }
       ]
     },
     {
       "id": "union-europea",
       "titulo": "Unión Europea y relaciones exteriores",
-      "cantidad_archivada": 369,
-      "nuevas_24h": 16,
-      "anteriores_24h": 23,
+      "cantidad_archivada": 375,
+      "nuevas_24h": 18,
+      "anteriores_24h": 22,
       "dias_con_registros": 16,
-      "fecha_ultima": "2026-10-31T12:09:22+00:00",
+      "fecha_ultima": "2026-10-31T13:28:03+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "9f6d7d4632a3e57b5604",
+          "fecha": "2026-10-31T13:28:03+00:00",
+          "titulo": "Youth protests begin in over 30 German cities as authorities warn of possible unrest",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2211363",
+          "traducida": false
+        },
+        {
+          "id": "64fe118bdf135383d843",
+          "fecha": "2026-10-31T13:18:33+00:00",
+          "titulo": "Claves de la nueva tasa de 2 euros a Shein, Temu y AliExpress: así funciona el recargo a las compras ‘online’ extracomunitarias",
+          "fuente": "El País",
+          "url": "https://elpais.com/economia/2026-10-31/claves-de-la-nueva-tasa-de-2-euros-a-shein-temu-y-aliexpress-asi-funciona-el-recargo-a-las-compras-online-extracomunitarias.html",
+          "traducida": false
+        },
+        {
+          "id": "82f160d130ce08b6d40d",
+          "fecha": "2026-10-31T13:00:06+00:00",
+          "titulo": "Soft power on display as China’s first lady Peng Liyuan hosts German counterpart",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3372840/soft-power-display-chinas-first-lady-peng-liyuan-hosts-german-counterpart",
+          "traducida": false
+        },
+        {
+          "id": "58d34a8bfaa7d27c80af",
+          "fecha": "2026-10-31T12:38:53+00:00",
+          "titulo": "France heads into third weekend of protests as youth-led rallies sweep Europe",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/france-heads-into-third-weekend-of-protests-as-youth-led-rallies-sweep-europe/article71649225.ece",
+          "traducida": false
+        },
+        {
+          "id": "330e75d7417a33f19292",
+          "fecha": "2026-10-31T12:22:49+00:00",
+          "titulo": "Paris steps up security as police patrol streets",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/paris-steps-up-security-as-police-patrol-streets?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "2164bef0aaee9d3561ef",
+          "fecha": "2026-10-31T12:21:12+00:00",
+          "titulo": "Cost-of-living protests spread to Germany on Halloween as France braces for fresh unrest - CNN",
+          "fuente": "CNN",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOFhCM1JCcUdQbW4wWl9QdXZIS3ZQbzdlRGNaenlpQnNuZGpYb3c0ZzdxNi1yd0NCYTlZZjhnUlFUMFZHa3htVy12U0NZTS1ISW5MTm1wNERkSGlnVmpDMlJYMV8xbU5wY2JmbHpUZ193Z3lhdFdaSDVGZW9aYlk0MnFB?oc=5",
+          "traducida": false
+        },
         {
           "id": "b9e718a99c9ff57744e1",
           "fecha": "2026-10-31T12:09:22+00:00",
@@ -959,54 +1007,6 @@
           "fuente": "CNN",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxMFpxQ1FPb1ZBaGdaSVhaMmt2S01WOGZLX0gxSkRsZElzbG9iaElUUU5pZUltY0RWTmMweTJ4VTY4MUVBR3dsMWkwbXd0ZXFYV3lkMjN4bHVYRVY0QmMzbXhia1N3RHJrQ0FIV0VhREF4eXRlakE?oc=5",
           "traducida": false
-        },
-        {
-          "id": "e3710dbf5f99614de4f2",
-          "fecha": "2026-10-30T03:15:06+00:00",
-          "titulo": "Hong Kong’s M+ forges new alliance with MoMA and Centre Pompidou to redefine museum loans",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/lifestyle/arts/article/3372366/hong-kongs-m-forges-new-alliance-moma-and-centre-pompidou-redefine-museum-loans",
-          "traducida": false
-        },
-        {
-          "id": "33334f82357fe4dda2f2",
-          "fecha": "2026-10-30T01:30:08+00:00",
-          "titulo": "France’s protests, like Hong Kong’s in 2019, risk being defined by violence",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/opinion/world-opinion/article/3372437/frances-protests-hong-kongs-2019-risk-being-defined-violence",
-          "traducida": false
-        },
-        {
-          "id": "85ee126d93f51be1de46",
-          "fecha": "2026-10-29T19:43:34+00:00",
-          "titulo": "EU considering Canada as ‘associate member’ despite internal opposition",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3372638/eu-considering-canada-associate-member-despite-internal-opposition",
-          "traducida": false
-        },
-        {
-          "id": "343b4731903c5a7992d0",
-          "fecha": "2026-10-29T19:29:15+00:00",
-          "titulo": "Left-wing Berlin mayor candidate’s private Hamas remarks complicate coalition talks",
-          "fuente": "POLITICO Europe",
-          "url": "https://www.politico.eu/article/berlin-mayor-candidate-elif-eralp-hamas-remarks-coalition-talks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "traducida": false
-        },
-        {
-          "id": "7b9ebd7053e226e751b5",
-          "fecha": "2026-10-29T17:46:38+00:00",
-          "titulo": "Brazil’s victory for the planet and democracy: seven lessons from Lula’s win",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/29/brazil-victory-planet-democracy-lessons-lula-win",
-          "traducida": false
-        },
-        {
-          "id": "c18929ef4b42042756ba",
-          "fecha": "2026-10-29T17:41:23+00:00",
-          "titulo": "Paris Jackson acusa al gestor del legado de su padre de incompetente y de intentar apropiarse de 100 millones de dólares: “Basta de cortinas de humo”",
-          "fuente": "El País",
-          "url": "https://elpais.com/us/entretenimiento/2026-10-29/paris-jackson-acusa-al-gestor-del-legado-de-su-padre-de-incompetente-y-de-intentar-apropiarse-de-100-millones-de-dolares-basta-de-cortinas-de-humo.html",
-          "traducida": false
         }
       ]
     },
@@ -1014,7 +1014,7 @@
       "id": "suramerica",
       "titulo": "Sudamérica: integración y política exterior",
       "cantidad_archivada": 237,
-      "nuevas_24h": 11,
+      "nuevas_24h": 9,
       "anteriores_24h": 13,
       "dias_con_registros": 16,
       "fecha_ultima": "2026-10-31T09:30:00+00:00",
@@ -1265,13 +1265,21 @@
     {
       "id": "eeuu-china",
       "titulo": "Competencia estratégica Estados Unidos–China",
-      "cantidad_archivada": 62,
+      "cantidad_archivada": 63,
       "nuevas_24h": 8,
       "anteriores_24h": 8,
       "dias_con_registros": 14,
-      "fecha_ultima": "2026-10-31T11:00:12+00:00",
+      "fecha_ultima": "2026-10-31T14:39:19+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "626beb974b866cd25e35",
+          "fecha": "2026-10-31T14:39:19+00:00",
+          "titulo": "HKT says US order ‘ceased’ as firm reportedly agrees to exit American market",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/hong-kong/politics/article/3372848/hkt-says-us-order-ceased-firm-reportedly-agrees-exit-american-market",
+          "traducida": false
+        },
         {
           "id": "245df81abc080df23ab1",
           "fecha": "2026-10-31T11:00:12+00:00",
@@ -1503,14 +1511,6 @@
           "fuente": "South China Morning Post",
           "url": "https://www.scmp.com/news/china/diplomacy/article/3372207/win-lula-boosts-chinas-foothold-and-gives-brazil-rare-earths-leverage",
           "traducida": false
-        },
-        {
-          "id": "87f26598c242a4e434f8",
-          "fecha": "2026-10-26T11:11:58+00:00",
-          "titulo": "Trump officials back Orbán bid for UN secretary-general, WSJ reports",
-          "fuente": "Euronews",
-          "url": "https://www.euronews.com/2026/10/26/trump-officials-back-orban-bid-for-un-secretary-general-wsj-reports",
-          "traducida": false
         }
       ]
     },
@@ -1518,8 +1518,8 @@
       "id": "onu",
       "titulo": "Naciones Unidas y multilateralismo",
       "cantidad_archivada": 38,
-      "nuevas_24h": 8,
-      "anteriores_24h": 2,
+      "nuevas_24h": 7,
+      "anteriores_24h": 1,
       "dias_con_registros": 12,
       "fecha_ultima": "2026-10-31T09:35:21+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
