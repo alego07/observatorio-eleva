@@ -1,5 +1,5 @@
 {
-  "actualizado_utc": "2026-11-01T16:56:17.987604+00:00",
+  "actualizado_utc": "2026-11-01T17:08:57.159230+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
@@ -257,13 +257,21 @@
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 1358,
-      "nuevas_24h": 51,
-      "anteriores_24h": 82,
+      "cantidad_archivada": 1359,
+      "nuevas_24h": 52,
+      "anteriores_24h": 80,
       "dias_con_registros": 17,
-      "fecha_ultima": "2026-11-01T16:27:43+00:00",
+      "fecha_ultima": "2026-11-01T16:56:34+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "9c5950341eaec958ce2e",
+          "fecha": "2026-11-01T16:56:34+00:00",
+          "titulo": "En Ukraine, les habitants d’Olechky évacués : « Nous ne savons pas où aller, mais une chose est sûre : nous survivrons »",
+          "fuente": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/01/en-ukraine-les-habitants-d-olechky-evacues-nous-ne-savons-pas-ou-aller-mais-une-chose-est-sure-nous-survivrons_6804529_3210.html",
+          "traducida": false
+        },
         {
           "id": "abf3c39ff6687482561e",
           "fecha": "2026-11-01T16:27:43+00:00",
@@ -494,14 +502,6 @@
           "titulo": "Ukraine loses 1.9% of its GDP since beginning of year due to explosions",
           "fuente": "TASS",
           "url": "https://tass.com/economy/2211485",
-          "traducida": false
-        },
-        {
-          "id": "42d4ad22497b16c8a763",
-          "fecha": "2026-11-01T06:23:30+00:00",
-          "titulo": "Germans become most frequent EU citizens to seek temporary asylum in Russia",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2211483",
           "traducida": false
         }
       ]
@@ -1267,7 +1267,7 @@
       "titulo": "Competencia estratégica Estados Unidos–China",
       "cantidad_archivada": 68,
       "nuevas_24h": 4,
-      "anteriores_24h": 8,
+      "anteriores_24h": 7,
       "dias_con_registros": 15,
       "fecha_ultima": "2026-11-01T14:00:11+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
