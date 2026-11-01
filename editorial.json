@@ -5686,7 +5686,11 @@
       },
       {
         "fecha": "2026-10-31",
-        "hecho": "Araghchi confirma recepción y revisión de carta de Vance; niega reuniones programadas con EE. UU.; informa mediación en Doha y condiciones para Ormuz."
+        "evento": "Araghchi confirma recepción y revisión de carta de Vance; niega reuniones programadas con EE. UU.; informa mediación en Doha y condiciones para Ormuz.",
+        "fuentes": [
+          8,
+          9
+        ]
       }
     ],
     "detalles": [
@@ -6432,37 +6436,103 @@
     "cronologia": [
       {
         "fecha": "2026-05-26",
-        "hecho": "Quad anuncia marco de cooperación sobre minerales críticos, reciclaje y diversificación de proveedores."
+        "evento": "Quad anuncia marco de cooperación sobre minerales críticos, reciclaje y diversificación de proveedores.",
+        "fuentes": [
+          4
+        ]
       },
       {
         "fecha": "2026-10-31",
-        "hecho": "Cancilleres se reúnen en Atlanta y emiten declaración de seguridad y prosperidad económica."
+        "evento": "Cancilleres se reúnen en Atlanta y emiten declaración de seguridad y prosperidad económica.",
+        "fuentes": [
+          0,
+          1
+        ]
       },
       {
         "fecha": "2026-11-18",
-        "hecho": "Reunión prevista de agencias de crédito a la exportación en Tokio, sujeta a realización futura."
+        "evento": "Reunión prevista de agencias de crédito a la exportación en Tokio, sujeta a realización futura.",
+        "fuentes": [
+          0
+        ]
       }
     ],
-    "detalles": "Se distinguen iniciativas en fase de anuncio (asistencia IA, identificación de cuellos de botella, foro empresarial) de misiones ya realizadas (observadores marítimos Chennai–Perth entre 25/09 y 07/10 según comunicado). No se atribuye a China una mención textual que no aparece.",
-    "juridico": "La invocación de libertad de navegación y CONVEMAR describe la posición jurídica del Quad; no sustituye una determinación de infracción ni establece obligación nueva para Perú. La cooperación en minerales debe analizarse bajo normas comerciales y regulatorias propias de cada país.",
+    "detalles": [
+      {
+        "titulo": "Iniciativas y grado de ejecución",
+        "texto": "El comunicado contiene asistencia de IA prevista (más de US$85 millones), compromiso de US$10 millones para reciclaje, identificación de vulnerabilidades de chips y un foro empresarial. Son anuncios de etapas diferentes; la misión marítima Chennai–Perth sí se describe como realizada.",
+        "fuentes": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "titulo": "La cumbre de líderes sigue sin fecha oficial confirmada",
+        "texto": "La declaración conjunta expresa expectativa de una próxima cumbre, sin fecha ni sede. El reportaje SCMP menciona Filipinas, pero no sustituye convocatoria oficial.",
+        "fuentes": [
+          0,
+          3
+        ]
+      },
+      {
+        "titulo": "Canal económico con Perú",
+        "texto": "MINCETUR documenta concentración exportadora en China e India. No se anunció participación de Perú en proyectos del Quad.",
+        "fuentes": [
+          0,
+          5
+        ]
+      }
+    ],
+    "juridico": [
+      {
+        "titulo": "Derechos de navegación",
+        "texto": "El Quad invoca el derecho internacional reflejado en CONVEMAR para rutas marítimas, sin determinar responsabilidad por incidentes concretos.",
+        "fuentes": [
+          0,
+          1
+        ]
+      },
+      {
+        "titulo": "Compromisos políticos y obligaciones",
+        "texto": "La declaración ministerial de coordinación no crea por sí sola obligaciones comerciales o militares para Perú ni establece una alianza de defensa colectiva.",
+        "fuentes": [
+          0,
+          4
+        ]
+      }
+    ],
     "teorias": [
       {
         "nombre": "Realismo y balanceo económico",
-        "mecanismo": "Redundancia de proveedores reduce dependencia de actor dominante y costo de coerción.",
-        "limite": "No demuestra intención ofensiva o coalición militar antichina."
+        "explicacion": "La diversificación de proveedores y cooperación marítima disminuye exposición a coerción, sin demostrar un plan ofensivo contra China.",
+        "fuentes": [
+          0,
+          2,
+          4
+        ]
       },
       {
         "nombre": "Interdependencia compleja",
-        "mecanismo": "Riesgos de cadenas concentradas se mitigan con reciclaje y nuevas capacidades tecnológicas.",
-        "limite": "Anuncios no garantizan producción efectiva."
+        "explicacion": "El reciclaje de minerales y la identificación de cuellos de botella de semiconductores pretenden reducir dependencia concentrada.",
+        "fuentes": [
+          0,
+          4
+        ]
       },
       {
         "nombre": "Institucionalismo",
-        "mecanismo": "Coordinación ministerial facilita proyectos conjuntos sin tratado de defensa colectiva.",
-        "limite": "Implementación depende de presupuestos, contratos y decisiones futuras."
+        "explicacion": "Reuniones ministeriales y proyectos conjuntos coordinan políticas sin tratado de defensa colectiva.",
+        "fuentes": [
+          0,
+          1
+        ]
       }
     ],
-    "teoria": "Realismo defensivo, interdependencia compleja e institucionalismo aplicado a seguridad económica.",
+    "teoria": {
+      "nombre": "Realismo defensivo, interdependencia compleja e institucionalismo",
+      "aplicacion": "La coordinación reduce riesgos de cadenas de suministro mediante financiación, reciclaje y vigilancia marítima, sin crear una alianza militar."
+    },
     "analisis_ia": {
       "autor": "ELEVA, contraste documental con asistencia de IA; fuentes primarias y reporteo diferenciados",
       "actualizado": "2026-11-01",
@@ -6563,7 +6633,7 @@
       }
     ],
     "lectura": "REALISMO DEFENSIVO: Ucrania intenta reducir la eficacia de ataques aéreos, aumentando el costo esperado para Rusia. MECANISMO DE COMPROMISO: financiar pedidos a largo plazo puede sostener capacidad futura, pero sin inventario entregado no cambia automáticamente el equilibrio de defensa inmediato. ECONOMÍA POLÍTICA DE LA DEFENSA: cuellos de botella de fabricación y demanda de aliados hacen que aprobación política y capacidad industrial sean variables distintas. ALIANZAS Y REPARTO DE CARGAS: Canadá, Alemania y Noruega contribuyen a financiar material estadounidense para un tercero, mecanismo distinto de participación militar directa. No se deduce la fecha efectiva de entrega ni resultado militar.",
-    "peru": "NO SE IDENTIFICÓ EFECTO BILATERAL DIRECTO PARA PERÚ: no participa en el contrato, ni hay decisión peruana anunciada. Relevancia diplomática por la seguridad europea y el derecho de legítima defensa del artículo 51 de la Carta de la ONU, sin resolver por sí solo la licitud de cada uso concreto de armas. Efectos económicos globales de la guerra pueden alcanzar mercados peruanos, pero esta aprobación no permite atribuir cambios de precios o gasto fiscal nacional.",
+    "peru": "NO SE IDENTIFICÓ EFECTO BILATERAL DIRECTO PARA Perú: no participa en el contrato, ni hay decisión peruana anunciada. Relevancia diplomática por la seguridad europea y el derecho de legítima defensa del artículo 51 de la Carta de la ONU, sin resolver por sí solo la licitud de cada uso concreto de armas. Efectos económicos globales de la guerra pueden alcanzar mercados peruanos, pero esta aprobación no permite atribuir cambios de precios o gasto fiscal nacional.",
     "limitaciones": "La comunicación oficial estadounidense fue contrastada a través de su reproducción en Reuters y AP; NO se localizó en esta revisión un documento DSCA/Departamento de Estado primario accesible que detalle número de caso, configuración final y cronograma. Reuters y AP son organizaciones periodísticas independientes, aunque comparten como origen el anuncio oficial para el hecho de aprobación. Guardian incorpora material de Reuters/AFP, por lo que no cuenta como tercera corroboración independiente de esos hechos. No se ha verificado firma de contrato, fabricación, fecha vinculante de entrega, transferencia de 500 unidades ni llegada a Ucrania. La estimación de entregas en años 2030 es reporte periodístico, no compromiso oficial.",
     "fuentes": [
       {
@@ -6595,37 +6665,103 @@
     "cronologia": [
       {
         "fecha": "2026-10-16",
-        "hecho": "Zelenski solicita públicamente paquete urgente de interceptores Patriot para el invierno."
+        "evento": "Zelenski solicita públicamente paquete urgente de interceptores Patriot para el invierno.",
+        "fuentes": [
+          2
+        ]
       },
       {
         "fecha": "2026-10-30",
-        "hecho": "Washington aprueba venta propuesta de 500 interceptores por US$2.100 millones."
+        "evento": "Washington aprueba venta propuesta de 500 interceptores por US$2.100 millones.",
+        "fuentes": [
+          0,
+          1
+        ]
       },
       {
         "fecha": "2026-10-31",
-        "hecho": "Zelenski agradece aprobación y pide acelerar transferencias; no se acredita entrega de las 500 unidades."
+        "evento": "Zelenski agradece aprobación y pide acelerar transferencias; no se acredita entrega de las 500 unidades.",
+        "fuentes": [
+          0,
+          3
+        ]
       }
     ],
-    "detalles": "Aprobación administrativa de venta ≠ contrato definitivo ≠ fabricación ≠ entrega ≠ operatividad. Se diferencia financiación anunciada de pagos efectivamente realizados y se mantiene la cifra US$2.100 millones como estimación pública.",
-    "juridico": "La transferencia de armamento sigue procesos estadounidenses de exportación y revisión congresual; la autorización reportada no es un tratado internacional ni prueba de recepción de material. El artículo 51 de la Carta de Naciones Unidas es relevante para la legítima defensa de Ucrania ante agresión armada, sin reemplazar el examen específico de normas de DIH sobre objetivos y empleo de armas.",
+    "detalles": [
+      {
+        "titulo": "Cinco etapas distintas de una venta de defensa",
+        "texto": "Aprobación de venta propuesta, revisión del Congreso, contratación, fabricación y entrega son etapas separadas. No se acreditó llegada de los 500 interceptores.",
+        "fuentes": [
+          0,
+          1
+        ]
+      },
+      {
+        "titulo": "Financiación y producción",
+        "texto": "Canadá, Alemania y Noruega figuran entre financiadores anunciados y Lockheed Martin como contratista principal; no se verificó desembolso ni cronograma contractual.",
+        "fuentes": [
+          0,
+          1
+        ]
+      },
+      {
+        "titulo": "Urgencia militar y desfase temporal",
+        "texto": "La Presidencia ucraniana pidió interceptores urgentes antes del anuncio. Reuters reporta que nueva producción puede tardar años, sin fecha vinculante comprobada.",
+        "fuentes": [
+          0,
+          2,
+          3
+        ]
+      }
+    ],
+    "juridico": [
+      {
+        "titulo": "Naturaleza de la aprobación de exportación",
+        "texto": "La autorización estadounidense de venta propuesta no equivale a tratado, entrega de material ni contrato definitivo. AP informa de revisión congresual.",
+        "fuentes": [
+          0,
+          1
+        ]
+      },
+      {
+        "titulo": "Legítima defensa y derecho internacional humanitario",
+        "texto": "El artículo 51 de la Carta de la ONU proporciona marco jurídico general de legítima defensa, sin resolver la licitud de cada ataque o empleo concreto de armas.",
+        "fuentes": [
+          0,
+          2
+        ]
+      }
+    ],
     "teorias": [
       {
         "nombre": "Realismo defensivo",
-        "mecanismo": "Interceptores reducen efectividad esperada de ataques si se entregan e integran.",
-        "limite": "Sin entrega no hay efecto operativo comprobado."
+        "explicacion": "Los interceptores podrían reducir la eficacia de ataques contra Ucrania una vez entregados e integrados; la autorización no produce ese efecto.",
+        "fuentes": [
+          0,
+          2
+        ]
       },
       {
-        "nombre": "Economía política de defensa",
-        "mecanismo": "Capacidad industrial limitada retrasa conversión de autorización en protección real.",
-        "limite": "Calendario de fabricación no publicado como obligación contractual."
+        "nombre": "Economía política de la defensa",
+        "explicacion": "Limitaciones industriales y múltiples compradores producen desfase entre decisión política y protección militar.",
+        "fuentes": [
+          0,
+          3
+        ]
       },
       {
         "nombre": "Reparto de cargas",
-        "mecanismo": "Aliados europeos y Canadá financian compras de tecnología estadounidense para Ucrania.",
-        "limite": "No se conoce desembolso efectivo ni asignación individual de cada donante."
+        "explicacion": "Aliados financian adquisiciones de material estadounidense para Ucrania, sin implicar despliegue directo de sus tropas.",
+        "fuentes": [
+          0,
+          1
+        ]
       }
     ],
-    "teoria": "Realismo defensivo y economía política de la industria militar.",
+    "teoria": {
+      "nombre": "Realismo defensivo y economía política de la defensa",
+      "aplicacion": "Una venta autorizada no aumenta defensa inmediata si faltan producción, transferencias y entrenamiento; financiación aliada reduce carga presupuestaria estadounidense."
+    },
     "analisis_ia": {
       "autor": "ELEVA, contraste documental con asistencia de IA; se separan autorizaciones, pronósticos y entregas",
       "actualizado": "2026-11-01",
