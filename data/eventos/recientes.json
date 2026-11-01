@@ -1,6 +1,55 @@
 {
-  "created_utc": "2026-11-01T17:19:01.849915+00:00",
+  "created_utc": "2026-11-01T18:03:44.196199+00:00",
   "events": [
+    {
+      "id": "a-45ced4ceabc515cbf06f",
+      "fecha": "2026-11-01",
+      "titulo_fuente": "Turquía propone a Ucrania acoger una nueva ronda de negociaciones con Rusia y Estados Unidos",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Diplomacia"
+      ],
+      "noticias": [
+        {
+          "id": "45ced4ceabc515cbf06f",
+          "titulo_original": "Turquía propone a Ucrania acoger una nueva ronda de negociaciones con Rusia y Estados Unidos",
+          "titulo_es": "",
+          "url": "https://elpais.com/internacional/2026-11-01/turquia-propone-a-ucrania-acoger-una-nueva-ronda-de-negociaciones-con-rusia-y-estados-unidos.html",
+          "fuente": "El País",
+          "pais": "España",
+          "fecha": "2026-11-01T14:59:43+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "El presidente ucranio, Volodímir Zelenski, asegura en Estambul estar dispuesto a reunirse con su homólogo ruso, Vladímir Putin",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "El País"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Rusia",
+        "Ucrania",
+        "Turquía"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 8,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos, Rusia, Ucrania",
+        "Ámbito: Diplomacia",
+        "Posible decisión institucional o negociación"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
     {
       "id": "a-7fdbe63d4a539c8eb9d2",
       "fecha": "2026-11-01",
@@ -241,48 +290,141 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-2619f61715d3be6bd992",
-      "fecha": "2026-10-31",
-      "titulo_fuente": "Trump to decide later on whether to invite Zelensky to G20 summit — Rubio",
-      "region": "Estados Unidos",
+      "id": "a-860d4f87664a35dd7c17",
+      "fecha": "2026-11-01",
+      "titulo_fuente": "Nearly 50 Ukrainian drones taken down over Russian regions during day",
+      "region": "Rusia-Ucrania",
       "temas": [
-        "Diplomacia"
+        "Seguridad y conflictos"
       ],
       "noticias": [
         {
-          "id": "2619f61715d3be6bd992",
-          "titulo_original": "Trump to decide later on whether to invite Zelensky to G20 summit — Rubio",
-          "titulo_es": "Trump decidirá más tarde si invitar a Zelensky a la cumbre del G20 — Rubio",
-          "url": "https://tass.com/world/2211397",
+          "id": "860d4f87664a35dd7c17",
+          "titulo_original": "Nearly 50 Ukrainian drones taken down over Russian regions during day",
+          "titulo_es": "Casi 50 drones ucranianos derribaron las regiones rusas durante el día",
+          "url": "https://tass.com/defense/2211577",
           "fuente": "TASS",
           "pais": "Rusia",
-          "fecha": "2026-10-31T17:53:17+00:00",
+          "fecha": "2026-11-01T17:57:29+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "US Secretary of State was speaking at a press conference following the G20 foreign ministers’ meeting in Atlanta, Georgia",
-          "resumen_es": "El Secretario de Estado de Estados Unidos habló en una conferencia de prensa tras la reunión de ministros del G20 en Atlanta, Georgia"
+          "resumen_original": "Russian air defense systems intercepted and destroyed 47 Ukrainian fixed-wing unmanned aerial vehicles ver the Belgorod, Nizhny Novgorod, Kursk, Kaluga, Tula, Voronezh, Smolensk, Rostov, and Moscow Regions",
+          "resumen_es": "Sistemas rusos de defensa aérea interceptados y destruidos 47 vehículos aéreos no tripulados ucranianos ver los Belgorod, Nizhny Novgorod, Kursk, Kaluga, Tula, Voronezh, Smolensk, Rostov y Moscú Regiones"
         }
       ],
       "fuentes": [
         "TASS"
       ],
       "actores_mencionados": [
-        "Estados Unidos",
+        "Rusia",
         "Ucrania"
       ],
       "fuentes_independientes": 1,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
       },
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 8,
+      "prioridad_orientativa": 6,
       "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos, Ucrania",
-        "Ámbito: Diplomacia",
+        "Actores relevantes: Rusia, Ucrania",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-3ba56f3fae090328f881",
+      "fecha": "2026-11-01",
+      "titulo_fuente": "Negotiators ‘braced for worst’ over US-Iran talks to reopen strait of Hormuz",
+      "region": "Oriente Medio",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "3ba56f3fae090328f881",
+          "titulo_original": "Negotiators ‘braced for worst’ over US-Iran talks to reopen strait of Hormuz",
+          "titulo_es": "Los negociadores \"fueron por lo peor\" sobre las conversaciones entre Estados Unidos y Irán para reabrir el estrecho de Hormuz",
+          "url": "https://www.theguardian.com/world/2026/nov/01/negotiators-braced-for-worst-over-us-iran-talks-to-reopen-strait-of-hormuz",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-01T17:49:28+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Indirect talks run into third day with Qatar trying to negotiate release of $6bn in Iranian assets that could lead to reopening of strait Officials from the Gulf states are “braced for the worst” as they wait for Washington’s response to an Iranian proposal that could reopen the strait of Hormuz before the US midterm elections on Tuesday. Indirect talks in Doha ran into a third day on Sunday, with Qatar trying to negotiate the release of more tha",
+          "resumen_es": "Las conversaciones indirectas se desarrollan en el tercer día con Qatar tratando de negociar la liberación de $6bn en activos iraníes que podrían conducir a la reapertura de los oficiales del estrecho de los estados del Golfo están “destrozados por lo peor” mientras esperan la respuesta de Washington a una"
+        }
+      ],
+      "fuentes": [
+        "The Guardian"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Irán"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos, Irán",
         "Posible decisión institucional o negociación"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-92b80558bb9d5ea8ac2e",
+      "fecha": "2026-11-01",
+      "titulo_fuente": "Ukraine defies Trump to resume attacks on Russian oil refineries",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Seguridad y conflictos",
+        "Energía y clima"
+      ],
+      "noticias": [
+        {
+          "id": "92b80558bb9d5ea8ac2e",
+          "titulo_original": "Ukraine defies Trump to resume attacks on Russian oil refineries",
+          "titulo_es": "Ucrania desafia a Trump a reanudar los ataques contra las refinerías de petróleo rusas",
+          "url": "https://www.theguardian.com/world/2026/nov/01/ukraine-defies-trump-resumes-attacks-russian-oil",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-01T17:20:18+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Kremlin says Kyiv is ‘simply ignoring’ US wishes days before midterm elections after reported strikes on two oil sites Ukraine has resumed its attacks on Russian oil refineries in defiance of pressure from Donald Trump ahead of the US midterm elections, with a ceasefire in the occupied town of Oleshky due to end late on Sunday. Russian state media said on Sunday Ukrainian long-range drones had set fire to the Kstovo refinery in Nizhny Novgorod ob",
+          "resumen_es": "Kremlin dice que Kyiv está ‘simply ignorando’ los deseos de EE.UU. días antes de las elecciones de mitad de período después de las huelgas reportadas en dos sitios petroleros Ucrania ha reanudado sus ataques a las refinerías de petróleo rusas en desafío de la presión de Donald Trump antes del mediados de Estados Unidos"
+        }
+      ],
+      "fuentes": [
+        "The Guardian"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Rusia",
+        "Ucrania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos, Rusia, Ucrania",
+        "Ámbito: Energía y clima, Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -1273,285 +1415,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-1d065465b709d79b320e",
-      "fecha": "2026-10-31",
-      "titulo_fuente": "G20 foreign ministers end Atlanta meeting without consensus on key issues",
-      "region": "China",
-      "temas": [
-        "Diplomacia",
-        "Comercio y finanzas"
-      ],
-      "noticias": [
-        {
-          "id": "1d065465b709d79b320e",
-          "titulo_original": "G20 foreign ministers end Atlanta meeting without consensus on key issues",
-          "titulo_es": "",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3372855/g20-foreign-ministers-end-atlanta-meeting-without-consensus-key-issues",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-10-31T19:32:58+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "As Washington seeks to loosen China’s dominance over critical minerals, US Secretary of State Marco Rubio urged other members of the Group of 20 (G20) to strengthen supply chains and secure strategic trade routes as the group’s foreign ministers’ meeting drew to a close in Atlanta on Saturday. Rubio said there was a “universal recognition” among the G20 members over the importance of issues like critical minerals, supply chain security and freedo",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "South China Morning Post"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "China"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: China, Estados Unidos",
-        "Ámbito: Comercio y finanzas, Diplomacia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-8d934bd9e09e6708674b",
-      "fecha": "2026-10-31",
-      "titulo_fuente": "Trump considers Russia’s participation in G20 discussions important — Rubio",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Diplomacia"
-      ],
-      "noticias": [
-        {
-          "id": "8d934bd9e09e6708674b",
-          "titulo_original": "Trump considers Russia’s participation in G20 discussions important — Rubio",
-          "titulo_es": "Trump considera importante la participación de Rusia en las discusiones del G20 — Rubio",
-          "url": "https://tass.com/world/2211407",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-31T18:18:17+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "US Secretary of State said that at a press conference following the G20 foreign ministers’ meeting in Atlanta, Georgia",
-          "resumen_es": "El Secretario de Estado de Estados Unidos dijo que en una conferencia de prensa tras la reunión de ministros del G20 en Atlanta, Georgia"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos, Rusia",
-        "Ámbito: Diplomacia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-b2ccd3d61fddc1bc5ebd",
-      "fecha": "2026-10-31",
-      "titulo_fuente": "US not claiming negotiated Ukraine settlement anywhere close — Rubio",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Diplomacia"
-      ],
-      "noticias": [
-        {
-          "id": "b2ccd3d61fddc1bc5ebd",
-          "titulo_original": "US not claiming negotiated Ukraine settlement anywhere close — Rubio",
-          "titulo_es": "Estados Unidos no reclama el acuerdo negociado Ucrania cerca — Rubio",
-          "url": "https://tass.com/world/2211405",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-31T18:17:22+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "US Secretary of State said that at a press conference following the G20 foreign ministers’ meeting in Atlanta, Georgia",
-          "resumen_es": "El Secretario de Estado de Estados Unidos dijo que en una conferencia de prensa tras la reunión de ministros del G20 en Atlanta, Georgia"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Ucrania",
-        "Ámbito: Diplomacia",
-        "Posible decisión institucional o negociación"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-af1ef6ed6a2ca33ce2b3",
-      "fecha": "2026-10-31",
-      "titulo_fuente": "Russia’s FSB says U.S. warned Russia of possible Moscow attack",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "af1ef6ed6a2ca33ce2b3",
-          "titulo_original": "Russia’s FSB says U.S. warned Russia of possible Moscow attack",
-          "titulo_es": "El FSB de Rusia dice que EE.UU. advirtió a Rusia del posible ataque de Moscú",
-          "url": "https://www.thehindu.com/news/international/russias-fsb-says-us-warned-russia-of-possible-moscow-attack/article71650748.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-10-31T18:11:20+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The ‌U.S. Embassy had warned that extremists ​had imminent plans for an attack in Moscow",
-          "resumen_es": "La Embajada de Estados Unidos había advertido que los extremistas tenían planes inminentes para un ataque en Moscú"
-        }
-      ],
-      "fuentes": [
-        "The Hindu"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos, Rusia",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-59be803f615f342fcde0",
-      "fecha": "2026-10-31",
-      "titulo_fuente": "Rubio, Lavrov discuss possible Putin-Trump meeting on APEC sidelines",
-      "region": "Estados Unidos",
-      "temas": [
-        "Diplomacia"
-      ],
-      "noticias": [
-        {
-          "id": "59be803f615f342fcde0",
-          "titulo_original": "Rubio, Lavrov discuss possible Putin-Trump meeting on APEC sidelines",
-          "titulo_es": "Rubio, Lavrov discutir la posible reunión de Putin-Trump en APEC sidelines",
-          "url": "https://tass.com/world/2211403",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-31T17:59:02+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "US Secretary of State said that at a press conference following the G20 foreign ministers’ meeting in Atlanta",
-          "resumen_es": "El Secretario de Estado de Estados Unidos dijo que en una conferencia de prensa tras la reunión de ministros del G20 en Atlanta"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos, Rusia",
-        "Ámbito: Diplomacia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-bebc9e7f9e078368da6e",
-      "fecha": "2026-10-31",
-      "titulo_fuente": "Lavrov raises ship seizures, sanctions, asset freezes at G20 meeting",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Diplomacia",
-        "Seguridad y conflictos",
-        "Comercio y finanzas"
-      ],
-      "noticias": [
-        {
-          "id": "bebc9e7f9e078368da6e",
-          "titulo_original": "Lavrov raises ship seizures, sanctions, asset freezes at G20 meeting",
-          "titulo_es": "Lavrov plantea incautaciones de buques, sanciones, congelación de activos en la reunión del G20",
-          "url": "https://tass.com/politics/2211401",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-31T17:54:38+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Russian Foreign Minister outlined Russia’s views on sources of global tensions, \"particularly in areas critical to the global economy: energy and food security, and the stable functioning of supply chains and shipping routes on an open and non-discriminatory basis\"",
-          "resumen_es": "El Ministro de Relaciones Exteriores ruso expuso las opiniones de Rusia sobre las fuentes de tensiones mundiales, \"en particular en las esferas críticas a la economía mundial: la seguridad energética y alimentaria, y el funcionamiento estable de las cadenas de suministro y las rutas de transporte en una economía abierta y abierta"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia",
-        "Ámbito: Comercio y finanzas, Diplomacia",
-        "Posible decisión institucional o negociación"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-4b60890103c55d048284",
       "fecha": "2026-11-01",
       "titulo_fuente": "‘Epstein Files’: U.S. Judge dismisses Trump lawsuit against Wall Street Journal",
@@ -1644,6 +1507,187 @@
       "motivos_seleccion": [
         "Cobertura de fuentes distintas",
         "Actores relevantes: Estados Unidos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-e846b83b8dcc7286796f",
+      "fecha": "2026-11-01",
+      "titulo_fuente": "Detained teenager confesses to promoting Nazism on TikTok — FSB video",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "e846b83b8dcc7286796f",
+          "titulo_original": "Detained teenager confesses to promoting Nazism on TikTok — FSB video",
+          "titulo_es": "Adolescente detenido confesa promover el nazismo en TikTok — video del FSB",
+          "url": "https://tass.com/politics/2211571",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-01T17:58:45+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The FSB said earlier that while checking US intelligence regarding a potential terror attack in Moscow, it detained a teenager who posted a video on TikTok threatening to commit a crime in Tsaritsyno Park",
+          "resumen_es": "El FSB dijo anteriormente que mientras revisaba la inteligencia estadounidense sobre un posible ataque terrorista en Moscú, detuvo a un adolescente que publicó un video sobre TikTok amenazando con cometer un crimen en el Parque Tsaritsyno"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Rusia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-8116306edcc5ddaf753f",
+      "fecha": "2026-11-01",
+      "titulo_fuente": "Iran rapidly changing its defense doctrine — supreme leader’s adviser",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "8116306edcc5ddaf753f",
+          "titulo_original": "Iran rapidly changing its defense doctrine — supreme leader’s adviser",
+          "titulo_es": "Irán cambia rápidamente su doctrina de defensa — el asesor supremo del líder",
+          "url": "https://tass.com/world/2211575",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-01T17:52:03+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "With the geography of threats no longer determining the geography of response, Mohammad Mokhber, and adviser to the Iranian supreme leader, said",
+          "resumen_es": "Con la geografía de las amenazas ya no se determina la geografía de la respuesta, Mohammad Mokhber, y asesor del líder supremo iraní, dijo"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Irán"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Irán",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-5f336808ed31baf4f0ef",
+      "fecha": "2026-11-01",
+      "titulo_fuente": "US First Lady hopes humanitarian mission in Slyoshki will promote lasting peace",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "5f336808ed31baf4f0ef",
+          "titulo_original": "US First Lady hopes humanitarian mission in Slyoshki will promote lasting peace",
+          "titulo_es": "La Primera Dama de Estados Unidos espera que la misión humanitaria en Slyoshki promueva una paz duradera",
+          "url": "https://tass.com/world/2211569",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-01T17:49:23+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Earlier, Russia and Ukraine agreed on a US First Lady Melania Trump-mediated ceasefire in Alyoshki to carry out a humanitarian operation",
+          "resumen_es": "Anteriormente, Rusia y Ucrania acordaron una primera dama de Estados Unidos Melania que Trump mediaba el alto el fuego en Alyoshki para llevar a cabo una operación humanitaria"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Rusia",
+        "Ucrania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos, Rusia, Ucrania"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-efe2e93a59435bc13b6a",
+      "fecha": "2026-11-01",
+      "titulo_fuente": "Russia’s security service detains a teenager planning a ‘terror attack’ after a US tip-off - CNN",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "efe2e93a59435bc13b6a",
+          "titulo_original": "Russia’s security service detains a teenager planning a ‘terror attack’ after a US tip-off - CNN",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBUSlFyaGluMFYycnpEVlhqakQzUTZERUx4RWRRQVZRZEVUbUlsbjV4SFVmM04ySEI5TFFnXzlhb2ZsR09nUUt5eEFtME11MEY5NDdnYThFUGJFdGM2OXFXQVJEenFmWlBaLWZ3SW5fUzlaR0VQNk1mSXc1SkJIUQ?oc=5",
+          "fuente": "CNN",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-01T17:19:40+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Russia’s security service detains a teenager planning a ‘terror attack’ after a US tip-off CNN",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "CNN"
+      ],
+      "actores_mencionados": [
+        "Rusia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia",
+        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -2392,18 +2436,6 @@
           "estado": "publicación periodística; corroboración pendiente",
           "resumen_original": "Four-year-old among eight Palestinians killed in Israeli drone attacks across the Gaza Strip.",
           "resumen_es": ""
-        },
-        {
-          "id": "53713a83e1ebc25ee110",
-          "titulo_original": "At least four Palestinians killed in Gaza as Israeli attacks continue",
-          "titulo_es": "Al menos cuatro palestinos muertos en Gaza mientras continúan los ataques israelíes",
-          "url": "https://www.aljazeera.com/news/2026/10/31/at-least-four-palestinians-killed-in-gaza-as-israeli-attacks-continue?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-10-31T17:49:23+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Israel carried out several attacks in Gaza, including shelling the Nuseirat refugee camp.",
-          "resumen_es": "Israel llevó a cabo varios ataques en Gaza, incluido el bombardeo del campamento de refugiados de Nuseirat."
         }
       ],
       "fuentes": [
@@ -2804,6 +2836,18 @@
           "titulo_original": "“Nobody’s listening”: 5 things Americans told me about the economy that Washington needs to hear - CNN",
           "titulo_es": "",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNU3JfR1N6c2hMck51UXE3b2JKV2JqblpUUi1iY1QtRGE2cVBJVWwxTklIbThUY3VwOVRFRndvdDFWWHVDa3lURXFaZjhoSmdkcjYyUGtEWDdTeHFrTXpKT3VmYWxNUjdkcTZWYlJtUjA1VGhqVFZYaWh1aEloNmVSbA?oc=5",
+          "fuente": "CNN",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-01T12:00:15+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "“Nobody’s listening”: 5 things Americans told me about the economy that Washington needs to hear CNN",
+          "resumen_es": ""
+        },
+        {
+          "id": "2f6430c11f11a6599f7d",
+          "titulo_original": "“Nobody’s listening”: 5 things Americans told me about the economy that Washington needs to hear - CNN",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRXFrbEZ3TWRkc0YzcWFDcEFMVmdwSnk4cl9BX3Ztb01rWTc2U2x2aGo0djBuckgwSGVLN2xKR2F5Smg1RDBLWnJXMWcxOVVFWGM1NXpMc2ZxMjJ6MThnM3pMVmJEeUd1ZkhCa29nOFU1eEJobVZZRFhsOUQ4WHpEeWdyOVRNdw?oc=5",
           "fuente": "CNN",
           "pais": "Estados Unidos",
           "fecha": "2026-11-01T12:00:15+00:00",
@@ -4441,6 +4485,51 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-cdbc7149b256ad581e34",
+      "fecha": "2026-10-31",
+      "titulo_fuente": "Reunited after 1,711 days: Oleshky evacuees return to Ukraine under Melania Trump-brokered ceasefire - CNN",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "cdbc7149b256ad581e34",
+          "titulo_original": "Reunited after 1,711 days: Oleshky evacuees return to Ukraine under Melania Trump-brokered ceasefire - CNN",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWlp1VkpkdHNsVlVWVk5QaFMwWFZTd2paUHY4X3FtNDhxWXBUTXA5ME45U1ZPTHhIRVJwVjI5SnhtNWpCQmFrVmdiZ1NyMlpIUWU3dGlqQU9UcW1PSE9UVUJ4OThOTXFBYzcxUjZ3QU1lajE4LWtfV0duZUNkbVlicDFpUUo4RzhYMV9jQUtDQ3RQUQ?oc=5",
+          "fuente": "CNN",
+          "pais": "Estados Unidos",
+          "fecha": "2026-10-31T23:39:22+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Reunited after 1,711 days: Oleshky evacuees return to Ukraine under Melania Trump-brokered ceasefire CNN",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "CNN"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Ucrania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos, Ucrania"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-6150842098611225c854",
       "fecha": "2026-10-31",
       "titulo_fuente": "Denmark works to undermine Russian positions — Russian ambassador",
@@ -4576,232 +4665,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-72b34d70406a8b34b477",
-      "fecha": "2026-10-31",
-      "titulo_fuente": "Rubio says U.S. not directly involved in Flavio Bolsonaro’s flight from Brazil",
-      "region": "Estados Unidos",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "72b34d70406a8b34b477",
-          "titulo_original": "Rubio says U.S. not directly involved in Flavio Bolsonaro’s flight from Brazil",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/news/international/rubio-says-us-not-directly-involved-in-flavio-bolsonaros-flight-from-brazil/article71650788.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-10-31T19:05:09+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Bolsonaro, who lost his bid to be president in the October 25 run-off vote, arrived with his family in the U.S. on October 28",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Hindu"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "Brasil"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Brasil, Estados Unidos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-10b8321ad52bcf403562",
-      "fecha": "2026-10-31",
-      "titulo_fuente": "Russia to remain reliable energy, food supplier — Lavrov at G20",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Diplomacia",
-        "Energía y clima"
-      ],
-      "noticias": [
-        {
-          "id": "10b8321ad52bcf403562",
-          "titulo_original": "Russia to remain reliable energy, food supplier — Lavrov at G20",
-          "titulo_es": "",
-          "url": "https://tass.com/politics/2211413",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-31T18:56:37+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Russian Foreign Minister said that at the G20 foreign ministers’ meeting in Atlanta",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia",
-        "Ámbito: Diplomacia, Energía y clima"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-db4b3599b29593ec1c95",
-      "fecha": "2026-10-31",
-      "titulo_fuente": "Evacuees of Russian-occupied Oleshky reunited with families",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "db4b3599b29593ec1c95",
-          "titulo_original": "Evacuees of Russian-occupied Oleshky reunited with families",
-          "titulo_es": "Evacuados de ocupación rusa Oleshky se reunió con familias",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_evacuees-from-oleshky-reunite-w-families-in-ukraine-311026?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-10-31T18:32:20+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Ukrainian residents evacuated from Russian-occupied city of Oleshky have arrived in Ukrainian-controlled territory.",
-          "resumen_es": "Los residentes ucranianos evacuados de la ciudad ocupada por Rusia de Oleshky han llegado a territorio controlado por Ucrania."
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera"
-      ],
-      "actores_mencionados": [
-        "Rusia",
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia, Ucrania"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-0319250c3fffb5a1ef52",
-      "fecha": "2026-10-31",
-      "titulo_fuente": "Virginia and DC sue to stop Trump’s arch as government looks to start construction",
-      "region": "Estados Unidos",
-      "temas": [
-        "Organismos multilaterales"
-      ],
-      "noticias": [
-        {
-          "id": "0319250c3fffb5a1ef52",
-          "titulo_original": "Virginia and DC sue to stop Trump’s arch as government looks to start construction",
-          "titulo_es": "Virginia y DC demandan parar el arco de Trump como el gobierno busca comenzar la construcción",
-          "url": "https://www.theguardian.com/us-news/2026/oct/31/trump-arch-lawsuits-dc-virginia",
-          "fuente": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-10-31T17:57:45+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Legal challenges to Donald Trump’s proposed memorial arch are mounting even as its construction is imminent The legal challenges to Donald Trump ’s proposed memorial arch are mounting, with the District of Columbia and Virginia suing in federal court on Saturday as the administration says construction could begin as early as next week. There are now three lawsuits calling for a halt to potential work on a monument that would rise 250ft (76 meters",
-          "resumen_es": "Los desafíos legales para el arco memorial propuesto por Donald Trump están aumentando incluso cuando su construcción es inminente Los desafíos legales para el arco memorial propuesto por Donald Trump están aumentando, con el Distrito de Columbia y Virginia demandando en alimentado"
-        }
-      ],
-      "fuentes": [
-        "The Guardian"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Institucionalismo liberal",
-        "pregunta": "¿Qué reglas, mecanismos de cooperación y límites institucionales afectan la decisión?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos",
-        "Ámbito: Organismos multilaterales"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-fa0116019f4e7fc1ee6a",
-      "fecha": "2026-10-31",
-      "titulo_fuente": "Russian forces hit cargo ship 37 km south of Odessa — Defense Ministry",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "fa0116019f4e7fc1ee6a",
-          "titulo_original": "Russian forces hit cargo ship 37 km south of Odessa — Defense Ministry",
-          "titulo_es": "Fuerzas rusas golpearon el buque de carga 37 km al sur de Odessa — Ministerio de Defensa",
-          "url": "https://tass.com/defense/2211383",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-31T17:50:11+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Russian forces continued drone strikes on vessels transporting military cargo",
-          "resumen_es": "Las fuerzas rusas continuaron con ataques de aviones no tripulados en buques que transportaban cargas militares"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-6c75f793862c21a3552c",
       "fecha": "2026-11-01",
       "titulo_fuente": "Bangladesh forms wage board as garment workers keep up protests",
@@ -4858,6 +4721,138 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-17259b19b7698dd6b555",
+      "fecha": "2026-11-01",
+      "titulo_fuente": "France opens ‘attempted murder’ probe over petrol bomb attacks on security forces",
+      "region": "Estados Unidos",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "17259b19b7698dd6b555",
+          "titulo_original": "France opens ‘attempted murder’ probe over petrol bomb attacks on security forces",
+          "titulo_es": "Francia abre la sonda “intento asesinato” sobre ataques con bombas de gasolina contra las fuerzas de seguridad",
+          "url": "https://www.scmp.com/news/world/europe/article/3372907/france-opens-attempted-murder-probe-over-petrol-bomb-attacks-security-forces",
+          "fuente": "South China Morning Post",
+          "pais": "Hong Kong",
+          "fecha": "2026-11-01T18:01:03+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "France on Sunday opened an attempted murder investigation after petrol bombs were thrown at security forces during Paris protests, as footage of an officer engulfed in flames sparked outrage. On Saturday, clashes erupted in Paris and other cities after hundreds of thousands of people staged a third weekend of protests against soaring living costs. The Paris police prefecture said several hundred rioters had attacked security forces with projectil",
+          "resumen_es": "Francia el domingo abrió un intento de investigación de asesinato después de lanzar bombas de gasolina contra las fuerzas de seguridad durante las protestas de París, ya que las imágenes de un oficial envuelto en llamas provocaron indignación. El sábado, erupción de enfrentamientos en París y otros"
+        }
+      ],
+      "fuentes": [
+        "South China Morning Post"
+      ],
+      "actores_mencionados": [
+        "Francia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-40e76b348e8208ea26ea",
+      "fecha": "2026-11-01",
+      "titulo_fuente": "How Rachel Reeves has mapped out the agenda for Andy Burnham’s government",
+      "region": "Europa",
+      "temas": [
+        "Diplomacia",
+        "Seguridad y conflictos",
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "40e76b348e8208ea26ea",
+          "titulo_original": "How Rachel Reeves has mapped out the agenda for Andy Burnham’s government",
+          "titulo_es": "Cómo Rachel Reeves ha trazado la agenda para el gobierno de Andy Burnham",
+          "url": "https://www.theguardian.com/politics/2026/nov/01/how-reeves-has-mapped-out-the-agenda-for-burnhams-government",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-01T17:47:42+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "On Brexit, devolution and investment, the former chancellor is eerily in tune with the man who sacked her Reeves says UK’s future is in the EU Which senior politician has argued that “Brexit did deep damage” and that the government seeks “not to turn back the clock but to look toward a new and stable, future relationship?” It was not Andy Burnham, who has been the torchbearer for thinking the unthinkable on Brexit since he became prime minister. ",
+          "resumen_es": "En el Brexit, la devolución y la inversión, el ex canciller está en sintonía con el hombre que le despidió Reeves dice que el futuro del Reino Unido está en la UE Lo que el político superior ha argumentado que “Brexit hizo profundo daño” y que el gobierno busca “n"
+        }
+      ],
+      "fuentes": [
+        "The Guardian"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Comercio y finanzas, Diplomacia"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-dc487d26d2f0f3cc6189",
+      "fecha": "2026-11-01",
+      "titulo_fuente": "Eleição nos Estados Unidos define futuro de Trump nesta terça-feira",
+      "region": "Estados Unidos",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "dc487d26d2f0f3cc6189",
+          "titulo_original": "Eleição nos Estados Unidos define futuro de Trump nesta terça-feira",
+          "titulo_es": "Elección en Estados Unidos define el futuro de Trump este martes",
+          "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/eleicao-nos-estados-unidos-define-futuro-de-trump-nesta-terca-feira",
+          "fuente": "Agência Brasil (EBC)",
+          "pais": "Brasil",
+          "fecha": "2026-11-01T17:44:00+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Os cerca de 210 milhões de eleitores dos Estados Unidos (EUA) vão às urnas na próxima terça-feira (3) para eleger todos os 435 deputados da Câmara dos Representantes, além de 35 das 100 cadeiras do Senado. Os estadunidenses ainda devem escolher governadores em 36 dos 50 estados do país. O resultado define o futuro do presidente Donald Trump na Casa Branca porque os democratas podem conquistar maioria no Congresso, o que teria repercussões polític",
+          "resumen_es": "Los cerca de 210 millones de votantes estadounidenses (EE.UU.) van a las urnas el próximo martes (3) para elegir a todos los 435 diputados de la Cámara de Representantes, además de 35 de las 100 escaños del Senado. Los estadounidenses todavía deben esco"
+        }
+      ],
+      "fuentes": [
+        "Agência Brasil (EBC)"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-0eaa8ded22528d065677",
       "fecha": "2026-11-01",
       "titulo_fuente": "Historic win, humongous challenges",
@@ -4897,6 +4892,49 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Actores relevantes: Brasil"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-991e23bd936f581c6d3a",
+      "fecha": "2026-11-01",
+      "titulo_fuente": "National Grid to site biggest substation on Teesside, near planned AI datacentre",
+      "region": "Europa",
+      "temas": [
+        "Seguridad y conflictos",
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "991e23bd936f581c6d3a",
+          "titulo_original": "National Grid to site biggest substation on Teesside, near planned AI datacentre",
+          "titulo_es": "National Grid a la subestación más grande del sitio en Teesside, cerca del centro de datos AI planificado",
+          "url": "https://www.theguardian.com/business/2026/nov/01/national-grid-to-site-biggest-substation-on-teesside-near-planned-ai-datacentre",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-01T17:10:52+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "New electricity generating capacity would enable north-east to attract investment for major datacentre projects National Grid has taken a step towards building Britain’s biggest electricity substation on Teesside, which could supply power to a vast neighbouring datacentre as the UK races to expand its AI infrastructure. Last week the company agreed to purchase 29.5 hectares (73 acres) of land at Dorman Point on a site owned by Teesworks, a local ",
+          "resumen_es": "La nueva capacidad de generación de electricidad permitiría atraer inversiones para los principales proyectos de centros de datos National Grid ha dado un paso hacia la construcción de la mayor subestación eléctrica británica en Teesside, que podría suministrar energía t"
+        }
+      ],
+      "fuentes": [
+        "The Guardian"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Comercio y finanzas, Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -5846,6 +5884,18 @@
           "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
           "resumen_original": "Warnock ‘nauseously optimistic’ about Democrats winning the midterms. CNN",
           "resumen_es": ""
+        },
+        {
+          "id": "7d39878782c2f1f916f6",
+          "titulo_original": "Warnock 'nauseously optimistic' about Democrats winning the midterms. - CNN",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNb29WcjdITEhUcUxmQXhvQjVjQVhVZHc0bkVEeEhiMW9JY0hDVTAyM0xiWW5wZTI3SWZXUEpnLURjRGNMbkVFbTZfUU03YVZ2aGNabDg0THBxTm54M0NMN0w1LWlHdUZqaUUzNzhSMm1lS042VXhUcE82VjItMFJmYnZ4ODBITFJtQmprQXBfY2Y?oc=5",
+          "fuente": "CNN",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-01T15:04:03+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Warnock 'nauseously optimistic' about Democrats winning the midterms. CNN",
+          "resumen_es": ""
         }
       ],
       "fuentes": [
@@ -6607,6 +6657,50 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-005c54c1ad6788e0a7d5",
+      "fecha": "2026-11-01",
+      "titulo_fuente": "Virender Sehwag on raising cricketer sons: ‘You will always be compared to your father’ - The Indian Express",
+      "region": "Asia-Pacífico",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "005c54c1ad6788e0a7d5",
+          "titulo_original": "Virender Sehwag on raising cricketer sons: ‘You will always be compared to your father’ - The Indian Express",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeTJXWU1zN1dqMlZkNHRMU2oxcEFUNFk3TF81T1loT3c0UU1pY0tUR3hUeVNKR2xQQkpzN2JtZngwN2ZkNm5wWjlXejZucjRBTXFIdHF4V0Jiem1nbWdfUGxyZmFwTFY1MUFOZ1RybFlQY05LSDRPbUJWcVBveXBkY2RCMnc0WGNYNllLdGxnOTlRLVE2RFNEcmxtZURoUXhHVkV4WFQxWUFBR1Z5eFFr0gG2AUFVX3lxTE5PSkJZVW4zV0JqWHRSMWJLdlY3MlBZVXhzRTdfSnlmVHd6cXZoeF96ckFNWXFMNHl1bVpPaFBoeGxldk5jdndKcFZuX1VHWXpaLVlCYjhqdXRZaHVmZVlfTkh0NTR4MGYxNlZydGYyaW91UkFiSFhla2hzeWNpZlZDMU5hcHhDa1YyUkxyMjE1cC12Yk5XeHh5Mnh2RFcydG84NnRoMFNULXlFTGp1dmlWRHJsci13?oc=5",
+          "fuente": "The Indian Express",
+          "pais": "India",
+          "fecha": "2026-11-01T12:24:37+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Virender Sehwag on raising cricketer sons: ‘You will always be compared to your father’ The Indian Express",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "The Indian Express"
+      ],
+      "actores_mencionados": [
+        "India"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: India"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-7a59bc59c8fc24cd427c",
       "fecha": "2026-11-01",
       "titulo_fuente": "‘Not here to make everyone happy’: Gautam Gambhir defends India’s selection calls - The Indian Express",
@@ -6774,95 +6868,6 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-d8d6d390e3c8c20c96e6",
-      "fecha": "2026-11-01",
-      "titulo_fuente": "Delhi’s mixed signals, Mumbai’s panic: RBI proposes blunt fix for the rupee - The Indian Express",
-      "region": "Asia-Pacífico",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "d8d6d390e3c8c20c96e6",
-          "titulo_original": "Delhi’s mixed signals, Mumbai’s panic: RBI proposes blunt fix for the rupee - The Indian Express",
-          "titulo_es": "Las señales mixtas de Delhi, el pánico de Mumbai: RBI propone una solución contundente para la rupia - El Expreso Indio",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU0VWaWVVenotdGtvUWtZRF9yZ0p5aXEtYkQ3bjVaV0dyQldWcmcxVk80YjRBdGo5bkw1M3g2MzZpZFJqMEFKMkhoelpJZHBxdmoxNWxldDZvdGJnQ3daZ1B4dlZIVkxvWGswSXBqWXAtNVgyTkFNbGpuM1Y1Vk9LYUFGQ1hfa0hIb1VteU15a0kzZUc10gGbAUFVX3lxTE5xVkpiMmlCUm1Ja0JPZjJHM0J4bnYzS21kYnpKOE9abHdIRS1SRUVqWUw3OWVIX2FYakpDbVRVYWJtVFVvOFBMTHZHWU9Tb3dlY0tuRFY5Y2ZiZjAxZ0M1X19NVm5YMmlBLTU4WjhlaW5ScjFEOGh2NllXLTdnMWZBR1VqQ3dYMlZCS3oyYXk4bVVZZUlWZjZBMHFz?oc=5",
-          "fuente": "The Indian Express",
-          "pais": "India",
-          "fecha": "2026-11-01T11:57:09+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Delhi’s mixed signals, Mumbai’s panic: RBI proposes blunt fix for the rupee The Indian Express",
-          "resumen_es": "Las señales mixtas de Delhi, el pánico de Mumbai: RBI propone una solución contundente para la rupia The Indian Express"
-        }
-      ],
-      "fuentes": [
-        "The Indian Express"
-      ],
-      "actores_mencionados": [
-        "India"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: India"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-731be355a02dfe06abb8",
-      "fecha": "2026-11-01",
-      "titulo_fuente": "A Gaza, des frappes israéliennes tuent huit personnes dont un enfant, selon la défense civile et les hôpitaux",
-      "region": "Oriente Medio",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "731be355a02dfe06abb8",
-          "titulo_original": "A Gaza, des frappes israéliennes tuent huit personnes dont un enfant, selon la défense civile et les hôpitaux",
-          "titulo_es": "",
-          "url": "https://www.lemonde.fr/international/article/2026/11/01/a-gaza-des-frappes-israeliennes-tuent-huit-personnes-dont-un-enfant-selon-la-defense-civile-et-les-hopitaux_6804236_3210.html",
-          "fuente": "Le Monde",
-          "pais": "Francia",
-          "fecha": "2026-11-01T11:48:01+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "De nouvelles frappes ont touché la bande de Gaza, dimanche, faisant huit morts. Plus de 1 500 Palestiniens ont été tués depuis le cessez-le-feu établi il y a un an, qu’Israël et le Hamas s’accusent mutuellement de violer.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Le Monde"
-      ],
-      "actores_mencionados": [
-        "Israel",
-        "Palestina"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Israel"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
