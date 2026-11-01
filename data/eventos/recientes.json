@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-11-01T18:03:44.196199+00:00",
+  "created_utc": "2026-11-01T18:28:50.209347+00:00",
   "events": [
     {
       "id": "a-45ced4ceabc515cbf06f",
@@ -285,6 +285,99 @@
         "Actores relevantes: China, Rusia",
         "Ámbito: Comercio y finanzas, Seguridad y conflictos",
         "Posible decisión institucional o negociación"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-4e2cf1c86adbc4956286",
+      "fecha": "2026-11-01",
+      "titulo_fuente": "Longest truce of Ukraine war, in Kherson region, set to end",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "4e2cf1c86adbc4956286",
+          "titulo_original": "Longest truce of Ukraine war, in Kherson region, set to end",
+          "titulo_es": "La más larga tregua de la guerra de Ucrania, en la región de Kherson, se puso fin",
+          "url": "https://www.scmp.com/news/world/russia-central-asia/article/3372908/longest-truce-ukraine-war-kherson-region-set-end",
+          "fuente": "South China Morning Post",
+          "pais": "Hong Kong",
+          "fecha": "2026-11-01T18:25:28+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The longest truce of the Ukraine war, brokered by US First Lady Melania Trump and limited to just the Kherson region, was set to end on Sunday evening after neither side announced an extension. The rare pause in fighting, which began early on Tuesday, enabled a humanitarian mission to the Russian-occupied city of Oleshky and came as the Ukraine war grinds through its fifth year. Neither side reported violations after the truce began, in what one ",
+          "resumen_es": "La tregua más larga de la guerra de Ucrania, corregida por la Primera Dama de Estados Unidos Melania Trump y limitada a la región de Kherson, se puso fin el domingo por la noche después de que ninguno de los dos anunciara una extensión. La rara pausa en la lucha, que comenzó temprano"
+        }
+      ],
+      "fuentes": [
+        "South China Morning Post"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Rusia",
+        "Ucrania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos, Rusia, Ucrania",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-fd44f2286edfe0045d5d",
+      "fecha": "2026-11-01",
+      "titulo_fuente": "António Guterres: “Una competición entre EE UU y China para crear armas con IA podría tener consecuencias devastadoras”",
+      "region": "China",
+      "temas": [
+        "Organismos multilaterales"
+      ],
+      "noticias": [
+        {
+          "id": "fd44f2286edfe0045d5d",
+          "titulo_original": "António Guterres: “Una competición entre EE UU y China para crear armas con IA podría tener consecuencias devastadoras”",
+          "titulo_es": "",
+          "url": "https://elpais.com/internacional/2026-11-01/antonio-guterres-una-competicion-entre-ee-uu-y-china-para-crear-armas-con-ia-podria-tener-consecuencias-devastadoras.html",
+          "fuente": "El País",
+          "pais": "España",
+          "fecha": "2026-11-01T18:19:28+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "El veterano político portugués y secretario general de Naciones Unidas, a punto de dejar el cargo, afirma sobre su reemplazo que le alegraría que fuera una mujer",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "El País"
+      ],
+      "actores_mencionados": [
+        "China",
+        "ONU"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Institucionalismo liberal",
+        "pregunta": "¿Qué reglas, mecanismos de cooperación y límites institucionales afectan la decisión?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: China, ONU",
+        "Ámbito: Organismos multilaterales"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -1367,151 +1460,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-9302ddf801a890a133ab",
-      "fecha": "2026-10-31",
-      "titulo_fuente": "Iran may withdraw from NPT if war resumes — security council secretary",
-      "region": "Oriente Medio",
-      "temas": [
-        "Diplomacia",
-        "Seguridad y conflictos",
-        "Organismos multilaterales"
-      ],
-      "noticias": [
-        {
-          "id": "9302ddf801a890a133ab",
-          "titulo_original": "Iran may withdraw from NPT if war resumes — security council secretary",
-          "titulo_es": "",
-          "url": "https://tass.com/world/2211423",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-31T20:55:00+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Mohsen Rezaei emphasized that the US must ensure Iran can exercise all the rights guaranteed by the Treaty on the Non-Proliferation of Nuclear Weapons before discussions on its nuclear program can begin",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Irán",
-        "ONU"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Irán, ONU",
-        "Ámbito: Diplomacia, Organismos multilaterales"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-4b60890103c55d048284",
-      "fecha": "2026-11-01",
-      "titulo_fuente": "‘Epstein Files’: U.S. Judge dismisses Trump lawsuit against Wall Street Journal",
-      "region": "Estados Unidos",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "4b60890103c55d048284",
-          "titulo_original": "‘Epstein Files’: U.S. Judge dismisses Trump lawsuit against Wall Street Journal",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/news/international/epstein-files-us-judge-dismisses-trump-lawsuit-against-wall-street-journal-over-epstein-letter/article71652110.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-11-01T06:55:24+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Donald Trump had sued for $10 billion after the newspaper’s story was published in July 2025 detailing the President’s alleged 2003 letter to Epstein, which apparently featured a drawing of a naked woman",
-          "resumen_es": ""
-        },
-        {
-          "id": "e5976f38079c1f10eb3e",
-          "titulo_original": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
-          "titulo_es": "",
-          "url": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-01T00:41:24+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book.",
-          "resumen_es": ""
-        },
-        {
-          "id": "ef175d0efdf5b31a3777",
-          "titulo_original": "Judge tosses Trump’s revised lawsuit over Wall Street Journal Epstein report - Politico",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWWFOdzlOb0IwbnVOeVAyOGhKUUlfdTY3ekJEbzVKZTE2S1RWZkZxZXlSb2VzWkRkUFIyamxuMDUxNkZvaXQzczdldVU1VnhBSi1EUVcxYVRKYmxmY0VJckk3Q0M4OEQ5WFhOZEpLamJ2b1lkcGstVV85TE5RQ0d6a2dCZGdTay0yWmg0?oc=5",
-          "fuente": "POLITICO US",
-          "pais": "Estados Unidos",
-          "fecha": "2026-10-31T21:14:00+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Judge tosses Trump’s revised lawsuit over Wall Street Journal Epstein report Politico",
-          "resumen_es": ""
-        },
-        {
-          "id": "3587e5d4b1484aec9e4c",
-          "titulo_original": "Judge tosses Trump’s lawsuit against Wall Street Journal again, this time for good - CNN",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcXNTWHF0Q2JBV0Z2Zm1kX0VwbHpQTENoSnpTeUYzMDRGdGxoU2dLWkhZX3E4Mm1MZV94TjkyZXRldEVOX1pDUm9QUUFnZGZLUFp1MDZaM3BsWnFKYVhESTJoaGFnWlhoTGVScVQ0SWszRFhBLW5JYXpPd1lhOTVKQm1tOUZUMXlUNHowUlBLZ0JBUQ?oc=5",
-          "fuente": "CNN",
-          "pais": "Estados Unidos",
-          "fecha": "2026-10-31T20:26:42+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Judge tosses Trump’s lawsuit against Wall Street Journal again, this time for good CNN",
-          "resumen_es": ""
-        },
-        {
-          "id": "6b98ace6695f304490d2",
-          "titulo_original": "Judge throws out Trump lawsuit against Wall Street Journal over Epstein birthday letter",
-          "titulo_es": "",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3372857/judge-throws-out-trump-lawsuit-against-wall-street-journal-over-epstein-birthday-letter",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-10-31T20:24:33+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Saying the US president was “grasping at straws”, a federal judge on Saturday threw out Donald Trump’s US$10 billion lawsuit against The Wall Street Journal and media mogul Rupert Murdoch over a story reporting on his ties to wealthy financier Jeffrey Epstein. US District Judge Darrin Gayles in Miami dismissed the suit with prejudice, ruling that the president did not prove the defendants made defamatory statements with actual malice as required ",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "BBC News",
-        "CNN",
-        "POLITICO US",
-        "South China Morning Post",
-        "The Hindu"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos"
-      ],
-      "fuentes_independientes": 5,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 5,
-      "motivos_seleccion": [
-        "Cobertura de fuentes distintas",
-        "Actores relevantes: Estados Unidos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-e846b83b8dcc7286796f",
       "fecha": "2026-11-01",
       "titulo_fuente": "Detained teenager confesses to promoting Nazism on TikTok — FSB video",
@@ -1648,6 +1596,51 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-518e4f22c8b7770e43c4",
+      "fecha": "2026-11-01",
+      "titulo_fuente": "Hebron siege continues for 10th day as Israel threatens wider offensive",
+      "region": "Oriente Medio",
+      "temas": [
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "518e4f22c8b7770e43c4",
+          "titulo_original": "Hebron siege continues for 10th day as Israel threatens wider offensive",
+          "titulo_es": "El asedio de Hebrón continúa durante 10 días mientras Israel amenaza una ofensiva más amplia",
+          "url": "https://www.aljazeera.com/news/2026/11/1/hebron-siege-continues-for-10th-day-as-israel-threatens-wider-offensive?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-01T17:30:45+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Hebron's economic losses surpass $3.8m as Israeli forces demolish West Bank homes and close hundreds of businesses.",
+          "resumen_es": "Las pérdidas económicas de Hebrón superan los 3,8 millones de dólares, ya que las fuerzas israelíes demolen viviendas de la Ribera Occidental y cierran cientos de negocios."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [
+        "Israel"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia compleja y economía política internacional",
+        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Israel",
+        "Ámbito: Comercio y finanzas"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-efe2e93a59435bc13b6a",
       "fecha": "2026-11-01",
       "titulo_fuente": "Russia’s security service detains a teenager planning a ‘terror attack’ after a US tip-off - CNN",
@@ -1661,6 +1654,18 @@
           "titulo_original": "Russia’s security service detains a teenager planning a ‘terror attack’ after a US tip-off - CNN",
           "titulo_es": "",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBUSlFyaGluMFYycnpEVlhqakQzUTZERUx4RWRRQVZRZEVUbUlsbjV4SFVmM04ySEI5TFFnXzlhb2ZsR09nUUt5eEFtME11MEY5NDdnYThFUGJFdGM2OXFXQVJEenFmWlBaLWZ3SW5fUzlaR0VQNk1mSXc1SkJIUQ?oc=5",
+          "fuente": "CNN",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-01T17:19:40+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Russia’s security service detains a teenager planning a ‘terror attack’ after a US tip-off CNN",
+          "resumen_es": ""
+        },
+        {
+          "id": "b7a1fed458f6880bc6e6",
+          "titulo_original": "Russia’s security service detains a teenager planning a ‘terror attack’ after a US tip-off - CNN",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTeUxLSklZQ3BFZ1pFOHFwTlZGbDYzZ2llUFlYdEJzMzQxRWwyN2RWWEtHVE9pSmxWME5LOUJPS2pXOU80ZDRUandYaFVZbzQ5WGhRYW4tSTNOdUR3TmhDWTlRSG9iSkFjMlh4WjBrVkoyZXNHR053eGxmdUpfejg?oc=5",
           "fuente": "CNN",
           "pais": "Estados Unidos",
           "fecha": "2026-11-01T17:19:40+00:00",
@@ -4620,51 +4625,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-a265891b949ac1a50c91",
-      "fecha": "2026-10-31",
-      "titulo_fuente": "Agreement reached on regular humanitarian missions — Russian ombudswoman",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "a265891b949ac1a50c91",
-          "titulo_original": "Agreement reached on regular humanitarian missions — Russian ombudswoman",
-          "titulo_es": "",
-          "url": "https://tass.com/society/2211421",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-10-31T20:28:56+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Yana Lantratova noted that this is a very important step",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia",
-        "Posible decisión institucional o negociación"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-6c75f793862c21a3552c",
       "fecha": "2026-11-01",
       "titulo_fuente": "Bangladesh forms wage board as garment workers keep up protests",
@@ -4721,6 +4681,64 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-4b60890103c55d048284",
+      "fecha": "2026-11-01",
+      "titulo_fuente": "‘Epstein Files’: U.S. Judge dismisses Trump lawsuit against Wall Street Journal",
+      "region": "Estados Unidos",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "4b60890103c55d048284",
+          "titulo_original": "‘Epstein Files’: U.S. Judge dismisses Trump lawsuit against Wall Street Journal",
+          "titulo_es": "",
+          "url": "https://www.thehindu.com/news/international/epstein-files-us-judge-dismisses-trump-lawsuit-against-wall-street-journal-over-epstein-letter/article71652110.ece",
+          "fuente": "The Hindu",
+          "pais": "India",
+          "fecha": "2026-11-01T06:55:24+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Donald Trump had sued for $10 billion after the newspaper’s story was published in July 2025 detailing the President’s alleged 2003 letter to Epstein, which apparently featured a drawing of a naked woman",
+          "resumen_es": ""
+        },
+        {
+          "id": "e5976f38079c1f10eb3e",
+          "titulo_original": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
+          "titulo_es": "",
+          "url": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-01T00:41:24+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book.",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "BBC News",
+        "The Hindu"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 2,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 3,
+      "motivos_seleccion": [
+        "Cobertura de fuentes distintas",
+        "Actores relevantes: Estados Unidos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-17259b19b7698dd6b555",
       "fecha": "2026-11-01",
       "titulo_fuente": "France opens ‘attempted murder’ probe over petrol bomb attacks on security forces",
@@ -4748,6 +4766,92 @@
       "actores_mencionados": [
         "Francia"
       ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-6919b64f6cb2c307a33f",
+      "fecha": "2026-11-01",
+      "titulo_fuente": "Réédition de « De la démocratie en Amérique » de Tocqueville : « Devrions-nous nous pencher sur l’évolution récente de la société états-unienne pour analyser comment meurent les démocraties ? »",
+      "region": "Estados Unidos",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "6919b64f6cb2c307a33f",
+          "titulo_original": "Réédition de « De la démocratie en Amérique » de Tocqueville : « Devrions-nous nous pencher sur l’évolution récente de la société états-unienne pour analyser comment meurent les démocraties ? »",
+          "titulo_es": "",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/01/reedition-de-de-la-democratie-en-amerique-de-tocqueville-devrions-nous-nous-pencher-sur-l-evolution-recente-de-la-societe-etats-unienne-pour-analyser-comment-meurent-les-democraties_6804534_3232.html",
+          "fuente": "Le Monde",
+          "pais": "Francia",
+          "fecha": "2026-11-01T18:00:10+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "A quelques jours des élections cruciales de mi-mandat qui se tiendront aux Etats-Unis le 3 novembre, les éditions Calmann-Lévy rééditent l’essai majeur d’Alexis de Tocqueville, « De la démocratie en Amérique » (1835). L’universitaire Dominique Schnapper, directrice d’études à l’Ecole des hautes études en sciences sociales, donne, dans une préface inédite à l’ouvrage, son analyse de la vie politique américaine sous le président Trump. Extraits.",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "Le Monde"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-a9b69dcdd86f7a898306",
+      "fecha": "2026-11-01",
+      "titulo_fuente": "Armed police start patrols in Sydney after Bondi Beach attack",
+      "region": "Europa",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "a9b69dcdd86f7a898306",
+          "titulo_original": "Armed police start patrols in Sydney after Bondi Beach attack",
+          "titulo_es": "Policía armada comienza patrullas en Sydney después del ataque a Bondi Beach",
+          "url": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-01T17:56:47+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival.",
+          "resumen_es": "La nueva unidad de policía es una medida de seguridad en respuesta al ataque mortal del año pasado en un festival de Hanukkah."
+        }
+      ],
+      "fuentes": [
+        "BBC News"
+      ],
+      "actores_mencionados": [],
       "fuentes_independientes": 1,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
@@ -6740,134 +6844,6 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Actores relevantes: India"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-9bfd9a8cc525c91024cd",
-      "fecha": "2026-11-01",
-      "titulo_fuente": "Ajay Jadeja on Samson: ‘Bowlers have figured him…technique has been exposed’ - The Indian Express",
-      "region": "Asia-Pacífico",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "9bfd9a8cc525c91024cd",
-          "titulo_original": "Ajay Jadeja on Samson: ‘Bowlers have figured him…technique has been exposed’ - The Indian Express",
-          "titulo_es": "Ajay Jadeja en Samson: Los dueños lo han imaginado... técnica ha sido expuesta ' - El Expreso Indio",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdGNVTkRMMHFCU3dfMnZwWXBtdVlXSXFvdkM3V1J5YlRlcXpPV1YwMGx5ZmVmcGN3OThJSTQxMnBYX1o4SFREUFcyYUlYSTByaEdCNzVOelp4SmE1dDIwOTZyVEw0Tld6NkpNU0hUQmU3b1ZJaWoyZ1lZOUV1UG1Ia3Z3cDBQbEJSY0poRklMSkNFZzUyS2d2QjBaVnFjMXZrTXVlME9reHd0a2pwcUdMeFRLa0R5Ukt3QlkwWVE2UTJranZMajBZVHpUYTTSAdMBQVVfeXFMT1FOWldvUW02WncwUDE1aWtwVU5wTWlwUzh4SmpDVUlDNVlsT0s2RXFsZGs5eFB2Q0ZlZEZtNElUMEpDVFhwd1dxM3RzRUFXTkN3NEpla0k1RXpULUE3WUhPcGxZSzVLRFplRDZFbzNGc2hGM0VHZ1BWeFZsOWUwV2I1RWxwLWRIMXZ6OHBsUkJkbmFGbGNuY1ZTV0ZLQnE1ek1uRXBCaWVvbU1jYXhxWFU5VndZWDJIbjFrMXZhVWlfX0lxYW5aeWdyOUtfeWFiS3FJMA?oc=5",
-          "fuente": "The Indian Express",
-          "pais": "India",
-          "fecha": "2026-11-01T12:14:59+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Ajay Jadeja on Samson: ‘Bowlers have figured him…technique has been exposed’ The Indian Express",
-          "resumen_es": "Ajay Jadeja en Samson: Los dueños lo han imaginado... técnica ha sido expuesta The Indian Express"
-        }
-      ],
-      "fuentes": [
-        "The Indian Express"
-      ],
-      "actores_mencionados": [
-        "India"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: India"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-84bb318d5552f862083b",
-      "fecha": "2026-11-01",
-      "titulo_fuente": "New public spending category PDEL is a welcome and could have big impact | Heather Stewart",
-      "region": "Internacional",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "84bb318d5552f862083b",
-          "titulo_original": "New public spending category PDEL is a welcome and could have big impact | Heather Stewart",
-          "titulo_es": "Nueva categoría de gasto público PDEL es una bienvenida y podría tener un gran impacto",
-          "url": "https://www.theguardian.com/business/2026/nov/01/pdel-preventative-departmental-expenditure-limit-",
-          "fuente": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-01T12:12:07+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The Preventative Departmental Expenditure Limit will be money ringfenced in the budget for preventive policies John Healey’s debut budget was far from a blockbuster, but it may come to be remembered for the birth of a plucky new character in the tax and spend universe – little PDEL. It may not have the charm of Disney’s Wall-E, but PDEL (pronounced P-Del), or preventative departmental expenditure limit, to give it its full name, marks a welcome, ",
-          "resumen_es": "El Límite de Expendición Departamental Preventiva será el dinero anulado en el presupuesto para políticas preventivas El presupuesto debut de John Healey estaba lejos de un blockbuster, pero puede llegar a ser recordado por el nacimiento de un nuevo personaje enorme i"
-        }
-      ],
-      "fuentes": [
-        "The Guardian"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-ddbcdd3f78f9927a9d7a",
-      "fecha": "2026-11-01",
-      "titulo_fuente": "Raphael Warnock Thinks America Needs a Spiritual Rebirth - Politico",
-      "region": "Internacional",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "ddbcdd3f78f9927a9d7a",
-          "titulo_original": "Raphael Warnock Thinks America Needs a Spiritual Rebirth - Politico",
-          "titulo_es": "Raphael Warnock Piensa que Estados Unidos necesita un renacimiento espiritual - Politico",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcWoyc3V2YS16azc4Z19uT2pnMlZLMjNBbkdTc1N2aDd3d0hEZ3pNNkRpZnpvaFZuV2c5Q1Y4MU5IVllWdEVMT1REZC1TSnpBQnF0clJmVmQ2bjJ2eU9oMXVOazI2NmJsWm5CT19tRHA5bWJWZWVwdndycmM4a0xKQV94NWZIOVF1YVhrUk91emhTbnRnb2p1Um1oZUgzSWlpZEFkbEo4RQ?oc=5",
-          "fuente": "POLITICO US",
-          "pais": "Estados Unidos",
-          "fecha": "2026-11-01T12:00:00+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Raphael Warnock Thinks America Needs a Spiritual Rebirth Politico",
-          "resumen_es": "Raphael Warnock Piensa que Estados Unidos necesita un renacimiento espiritual político"
-        }
-      ],
-      "fuentes": [
-        "POLITICO US"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
