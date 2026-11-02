@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-11-02T20:48:22.335391+00:00",
+  "created_utc": "2026-11-02T20:55:56.932807+00:00",
   "events": [
     {
       "id": "a-38df47d4cc6fa824f821",
@@ -1654,6 +1654,96 @@
       "motivos_seleccion": [
         "Cobertura de fuentes distintas",
         "Actores relevantes: Rusia, Ucrania"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-b839d1a73fec3e121c47",
+      "fecha": "2026-11-02",
+      "titulo_fuente": "What’s the future of the Western Sahara conflict?",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "b839d1a73fec3e121c47",
+          "titulo_original": "What’s the future of the Western Sahara conflict?",
+          "titulo_es": "¿Cuál es el futuro del conflicto del Sáhara Occidental?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/11/2/whats-the-future-of-the-western-sahara-conflict?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-02T20:43:44+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The UN is ending its peacekeeping mission in the disputed territory after the US and Russia blocked its extension.",
+          "resumen_es": "La ONU está terminando su misión de mantenimiento de la paz en el territorio en disputa después de que Estados Unidos y Rusia bloquearan su extensión."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [
+        "Rusia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-0ba2cf50b7380889b2f1",
+      "fecha": "2026-11-02",
+      "titulo_fuente": "US to suspend South Africa and Rwanda from duty-free trade access",
+      "region": "África",
+      "temas": [
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "0ba2cf50b7380889b2f1",
+          "titulo_original": "US to suspend South Africa and Rwanda from duty-free trade access",
+          "titulo_es": "Estados Unidos suspende a Sudáfrica y Rwanda del acceso libre de derechos",
+          "url": "https://www.aljazeera.com/economy/2026/11/2/us-to-suspend-south-africa-and-rwanda-from-duty-free-trade-access?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-02T20:38:04+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "South Africa to lose duty-free access, affecting $1.7bn worth of annual exports, including cars and farm products.",
+          "resumen_es": "Sudáfrica perderá el acceso libre de derechos, lo que afectará a 1,7 millones de dólares por concepto de exportaciones anuales, incluidos automóviles y productos agrícolas."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [
+        "Sudáfrica"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia compleja y economía política internacional",
+        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Ámbito: Comercio y finanzas",
+        "Posible decisión institucional o negociación"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -5092,18 +5182,6 @@
           "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
           "resumen_original": "Forged orders, big payouts: Army havildar faces court-martial The Indian Express",
           "resumen_es": ""
-        },
-        {
-          "id": "22e3a5625d1acc283263",
-          "titulo_original": "Forged orders, big payouts: Army havildar faces court-martial - The Indian Express",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPallvT2ZQRjF6OGlJSnRWbV84aTVWc1VWQmZ1S2luT0xGX0JiMF9QQVNxM3ExeWhPQ0wtTXdMbks2QzdvcEhZQVBCYTgxdEEyY202NW1VZFQxWGJIMi1xbEM5UWhMZHVuMS1Sc0ctTHEyN2tIYkZ1bjJEZGlGOFJab1RHalZNRWdnZVNmTWhpc2VjekxKOFlfWmozZHk5dHkySFZVMmRqLUNhV1hSc21OVXBfWEt2elRNVDJoYdIBwwFBVV95cUxNam1lMVdBUlFhSDNZWmNuZkN0MkM0ZnZhd2Z6clBFSVFBMUVnWEJYREZCUGlvc0FTQU1NTTA0TU54M2N3a0x6N0hUWkpQOUZFM1djeExfcUdMM0tUVnN1NXVySmFjdWJIcGw0U0ctdjZIRFFLSUwyZHJtRVJOcVFueThFUjNfdXNlYVNTRnZ5NjBtNDNRcVMzdThrWEtTMEstQ19CdS1MS0U4OHVPQVBNLXloV2dCdU5HUlRudmMtT0x3Xzg?oc=5",
-          "fuente": "The Indian Express",
-          "pais": "India",
-          "fecha": "2026-11-02T06:35:04+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Forged orders, big payouts: Army havildar faces court-martial The Indian Express",
-          "resumen_es": ""
         }
       ],
       "fuentes": [
@@ -6793,90 +6871,6 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Actores relevantes: Ucrania"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-346ef60f01cc5fa9a6af",
-      "fecha": "2026-11-02",
-      "titulo_fuente": "Anti-war activists block entry to US-used airbase in Britain",
-      "region": "Europa",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "346ef60f01cc5fa9a6af",
-          "titulo_original": "Anti-war activists block entry to US-used airbase in Britain",
-          "titulo_es": "",
-          "url": "https://tass.com/world/2212071",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-02T17:38:34+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "About ten people took part in the protest",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-96d8e8f38c99575faf2b",
-      "fecha": "2026-11-02",
-      "titulo_fuente": "World now more at risk of nuclear war than ever — expert",
-      "region": "Internacional",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "96d8e8f38c99575faf2b",
-          "titulo_original": "World now more at risk of nuclear war than ever — expert",
-          "titulo_es": "",
-          "url": "https://tass.com/world/2212069",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-02T17:37:39+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "According to historian Peter Kuznick, Pope Leo XIV could play an important role to prevent it, as he acts as the \"voice of peace and integrity internationally\"",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null

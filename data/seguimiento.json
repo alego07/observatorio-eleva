@@ -1,17 +1,25 @@
 {
-  "actualizado_utc": "2026-11-02T20:48:22.385866+00:00",
+  "actualizado_utc": "2026-11-02T20:55:56.984918+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 1450,
-      "nuevas_24h": 79,
+      "cantidad_archivada": 1451,
+      "nuevas_24h": 80,
       "anteriores_24h": 52,
       "dias_con_registros": 18,
-      "fecha_ultima": "2026-11-02T20:31:05+00:00",
+      "fecha_ultima": "2026-11-02T20:43:44+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "b839d1a73fec3e121c47",
+          "fecha": "2026-11-02T20:43:44+00:00",
+          "titulo": "What’s the future of the Western Sahara conflict?",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/11/2/whats-the-future-of-the-western-sahara-conflict?traffic_source=rss",
+          "traducida": false
+        },
         {
           "id": "5e7dd67865ea1a37f1ac",
           "fecha": "2026-11-02T20:31:05+00:00",
@@ -242,14 +250,6 @@
           "titulo": "Kiev is building up forces in three areas near Zaporozhye, expert says",
           "fuente": "TASS",
           "url": "https://tass.com/politics/2212027",
-          "traducida": false
-        },
-        {
-          "id": "8f7365c7c2221d4e3eaa",
-          "fecha": "2026-11-02T15:17:25+00:00",
-          "titulo": "Finnish president slams conversation with Putin as ‘element of deterrence’",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2212015",
           "traducida": false
         }
       ]
@@ -511,7 +511,7 @@
       "titulo": "Oriente Medio: seguridad y diplomacia",
       "cantidad_archivada": 889,
       "nuevas_24h": 57,
-      "anteriores_24h": 46,
+      "anteriores_24h": 45,
       "dias_con_registros": 18,
       "fecha_ultima": "2026-11-02T20:23:21+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -1015,7 +1015,7 @@
       "titulo": "Naciones Unidas y multilateralismo",
       "cantidad_archivada": 48,
       "nuevas_24h": 5,
-      "anteriores_24h": 4,
+      "anteriores_24h": 3,
       "dias_con_registros": 14,
       "fecha_ultima": "2026-11-02T18:58:41+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
