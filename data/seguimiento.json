@@ -1,17 +1,25 @@
 {
-  "actualizado_utc": "2026-11-02T20:32:13.927743+00:00",
+  "actualizado_utc": "2026-11-02T20:48:22.385866+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 1448,
-      "nuevas_24h": 78,
-      "anteriores_24h": 51,
+      "cantidad_archivada": 1450,
+      "nuevas_24h": 79,
+      "anteriores_24h": 52,
       "dias_con_registros": 18,
-      "fecha_ultima": "2026-11-02T20:23:12+00:00",
+      "fecha_ultima": "2026-11-02T20:31:05+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "5e7dd67865ea1a37f1ac",
+          "fecha": "2026-11-02T20:31:05+00:00",
+          "titulo": "Ukrainian National Guard chief clarifies nature of house where men held near Kiev",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2212117",
+          "traducida": false
+        },
         {
           "id": "9bcfdc55331da27bcd89",
           "fecha": "2026-11-02T20:23:12+00:00",
@@ -243,22 +251,14 @@
           "fuente": "TASS",
           "url": "https://tass.com/world/2212015",
           "traducida": false
-        },
-        {
-          "id": "fd91900f3d9532a17124",
-          "fecha": "2026-11-02T15:08:51+00:00",
-          "titulo": "Mission accomplished in Alyoshki, much-needed aid reaches people: Lantratova’s statements",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2212021",
-          "traducida": false
         }
       ]
     },
     {
       "id": "india-asia",
       "titulo": "India y Asia-Pacífico",
-      "cantidad_archivada": 740,
-      "nuevas_24h": 71,
+      "cantidad_archivada": 743,
+      "nuevas_24h": 74,
       "anteriores_24h": 90,
       "dias_con_registros": 18,
       "fecha_ultima": "2026-11-02T19:50:24+00:00",
@@ -393,6 +393,14 @@
           "traducida": false
         },
         {
+          "id": "02fc344fdf9f82003b48",
+          "fecha": "2026-11-02T12:52:56+00:00",
+          "titulo": "Popular Kerala preacher raped teen girl citing purification ritual, police say - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbUViYlN1aXlLZ3BhQVcwSkpmaWJtRHBhM0FrZ2Z4OV9NS05CV3hGbmdDNzVNV3hsYTJOR21jcE1mQlptWUZNMWRmcXZBTHRIQkwwLWhRbUtuTldWY3hXU1lpT1dhMzBOREYzUmk5WFV5ai01MXJFUDBoa1lQMHIyLWtnSW5HYmEyRlNqVGxmRjhFUjlsOFJqS1dfaGxKbU5Ebm1yZWloY2x4dmxxQVNMampIY3dXX2pxNmhLVGUxbnJLd9IByAFBVV95cUxPZ0RJNUw3cFhEU0pyeXNrVTA5bkZDU3FEek5FR1pHRHI0WVdjVjd3Vkl3RVhhTUM1aDVwNEs2MHE3WEZ3Y21NYnAyZmpsbzlGVW1jemJ0QVZIRURqVU91cUJMdXEwR0NEUXVIOVUxa3JHQkZGaDhIWVBYOTdFRWVLcFZwWURkenFHaDRSTWZiaEpNZE84eW5kTGs4Sjctbk5ZNnlMNlpRZDcwRURxcVdIZDBhZmJETXFyWXlXb1k4bzVnR2lhdjlSWg?oc=5",
+          "traducida": false
+        },
+        {
           "id": "f8a3ffe293bcc03d8b62",
           "fecha": "2026-11-02T12:32:17+00:00",
           "titulo": "Russian oil shipments to India reached nearly 2 mln bpd in October",
@@ -489,19 +497,11 @@
           "traducida": false
         },
         {
-          "id": "28cf821644b28c6d6644",
-          "fecha": "2026-11-02T09:54:10+00:00",
-          "titulo": "Free Finland trip for singles? World’s happiest country is offering an all-expenses-paid blind dating experience - The Indian Express",
+          "id": "de944fe6cddcdab63be0",
+          "fecha": "2026-11-02T09:55:10+00:00",
+          "titulo": "BJP snaps at actor Dia Mirza’s crackers-free Diwali video; she says ‘paise nahi liye’ - The Indian Express",
           "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdk11UVR5Q0NOWEF3YWxhNmVLYUpVWmpHOER1TGJ6OUZUTXlyYVVadUdYSFIzZk00aHgtVVEwSXh6N0pUanJ3ek1FQl9CaU5IUm5nWlhRLVJQRVB2d0J5MmNpZ2xhcldTOXdpRVlFT3BwcWNUS2t1NV9vU2VYdkFvZzZXUC1xRVdkQ3ZQdXVZQzctMUQxOFJKSkc1cThPOVJnSDM2VmtvaVpqaEctS2NLbTV0dWrSAbsBQVVfeXFMUHZYYlVQZzAxMFhla2NCS3JvSGVQODZyZTJRRkZpT3ZaeDZfQ0otSmozVTZCQU92cE91UWVJT3ZIOU9tYVFWSkN1S0JlZU0tYVJZOVVncFFTNWR2QjRBYk1mVjh0T0xjQ3l1cDYtSVNSdmxfRVFidXJNS1NzRW9SWG83dXVlRFJNTzhYSUZRQVB0a3JOSWp6b1ctUHhod1d1Q1BhVzQ5X3gxUDNtS1BFeFExbHd5Sjh2MXBkYw?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "287b89502511d45acb7c",
-          "fecha": "2026-11-02T09:41:15+00:00",
-          "titulo": "Israel election results: Why Netanyahu remains PM as Arab parties emerge as kingmakers - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMWlvLWJqM2Nhc2RBd0FkemswYnhVRmxEX1NJVGhUNWNHS0cwVVYzeURrN1FlY0lfaXpjT1RUM0xiM2YwTEFnc1NSdFZ0dkhXdF9UNy1sYzZtdGRpempmTXRXcWpFWnpic0hwRXdaSEsxMXlRMzR3Y1pKZUE3TV9CWXJuSFlwTE5ldDdRVzdmTVpYRU9qWU1ieTkwWTY1WnlzQVg4MGNsek9GTXhiZkdHbmJfdDJ2Ykp6TUk3a3FFUUF4VWJJR2NxLWREcWZ4MHdUNEhicGh3UHJoU1HSAeIBQVVfeXFMTzI2UDRwdmN6LThsR3Rxc3h3T21xamZIR0F0QWhLSHFlbC1OZTF1c0ZQN3pvOXc2cGtVTUxyUjlFLUVQc1VPM05SMVNnTVZOM3ZpXzFzMlZaV3ZyUmRmX2VCanBQV2xjX1FwSHZZaTNaVFVSVVBkVW9fTFRKVmd3SXZ2aFVBa2xFLUJlc3BBX1l1U0ItNEJ6X3dEYjktS3E2bFZiMkg5YWNKS0dzRjBQUWpXc1ZpTk1rV1hSZzJLUDFra1BjV3JDSHJHeTlHdFZtSWVRMFBmelhyV2xYUzhkM3hzZw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSlA5WFMwTE5nZnMwS3oxWExEdXpFQ094Slo1Sm1sUWRxWUpvZGpWS1NqZjFEWTdYYnNaSlhtUVE1XzVWeVdkbkdTVVpiV2F3N1ZOMlVJVFBQNVktUkNybUJwMkVUVFh0Zmp0VzBlT2FkZlZzRWYzUTRLYk94c0pJNEgyb2pFd2U2VDM3aXppSGlWSUlLWGswNV9BNFlxQ1NteUYtc0VDUVU0V0p6ZXVqSFVQMFFPMDIteWlsWjRDS2RXS3FLRHUzSzI0dw?oc=5",
           "traducida": false
         }
       ]
@@ -510,7 +510,7 @@
       "id": "oriente-medio",
       "titulo": "Oriente Medio: seguridad y diplomacia",
       "cantidad_archivada": 889,
-      "nuevas_24h": 58,
+      "nuevas_24h": 57,
       "anteriores_24h": 46,
       "dias_con_registros": 18,
       "fecha_ultima": "2026-11-02T20:23:21+00:00",
