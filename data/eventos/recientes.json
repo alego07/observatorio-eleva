@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-11-02T21:54:10.283168+00:00",
+  "created_utc": "2026-11-02T22:23:44.028651+00:00",
   "events": [
     {
       "id": "a-f34573222e646c13a538",
@@ -43,6 +43,128 @@
       "motivos_seleccion": [
         "Actores relevantes: Estados Unidos, Irán",
         "Ámbito: Seguridad y conflictos",
+        "Posible decisión institucional o negociación"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-31d1eb275ac064d0c8ea",
+      "fecha": "2026-11-02",
+      "titulo_fuente": "Netanyahu is pressing Trump to attack Iran after US midterm elections, officials say",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "31d1eb275ac064d0c8ea",
+          "titulo_original": "Netanyahu is pressing Trump to attack Iran after US midterm elections, officials say",
+          "titulo_es": "Netanyahu está presionando a Trump para atacar a Irán después de las elecciones de mitad de período estadounidenses, dicen los funcionarios",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3373046/netanyahu-pressing-trump-attack-iran-after-us-midterm-elections-officials-say",
+          "fuente": "South China Morning Post",
+          "pais": "Hong Kong",
+          "fecha": "2026-11-02T22:16:52+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Israeli Prime Minister Benjamin Netanyahu is pushing for another wave of strikes on Iran after Tuesday’s midterm elections in the United States, according to two regional officials and a third person familiar with the matter. A return to full-scale war with Iran could help Netanyahu to form an emergency government after he and his far-right allies lost their parliamentary majority in last week’s elections. US President Donald Trump has alternated",
+          "resumen_es": "El primer ministro israelí Benjamin Netanyahu está impulsando otra ola de huelgas en Irán después de las elecciones de mitad de período del martes en los Estados Unidos, según dos funcionarios regionales y una tercera persona familiarizada con el asunto. Retorno al fu"
+        },
+        {
+          "id": "8285a3e8f9f54324937a",
+          "titulo_original": "Netanyahu pressing Trump to attack Iran after midterms, says officials",
+          "titulo_es": "Netanyahu presionando a Trump para atacar a Irán después de los períodos intermedios, dice funcionarios",
+          "url": "https://www.thehindu.com/news/international/netanyahu-pressing-trump-to-attack-iran-after-midterms-says-officials/article71658356.ece",
+          "fuente": "The Hindu",
+          "pais": "India",
+          "fecha": "2026-11-02T20:23:21+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "A return to full-scale war with Iran could help Benjamin Netanyahu to form an emergency government after he and his far-right allies lost their parliamentary majority in last week's elections",
+          "resumen_es": "Un regreso a una guerra a gran escala con Irán podría ayudar a Benjamin Netanyahu a formar un gobierno de emergencia después de que él y sus aliados de extrema derecha perdieron la mayoría parlamentaria en las elecciones de la semana pasada"
+        }
+      ],
+      "fuentes": [
+        "South China Morning Post",
+        "The Hindu"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Irán",
+        "Israel"
+      ],
+      "fuentes_independientes": 2,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 7,
+      "motivos_seleccion": [
+        "Cobertura de fuentes distintas",
+        "Actores relevantes: Estados Unidos, Irán, Israel",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-12d2f06a045e13483076",
+      "fecha": "2026-11-02",
+      "titulo_fuente": "US to drop South Africa, Rwanda from duty-free trade initiative",
+      "region": "Estados Unidos",
+      "temas": [
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "12d2f06a045e13483076",
+          "titulo_original": "US to drop South Africa, Rwanda from duty-free trade initiative",
+          "titulo_es": "",
+          "url": "https://www.dw.com/en/us-to-drop-south-africa-rwanda-from-duty-free-trade-initiative/a-79834508?maca=en-rss-en-world-4025-rdf",
+          "fuente": "Deutsche Welle",
+          "pais": "Alemania",
+          "fecha": "2026-11-02T21:40:00+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The Trump administration has said South Africa and Rwanda are breaking the rules of the AGOA free trade initiative, a centerpiece of US economic engagement with sub-Saharan Africa.",
+          "resumen_es": ""
+        },
+        {
+          "id": "0ba2cf50b7380889b2f1",
+          "titulo_original": "US to suspend South Africa and Rwanda from duty-free trade access",
+          "titulo_es": "Estados Unidos suspende a Sudáfrica y Rwanda del acceso libre de derechos",
+          "url": "https://www.aljazeera.com/economy/2026/11/2/us-to-suspend-south-africa-and-rwanda-from-duty-free-trade-access?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-02T20:38:04+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "South Africa to lose duty-free access, affecting $1.7bn worth of annual exports, including cars and farm products.",
+          "resumen_es": "Sudáfrica perderá el acceso libre de derechos, lo que afectará a 1,7 millones de dólares por concepto de exportaciones anuales, incluidos automóviles y productos agrícolas."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera",
+        "Deutsche Welle"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Sudáfrica"
+      ],
+      "fuentes_independientes": 2,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia compleja y economía política internacional",
+        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 7,
+      "motivos_seleccion": [
+        "Cobertura de fuentes distintas",
+        "Actores relevantes: Estados Unidos",
+        "Ámbito: Comercio y finanzas",
         "Posible decisión institucional o negociación"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
@@ -110,34 +232,33 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-8285a3e8f9f54324937a",
+      "id": "a-2a722a70384d1b1a8b54",
       "fecha": "2026-11-02",
-      "titulo_fuente": "Netanyahu pressing Trump to attack Iran after midterms, says officials",
-      "region": "Oriente Medio",
+      "titulo_fuente": "Will ‘strategic stability’ with China go out the window if Trump loses the midterms?",
+      "region": "China",
       "temas": [
         "Seguridad y conflictos"
       ],
       "noticias": [
         {
-          "id": "8285a3e8f9f54324937a",
-          "titulo_original": "Netanyahu pressing Trump to attack Iran after midterms, says officials",
-          "titulo_es": "Netanyahu presionando a Trump para atacar a Irán después de los períodos intermedios, dice funcionarios",
-          "url": "https://www.thehindu.com/news/international/netanyahu-pressing-trump-to-attack-iran-after-midterms-says-officials/article71658356.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-11-02T20:23:21+00:00",
+          "id": "2a722a70384d1b1a8b54",
+          "titulo_original": "Will ‘strategic stability’ with China go out the window if Trump loses the midterms?",
+          "titulo_es": "¿La estabilidad estratégica con China saldrá por la ventana si Trump pierde los períodos intermedios?",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3372987/will-strategic-stability-china-go-out-window-if-trump-loses-midterms",
+          "fuente": "South China Morning Post",
+          "pais": "Hong Kong",
+          "fecha": "2026-11-02T22:00:09+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "A return to full-scale war with Iran could help Benjamin Netanyahu to form an emergency government after he and his far-right allies lost their parliamentary majority in last week's elections",
-          "resumen_es": "Un regreso a una guerra a gran escala con Irán podría ayudar a Benjamin Netanyahu a formar un gobierno de emergencia después de que él y sus aliados de extrema derecha perdieron la mayoría parlamentaria en las elecciones de la semana pasada"
+          "resumen_original": "US President Donald Trump is likely to continue on a path of trying to stabilise ties with Beijing – even if the Democrats flip the House of Representatives, according to analysts. But they said if the Republicans lost control of the House in this week’s midterm elections, the framework of “strategic stability” agreed to by Washington and Beijing could be put to the test. One Chinese academic warned that other Republicans could pose the biggest r",
+          "resumen_es": "El presidente de EE.UU. Donald Trump es probable que continúe en un camino de intentar estabilizar los lazos con Beijing, incluso si los demócratas mueven la Cámara de Representantes, según analistas. Pero dijeron que si los republicanos perdieron el control de la Casa"
         }
       ],
       "fuentes": [
-        "The Hindu"
+        "South China Morning Post"
       ],
       "actores_mencionados": [
         "Estados Unidos",
-        "Israel",
-        "Irán"
+        "China"
       ],
       "fuentes_independientes": 1,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
@@ -150,7 +271,7 @@
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
       "prioridad_orientativa": 6,
       "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos, Irán, Israel",
+        "Actores relevantes: China, Estados Unidos",
         "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
@@ -1745,51 +1866,6 @@
       "motivos_seleccion": [
         "Actores relevantes: Rusia",
         "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-0ba2cf50b7380889b2f1",
-      "fecha": "2026-11-02",
-      "titulo_fuente": "US to suspend South Africa and Rwanda from duty-free trade access",
-      "region": "África",
-      "temas": [
-        "Comercio y finanzas"
-      ],
-      "noticias": [
-        {
-          "id": "0ba2cf50b7380889b2f1",
-          "titulo_original": "US to suspend South Africa and Rwanda from duty-free trade access",
-          "titulo_es": "Estados Unidos suspende a Sudáfrica y Rwanda del acceso libre de derechos",
-          "url": "https://www.aljazeera.com/economy/2026/11/2/us-to-suspend-south-africa-and-rwanda-from-duty-free-trade-access?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-11-02T20:38:04+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "South Africa to lose duty-free access, affecting $1.7bn worth of annual exports, including cars and farm products.",
-          "resumen_es": "Sudáfrica perderá el acceso libre de derechos, lo que afectará a 1,7 millones de dólares por concepto de exportaciones anuales, incluidos automóviles y productos agrícolas."
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera"
-      ],
-      "actores_mencionados": [
-        "Sudáfrica"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia compleja y economía política internacional",
-        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Ámbito: Comercio y finanzas",
-        "Posible decisión institucional o negociación"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -3728,6 +3804,51 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-9463dd81db52fcfce346",
+      "fecha": "2026-11-02",
+      "titulo_fuente": "Sharad Pawar admitted to hospital after ‘sharp chest pain’ - The Indian Express",
+      "region": "Asia-Pacífico",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "9463dd81db52fcfce346",
+          "titulo_original": "Sharad Pawar admitted to hospital after ‘sharp chest pain’ - The Indian Express",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVjBTUGdaLTM1SjdSSS1aR296cWFNdWJYUERsMHdUQUdid0ZUcmpCZkNMQllPVnZTdk13b1hTLTl6aTNxdkR6U05DUUYwRlY4UnlFaXNfdkhxQ3ZIQVJ6WE90QjlGSW1WbE5KNUI5TnY2TmwyMnZHUWFHYmI4M2dUQzF1NFRiQk1WUnIwVWtiNHhWbVNTWE5DU0hqa1kybXVpT05qbDAtT04yU1NodnBfRXY1VXFTNzR4QjQyb1ZkT21LbHR3YUl1aGNHVUd5Y1pHWFBtUUhXVQ?oc=5",
+          "fuente": "The Indian Express",
+          "pais": "India",
+          "fecha": "2026-11-02T12:03:33+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Sharad Pawar admitted to hospital after ‘sharp chest pain’ The Indian Express",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "The Indian Express"
+      ],
+      "actores_mencionados": [
+        "India"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: India",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-abde28219cf321470704",
       "fecha": "2026-11-02",
       "titulo_fuente": "EN DIRECT, midterms 2026 : nouvelles menaces de Donald Trump contre l’Iran, psychodrame démocrate dans le Michigan",
@@ -4997,57 +5118,87 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-9d25dae59b5cfa43050e",
+      "id": "a-c55165f34bf50f9f603c",
       "fecha": "2026-11-02",
-      "titulo_fuente": "Popular Australian children's author jailed over child exploitation offences",
+      "titulo_fuente": "Apple logra ingresos récord apoyada en la fortaleza del iPhone y presume de su remuneración a los accionistas",
       "region": "Internacional",
       "temas": [
-        "Organismos multilaterales"
+        "Diplomacia"
       ],
       "noticias": [
         {
-          "id": "9d25dae59b5cfa43050e",
-          "titulo_original": "Popular Australian children's author jailed over child exploitation offences",
+          "id": "c55165f34bf50f9f603c",
+          "titulo_original": "Apple logra ingresos récord apoyada en la fortaleza del iPhone y presume de su remuneración a los accionistas",
           "titulo_es": "",
-          "url": "https://www.bbc.co.uk/news/articles/cmjwe9nggp60o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-02T08:03:39+00:00",
+          "url": "https://elpais.com/economia/2026-11-02/apple-eleva-sus-ingresos-un-12-y-presume-de-su-remuneracion-a-los-accionistas.html",
+          "fuente": "El País",
+          "pais": "España",
+          "fecha": "2026-11-02T22:11:33+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The author of Jasper Jones and Runt pleaded guilty in May after police raided his home months earlier.",
-          "resumen_es": ""
-        },
-        {
-          "id": "7a9654b9b64f2ab8be19",
-          "titulo_original": "Award‑winning Australian children’s author Craig Silvey jailed over child exploitation material",
-          "titulo_es": "",
-          "url": "https://www.theguardian.com/australia-news/2026/nov/02/australian-author-craig-silvey-jailed-child-exploitation-material-ntwnfb",
-          "fuente": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-02T08:01:34+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Jasper Jones writer sent multiple messages about his sexual desire for young boys, Western Australian district court hears Warning: This article contains graphic content Get our breaking news email , free app or daily news podcast The award‑winning author Craig Silvey sent multiple messages about his sexual desire for young boys and was caught with explicit images of children and adults. The young adult novelist was jailed on Monday for seven mon",
+          "resumen_original": "La compañía eleva el volumen de negocio un 12% en el cuarto trimestre y supera los 479.000 millones en el conjunto del año. El nuevo CEO destaca que la empresa ha cerrado el mejor ejercicio de su historia",
           "resumen_es": ""
         }
       ],
       "fuentes": [
-        "BBC News",
-        "The Guardian"
+        "El País"
       ],
       "actores_mencionados": [],
-      "fuentes_independientes": 2,
+      "fuentes_independientes": 1,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
-        "nombre": "Institucionalismo liberal",
-        "pregunta": "¿Qué reglas, mecanismos de cooperación y límites institucionales afectan la decisión?"
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
       },
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 3,
+      "prioridad_orientativa": 2,
       "motivos_seleccion": [
-        "Cobertura de fuentes distintas",
-        "Ámbito: Organismos multilaterales"
+        "Ámbito: Diplomacia"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-60cf1b695e4f2422be2b",
+      "fecha": "2026-11-02",
+      "titulo_fuente": "Washington state resident dies from ‘severe illness’ after contracting bird flu",
+      "region": "Estados Unidos",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "60cf1b695e4f2422be2b",
+          "titulo_original": "Washington state resident dies from ‘severe illness’ after contracting bird flu",
+          "titulo_es": "El residente del estado de Washington muere de ‘severe enfermedad’ después de contraer gripe aviar",
+          "url": "https://www.theguardian.com/us-news/2026/nov/02/bird-flu-death-washington",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-02T21:59:02+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Individual, who also had underlying conditions, was hospitalized after being exposed to avian influenza A Washington state resident has died after being hospitalized with “severe illness” after contracting bird flu, local health officials said on Sunday. The individual was exposed to avian influenza, also known as bird flu, at a dairy with infected cattle in Yakima county, according to a news release . The person was subsequently hospitalized wit",
+          "resumen_es": "Individual, who also had underlying conditions, was hospitalized after being exposed to avian influenza A Washington state resident has died after being hospitalized with “severe illness” after contracting bird flu, local health officials s"
+        }
+      ],
+      "fuentes": [
+        "The Guardian"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -5092,6 +5243,74 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Actores relevantes: Ucrania"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-ee58740924c100ba4803",
+      "fecha": "2026-11-02",
+      "titulo_fuente": "Lindsay Clancy back in court seeking to dismiss murder charges after mistrial",
+      "region": "Internacional",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "ee58740924c100ba4803",
+          "titulo_original": "Lindsay Clancy back in court seeking to dismiss murder charges after mistrial",
+          "titulo_es": "",
+          "url": "https://www.theguardian.com/us-news/2026/nov/02/lindsay-clancy-massachusetts-court-hearing",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-02T21:40:39+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Lawyers for Massachusetts mother who killed children argue new trial would violate double jeopardy rules Lindsay Clancy returned to court on Monday in an attempt to dismiss the charges that she murdered her three young children. The hearing Monday was the second time the Massachusetts mother has been in court since her trial ended with a deadlocked jury in September after jurors were unable to agree on a verdict. Continue reading...",
+          "resumen_es": ""
+        },
+        {
+          "id": "c7751a6ef7b72bc722c7",
+          "titulo_original": "Lindsay Clancy back in court in bid to dismiss charges she killed her 3 young children",
+          "titulo_es": "Lindsay Clancy de vuelta a la corte para desestimar los cargos que mató a sus 3 niños pequeños",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3373044/lindsay-clancy-back-court-bid-dismiss-charges-she-killed-her-3-young-children",
+          "fuente": "South China Morning Post",
+          "pais": "Hong Kong",
+          "fecha": "2026-11-02T20:14:49+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Lindsay Clancy returned to court on Monday in a bid to dismiss the charges that she murdered her three young children. The hearing on Monday was the second time the Massachusetts mother has been in court since her trial ended with a deadlocked jury in September after jurors were unable to agree on a verdict. Its focus was a motion from the defence to dismiss the charges on double jeopardy grounds. The proceedings grew heated as defence lawyer Kev",
+          "resumen_es": "Lindsay Clancy volvió a la corte el lunes en un intento de desestimar los cargos que ella asesinó a sus tres niños pequeños. La audiencia del lunes fue la segunda vez que la madre de Massachusetts ha estado en la corte desde que su juicio terminó con un letal"
+        },
+        {
+          "id": "47374ac208693e2a931f",
+          "titulo_original": "Lindsay Clancy in court to drop child murder charges after mistrial",
+          "titulo_es": "",
+          "url": "https://www.aljazeera.com/news/2026/11/2/lindsay-clancy-in-court-to-drop-child-murder-charges-after-mistrial?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-02T19:11:37+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Defence argues juror misconduct and judge's questioning impacted Clancy's trial for strangling of her three children.",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera",
+        "South China Morning Post",
+        "The Guardian"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 3,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Cobertura de fuentes distintas"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -5676,48 +5895,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-c7751a6ef7b72bc722c7",
-      "fecha": "2026-11-02",
-      "titulo_fuente": "Lindsay Clancy back in court in bid to dismiss charges she killed her 3 young children",
-      "region": "Internacional",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "c7751a6ef7b72bc722c7",
-          "titulo_original": "Lindsay Clancy back in court in bid to dismiss charges she killed her 3 young children",
-          "titulo_es": "Lindsay Clancy de vuelta a la corte para desestimar los cargos que mató a sus 3 niños pequeños",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3373044/lindsay-clancy-back-court-bid-dismiss-charges-she-killed-her-3-young-children",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-11-02T20:14:49+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Lindsay Clancy returned to court on Monday in a bid to dismiss the charges that she murdered her three young children. The hearing on Monday was the second time the Massachusetts mother has been in court since her trial ended with a deadlocked jury in September after jurors were unable to agree on a verdict. Its focus was a motion from the defence to dismiss the charges on double jeopardy grounds. The proceedings grew heated as defence lawyer Kev",
-          "resumen_es": "Lindsay Clancy volvió a la corte el lunes en un intento de desestimar los cargos que ella asesinó a sus tres niños pequeños. La audiencia del lunes fue la segunda vez que la madre de Massachusetts ha estado en la corte desde que su juicio terminó con un letal"
-        }
-      ],
-      "fuentes": [
-        "South China Morning Post"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-75f0de73c5f58b86a36f",
       "fecha": "2026-11-02",
       "titulo_fuente": "‘We cannot move forward’: Savannah Guthrie shares new post seeking information in mother’s disappearance",
@@ -6017,48 +6194,6 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Actores relevantes: Ucrania"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-47374ac208693e2a931f",
-      "fecha": "2026-11-02",
-      "titulo_fuente": "Lindsay Clancy in court to drop child murder charges after mistrial",
-      "region": "Internacional",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "47374ac208693e2a931f",
-          "titulo_original": "Lindsay Clancy in court to drop child murder charges after mistrial",
-          "titulo_es": "",
-          "url": "https://www.aljazeera.com/news/2026/11/2/lindsay-clancy-in-court-to-drop-child-murder-charges-after-mistrial?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-11-02T19:11:37+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Defence argues juror misconduct and judge's questioning impacted Clancy's trial for strangling of her three children.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6791,93 +6926,6 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Ámbito: Organismos multilaterales"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-d9ab8f0d0a2bb63e7d11",
-      "fecha": "2026-11-02",
-      "titulo_fuente": "Kazakhstan’s Energy Ministry reports suspension of oil pumping via Atyrau-Samara pipeline",
-      "region": "Internacional",
-      "temas": [
-        "Seguridad y conflictos",
-        "Energía y clima"
-      ],
-      "noticias": [
-        {
-          "id": "d9ab8f0d0a2bb63e7d11",
-          "titulo_original": "Kazakhstan’s Energy Ministry reports suspension of oil pumping via Atyrau-Samara pipeline",
-          "titulo_es": "",
-          "url": "https://tass.com/economy/2212083",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-02T18:18:24+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Facilities at the Samara production and dispatch hub came under a drone attack on the night of November 2",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Energía y clima, Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-001f8933fcb79bd49de5",
-      "fecha": "2026-11-02",
-      "titulo_fuente": "French pupils resume school blockades as country braces for more protests",
-      "region": "Europa",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "001f8933fcb79bd49de5",
-          "titulo_original": "French pupils resume school blockades as country braces for more protests",
-          "titulo_es": "",
-          "url": "https://www.theguardian.com/education/2026/nov/02/franch-students-school-blockades-protests",
-          "fuente": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-02T18:17:33+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Minister warns weeks without lessons are putting exams at risk as unions plan nationwide strike on Thursday Dozens of high schools across France were blockaded again on Monday as the government braced for another tense week of protests over school conditions and the high cost of living. The protests come amid warnings that weeks without lessons are putting some pupils’ school year and final exams at risk. Continue reading...",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Guardian"
-      ],
-      "actores_mencionados": [
-        "Francia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
