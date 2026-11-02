@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-11-02T22:23:44.028651+00:00",
+  "created_utc": "2026-11-02T22:56:22.017479+00:00",
   "events": [
     {
       "id": "a-f34573222e646c13a538",
@@ -1776,6 +1776,51 @@
       "motivos_seleccion": [
         "Cobertura de fuentes distintas",
         "Actores relevantes: Rusia, Ucrania"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-b366bccd6b247a048054",
+      "fecha": "2026-11-02",
+      "titulo_fuente": "Trump says he is in no hurry to decide on strikes against Iran — Axios",
+      "region": "Oriente Medio",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "b366bccd6b247a048054",
+          "titulo_original": "Trump says he is in no hurry to decide on strikes against Iran — Axios",
+          "titulo_es": "Trump dice que no tiene prisa en decidir sobre huelgas contra Irán — Axios",
+          "url": "https://tass.com/world/2212131",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-02T22:41:18+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The US president acknowledged that the Iranian side is demonstrating \"less urgency\" in the negotiations \"than you think there would be\"",
+          "resumen_es": "El presidente estadounidense reconoció que el lado iraní está demostrando \"una urgencia inequívoca\" en las negociaciones \"que crees que habría\""
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Irán"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos, Irán"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -4616,18 +4661,6 @@
           "estado": "publicación periodística; corroboración pendiente",
           "resumen_original": "Explosive ordnance specialists established that Ukrainian special services had planted improvised explosive devices in the FPV goggles instead of cooling solutions",
           "resumen_es": ""
-        },
-        {
-          "id": "76edf6441613fb54e2d2",
-          "titulo_original": "Russia’s FSB seizes booby-trapped FPV goggles intended for Russian troops",
-          "titulo_es": "",
-          "url": "https://tass.com/society/2211715",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-02T08:41:12+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Explosive ordnance specialists established that Ukrainian special services had planted improvised explosive devices in the FPV goggles instead of cooling solutions",
-          "resumen_es": ""
         }
       ],
       "fuentes": [
@@ -4970,96 +5003,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-66ab302856dbdaed5638",
-      "fecha": "2026-11-02",
-      "titulo_fuente": "‘I could’ve won the Vietnam War in a week’: Trump in Iowa - CNN",
-      "region": "Estados Unidos",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "66ab302856dbdaed5638",
-          "titulo_original": "‘I could’ve won the Vietnam War in a week’: Trump in Iowa - CNN",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMmhSRGhnd3BIamNET0RBMWNWa1ZQNl93TzBzN3d0NC1Ra0M4M3h0ZmdmU3hmZTM0SmNXU2FmWmFRLTBiQmZsU1FlWGN0OXJoeFZza0VsbGlsWXNkUGJvbFBYbHNnNnlpNjA3SHU4SWUtTVZDc0dVaWY1NHJRWWZtU3JWSDFJRWNlMnU1UldYb1UtVnBzZFAycXNn?oc=5",
-          "fuente": "CNN",
-          "pais": "Estados Unidos",
-          "fecha": "2026-11-02T08:39:58+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "‘I could’ve won the Vietnam War in a week’: Trump in Iowa CNN",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "CNN"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-88140b326c68c018684e",
-      "fecha": "2026-11-02",
-      "titulo_fuente": "Removal of enriched uranium from Iran was not raised at consultations with US — MFA",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "88140b326c68c018684e",
-          "titulo_original": "Removal of enriched uranium from Iran was not raised at consultations with US — MFA",
-          "titulo_es": "",
-          "url": "https://tass.com/world/2211713",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-02T08:39:08+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "On October 1, Russian President Vladimir Putin reiterated that Moscow’s proposal to transfer Iran’s enriched uranium to Russia remains on the table",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia",
-        "Irán"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Irán, Rusia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-49632e32badef94f2fec",
       "fecha": "2026-11-02",
       "titulo_fuente": "US judge dismisses Trump administration’s Harvard race data admissions case",
@@ -5113,6 +5056,48 @@
       "motivos_seleccion": [
         "Cobertura de fuentes distintas",
         "Actores relevantes: Estados Unidos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-14e44cb9bb6ae64b52b0",
+      "fecha": "2026-11-02",
+      "titulo_fuente": "PM to ask countries affected by UK’s role in slavery to help shape formal apology",
+      "region": "Europa",
+      "temas": [
+        "Diplomacia"
+      ],
+      "noticias": [
+        {
+          "id": "14e44cb9bb6ae64b52b0",
+          "titulo_original": "PM to ask countries affected by UK’s role in slavery to help shape formal apology",
+          "titulo_es": "PM pide a los países afectados por el papel del Reino Unido en la esclavitud para ayudar a configurar la disculpa formal",
+          "url": "https://www.theguardian.com/world/2026/nov/02/andy-burnham-ask-countries-affected-uk-role-slavery-shape-formal-apology",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-02T22:30:30+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Andy Burnham to launch ‘structured dialogue’ on issue at Commonwealth summit in Antigua and Baruda Andy Burnham will ask countries affected by Britain’s role in slavery to help shape an expected formal apology, Downing Street has indicated, arguing that their input is indispensable in crafting a enduring message. The prime minister is en route to the Commonwealth heads of government summit (Chogm) in Antigua and Barbuda, which begins on Tuesday. ",
+          "resumen_es": "Andy Burnham lanzará “diálogo estructurado” sobre el tema en la cumbre del Commonwealth en Antigua y Baruda Andy Burnham pedirá a los países afectados por el papel de Gran Bretaña en la esclavitud para ayudar a configurar una disculpa formal esperada, Downing Street ha indicado,"
+        }
+      ],
+      "fuentes": [
+        "The Guardian"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Diplomacia"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -5311,6 +5296,48 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Cobertura de fuentes distintas"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-d1bae98249a8ccfefee6",
+      "fecha": "2026-11-02",
+      "titulo_fuente": "Así ha sido la primera jornada del World in Progress 2026: del anuncio de Sánchez de ayudas para las víctimas de Urda a la reivindicación de Rebeca Grynspan del papel de la ONU",
+      "region": "Internacional",
+      "temas": [
+        "Organismos multilaterales"
+      ],
+      "noticias": [
+        {
+          "id": "d1bae98249a8ccfefee6",
+          "titulo_original": "Así ha sido la primera jornada del World in Progress 2026: del anuncio de Sánchez de ayudas para las víctimas de Urda a la reivindicación de Rebeca Grynspan del papel de la ONU",
+          "titulo_es": "",
+          "url": "https://elpais.com/videos/2026-11-02/asi-ha-sido-la-primera-jornada-del-world-in-progress-2026-del-anuncio-de-sanchez-de-ayudas-para-las-victimas-de-urda-a-la-reivindicacion-de-rebeca-grynspan-del-papel-de-la-onu.html",
+          "fuente": "El País",
+          "pais": "España",
+          "fecha": "2026-11-02T21:37:46+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "José Luis Albares, Josep Borrell y María Fernanda Espinosa se encuentran entre los ponentes del primer día del foro internacional de reflexión y debate organizado por PRISA",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "El País"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Institucionalismo liberal",
+        "pregunta": "¿Qué reglas, mecanismos de cooperación y límites institucionales afectan la decisión?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Organismos multilaterales"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6884,48 +6911,6 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Ámbito: Migración y DD. HH."
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-0188ca309b4568b00a57",
-      "fecha": "2026-11-02",
-      "titulo_fuente": "ONU ressalta importância de proteger jornalistas e acesso à informação",
-      "region": "Europa",
-      "temas": [
-        "Organismos multilaterales"
-      ],
-      "noticias": [
-        {
-          "id": "0188ca309b4568b00a57",
-          "titulo_original": "ONU ressalta importância de proteger jornalistas e acesso à informação",
-          "titulo_es": "",
-          "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/onu-ressalta-importancia-de-proteger-jornalistas-e-acesso-informacao",
-          "fuente": "Agência Brasil (EBC)",
-          "pais": "Brasil",
-          "fecha": "2026-11-02T18:21:00+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "\"Em todo o mundo, jornalistas continuam pagando um preço exorbitante por dizerem a verdade”, o alerta foi feito nesta segunda-feira (2) pelo secretário-geral das Nações Unidas, António Guterres, ao marcar o Dia Internacional pelo Fim da Impunidade dos Crimes Contra Jornalistas. A data foi criada em homenagem aos franceses Ghislaine Dupont e Claude Verlon, da Rádio França Internacional (RFI), que foram assassinados em 2 de novembro de 2013, no Mal",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Agência Brasil (EBC)"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Institucionalismo liberal",
-        "pregunta": "¿Qué reglas, mecanismos de cooperación y límites institucionales afectan la decisión?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Organismos multilaterales"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null

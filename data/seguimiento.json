@@ -1,5 +1,5 @@
 {
-  "actualizado_utc": "2026-11-02T22:23:44.090722+00:00",
+  "actualizado_utc": "2026-11-02T22:56:22.066119+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
@@ -257,8 +257,8 @@
     {
       "id": "india-asia",
       "titulo": "India y Asia-Pacífico",
-      "cantidad_archivada": 746,
-      "nuevas_24h": 77,
+      "cantidad_archivada": 747,
+      "nuevas_24h": 78,
       "anteriores_24h": 90,
       "dias_con_registros": 18,
       "fecha_ultima": "2026-11-02T19:50:24+00:00",
@@ -509,13 +509,21 @@
     {
       "id": "oriente-medio",
       "titulo": "Oriente Medio: seguridad y diplomacia",
-      "cantidad_archivada": 892,
-      "nuevas_24h": 60,
+      "cantidad_archivada": 893,
+      "nuevas_24h": 61,
       "anteriores_24h": 45,
       "dias_con_registros": 18,
-      "fecha_ultima": "2026-11-02T22:16:52+00:00",
+      "fecha_ultima": "2026-11-02T22:41:18+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "b366bccd6b247a048054",
+          "fecha": "2026-11-02T22:41:18+00:00",
+          "titulo": "Trump says he is in no hurry to decide on strikes against Iran — Axios",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2212131",
+          "traducida": false
+        },
         {
           "id": "31d1eb275ac064d0c8ea",
           "fecha": "2026-11-02T22:16:52+00:00",
@@ -746,14 +754,6 @@
           "titulo": "Russia hopes for soonest normalization in Strait of Hormuz — diplomat",
           "fuente": "TASS",
           "url": "https://tass.com/politics/2211923",
-          "traducida": false
-        },
-        {
-          "id": "abde28219cf321470704",
-          "fecha": "2026-11-02T12:02:53+00:00",
-          "titulo": "EN DIRECT, midterms 2026 : nouvelles menaces de Donald Trump contre l’Iran, psychodrame démocrate dans le Michigan",
-          "fuente": "Le Monde",
-          "url": "https://www.lemonde.fr/international/live/2026/11/02/en-direct-midterms-2026-nouvelles-menaces-de-donald-trump-contre-l-iran-psychodrame-democrate-dans-le-michigan_6801590_3210.html",
           "traducida": false
         }
       ]
