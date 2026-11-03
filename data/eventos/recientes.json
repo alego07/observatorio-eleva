@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-11-03T19:45:27.424114+00:00",
+  "created_utc": "2026-11-03T20:10:48.075383+00:00",
   "events": [
     {
       "id": "a-ba9088ac1e6185ed8aaf",
@@ -279,6 +279,53 @@
         "Cobertura de fuentes distintas",
         "Actores relevantes: Estados Unidos, Israel",
         "Ámbito: Comercio y finanzas"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-829be1f166000a078932",
+      "fecha": "2026-11-03",
+      "titulo_fuente": "Senior Russian diplomat explains EU’s strong reaction to Stubb, Store’s call to Moscow",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Diplomacia",
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "829be1f166000a078932",
+          "titulo_original": "Senior Russian diplomat explains EU’s strong reaction to Stubb, Store’s call to Moscow",
+          "titulo_es": "El diplomático ruso superior explica la fuerte reacción de la UE a Stubb, llamada de la tienda a Moscú",
+          "url": "https://tass.com/politics/2212737",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-03T20:02:42+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The EU policies are aimed at \"protracting the conflict in Ukraine as long as possible,\" while this step \"does not fit into this logic,\" Alexander Grushko said",
+          "resumen_es": "Las políticas de la UE están dirigidas a \"traer el conflicto en Ucrania lo más posible\", mientras que este paso \"no encaja en esta lógica\", dijo Alexander Grushko."
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Rusia",
+        "Ucrania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia, Ucrania",
+        "Ámbito: Diplomacia, Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -2368,146 +2415,6 @@
       "motivos_seleccion": [
         "Actores relevantes: China, Estados Unidos, Rusia",
         "Ámbito: Comercio y finanzas, Diplomacia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-441f71fc528b9fb8b3ed",
-      "fecha": "2026-11-03",
-      "titulo_fuente": "Russian forces deliver massive strike on energy facilities powering Ukrainian army",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Seguridad y conflictos",
-        "Energía y clima"
-      ],
-      "noticias": [
-        {
-          "id": "441f71fc528b9fb8b3ed",
-          "titulo_original": "Russian forces deliver massive strike on energy facilities powering Ukrainian army",
-          "titulo_es": "",
-          "url": "https://tass.com/politics/2212257",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-03T08:27:34+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Port infrastructure in the Odessa Region and sea vessels used for military purposes were also struck",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia",
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia, Ucrania",
-        "Ámbito: Energía y clima, Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-87efcfd56daab67ae866",
-      "fecha": "2026-11-03",
-      "titulo_fuente": "US strikes Iran’s Qeshm Island as Vance voices optimism about a deal",
-      "region": "Oriente Medio",
-      "temas": [
-        "Diplomacia",
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "87efcfd56daab67ae866",
-          "titulo_original": "US strikes Iran’s Qeshm Island as Vance voices optimism about a deal",
-          "titulo_es": "",
-          "url": "https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island",
-          "fuente": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-03T08:13:46+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Strikes on eve of US midterms reportedly target surface-to-air missiles being used against US assets The ⁠US launched limited strikes on ​Iran’s Qeshm Island late on Monday, hours after the vice-president, JD Vance, said he was optimistic that diplomatic efforts to end the war were moving in the right direction. The strikes, first reported by the Wall Street Journal , came on the eve of crucial midterm elections in which Donald Trump’s Republican",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Guardian"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "Irán"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos, Irán",
-        "Ámbito: Diplomacia, Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-f2221fff2325aa4d1c97",
-      "fecha": "2026-11-03",
-      "titulo_fuente": "Families of forcibly conscripted men riot in Kiev — Russian diplomat",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Diplomacia"
-      ],
-      "noticias": [
-        {
-          "id": "f2221fff2325aa4d1c97",
-          "titulo_original": "Families of forcibly conscripted men riot in Kiev — Russian diplomat",
-          "titulo_es": "",
-          "url": "https://tass.com/politics/2212255",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-03T08:10:37+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Ukrainian media outlets reported on Monday that armed men were detaining about 40 people in the basement of a private house in a Kiev suburb",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia",
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia, Ucrania",
-        "Ámbito: Diplomacia"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6191,142 +6098,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-f4d327cf227737d62882",
-      "fecha": "2026-11-03",
-      "titulo_fuente": "Europe employs cynical tactic by accusing Russia of its own vices — intelligence chief",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Diplomacia",
-        "Organismos multilaterales"
-      ],
-      "noticias": [
-        {
-          "id": "f4d327cf227737d62882",
-          "titulo_original": "Europe employs cynical tactic by accusing Russia of its own vices — intelligence chief",
-          "titulo_es": "",
-          "url": "https://tass.com/politics/2212263",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-03T08:33:00+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Attempts to portray the history of interethnic relations in Russia through the prism of colonial exploitation appear utterly pathetic and absurd, Sergey Naryshkin said",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia",
-        "Ámbito: Diplomacia, Organismos multilaterales"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-326060a1ca74655ff233",
-      "fecha": "2026-11-03",
-      "titulo_fuente": "Estados Unidos ataca la isla iraní de Qeshm en la víspera de sus elecciones de medio mandato",
-      "region": "Oriente Medio",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "326060a1ca74655ff233",
-          "titulo_original": "Estados Unidos ataca la isla iraní de Qeshm en la víspera de sus elecciones de medio mandato",
-          "titulo_es": "",
-          "url": "https://elpais.com/internacional/2026-11-03/estados-unidos-ataca-la-isla-irani-de-qeshm-en-la-vispera-de-sus-elecciones-de-medio-mandato.html",
-          "fuente": "El País",
-          "pais": "España",
-          "fecha": "2026-11-03T08:30:08+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Washington asegura que se trata de ataques “defensivos” que no implican un retorno inmediato a la guerra. Son los primeros bombardeos reconocidos desde septiembre",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "El País"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-c417f593f788133dbda1",
-      "fecha": "2026-11-03",
-      "titulo_fuente": "Russia’s Battlegroup South shoots down 87 Ukrainian copter drones over past day",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "c417f593f788133dbda1",
-          "titulo_original": "Russia’s Battlegroup South shoots down 87 Ukrainian copter drones over past day",
-          "titulo_es": "",
-          "url": "https://tass.com/politics/2212253",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-03T08:06:18+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Over the past 24 hours, 55 enemy UAV control centers, 48 ground robotic systems, three materiel depots, and 59 communication and UAV antennas were destroyed",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia",
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia, Ucrania"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-459b6ccd2772a5363c80",
       "fecha": "2026-11-03",
       "titulo_fuente": "Fake bomb threats on flights and cruise ship cause travel disruption in Europe",
@@ -6567,6 +6338,48 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-00d6ea7d164ac93fa9ad",
+      "fecha": "2026-11-03",
+      "titulo_fuente": "De la IA a la política energética: las nuevas fronteras de la seguridad en Europa",
+      "region": "Europa",
+      "temas": [
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "00d6ea7d164ac93fa9ad",
+          "titulo_original": "De la IA a la política energética: las nuevas fronteras de la seguridad en Europa",
+          "titulo_es": "",
+          "url": "https://elpais.com/internacional/2026-11-03/de-la-ia-a-la-politica-energetica-las-nuevas-fronteras-de-la-seguridad-en-europa.html",
+          "fuente": "El País",
+          "pais": "España",
+          "fecha": "2026-11-03T19:37:51+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "El foro World In Progress concluye con un análisis de la nueva agenda global sobre tecnología, economía y diálogo para la paz a las puertas de un nuevo ciclo electoral en el Viejo Continente",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "El País"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia compleja y economía política internacional",
+        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Comercio y finanzas"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-96a85076d1929803f620",
       "fecha": "2026-11-03",
       "titulo_fuente": "EU may not be ready for military conflict by 2030, Commission fears — media",
@@ -6604,6 +6417,49 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-57dff2f415d7972652d1",
+      "fecha": "2026-11-03",
+      "titulo_fuente": "Man arrested as girl, 17, found in Oregon after disappearing from Utah last year",
+      "region": "Internacional",
+      "temas": [
+        "Seguridad y conflictos",
+        "Organismos multilaterales"
+      ],
+      "noticias": [
+        {
+          "id": "57dff2f415d7972652d1",
+          "titulo_original": "Man arrested as girl, 17, found in Oregon after disappearing from Utah last year",
+          "titulo_es": "Hombre arrestado como chica, 17, encontrado en Oregon después de desaparecer de Utah el año pasado",
+          "url": "https://www.theguardian.com/us-news/2026/nov/03/kylie-arellano-missing-found-oregon-utah",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-03T19:30:47+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "500-plus-day search for Kylie Arellano ends as FBI warns of ‘gore groups’ targeting and exploiting children A 17-year-old girl who disappeared last year from Garden City, Utah, has been found in Oregon, and a 39-year-old man has been taken into custody. The recovery of the teenager took place last Sunday, following a 500-plus day search involving Oregon law enforcement, the FBI’s Salt Lake City field office and the Rich county sheriff’s office in",
+          "resumen_es": "La búsqueda de más de 500 días para Kylie Arellano termina como advierte el FBI de ‘grupos de dios’ dirigidos y explotando a niños Una niña de 17 años que desapareció el año pasado de Garden City, Utah, ha sido encontrada en Oregon, y un hombre de 39 años ha sido tomado"
+        }
+      ],
+      "fuentes": [
+        "The Guardian"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Organismos multilaterales, Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6716,6 +6572,50 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Actores relevantes: Rusia"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-96326a08f2ae92284079",
+      "fecha": "2026-11-03",
+      "titulo_fuente": "Trump’s DC golf course plan revealed - Politico",
+      "region": "Estados Unidos",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "96326a08f2ae92284079",
+          "titulo_original": "Trump’s DC golf course plan revealed - Politico",
+          "titulo_es": "El plan del campo de golf DC de Trump reveló - Politico",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWU4wemFIaWRwVGhQMWgyUzBjandfdk1XZWNIek5rV19mVDJiakRBdjFXRlI2aWJudjhxeU96bHVTb0JnWHAzcU52aWpDeWJvdGVjUFVqdWR1SV9oZjREbkt6YjhDNEJIdVRGcTIxOTFSYkNGVEg3aFpHWV9UNURFVlIzR0c4QQ?oc=5",
+          "fuente": "POLITICO US",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-03T19:19:00+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Trump’s DC golf course plan revealed Politico",
+          "resumen_es": "El plan de campo de golf DC de Trump reveló política"
+        }
+      ],
+      "fuentes": [
+        "POLITICO US"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -7017,6 +6917,93 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-2cdf2728ad04ee32078c",
+      "fecha": "2026-11-03",
+      "titulo_fuente": "White House mood cautiously optimistic on Election Day — media",
+      "region": "Estados Unidos",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "2cdf2728ad04ee32078c",
+          "titulo_original": "White House mood cautiously optimistic on Election Day — media",
+          "titulo_es": "El estado de ánimo de la Casa Blanca es cauteloso optimista en el Día de las Elecciones — medios",
+          "url": "https://tass.com/world/2212703",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-03T18:14:09+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "One official said US President Donald Trump had been \"in great spirits\" on Monday",
+          "resumen_es": "Un funcionario dijo que el presidente estadounidense Donald Trump había estado \"en grandes espíritus\" el lunes"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-72a27da38d98945878c5",
+      "fecha": "2026-11-03",
+      "titulo_fuente": "UK’s King Charles calls slavery ‘monstrous injustice’, as PM mulls apology",
+      "region": "Europa",
+      "temas": [
+        "Diplomacia",
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "72a27da38d98945878c5",
+          "titulo_original": "UK’s King Charles calls slavery ‘monstrous injustice’, as PM mulls apology",
+          "titulo_es": "El rey Carlos del Reino Unido llama a la esclavitud \"una injusticia monstruosa\", como PM mulls apology",
+          "url": "https://www.scmp.com/news/world/europe/article/3373184/uks-king-charles-calls-slavery-monstrous-injustice-pm-mulls-apology",
+          "fuente": "South China Morning Post",
+          "pais": "Hong Kong",
+          "fecha": "2026-11-03T18:08:43+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "King Charles called the transatlantic slave trade “a monstrous injustice” on Tuesday, opening a Commonwealth summit in which UK leader Andy Burnham is holding talks about apologising for Britain’s role in slavery. The monarch told the Commonwealth Heads of Government Meeting in Antigua and Barbuda that slavery “still casts a shadow over these islands and other members” of the 56-nation group, many of which are former British colonies. “As I have ",
+          "resumen_es": "El rey Charles llamó a la trata transatlántica de esclavos “una injusticia monstruosa” el martes, abriendo una cumbre del Commonwealth en la que el líder británico Andy Burnham está celebrando conversaciones sobre disculpas por el papel de Gran Bretaña en la esclavitud. El monarca dijo al Commo"
+        }
+      ],
+      "fuentes": [
+        "South China Morning Post"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Comercio y finanzas, Diplomacia"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null

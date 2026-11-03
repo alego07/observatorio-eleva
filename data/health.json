@@ -1,11 +1,11 @@
 {
-  "updated_utc": "2026-11-03T19:43:20.372683+00:00",
+  "updated_utc": "2026-11-03T20:09:07.040151+00:00",
   "results": [
     {
       "source_id": "f16",
       "source_name": "CNN",
-      "status": "error",
-      "message": "HTTP Error 503: Service Unavailable"
+      "status": "ok",
+      "count_recent": 50
     },
     {
       "source_id": "f25",
@@ -70,8 +70,8 @@
     {
       "source_id": "f47",
       "source_name": "The Indian Express",
-      "status": "error",
-      "message": "HTTP Error 503: Service Unavailable"
+      "status": "ok",
+      "count_recent": 50
     },
     {
       "source_id": "f64",
@@ -100,8 +100,8 @@
     {
       "source_id": "f75",
       "source_name": "POLITICO US",
-      "status": "error",
-      "message": "HTTP Error 503: Service Unavailable"
+      "status": "ok",
+      "count_recent": 50
     },
     {
       "source_id": "f76",
@@ -131,7 +131,7 @@
       "source_id": "f80",
       "source_name": "War on the Rocks",
       "status": "ok",
-      "count_recent": 4
+      "count_recent": 5
     }
   ]
 }
