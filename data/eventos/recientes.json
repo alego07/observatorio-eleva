@@ -1,15 +1,27 @@
 {
-  "created_utc": "2026-11-03T18:07:01.364625+00:00",
+  "created_utc": "2026-11-03T18:29:16.704475+00:00",
   "events": [
     {
-      "id": "a-33d1a53fa02fc4963d64",
+      "id": "a-ba9088ac1e6185ed8aaf",
       "fecha": "2026-11-03",
-      "titulo_fuente": "Trump says US will end military aid to Israel by the end of this year",
+      "titulo_fuente": "Trump says US will end military aid to Israel as Americans vote in midterms",
       "region": "Oriente Medio",
       "temas": [
         "Seguridad y conflictos"
       ],
       "noticias": [
+        {
+          "id": "ba9088ac1e6185ed8aaf",
+          "titulo_original": "Trump says US will end military aid to Israel as Americans vote in midterms",
+          "titulo_es": "Trump dice que EE.UU. terminará la ayuda militar a Israel mientras los estadounidenses votan a mitad de período",
+          "url": "https://www.euronews.com/2026/11/03/trump-says-us-will-end-military-aid-to-israel-as-americans-vote-in-midterms",
+          "fuente": "Euronews",
+          "pais": "Unión Europea",
+          "fecha": "2026-11-03T18:10:17+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Trump tied the decision to criticism from left wing politicians, while US forces struck Iranian targets in the Strait of Hormuz.",
+          "resumen_es": "Trump ató la decisión a la crítica de políticos de izquierda, mientras que las fuerzas estadounidenses golpearon a objetivos iraníes en el Estrecho de Hormuz."
+        },
         {
           "id": "33d1a53fa02fc4963d64",
           "titulo_original": "Trump says US will end military aid to Israel by the end of this year",
@@ -23,54 +35,31 @@
           "resumen_es": "El presidente estadounidense hace un anuncio sorpresa del día de las elecciones, diciendo que el país no necesita el pago anual de $4bn Donald Trump ha dicho que los EE.UU. terminarán la ayuda militar a Israel a finales de este año en un anuncio del día de las elecciones sorpresa que"
         },
         {
-          "id": "1402249d23a511aab57f",
-          "titulo_original": "Trump says he will end billions of dollars in military aid to Israel - Politico",
+          "id": "6fbd2842880f761b2a23",
+          "titulo_original": "Americans vote in U.S. midterms that are seen as a referendum on Trump",
           "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMmd6SkVPb2ZTOURqbWtoSFVYckRHVHhtcjhrRUJlSGdXRTB5V1N2U0xTQ1VjQlNLN2ctaF9OWnlIcng4ZWoxS2l3WkFVWkl4RFVINUUyY2YwaGJpdzZCZEhZbkN3TzBULWdaS1M5TUJ1NF9CNzRJUEpMdXF1YUdYLXFQNmVHeEE?oc=5",
-          "fuente": "POLITICO US",
-          "pais": "Estados Unidos",
-          "fecha": "2026-11-03T15:20:00+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Trump says he will end billions of dollars in military aid to Israel Politico",
-          "resumen_es": ""
-        },
-        {
-          "id": "b7af1fb8314650107379",
-          "titulo_original": "Trump says US to stop financing Israel by year-end",
-          "titulo_es": "",
-          "url": "https://tass.com/world/2212597",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-03T14:31:35+00:00",
+          "url": "https://www.thehindu.com/videos/americans-vote-in-us-midterms-that-are-seen-as-a-referendum-on-trump/article71659975.ece",
+          "fuente": "The Hindu",
+          "pais": "India",
+          "fecha": "2026-11-03T09:06:37+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The US President did not explain what kind of assistance he was talking about",
-          "resumen_es": ""
-        },
-        {
-          "id": "9344263a36cde4e90cdc",
-          "titulo_original": "Trump says US will stop giving Israel aid after year-end",
-          "titulo_es": "",
-          "url": "https://www.aljazeera.com/news/2026/11/3/trump-announces-that-us-will-stop-paying-israel-after-year-end?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-11-03T13:42:05+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Military aid to Israel and campaign contributions from Israel’s backers to US candidates have animated political debate.",
+          "resumen_original": "Americans are heading to the polls for a high-stakes midterm election on November 3, 2026, serving as a critical nationwide referendum on President Donald Trump’s administration. Amid a deeply divided political landscape defined by foreign conflict, inflation, and trade battles, voters are deciding all 435 House seats, 37 Senate seats, and 36 gubernatorial races, featuring several prominent Indian American candidates.",
           "resumen_es": ""
         }
       ],
       "fuentes": [
-        "Al Jazeera",
-        "POLITICO US",
-        "TASS",
-        "The Guardian"
+        "Euronews",
+        "The Guardian",
+        "The Hindu"
       ],
       "actores_mencionados": [
         "Estados Unidos",
+        "India",
+        "Irán",
         "Israel",
         "Palestina"
       ],
-      "fuentes_independientes": 4,
+      "fuentes_independientes": 3,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
         "nombre": "Realismo y dilema de seguridad",
@@ -79,10 +68,10 @@
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 9,
+      "prioridad_orientativa": 8,
       "motivos_seleccion": [
         "Cobertura de fuentes distintas",
-        "Actores relevantes: Estados Unidos, Israel",
+        "Actores relevantes: Estados Unidos, India, Irán, Israel",
         "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
@@ -282,6 +271,66 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-b7af1fb8314650107379",
+      "fecha": "2026-11-03",
+      "titulo_fuente": "Trump says US to stop financing Israel by year-end",
+      "region": "Oriente Medio",
+      "temas": [
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "b7af1fb8314650107379",
+          "titulo_original": "Trump says US to stop financing Israel by year-end",
+          "titulo_es": "",
+          "url": "https://tass.com/world/2212597",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-03T14:31:35+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The US President did not explain what kind of assistance he was talking about",
+          "resumen_es": ""
+        },
+        {
+          "id": "9344263a36cde4e90cdc",
+          "titulo_original": "Trump says US will stop giving Israel aid after year-end",
+          "titulo_es": "",
+          "url": "https://www.aljazeera.com/news/2026/11/3/trump-announces-that-us-will-stop-paying-israel-after-year-end?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-03T13:42:05+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Military aid to Israel and campaign contributions from Israel’s backers to US candidates have animated political debate.",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera",
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Israel"
+      ],
+      "fuentes_independientes": 2,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia compleja y economía política internacional",
+        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 7,
+      "motivos_seleccion": [
+        "Cobertura de fuentes distintas",
+        "Actores relevantes: Estados Unidos, Israel",
+        "Ámbito: Comercio y finanzas"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-d50dbec915fe87137bf0",
       "fecha": "2026-11-03",
       "titulo_fuente": "Iran president says return to war benefits 'no one', after reported U.S. strikes",
@@ -443,6 +492,52 @@
       ],
       "fuentes": [
         "South China Morning Post"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Israel"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos, Israel",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-1402249d23a511aab57f",
+      "fecha": "2026-11-03",
+      "titulo_fuente": "Trump says he will end billions of dollars in military aid to Israel - Politico",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "1402249d23a511aab57f",
+          "titulo_original": "Trump says he will end billions of dollars in military aid to Israel - Politico",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMmd6SkVPb2ZTOURqbWtoSFVYckRHVHhtcjhrRUJlSGdXRTB5V1N2U0xTQ1VjQlNLN2ctaF9OWnlIcng4ZWoxS2l3WkFVWkl4RFVINUUyY2YwaGJpdzZCZEhZbkN3TzBULWdaS1M5TUJ1NF9CNzRJUEpMdXF1YUdYLXFQNmVHeEE?oc=5",
+          "fuente": "POLITICO US",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-03T15:20:00+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Trump says he will end billions of dollars in military aid to Israel Politico",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "POLITICO US"
       ],
       "actores_mencionados": [
         "Estados Unidos",
@@ -2557,53 +2652,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-3381af494bcc88ad5e9d",
-      "fecha": "2026-11-03",
-      "titulo_fuente": "US strikes Iran’s Qeshm Island ahead of midterms as Trump says deal ‘could happen’",
-      "region": "China",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "3381af494bcc88ad5e9d",
-          "titulo_original": "US strikes Iran’s Qeshm Island ahead of midterms as Trump says deal ‘could happen’",
-          "titulo_es": "",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3373075/us-strikes-irans-qeshm-island-ahead-midterms-trump-says-deal-could-happen",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-11-03T04:39:38+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The United States has attacked an Iranian island in the Strait of Hormuz, the latest in a series of covert, limited strikes ahead of the US midterm elections, as President Donald Trump signalled progress in talks with Tehran and mediators continue pushing for dialogue. A Chinese analyst said Washington faced no urgency to negotiate with an anxious Tehran, with the outcome of the midterms and Trump’s strategy still undecided. Iran’s Qeshm Island w",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "South China Morning Post"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "China",
-        "Irán"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: China, Estados Unidos, Irán",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-d780e624432c27941de2",
       "fecha": "2026-11-03",
       "titulo_fuente": "Melania Trump to bring Russian and Ukrainian representatives to White House this week - CNN",
@@ -2659,6 +2707,142 @@
       "motivos_seleccion": [
         "Cobertura de fuentes distintas",
         "Actores relevantes: Estados Unidos, Rusia, Ucrania"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-ee2a7dcd07148fc82dbf",
+      "fecha": "2026-11-03",
+      "titulo_fuente": "Norway’s charge d’affaires protested to over seizure of Russian property — MFA",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Diplomacia"
+      ],
+      "noticias": [
+        {
+          "id": "ee2a7dcd07148fc82dbf",
+          "titulo_original": "Norway’s charge d’affaires protested to over seizure of Russian property — MFA",
+          "titulo_es": "El cargo de Noruega por parte de los funcionarios de la Federación de Rusia fue objeto de protestas por la confiscación de bienes rusos.",
+          "url": "https://tass.com/politics/2212707",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-03T18:23:00+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The ministry stated that Moscow \"demanded that official Oslo unconditionally comply with international law, including the provisions of the Svalbard Treaty\"",
+          "resumen_es": "El ministerio declaró que Moscú \"demandó que Oslo oficial cumpla incondicionalmente con el derecho internacional, incluyendo las disposiciones del Tratado Svalbard\""
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Rusia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia",
+        "Ámbito: Diplomacia"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-ae3888cc0d9a58abc5f0",
+      "fecha": "2026-11-03",
+      "titulo_fuente": "Bullock’s inflation warning puts Chalmers’ Iran argument under pressure - Politico",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos",
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "ae3888cc0d9a58abc5f0",
+          "titulo_original": "Bullock’s inflation warning puts Chalmers’ Iran argument under pressure - Politico",
+          "titulo_es": "La advertencia de la inflación de Bullock pone bajo presión el argumento de Chalmers Irán - Politico",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUmRPbjF1eGhMUlFBNTVBeGhfdG15MjNDSHhxaEhnTXN3SXlScl9WeXRBcm0yU2tGX1BPQ1FSWkhUMHRLM1NzV0w1ZHg0aExUV1c1d2VJcXNMU2pRTU11eEhxTEU5Ym1YaDd6UXkyeEViVm55cGJqQTdOUkFmbW9QaVFZaU81TVFMWHM3cW9wWXMwN1U3N3NETmF1SDJlOWZObTFIeTBhVEZUUGN1T0F0NDNKVFBzcGI4cS00X1lad3U2LUZuWmxOM1A5djhtR1ZJNGtLcWxWYTNRQmU5?oc=5",
+          "fuente": "POLITICO US",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-03T18:15:00+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Bullock’s inflation warning puts Chalmers’ Iran argument under pressure Politico",
+          "resumen_es": "La advertencia de la inflación de Bullock pone el argumento de Chalmers Irán bajo presión Politico"
+        }
+      ],
+      "fuentes": [
+        "POLITICO US"
+      ],
+      "actores_mencionados": [
+        "Irán"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Irán",
+        "Ámbito: Comercio y finanzas, Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-8b7d0f30e59f47d054ea",
+      "fecha": "2026-11-03",
+      "titulo_fuente": "Trump Media shares rise by over 5% amid US midterm elections",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "8b7d0f30e59f47d054ea",
+          "titulo_original": "Trump Media shares rise by over 5% amid US midterm elections",
+          "titulo_es": "Las acciones de Trump Media aumentaron en más del 5% en las elecciones de mitad de período estadounidenses",
+          "url": "https://tass.com/economy/2212701",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-03T18:11:46+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "By 8:40 p.m. Moscow time, the stock was trading at $5.93 per share",
+          "resumen_es": "A las 8:40 horas Hora de Moscú, el stock estaba negociando a $5.93 por acción"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Rusia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos, Rusia"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -3606,6 +3790,51 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-9e42684cc04ab209756f",
+      "fecha": "2026-11-03",
+      "titulo_fuente": "Why the latest ‘Bageshwar Baba’ controversy could complicate BJP’s UP plans - The Indian Express",
+      "region": "Asia-Pacífico",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "9e42684cc04ab209756f",
+          "titulo_original": "Why the latest ‘Bageshwar Baba’ controversy could complicate BJP’s UP plans - The Indian Express",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbEpDZFNsTGVtd3FYUERlNzdTVHJDSVVhMjU4XzNlQTFDd0tjVTZEX2ZKWU1aZEVSVWlMUE8wd01seFJVZDREbHVrbm9VLUVadHhJMS1RY2F1R1lzLThoWUdMbDVlUmZsT25NWVFwU3d4QTdWSzlVbktVQXVYaExtUE9pVGdkWGh2VEFiM2wxd2ozM1NlNkRGQm5HV2tGSkR5V2NPZWpnMFRyVUtkVnAyT3drWmlNTzk5cV9RbjYteWdiX1Q0RThkd1pOeW4wZlVCeFNIaDNiSnN3bERw0gHjAUFVX3lxTE4zYjZjaldTR2NweVFNRE5YU0pXSndSYk94bWtMcUZZUzVOQm1WZXVpUWk5cUxJVWpCcVI4UHpCa1dUUjY1U3BJQlpXOFItZzV2Q1IzZ1R1bnZKVzdEQUpIUTJlR05MZU0telFVMmItcUI4OVJ5WFdFLWtLVWs4QUFoaWZ6SlJGVUljbUViaGdaanVqeXBVbURxMjB5WTd1VXQ1eDM1bE1TWGlyZ3VCUnBjaERmWWlvSDNIUnJCYTB3VnBwcFRzUV84NGstQXloWVdjZEVnbEsxZWJFd2RyTzFVUzNz?oc=5",
+          "fuente": "The Indian Express",
+          "pais": "India",
+          "fecha": "2026-11-03T15:04:52+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Why the latest ‘Bageshwar Baba’ controversy could complicate BJP’s UP plans The Indian Express",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "The Indian Express"
+      ],
+      "actores_mencionados": [
+        "India"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: India",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-72857466b07d9d2dbc0f",
       "fecha": "2026-11-03",
       "titulo_fuente": "Trump says he could take on Israeli PM job if things don't work out for him in US",
@@ -4278,6 +4507,51 @@
       "motivos_seleccion": [
         "Ámbito: Comercio y finanzas",
         "Posible decisión institucional o negociación"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-517dc42c5b7fb323cca2",
+      "fecha": "2026-11-03",
+      "titulo_fuente": "Trump’s Congress test begins: What Americans are voting for in 2026 US midterm elections - The Indian Express",
+      "region": "Estados Unidos",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "517dc42c5b7fb323cca2",
+          "titulo_original": "Trump’s Congress test begins: What Americans are voting for in 2026 US midterm elections - The Indian Express",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYzJWUGhwOEs0V2MtM01LTG43bC1WSFdSOWdvRHhzOVhVb19NbFlucjVDSUtxT2ZONXV6TVhXMjRsS2xWbVFNZVRtTDlGZFptaFpWUjliUmM4dWhzVjdfdUFxZFdxRml2d0gzaEhzR2NndkdnM25BOUFaSm5Ub1ZBYnhQTmdOdjl0d1ZZR2Z1bUNyOFltSG8tN1VjcUxSQUZhVHh4LXdqV0l3SUY1Y1BkaHZ1eHdFWGpvQ0FVUno2REpVQ09G0gHLAUFVX3lxTE5zQ0xaU3lIYmhjMTZ5aWZHelduOW1qTS1pS0pRQUotbDNjVUNIdEJTNlpOMTlaelpYcS1UTXB6R2xHT3ZzdUU1OGhabXNhMzZvWnR1bEt3RHZvUzI3SFVvbXJjT0twYUplSVRpUjh6Y2ZFekFYa0o2ZmVGQmxPV1gzeEFjc2d6QjhyaE9UbEJyeEp0LWUzdjNPUWItU3RrMFMxX2JJdS1PQkRld2VKVHpJbFIyd2d0UUN6WTUwRnUzNWFoZXZXT21uVDBz?oc=5",
+          "fuente": "The Indian Express",
+          "pais": "India",
+          "fecha": "2026-11-03T12:54:50+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Trump’s Congress test begins: What Americans are voting for in 2026 US midterm elections The Indian Express",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "The Indian Express"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "India"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos, India"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6045,141 +6319,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-84d4ef8a47f9713bb9af",
-      "fecha": "2026-11-03",
-      "titulo_fuente": "Russian drone attacks turn the Black Sea into the world’s deadliest waterway - CNN",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "84d4ef8a47f9713bb9af",
-          "titulo_original": "Russian drone attacks turn the Black Sea into the world’s deadliest waterway - CNN",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HanVrUDZ2T0g4NDRMQVJlVm1Da0gxY1Q0Q0xYcTFyd2JkaXduMXRLVDUtaEFLVktLdmliR1JPeVhyeWtEV2x1X3g2dnoyTkZWMGd2R0pncUxUTC1JcTVQSnJsUW9sdkkwaDdQaGRfeGpzZmNsZWZJQUV2a3NLQzQ?oc=5",
-          "fuente": "CNN",
-          "pais": "Estados Unidos",
-          "fecha": "2026-11-03T05:01:16+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Russian drone attacks turn the Black Sea into the world’s deadliest waterway CNN",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "CNN"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-decbb96255456f26e390",
-      "fecha": "2026-11-03",
-      "titulo_fuente": "En Ukraine, l’industrie sidérurgique menacée d’effondrement : « A l’heure actuelle, aucune production d’acier n’est assurée dans le pays »",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Comercio y finanzas"
-      ],
-      "noticias": [
-        {
-          "id": "decbb96255456f26e390",
-          "titulo_original": "En Ukraine, l’industrie sidérurgique menacée d’effondrement : « A l’heure actuelle, aucune production d’acier n’est assurée dans le pays »",
-          "titulo_es": "",
-          "url": "https://www.lemonde.fr/international/article/2026/11/03/en-ukraine-l-industrie-siderurgique-menacee-d-effondrement-a-l-heure-actuelle-aucune-production-d-acier-n-est-assuree-dans-le-pays_6805535_3210.html",
-          "fuente": "Le Monde",
-          "pais": "Francia",
-          "fecha": "2026-11-03T05:00:05+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Dans le bassin minier de Kryvy Rih, l’inquiétude est palpable. Alors que le complexe métallurgique d’ArcelorMittal, qui emploie 16 000 personnes, pourrait fermer après les frappes russes de septembre, le blocage des exportations en mer Noire et le bombardement des voies logistiques accélèrent le déclin d’un secteur économique qui faisait jadis la fierté du pays.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Le Monde"
-      ],
-      "actores_mencionados": [
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia compleja y economía política internacional",
-        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Ucrania",
-        "Ámbito: Comercio y finanzas"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-f01a841509d797d0d45a",
-      "fecha": "2026-11-03",
-      "titulo_fuente": "Felipe VI se enfrenta al reto de evitar que los insultos de Milei dinamiten la cumbre de Madrid",
-      "region": "Internacional",
-      "temas": [
-        "Diplomacia"
-      ],
-      "noticias": [
-        {
-          "id": "f01a841509d797d0d45a",
-          "titulo_original": "Felipe VI se enfrenta al reto de evitar que los insultos de Milei dinamiten la cumbre de Madrid",
-          "titulo_es": "",
-          "url": "https://elpais.com/espana/2026-11-03/felipe-vi-se-enfrenta-al-reto-de-evitar-que-los-insultos-de-milei-dinamiten-la-cumbre-de-madrid.html",
-          "fuente": "El País",
-          "pais": "España",
-          "fecha": "2026-11-03T04:30:01+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "La fractura sin precedentes de la comunidad iberoamericana pone en riesgo que se consensúe una declaración final",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "El País"
-      ],
-      "actores_mencionados": [
-        "Argentina"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Ámbito: Diplomacia",
-        "Posible decisión institucional o negociación"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-2d9e774d9f0a9b647091",
       "fecha": "2026-11-03",
       "titulo_fuente": "Americans head to the polls for US midterm elections",
@@ -6492,6 +6631,311 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-2cdf2728ad04ee32078c",
+      "fecha": "2026-11-03",
+      "titulo_fuente": "White House mood cautiously optimistic on Election Day — media",
+      "region": "Estados Unidos",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "2cdf2728ad04ee32078c",
+          "titulo_original": "White House mood cautiously optimistic on Election Day — media",
+          "titulo_es": "El estado de ánimo de la Casa Blanca es cauteloso optimista en el Día de las Elecciones — medios",
+          "url": "https://tass.com/world/2212703",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-03T18:14:09+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "One official said US President Donald Trump had been \"in great spirits\" on Monday",
+          "resumen_es": "Un funcionario dijo que el presidente estadounidense Donald Trump había estado \"en grandes espíritus\" el lunes"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-72a27da38d98945878c5",
+      "fecha": "2026-11-03",
+      "titulo_fuente": "UK’s King Charles calls slavery ‘monstrous injustice’, as PM mulls apology",
+      "region": "Europa",
+      "temas": [
+        "Diplomacia",
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "72a27da38d98945878c5",
+          "titulo_original": "UK’s King Charles calls slavery ‘monstrous injustice’, as PM mulls apology",
+          "titulo_es": "El rey Carlos del Reino Unido llama a la esclavitud \"una injusticia monstruosa\", como PM mulls apology",
+          "url": "https://www.scmp.com/news/world/europe/article/3373184/uks-king-charles-calls-slavery-monstrous-injustice-pm-mulls-apology",
+          "fuente": "South China Morning Post",
+          "pais": "Hong Kong",
+          "fecha": "2026-11-03T18:08:43+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "King Charles called the transatlantic slave trade “a monstrous injustice” on Tuesday, opening a Commonwealth summit in which UK leader Andy Burnham is holding talks about apologising for Britain’s role in slavery. The monarch told the Commonwealth Heads of Government Meeting in Antigua and Barbuda that slavery “still casts a shadow over these islands and other members” of the 56-nation group, many of which are former British colonies. “As I have ",
+          "resumen_es": "El rey Charles llamó a la trata transatlántica de esclavos “una injusticia monstruosa” el martes, abriendo una cumbre del Commonwealth en la que el líder británico Andy Burnham está celebrando conversaciones sobre disculpas por el papel de Gran Bretaña en la esclavitud. El monarca dijo al Commo"
+        }
+      ],
+      "fuentes": [
+        "South China Morning Post"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Comercio y finanzas, Diplomacia"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-a48eabb876102e9b860b",
+      "fecha": "2026-11-03",
+      "titulo_fuente": "Average US gasoline price reaches $4.15 per gallon on congressional election day",
+      "region": "Internacional",
+      "temas": [
+        "Energía y clima"
+      ],
+      "noticias": [
+        {
+          "id": "a48eabb876102e9b860b",
+          "titulo_original": "Average US gasoline price reaches $4.15 per gallon on congressional election day",
+          "titulo_es": "El precio medio de la gasolina estadounidense alcanza $4.15 por galón en el día electoral del Congreso",
+          "url": "https://tass.com/world/2212695",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-03T18:06:49+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "According to the TV channel, this is the highest gasoline price recorded on an election day since tracking began in 2000",
+          "resumen_es": "Según el canal de televisión, este es el precio de gasolina más alto registrado en un día electoral desde que el seguimiento comenzó en 2000"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia y gobernanza global",
+        "pregunta": "¿Cómo se distribuyen los costos de coordinación y los incentivos para cooperar?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Energía y clima"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-823a0b889a4766a5ed42",
+      "fecha": "2026-11-03",
+      "titulo_fuente": "Shooting | Disappointing day for shooters at Worlds with one final and no Olympic quota - The Indian Express",
+      "region": "Asia-Pacífico",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "823a0b889a4766a5ed42",
+          "titulo_original": "Shooting | Disappointing day for shooters at Worlds with one final and no Olympic quota - The Indian Express",
+          "titulo_es": "Disparos ¦ Día de decepcionante para tiradores en Mundos con una cuota final y no olímpica - El Expreso Indio",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONGVVYjhyTEtGSmg0TW9TbXlvbVB5NktJbFplQWZwU2VpLTF1UXNIT1ZWOGxyV3R4d2NGR0w4a3VKdjdvU3dqTlNvc1lHb2RtU2tISVktNGVyMUlSSkwycW5sc3N3R2pGRDlrbEJkWTVEdkF1MUNWNm13Y3NqdHlHTERkTS1nQVR5bEJ5bDVRS05QZkdWcVRLcTJVNGszRmRPNGo4UmZ3RGZvNzdfRndFc9IBtwFBVV95cUxNUHloWU1nN2VfbWhZMDk5S2FqQ2o4LTdhWGJGUnBjTGkwNXFsVDg0XzRTWVU0X1BiaWRTc25ycnQ5cHh0MU9SQUtETzFuQ0YwRU5OZG9qd1hlajM2ODJ1bEk5MS1CY0dxQzN0Y1RfcWROcnJGMGpqNGxhZlJ2SktoQzA3T1FicmQ2dVhEMTJDRldUREgtcjhEOUkzWnVNSHdYbWhYOW03anM5OHhkTVYwcFNhN243aUE?oc=5",
+          "fuente": "The Indian Express",
+          "pais": "India",
+          "fecha": "2026-11-03T18:05:14+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Shooting | Disappointing day for shooters at Worlds with one final and no Olympic quota The Indian Express",
+          "resumen_es": "Disparos ¦ Día de decepcionante para tiradores en Mundos con una cuota final y no olímpica El Expreso Indio"
+        }
+      ],
+      "fuentes": [
+        "The Indian Express"
+      ],
+      "actores_mencionados": [
+        "India"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: India"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-171c57be0c74ce61002b",
+      "fecha": "2026-11-03",
+      "titulo_fuente": "EN DIRECT, guerre en Ukraine : à Kiev, des coupures de courant d’urgence mises en place, le maire dénonce les attaques russes sur les infrastructures énergétiques de la ville",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "171c57be0c74ce61002b",
+          "titulo_original": "EN DIRECT, guerre en Ukraine : à Kiev, des coupures de courant d’urgence mises en place, le maire dénonce les attaques russes sur les infrastructures énergétiques de la ville",
+          "titulo_es": "",
+          "url": "https://www.lemonde.fr/international/live/2026/11/03/en-direct-guerre-en-ukraine-a-kiev-des-coupures-de-courant-d-urgence-mises-en-place-le-maire-denonce-les-attaques-russes-sur-les-infrastructures-energetiques-de-la-ville_6803934_3210.html",
+          "fuente": "Le Monde",
+          "pais": "Francia",
+          "fecha": "2026-11-03T18:01:01+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "« La situation de l’approvisionnement en électricité à Kiev est extrêmement difficile », a déclaré, mardi, Vitali Klitschko, le maire de la capitale ukrainienne. « L’ennemi continue de détruire les infrastructures ukrainiennes », a poursuivi M. Klitschko. Ces frappes auraient également provoqué des perturbations de la distribution d’eau dans la capitale et de la circulation des transports publics électriques, a-t-il ajouté.",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "Le Monde"
+      ],
+      "actores_mencionados": [
+        "Ucrania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Ucrania"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-5b67860050e2a67acafd",
+      "fecha": "2026-11-03",
+      "titulo_fuente": "Au Luxembourg, le « FMI européen » s’inquiète de la situation financière de la France",
+      "region": "Europa",
+      "temas": [
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "5b67860050e2a67acafd",
+          "titulo_original": "Au Luxembourg, le « FMI européen » s’inquiète de la situation financière de la France",
+          "titulo_es": "",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/03/au-luxembourg-le-fmi-europeen-s-inquiete-de-la-situation-financiere-de-la-france_6805642_3234.html",
+          "fuente": "Le Monde",
+          "pais": "Francia",
+          "fecha": "2026-11-03T18:00:03+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Le Mécanisme européen de stabilité peut prêter jusqu’à 500 milliards d’euros aux pays financièrement étranglés. « Nous n’avons aucune raison d’intervenir à ce stade », assure son directeur général.",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "Le Monde"
+      ],
+      "actores_mencionados": [
+        "Francia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia compleja y economía política internacional",
+        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Comercio y finanzas"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-3d2b637c1a51ac030a01",
+      "fecha": "2026-11-03",
+      "titulo_fuente": "En Ukraine, la Russie intensifie ses frappes contre des cibles civiles",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "3d2b637c1a51ac030a01",
+          "titulo_original": "En Ukraine, la Russie intensifie ses frappes contre des cibles civiles",
+          "titulo_es": "",
+          "url": "https://www.lemonde.fr/international/article/2026/11/03/en-ukraine-la-russie-intensifie-ses-frappes-contre-des-cibles-civiles_6805643_3210.html",
+          "fuente": "Le Monde",
+          "pais": "Francia",
+          "fecha": "2026-11-03T18:00:01+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Un bombardement, le 1ᵉʳ novembre, contre une école faisant office, chaque lundi, de centre de distribution d’aide humanitaire a fait 33 morts et une cinquantaine de disparus, selon le dernier bilan.",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "Le Monde"
+      ],
+      "actores_mencionados": [
+        "Ucrania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Ucrania"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-8a5e3d78f9aa5a3ebb18",
       "fecha": "2026-11-03",
       "titulo_fuente": "Las ‘midterms’ 2026, en vivo | Los votantes acuden a las urnas en unas elecciones en las que Estados Unidos decide el control del Congreso",
@@ -6531,439 +6975,6 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Actores relevantes: Estados Unidos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-fa5d6b983536ac03ef49",
-      "fecha": "2026-11-03",
-      "titulo_fuente": "‘Well-known individual’ fails in bid for injunction against Guardian and ITN",
-      "region": "Internacional",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "fa5d6b983536ac03ef49",
-          "titulo_original": "‘Well-known individual’ fails in bid for injunction against Guardian and ITN",
-          "titulo_es": "“Persona bien conocida” falla en la puja de la orden contra Guardián e ITN",
-          "url": "https://www.theguardian.com/uk-news/2026/nov/03/well-known-individual-fails-injunction-bid-guardian-itn",
-          "fuente": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-03T17:56:14+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Person’s anonymity remains in place subject to any appeal against high court decision A “well-known individual” has failed in his attempt to stop two media organisations from publishing allegations of inappropriate sexual activities towards young women, the high court has ruled. The legal team for the anonymous individual, known in court only as PPT, had claimed he was “highly likely” to attempt suicide if the Guardian and ITN published the alleg",
-          "resumen_es": "El anonimato de la persona permanece sujeto a cualquier apelación contra la decisión de la corte alta Un “bien conocido” ha fracasado en su intento de detener a dos organizaciones de medios de comunicación de publicar denuncias de actividades sexuales inapropiadas hacia"
-        }
-      ],
-      "fuentes": [
-        "The Guardian"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-39d74af8d52358d60189",
-      "fecha": "2026-11-03",
-      "titulo_fuente": "Zelensky’s former spokesperson charged in absentia with high treason — SBU",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "39d74af8d52358d60189",
-          "titulo_original": "Zelensky’s former spokesperson charged in absentia with high treason — SBU",
-          "titulo_es": "El ex portavoz de Zelensky cargado en rebeldía con alta traición — SBU",
-          "url": "https://tass.com/world/2212661",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-03T17:49:29+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The investigators stated that Yuliya Mendel had used public statements and social media posts to discredit Ukraine on the international stage",
-          "resumen_es": "The investigators stated that Yuliya Mendel had used public statements and social media posts to discredit Ukraine on the international stage"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Ucrania"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-e76cc206450a9224f8b4",
-      "fecha": "2026-11-03",
-      "titulo_fuente": "Russian stock market closes with major indices down 0.56% and 1.4%",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "e76cc206450a9224f8b4",
-          "titulo_original": "Russian stock market closes with major indices down 0.56% and 1.4%",
-          "titulo_es": "El mercado de valores ruso cierra con índices mayores de 0,56% y 1,4%",
-          "url": "https://tass.com/economy/2212683",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-03T17:46:00+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The MOEX Index attempted to return to the 2,500-point mark",
-          "resumen_es": "El índice MOEX intentó volver a la marca de 2.500 puntos"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-09e7dc22dd9a4dafd0b9",
-      "fecha": "2026-11-03",
-      "titulo_fuente": "Los votantes LGTBIQ+ se movilizan en EE UU para frenar a Trump en las elecciones de medio mandato",
-      "region": "Estados Unidos",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "09e7dc22dd9a4dafd0b9",
-          "titulo_original": "Los votantes LGTBIQ+ se movilizan en EE UU para frenar a Trump en las elecciones de medio mandato",
-          "titulo_es": "",
-          "url": "https://elpais.com/sociedad/lgtb/2026-11-03/los-votantes-lgtbiq-se-movilizan-en-ee-uu-para-frenar-a-trump-en-las-elecciones-de-medio-mandato.html",
-          "fuente": "El País",
-          "pais": "España",
-          "fecha": "2026-11-03T17:45:14+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Tres de cada cuatro estadounidenses del colectivo consideran la defensa de los derechos el motivo más importante para acudir a las urnas",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "El País"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-0825ca92fbb60d2c0950",
-      "fecha": "2026-11-03",
-      "titulo_fuente": "Gas reserves in European storage facilities at lowest level since 2013 — IEA",
-      "region": "Europa",
-      "temas": [
-        "Energía y clima"
-      ],
-      "noticias": [
-        {
-          "id": "0825ca92fbb60d2c0950",
-          "titulo_original": "Gas reserves in European storage facilities at lowest level since 2013 — IEA",
-          "titulo_es": "Reservas de gas en instalaciones de almacenamiento europeas al nivel más bajo desde 2013 — IEA",
-          "url": "https://tass.com/economy/2212677",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-03T17:37:46+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "As of the end of October, gas storage facilities in the EU were 75% full",
-          "resumen_es": "A finales de octubre, las instalaciones de almacenamiento de gas en la UE estaban llenas del 75%"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia y gobernanza global",
-        "pregunta": "¿Cómo se distribuyen los costos de coordinación y los incentivos para cooperar?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Energía y clima"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-4870db57d304a9f8f49d",
-      "fecha": "2026-11-03",
-      "titulo_fuente": "South Korea, Turkey agree to deepen nuclear energy, defence ties",
-      "region": "Internacional",
-      "temas": [
-        "Seguridad y conflictos",
-        "Energía y clima"
-      ],
-      "noticias": [
-        {
-          "id": "4870db57d304a9f8f49d",
-          "titulo_original": "South Korea, Turkey agree to deepen nuclear energy, defence ties",
-          "titulo_es": "Corea del Sur, Turquía está de acuerdo en profundizar la energía nuclear, los vínculos de defensa",
-          "url": "https://www.thehindu.com/news/international/south-korea-turkey-agree-to-deepen-nuclear-energy-defence-ties/article71662518.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-11-03T17:37:23+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The two sides agreed that cooperation on Turkey's Sinop nuclear power plant project has been progressing smoothly",
-          "resumen_es": "Las dos partes acordaron que la cooperación en el proyecto de la central nuclear Sinop de Turquía ha estado progresando sin problemas"
-        }
-      ],
-      "fuentes": [
-        "The Hindu"
-      ],
-      "actores_mencionados": [
-        "Turquía"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Energía y clima, Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-707e309eccb08d8cd079",
-      "fecha": "2026-11-03",
-      "titulo_fuente": "Since start of Russia’s special mil-op, media fakes multiply to split country — official",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "707e309eccb08d8cd079",
-          "titulo_original": "Since start of Russia’s special mil-op, media fakes multiply to split country — official",
-          "titulo_es": "Desde el comienzo del bucle especial de Rusia, los medios de comunicación se multiplican por países divididos — oficiales",
-          "url": "https://tass.com/politics/2212671",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-03T17:33:29+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "According to Alexey Shevtsov, this disinformation is carried out through the media, with the support of non-governmental organizations",
-          "resumen_es": "Según Alexey Shevtsov, esta desinformación se realiza a través de los medios de comunicación, con el apoyo de organizaciones no gubernamentales"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-00bb07b4fa134150e5ee",
-      "fecha": "2026-11-03",
-      "titulo_fuente": "« Ce n’est pas la fin du monde » : l’Afrique du Sud minimise la portée de son exclusion d’un accord commercial avec les Etats-Unis",
-      "region": "Estados Unidos",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "00bb07b4fa134150e5ee",
-          "titulo_original": "« Ce n’est pas la fin du monde » : l’Afrique du Sud minimise la portée de son exclusion d’un accord commercial avec les Etats-Unis",
-          "titulo_es": "",
-          "url": "https://www.lemonde.fr/afrique/article/2026/11/03/ce-n-est-pas-la-fin-du-monde-l-afrique-du-sud-minimise-la-portee-de-son-exclusion-d-un-accord-commercial-avec-les-etats-unis_6805638_3212.html",
-          "fuente": "Le Monde",
-          "pais": "Francia",
-          "fecha": "2026-11-03T17:30:02+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Washington a fait savoir, lundi 2 novembre, que Pretoria ne bénéficiera plus de l’accord AGOA, qui exempte de taxes de nombreux produits africains importés aux Etats-Unis, à compter du 1ᵉʳ janvier 2027. Une décision attendue par l’exécutif, mais qui inquiète certains secteurs exposés.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Le Monde"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-e21111a5b1d5b415e35f",
-      "fecha": "2026-11-03",
-      "titulo_fuente": "Food suppliers in UK hit by cyber-attacks after freezers targeted in Europe",
-      "region": "Europa",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "e21111a5b1d5b415e35f",
-          "titulo_original": "Food suppliers in UK hit by cyber-attacks after freezers targeted in Europe",
-          "titulo_es": "Proveedores de alimentos en Reino Unido golpeados por ciberataques después de congeladores dirigidos en Europa",
-          "url": "https://www.theguardian.com/technology/2026/nov/03/uk-meat-processing-firms-fridges-heat-up-cyber-attacks",
-          "fuente": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-03T17:28:49+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Cybersecurity experts say national impact ‘minimal’ but incidents may represent the ‘foothills’ of a wider threat Food suppliers in the UK have been hit by cyber-attacks after hackers raised the temperatures of supermarket freezers across Europe. The UK’s National Cyber Security Centre said it was working with the affected companies but the national impact was minimal. Continue reading...",
-          "resumen_es": "Expertos en ciberseguridad dicen que el impacto nacional \"minimal\", pero los incidentes pueden representar los \"pieles\" de una amenaza más amplia Los proveedores de alimentos en el Reino Unido han sido golpeados por ciberataques después de que los hackers aumentaran las temperaturas de los congeladores de supermercados en E"
-        }
-      ],
-      "fuentes": [
-        "The Guardian"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-84fdf9610403853c927c",
-      "fecha": "2026-11-03",
-      "titulo_fuente": "Kiev mayor says city's energy supply extremely scarce",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Energía y clima"
-      ],
-      "noticias": [
-        {
-          "id": "84fdf9610403853c927c",
-          "titulo_original": "Kiev mayor says city's energy supply extremely scarce",
-          "titulo_es": "Alcalde de Kiev dice que el suministro de energía de la ciudad es extremadamente escaso",
-          "url": "https://tass.com/world/2212667",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-03T17:28:17+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "According to Vitaly Klitschko, the facilities of the Kiev regional energy hub have been damaged in the recent days",
-          "resumen_es": "Según Vitaly Klitschko, las instalaciones del centro energético regional de Kiev han sido dañadas en los últimos días"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia y gobernanza global",
-        "pregunta": "¿Cómo se distribuyen los costos de coordinación y los incentivos para cooperar?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Energía y clima"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
