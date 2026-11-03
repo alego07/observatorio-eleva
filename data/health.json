@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-03T18:27:15.284089+00:00",
+  "updated_utc": "2026-11-03T18:40:18.475783+00:00",
   "results": [
     {
       "source_id": "f16",
@@ -82,8 +82,8 @@
     {
       "source_id": "f66",
       "source_name": "Noticias del Consejo de la UE",
-      "status": "error",
-      "message": "The read operation timed out"
+      "status": "ok",
+      "count_recent": 10
     },
     {
       "source_id": "f67",

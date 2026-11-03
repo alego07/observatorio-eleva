@@ -1,17 +1,25 @@
 {
-  "actualizado_utc": "2026-11-03T18:29:16.755350+00:00",
+  "actualizado_utc": "2026-11-03T18:41:50.696976+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 1558,
-      "nuevas_24h": 120,
-      "anteriores_24h": 71,
+      "cantidad_archivada": 1565,
+      "nuevas_24h": 126,
+      "anteriores_24h": 72,
       "dias_con_registros": 19,
-      "fecha_ultima": "2026-11-03T18:23:00+00:00",
+      "fecha_ultima": "2026-11-03T18:26:28+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "00141026a30cf082c30c",
+          "fecha": "2026-11-03T18:26:28+00:00",
+          "titulo": "Ukraine borrows $18.5 bln since beginning of 2026",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2212711",
+          "traducida": false
+        },
         {
           "id": "ee2a7dcd07148fc82dbf",
           "fecha": "2026-11-03T18:23:00+00:00",
@@ -213,6 +221,14 @@
           "traducida": false
         },
         {
+          "id": "5edcddd268fe23b32571",
+          "fecha": "2026-11-03T15:35:00+00:00",
+          "titulo": "Statement by the HR on behalf of the EU on the alignment of certain countries with Council Decision (CFSP) 2026/2258 concerning restrictive measures in view of Russia’s destabilising activities",
+          "fuente": "Noticias del Consejo de la UE",
+          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/03/statement-by-the-hr-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-with-council-decision-cfsp-20262258-concerning-restrictive-measures-in-view-of-russia-s-destabilising-activities/",
+          "traducida": false
+        },
+        {
           "id": "065238c24a56c192b3e0",
           "fecha": "2026-11-03T15:29:02+00:00",
           "titulo": "Trump memecoin falls nearly 2% amid US midterm elections",
@@ -221,35 +237,19 @@
           "traducida": false
         },
         {
-          "id": "c7c62122085b2ace07e9",
-          "fecha": "2026-11-03T15:18:13+00:00",
-          "titulo": "Nordic nations refuse to face Russia in ice hockey World Championship",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/11/3/nordic-nations-refuse-to-face-russia-in-ice-hockey-world-championship?traffic_source=rss",
+          "id": "db0936f782a16154c120",
+          "fecha": "2026-11-03T15:25:00+00:00",
+          "titulo": "HR statement on behalf of the EU on the alignment of certain countries with Council Decision (CFSP) 2026/2264 concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty ",
+          "fuente": "Noticias del Consejo de la UE",
+          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/03/hr-statement-on-behalf-of-eu-on-alignment-with-decision-20262264-concerning-restrictive-measures-in-respect-of-actions-undermining-or-threatening-the-territorial-integrity-sovereignty-and-independence-of-ukraine/",
           "traducida": false
         },
         {
-          "id": "e05562145045b85cd76c",
-          "fecha": "2026-11-03T15:14:01+00:00",
-          "titulo": "US stock market opens with mixed amid midterm elections",
-          "fuente": "TASS",
-          "url": "https://tass.com/economy/2212627",
-          "traducida": false
-        },
-        {
-          "id": "a7579991af853ced098d",
-          "fecha": "2026-11-03T15:10:31+00:00",
-          "titulo": "Peskov reveals details of preparations for Putin-Trump-Xi meeting at APEC summit",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2212623",
-          "traducida": false
-        },
-        {
-          "id": "c637fe9a0ab814a73eaa",
-          "fecha": "2026-11-03T15:02:00+00:00",
-          "titulo": "Ukraine’s Zaporizhzhia region suffers huge Russian bomb attack - CNN",
-          "fuente": "CNN",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYkl0b0tibWxBTVNpTHdSa05nZGw0bURiRFgza09xanRBbjNPVHJRTE9HaWRmaXZ5aDNQNEZBY2dQcVk4cXM0emtBZW1oOFlXOHhMd0ZZUHQxaVFpOEFGaFFHb0RZOTF6WmRBRTFMUHFZa3U4OEJwZ2lxWk1iRHBRTHdVT0JYVWpFekExU0JCV0RVWTdSVXhBMkJZQUpDcm0xVnl4bWVMeGJLUDRuaWhOcEh1NmZQZ2liM0E?oc=5",
+          "id": "54be086e2dcd3c9a7299",
+          "fecha": "2026-11-03T15:20:00+00:00",
+          "titulo": "Statement by the HR on behalf of the EU on the alignment of certain third countries with Council Decision (CFSP) 2026/2192 concerning restrictive measures in view of the situation in Russia",
+          "fuente": "Noticias del Consejo de la UE",
+          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/03/statement-by-the-hr-on-behalf-of-the-eu-on-the-alignment-of-certain-third-countries-with-council-decision-cfsp-20262192-concerning-restrictive-measures-in-view-of-the-situation-in-russia/",
           "traducida": false
         }
       ]
@@ -257,9 +257,9 @@
     {
       "id": "oriente-medio",
       "titulo": "Oriente Medio: seguridad y diplomacia",
-      "cantidad_archivada": 960,
+      "cantidad_archivada": 961,
       "nuevas_24h": 77,
-      "anteriores_24h": 55,
+      "anteriores_24h": 56,
       "dias_con_registros": 19,
       "fecha_ultima": "2026-11-03T18:15:00+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -509,9 +509,9 @@
     {
       "id": "india-asia",
       "titulo": "India y Asia-Pacífico",
-      "cantidad_archivada": 829,
-      "nuevas_24h": 69,
-      "anteriores_24h": 92,
+      "cantidad_archivada": 833,
+      "nuevas_24h": 73,
+      "anteriores_24h": 91,
       "dias_con_registros": 19,
       "fecha_ultima": "2026-11-03T18:05:14+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -578,6 +578,14 @@
           "titulo": "Before Sindhu and Lakshya, India’s World Juniors team too was left waiting for funds - The Indian Express",
           "fuente": "The Indian Express",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZmpOU2RaRnhFeHYwMWI3ZExHam1sRERwYUJ6Z3JDdHI0dGJqNXVqS2pHX1d2MTB1ZHpUTkhjTDlSTkpvbk9OQXE4aVNDOFl6T0licW0xcC1HVkM5MkhFVU5GNHBhRXkxSV9RVWFzTUJlMmNqSUdyOUtpSS1Lbl9VMHdRbWhlenBvaHFFMWIwLVQxeFhtSHA4b21MMk9oSTU2MS1SQnRBNmtYSjk1UXlpUnh1bjFmSDkxd3NZTktXSHNqalXSAcoBQVVfeXFMTnNLUm1PUHVFQTdXY19FdENuRDBXVGdUdmlDS1NNTmttcWxMb3NHYjZ1SUJQR21YSWViWTFWSFcwa2FhMUE4bTZFcFJRMXJndmdDN05uaC1RNGpCVml3dkdJZE5tX0t5R0RzWE5zbFVlWUVYQXhqcG1qSGR4QnhrR3BycEJ1cXZKZ2VMZFpvT2ZFSWIzTWtEdTZfQnNMcW04RDFIZlNOa1oxenRSdXV3clpsY0lodG1ONDRKM1MtX21qTzZ6cTNkQUJDUQ?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "6f097f60260e11e8e59d",
+          "fecha": "2026-11-03T13:54:38+00:00",
+          "titulo": "'Strategically wrong': Sadagoppan Ramesh slams CSK for heading into IPL 2027 without a batting coach | Cricket News - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQV3JOZExoRVhhVW9JTlRRNXR0NXNJbXBLZUZMNVA0dko3SlZxdXlYMEJMQnNIeG5mX0dUcTZ3TVhzVmxGVEZPWE9EZndCdGJpOThBcHdOTTl2emdyUW1xcjlPQzhVc28zUXdnd3FqQ2dlby1KSFB1bEdwQTVkRnQ4Q19nYjZlbFVpZmV4ejlMNnVMS1pQdXpPWUM3SDhoOXJaNnZwMlFxVUxuTElPcXdGR1d6U0tXbFJFU0dJQnNB?oc=5",
           "traducida": false
         },
         {
@@ -669,6 +677,14 @@
           "traducida": false
         },
         {
+          "id": "a2bec88e714a69d35fdd",
+          "fecha": "2026-11-03T11:36:12+00:00",
+          "titulo": "How Indian Navy commandos airdropped into pirate waters to save hijacked vessel - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQkdfRFVIcktjT1YyRHZ5LVBaaGw0WGUzV3pkbE1Kd1hOWXdJQUFCcG9hY3U4enpmVElhV19oT3FxeTB3Rl9WeHE1S1NBMElkVTFJQjg4VXdJUGlHOW5Wc2pBX0w4MnBfWTZZV192YndubzJ2WjZfRW9ZT2pEWk1jQXh2cTdMVjBwdHdaanh3Z3RCWFNRdHdPbVg3U3M0ZWxxMlZwRXItZ1kxR29pbEFkM2Nn0gG4AUFVX3lxTFBxWENIbGFnSng3c0tqZG1qMG1ibThMUEZQSEVBVVFuRWh6M0hzSTI5ejNBUlZwckNvbzJ2SzZIWjgwdkRGM0lXdHA5ak9vYU9PU28yMnVPUFpheDRTdTVSM1NIRjhGMVZaQUJEb0V5VkFyZTdLV3dLaEZFY2JMdXlRVm1MYWhPSzVNYXFQTVRkS2J5bEFiMVd2b1hhUDJNcE9yU2pQYURjNkVIUHV1MXMtTXhxNTltTTk?oc=5",
+          "traducida": false
+        },
+        {
           "id": "f86e7f84d89387f07d3d",
           "fecha": "2026-11-03T11:30:34+00:00",
           "titulo": "How India pulled 500 million people out of poverty, as inequality deepens",
@@ -709,6 +725,14 @@
           "traducida": false
         },
         {
+          "id": "7457393f2bd6da347e59",
+          "fecha": "2026-11-03T10:12:00+00:00",
+          "titulo": "Priyanka Chopra’s ‘Diwaloween’ décor blends spooky with sparkle - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQVJyQjBXYnJEbXhSaTdvcVZwdEh1cVdXMl9kdHplWTJBZVlScmpCUDY2OVREbXhxMkJBR3dWelFYamFuUWtFd1NoUV9sS3hzdEJyQUJVd28xR2xuRzJrd3BDRVI5MS1yNE5DenRTY2J2cGJVd0xDdmhaOUxCVllQenBlNjFDYkJueHIyay1udXRNU1pDNDE40gGeAUFVX3lxTE9sUi1Tdkl4VHA5TVVBbDRjLW5CRjVlaFlJRVNSVWJzazFqY1JTZ3poVjRtTVc4cmhxYndPYXFSYlRnNUN2MFg5MVM3YnFTOGRIYi1Xa2lWc1ZlMVlyWWJYVmFUMFhDUkZ2X1l6RDNhaktTNWlYV2FrSUt3aTNQaUdWUWxsV2ktYm5NNV9BVmNLVlpmYUpXaGg5dHVzZVhR?oc=5",
+          "traducida": false
+        },
+        {
           "id": "74d02f03adfbbc3981a9",
           "fecha": "2026-11-03T09:58:20+00:00",
           "titulo": "KPSC jobs scam: Arrested chief building Rs 35-crore ‘dream project’, says ED - The Indian Express",
@@ -731,38 +755,14 @@
           "fuente": "Al Jazeera",
           "url": "https://www.aljazeera.com/news/2026/11/3/cyclone-murasu-makes-landfall-on-indias-eastern-coast?traffic_source=rss",
           "traducida": false
-        },
-        {
-          "id": "d602ae5852cd92c38d29",
-          "fecha": "2026-11-03T09:15:08+00:00",
-          "titulo": "Japanese voters yearn for ‘strong politician’ like Trump, but without his showmanship",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/week-asia/people/article/3373131/japanese-voters-yearn-strong-politician-trump-without-his-showmanship",
-          "traducida": false
-        },
-        {
-          "id": "9ba98ccaef8c11f66ecf",
-          "fecha": "2026-11-03T09:14:07+00:00",
-          "titulo": "BJP corporator slaps man over UGC question at UP Deputy CM event, party MLA objects - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYlZNTWdULXVjNW5mNXZ3QkxQZUViSnplYzdpS1pfdGVJNFM2TXhoemlVcm9iMjVaNW9YTlA1ZGFFMHdTQ2V5bE9pTHE4cXNvVDdabEpUOHQ4dm5BN1NDMzVkb1ZkdEwyTXBwTjFsWTJHdWR3SEpmMkZPeklGT2pUZVlJLWJFcVp6T1J5RkVRVXc5NlpJRDh1NmxSYkc2cE1WUDVrdTNaQjlaTUc2S0VZaFotSVlBWGVEZU1rSXJ0UEtNS0JQYjI2el9vcGpWT2E4N0lQNEc1SXg2cndZT1dOZnFB0gHoAUFVX3lxTE81eVNEc2hJR01lOURRbmctbGVVdWFFZHRlZlVEdGpxcWhjb3B0Q1JvZjgwdEUxUkFtNzNoR3lTeW5sM1kxeGFQWWFpNDhzZFktZlJZc1VFSUpGeTBiY0k3TDVEcGlhZ3gzcHlyM2NxQkxBRk1HNWlBSEU2VXJVSVlzSTNqZmw2VGR2WlhwdGdoMlRLcVVTdDI3U0gyWTZDbXliMV9EaDNtZGJMVnV4aFRZUS1PWGl3UzlweTJEVEZrQUNETHl4TGdsRjlVWWpCY01rVFlzZnBYV0lfbWdwYlRXRFl4VUxEN0s?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "33e8a757272ddca5f913",
-          "fecha": "2026-11-03T09:12:40+00:00",
-          "titulo": "Cricket World Cup: India vs Pakistan gets more ticket requests than final",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/11/3/cricket-world-cup-india-vs-pakistan-gets-more-ticket-requests-than-final?traffic_source=rss",
-          "traducida": false
         }
       ]
     },
     {
       "id": "union-europea",
       "titulo": "Unión Europea y relaciones exteriores",
-      "cantidad_archivada": 443,
-      "nuevas_24h": 17,
+      "cantidad_archivada": 445,
+      "nuevas_24h": 19,
       "anteriores_24h": 24,
       "dias_con_registros": 19,
       "fecha_ultima": "2026-11-03T18:00:03+00:00",
@@ -790,6 +790,14 @@
           "titulo": "Ukraine’s Zelenskyy hopes Abu Dhabi talks will open path to Putin meeting",
           "fuente": "Al Jazeera",
           "url": "https://www.aljazeera.com/news/2026/11/3/zelenskyy-hopes-abu-dhabi-talks-will-open-way-to-meeting-with-putin?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "5edcddd268fe23b32571",
+          "fecha": "2026-11-03T15:35:00+00:00",
+          "titulo": "Statement by the HR on behalf of the EU on the alignment of certain countries with Council Decision (CFSP) 2026/2258 concerning restrictive measures in view of Russia’s destabilising activities",
+          "fuente": "Noticias del Consejo de la UE",
+          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/03/statement-by-the-hr-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-with-council-decision-cfsp-20262258-concerning-restrictive-measures-in-view-of-russia-s-destabilising-activities/",
           "traducida": false
         },
         {
@@ -822,6 +830,14 @@
           "titulo": "China’s AI ‘shock’, EU ‘kill switch’, Ukraine hope, Mbappe fiasco: 7 global relations reads",
           "fuente": "South China Morning Post",
           "url": "https://www.scmp.com/news/china/diplomacy/article/3372797/chinas-ai-shock-eu-kill-switch-ukraine-hope-mbappe-fiasco-7-global-relations-reads",
+          "traducida": false
+        },
+        {
+          "id": "f6df0e30fdbbdeb860df",
+          "fecha": "2026-11-03T14:00:00+00:00",
+          "titulo": "Statement by the HR on behalf of the EU on the alignment of certain countries concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine",
+          "fuente": "Noticias del Consejo de la UE",
+          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/03/hr-statement-on-behalf-of-eu-alignment-of-certain-countries-concerning-restrictive-measures-in-respect-of-actions-undermining-or-threatening-the-territorial-integrity-sovereignty-and-independence-of-ukraine/",
           "traducida": false
         },
         {
@@ -990,22 +1006,6 @@
           "titulo": "Freezers in Sweden, Belgium overheat following possible cyberattacks",
           "fuente": "Al Jazeera",
           "url": "https://www.aljazeera.com/news/2026/11/2/freezers-in-sweden-belgium-overheat-following-possible-cyberattacks?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "1b759eb4db285ec33774",
-          "fecha": "2026-11-02T12:08:14+00:00",
-          "titulo": "Finland begins work on implementing France’s nuclear deterrence initiative — Stubb",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2211917",
-          "traducida": false
-        },
-        {
-          "id": "3c22c3c4fb6ae66e399a",
-          "fecha": "2026-11-02T11:22:00+00:00",
-          "titulo": "Statement by the High Representative on behalf of the European Union on the situation in Yemen",
-          "fuente": "Noticias del Consejo de la UE",
-          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/02/statement-of-the-high-representative-on-behalf-of-the-eu-on-the-situation-in-yemen/",
           "traducida": false
         }
       ]
