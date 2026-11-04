@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-11-04T19:59:57.852345+00:00",
+  "created_utc": "2026-11-04T20:29:14.757610+00:00",
   "events": [
     {
       "id": "a-05a1f603ac6b6989e614",
@@ -243,6 +243,52 @@
       "prioridad_orientativa": 7,
       "motivos_seleccion": [
         "Cobertura de fuentes distintas",
+        "Actores relevantes: Estados Unidos, Irán",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-7b37bfee1566881ba031",
+      "fecha": "2026-11-04",
+      "titulo_fuente": "Iranians celebrate Democrat victory in US midterms",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "7b37bfee1566881ba031",
+          "titulo_original": "Iranians celebrate Democrat victory in US midterms",
+          "titulo_es": "Los iraníes celebran la victoria demócrata en los Estados Unidos",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/iranians-celebrate-democrat-victory-in-us-midterms?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-04T19:59:14+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "US President Donald Trump acknowledged the Republicans’ crushing defeat was partly due to the war on Iran.",
+          "resumen_es": "El presidente estadounidense Donald Trump reconoció que la derrota aplastante de los republicanos se debió en parte a la guerra contra Irán."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Irán"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
         "Actores relevantes: Estados Unidos, Irán",
         "Ámbito: Seguridad y conflictos"
       ],
@@ -1813,99 +1859,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-0398fde92e1ec046b64d",
-      "fecha": "2026-11-04",
-      "titulo_fuente": "FIR against Prashant Bhushan for sharing fake video of Russian foreign minister - The Indian Express",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Diplomacia"
-      ],
-      "noticias": [
-        {
-          "id": "0398fde92e1ec046b64d",
-          "titulo_original": "FIR against Prashant Bhushan for sharing fake video of Russian foreign minister - The Indian Express",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUUZ2b19KYjgyRDl6Qms2d0xvNXU3eF9RYUI2dHhyaDUwSlJ2LUJmN1BFU0d6amxiNUdWT3VpallzS2dVaTVyZlZIRTZJTkpvQUx0NXA2M2sySzNJa0RaOGtlQkFlUG9hVWNKd2lOeGtZTlMyRG1BSkJZUk00RFZRSmRMeGwtalFEQjJGMFRsQ0FJRGlwQ0o2WnR5ZmRKaVdock4xV05HMFkwbmd5ZjFqMW5weUdXNm5FN3ZtY1hkVGpUX0ZOaGfSAcwBQVVfeXFMT1ZOSmFuU3NRN1BYUjdiZF93M1V6U2pSZTY4RkdUMnRMMHBkcTNqQmdPLWdhV01FOWl1RVJaekswazNNRW5IOURMWDZxZTA2VmNIT09KaHRPaG82NXBsNTNyMk1SV2Jxbi1HQ21ZSFR6OFdLZ2Zqc0s0ZGVoM2NoSWJ6blU3dUwyQlNZVEJOMEViVGw5eEtCREgxVF9DQTN2Tno3VGNzVUc3dUxnanZ3SVN4VDdzc2NDcWVLdkRpcnJSVWlyUGdydUtNc3pP?oc=5",
-          "fuente": "The Indian Express",
-          "pais": "India",
-          "fecha": "2026-11-04T06:17:42+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "FIR against Prashant Bhushan for sharing fake video of Russian foreign minister The Indian Express",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Indian Express"
-      ],
-      "actores_mencionados": [
-        "Rusia",
-        "India"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: India, Rusia",
-        "Ámbito: Diplomacia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-d546bc913a8c25bc6154",
-      "fecha": "2026-11-04",
-      "titulo_fuente": "Democrats win control of US Congress in midterm rejection of Trump presidency",
-      "region": "Oriente Medio",
-      "temas": [
-        "Seguridad y conflictos",
-        "Comercio y finanzas"
-      ],
-      "noticias": [
-        {
-          "id": "d546bc913a8c25bc6154",
-          "titulo_original": "Democrats win control of US Congress in midterm rejection of Trump presidency",
-          "titulo_es": "",
-          "url": "https://www.euronews.com/2026/11/04/democrats-set-to-seize-control-of-congress-after-long-night-for-republican-party",
-          "fuente": "Euronews",
-          "pais": "Unión Europea",
-          "fecha": "2026-11-04T05:57:47+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The results reflected deep anger over living costs, tariffs and Trump's war against Iran, which has sent fuel prices soaring and compounded dissatisfaction with an already deeply unpopular president.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Euronews"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "Irán"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos, Irán",
-        "Ámbito: Comercio y finanzas, Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-b2a51463b5265fc8d0c1",
       "fecha": "2026-11-04",
       "titulo_fuente": "Progressive Abdul El-Sayed wins Michigan Senate race to become first Muslim US senator",
@@ -1960,6 +1913,143 @@
         "Cobertura de fuentes distintas",
         "Actores relevantes: Estados Unidos",
         "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-bd5383badd9f8b9d237d",
+      "fecha": "2026-11-04",
+      "titulo_fuente": "Eleições nos EUA têm vitórias históricas de minorias sub-representadas",
+      "region": "Estados Unidos",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "bd5383badd9f8b9d237d",
+          "titulo_original": "Eleições nos EUA têm vitórias históricas de minorias sub-representadas",
+          "titulo_es": "Las elecciones estadounidenses tienen victorias históricas de minorías subrepresentadas",
+          "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/eleicoes-nos-eua-tem-vitorias-historicas-de-minorias-sub-representadas",
+          "fuente": "Agência Brasil (EBC)",
+          "pais": "Brasil",
+          "fecha": "2026-11-04T20:23:00+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "As eleições de meio de mandato presidencial nos Estados Unidos, as chamadas midterms , apresentaram vitórias históricas de minorias sub-representadas no país mais rico do mundo. Negros, hispânicos, muçulmanos, indígenas e gay estão entre os candidatos que conquistaram feitos pioneiros em cargos estaduais ou federais. A Agência Brasil destaca alguns dos nomes que obtiveram nas urnas marcas que representam salto de representatividade na democracia ",
+          "resumen_es": "Las elecciones de medio mandato presidencial en Estados Unidos, las llamadas midterms, presentaron victorias históricas de minorías subrepresentadas en el país más rico del mundo. Negros, hispanos, musulmanes, indígenas y gay están entre los"
+        }
+      ],
+      "fuentes": [
+        "Agência Brasil (EBC)"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Brasil"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Brasil, Estados Unidos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-32241f911fd7132e71ee",
+      "fecha": "2026-11-04",
+      "titulo_fuente": "Trump can improve ties with Russia without worrying about electoral consequences — expert",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "32241f911fd7132e71ee",
+          "titulo_original": "Trump can improve ties with Russia without worrying about electoral consequences — expert",
+          "titulo_es": "Trump puede mejorar los vínculos con Rusia sin preocuparse por las consecuencias electorales — experto",
+          "url": "https://tass.com/world/2212987",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-04T20:19:00+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Former US Ambassador to Saudi Arabia Charles Freeman said there is a danger that Donald Trump will do something irrational and destructive to reassert dominance",
+          "resumen_es": "El ex embajador de Estados Unidos en Arabia Saudita Charles Freeman dijo que hay un peligro de que Donald Trump haga algo irracional y destructivo para reafirmar el dominio"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Rusia",
+        "Arabia Saudita"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos, Rusia"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-d0f5a4eb4cff2cb8d10a",
+      "fecha": "2026-11-04",
+      "titulo_fuente": "Food grown in illegal West Bank settlements being sold in Australia as ‘produce of Israel’",
+      "region": "Oriente Medio",
+      "temas": [
+        "Comercio y finanzas",
+        "Migración y DD. HH."
+      ],
+      "noticias": [
+        {
+          "id": "d0f5a4eb4cff2cb8d10a",
+          "titulo_original": "Food grown in illegal West Bank settlements being sold in Australia as ‘produce of Israel’",
+          "titulo_es": "Alimentos cultivados en asentamientos ilegales de la Ribera Occidental que se venden en Australia como ‘producto de Israel’",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/04/food-grown-in-settlements-west-bank-sold-in-australia-produce-of-israel-ntwnfb",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-04T20:00:43+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Analysis by human rights organisation Global Echo shows 85 of 132 shipments over eight years contained more than US$5m of organic dates grown in settlements Get our breaking news email , free app or daily news podcast Millions of dollars of food grown in illegal Israeli settlements in the occupied West Bank has been shipped to Australia labelled as “produce of Israel”, new analysis of trade data has shown. Human rights legal organisation Global E",
+          "resumen_es": "Análisis por organización de derechos humanos Global Echo muestra 85 de 132 envíos de más de ocho años contenían más de 5 millones de dólares de fechas orgánicas cultivadas en asentamientos Obtenga nuestro correo electrónico de noticias de última hora, aplicación gratuita o noticias diarias podcast Millones de dólares"
+        }
+      ],
+      "fuentes": [
+        "The Guardian"
+      ],
+      "actores_mencionados": [
+        "Israel"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia compleja y economía política internacional",
+        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Israel",
+        "Ámbito: Comercio y finanzas, Migración y DD. HH."
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -5062,6 +5152,136 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-05d7b33829cc868cd8cd",
+      "fecha": "2026-11-04",
+      "titulo_fuente": "Israël : la Liste unifiée dénonce une « persécution politique » après les accusations de fraude contre un ancien député arabe",
+      "region": "Estados Unidos",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "05d7b33829cc868cd8cd",
+          "titulo_original": "Israël : la Liste unifiée dénonce une « persécution politique » après les accusations de fraude contre un ancien député arabe",
+          "titulo_es": "",
+          "url": "https://www.lemonde.fr/international/article/2026/11/04/israel-la-liste-unifiee-denonce-une-persecution-politique-apres-les-accusations-de-fraude-contre-un-ancien-depute-arabe_6806427_3210.html",
+          "fuente": "Le Monde",
+          "pais": "Francia",
+          "fecha": "2026-11-04T20:11:01+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Un journaliste arabe israélien et militant politique a par ailleurs été arrêté mardi soir, à cause d’une interview menée avant les élections, et se trouve toujours en détention, selon l’ONG israélienne qui le défend.",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "Le Monde"
+      ],
+      "actores_mencionados": [
+        "Israel"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Israel"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-f6c87935e2a769199fd1",
+      "fecha": "2026-11-04",
+      "titulo_fuente": "Viewers stayed away from Fox News on a disappointing election night for Republicans",
+      "region": "Estados Unidos",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "f6c87935e2a769199fd1",
+          "titulo_original": "Viewers stayed away from Fox News on a disappointing election night for Republicans",
+          "titulo_es": "Los espectadores se quedaron lejos de Fox News en una noche electoral decepcionante para los republicanos",
+          "url": "https://www.theguardian.com/media/2026/nov/04/fox-news-midterm-ratings",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-04T20:06:55+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "In early, preliminary figures, the news channel trailed several other networks in prime-time viewership On a midterm election night that was a huge disappointment for Republicans , with Democrats taking control of the US House and Senate, the country’s most prominent conservative television network felt the brunt of viewer disillusionment with Donald Trump and his party, according to preliminary audience numbers. The Fox News Channel, which often",
+          "resumen_es": "En las primeras cifras preliminares, el canal de noticias rastreó varias otras redes en la audiencia de primera hora En una noche de elecciones de mitad de período fue una gran decepción para los republicanos, con los demócratas tomando el control de la Cámara de los Estados Unidos y el Senado, t"
+        }
+      ],
+      "fuentes": [
+        "The Guardian"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-1f63b40e332abbe65524",
+      "fecha": "2026-11-04",
+      "titulo_fuente": "Democratic progressive wing notches win in California Central Valley",
+      "region": "Internacional",
+      "temas": [
+        "Energía y clima"
+      ],
+      "noticias": [
+        {
+          "id": "1f63b40e332abbe65524",
+          "titulo_original": "Democratic progressive wing notches win in California Central Valley",
+          "titulo_es": "Gana antorchas democráticas progresivas en California Central Valley",
+          "url": "https://www.aljazeera.com/news/2026/11/4/democratic-progressive-wing-notches-win-in-california-central-valley?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-04T19:50:37+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Campaign focused on cost of living issues and backlash over ICE raids pays dividends for progressive Randy Villegas.",
+          "resumen_es": "Campaña centrada en el costo de los problemas de vida y retroceso sobre las redadas ICE paga dividendos para Randy Villegas progresivo."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia y gobernanza global",
+        "pregunta": "¿Cómo se distribuyen los costos de coordinación y los incentivos para cooperar?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Energía y clima"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-2869ea102a91551cf269",
       "fecha": "2026-11-04",
       "titulo_fuente": "Mother and daughter both killed in grizzly bear attack, Canadian authorities confirm",
@@ -6636,224 +6856,6 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Actores relevantes: Rusia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-0c62385b59bff5775a7e",
-      "fecha": "2026-11-04",
-      "titulo_fuente": "Au Liban, une frappe israélienne tue une personne dans un village du sud du pays",
-      "region": "Internacional",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "0c62385b59bff5775a7e",
-          "titulo_original": "Au Liban, une frappe israélienne tue une personne dans un village du sud du pays",
-          "titulo_es": "",
-          "url": "https://www.lemonde.fr/international/article/2026/11/04/une-frappe-israelienne-fait-un-mort-dans-le-sud-du-liban-alors-que-beyrouth-declare-ne-pas-vouloir-redevenir-le-theatre-des-conflits-des-autres_6806316_3210.html",
-          "fuente": "Le Monde",
-          "pais": "Francia",
-          "fecha": "2026-11-04T15:42:26+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Si la violence a généralement diminué ces derniers mois, la mise en œuvre de l’accord-cadre entre le Liban et Israël piétine. Selon les autorités libanaises, Israël continue d’occuper une large bande territoriale dans le sud du pays et y mène des destructions systématiques.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Le Monde"
-      ],
-      "actores_mencionados": [
-        "Israel"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Israel"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-ad45354eeef0d65da42c",
-      "fecha": "2026-11-04",
-      "titulo_fuente": "Traffic gridlock at Malaysia-Singapore causeway after Woodlands blackout",
-      "region": "Asia-Pacífico",
-      "temas": [
-        "Migración y DD. HH."
-      ],
-      "noticias": [
-        {
-          "id": "ad45354eeef0d65da42c",
-          "titulo_original": "Traffic gridlock at Malaysia-Singapore causeway after Woodlands blackout",
-          "titulo_es": "",
-          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3373311/traffic-gridlock-malaysia-singapore-causeway-after-woodlands-blackout",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-11-04T15:41:20+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "A massive power outage at the Woodlands checkpoint in Singapore caused a heavy traffic jam on most major roads leading to the Malaysian checkpoint in Johor Bahru on Wednesday. Although all counters were operating at optimum level at the Bangunan Sultan Iskandar Customs, Immigration and Quarantine complex in the southern state of Johor, the jam lasted for many hours due to a build-up of vehicles from the Singapore side. It is learnt that the issue",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "South China Morning Post"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Derecho internacional y constructivismo",
-        "pregunta": "¿Qué normas, identidades y obligaciones internacionales invocan los actores?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Migración y DD. HH."
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-696f91851c91899e98a3",
-      "fecha": "2026-11-04",
-      "titulo_fuente": "US markets rise as Democrats sweep midterm elections",
-      "region": "Estados Unidos",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "696f91851c91899e98a3",
-          "titulo_original": "US markets rise as Democrats sweep midterm elections",
-          "titulo_es": "",
-          "url": "https://www.aljazeera.com/economy/2026/11/4/us-markets-rise-as-democrats-sweep-midterm-elections?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-11-04T15:39:38+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Nasdaq, Dow, and S&P 500 open higher after Democrats take control and Trump accepts results.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-c8c2b71328f1b4aff8f6",
-      "fecha": "2026-11-04",
-      "titulo_fuente": "‘We are still red,’ Florida’s first Black governor upon win",
-      "region": "Estados Unidos",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "c8c2b71328f1b4aff8f6",
-          "titulo_original": "‘We are still red,’ Florida’s first Black governor upon win",
-          "titulo_es": "",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/we-are-still-red-floridas-first-black-governor-upon-win?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-11-04T15:32:20+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "US Republican Byron Donalds reiterated his support for President Donald Trump.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-20cd87cc32d50ab9c8e1",
-      "fecha": "2026-11-04",
-      "titulo_fuente": "En Ukraine, la trêve a offert une bouffée d’oxygène aux habitants de Kherson : « Je crains que l’enfer ne recommence »",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "20cd87cc32d50ab9c8e1",
-          "titulo_original": "En Ukraine, la trêve a offert une bouffée d’oxygène aux habitants de Kherson : « Je crains que l’enfer ne recommence »",
-          "titulo_es": "",
-          "url": "https://www.lemonde.fr/international/article/2026/11/04/en-ukraine-la-treve-a-offert-une-bouffee-d-oxygene-aux-habitants-de-kherson-je-crains-que-l-enfer-ne-recommence_6806314_3210.html",
-          "fuente": "Le Monde",
-          "pais": "Francia",
-          "fecha": "2026-11-04T15:30:01+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Pendant cinq jours, la ville située dans le sud du pays a vécu au rythme d’un cessez-le-feu qui a offert à ses habitants un répit presque inespéré. Des gestes ordinaires sont redevenus possibles jusqu’au retour brutal à la réalité, au lendemain de la trêve.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Le Monde"
-      ],
-      "actores_mencionados": [
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Ucrania"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
