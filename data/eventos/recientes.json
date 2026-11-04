@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-11-04T18:55:37.493572+00:00",
+  "created_utc": "2026-11-04T19:59:57.852345+00:00",
   "events": [
     {
       "id": "a-05a1f603ac6b6989e614",
@@ -250,6 +250,99 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-3c604011f3361a3ad947",
+      "fecha": "2026-11-04",
+      "titulo_fuente": "The midterms were a thumping rebuke of the US-Israel relationship",
+      "region": "Oriente Medio",
+      "temas": [
+        "Diplomacia",
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "3c604011f3361a3ad947",
+          "titulo_original": "The midterms were a thumping rebuke of the US-Israel relationship",
+          "titulo_es": "Los períodos intermedios fueron una reprimenda de la relación entre Estados Unidos e Israel",
+          "url": "https://www.theguardian.com/us-news/2026/nov/04/israel-relationship-midterm-elections",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-04T19:22:43+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Even Trump seems to recognize that the relationship has become a political liability, and may never be the same On the eve of a midterm election that ended in an unequivocal rejection of his brand of politics, even Donald Trump seemed to recognize that the US-Israel relationship has become a political liability. Trump’s 11th-hour suggestion, on election morning, that he would cut military aid to Israel at the end of the year because, as he put it",
+          "resumen_es": "Incluso Trump parece reconocer que la relación se ha convertido en una responsabilidad política, y puede que nunca sea la misma En vísperas de una elección de mitad de período que terminó en un rechazo inequívoco de su marca de política, incluso Donald Trump parecía volver a"
+        }
+      ],
+      "fuentes": [
+        "The Guardian"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Israel"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos, Israel",
+        "Ámbito: Diplomacia, Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-7a7787f5b328d09f08a4",
+      "fecha": "2026-11-04",
+      "titulo_fuente": "Trump says Republicans harmed by Iran war, inability to ‘transfer the love’ for him",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "7a7787f5b328d09f08a4",
+          "titulo_original": "Trump says Republicans harmed by Iran war, inability to ‘transfer the love’ for him",
+          "titulo_es": "Trump dice que los republicanos perjudicados por la guerra de Irán, incapacidad para \"transferir el amor\" por él",
+          "url": "https://www.thehindu.com/news/international/trump-says-republicans-harmed-byiran-war-inability-to-transfer-the-love-for-him/article71667372.ece",
+          "fuente": "The Hindu",
+          "pais": "India",
+          "fecha": "2026-11-04T19:18:44+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Donald Trump said the war has been worth it to stop Tehran from “having ‌a nuclear weapon”",
+          "resumen_es": "Donald Trump dijo que la guerra ha valido la pena para impedir que Teherán “tenga un arma nuclear”"
+        }
+      ],
+      "fuentes": [
+        "The Hindu"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Irán"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos, Irán",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-9983af637d01dfe0f149",
       "fecha": "2026-11-04",
       "titulo_fuente": "EU, UK, US meeting on Ukraine in Brussels ends without results — TASS",
@@ -290,6 +383,53 @@
       "prioridad_orientativa": 6,
       "motivos_seleccion": [
         "Actores relevantes: Ucrania, Unión Europea",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-f0f80e317e473c129b5f",
+      "fecha": "2026-11-04",
+      "titulo_fuente": "¿Cómo puede el nuevo Congreso de EE UU prohibir la guerra de Irán?",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "f0f80e317e473c129b5f",
+          "titulo_original": "¿Cómo puede el nuevo Congreso de EE UU prohibir la guerra de Irán?",
+          "titulo_es": "",
+          "url": "https://elpais.com/videos/2026-11-04/como-puede-el-nuevo-congreso-de-ee-uu-prohibir-la-guerra-de-iran.html",
+          "fuente": "El País",
+          "pais": "España",
+          "fecha": "2026-11-04T18:31:29+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Josep Borrell, exalto representante de la Unión Europea para Asuntos Exteriores y Política de Seguridad, en el marco de WIP, explica lo cerca que están los demócratas de superar el veto de Donald Trump en temas de política exterior",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "El País"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Irán",
+        "Unión Europea"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos, Irán, Unión Europea",
         "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
@@ -1766,238 +1906,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-f62c8e657cfc92207eea",
-      "fecha": "2026-11-04",
-      "titulo_fuente": "Iran says US voters sent ‘no to war’ message in midterm elections - The Indian Express",
-      "region": "Oriente Medio",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "f62c8e657cfc92207eea",
-          "titulo_original": "Iran says US voters sent ‘no to war’ message in midterm elections - The Indian Express",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMUVQT2FwWUt2cEpqMzJINlpPSkJydXF1YVpKZTFIdE5XcjFrajc3T25KQ1lHNkwyYVROTDFjb29TYWs2NmJGaXBjcW5mMWN0akdOZkNVbjI1NmZGbExMQjhxMXlCZ3pBdFNpMllrY0tNbG1IYXJqYmJ0Y05pUzVkQjAxV2xkakpPV3dmeHdGRTRzRmZNMENKRzUtU0txeGg4RmRWVlgtbzNXVW9DWFk3TmsxeERxdHVWMWVyeE1IM0ZCUnI4eHlqM0NjNXBJOGpFMk9RbzB0MjNoanNUa0o0UtIB5wFBVV95cUxPbENrYkFra0t5X3N5Z1ZsQXlibkJRVklVUFRoRnM2VWgtaXVXbUNoRk1pX3lvblU5ZVJpNU1DeUtySE1HbWNpZWFkQmxDWVgzb29kbGF1VnNScHlPeEM3MllEclp3V2g4eTNEU3k2eDhyM1V6TFhJdnFDLTVEYm9VaTduSE9xVHFDNUtmQUVOaG9FaXZtT2h6NzB5Y0J3ek9HS3Z2TDRCT3F0RDFkLUJkaFQxaUxJakZOeGJrdUszN1pGSlg2WkRnTElPMmM0ZVhteWtlQ05xQUpkYkU1TXVfS2pwNnJ1VHM?oc=5",
-          "fuente": "The Indian Express",
-          "pais": "India",
-          "fecha": "2026-11-04T05:40:20+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Iran says US voters sent ‘no to war’ message in midterm elections The Indian Express",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Indian Express"
-      ],
-      "actores_mencionados": [
-        "Irán",
-        "India"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: India, Irán",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-fb6288cfd1b2d5b05139",
-      "fecha": "2026-11-04",
-      "titulo_fuente": "Why North Korea’s Kim sees no need for another Trump ‘photo-op summit’",
-      "region": "Estados Unidos",
-      "temas": [
-        "Diplomacia",
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "fb6288cfd1b2d5b05139",
-          "titulo_original": "Why North Korea’s Kim sees no need for another Trump ‘photo-op summit’",
-          "titulo_es": "",
-          "url": "https://www.scmp.com/week-asia/politics/article/3373219/why-north-koreas-kim-sees-no-need-another-trump-photo-op-summit",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-11-04T05:14:56+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Kim Jong-un’s powerful sister on Wednesday rejected holding any further talks with the United States, days after the FBI accused North Korea of stealing more than US$6 billion from a cryptocurrency exchange and Washington launched a new round of sanctions aimed at Pyongyang. Analysts say the latest developments have all but killed off the chances of another Trump-Kim summit, despite the US president’s continued warm words for North Korea’s suprem",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "South China Morning Post"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos",
-        "Ámbito: Diplomacia, Seguridad y conflictos",
-        "Posible decisión institucional o negociación"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-ed5d10bf28490ab47249",
-      "fecha": "2026-11-04",
-      "titulo_fuente": "UK apologises to Ukrainian child refugees who were told to study Russian",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Migración y DD. HH."
-      ],
-      "noticias": [
-        {
-          "id": "ed5d10bf28490ab47249",
-          "titulo_original": "UK apologises to Ukrainian child refugees who were told to study Russian",
-          "titulo_es": "",
-          "url": "https://www.theguardian.com/education/2026/nov/04/ukrainian-gcse-uk-apologises-child-refugees",
-          "fuente": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-04T05:00:25+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Exclusive: Schools minister launches new Ukrainian GCSE and says she is sorry students were pushed to study Russian in its absence The UK has apologised to Ukrainian child refugees who were told to study Russian in English schools, as it launched funding for a new GCSE in Ukrainian. Ukrainian children who were forced to seek refuge in the UK after Vladimir Putin’s invasion in 2022 say it was “insulting” that their teachers suggested they study Ru",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Guardian"
-      ],
-      "actores_mencionados": [
-        "Rusia",
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Derecho internacional y constructivismo",
-        "pregunta": "¿Qué normas, identidades y obligaciones internacionales invocan los actores?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia, Ucrania",
-        "Ámbito: Migración y DD. HH."
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-800816f3bbca702a88f8",
-      "fecha": "2026-11-04",
-      "titulo_fuente": "Democrats will curb Trump’s policy toward Russia in event of their election win — expert",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "800816f3bbca702a88f8",
-          "titulo_original": "Democrats will curb Trump’s policy toward Russia in event of their election win — expert",
-          "titulo_es": "",
-          "url": "https://tass.com/world/2212809",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-04T04:59:37+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "President of the American Committee for US-Russia Accord Katrina vanden Heuvel said that there is still a broad support for Ukraine in the party",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "Rusia",
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos, Rusia, Ucrania",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-be8cfe0aa64172916d81",
-      "fecha": "2026-11-04",
-      "titulo_fuente": "War with Iran could inflict devastating political damage on Republicans — expert",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "be8cfe0aa64172916d81",
-          "titulo_original": "War with Iran could inflict devastating political damage on Republicans — expert",
-          "titulo_es": "",
-          "url": "https://tass.com/world/2212807",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-04T04:55:19+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "President of the American Committee for US-Russia Accord Katrina vanden Heuvel said she sees clear parallels to the 2006 midterms, when Republicans suffered defeat due to the Iraq war",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia",
-        "Irán"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Irán, Rusia",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-b2a51463b5265fc8d0c1",
       "fecha": "2026-11-04",
       "titulo_fuente": "Progressive Abdul El-Sayed wins Michigan Senate race to become first Muslim US senator",
@@ -2057,60 +1965,181 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-2f847a0a883d5153c961",
+      "id": "a-a11fe51007842754e6f5",
       "fecha": "2026-11-04",
-      "titulo_fuente": "Keisha Lance Bottoms elected first Black woman Governor in American history - The Indian Express",
-      "region": "Asia-Pacífico",
+      "titulo_fuente": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky à Madrid pour obtenir un renfort de la défense antiaérienne ukrainienne",
+      "region": "Rusia-Ucrania",
       "temas": [
-        "Actualidad"
+        "Organismos multilaterales"
       ],
       "noticias": [
         {
-          "id": "2f847a0a883d5153c961",
-          "titulo_original": "Keisha Lance Bottoms elected first Black woman Governor in American history - The Indian Express",
+          "id": "a11fe51007842754e6f5",
+          "titulo_original": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky à Madrid pour obtenir un renfort de la défense antiaérienne ukrainienne",
           "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQLWxKVUlkT1FhOVp6ak1pUjlLTTdhVkFsVk8yUHpkSHg4dEhva3ZDbGFmZjZaTU5BV2c4Zktsai1ZdEREVEFhMXlUY1lFQTB5U0lvQjRPVHpNZnpKWWRRemhSU3pEVFluSU5BRlRGNW1lSDdCRmtFU0o4NktQOHRyeVZLYjhYOXYzS0JWTWNwM21rZ2F2OFVfZ1RsVzVUV2dtbUhWb2JXRXpEcERlekREVzFoR1hXalN5cW5LaVZvN04tdjY4dkdxX2dnaG9OREXSAdYBQVVfeXFMT00yNkdQMEN0TzFTSTM0Y2tKR1NtU3VBNUNPLWl5ckl4R2dXSEhuMXB1bVR0aEhhcWtDV0R1Y2pqNUhibXVGYURWXzdocWNNdC14NHdNdlExZ1lpcU5xNUxsV3dudDhFZmtsTEMzdWp5bWxnZFdXNlQydDlSb1FIU0RMYks1d0pFVmNzb0dNZlFNYWNsamJKcll6NmhKU0NWZnhXOFNnV3dRM2pjcUxMMGQxaktiY0lDcmRQaENNZktic25YVFdGb09lOFpmM1lTSmc2TFNjdw?oc=5",
-          "fuente": "The Indian Express",
-          "pais": "India",
-          "fecha": "2026-11-04T05:58:10+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Keisha Lance Bottoms elected first Black woman Governor in American history The Indian Express",
-          "resumen_es": ""
-        },
-        {
-          "id": "73a4b77d8668e7a3d51b",
-          "titulo_original": "Democrat Keisha Lance Bottoms becomes first Black woman Governor in U.S.",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/news/international/democrat-keisha-lance-bottoms-becomes-first-black-woman-governor-in-us/article71663892.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-11-04T04:43:38+00:00",
+          "url": "https://www.lemonde.fr/international/live/2026/11/04/en-direct-guerre-en-ukraine-volodymyr-zelensky-a-madrid-pour-obtenir-un-renfort-de-la-defense-antiaerienne-ukrainienne_6803934_3210.html",
+          "fuente": "Le Monde",
+          "pais": "Francia",
+          "fecha": "2026-11-04T19:24:00+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Lance Bottoms defeated billionaire health care executive Rick Jackson, the Republican candidate. Outgoing Republican Governor Brian Kemp was term-limited and could not run again",
+          "resumen_original": "Le président ukrainien est arrivé à Madrid, où il doit s’entretenir jeudi avec le premier ministre espagnol, Pedro Sanchez, et d’autres dirigeants en marge d’un sommet ibéro-américain organisé dans la capitale espagnole.",
           "resumen_es": ""
         }
       ],
       "fuentes": [
-        "The Hindu",
-        "The Indian Express"
+        "Le Monde"
       ],
       "actores_mencionados": [
-        "Estados Unidos",
-        "India"
+        "Ucrania"
       ],
-      "fuentes_independientes": 2,
+      "fuentes_independientes": 1,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+        "nombre": "Institucionalismo liberal",
+        "pregunta": "¿Qué reglas, mecanismos de cooperación y límites institucionales afectan la decisión?"
       },
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 5,
+      "prioridad_orientativa": 4,
       "motivos_seleccion": [
-        "Cobertura de fuentes distintas",
-        "Actores relevantes: Estados Unidos, India"
+        "Actores relevantes: Ucrania",
+        "Ámbito: Organismos multilaterales"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-cbcd14b1d8d8f1060598",
+      "fecha": "2026-11-04",
+      "titulo_fuente": "Progressistas e minorias renovam democratas em vitória sobre Trump",
+      "region": "Estados Unidos",
+      "temas": [
+        "Energía y clima"
+      ],
+      "noticias": [
+        {
+          "id": "cbcd14b1d8d8f1060598",
+          "titulo_original": "Progressistas e minorias renovam democratas em vitória sobre Trump",
+          "titulo_es": "Progresistas y minorías renuevan demócratas en victoria sobre Trump",
+          "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/progressistas-e-minorias-renovam-democratas-em-vitoria-sobre-trump",
+          "fuente": "Agência Brasil (EBC)",
+          "pais": "Brasil",
+          "fecha": "2026-11-04T19:19:00+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "A vitória democrata nas eleições de meio de mandato dos Estados Unidos, as Midterms , foi marcada por lideranças jovens, de minorias étnicas ou religiosas e com discurso progressista. Esse retrato renova a imagem que saiu desgastada da derrota para Donald Trump em 2024, quando o partido estava fortemente associado às elites econômicas e era criticado por um suposto abandono das pautas dos trabalhadores norte-americanos. Notícias relacionadas: Gue",
+          "resumen_es": "La victoria demócrata en las elecciones de medio mandato de los Estados Unidos, las Midterms, fue marcada por líderes jóvenes, minorías étnicas o religiosas y con discurso progresista. Este retrato renueva la imagen que salió desgastada de la derr"
+        }
+      ],
+      "fuentes": [
+        "Agência Brasil (EBC)"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia y gobernanza global",
+        "pregunta": "¿Cómo se distribuyen los costos de coordinación y los incentivos para cooperar?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos",
+        "Ámbito: Energía y clima"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-84655cda30001a035141",
+      "fecha": "2026-11-04",
+      "titulo_fuente": "Chinese scientists make a toothbrush that uses mild electric shocks to reduce plaque",
+      "region": "China",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "84655cda30001a035141",
+          "titulo_original": "Chinese scientists make a toothbrush that uses mild electric shocks to reduce plaque",
+          "titulo_es": "Los científicos chinos hacen un cepillo de dientes que utiliza descargas eléctricas suaves para reducir la placa",
+          "url": "https://www.scmp.com/news/china/science/article/3373278/chinese-scientists-make-toothbrush-uses-mild-electric-shocks-reduce-plaque",
+          "fuente": "South China Morning Post",
+          "pais": "Hong Kong",
+          "fecha": "2026-11-04T19:00:08+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "No matter how thoroughly you brush your teeth in the morning and evening, the battle against bacteria is almost certain to be lost. Within a few hours of brushing, it will return in force and rebuild a solid defence line on the surface of your teeth. From ancient times to now, humanity has essentially had only one way of dealing with it, whether it was using twigs and sticks or the first bristled toothbrushes, which date back to 10th century Chin",
+          "resumen_es": "No importa lo bien que cepilles los dientes por la mañana y la noche, la batalla contra las bacterias está casi segura de perderse. Dentro de unas pocas horas de cepillado, volverá en vigor y reconstruirá una línea de defensa sólida en la superficie de y"
+        }
+      ],
+      "fuentes": [
+        "South China Morning Post"
+      ],
+      "actores_mencionados": [
+        "China"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: China",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-dc70c89042a6bba5df9f",
+      "fecha": "2026-11-04",
+      "titulo_fuente": "Vance tries to distance himself from Iran war after Republican Party’s deep losses in midterm elections",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "dc70c89042a6bba5df9f",
+          "titulo_original": "Vance tries to distance himself from Iran war after Republican Party’s deep losses in midterm elections",
+          "titulo_es": "Vance intenta distanciarse de la guerra de Irán después de las profundas pérdidas del Partido Republicano en las elecciones de mitad de período",
+          "url": "https://www.thehindu.com/news/international/vance-tries-to-distance-himself-from-iran-war-after-republican-partys-deep-losses-in-midterm-elections/article71667348.ece",
+          "fuente": "The Hindu",
+          "pais": "India",
+          "fecha": "2026-11-04T18:58:19+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "J.D. Vance, who has said he would decide after the election whether to run for President in 2028, issued a lengthy social media post blaming the unpopular conflict with Iran for the Grand Old Party’s drubbing",
+          "resumen_es": "J.D. Vance, quien ha dicho que decidiría después de la elección si postularse para presidente en 2028, emitió un largo post de las redes sociales que culpa el conflicto impopular con Irán para el derrocamiento del Gran Viejo Partido"
+        }
+      ],
+      "fuentes": [
+        "The Hindu"
+      ],
+      "actores_mencionados": [
+        "Irán"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Irán",
+        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -4975,199 +5004,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-063e2f3218a8a874b6eb",
-      "fecha": "2026-11-04",
-      "titulo_fuente": "John Lee begins Beijing, Shanghai trip to deepen mainland economic ties",
-      "region": "China",
-      "temas": [
-        "Comercio y finanzas"
-      ],
-      "noticias": [
-        {
-          "id": "063e2f3218a8a874b6eb",
-          "titulo_original": "John Lee begins Beijing, Shanghai trip to deepen mainland economic ties",
-          "titulo_es": "",
-          "url": "https://www.scmp.com/news/hong-kong/politics/article/3373225/john-lee-begins-beijing-shanghai-trip-deepen-mainland-economic-ties",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-11-04T05:33:41+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Hong Kong’s leader has begun a four-day visit to Beijing and Shanghai to deepen economic ties with mainland China, calling for closer collaboration on finance and innovation and technology (I&T), while pledging to help Chinese enterprises expand overseas. Speaking at the annual Beijing-Hong Kong Economic Cooperation Symposium in the capital on Wednesday, Chief Executive John Lee Ka-chiu said the Northern Metropolis project would create a new plat",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "South China Morning Post"
-      ],
-      "actores_mencionados": [
-        "China"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia compleja y economía política internacional",
-        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: China",
-        "Ámbito: Comercio y finanzas"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-0263e7ed33ecfcaf8326",
-      "fecha": "2026-11-04",
-      "titulo_fuente": "Midterms 2026 : Donald Trump, entre « canard boiteux » et « M. Veto », se prépare à un siège démocrate de la Maison Blanche",
-      "region": "Estados Unidos",
-      "temas": [
-        "Organismos multilaterales"
-      ],
-      "noticias": [
-        {
-          "id": "0263e7ed33ecfcaf8326",
-          "titulo_original": "Midterms 2026 : Donald Trump, entre « canard boiteux » et « M. Veto », se prépare à un siège démocrate de la Maison Blanche",
-          "titulo_es": "",
-          "url": "https://www.lemonde.fr/international/article/2026/11/04/midterms-2026-donald-trump-futur-canard-boiteux-se-prepare-a-un-siege-de-la-maison-blanche_6806110_3210.html",
-          "fuente": "Le Monde",
-          "pais": "Francia",
-          "fecha": "2026-11-04T05:30:05+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Avant même la victoire sans appel des démocrates, le président des Etats-Unis avait largement ignoré le pouvoir législatif. Il avait prévenu qu’il utiliserait son veto et distribuerait les grâces. Mais Donald Trump va être confronté à son propre déclin, alors que le débat sur l’avenir du Parti républicain va s’intensifier.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Le Monde"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Institucionalismo liberal",
-        "pregunta": "¿Qué reglas, mecanismos de cooperación y límites institucionales afectan la decisión?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos",
-        "Ámbito: Organismos multilaterales"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-85f6a37e48e05e29326c",
-      "fecha": "2026-11-04",
-      "titulo_fuente": "EC to revise Ukraine’s EU accession plan following failure to meet targets — Politico",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "85f6a37e48e05e29326c",
-          "titulo_original": "EC to revise Ukraine’s EU accession plan following failure to meet targets — Politico",
-          "titulo_es": "",
-          "url": "https://tass.com/world/2212805",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-04T04:40:12+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "According to a document obtained by the newspaper, Brussels urges Kiev to accelerate reforms in the area of the rule of law, to open new negotiating clusters, with key requirements in this field to be met by the first half of 2027",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Ucrania",
-        "Unión Europea"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Ucrania, Unión Europea"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-6b3ae8ffe49db499a52e",
-      "fecha": "2026-11-04",
-      "titulo_fuente": "US voters rebuke Trump as Democrats win control of Congress in ‘blue wave’",
-      "region": "Estados Unidos",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "6b3ae8ffe49db499a52e",
-          "titulo_original": "US voters rebuke Trump as Democrats win control of Congress in ‘blue wave’",
-          "titulo_es": "Los votantes estadounidenses reprenden a Trump mientras los demócratas ganan el control del Congreso en ‘Ola Azul’",
-          "url": "https://www.theguardian.com/us-news/2026/nov/04/democrats-house-midterm-elections-results",
-          "fuente": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-04T17:15:38+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "President’s party stripped of control after he spent weeks pleading with Americans to pretend he was on ballot US midterm elections – live updates Track live results from all 50 states Tell us: what do you want to know about the midterm election results? Donald Trump has been dealt a devastating blow to his authority with a succession of crushing defeats in the midterm elections, in which his Republican party was stripped of control of the Senate",
-          "resumen_es": "El partido del presidente se despojó de control después de pasar semanas rogando con los estadounidenses para fingir que estaba en las elecciones de mitad de período de EE.UU. – actualizaciones en vivo Track resultados en vivo de los 50 estados Cuéntanos: ¿qué quieres saber sobre el elevo de mitad de período"
-        },
-        {
-          "id": "ca4e91a9f4f47d1d1495",
-          "titulo_original": "US voters unleash blue wave, handing Congress to Democrats in rebuke to Trump",
-          "titulo_es": "",
-          "url": "https://www.scmp.com/news/us/politics/article/3373224/us-voters-unleash-blue-wave-handing-congress-democrats-and-rebuking-trump",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-11-04T05:33:25+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Follow the SCMP’s live coverage here After weeks of insults, fearmongering and eye-popping spending on advertising, Americans settled down to vote on Tuesday, unleashing a blue wave that saw Democrats projected to take the House and the Senate, in a sharp rebuke to US President Donald Trump and his controversial governing style. In a stunning development, Associated Press also projected that Democrat James Talarico won the Texas US Senate electio",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "South China Morning Post",
-        "The Guardian"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos"
-      ],
-      "fuentes_independientes": 2,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 3,
-      "motivos_seleccion": [
-        "Cobertura de fuentes distintas",
-        "Actores relevantes: Estados Unidos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-b7c602d24bfe90f96ee2",
       "fecha": "2026-11-04",
       "titulo_fuente": "U.S. midterm election results: Senate, House and Governor shifts before and after",
@@ -5226,47 +5062,76 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-48388886199bc45d0fd7",
+      "id": "a-2869ea102a91551cf269",
       "fecha": "2026-11-04",
-      "titulo_fuente": "Republicans fuming after Democrat Talarico flips Texas Senate blue",
+      "titulo_fuente": "Mother and daughter both killed in grizzly bear attack, Canadian authorities confirm",
       "region": "Internacional",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "2869ea102a91551cf269",
+          "titulo_original": "Mother and daughter both killed in grizzly bear attack, Canadian authorities confirm",
+          "titulo_es": "Madre e hija asesinadas en un ataque de oso grizzly, las autoridades canadienses confirman",
+          "url": "https://www.theguardian.com/world/2026/nov/04/canada-bear-attack-mother-daughter-killed",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-04T19:42:47+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Conservation officers say the women reported missing over the weekend, were found near a trail near their home Search teams in Canada have discovered the body of a 20-year-old woman and confirmed that both she and her mother were killed in an attack that conservation officers now believe could have involved multiple grizzly bears. Late on Tuesday, conservation officers in British Columbia said the two women, who were reported missing over the wee",
+          "resumen_es": "Los oficiales de conservación dicen que las mujeres reportadas desaparecidas durante el fin de semana, fueron encontradas cerca de un sendero cerca de sus equipos de búsqueda en Canadá han descubierto el cuerpo de una mujer de 20 años y confirmado que ella y su madre fueron asesinadas en"
+        }
+      ],
+      "fuentes": [
+        "The Guardian"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-3baf1d944a790688c20e",
+      "fecha": "2026-11-04",
+      "titulo_fuente": "Canada’s decision to deny visas to Russian athletes harms world hockey — Zakharova",
+      "region": "Rusia-Ucrania",
       "temas": [
         "Actualidad"
       ],
       "noticias": [
         {
-          "id": "48388886199bc45d0fd7",
-          "titulo_original": "Republicans fuming after Democrat Talarico flips Texas Senate blue",
-          "titulo_es": "",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/republicans-fuming-after-democrat-talarico-flips-texas-senate-blue?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-11-04T08:42:50+00:00",
+          "id": "3baf1d944a790688c20e",
+          "titulo_original": "Canada’s decision to deny visas to Russian athletes harms world hockey — Zakharova",
+          "titulo_es": "La decisión de Canadá de negar visados a los atletas rusos perjudica al hockey mundial — Zakharova",
+          "url": "https://tass.com/politics/2212983",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-04T19:41:47+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Republicans in Texas are trying to make sense of how they lost to the Democrats for the first time in almost 40 years.",
-          "resumen_es": ""
-        },
-        {
-          "id": "8f909cc11fbb5a5393cd",
-          "titulo_original": "In huge blow to Republicans, Democrat Talarico flips U.S. Senate seat in Texas",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/news/international/in-huge-blow-to-republicans-democrat-talarico-flips-us-senate-seat-in-texas/article71663939.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-11-04T05:09:50+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Democrats notched a string of early victories in U.S. midterm elections, flipping a Republican-held Senate seat and making inroads in conservative House districts as President Donald Trump faced the prospect of a bruising election setback",
-          "resumen_es": ""
+          "resumen_original": "This desicion is politically motivated, said Russian Foreign Ministry Spokeswoman",
+          "resumen_es": "Esta desicion es políticamente motivada, dijo la portavoz del Ministerio de Relaciones Exteriores ruso"
         }
       ],
       "fuentes": [
-        "Al Jazeera",
-        "The Hindu"
+        "TASS"
       ],
       "actores_mencionados": [
-        "Estados Unidos"
+        "Rusia"
       ],
-      "fuentes_independientes": 2,
+      "fuentes_independientes": 1,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
         "nombre": "Marco por determinar",
@@ -5275,10 +5140,356 @@
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 3,
+      "prioridad_orientativa": 2,
       "motivos_seleccion": [
-        "Cobertura de fuentes distintas",
+        "Actores relevantes: Rusia"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-dd33c39e3103f6a63336",
+      "fecha": "2026-11-04",
+      "titulo_fuente": "Damning report: On Justice Muralidhar’s report on Israeli atrocities",
+      "region": "Oriente Medio",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "dd33c39e3103f6a63336",
+          "titulo_original": "Damning report: On Justice Muralidhar’s report on Israeli atrocities",
+          "titulo_es": "Maldito informe: Sobre el informe del juez Muralidhar sobre las atrocidades israelíes",
+          "url": "https://www.thehindu.com/opinion/editorial/damning-report-on-justice-muralidhars-report-on-israeli-atrocities/article71665929.ece",
+          "fuente": "The Hindu",
+          "pais": "India",
+          "fecha": "2026-11-04T19:19:58+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The world must act on Justice Muralidhar’s report on Israeli atrocities",
+          "resumen_es": "El mundo debe actuar sobre el informe del juez Muralidhar sobre las atrocidades israelíes"
+        }
+      ],
+      "fuentes": [
+        "The Hindu"
+      ],
+      "actores_mencionados": [
+        "Israel"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Israel"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-2fae946d3cbb5d62010c",
+      "fecha": "2026-11-04",
+      "titulo_fuente": "How US midterm results could reshape Trump’s foreign policy",
+      "region": "Estados Unidos",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "2fae946d3cbb5d62010c",
+          "titulo_original": "How US midterm results could reshape Trump’s foreign policy",
+          "titulo_es": "Cómo los resultados de mitad de período de los EE.UU. podrían cambiar la política exterior de Trump",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/aje-onl-nf_how-us-midterm-could-reshape-trumps-foreign-policy-041126?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-04T19:15:50+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "US midterm results could reshape Trump’s political landscape and increase congressional scrutiny of his foreign policy.",
+          "resumen_es": "Los resultados de mitad de período estadounidenses podrían remodelar el panorama político de Trump y aumentar el escrutinio del Congreso de su política exterior."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
         "Actores relevantes: Estados Unidos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-a6feb085270d6106fef6",
+      "fecha": "2026-11-04",
+      "titulo_fuente": "After midterms beatdown, Trump returns to his hobby: the White House ballroom - Politico",
+      "region": "Estados Unidos",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "a6feb085270d6106fef6",
+          "titulo_original": "After midterms beatdown, Trump returns to his hobby: the White House ballroom - Politico",
+          "titulo_es": "Después de la derrota de mitad de período, Trump vuelve a su pasatiempo: la sala de baile de la Casa Blanca - Politico",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONFl1MzduS3dIREN1YW51MjRQZHR1QU15Zk5Idi01TDlTUzVISTJhYTdMd0x6dmVHajBXNDRTRXB5LUNabFdKRnQwUjd4Z2pCUnkxNG4zcjVXXzdrSVVmTWFDMC1CbVhqdzJMSGpRWGJvVklZdFNfbms1SVZaV0I5b1g4SGhLbFdkcW5nMEdn?oc=5",
+          "fuente": "POLITICO US",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-04T19:15:00+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "After midterms beatdown, Trump returns to his hobby: the White House ballroom Politico",
+          "resumen_es": "Después de la derrota de mitad de período, Trump vuelve a su pasatiempo: la sala de baile de la Casa Blanca Politico"
+        }
+      ],
+      "fuentes": [
+        "POLITICO US"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-c6f0e84bac2204fd324d",
+      "fecha": "2026-11-04",
+      "titulo_fuente": "Midterms 2026 : « Les raisons du tsunami démocrate aux Etats-Unis sont bien connues, le coût de la vie, la brutalisation de la vie politique et la corruption »",
+      "region": "Estados Unidos",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "c6f0e84bac2204fd324d",
+          "titulo_original": "Midterms 2026 : « Les raisons du tsunami démocrate aux Etats-Unis sont bien connues, le coût de la vie, la brutalisation de la vie politique et la corruption »",
+          "titulo_es": "",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/04/midterms-2026-les-raisons-du-tsunami-democrate-aux-etats-unis-sont-bien-connues-le-cout-de-la-vie-la-brutalisation-de-la-vie-politique-et-la-corruption_6806424_3232.html",
+          "fuente": "Le Monde",
+          "pais": "Francia",
+          "fecha": "2026-11-04T19:00:02+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Dans une tribune au « Monde », la politiste Laurence Nardon revient sur les élections américaines de mi-mandat du 3 novembre. Pour elle, la victoire du camp démocrate rend difficile toute contestation des résultats par le président Donald Trump.",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "Le Monde"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-8bb615130458bddd612b",
+      "fecha": "2026-11-04",
+      "titulo_fuente": "Who won in China? In the US midterms, Susan Collins and the local firefighters",
+      "region": "China",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "8bb615130458bddd612b",
+          "titulo_original": "Who won in China? In the US midterms, Susan Collins and the local firefighters",
+          "titulo_es": "¿Quién ganó en China? En Estados Unidos, Susan Collins y los bomberos locales",
+          "url": "https://www.scmp.com/news/us/us-elections/article/3373314/who-won-china-us-midterms-susan-collins-and-local-firefighters",
+          "fuente": "South China Morning Post",
+          "pais": "Hong Kong",
+          "fecha": "2026-11-04T18:59:58+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Republican Senator Susan Collins won in China on Tuesday. So did the volunteer firefighters. Voters in several small American communities with China in their names cast ballots in Tuesday’s US midterm elections. Their local contests had little to do with Beijing and a great deal to do with fire engines, budgets and paving. In China, a lakeside town in northeastern Maine, Collins outpolled Democrat Troy Jackson by 1,333 votes to 871, according to ",
+          "resumen_es": "La senadora republicana Susan Collins ganó en China el martes. También los bomberos voluntarios. Los votantes en varias pequeñas comunidades americanas con China en sus nombres emitieron votos en las elecciones de mitad de período del martes. Sus concursos locales habían encendido"
+        }
+      ],
+      "fuentes": [
+        "South China Morning Post"
+      ],
+      "actores_mencionados": [
+        "China"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: China"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-33c5e2588e0278bdbb93",
+      "fecha": "2026-11-04",
+      "titulo_fuente": "Blue wave rocks global energy markets - Politico",
+      "region": "Internacional",
+      "temas": [
+        "Energía y clima"
+      ],
+      "noticias": [
+        {
+          "id": "33c5e2588e0278bdbb93",
+          "titulo_original": "Blue wave rocks global energy markets - Politico",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcU9hOTZTN1ZmU2JaRUZaWV9yVnB6Y2ljTkNRZXB0aE51YktCcEwxdUtBYVg4YURLbmNvX2d2RjJsWTBzdS1nU0QzU1NYMlR4YkFFYnhrbUI1ZmdWX085aUkxb3hxV2ZmMWNlcldBMG9Ec3QzdkZON1p5czBETlB4bV9ZN2dwNWZrdDI4cF9oUDJ3bTB2a0tPNnJZdjR3N3J5ckxjTE13cw?oc=5",
+          "fuente": "POLITICO US",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-04T18:57:00+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Blue wave rocks global energy markets Politico",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "POLITICO US"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia y gobernanza global",
+        "pregunta": "¿Cómo se distribuyen los costos de coordinación y los incentivos para cooperar?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Energía y clima"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-34bd5892209dd5b05f7e",
+      "fecha": "2026-11-04",
+      "titulo_fuente": "Foreign Secretary speech at the 'Blue Finance and Innovation' event at the Commonwealth Heads of Government Meeting (CHOGM)",
+      "region": "Perú",
+      "temas": [
+        "Comercio y finanzas",
+        "Energía y clima"
+      ],
+      "noticias": [
+        {
+          "id": "34bd5892209dd5b05f7e",
+          "titulo_original": "Foreign Secretary speech at the 'Blue Finance and Innovation' event at the Commonwealth Heads of Government Meeting (CHOGM)",
+          "titulo_es": "Discurso del Secretario de Relaciones Exteriores en el evento \"Blue Finance and Innovation\" en la Reunión de Jefes de Gobierno del Commonwealth (CHOGM)",
+          "url": "https://www.gov.uk/government/speeches/foreign-secretary-speech-at-the-blue-finance-and-innovation-event-at-the-commonwealth-heads-of-government-meeting-chogm",
+          "fuente": "GOV.UK FCDO",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-04T18:53:59+00:00",
+          "estado": "declaración de la fuente; corroboración independiente pendiente",
+          "resumen_original": "Ed Miliband delivered a speech at the 'Blue Finance and Innovation' event at CHOGM on 03 November 2026. He outlined UK leadership on ocean finance, private finance mobilisation, climate resilience and sustainable growth.",
+          "resumen_es": "Ed Miliband pronunció un discurso en el evento \"Blue Finance and Innovation\" en CHOGM el 03 de noviembre de 2026. Describió el liderazgo del Reino Unido en finanzas oceánicas, movilización financiera privada, resiliencia climática y crecimiento sostenible."
+        }
+      ],
+      "fuentes": [
+        "GOV.UK FCDO"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia compleja y economía política internacional",
+        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Comercio y finanzas, Energía y clima"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-cc2c9c35f61a502960c6",
+      "fecha": "2026-11-04",
+      "titulo_fuente": "California progressive Randy Villegas wins redrawn House seat for Democrats",
+      "region": "Internacional",
+      "temas": [
+        "Energía y clima"
+      ],
+      "noticias": [
+        {
+          "id": "cc2c9c35f61a502960c6",
+          "titulo_original": "California progressive Randy Villegas wins redrawn House seat for Democrats",
+          "titulo_es": "Randy Villegas, progresista de California, gana asiento de la Casa Redrawn para Demócratas",
+          "url": "https://www.theguardian.com/us-news/2026/nov/04/california-22nd-district-house-midterms",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-04T18:47:56+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Community college professor unseats incumbent Republican David Valdao in seat redrawn under Prop 50 Democrat Randy Villegas, a community college professor with major progressive endorsements, has won the race for California’s 22nd congressional district. He unseats the six-term, incumbent Republican congressman, David Valadao, in a district that was considered the only true toss-up across the state of California after being redrawn under Proposit",
+          "resumen_es": "El profesor universitario comunitario desata al actual Republicano David Valdao en el asiento redibujado bajo el Prop 50 Democrat Randy Villegas, profesor universitario de la comunidad con importantes avalaciones progresivas, ha ganado la carrera para el 22 congreso de California"
+        }
+      ],
+      "fuentes": [
+        "The Guardian"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia y gobernanza global",
+        "pregunta": "¿Cómo se distribuyen los costos de coordinación y los incentivos para cooperar?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Energía y clima"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -5307,6 +5518,50 @@
       ],
       "fuentes": [
         "POLITICO US"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-1985b5d8f52a17a3fa79",
+      "fecha": "2026-11-04",
+      "titulo_fuente": "Trump speaks about ballroom renovations, avoiding midterm election results - CNN",
+      "region": "Estados Unidos",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "1985b5d8f52a17a3fa79",
+          "titulo_original": "Trump speaks about ballroom renovations, avoiding midterm election results - CNN",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbGJvZU41UkliMjlmNkt2VTJaV2lRbFI2VnphcC1Rd2txb3RGRVNyYVFtbUpqZjllbVV2ZnN4N3pkUWdUdWF6VjE0RFhXZU1hWVJpTkswQXhBOG9zRkM4TVBPdnlOWjZ5UDh4eEhoSWVlNDJwdzRKV2N5cmctVVdfbXhTZVJpRzJwT3lMaWhZbmNjaG4zczRFX3E5bHpqNVFPT29neVJERQ?oc=5",
+          "fuente": "CNN",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-04T18:12:36+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Trump speaks about ballroom renovations, avoiding midterm election results CNN",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "CNN"
       ],
       "actores_mencionados": [
         "Estados Unidos"
@@ -5365,6 +5620,50 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Ámbito: Organismos multilaterales"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-e9750615fe9769614246",
+      "fecha": "2026-11-04",
+      "titulo_fuente": "¿Y ahora qué? Demócratas y republicanos empiezan a diseñar sus estrategias tras el vuelco electoral",
+      "region": "Estados Unidos",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "e9750615fe9769614246",
+          "titulo_original": "¿Y ahora qué? Demócratas y republicanos empiezan a diseñar sus estrategias tras el vuelco electoral",
+          "titulo_es": "",
+          "url": "https://elpais.com/us/2026-11-04/y-ahora-que-democratas-y-republicanos-empiezan-a-disenar-sus-estrategias-tras-el-vuelco-electoral.html",
+          "fuente": "El País",
+          "pais": "España",
+          "fecha": "2026-11-04T18:01:54+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Trump coquetea con vetar las medidas de sus rivales; la nueva mayoría, con investigaciones a los miembros del gobierno",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "El País"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -5627,6 +5926,50 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-6b3ae8ffe49db499a52e",
+      "fecha": "2026-11-04",
+      "titulo_fuente": "US voters rebuke Trump as Democrats win control of Congress in ‘blue wave’",
+      "region": "Estados Unidos",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "6b3ae8ffe49db499a52e",
+          "titulo_original": "US voters rebuke Trump as Democrats win control of Congress in ‘blue wave’",
+          "titulo_es": "Los votantes estadounidenses reprenden a Trump mientras los demócratas ganan el control del Congreso en ‘Ola Azul’",
+          "url": "https://www.theguardian.com/us-news/2026/nov/04/democrats-house-midterm-elections-results",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-04T17:15:38+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "President’s party stripped of control after he spent weeks pleading with Americans to pretend he was on ballot US midterm elections – live updates Track live results from all 50 states Tell us: what do you want to know about the midterm election results? Donald Trump has been dealt a devastating blow to his authority with a succession of crushing defeats in the midterm elections, in which his Republican party was stripped of control of the Senate",
+          "resumen_es": "El partido del presidente se despojó de control después de pasar semanas rogando con los estadounidenses para fingir que estaba en las elecciones de mitad de período de EE.UU. – actualizaciones en vivo Track resultados en vivo de los 50 estados Cuéntanos: ¿qué quieres saber sobre el elevo de mitad de período"
+        }
+      ],
+      "fuentes": [
+        "The Guardian"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6511,410 +6854,6 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Actores relevantes: Ucrania"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-e190bcf3fcc221e609b9",
-      "fecha": "2026-11-04",
-      "titulo_fuente": "La victoria de la izquierda en las urnas: el efecto del verano socialista de Zohran Mamdani llega a las ‘midterms’",
-      "region": "Oriente Medio",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "e190bcf3fcc221e609b9",
-          "titulo_original": "La victoria de la izquierda en las urnas: el efecto del verano socialista de Zohran Mamdani llega a las ‘midterms’",
-          "titulo_es": "",
-          "url": "https://elpais.com/us/2026-11-04/la-victoria-de-la-izquierda-en-las-urnas-el-efecto-del-verano-socialista-de-zohran-mamdani-llega-a-las-midterms.html",
-          "fuente": "El País",
-          "pais": "España",
-          "fecha": "2026-11-04T15:26:23+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Al menos cinco de los candidatos Socialistas Democráticos, que pertenecen al sector más progresista del Partido Demócrata, irán a la Cámara de Representantes",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "El País"
-      ],
-      "actores_mencionados": [
-        "Irán"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Irán"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-dd03297d33e6f569ca6c",
-      "fecha": "2026-11-04",
-      "titulo_fuente": "Santiago Abascal convierte el relevo de Óscar Puente en un ataque al presidente: “Siempre tiene un fusible que desconectar”",
-      "region": "Internacional",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "dd03297d33e6f569ca6c",
-          "titulo_original": "Santiago Abascal convierte el relevo de Óscar Puente en un ataque al presidente: “Siempre tiene un fusible que desconectar”",
-          "titulo_es": "",
-          "url": "https://elpais.com/espana/2026-11-04/abascal-convierte-el-relevo-de-puente-en-un-ataque-al-presidente-siempre-tiene-un-fusible-que-desconectar.html",
-          "fuente": "El País",
-          "pais": "España",
-          "fecha": "2026-11-04T15:08:57+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "El líder de Vox reúne a cientos de seguidores en la plaza Mayor de Ciudad Real, donde un asistente lanza un huevo contra los periodistas durante el turno de preguntas",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "El País"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-158aa0802624f56d62f7",
-      "fecha": "2026-11-04",
-      "titulo_fuente": "Trump loses control of Congress",
-      "region": "Estados Unidos",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "158aa0802624f56d62f7",
-          "titulo_original": "Trump loses control of Congress",
-          "titulo_es": "",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-loses-control-of-congress?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-11-04T14:42:23+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Democrats have made historic gains in the US midterms, dealing a major setback to President Donald Trump.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-c459e735feecf02f50ad",
-      "fecha": "2026-11-04",
-      "titulo_fuente": "Russian people and language remain foundation of Russia’s statehood — Putin",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "c459e735feecf02f50ad",
-          "titulo_original": "Russian people and language remain foundation of Russia’s statehood — Putin",
-          "titulo_es": "",
-          "url": "https://tass.com/society/2212941",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-04T14:41:53+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Supporting Russian culture and the Russian language is of strategic importance to the state, Putin emphasized",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-076410a7971e0c9dc324",
-      "fecha": "2026-11-04",
-      "titulo_fuente": "EN DIRECT, guerre en Ukraine : le bilan de l’attaque russe à Komychouvakha, dans l’oblast de Zaporijia, s’élève désormais à 40 morts, selon Volodymyr Zelensky",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "076410a7971e0c9dc324",
-          "titulo_original": "EN DIRECT, guerre en Ukraine : le bilan de l’attaque russe à Komychouvakha, dans l’oblast de Zaporijia, s’élève désormais à 40 morts, selon Volodymyr Zelensky",
-          "titulo_es": "",
-          "url": "https://www.lemonde.fr/international/live/2026/11/04/en-direct-guerre-en-ukraine-le-bombardement-de-lundi-sur-une-ecole-de-komychouvakha-dans-l-oblast-de-zaporijia-a-fait-37-morts-selon-un-nouveau-bilan_6803934_3210.html",
-          "fuente": "Le Monde",
-          "pais": "Francia",
-          "fecha": "2026-11-04T14:38:32+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Le précédent décompte des autorités locales faisait état de 37 victimes. Le président ukrainien a confirmé que les recherches se poursuivaient pour la troisième journée d’affilée. Selon les autorités ukrainiennes, un abri aménagé dans une école de cette localité a été touché lundi par une bombe guidée de 3 tonnes alors qu’une distribution d’aide s’y déroulait.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Le Monde"
-      ],
-      "actores_mencionados": [
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Ucrania"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-6a66135acad2d18ca8d8",
-      "fecha": "2026-11-04",
-      "titulo_fuente": "España pide ayuda a Bruselas para llevar a cabo la investigación del accidente de Urda",
-      "region": "Europa",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "6a66135acad2d18ca8d8",
-          "titulo_original": "España pide ayuda a Bruselas para llevar a cabo la investigación del accidente de Urda",
-          "titulo_es": "",
-          "url": "https://elpais.com/economia/2026-11-04/espana-pide-ayuda-a-bruselas-para-llevar-a-cabo-la-investigacion-del-accidente-de-urda.html",
-          "fuente": "El País",
-          "pais": "España",
-          "fecha": "2026-11-04T14:31:36+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "La agencia ferroviaria europea dará apoyo técnico a los investigadores españoles",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "El País"
-      ],
-      "actores_mencionados": [
-        "Unión Europea"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Unión Europea"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-783e7cf313018d30e86c",
-      "fecha": "2026-11-04",
-      "titulo_fuente": "Los resultados de las ‘midterms’ de 2026 en Estados Unidos, en vivo",
-      "region": "Estados Unidos",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "783e7cf313018d30e86c",
-          "titulo_original": "Los resultados de las ‘midterms’ de 2026 en Estados Unidos, en vivo",
-          "titulo_es": "",
-          "url": "https://elpais.com/us/2026-11-04/los-resultados-de-las-midterms-de-2026-en-estados-unidos-en-vivo.html",
-          "fuente": "El País",
-          "pais": "España",
-          "fecha": "2026-11-04T14:30:07+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Siga en directo el recuento de votos en la Cámara y el Senado y el escrutinio por Estado",
-          "resumen_es": ""
-        },
-        {
-          "id": "755cdc215311bcf15b1a",
-          "titulo_original": "Los resultados de las ‘midterms’ de 2026 en Estados Unidos, en vivo",
-          "titulo_es": "",
-          "url": "https://elpais.com/us/2026-11-03/los-resultados-de-las-midterms-de-2026-en-estados-unidos-en-vivo.html",
-          "fuente": "El País",
-          "pais": "España",
-          "fecha": "2026-11-04T10:04:36+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Siga en directo el recuento de votos en la Cámara y el Senado y el escrutinio por Estado",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "El País"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-c535130e6cc147addf2e",
-      "fecha": "2026-11-04",
-      "titulo_fuente": "Armenian security officers detain opposition leader Karapetyan",
-      "region": "Internacional",
-      "temas": [
-        "Comercio y finanzas"
-      ],
-      "noticias": [
-        {
-          "id": "c535130e6cc147addf2e",
-          "titulo_original": "Armenian security officers detain opposition leader Karapetyan",
-          "titulo_es": "",
-          "url": "https://tass.com/world/2212919",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-04T14:10:51+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Security officers raided the politician’s apartments as part of an investigation being conducted by the General Department for Investigation of Economic Crimes and Smuggling at the republic’s Investigative Committee",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia compleja y economía política internacional",
-        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Comercio y finanzas"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-b76d781f629e5dcce2c5",
-      "fecha": "2026-11-04",
-      "titulo_fuente": "Former Trump advisor says ‘we’re in the bad that gets worse stage’ - CNN",
-      "region": "Estados Unidos",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "b76d781f629e5dcce2c5",
-          "titulo_original": "Former Trump advisor says ‘we’re in the bad that gets worse stage’ - CNN",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQY0hNUjl1LVJIQy1OemFaUVZHU1BlQlJFUUlJQVZwdGtCRzJ4NXc0T2JiMFk4QXJPdHFkTXFGN2RmOWFvTndPc0ducnA4Qm42YzduejN0MkduWndQeGRHVGxRb3lXVlZ2cEViNFBjb0pka2Y0QXAtTW1TaU9fU0VyRC1VMHBCdl94Unc1LUNVQ1lKWVQwUlRiLTBfdWRocWhsWHdyZHljN3VablI4Q2hBc3hRODdpZHhyTXFKT2cwdnB4eEJlY3JuWTJ0cnhUOTQ?oc=5",
-          "fuente": "CNN",
-          "pais": "Estados Unidos",
-          "fecha": "2026-11-04T14:05:46+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Former Trump advisor says ‘we’re in the bad that gets worse stage’ CNN",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "CNN"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null

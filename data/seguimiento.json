@@ -1,17 +1,57 @@
 {
-  "actualizado_utc": "2026-11-04T18:55:37.550659+00:00",
+  "actualizado_utc": "2026-11-04T19:59:57.913460+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "oriente-medio",
       "titulo": "Oriente Medio: seguridad y diplomacia",
-      "cantidad_archivada": 1035,
-      "nuevas_24h": 70,
-      "anteriores_24h": 79,
+      "cantidad_archivada": 1040,
+      "nuevas_24h": 71,
+      "anteriores_24h": 80,
       "dias_con_registros": 20,
-      "fecha_ultima": "2026-11-04T18:11:48+00:00",
+      "fecha_ultima": "2026-11-04T19:22:43+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "3c604011f3361a3ad947",
+          "fecha": "2026-11-04T19:22:43+00:00",
+          "titulo": "The midterms were a thumping rebuke of the US-Israel relationship",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/04/israel-relationship-midterm-elections",
+          "traducida": false
+        },
+        {
+          "id": "dd33c39e3103f6a63336",
+          "fecha": "2026-11-04T19:19:58+00:00",
+          "titulo": "Damning report: On Justice Muralidhar’s report on Israeli atrocities",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/opinion/editorial/damning-report-on-justice-muralidhars-report-on-israeli-atrocities/article71665929.ece",
+          "traducida": false
+        },
+        {
+          "id": "7a7787f5b328d09f08a4",
+          "fecha": "2026-11-04T19:18:44+00:00",
+          "titulo": "Trump says Republicans harmed by Iran war, inability to ‘transfer the love’ for him",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/trump-says-republicans-harmed-byiran-war-inability-to-transfer-the-love-for-him/article71667372.ece",
+          "traducida": false
+        },
+        {
+          "id": "dc70c89042a6bba5df9f",
+          "fecha": "2026-11-04T18:58:19+00:00",
+          "titulo": "Vance tries to distance himself from Iran war after Republican Party’s deep losses in midterm elections",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/vance-tries-to-distance-himself-from-iran-war-after-republican-partys-deep-losses-in-midterm-elections/article71667348.ece",
+          "traducida": false
+        },
+        {
+          "id": "f0f80e317e473c129b5f",
+          "fecha": "2026-11-04T18:31:29+00:00",
+          "titulo": "¿Cómo puede el nuevo Congreso de EE UU prohibir la guerra de Irán?",
+          "fuente": "El País",
+          "url": "https://elpais.com/videos/2026-11-04/como-puede-el-nuevo-congreso-de-ee-uu-prohibir-la-guerra-de-iran.html",
+          "traducida": false
+        },
         {
           "id": "205407a51d52b2906b77",
           "fecha": "2026-11-04T18:11:48+00:00",
@@ -211,54 +251,14 @@
           "fuente": "The Guardian",
           "url": "https://www.theguardian.com/us-news/2026/nov/04/joy-iran-trump-defeat-us-midterm-elections-war",
           "traducida": false
-        },
-        {
-          "id": "c7ab39512bb9f606183b",
-          "fecha": "2026-11-04T13:40:52+00:00",
-          "titulo": "Hebron’s Israeli rooftop settlers threaten the city’s Palestinian identity",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/4/hebrons-israeli-rooftop-settlers-threaten-the-citys-palestinian-identity?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "4ce5da6eb167186455de",
-          "fecha": "2026-11-04T13:33:05+00:00",
-          "titulo": "Gaza volunteer Adam Hamawy wins historic US Congress seat",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/gaza-volunteer-adam-hamawy-wins-historic-us-congress-seat?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "14d673d012ed113bad94",
-          "fecha": "2026-11-04T13:29:40+00:00",
-          "titulo": "Jerusalem Daily: Mass arrests across occupied West Bank",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/jerusalem-daily-mass-arrests-across-occupied-west-bank?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "cac62a15eb85ad707e2b",
-          "fecha": "2026-11-04T13:26:44+00:00",
-          "titulo": "Iran’s Khamenei warns Trump loss at polls won’t end US hostility",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/4/iran-hails-us-voters-rejecting-war-while-khamenei-warns-hostility-wont-end?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "0f11757ce857b82bac5b",
-          "fecha": "2026-11-04T12:24:39+00:00",
-          "titulo": "U.S. midterm results may matter less for India-U.S. ties than for India’s room to manoeuvre in geopolitics",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/us-midterm-results-may-matter-less-for-india-us-ties-than-for-indias-room-to-manoeuvre-in-geopolitics/article71665475.ece",
-          "traducida": false
         }
       ]
     },
     {
       "id": "india-asia",
       "titulo": "India y Asia-Pacífico",
-      "cantidad_archivada": 907,
-      "nuevas_24h": 60,
+      "cantidad_archivada": 910,
+      "nuevas_24h": 61,
       "anteriores_24h": 88,
       "dias_con_registros": 20,
       "fecha_ultima": "2026-11-04T16:32:20+00:00",
@@ -449,6 +449,14 @@
           "traducida": false
         },
         {
+          "id": "4166e381669b9d40c932",
+          "fecha": "2026-11-04T08:11:03+00:00",
+          "titulo": "Sting row hurt party in MLC polls, MLAs should resign: Karnataka Congress leader - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWXI2QzdwdU9Ea1B3YXVYc2RrYnRDYXFrNFpTRUxkQ1lvbHRwSDg1aDNsRDFjXzlJaDlYRGxPMzcxM19yR2pjeUZjVGEzemoxVFlOa1UyamJVVWlvZzZaSUF2ZnF4UDNtTjhDSTdNYXN6Z1Z2ZTR6MjVTMVRibWtEZ2o3djYwQmNQQnM3UHZPN0RMQjVWX1dfUFZYanUxX1pNQXczVHNKa0RlLVY5cTdTaGVuNVd0TjRp0gG_AUFVX3lxTE90NFB1dVQwcm9sUU50dUZYaWxOR1BTY2VvSXM0U1hiQTV6b3hqbFU5V2MwaGpIaUdLOW9uWTVTamRDclY1SDRSY1IxUk5DZk5jdHRxdkc1anplQ05OT1VHRWh0RmI2YURpVDUza2FSdlQxTzFiRjk5dnBJWHJFU0lnb0NMWHd1OHB6clY3NFpzczZWVFRCcGkzYkJqR2NDeVdVbG04ZDRTdzNBaHRvT1FSc2JJeTlnZDRHVmphMDAw?oc=5",
+          "traducida": false
+        },
+        {
           "id": "38955857e19ae51c6136",
           "fecha": "2026-11-04T08:02:52+00:00",
           "titulo": "Pia Dandiya, first-generation Indian-American, wins U.S. House of Representatives from Florida",
@@ -481,27 +489,19 @@
           "traducida": false
         },
         {
-          "id": "df59d990fcc9b2b927a3",
-          "fecha": "2026-11-04T07:05:45+00:00",
-          "titulo": "FDA suspends licences of Pune’s popular Karachi Sweet Mart, other businesses - The Indian Express",
+          "id": "457d6cabc7c3f6a42c22",
+          "fecha": "2026-11-04T07:35:14+00:00",
+          "titulo": "Imran Khan apologised for SIR protest. Now his cousin faces OCI scrutiny - The Indian Express",
           "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLWhLMjRGME5BTEcwWmhTZlgzS0d4Q180M3JkNUQ0Wlcybk42bFQyMlNEdHVzZk9EOXFka2FhcmdZZjhaSS1VNnZGcEVHdzJVUDhiRDJHMl9qRnNSYWthZ3ktSkowa0RTSVprcW1XV0NxbTU4RUZwd000QVZsU1lsWkRZUF9HX0JtNDFOc3Awd0xPaEtuelFJS2VEd3Bldmd1T1FkM05kcGRoQdIBsAFBVV95cUxQZnJEbXc5ZWQ0TEZzVzNiVERjX0ZlR2VKS3hwNmRNU3ozMzNabVRWNXI1SC0zQ09BeEw5eklZRlFXMFdQZjVVLXpaVVA5NGF0OXpyZFhjQ1NhRHh4SjZYaUhZcjlnRmtBQlNlNUVLU2dIUElIdXNqYm5jN1hhb2J2VVBla1pWVEN3N2JqR0hzOHdIWHZ3Ry1YUDNRMVhwaGFZcFYtUVdMMDlHaFVnQ05YNg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSWxZdXdSNmJubDc5bEZGMGVZUHdqeTlkY1JfVzVUMkdzUVgwTnd2bHpBamdVWUJpVmQ5YUhqT3VCZFVfX3NJNnU5U3dNa1I2c1V4YzRCTXV1dkFZYThLZlByVTV3dVQ0NjBraGpLRlZJZ0k5Z3Jra1I1Wnp5Y2w0a2RwdEFQWTE3NG1rRE9Cc3A0VGNIWUxfRjh2X2tHM2gyNDY0TlgwYkdqdVFNZ3RnaTluYWJ1OGRqY3ZiXzYyUXhQNjZYUnhF0gHOAUFVX3lxTE9mcllHYW52UTktZWR6V1hMUGt5Nm1Yem44QVhMUVVvR185MG5ualZ0RVhVWlpNWDhGZXNveEg1dlRIUHE1Y2p2M0NSOU81ZF9NT1BvZnZLRWZQSlVYc29kU2hkYmdhMXdFQjZvWkw2eHpHOGRnNTFqMlNpMC03RUNsUTRTeTJ0M1l1dm04RFpWOFdXOV9PMGxKQmZ0eFBYY3VZWW1DUzN2Z2plM2VpVHotazIyazRka2lyRnpVX294eUtrNjFSMEpjSV9JcnZR?oc=5",
           "traducida": false
         },
         {
-          "id": "3f66416898af1adb29b7",
-          "fecha": "2026-11-04T07:05:15+00:00",
-          "titulo": "Aneet Padda wraps arms around Ahaan Panday in unseen photos from her birthday bash - The Indian Express",
+          "id": "7dffba6dbce6a0cabd08",
+          "fecha": "2026-11-04T07:08:58+00:00",
+          "titulo": "Jyot Singh makes history as first Sikh, Indian American in Georgia Assembly - The Indian Express",
           "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSHBOQWxnUmxyOFpwRDVHUld2Q0VSRFNHN2o4T1lmdUJpaGZWaXJoWHpvYklVZjlSLWdoY1lrXzVBUV9kQXc1ZjFoSW45Ni00ZklGTURsMHVpOXpRX2F3MElsSFh0aUsyaXViNVpxMUxyREdXdU1RbktxelJZd1Fxa2JzZExZYnZ2cjRUeUZpU2lKTzNkREE2cm5Lc2w3eGdTaU5RR2NZV2V1ak5QOW5TTXdsdC1uLXRQX3E2WEU0cGZkUTFxR1hNSDlXdENubDQ0aGxpMWVCejFNQ0ZCMlZyQ3pNUGM?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "aa14680fff615abfef37",
-          "fecha": "2026-11-04T06:52:01+00:00",
-          "titulo": "‘Good job’ Democrats, ‘VETO’ hat, Iran threat: Trump’s wild swings today - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLVlCOTY4bHFHX3JCTk5zQTdFcGd1Ykw3UGNXUXZxdzhsZ0FVd3ZpYzFBOFh2Um5zWmZQY201cVBPYldOVnB4MmFvWjFwRjFjaTVfc1RndEdqVW1fVnJFbkM3UHk3TVdWWV9JeUl2alhwRUp1SzJtbTNSc1hHX2RmWW9sazk0UjZwWlNnbGktNlNpNS02UWNuR3lBM3BjSloxMzZOaFlPMkJJR2ZweGhsUTk4bjN2eHVz0gG_AUFVX3lxTFBJQlVEWXhaR1FFdjJXRzFXNk9HZFN1NDVXdll0TFl5RjlqQXV0VzRJU043dV9fYkdGdFUyMEVScDg1NEVqVU9yQWt0dk4xOEZhY2QxNmt1NGVXRVJSMVVlMHhScXhZNFF3cmRVckU1ZzJBdGNXZlByZjFIcmhFSkVfOVpKM21mVURYYmVocFRJZDZRQ1ZOekN0SVhqY3EyQm1Dc1lwNl91NTJYQVc1N3JoNWZBRXFjOGFKMXUyZXM0?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNUl0b0tFZkNVcnlCMG1tUzNKM2prX1Q2bFZhdjBsYmZRMHAtRUt2d2RjUVJHWG9tWkJqeFc0MWlNeWJHT3ZOU3NEZlBxRV9RTUJxd2U1VzR3NFZiVWhzSjlEa1ZPejBVT0ZmWWRLTnlBUi0taGZkRWotVzBqb3RjZ0hGcTNSdkFkTEVFV3FraVRZeHVyOTZKbHFFa3paVDJD0gGnAUFVX3lxTE1KYjNjSERtVkdCQlk3RkdMMXRBakpROE8tN18zUWlYaWVaUGd2NlBYcE9hVGFuNjBGRHZSVmdZc2ZkVjc2WmV1Z2E3NEVUMHpmcGt1bTktdTFuRkNlWXhNVEZqOUlXeXhxWmlUUG51Mnhhenh3Yk45MnYyZ3JtZHV5SXV1VFpYb0pYajdHN3llcWF5d3F5MHlGZHJySWVaeWFPZUJsckFV?oc=5",
           "traducida": false
         }
       ]
@@ -509,13 +509,29 @@
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 1626,
-      "nuevas_24h": 58,
-      "anteriores_24h": 128,
+      "cantidad_archivada": 1628,
+      "nuevas_24h": 55,
+      "anteriores_24h": 127,
       "dias_con_registros": 20,
-      "fecha_ultima": "2026-11-04T18:47:56+00:00",
+      "fecha_ultima": "2026-11-04T19:41:47+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "3baf1d944a790688c20e",
+          "fecha": "2026-11-04T19:41:47+00:00",
+          "titulo": "Canada’s decision to deny visas to Russian athletes harms world hockey — Zakharova",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2212983",
+          "traducida": false
+        },
+        {
+          "id": "a11fe51007842754e6f5",
+          "fecha": "2026-11-04T19:24:00+00:00",
+          "titulo": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky à Madrid pour obtenir un renfort de la défense antiaérienne ukrainienne",
+          "fuente": "Le Monde",
+          "url": "https://www.lemonde.fr/international/live/2026/11/04/en-direct-guerre-en-ukraine-volodymyr-zelensky-a-madrid-pour-obtenir-un-renfort-de-la-defense-antiaerienne-ukrainienne_6803934_3210.html",
+          "traducida": false
+        },
         {
           "id": "9983af637d01dfe0f149",
           "fecha": "2026-11-04T18:47:56+00:00",
@@ -739,31 +755,15 @@
           "fuente": "Euronews",
           "url": "https://www.euronews.com/2026/11/04/hockey-nations-refuse-to-play-russia-as-germany-weighs-pulling-out-as-host",
           "traducida": false
-        },
-        {
-          "id": "4fff6dd3bef52f7a5e9d",
-          "fecha": "2026-11-04T10:57:12+00:00",
-          "titulo": "New Ukrainian GCSE to help young people preserve their heritage",
-          "fuente": "GOV.UK FCDO",
-          "url": "https://www.gov.uk/government/news/new-ukrainian-gcse-to-help-young-people-preserve-their-heritage",
-          "traducida": false
-        },
-        {
-          "id": "0a39965393887971fe86",
-          "fecha": "2026-11-04T10:40:32+00:00",
-          "titulo": "Baltic states, Poland urge EU members to terminate investment treaties with Russia",
-          "fuente": "TASS",
-          "url": "https://tass.com/economy/2212867",
-          "traducida": false
         }
       ]
     },
     {
       "id": "union-europea",
       "titulo": "Unión Europea y relaciones exteriores",
-      "cantidad_archivada": 466,
+      "cantidad_archivada": 467,
       "nuevas_24h": 21,
-      "anteriores_24h": 18,
+      "anteriores_24h": 19,
       "dias_con_registros": 20,
       "fecha_ultima": "2026-11-04T18:47:56+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -774,6 +774,14 @@
           "titulo": "EU, UK, US meeting on Ukraine in Brussels ends without results — TASS",
           "fuente": "TASS",
           "url": "https://tass.com/world/2212975",
+          "traducida": false
+        },
+        {
+          "id": "f0f80e317e473c129b5f",
+          "fecha": "2026-11-04T18:31:29+00:00",
+          "titulo": "¿Cómo puede el nuevo Congreso de EE UU prohibir la guerra de Irán?",
+          "fuente": "El País",
+          "url": "https://elpais.com/videos/2026-11-04/como-puede-el-nuevo-congreso-de-ee-uu-prohibir-la-guerra-de-iran.html",
           "traducida": false
         },
         {
@@ -998,14 +1006,6 @@
           "titulo": "China’s AI ‘shock’, EU ‘kill switch’, Ukraine hope, Mbappe fiasco: 7 global relations reads",
           "fuente": "South China Morning Post",
           "url": "https://www.scmp.com/news/china/diplomacy/article/3372797/chinas-ai-shock-eu-kill-switch-ukraine-hope-mbappe-fiasco-7-global-relations-reads",
-          "traducida": false
-        },
-        {
-          "id": "f6df0e30fdbbdeb860df",
-          "fecha": "2026-11-03T14:00:00+00:00",
-          "titulo": "Statement by the HR on behalf of the EU on the alignment of certain countries concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine",
-          "fuente": "Noticias del Consejo de la UE",
-          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/03/hr-statement-on-behalf-of-eu-alignment-of-certain-countries-concerning-restrictive-measures-in-respect-of-actions-undermining-or-threatening-the-territorial-integrity-sovereignty-and-independence-of-ukraine/",
           "traducida": false
         }
       ]
@@ -1771,7 +1771,7 @@
       "titulo": "Naciones Unidas y multilateralismo",
       "cantidad_archivada": 50,
       "nuevas_24h": 1,
-      "anteriores_24h": 2,
+      "anteriores_24h": 1,
       "dias_con_registros": 16,
       "fecha_ultima": "2026-11-04T17:26:00+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
