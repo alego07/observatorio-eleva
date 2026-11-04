@@ -8183,13 +8183,43 @@
           0,
           1
         ]
+      },
+      {
+        "titulo": "Límites de la verificación documental",
+        "texto": "Fox es la fuente original de las palabras de Trump; Reuters, Guardian y AP las reproducen y añaden contexto, pero no son corroboraciones independientes de un acuerdo privado con Netanyahu. No se ha verificado texto bilateral, ley de cancelación, suspensión de desembolsos ni efectos sobre pedidos ya contratados.",
+        "fuentes": [
+          0,
+          3
+        ]
       }
     ],
-    "juridico": "El MOU 2016 abarca FY2019-2028 y depende de apropiaciones congresales. La declaración presidencial no demuestra derogación de legislación presupuestaria, cancelación de contratos o finalización de toda cooperación militar.",
+    "juridico": [
+      {
+        "titulo": "Marco jurídico",
+        "texto": "El MOU 2016 abarca FY2019-2028 y depende de apropiaciones congresales. La declaración presidencial no demuestra derogación de legislación presupuestaria, cancelación de contratos o finalización de toda cooperación militar.",
+        "fuentes": [
+          1,
+          2
+        ]
+      }
+    ],
     "teorias": [
-      "Realismo",
-      "Institucionalismo",
-      "Juegos de dos niveles"
+      {
+        "nombre": "Realismo y negociación",
+        "aplicacion": "JUEGOS DE DOS NIVELES: el vínculo electoral no es mera especulación, porque Trump lo citó directamente; es plausible que busque reducir críticas internas. REALISMO: sustituir subvenciones por ventas puede preservar la alianza militar, aunque cambie la distribución de costos. INSTITUCIONALISMO: el MOU y las asignaciones del Congreso limitan la implementación inmediata; una entrevista no deroga automáticamente partidas presupuestarias ni contratos. La motivación israelí de autonomía es una hipótesis plausible por debates previos, no una decisión confirmada.",
+        "fuentes": [
+          0,
+          1
+        ]
+      },
+      {
+        "nombre": "Institucionalismo y compromisos",
+        "aplicacion": "Las reglas y los procedimientos de implementación condicionan la eficacia de las declaraciones y acuerdos.",
+        "fuentes": [
+          1,
+          2
+        ]
+      }
     ],
     "teoria": "Institucionalismo y realismo",
     "preguntas_abiertas": [],
@@ -8328,13 +8358,43 @@
         "fuentes": [
           2
         ]
+      },
+      {
+        "titulo": "Límites de la verificación documental",
+        "texto": "Reuters y Guardian aportan cobertura separada de declaraciones de distintos participantes, pero no prueban que la reunión ya haya ocurrido. No se inspeccionó invitación de Emiratos, agenda escrita consensuada, texto de paz o garantías. La cita humanitaria sobre Oleshky es distinta de las conversaciones de Abu Dabi.",
+        "fuentes": [
+          0,
+          1
+        ]
       }
     ],
-    "juridico": "La Carta de la ONU, artículos 2.3 y 2.4, establece arreglo pacífico y prohibición del uso de la fuerza. Un anuncio de negociación no legitima adquisición territorial por fuerza ni sustituye el consentimiento de Ucrania.",
+    "juridico": [
+      {
+        "titulo": "Marco jurídico",
+        "texto": "La Carta de la ONU, artículos 2.3 y 2.4, establece arreglo pacífico y prohibición del uso de la fuerza. Un anuncio de negociación no legitima adquisición territorial por fuerza ni sustituye el consentimiento de Ucrania.",
+        "fuentes": [
+          0,
+          1
+        ]
+      }
+    ],
     "teorias": [
-      "Realismo",
-      "Institucionalismo",
-      "Juegos de dos niveles"
+      {
+        "nombre": "Realismo y negociación",
+        "aplicacion": "INSTITUCIONALISMO: anunciar fecha, lugar y representantes reduce incertidumbre procedimental, pero no garantiza concesiones. REALISMO: cada parte busca mejorar su seguridad y poder negociador. PROBLEMA DE COMPROMISO CREÍBLE: garantías y verificación serán esenciales para que un eventual cese de hostilidades sea sostenible. JUEGOS DE DOS NIVELES: los compromisos requieren apoyo interno y de aliados que eventualmente asuman obligaciones.",
+        "fuentes": [
+          0,
+          1
+        ]
+      },
+      {
+        "nombre": "Institucionalismo y compromisos",
+        "aplicacion": "Las reglas y los procedimientos de implementación condicionan la eficacia de las declaraciones y acuerdos.",
+        "fuentes": [
+          0,
+          1
+        ]
+      }
     ],
     "teoria": "Institucionalismo y realismo",
     "preguntas_abiertas": [],
@@ -8352,7 +8412,7 @@
           "evidencia": "Kremlin y enviado estadounidense anuncian cita 10-11 noviembre",
           "inferencia": "Se definió un procedimiento negociador, no resultados",
           "fundamento": "Las fechas y delegados no resuelven incompatibilidades sustantivas",
-          "teoria": "Institucionalismo",
+          "teoria": "Institucionalismo; interpretación documentada.",
           "limite": "No se ha celebrado la ronda",
           "fuentes": [
             0,
@@ -8364,7 +8424,7 @@
           "evidencia": "Agenda anunciada incluye seguridad posterior y desescalada",
           "inferencia": "El problema de cumplimiento puede obstaculizar la negociación",
           "fundamento": "Sin supervisión los compromisos serían reversibles",
-          "teoria": "Compromiso creíble",
+          "teoria": "Compromiso creíble; interpretación documentada.",
           "limite": "No hay borrador de garantías",
           "fuentes": [
             1
