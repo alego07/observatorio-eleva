@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-11-04T18:40:39.145164+00:00",
+  "created_utc": "2026-11-04T18:55:37.493572+00:00",
   "events": [
     {
       "id": "a-05a1f603ac6b6989e614",
@@ -244,6 +244,52 @@
       "motivos_seleccion": [
         "Cobertura de fuentes distintas",
         "Actores relevantes: Estados Unidos, Irán",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-9983af637d01dfe0f149",
+      "fecha": "2026-11-04",
+      "titulo_fuente": "EU, UK, US meeting on Ukraine in Brussels ends without results — TASS",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "9983af637d01dfe0f149",
+          "titulo_original": "EU, UK, US meeting on Ukraine in Brussels ends without results — TASS",
+          "titulo_es": "La UE, Reino Unido, reunión de Estados Unidos sobre Ucrania en Bruselas termina sin resultados — TASS",
+          "url": "https://tass.com/world/2212975",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-04T18:47:56+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "No any practical results were achieved in terms of a possible settlement of the conflict",
+          "resumen_es": "No se lograron resultados prácticos en términos de una posible solución del conflicto"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Ucrania",
+        "Unión Europea"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: Ucrania, Unión Europea",
         "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
@@ -6830,85 +6876,45 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-6c7136f17ee062bb533c",
+      "id": "a-b76d781f629e5dcce2c5",
       "fecha": "2026-11-04",
-      "titulo_fuente": "Albanese government warned it’s ‘sleepwalking into another robodebt scenario’ over use of algorithms and AI",
-      "region": "Internacional",
+      "titulo_fuente": "Former Trump advisor says ‘we’re in the bad that gets worse stage’ - CNN",
+      "region": "Estados Unidos",
       "temas": [
-        "Seguridad y conflictos"
+        "Actualidad"
       ],
       "noticias": [
         {
-          "id": "6c7136f17ee062bb533c",
-          "titulo_original": "Albanese government warned it’s ‘sleepwalking into another robodebt scenario’ over use of algorithms and AI",
+          "id": "b76d781f629e5dcce2c5",
+          "titulo_original": "Former Trump advisor says ‘we’re in the bad that gets worse stage’ - CNN",
           "titulo_es": "",
-          "url": "https://www.theguardian.com/australia-news/2026/nov/05/albanese-government-warned-its-sleepwalking-into-another-robodebt-scenario-over-use-of-algorithms-and-ai",
-          "fuente": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-04T14:00:37+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Centre for Public Integrity report says mandatory audit and public register of all automated decision-making needed Get our breaking news email , free app or daily news podcast The federal government is “sleepwalking its way into another robodebt” scandal amid a lack of transparency and legislation around use of algorithms and artificial intelligence in decisions, the chief executive of independent thinktank the Centre for Public Integrity said. ",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQY0hNUjl1LVJIQy1OemFaUVZHU1BlQlJFUUlJQVZwdGtCRzJ4NXc0T2JiMFk4QXJPdHFkTXFGN2RmOWFvTndPc0ducnA4Qm42YzduejN0MkduWndQeGRHVGxRb3lXVlZ2cEViNFBjb0pka2Y0QXAtTW1TaU9fU0VyRC1VMHBCdl94Unc1LUNVQ1lKWVQwUlRiLTBfdWRocWhsWHdyZHljN3VablI4Q2hBc3hRODdpZHhyTXFKT2cwdnB4eEJlY3JuWTJ0cnhUOTQ?oc=5",
+          "fuente": "CNN",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-04T14:05:46+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Former Trump advisor says ‘we’re in the bad that gets worse stage’ CNN",
           "resumen_es": ""
         }
       ],
       "fuentes": [
-        "The Guardian"
+        "CNN"
       ],
-      "actores_mencionados": [],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
       "fuentes_independientes": 1,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
       },
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-2c122dcb61f095a6d4f9",
-      "fecha": "2026-11-04",
-      "titulo_fuente": "Australia has an especially bad inflation problem. So why are we only middle-of-the pack on the misery index?",
-      "region": "Internacional",
-      "temas": [
-        "Comercio y finanzas"
-      ],
-      "noticias": [
-        {
-          "id": "2c122dcb61f095a6d4f9",
-          "titulo_original": "Australia has an especially bad inflation problem. So why are we only middle-of-the pack on the misery index?",
-          "titulo_es": "",
-          "url": "https://www.theguardian.com/business/2026/nov/05/australian-economy-inflation-cost-of-living-misery-index",
-          "fuente": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-04T14:00:37+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Comparing Australia to other countries may not be much comfort but does offer some perspective on the economy Get our breaking news email , free app or daily news podcast Is Australia’s inflation problem worse than the rest of the world’s? A day after the Reserve Bank delivered its fifth interest rate hike for the year, increasingly stressed mortgage holders would be justified asking. Continue reading...",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Guardian"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia compleja y economía política internacional",
-        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Comercio y finanzas"
+        "Actores relevantes: Estados Unidos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
