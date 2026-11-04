@@ -1,12 +1,12 @@
 {
-  "actualizado_utc": "2026-11-04T18:15:40.324071+00:00",
+  "actualizado_utc": "2026-11-04T18:40:39.188161+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "oriente-medio",
       "titulo": "Oriente Medio: seguridad y diplomacia",
       "cantidad_archivada": 1035,
-      "nuevas_24h": 71,
+      "nuevas_24h": 70,
       "anteriores_24h": 81,
       "dias_con_registros": 20,
       "fecha_ultima": "2026-11-04T18:11:48+00:00",
@@ -257,13 +257,21 @@
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 1624,
-      "nuevas_24h": 59,
-      "anteriores_24h": 130,
+      "cantidad_archivada": 1625,
+      "nuevas_24h": 58,
+      "anteriores_24h": 128,
       "dias_con_registros": 20,
-      "fecha_ultima": "2026-11-04T18:00:16+00:00",
+      "fecha_ultima": "2026-11-04T18:19:34+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "942c178f94d0fc175500",
+          "fecha": "2026-11-04T18:19:34+00:00",
+          "titulo": "L’Ukraine veut répliquer ailleurs la mission humanitaire menée à Olechky pour sauver des civils",
+          "fuente": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/04/l-ukraine-veut-repliquer-ailleurs-la-mission-humanitaire-menee-a-olechky-pour-sauver-des-civils_6806422_3210.html",
+          "traducida": false
+        },
         {
           "id": "3fc88d76044d834f70a8",
           "fecha": "2026-11-04T18:00:16+00:00",
@@ -495,14 +503,6 @@
           "fuente": "TASS",
           "url": "https://tass.com/defense/2212865",
           "traducida": false
-        },
-        {
-          "id": "b3f1f0bd44c7000b0848",
-          "fecha": "2026-11-04T10:30:06+00:00",
-          "titulo": "Jakarta wants Russia not to recruit Indonesians in its war. Should Prabowo call Putin?",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/week-asia/politics/article/3373271/jakarta-wants-russia-not-recruit-indonesians-its-war-should-prabowo-call-putin",
-          "traducida": false
         }
       ]
     },
@@ -511,7 +511,7 @@
       "titulo": "India y Asia-Pacífico",
       "cantidad_archivada": 905,
       "nuevas_24h": 58,
-      "anteriores_24h": 89,
+      "anteriores_24h": 88,
       "dias_con_registros": 20,
       "fecha_ultima": "2026-11-04T16:32:20+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -763,7 +763,7 @@
       "titulo": "Unión Europea y relaciones exteriores",
       "cantidad_archivada": 465,
       "nuevas_24h": 20,
-      "anteriores_24h": 20,
+      "anteriores_24h": 19,
       "dias_con_registros": 20,
       "fecha_ultima": "2026-11-04T16:21:36+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
