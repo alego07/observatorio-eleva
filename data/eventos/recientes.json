@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-11-06T18:33:46.213312+00:00",
+  "created_utc": "2026-11-06T19:39:42.639122+00:00",
   "events": [
     {
       "id": "a-e420bf97ab793a4a0aa0",
@@ -44,6 +44,54 @@
       "motivos_seleccion": [
         "Actores relevantes: Estados Unidos, Perú",
         "Mención expresa al Perú"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-43df840c357623d69228",
+      "fecha": "2026-11-06",
+      "titulo_fuente": "US, China trade chiefs hold call ahead of Trump-Xi summit in Shenzhen",
+      "region": "China",
+      "temas": [
+        "Diplomacia",
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "43df840c357623d69228",
+          "titulo_original": "US, China trade chiefs hold call ahead of Trump-Xi summit in Shenzhen",
+          "titulo_es": "EE.UU., los jefes de comercio de China mantienen un llamado antes de la cumbre de Trump-Xi en Shenzhen",
+          "url": "https://www.scmp.com/news/us/economy-trade-business/article/3373616/us-china-trade-chiefs-hold-call-ahead-trump-xi-summit-shenzhen",
+          "fuente": "South China Morning Post",
+          "pais": "Hong Kong",
+          "fecha": "2026-11-06T18:34:11+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "US Treasury Secretary Scott Bessent and Trade Representative Jamieson Greer held a phone call with Chinese Vice-Premier He Lifeng on Friday as both sides moved to finalise preparations for President Donald Trump’s planned meeting with Chinese leader Xi Jinping in Shenzhen later this month. “Secretary Bessent emphasised the importance of China fully and immediately implementing its commitments made in Busan and raised concerns about recent Chinese",
+          "resumen_es": "Secretaria de Hacienda de EE.UU. Scott Bessent y Representante de Comercio Jamieson Greer hizo una llamada telefónica con el vicepresidente chino He Lifeng el viernes mientras ambas partes se mudaron a finalizar los preparativos para la reunión planeada del presidente Donald Trump con Chine"
+        }
+      ],
+      "fuentes": [
+        "South China Morning Post"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "China"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 8,
+      "motivos_seleccion": [
+        "Actores relevantes: China, Estados Unidos",
+        "Ámbito: Comercio y finanzas, Diplomacia",
+        "Posible decisión institucional o negociación"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -341,6 +389,52 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-1e0e1e830d9ac75e0db7",
+      "fecha": "2026-11-06",
+      "titulo_fuente": "La visita del Papa León XIV en Uruguay, en vivo | El Papa aterriza en Montevideo, su primera escala de la gira por Uruguay, Argentina y Perú",
+      "region": "Perú",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "1e0e1e830d9ac75e0db7",
+          "titulo_original": "La visita del Papa León XIV en Uruguay, en vivo | El Papa aterriza en Montevideo, su primera escala de la gira por Uruguay, Argentina y Perú",
+          "titulo_es": "",
+          "url": "https://elpais.com/america/2026-11-06/la-visita-del-papa-leon-xiv-en-uruguay-en-vivo.html",
+          "fuente": "El País",
+          "pais": "España",
+          "fecha": "2026-11-06T18:59:16+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "El Pontífice inicia su gira sudamericana, que se extenderá hasta el 17 de noviembre",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "El País"
+      ],
+      "actores_mencionados": [
+        "Perú",
+        "Argentina"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Perú aparece mencionado; falta verificar el alcance real de cualquier consecuencia.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 7,
+      "motivos_seleccion": [
+        "Actores relevantes: Perú",
+        "Mención expresa al Perú"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-c741e32c873e35f0091b",
       "fecha": "2026-11-06",
       "titulo_fuente": "Kenya travel advice",
@@ -479,61 +573,48 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-89b5f6f07cd9652cf3d4",
+      "id": "a-ede3e5b314ae73da20b8",
       "fecha": "2026-11-06",
-      "titulo_fuente": "Trump signs order to preserve Oval Office as national monument",
-      "region": "Estados Unidos",
+      "titulo_fuente": "Russia’s land gains in Ukraine dwindle as its diesel reportedly goes unsold",
+      "region": "Rusia-Ucrania",
       "temas": [
-        "Organismos multilaterales"
+        "Comercio y finanzas"
       ],
       "noticias": [
         {
-          "id": "89b5f6f07cd9652cf3d4",
-          "titulo_original": "Trump signs order to preserve Oval Office as national monument",
-          "titulo_es": "",
-          "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-06T09:19:57+00:00",
+          "id": "ede3e5b314ae73da20b8",
+          "titulo_original": "Russia’s land gains in Ukraine dwindle as its diesel reportedly goes unsold",
+          "titulo_es": "Las ganancias de tierras de Rusia en Ucrania disminuyen como su diesel supuestamente se desvela",
+          "url": "https://www.aljazeera.com/news/2026/11/6/in-ukraine-russias-territorial-gains-dwindle-as-its-diesel-goes-unsold?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-06T18:23:11+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
-          "resumen_es": ""
-        },
-        {
-          "id": "90030ef413b471d84922",
-          "titulo_original": "Trump designates Oval Office as national monument",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/news/international/trump-designates-oval-office-as-national-monument/article71671751.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-11-06T02:29:35+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Critics accused Donald Trump of ignoring voter concerns over the Iran war and affordability ahead of midterm elections and obsessing instead on multiple construction and renovation projects in the capital",
-          "resumen_es": ""
+          "resumen_original": "Moscow is suffering losses on the battlefield as US traders reportedly refuse to honour Trump's diesel deal with Putin.",
+          "resumen_es": "Moscú está sufriendo pérdidas en el campo de batalla mientras los comerciantes estadounidenses supuestamente se niegan a honrar el acuerdo diesel de Trump con Putin."
         }
       ],
       "fuentes": [
-        "BBC News",
-        "The Hindu"
+        "Al Jazeera"
       ],
       "actores_mencionados": [
         "Estados Unidos",
-        "Irán"
+        "Rusia",
+        "Ucrania"
       ],
-      "fuentes_independientes": 2,
+      "fuentes_independientes": 1,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
-        "nombre": "Institucionalismo liberal",
-        "pregunta": "¿Qué reglas, mecanismos de cooperación y límites institucionales afectan la decisión?"
+        "nombre": "Interdependencia compleja y economía política internacional",
+        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
       },
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 7,
+      "prioridad_orientativa": 6,
       "motivos_seleccion": [
-        "Cobertura de fuentes distintas",
-        "Actores relevantes: Estados Unidos, Irán",
-        "Ámbito: Organismos multilaterales"
+        "Actores relevantes: Estados Unidos, Rusia, Ucrania",
+        "Ámbito: Comercio y finanzas"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -1799,6 +1880,65 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-57344dc3307bdd0eb0da",
+      "fecha": "2026-11-06",
+      "titulo_fuente": "Stephen Miller to become Trump’s new White House chief of staff",
+      "region": "Estados Unidos",
+      "temas": [
+        "Migración y DD. HH."
+      ],
+      "noticias": [
+        {
+          "id": "57344dc3307bdd0eb0da",
+          "titulo_original": "Stephen Miller to become Trump’s new White House chief of staff",
+          "titulo_es": "Stephen Miller para convertirse en el nuevo jefe de personal de la Casa Blanca de Trump",
+          "url": "https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-06T19:05:58+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "US president confirms Susie Wiles, current chief of staff and first woman to serve in the role, will step down US politics live – latest updates Stephen Miller, Donald Trump’s most controversial aide, and the architect of his sweeping immigration crackdown, will become his new White House chief of staff. The US president announced the extraordinary appointment on Friday, confirming that Susie Wiles – his current chief of staff, and the first woma",
+          "resumen_es": "El presidente estadounidense confirma Susie Wiles, el actual jefe de personal y la primera mujer en servir en el papel, reducirá la política estadounidense en vivo – las últimas actualizaciones Stephen Miller, el asistente más controvertido de Donald Trump, y el arquitecto de su gran emigrante"
+        },
+        {
+          "id": "06e08a02412058dca204",
+          "titulo_original": "Stephen Miller will replace Susie Wiles as White House chief of staff - Politico",
+          "titulo_es": "Stephen Miller reemplazará a Susie Wiles como jefe de personal de la Casa Blanca - Politico",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM1BHOEpVT0E0bUtPTTF5aGVQWlZKckhPR1FRbktnUzlNdF9UZFQ0cGJ5ZGUzMWJrTUVJc1FVSWNIYzB0MjU0UlBNb3daQkszNThSVThaT2hoOFNLNjdTSVJOWExTT3JERmxTNXNSNGEzY1RfaXZ6MHFCb3pMVEx1bDNmZ1dHNExVSWFlU1BvVDZLQlN0MEU1dzBsUkNEdw?oc=5",
+          "fuente": "POLITICO US",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-06T18:55:00+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Stephen Miller will replace Susie Wiles as White House chief of staff Politico",
+          "resumen_es": "Stephen Miller reemplazará a Susie Wiles como jefe de la Casa Blanca del personal Politico"
+        }
+      ],
+      "fuentes": [
+        "POLITICO US",
+        "The Guardian"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 2,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Derecho internacional y constructivismo",
+        "pregunta": "¿Qué normas, identidades y obligaciones internacionales invocan los actores?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 5,
+      "motivos_seleccion": [
+        "Cobertura de fuentes distintas",
+        "Actores relevantes: Estados Unidos",
+        "Ámbito: Migración y DD. HH."
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-85c131ce0285b6ff0eb8",
       "fecha": "2026-11-06",
       "titulo_fuente": "Trump teases ‘big, beautiful’ European security deal after meeting Putin envoy - CNN",
@@ -1824,6 +1964,18 @@
           "titulo_original": "Trump teases ‘big, beautiful’ European security deal after meeting Putin envoy - CNN",
           "titulo_es": "",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ2RYeHIwWnNzdFZ5NmFPX09CeVBlRHk3ZHdMZDQybjRuczNOUDlwQkxOblVmSmFFZWx2bkJpUnpWdThPNWNfMDNRRGhnNkJBWVZma0JsdTJlSWliLVFOTk9Ya0xnc3diVlFyNTFBUUlqVm1ILTVNSlRsRDdVUjNPTzhxTjE0X0IzLV8xWGZaMA?oc=5",
+          "fuente": "CNN",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-06T14:35:34+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Trump teases ‘big, beautiful’ European security deal after meeting Putin envoy CNN",
+          "resumen_es": ""
+        },
+        {
+          "id": "00ef05fefb687ede186d",
+          "titulo_original": "Trump teases ‘big, beautiful’ European security deal after meeting Putin envoy - CNN",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTmNGekN2aFNsWC1QWWlZMzZIbVNURXpRN0Z5bndIRmNlTzYwYU9GdmRPQXJkLWlEUk11MFpZclB2Q25pakNxNEQ1UWNrRW15dmRjTVlUQkIxNWRVZG9Ocko5VHBRcWNxWmNHTFozLXJXMnlQamprREc3N3RkWDhEY3FlZVFwd3R0b2c?oc=5",
           "fuente": "CNN",
           "pais": "Estados Unidos",
           "fecha": "2026-11-06T14:35:34+00:00",
@@ -1871,97 +2023,91 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-60febfaeed9ebc8e224e",
+      "id": "a-56c34a1b3b3285dd92f5",
       "fecha": "2026-11-06",
-      "titulo_fuente": "Judge halts Trump arch construction - CNN",
+      "titulo_fuente": "Trump names Stephen Miller chief of staff, replacing Susie Wiles after midterm losses",
       "region": "Estados Unidos",
       "temas": [
-        "Actualidad"
+        "Migración y DD. HH."
       ],
       "noticias": [
         {
-          "id": "60febfaeed9ebc8e224e",
-          "titulo_original": "Judge halts Trump arch construction - CNN",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMUJxUXFTU3V3N1lmMktfWkNCdnhGTzhQRmdoYU1rem9odlZhT0RaZmwzLTJxN1JxOUF4VS1zTGFQTDVLWVV2SGx3MWVnb1Rvb1dSRndwcWplV1FBb2xiV2dIQ2RyampBTFNIbThKcVA3ak5LWkduYUI1WTlCNkU0WnN3WXIwbXlQTUZoMGcwNA?oc=5",
-          "fuente": "CNN",
-          "pais": "Estados Unidos",
-          "fecha": "2026-11-06T08:33:04+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Judge halts Trump arch construction CNN",
-          "resumen_es": ""
-        },
-        {
-          "id": "ec504ce6ba8f0876eab9",
-          "titulo_original": "Judge halts Trump arch construction - CNN",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZFNWNHNDNHRQT2VEcjFnQVZHNTV1bVFqTjdxSHJaVUFZdDBnWHYzdTJuejJISnAzTzc0YnVtcXNacHZ4bGg1ZlIzQU5XcDZCVHVVal9sUlV0Qm05WW51VnNSTVZxZEVSNXhGaTNiVUI1cFotREM0aE1tN1VGMldLTG5kT2dISms?oc=5",
-          "fuente": "CNN",
-          "pais": "Estados Unidos",
-          "fecha": "2026-11-06T08:01:00+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Judge halts Trump arch construction CNN",
-          "resumen_es": ""
-        },
-        {
-          "id": "ecd3dc8faa60e1ab5246",
-          "titulo_original": "US judge halts construction of Trump’s triumphal arch in Washington, DC",
-          "titulo_es": "",
-          "url": "https://www.aljazeera.com/news/2026/11/6/us-judge-halts-construction-of-trumps-triumphal-arch-in-washington-dc?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-11-06T07:32:08+00:00",
+          "id": "56c34a1b3b3285dd92f5",
+          "titulo_original": "Trump names Stephen Miller chief of staff, replacing Susie Wiles after midterm losses",
+          "titulo_es": "Trump nombra a Stephen Miller jefe de personal, reemplazando a Susie Wiles después de pérdidas de mitad de período",
+          "url": "https://www.scmp.com/news/us/politics/article/3373617/trump-names-stephen-miller-chief-staff-replacing-susie-wiles-after-midterm-losses",
+          "fuente": "South China Morning Post",
+          "pais": "Hong Kong",
+          "fecha": "2026-11-06T19:23:38+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "A 14-day pause has been ordered blocking the so-called 'Arc de Trump' project in Washington, DC.",
-          "resumen_es": ""
-        },
-        {
-          "id": "4baea1587b4eb8d1035f",
-          "titulo_original": "Judge temporarily halts building work on Trump’s triumphal arch",
-          "titulo_es": "",
-          "url": "https://www.theguardian.com/us-news/2026/nov/06/judge-temporarily-halts-work-trump-triumphal-arch-washington",
-          "fuente": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-06T06:36:20+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Federal judge issues 14-day restraining order on any construction work on Washington monument, hours after it was approved by planning commission A federal judge has halted construction work on Donald Trump’s towering triumphal arch for 14 days, a major setback for one of the president’s most prominent projects in his vision to remake Washington. The temporary restraining order was issued by US district judge Tanya Chutkan in the early hours of F",
-          "resumen_es": ""
-        },
-        {
-          "id": "f34b1f41d0f9716c50f4",
-          "titulo_original": "Judge blocks Trump’s arch after panel approves construction - Politico",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPelo4THdSZ1ZMYlNoQXZkTjVUNFMwYmZHWkJLZ3hIQTNiOVAzLWt2RlMtUlgwbExSa0NaU3RPcjVaU04wckNaejZ4cF9FbWVZSVVrT3lpaEpRUU81emdfR2tKajBkbC16cUVfbDNqMWhkX2ZlVjRRSWJnRUVGSFB2aURjM0I1RWRDVmEwaWFtVjJXZ1IwSVp6MzJOV2VELWRfbUE?oc=5",
-          "fuente": "POLITICO US",
-          "pais": "Estados Unidos",
-          "fecha": "2026-11-06T03:53:00+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Judge blocks Trump’s arch after panel approves construction Politico",
-          "resumen_es": ""
+          "resumen_original": "US President Donald Trump said on Friday that Stephen Miller would replace Susie Wiles as White House chief of staff, elevating a long-time loyalist and architect of his immigration crackdown days after Republicans lost control of Congress. Miller, currently a deputy chief of staff, will take over on Monday. Wiles will move to Trump’s political operation, the president said in a post on Truth Social. “I am pleased to announce that Mr. Stephen Mil",
+          "resumen_es": "El presidente estadounidense Donald Trump dijo el viernes que Stephen Miller reemplazaría a Susie Wiles como jefe de personal de la Casa Blanca, elevando a un lealista y arquitecto de sus días de represión de inmigración después de que los republicanos pierdan el control del Congreso."
         }
       ],
       "fuentes": [
-        "Al Jazeera",
-        "CNN",
-        "POLITICO US",
-        "The Guardian"
+        "South China Morning Post"
       ],
       "actores_mencionados": [
         "Estados Unidos"
       ],
-      "fuentes_independientes": 4,
+      "fuentes_independientes": 1,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+        "nombre": "Derecho internacional y constructivismo",
+        "pregunta": "¿Qué normas, identidades y obligaciones internacionales invocan los actores?"
       },
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 5,
+      "prioridad_orientativa": 4,
       "motivos_seleccion": [
-        "Cobertura de fuentes distintas",
-        "Actores relevantes: Estados Unidos"
+        "Actores relevantes: Estados Unidos",
+        "Ámbito: Migración y DD. HH."
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-e7b65f6ba774d9d5523e",
+      "fecha": "2026-11-06",
+      "titulo_fuente": "Sailor killed in Gulf as Iran says tankers on fire",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "e7b65f6ba774d9d5523e",
+          "titulo_original": "Sailor killed in Gulf as Iran says tankers on fire",
+          "titulo_es": "Sailor asesinado en el Golfo como Irán dice tanques a fuego",
+          "url": "https://www.thehindu.com/news/international/sailor-killed-in-gulf-as-iran-says-tankers-on-fire/article71676046.ece",
+          "fuente": "The Hindu",
+          "pais": "India",
+          "fecha": "2026-11-06T19:10:32+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The Marshall Islands-flagged tanker Velos Sapphire was sailing to Bahrain empty of cargo when the attack happened on November 5, Velos Tankers said in a statement",
+          "resumen_es": "El buque cisterna de bandera de las Islas Marshall Velos Sapphire estaba navegando a Bahréin vacío de carga cuando el ataque ocurrió el 5 de noviembre, Velos Tankers dijo en un comunicado"
+        }
+      ],
+      "fuentes": [
+        "The Hindu"
+      ],
+      "actores_mencionados": [
+        "Irán"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Irán",
+        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -2096,6 +2242,51 @@
       "prioridad_orientativa": 4,
       "motivos_seleccion": [
         "Actores relevantes: Estados Unidos, Rusia"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-5956889570f5a221cb68",
+      "fecha": "2026-11-06",
+      "titulo_fuente": "Zelensky tells CNN security deal floated by Trump could potentially be dangerous - CNN",
+      "region": "Estados Unidos",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "5956889570f5a221cb68",
+          "titulo_original": "Zelensky tells CNN security deal floated by Trump could potentially be dangerous - CNN",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcktHUkhObW1yU2lnV3N0VGhka2lFdHYyQ3VrTVFOZkJxUzQycWoxYlVpRVhlRVdlT3JoeWgyS0toVGQxM1ppNG4zMXVKWlJUSnZsb2xjUUxYbFhhVWhTSndRYnBpRWFZMnhzWFhxUFJ5eXo2YVlMWHIwenNUTnp6OV9rNDJZYjhSTndwV2RSa3NWTGdweE4xZW01UnVJdw?oc=5",
+          "fuente": "CNN",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-06T17:49:00+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Zelensky tells CNN security deal floated by Trump could potentially be dangerous CNN",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "CNN"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Ucrania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos, Ucrania"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -2775,6 +2966,49 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-8583edf89f320a325ab0",
+      "fecha": "2026-11-06",
+      "titulo_fuente": "Wall Street’s AI trade runs into a blue wave - Politico",
+      "region": "Internacional",
+      "temas": [
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "8583edf89f320a325ab0",
+          "titulo_original": "Wall Street’s AI trade runs into a blue wave - Politico",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSzhvV1ZCWlNxb2FCZVFCclpyMklRWXNfN1pEOUxRajR3LXY2U1V2a3c4Zk9BYko1TmJCUW5kZ3ZCeUVYU2dlMVJjbVNCRGNfaWc1UURweGlEZENwSDlQcHlGZ0hUV0h5Mk5MOFB4eTBPTlRDQWZkU3JLMlpyZmFqWU12UHZyRnJaT3dneGdKb2pYaDdiVll0S1N4UlpYSDhIOGI4QVM3WVRQYmlES0cyTDlxVEkyUHdsRXVHOEIxOGU0aTZoVWc?oc=5",
+          "fuente": "POLITICO US",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-06T13:00:00+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Wall Street’s AI trade runs into a blue wave Politico",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "POLITICO US"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia compleja y economía política internacional",
+        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Ámbito: Comercio y finanzas",
+        "Posible decisión institucional o negociación"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-599c5742b14157d6ba8d",
       "fecha": "2026-11-06",
       "titulo_fuente": "For people in Iran, a constant threat of war and dearth of information",
@@ -3315,6 +3549,51 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-89b5f6f07cd9652cf3d4",
+      "fecha": "2026-11-06",
+      "titulo_fuente": "Trump signs order to preserve Oval Office as national monument",
+      "region": "Estados Unidos",
+      "temas": [
+        "Organismos multilaterales"
+      ],
+      "noticias": [
+        {
+          "id": "89b5f6f07cd9652cf3d4",
+          "titulo_original": "Trump signs order to preserve Oval Office as national monument",
+          "titulo_es": "",
+          "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-06T09:19:57+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "BBC News"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Institucionalismo liberal",
+        "pregunta": "¿Qué reglas, mecanismos de cooperación y límites institucionales afectan la decisión?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos",
+        "Ámbito: Organismos multilaterales"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-9e100ae98eccaf0c4953",
       "fecha": "2026-11-06",
       "titulo_fuente": "Guerre en Ukraine : le RN isolé au Sénat sur sa volonté de réduction de l’aide à Kiev, LFI absente du débat",
@@ -3355,6 +3634,89 @@
       "motivos_seleccion": [
         "Actores relevantes: Ucrania",
         "Ámbito: Comercio y finanzas"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-60febfaeed9ebc8e224e",
+      "fecha": "2026-11-06",
+      "titulo_fuente": "Judge halts Trump arch construction - CNN",
+      "region": "Estados Unidos",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "60febfaeed9ebc8e224e",
+          "titulo_original": "Judge halts Trump arch construction - CNN",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMUJxUXFTU3V3N1lmMktfWkNCdnhGTzhQRmdoYU1rem9odlZhT0RaZmwzLTJxN1JxOUF4VS1zTGFQTDVLWVV2SGx3MWVnb1Rvb1dSRndwcWplV1FBb2xiV2dIQ2RyampBTFNIbThKcVA3ak5LWkduYUI1WTlCNkU0WnN3WXIwbXlQTUZoMGcwNA?oc=5",
+          "fuente": "CNN",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-06T08:33:04+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Judge halts Trump arch construction CNN",
+          "resumen_es": ""
+        },
+        {
+          "id": "ec504ce6ba8f0876eab9",
+          "titulo_original": "Judge halts Trump arch construction - CNN",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZFNWNHNDNHRQT2VEcjFnQVZHNTV1bVFqTjdxSHJaVUFZdDBnWHYzdTJuejJISnAzTzc0YnVtcXNacHZ4bGg1ZlIzQU5XcDZCVHVVal9sUlV0Qm05WW51VnNSTVZxZEVSNXhGaTNiVUI1cFotREM0aE1tN1VGMldLTG5kT2dISms?oc=5",
+          "fuente": "CNN",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-06T08:01:00+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Judge halts Trump arch construction CNN",
+          "resumen_es": ""
+        },
+        {
+          "id": "ecd3dc8faa60e1ab5246",
+          "titulo_original": "US judge halts construction of Trump’s triumphal arch in Washington, DC",
+          "titulo_es": "",
+          "url": "https://www.aljazeera.com/news/2026/11/6/us-judge-halts-construction-of-trumps-triumphal-arch-in-washington-dc?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-06T07:32:08+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "A 14-day pause has been ordered blocking the so-called 'Arc de Trump' project in Washington, DC.",
+          "resumen_es": ""
+        },
+        {
+          "id": "4baea1587b4eb8d1035f",
+          "titulo_original": "Judge temporarily halts building work on Trump’s triumphal arch",
+          "titulo_es": "",
+          "url": "https://www.theguardian.com/us-news/2026/nov/06/judge-temporarily-halts-work-trump-triumphal-arch-washington",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-06T06:36:20+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Federal judge issues 14-day restraining order on any construction work on Washington monument, hours after it was approved by planning commission A federal judge has halted construction work on Donald Trump’s towering triumphal arch for 14 days, a major setback for one of the president’s most prominent projects in his vision to remake Washington. The temporary restraining order was issued by US district judge Tanya Chutkan in the early hours of F",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera",
+        "CNN",
+        "The Guardian"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 3,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Cobertura de fuentes distintas",
+        "Actores relevantes: Estados Unidos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -3768,125 +4130,71 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-b584ef8a4238ea596cd6",
+      "id": "a-b56562d9a287edb1a8ea",
       "fecha": "2026-11-06",
-      "titulo_fuente": "Aishwarya Rai-Abhishek Bachchan lovingly gaze into each other’s eyes at Diwali bash. See pics - The Indian Express",
-      "region": "Asia-Pacífico",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "b584ef8a4238ea596cd6",
-          "titulo_original": "Aishwarya Rai-Abhishek Bachchan lovingly gaze into each other’s eyes at Diwali bash. See pics - The Indian Express",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNZTVHQldxVUJRSHZidlVpRVBNeFRhMXJ5QWNleF9sdXRxMDl1a1RlUDdDMWM3VHNmalVQM0V3U1pNTWZaeFktcmJ0Z01YdTFGMUZ6SEdfQjlDcUc3ajRkajZWTXdZOXZtakNsajUzWFduQWR3QnVmcGZjZUpTSlhRWWpjcjV5NExDV2ZraDVFSWk5VWJSLVpCRXU2TUNZMDQxTFNmREJVR0h6akxpSWN2UU5VTXZWS0NaMXVtTWQ2anFFakh3eVdqU2x0bDBrbkxzTWQtdm1BTW1ybkNjMDV6NmJlWV9TTjMwVEhKTFBCNzV5M25CX3hISdIB_wFBVV95cUxOOUk2VEFmcU5CamR0c0dNTm05bm1UTHRNREdHM1NMenY4VUZIdm53cWtTYU5xLUYzT2xFZml1ZmY3SEhOWDFIb0JlbEJDaXI5R0RQWERoYUxvZGptUXFWbWVOWHRhSldWd1ZXRlJMaU43RXJ4bFhBNlRyN1ozeFB3Rnl2Wk1LdmozNm1jOEpSRUVnbXVCTmRVYmpoUHN2VWY0ZnJWUE5zZV9oX3hXSGExUXBmTi1RV0ZLMVlNWkdabF94Wk5Fd1p1ejMzblZGdjR3YTM5aXBkSW05NS1kRkhUYjNMMXEyT1E3dmp4d0N3aUJPNGo2ZHR4aDd2cFZyams?oc=5",
-          "fuente": "The Indian Express",
-          "pais": "India",
-          "fecha": "2026-11-06T04:28:04+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Aishwarya Rai-Abhishek Bachchan lovingly gaze into each other’s eyes at Diwali bash. See pics The Indian Express",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Indian Express"
-      ],
-      "actores_mencionados": [
-        "India"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: India",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-229c92928d845870363f",
-      "fecha": "2026-11-06",
-      "titulo_fuente": "Sen. Bill Cassidy on Hegseth and Iran War - CNN",
-      "region": "Oriente Medio",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "229c92928d845870363f",
-          "titulo_original": "Sen. Bill Cassidy on Hegseth and Iran War - CNN",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5KNXdoM2xSMTJuZGYtU3dKRW5sbFBDdlE5eTJ1Y3AxaGRfWEY1dGpUWmtPM3kwd1M2cFdnMzhTU1J6MnJHOENjdXN0Sm9KYXRSTUliT2hncXlwQWwxTFREX3lsLV9qcl9Va011ZGp6NHpoSFU5c1VIcnpwOA?oc=5",
-          "fuente": "CNN",
-          "pais": "Estados Unidos",
-          "fecha": "2026-11-06T04:27:00+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Sen. Bill Cassidy on Hegseth and Iran War CNN",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "CNN"
-      ],
-      "actores_mencionados": [
-        "Irán"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Irán",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-8650b80e1b833750cb28",
-      "fecha": "2026-11-06",
-      "titulo_fuente": "Flávio Bolsonaro reaparece en la mansión de Trump en Mar-a-Lago en una gala de la Conferencia de Acción Política Conservadora",
-      "region": "Estados Unidos",
+      "titulo_fuente": "Thomas Markle, Meghan’s father, arrested in Florida on charges related to child sexual abuse material",
+      "region": "Internacional",
       "temas": [
         "Actualidad"
       ],
       "noticias": [
         {
-          "id": "8650b80e1b833750cb28",
-          "titulo_original": "Flávio Bolsonaro reaparece en la mansión de Trump en Mar-a-Lago en una gala de la Conferencia de Acción Política Conservadora",
-          "titulo_es": "",
-          "url": "https://elpais.com/america/2026-11-06/flavio-bolsonaro-reaparece-en-la-mansion-de-trump-en-mar-a-lago-en-una-gala-de-la-conferencia-de-accion-politica-conservadora.html",
-          "fuente": "El País",
-          "pais": "España",
-          "fecha": "2026-11-06T04:10:37+00:00",
+          "id": "b56562d9a287edb1a8ea",
+          "titulo_original": "Thomas Markle, Meghan’s father, arrested in Florida on charges related to child sexual abuse material",
+          "titulo_es": "Thomas Markle, el padre de Meghan, detenido en Florida por cargos relacionados con el material de abuso sexual infantil",
+          "url": "https://www.theguardian.com/uk-news/2026/nov/06/thomas-markle-arrested",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-06T17:20:25+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "El excandidato presidencial de Brasil, fugitivo en Florida tras perder las elecciones, fue uno de los ponentes en el evento en Florida",
+          "resumen_original": "Father of the Duchess of Sussex was taken into custody near Tampa, US prosecutors said Thomas Markle, the father of Meghan, the Duchess of Sussex , was arrested by US federal agents in Florida on Friday and charged in connection with possession of child sexual abuse material, according to federal law enforcement. Markle, 82, was taken into custody at a nursing home near Tampa early on Friday, and was expected to appear in court in Tampa in the ea",
+          "resumen_es": "Padre de la Duquesa de Sussex fue detenido cerca de Tampa, los fiscales estadounidenses dijeron que Thomas Markle, el padre de Meghan, la Duquesa de Sussex, fue arrestado por agentes federales estadounidenses en Florida el viernes y acusado en relación con poses"
+        },
+        {
+          "id": "1c0ab98cec07dae07c03",
+          "titulo_original": "FBI arrests Thomas Markle, father of Meghan, over child sexual abuse material",
+          "titulo_es": "El FBI arresta a Thomas Markle, padre de Meghan, por abuso sexual infantil.",
+          "url": "https://www.thehindu.com/news/international/meghan-markle-father-thomas-arrested-fbi/article71675624.ece",
+          "fuente": "The Hindu",
+          "pais": "India",
+          "fecha": "2026-11-06T16:09:10+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Meghan Markle recently said she was “deeply distressed” by allegations that a collection of child sexual abuse images had been found at her father's former home",
+          "resumen_es": "Meghan Markle dijo recientemente que estaba “muy angustiada” por acusaciones de que se había encontrado una colección de imágenes de abuso sexual infantil en la antigua casa de su padre"
+        },
+        {
+          "id": "a364c36e7265cb2183ef",
+          "titulo_original": "Meghan’s father Thomas Markle arrested in US on child sex abuse material charges",
+          "titulo_es": "",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3373612/meghans-father-thomas-markle-arrested-us-child-sex-abuse-material-charges",
+          "fuente": "South China Morning Post",
+          "pais": "Hong Kong",
+          "fecha": "2026-11-06T16:02:13+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Thomas Markle, the father of Prince Harry’s wife Meghan, was arrested on Friday morning by federal agents in Florida on charges related to child sexual abuse material, people familiar with the matter said. The people who confirmed his arrest were not authorised to publicly discuss the investigation and spoke on the condition of anonymity. Markle, 82, was taken into custody at the retirement home where he lives near Tampa. The arrest comes after a",
+          "resumen_es": ""
+        },
+        {
+          "id": "59df00267338f198f1ff",
+          "titulo_original": "Thomas Markle arrested in Florida on charges related to child sex abuse material - CNN",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5FYnJGaURlVzVOUmptbjFkTEdSUXVTRVFKTnhONXdCanVEckRQV2NsbFJ1NDhkWjU2QW52QlNNVkpzdG04TXRPNnRLYkttV0FLdVRWRlBrblFURXJZSnFMWXRWOHc5V1hTdjRpT3NLMWN0QjltTzBndy1NREI?oc=5",
+          "fuente": "CNN",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-06T15:55:07+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Thomas Markle arrested in Florida on charges related to child sex abuse material CNN",
           "resumen_es": ""
         }
       ],
       "fuentes": [
-        "El País"
+        "CNN",
+        "South China Morning Post",
+        "The Guardian",
+        "The Hindu"
       ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "Brasil"
-      ],
-      "fuentes_independientes": 1,
+      "actores_mencionados": [],
+      "fuentes_independientes": 4,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
         "nombre": "Marco por determinar",
@@ -3895,144 +4203,9 @@
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
+      "prioridad_orientativa": 3,
       "motivos_seleccion": [
-        "Actores relevantes: Brasil, Estados Unidos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-644d78808ceaa3191b37",
-      "fecha": "2026-11-06",
-      "titulo_fuente": "How to curry favor with the next US president — without annoying Trump",
-      "region": "Estados Unidos",
-      "temas": [
-        "Diplomacia"
-      ],
-      "noticias": [
-        {
-          "id": "644d78808ceaa3191b37",
-          "titulo_original": "How to curry favor with the next US president — without annoying Trump",
-          "titulo_es": "",
-          "url": "https://www.politico.eu/article/how-to-curry-favor-with-the-next-us-president-without-annoying-trump/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "fuente": "POLITICO Europe",
-          "pais": "Unión Europea",
-          "fecha": "2026-11-06T04:00:00+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Ed Roman, former director of communications at the British Embassy in Washington, tells POLITICO's Westminster Insider how global diplomats should navigate the post-midterms landscape.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "POLITICO Europe"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos",
-        "Ámbito: Diplomacia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-92b55ae18b60b486d919",
-      "fecha": "2026-11-06",
-      "titulo_fuente": "Canada budget charts ‘economic independence’ in decisive shift from US",
-      "region": "Estados Unidos",
-      "temas": [
-        "Comercio y finanzas"
-      ],
-      "noticias": [
-        {
-          "id": "92b55ae18b60b486d919",
-          "titulo_original": "Canada budget charts ‘economic independence’ in decisive shift from US",
-          "titulo_es": "",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3373484/canada-budget-charts-economic-independence-decisive-shift-us",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-11-06T03:20:37+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Canada unveiled a budget on Thursday that calls for “economic independence” and says that while reducing its reliance on the United States will take time, “the shift is under way”. Prime Minister Mark Carney’s second budget since taking office last year was presented to parliament just two days after President Donald Trump suffered a sweeping midterm election rebuke. While Democrats, who will take control of the US House and Senate next year, hav",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "South China Morning Post"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia compleja y economía política internacional",
-        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos",
-        "Ámbito: Comercio y finanzas"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-1b17e0b387a83f9591d6",
-      "fecha": "2026-11-06",
-      "titulo_fuente": "Sarah Jukaku: First Muslim U.S. senator’s wife has a Karnataka link",
-      "region": "Estados Unidos",
-      "temas": [
-        "Comercio y finanzas"
-      ],
-      "noticias": [
-        {
-          "id": "1b17e0b387a83f9591d6",
-          "titulo_original": "Sarah Jukaku: First Muslim U.S. senator’s wife has a Karnataka link",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/news/national/karnataka/sarah-jukaku-first-muslim-us-senator-abdul-el-sayed-wife-karnataka-bhatkal-links/article71667298.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-11-06T03:09:39+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Dr. Sarah is the granddaughter of the late J.H. Shamsuddin Jukaku, a lawyer from Bhatkal who served as Deputy Finance Minister in the erstwhile Mysore State government, led by the then Chief Minister B.D. Jatti, in the late 1950s and early 1960s.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Hindu"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia compleja y economía política internacional",
-        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos",
-        "Ámbito: Comercio y finanzas"
+        "Cobertura de fuentes distintas"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -4096,47 +4269,34 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-2027e6dc50d8ee1fbebc",
+      "id": "a-2e66a17b47d1928dbb7b",
       "fecha": "2026-11-06",
-      "titulo_fuente": "China's Macau jails ex-lawmaker in first national security trial",
-      "region": "China",
+      "titulo_fuente": "Middle East could have big role in Democrats' Trump corruption inquiry",
+      "region": "Estados Unidos",
       "temas": [
         "Actualidad"
       ],
       "noticias": [
         {
-          "id": "2027e6dc50d8ee1fbebc",
-          "titulo_original": "China's Macau jails ex-lawmaker in first national security trial",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/news/international/chinas-macau-jails-ex-lawmaker-in-first-national-security-trial/article71672885.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-11-06T05:32:54+00:00",
+          "id": "2e66a17b47d1928dbb7b",
+          "titulo_original": "Middle East could have big role in Democrats' Trump corruption inquiry",
+          "titulo_es": "Medio Oriente podría tener un gran papel en los demócratas Investigación sobre corrupción de Trump",
+          "url": "https://www.dw.com/en/middle-east-could-have-big-role-in-democrats-trump-corruption-inquiry/a-79877104?maca=en-rss-en-world-4025-rdf",
+          "fuente": "Deutsche Welle",
+          "pais": "Alemania",
+          "fecha": "2026-11-06T19:16:00+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Au Kam San, who co-organised annual vigils for victims of the 1989 Tiananmen Square crackdown in Beijing, is the first person convicted under national security laws widened in 2023 in Macau",
-          "resumen_es": ""
-        },
-        {
-          "id": "c6d3060b21977b64cda5",
-          "titulo_original": "Ex-lawmaker Au Kam-san jailed for 12½ years in Macau’s first national security trial",
-          "titulo_es": "",
-          "url": "https://www.scmp.com/news/hong-kong/politics/article/3373482/12-1/2-years-jail-ex-macau-lawmaker-au-kam-san-citys-first-national-security-trial",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-11-06T03:08:14+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Former Macau opposition lawmaker Au Kam-san has been convicted on five of seven charges in the city’s first national security trial, with the court handing down a 12½-year prison sentence following closed-door proceedings. The Court of First Instance on Friday found Au, 69, guilty on four counts under Macau’s national security law – subversion of state power and establishing links with foreign groups or individuals to commit activities endangerin",
-          "resumen_es": ""
+          "resumen_original": "After their victory in the US midterm elections, the Democrats have promised to investigate corruption in the Trump administration. Critics say the president's Middle East deals is an area they should focus on.",
+          "resumen_es": "Después de su victoria en las elecciones de mitad de período estadounidenses, los demócratas han prometido investigar la corrupción en la administración Trump. Los críticos dicen que las ofertas del presidente en Medio Oriente son un área en la que deben enfocarse."
         }
       ],
       "fuentes": [
-        "South China Morning Post",
-        "The Hindu"
+        "Deutsche Welle"
       ],
       "actores_mencionados": [
-        "China"
+        "Estados Unidos"
       ],
-      "fuentes_independientes": 2,
+      "fuentes_independientes": 1,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
         "nombre": "Marco por determinar",
@@ -4145,10 +4305,137 @@
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 3,
+      "prioridad_orientativa": 2,
       "motivos_seleccion": [
-        "Cobertura de fuentes distintas",
-        "Actores relevantes: China"
+        "Actores relevantes: Estados Unidos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-b459fc20a18247e9cd6f",
+      "fecha": "2026-11-06",
+      "titulo_fuente": "Las ‘midterms’ 2026, en vivo | Stephen Miller, nuevo jefe de gabinete de Trump",
+      "region": "Estados Unidos",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "b459fc20a18247e9cd6f",
+          "titulo_original": "Las ‘midterms’ 2026, en vivo | Stephen Miller, nuevo jefe de gabinete de Trump",
+          "titulo_es": "",
+          "url": "https://elpais.com/us/2026-11-06/las-midterms-2026-en-vivo.html",
+          "fuente": "El País",
+          "pais": "España",
+          "fecha": "2026-11-06T19:01:09+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Reemplaza a Susie Wiles en el cargo. Es la primera ficha que se mueve en el gobierno tras la debacle electoral en las ‘midterms’",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "El País"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-563edd0f9d6c208765c1",
+      "fecha": "2026-11-06",
+      "titulo_fuente": "Lawyers descend on Mississippi as vote counting continues in razor-thin Senate race",
+      "region": "Internacional",
+      "temas": [
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "563edd0f9d6c208765c1",
+          "titulo_original": "Lawyers descend on Mississippi as vote counting continues in razor-thin Senate race",
+          "titulo_es": "Abogados descienden en Mississippi mientras el conteo de votos continúa en la carrera del Senado",
+          "url": "https://www.theguardian.com/us-news/2026/nov/06/mississippi-senate-race-vote-counting-lawyers",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-06T18:51:52+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Democratic and Republican lawyers and groups trade sharp legal letters about procedures for counting ballots in tight race Democrat Scott Colom is on the verge of winning a Senate seat in Mississippi in a stunning upset, but ballots are still being counted in a close race where Colom holds a lead of just under 2,000 votes over Republican incumbent Cindy Hyde-Smith. Losing ruby-red Mississippi would be the final straw for Republicans after a midte",
+          "resumen_es": "Abogados y grupos demócratas y republicanos intercambian letras legales agudas sobre procedimientos para contar las papeletas en la raza estrecha El demócrata Scott Colom está a punto de ganar un escaño en el Senado en Mississippi en un enojo impresionante, pero las boletas son sti"
+        }
+      ],
+      "fuentes": [
+        "The Guardian"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia compleja y economía política internacional",
+        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Comercio y finanzas"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-4124fc328a5ee49a687c",
+      "fecha": "2026-11-06",
+      "titulo_fuente": "Activists break into building site of Microsoft datacentre in Amsterdam",
+      "region": "Europa",
+      "temas": [
+        "Energía y clima"
+      ],
+      "noticias": [
+        {
+          "id": "4124fc328a5ee49a687c",
+          "titulo_original": "Activists break into building site of Microsoft datacentre in Amsterdam",
+          "titulo_es": "Activistas entran en el sitio de construcción de Microsoft datacentre en Amsterdam",
+          "url": "https://www.theguardian.com/world/2026/nov/06/activists-break-into-building-site-of-microsoft-datacentre-in-amsterdam",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-06T18:51:37+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Separate actions also take place outside fence and across Europe in backlash against impact of AI boom Activists have stormed the site of a Microsoft datacentre being built in Amsterdam, as the backlash to the social and environmental harms of the AI boom spreads across Europe. Protesters from Geef Tegengas, a Dutch direct action group, clashed with police while breaking into a construction site at Westpoort Amsterdam, where some members climbed ",
+          "resumen_es": "Las acciones separadas también tienen lugar fuera de la valla y a través de Europa en retroceso contra impacto de los activistas del boom de la IA han asaltado el sitio de un centro de datos de Microsoft que se construye en Amsterdam, como el retroceso a los daños sociales y ambientales"
+        }
+      ],
+      "fuentes": [
+        "The Guardian"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia y gobernanza global",
+        "pregunta": "¿Cómo se distribuyen los costos de coordinación y los incentivos para cooperar?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Energía y clima"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -4241,6 +4528,50 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-758b3081786303d54406",
+      "fecha": "2026-11-06",
+      "titulo_fuente": "India pacer Mohammed Shami retires from Test cricket - The Indian Express",
+      "region": "Asia-Pacífico",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "758b3081786303d54406",
+          "titulo_original": "India pacer Mohammed Shami retires from Test cricket - The Indian Express",
+          "titulo_es": "Mahoma Shami se retira del cricket de Test - The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ2ZiNTlLaUJ6VlBsY20zWEJVTmVxYVZSM0xmRm9RZTlBUkFibnNOc2ZFakRTdWxoN0FraXQ4WU1VTVNZaHlQT196NFNJU2ltOUZhWFhuVW5aTGJYekI5MW5VcHltOEJGQTdZMGxpc3YzUk9WTUlVaERnRE5PTHBFbHg2R190MzZtRmdBZWZ0OW51M3JCVXNOeDYzVWNYUEdKM0Y4R1BDQUFNa01MLWVtOdIBtwFBVV95cUxOYzhNaEtrMi1zQXpzWGNYVENnTHpyeVdyU2hySm9yMXhUZ3RKS1RmT2NhbnNtYTBYQWhVUTROWGlWZTF2STFDM2NheXppeG9Pbl9MRHd2MVl6VHBQbE5hWU04N1h2akdKLVh5WGQ2VHlRSXhqU3lwZ0tMT0d3dlBhRF9lYy1wUGRZYmZkMUhpbVkxTGVVcXRwR2d0QnlNOFVKSjhLYXVaUXB5WjhtbWtGeWFsdVYwLWs?oc=5",
+          "fuente": "The Indian Express",
+          "pais": "India",
+          "fecha": "2026-11-06T17:58:48+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "India pacer Mohammed Shami retires from Test cricket The Indian Express",
+          "resumen_es": "Mohammed Shami se retira del cricket del Test El Expreso Indio"
+        }
+      ],
+      "fuentes": [
+        "The Indian Express"
+      ],
+      "actores_mencionados": [
+        "India"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: India"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-1d60a00bd6b725eda1fb",
       "fecha": "2026-11-06",
       "titulo_fuente": "Trump will be blocked from putting ‘rightwinger’ on supreme court, Schumer says",
@@ -4322,74 +4653,6 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Ámbito: Migración y DD. HH."
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-b56562d9a287edb1a8ea",
-      "fecha": "2026-11-06",
-      "titulo_fuente": "Thomas Markle, Meghan’s father, arrested in Florida on charges related to child sexual abuse material",
-      "region": "Internacional",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "b56562d9a287edb1a8ea",
-          "titulo_original": "Thomas Markle, Meghan’s father, arrested in Florida on charges related to child sexual abuse material",
-          "titulo_es": "Thomas Markle, el padre de Meghan, detenido en Florida por cargos relacionados con el material de abuso sexual infantil",
-          "url": "https://www.theguardian.com/uk-news/2026/nov/06/thomas-markle-arrested",
-          "fuente": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-06T17:20:25+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Father of the Duchess of Sussex was taken into custody near Tampa, US prosecutors said Thomas Markle, the father of Meghan, the Duchess of Sussex , was arrested by US federal agents in Florida on Friday and charged in connection with possession of child sexual abuse material, according to federal law enforcement. Markle, 82, was taken into custody at a nursing home near Tampa early on Friday, and was expected to appear in court in Tampa in the ea",
-          "resumen_es": "Padre de la Duquesa de Sussex fue detenido cerca de Tampa, los fiscales estadounidenses dijeron que Thomas Markle, el padre de Meghan, la Duquesa de Sussex, fue arrestado por agentes federales estadounidenses en Florida el viernes y acusado en relación con poses"
-        },
-        {
-          "id": "1c0ab98cec07dae07c03",
-          "titulo_original": "FBI arrests Thomas Markle, father of Meghan, over child sexual abuse material",
-          "titulo_es": "El FBI arresta a Thomas Markle, padre de Meghan, por abuso sexual infantil.",
-          "url": "https://www.thehindu.com/news/international/meghan-markle-father-thomas-arrested-fbi/article71675624.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-11-06T16:09:10+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Meghan Markle recently said she was “deeply distressed” by allegations that a collection of child sexual abuse images had been found at her father's former home",
-          "resumen_es": "Meghan Markle dijo recientemente que estaba “muy angustiada” por acusaciones de que se había encontrado una colección de imágenes de abuso sexual infantil en la antigua casa de su padre"
-        },
-        {
-          "id": "a364c36e7265cb2183ef",
-          "titulo_original": "Meghan’s father Thomas Markle arrested in US on child sex abuse material charges",
-          "titulo_es": "",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3373612/meghans-father-thomas-markle-arrested-us-child-sex-abuse-material-charges",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-11-06T16:02:13+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Thomas Markle, the father of Prince Harry’s wife Meghan, was arrested on Friday morning by federal agents in Florida on charges related to child sexual abuse material, people familiar with the matter said. The people who confirmed his arrest were not authorised to publicly discuss the investigation and spoke on the condition of anonymity. Markle, 82, was taken into custody at the retirement home where he lives near Tampa. The arrest comes after a",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "South China Morning Post",
-        "The Guardian",
-        "The Hindu"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 3,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Cobertura de fuentes distintas"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6662,266 +6925,6 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Actores relevantes: Brasil"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-781f612453c625aa0292",
-      "fecha": "2026-11-06",
-      "titulo_fuente": "Coup de froid entre l’Azerbaïdjan et la Turquie sur fond d’« affaire du voile » et d’ambitions régionales contrariées",
-      "region": "Internacional",
-      "temas": [
-        "Energía y clima"
-      ],
-      "noticias": [
-        {
-          "id": "781f612453c625aa0292",
-          "titulo_original": "Coup de froid entre l’Azerbaïdjan et la Turquie sur fond d’« affaire du voile » et d’ambitions régionales contrariées",
-          "titulo_es": "",
-          "url": "https://www.lemonde.fr/international/article/2026/11/06/coup-de-froid-entre-l-azerbaidjan-et-la-turquie-sur-fond-d-affaire-du-voile-et-d-ambitions-regionales-contrariees_6807789_3210.html",
-          "fuente": "Le Monde",
-          "pais": "Francia",
-          "fecha": "2026-11-06T13:00:07+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Partie d’une décision de Bakou d’interdire le port du hijab dans ses écoles, la querelle entre les deux alliés révèle des rivalités profondes.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Le Monde"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia y gobernanza global",
-        "pregunta": "¿Cómo se distribuyen los costos de coordinación y los incentivos para cooperar?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Energía y clima"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-ca5031a28a3ec12396b0",
-      "fecha": "2026-11-06",
-      "titulo_fuente": "Russian extremist group denies sending hoax bomb threats",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "ca5031a28a3ec12396b0",
-          "titulo_original": "Russian extremist group denies sending hoax bomb threats",
-          "titulo_es": "",
-          "url": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-06T12:51:38+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "BBC News"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-37115844fef60fa37424",
-      "fecha": "2026-11-06",
-      "titulo_fuente": "Mélenchon squares up to Brussels in election manifesto",
-      "region": "Europa",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "37115844fef60fa37424",
-          "titulo_original": "Mélenchon squares up to Brussels in election manifesto",
-          "titulo_es": "",
-          "url": "https://www.politico.eu/article/france-presidential-candidate-melenchon-previews-eu-confrontation-in-presidential-platform/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "fuente": "POLITICO Europe",
-          "pais": "Unión Europea",
-          "fecha": "2026-11-06T12:48:10+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The far-left leader's plan for France will \"require a confrontation with European institutions,\" according to his presidential platform.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "POLITICO Europe"
-      ],
-      "actores_mencionados": [
-        "Unión Europea",
-        "Francia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Unión Europea"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-6ab4e2a4084bb63fcd29",
-      "fecha": "2026-11-06",
-      "titulo_fuente": "India-born Saba Haider wins Illinois State Representative election",
-      "region": "Asia-Pacífico",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "6ab4e2a4084bb63fcd29",
-          "titulo_original": "India-born Saba Haider wins Illinois State Representative election",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/news/national/india-born-saba-haider-wins-illinois-state-representative-election/article71674383.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-11-06T12:44:37+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "An alumnus of Aligarh Muslim University (AMU), Saba Haider earned an MSc in Wildlife Science from the institution; the AMU Network congratulated her on her victory, describing it as a \"proud moment for the university community\"",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Hindu"
-      ],
-      "actores_mencionados": [
-        "India"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: India"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-0bd2f7fd29e8f8ad282d",
-      "fecha": "2026-11-06",
-      "titulo_fuente": "Une nouvelle vague d’alertes à la bombe vise des vols commerciaux en Europe ainsi que des médias",
-      "region": "Europa",
-      "temas": [
-        "Organismos multilaterales"
-      ],
-      "noticias": [
-        {
-          "id": "0bd2f7fd29e8f8ad282d",
-          "titulo_original": "Une nouvelle vague d’alertes à la bombe vise des vols commerciaux en Europe ainsi que des médias",
-          "titulo_es": "",
-          "url": "https://www.lemonde.fr/international/article/2026/11/06/alertes-a-la-bombe-quatre-vols-commerciaux-survolant-la-france-se-sont-poses-sans-encombre_6807787_3210.html",
-          "fuente": "Le Monde",
-          "pais": "Francia",
-          "fecha": "2026-11-06T12:41:25+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Au moins vingt vols, principalement exploités par des compagnies à bas coût, avaient déjà été visés jeudi, après plusieurs fausses alertes en début de semaine.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Le Monde"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Institucionalismo liberal",
-        "pregunta": "¿Qué reglas, mecanismos de cooperación y límites institucionales afectan la decisión?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Organismos multilaterales"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-5d65de2266ec5dce9fa2",
-      "fecha": "2026-11-06",
-      "titulo_fuente": "53rd Universal Periodic Review of human rights: UK statement on Antigua and Barbuda",
-      "region": "Europa",
-      "temas": [
-        "Organismos multilaterales",
-        "Migración y DD. HH."
-      ],
-      "noticias": [
-        {
-          "id": "5d65de2266ec5dce9fa2",
-          "titulo_original": "53rd Universal Periodic Review of human rights: UK statement on Antigua and Barbuda",
-          "titulo_es": "",
-          "url": "https://www.gov.uk/government/speeches/53rd-universal-periodic-review-of-human-rights-uk-statement-on-antigua-and-barbuda",
-          "fuente": "GOV.UK FCDO",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-06T12:41:06+00:00",
-          "estado": "declaración de la fuente; corroboración independiente pendiente",
-          "resumen_original": "Statement by the UK's Permanent Representative to the WTO and UN, Kumar Iyer, at Antigua and Barbuda's Universal Periodic Review at the Human Rights Council in Geneva.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "GOV.UK FCDO"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Institucionalismo liberal",
-        "pregunta": "¿Qué reglas, mecanismos de cooperación y límites institucionales afectan la decisión?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Migración y DD. HH., Organismos multilaterales"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
