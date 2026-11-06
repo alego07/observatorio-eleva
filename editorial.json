@@ -8742,7 +8742,7 @@
     "profundidad": "intermedio",
     "importancia": "La investigación sobre equipamiento militar y la reunión de seguridad ruso-iraní del 5/11 sugieren cooperación, pero tienen alcances probatorios distintos.",
     "hecho": "The Guardian examinó documentación atribuida a la industria rusa que describe planes de suministro de 90 lanzadores de misiles guiados para helicópteros destinados a Irán. Un calendario de producción de mayo de 2024 proyectaba entregas entre 2024 y 2025. No se acredita que se hayan efectuado. Separadamente, Reuters documentó la reunión Putin–Rezaei del 5/11.",
-    "antecedentes": "Desde 2022 Moscú y Teherán profundizaron sus contactos militares y políticos; la guerra en Ucrania y el conflicto de Irán condicionan sus capacidades e incentivos. Un contrato o calendario de producción no prueba por sí solo transferencia consumada.",
+    "antecedentes": "Desde 2022 Moscú y Teherán profundizaron sus contactos militares y políticos; la guerra en Ucrania y el conflicto de Irán condicionan sus capacidades e incentivos. Un contrato o calendario de producción no prueba por sí solo transferencia consumada. Reuters documentó en marzo de 2026 la cooperación y los límites de la asistencia de Moscú a Teherán, antecedente independiente del contrato divulgado en noviembre.",
     "actores": [
       {
         "nombre": "Rusia",
@@ -8770,6 +8770,11 @@
         "organismo": "Reuters, encuentro Putin–Rezaei 5 noviembre",
         "url": "https://www.reuters.com/world/middle-east/putin-met-iranian-security-council-chief-rezaei-moscow-2026-11-05/",
         "tipo": "Corrobora contacto político ruso-iraní, no el contrato ni entrega de lanzadores"
+      },
+      {
+        "organismo": "Reuters, análisis de relaciones ruso-iraníes, 5 marzo 2026",
+        "url": "https://www.reuters.com/world/middle-east/isolated-under-fire-iran-strikes-out-russia-china-stand-aside-2026-03-05/",
+        "tipo": "Antecedente independiente sobre relación bilateral y límites de asistencia, NO confirma contrato de lanzadores"
       }
     ],
     "cronologia": [
@@ -8795,6 +8800,13 @@
         "texto": "La documentación reseñada muestra planificación, pero no verifica recepción de material.",
         "fuentes": [
           0
+        ]
+      },
+      {
+        "titulo": "Independencia de las fuentes",
+        "texto": "Reuters de marzo proporciona contexto sobre cooperación bilateral, pero no corrobora la entrega de lanzadores descrita por The Guardian.",
+        "fuentes": [
+          2
         ]
       }
     ],
