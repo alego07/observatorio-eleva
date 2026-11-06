@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-06T19:58:39.889240+00:00",
+  "updated_utc": "2026-11-06T20:37:38.820621+00:00",
   "results": [
     {
       "source_id": "f16",
@@ -17,7 +17,7 @@
       "source_id": "f26",
       "source_name": "Deutsche Welle",
       "status": "ok",
-      "count_recent": 11
+      "count_recent": 12
     },
     {
       "source_id": "f27",
@@ -41,7 +41,7 @@
       "source_id": "f31",
       "source_name": "TASS",
       "status": "error",
-      "message": "undefined entity: line 658, column 64"
+      "message": "undefined entity: line 673, column 64"
     },
     {
       "source_id": "f34",
@@ -83,7 +83,7 @@
       "source_id": "f66",
       "source_name": "Noticias del Consejo de la UE",
       "status": "ok",
-      "count_recent": 14
+      "count_recent": 13
     },
     {
       "source_id": "f67",
@@ -131,7 +131,7 @@
       "source_id": "f80",
       "source_name": "War on the Rocks",
       "status": "ok",
-      "count_recent": 8
+      "count_recent": 7
     }
   ]
 }
