@@ -1,13 +1,13 @@
 {
-  "actualizado_utc": "2026-11-06T17:42:04.980141+00:00",
+  "actualizado_utc": "2026-11-06T17:58:56.594229+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "india-asia",
       "titulo": "India y Asia-Pacífico",
-      "cantidad_archivada": 1013,
-      "nuevas_24h": 78,
-      "anteriores_24h": 23,
+      "cantidad_archivada": 1014,
+      "nuevas_24h": 77,
+      "anteriores_24h": 25,
       "dias_con_registros": 22,
       "fecha_ultima": "2026-11-06T16:12:37+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -257,7 +257,7 @@
     {
       "id": "oriente-medio",
       "titulo": "Oriente Medio: seguridad y diplomacia",
-      "cantidad_archivada": 1100,
+      "cantidad_archivada": 1101,
       "nuevas_24h": 43,
       "anteriores_24h": 24,
       "dias_con_registros": 22,
@@ -334,6 +334,14 @@
           "titulo": "Netherlands: Protesters storm Amsterdam data centre construction site",
           "fuente": "Euronews",
           "url": "https://www.euronews.com/video/2026/11/06/netherlands-protesters-storm-amsterdam-data-centre-construction-site",
+          "traducida": false
+        },
+        {
+          "id": "58522887ad7d0857825a",
+          "fecha": "2026-11-06T13:23:44+00:00",
+          "titulo": "US midterm results spark fears in Israel over future of two countries' ties",
+          "fuente": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cx30ee8018lvo?at_medium=RSS&at_campaign=rss",
           "traducida": false
         },
         {
@@ -495,14 +503,6 @@
           "fuente": "The Hindu",
           "url": "https://www.thehindu.com/opinion/op-ed/the-ecological-fallout-of-israels-war-in-gaza/article71670933.ece",
           "traducida": false
-        },
-        {
-          "id": "229c92928d845870363f",
-          "fecha": "2026-11-06T04:27:00+00:00",
-          "titulo": "Sen. Bill Cassidy on Hegseth and Iran War - CNN",
-          "fuente": "CNN",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5KNXdoM2xSMTJuZGYtU3dKRW5sbFBDdlE5eTJ1Y3AxaGRfWEY1dGpUWmtPM3kwd1M2cFdnMzhTU1J6MnJHOENjdXN0Sm9KYXRSTUliT2hncXlwQWwxTFREX3lsLV9qcl9Va011ZGp6NHpoSFU5c1VIcnpwOA?oc=5",
-          "traducida": false
         }
       ]
     },
@@ -511,7 +511,7 @@
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
       "cantidad_archivada": 1672,
       "nuevas_24h": 29,
-      "anteriores_24h": 24,
+      "anteriores_24h": 21,
       "dias_con_registros": 22,
       "fecha_ultima": "2026-11-06T16:47:27+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -761,13 +761,21 @@
     {
       "id": "union-europea",
       "titulo": "Unión Europea y relaciones exteriores",
-      "cantidad_archivada": 498,
-      "nuevas_24h": 23,
+      "cantidad_archivada": 499,
+      "nuevas_24h": 24,
       "anteriores_24h": 10,
       "dias_con_registros": 22,
-      "fecha_ultima": "2026-11-06T17:14:32+00:00",
+      "fecha_ultima": "2026-11-06T17:38:25+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "4bf9041a46f5e739762d",
+          "fecha": "2026-11-06T17:38:25+00:00",
+          "titulo": "Carlos Alcaraz-Taylor Fritz, el partido de cuartos de final del Masters ATP de París en vivo",
+          "fuente": "El País",
+          "url": "https://elpais.com/deportes/2026-11-06/carlos-alcaraz-taylor-fritz-el-partido-de-cuartos-de-final-del-masters-atp-de-paris-en-vivo.html",
+          "traducida": false
+        },
         {
           "id": "2562696cbb2ffed72305",
           "fecha": "2026-11-06T17:14:32+00:00",
@@ -998,14 +1006,6 @@
           "titulo": "Bomb threats disrupt several flights across Europe",
           "fuente": "Deutsche Welle",
           "url": "https://www.dw.com/en/bomb-threats-disrupt-several-flights-across-europe/a-79861216?maca=en-rss-en-world-4025-rdf",
-          "traducida": false
-        },
-        {
-          "id": "b5ab363bd73ec62a915f",
-          "fecha": "2026-11-05T07:00:11+00:00",
-          "titulo": "Crises have taken their classrooms. But education cannot wait",
-          "fuente": "Euronews",
-          "url": "https://www.euronews.com/2026/11/05/crises-have-taken-their-classrooms-but-education-cannot-wait",
           "traducida": false
         }
       ]
