@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-11-06T19:39:42.639122+00:00",
+  "created_utc": "2026-11-06T20:00:18.850431+00:00",
   "events": [
     {
       "id": "a-e420bf97ab793a4a0aa0",
@@ -568,6 +568,78 @@
       "motivos_seleccion": [
         "Actores relevantes: Perú",
         "Mención expresa al Perú"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-a37ec5d19f18e4bce6d0",
+      "fecha": "2026-11-06",
+      "titulo_fuente": "Trump appoints immigration hardliner Stephen Miller as new chief of staff",
+      "region": "Estados Unidos",
+      "temas": [
+        "Migración y DD. HH."
+      ],
+      "noticias": [
+        {
+          "id": "a37ec5d19f18e4bce6d0",
+          "titulo_original": "Trump appoints immigration hardliner Stephen Miller as new chief of staff",
+          "titulo_es": "Trump nombra a la línea de trabajo de inmigración Stephen Miller como nuevo jefe de personal",
+          "url": "https://www.euronews.com/2026/11/06/trump-appoints-immigration-hardliner-stephen-miller-as-new-chief-of-staff",
+          "fuente": "Euronews",
+          "pais": "Unión Europea",
+          "fecha": "2026-11-06T19:52:20+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Miller, one of the driving forces behind US president Donald Trump's mass deportation policy, is set to succeed Susie Wiles as White House chief of staff next week.",
+          "resumen_es": "Miller, una de las fuerzas motrices detrás de la política de deportación masiva del presidente estadounidense Donald Trump, tiene el éxito de Susie Wiles como jefe de personal de la Casa Blanca la próxima semana."
+        },
+        {
+          "id": "dd4cfcb407a27aa8e5a6",
+          "titulo_original": "Trump appoints adviser Stephen Miller as new White House chief of staff",
+          "titulo_es": "Trump nombra al asesor Stephen Miller como nuevo jefe de personal de la Casa Blanca",
+          "url": "https://www.aljazeera.com/news/2026/11/6/trump-says-making-adviser-stephen-miller-white-house-chief-of-staff?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-06T19:08:31+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "This is a breaking news story.",
+          "resumen_es": "Es una noticia de última hora."
+        },
+        {
+          "id": "57344dc3307bdd0eb0da",
+          "titulo_original": "Stephen Miller to become Trump’s new White House chief of staff",
+          "titulo_es": "Stephen Miller para convertirse en el nuevo jefe de personal de la Casa Blanca de Trump",
+          "url": "https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-06T19:05:58+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "US president confirms Susie Wiles, current chief of staff and first woman to serve in the role, will step down US politics live – latest updates Stephen Miller, Donald Trump’s most controversial aide, and the architect of his sweeping immigration crackdown, will become his new White House chief of staff. The US president announced the extraordinary appointment on Friday, confirming that Susie Wiles – his current chief of staff, and the first woma",
+          "resumen_es": "El presidente estadounidense confirma Susie Wiles, el actual jefe de personal y la primera mujer en servir en el papel, reducirá la política estadounidense en vivo – las últimas actualizaciones Stephen Miller, el asistente más controvertido de Donald Trump, y el arquitecto de su gran emigrante"
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera",
+        "Euronews",
+        "The Guardian"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 3,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Derecho internacional y constructivismo",
+        "pregunta": "¿Qué normas, identidades y obligaciones internacionales invocan los actores?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Cobertura de fuentes distintas",
+        "Actores relevantes: Estados Unidos",
+        "Ámbito: Migración y DD. HH."
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -1880,65 +1952,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-57344dc3307bdd0eb0da",
-      "fecha": "2026-11-06",
-      "titulo_fuente": "Stephen Miller to become Trump’s new White House chief of staff",
-      "region": "Estados Unidos",
-      "temas": [
-        "Migración y DD. HH."
-      ],
-      "noticias": [
-        {
-          "id": "57344dc3307bdd0eb0da",
-          "titulo_original": "Stephen Miller to become Trump’s new White House chief of staff",
-          "titulo_es": "Stephen Miller para convertirse en el nuevo jefe de personal de la Casa Blanca de Trump",
-          "url": "https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump",
-          "fuente": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-06T19:05:58+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "US president confirms Susie Wiles, current chief of staff and first woman to serve in the role, will step down US politics live – latest updates Stephen Miller, Donald Trump’s most controversial aide, and the architect of his sweeping immigration crackdown, will become his new White House chief of staff. The US president announced the extraordinary appointment on Friday, confirming that Susie Wiles – his current chief of staff, and the first woma",
-          "resumen_es": "El presidente estadounidense confirma Susie Wiles, el actual jefe de personal y la primera mujer en servir en el papel, reducirá la política estadounidense en vivo – las últimas actualizaciones Stephen Miller, el asistente más controvertido de Donald Trump, y el arquitecto de su gran emigrante"
-        },
-        {
-          "id": "06e08a02412058dca204",
-          "titulo_original": "Stephen Miller will replace Susie Wiles as White House chief of staff - Politico",
-          "titulo_es": "Stephen Miller reemplazará a Susie Wiles como jefe de personal de la Casa Blanca - Politico",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM1BHOEpVT0E0bUtPTTF5aGVQWlZKckhPR1FRbktnUzlNdF9UZFQ0cGJ5ZGUzMWJrTUVJc1FVSWNIYzB0MjU0UlBNb3daQkszNThSVThaT2hoOFNLNjdTSVJOWExTT3JERmxTNXNSNGEzY1RfaXZ6MHFCb3pMVEx1bDNmZ1dHNExVSWFlU1BvVDZLQlN0MEU1dzBsUkNEdw?oc=5",
-          "fuente": "POLITICO US",
-          "pais": "Estados Unidos",
-          "fecha": "2026-11-06T18:55:00+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Stephen Miller will replace Susie Wiles as White House chief of staff Politico",
-          "resumen_es": "Stephen Miller reemplazará a Susie Wiles como jefe de la Casa Blanca del personal Politico"
-        }
-      ],
-      "fuentes": [
-        "POLITICO US",
-        "The Guardian"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos"
-      ],
-      "fuentes_independientes": 2,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Derecho internacional y constructivismo",
-        "pregunta": "¿Qué normas, identidades y obligaciones internacionales invocan los actores?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 5,
-      "motivos_seleccion": [
-        "Cobertura de fuentes distintas",
-        "Actores relevantes: Estados Unidos",
-        "Ámbito: Migración y DD. HH."
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-85c131ce0285b6ff0eb8",
       "fecha": "2026-11-06",
       "titulo_fuente": "Trump teases ‘big, beautiful’ European security deal after meeting Putin envoy - CNN",
@@ -2023,29 +2036,29 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-56c34a1b3b3285dd92f5",
+      "id": "a-4dd85c6b28bc439d0858",
       "fecha": "2026-11-06",
-      "titulo_fuente": "Trump names Stephen Miller chief of staff, replacing Susie Wiles after midterm losses",
+      "titulo_fuente": "Trump nombra al arquitecto de su política migratoria, Stephen Miller, como nuevo jefe de gabinete de la Casa Blanca",
       "region": "Estados Unidos",
       "temas": [
         "Migración y DD. HH."
       ],
       "noticias": [
         {
-          "id": "56c34a1b3b3285dd92f5",
-          "titulo_original": "Trump names Stephen Miller chief of staff, replacing Susie Wiles after midterm losses",
-          "titulo_es": "Trump nombra a Stephen Miller jefe de personal, reemplazando a Susie Wiles después de pérdidas de mitad de período",
-          "url": "https://www.scmp.com/news/us/politics/article/3373617/trump-names-stephen-miller-chief-staff-replacing-susie-wiles-after-midterm-losses",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-11-06T19:23:38+00:00",
+          "id": "4dd85c6b28bc439d0858",
+          "titulo_original": "Trump nombra al arquitecto de su política migratoria, Stephen Miller, como nuevo jefe de gabinete de la Casa Blanca",
+          "titulo_es": "",
+          "url": "https://elpais.com/us/2026-11-06/trump-nombra-al-arquitecto-de-su-politica-migratoria-stephen-miller-como-nuevo-jefe-de-gabinete-de-la-casa-blanca.html",
+          "fuente": "El País",
+          "pais": "España",
+          "fecha": "2026-11-06T19:45:01+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "US President Donald Trump said on Friday that Stephen Miller would replace Susie Wiles as White House chief of staff, elevating a long-time loyalist and architect of his immigration crackdown days after Republicans lost control of Congress. Miller, currently a deputy chief of staff, will take over on Monday. Wiles will move to Trump’s political operation, the president said in a post on Truth Social. “I am pleased to announce that Mr. Stephen Mil",
-          "resumen_es": "El presidente estadounidense Donald Trump dijo el viernes que Stephen Miller reemplazaría a Susie Wiles como jefe de personal de la Casa Blanca, elevando a un lealista y arquitecto de sus días de represión de inmigración después de que los republicanos pierdan el control del Congreso."
+          "resumen_original": "El nombramiento del hasta ahora asesor de política interna apunta a un giro más duro de la Administración tras la derrota de los republicanos en las elecciones de mitad de mandato",
+          "resumen_es": ""
         }
       ],
       "fuentes": [
-        "South China Morning Post"
+        "El País"
       ],
       "actores_mencionados": [
         "Estados Unidos"
@@ -2063,6 +2076,51 @@
       "motivos_seleccion": [
         "Actores relevantes: Estados Unidos",
         "Ámbito: Migración y DD. HH."
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-4aa89c49dc08ccbf604a",
+      "fecha": "2026-11-06",
+      "titulo_fuente": "Donald Trump nomme Stephen Miller, représentant de la droite identitaire, au poste stratégique de directeur de cabinet",
+      "region": "Estados Unidos",
+      "temas": [
+        "Organismos multilaterales"
+      ],
+      "noticias": [
+        {
+          "id": "4aa89c49dc08ccbf604a",
+          "titulo_original": "Donald Trump nomme Stephen Miller, représentant de la droite identitaire, au poste stratégique de directeur de cabinet",
+          "titulo_es": "",
+          "url": "https://www.lemonde.fr/international/article/2026/11/06/donald-trump-nomme-stephen-miller-representant-de-la-droite-identitaire-au-poste-strategique-de-directeur-de-cabinet_6807861_3210.html",
+          "fuente": "Le Monde",
+          "pais": "Francia",
+          "fecha": "2026-11-06T19:41:19+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Il s’agit du premier grand remaniement au sein de l’exécutif américain après la défaite monumentale enregistrée par le Parti républicain lors des élections de mi-mandat.",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "Le Monde"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Institucionalismo liberal",
+        "pregunta": "¿Qué reglas, mecanismos de cooperación y límites institucionales afectan la decisión?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos",
+        "Ámbito: Organismos multilaterales"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -4130,6 +4188,122 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-7d100890d4ca6ead364b",
+      "fecha": "2026-11-06",
+      "titulo_fuente": "Trump replaces Susie Wiles with Stephen Miller as chief of staff after GOP’s midterm defeat",
+      "region": "Estados Unidos",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "7d100890d4ca6ead364b",
+          "titulo_original": "Trump replaces Susie Wiles with Stephen Miller as chief of staff after GOP’s midterm defeat",
+          "titulo_es": "Trump reemplaza Susie Wiles con Stephen Miller como jefe de personal después de la derrota del GOP",
+          "url": "https://www.thehindu.com/news/international/trump-replaces-susie-wiles-with-stephen-miller-as-chief-of-staff-after-gops-midterm-defeat/article71676063.ece",
+          "fuente": "The Hindu",
+          "pais": "India",
+          "fecha": "2026-11-06T19:40:45+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "On his social media site, Donald Trump praised Susie Wiles and said she’d continue working for his political organisation",
+          "resumen_es": "En su sitio de redes sociales, Donald Trump elogió a Susie Wiles y dijo que seguiría trabajando para su organización política"
+        },
+        {
+          "id": "56c34a1b3b3285dd92f5",
+          "titulo_original": "Trump names Stephen Miller chief of staff, replacing Susie Wiles after midterm losses",
+          "titulo_es": "Trump nombra a Stephen Miller jefe de personal, reemplazando a Susie Wiles después de pérdidas de mitad de período",
+          "url": "https://www.scmp.com/news/us/politics/article/3373617/trump-names-stephen-miller-chief-staff-replacing-susie-wiles-after-midterm-losses",
+          "fuente": "South China Morning Post",
+          "pais": "Hong Kong",
+          "fecha": "2026-11-06T19:23:38+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "US President Donald Trump said on Friday that Stephen Miller would replace Susie Wiles as White House chief of staff, elevating a long-time loyalist and architect of his immigration crackdown days after Republicans lost control of Congress. Miller, currently a deputy chief of staff, will take over on Monday. Wiles will move to Trump’s political operation, the president said in a post on Truth Social. “I am pleased to announce that Mr. Stephen Mil",
+          "resumen_es": "El presidente estadounidense Donald Trump dijo el viernes que Stephen Miller reemplazaría a Susie Wiles como jefe de personal de la Casa Blanca, elevando a un lealista y arquitecto de sus días de represión de inmigración después de que los republicanos pierdan el control del Congreso."
+        }
+      ],
+      "fuentes": [
+        "South China Morning Post",
+        "The Hindu"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 2,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 3,
+      "motivos_seleccion": [
+        "Cobertura de fuentes distintas",
+        "Actores relevantes: Estados Unidos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-2a58917cdd4c239a7a60",
+      "fecha": "2026-11-06",
+      "titulo_fuente": "Stephen Miller will become White House chief of staff, Trump announces - CNN",
+      "region": "Estados Unidos",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "2a58917cdd4c239a7a60",
+          "titulo_original": "Stephen Miller will become White House chief of staff, Trump announces - CNN",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBwSjNYME11cnZJekFSbUlySTlDTGdEb2pVRG1MbnNsY05KU1ZyNlB4SmRWY2gxVkRDWDJfTjR6aFhnWEhpZDlxUXRzZmRibEhzaGZfaHBHSkZQTlZaeHQ1LTFjb0tsVkJ1VUNtMGtBZUFNRnI0cUlNLWlJOXA?oc=5",
+          "fuente": "CNN",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-06T19:00:33+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Stephen Miller will become White House chief of staff, Trump announces CNN",
+          "resumen_es": ""
+        },
+        {
+          "id": "06e08a02412058dca204",
+          "titulo_original": "Stephen Miller will replace Susie Wiles as White House chief of staff - Politico",
+          "titulo_es": "Stephen Miller reemplazará a Susie Wiles como jefe de personal de la Casa Blanca - Politico",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM1BHOEpVT0E0bUtPTTF5aGVQWlZKckhPR1FRbktnUzlNdF9UZFQ0cGJ5ZGUzMWJrTUVJc1FVSWNIYzB0MjU0UlBNb3daQkszNThSVThaT2hoOFNLNjdTSVJOWExTT3JERmxTNXNSNGEzY1RfaXZ6MHFCb3pMVEx1bDNmZ1dHNExVSWFlU1BvVDZLQlN0MEU1dzBsUkNEdw?oc=5",
+          "fuente": "POLITICO US",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-06T18:55:00+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Stephen Miller will replace Susie Wiles as White House chief of staff Politico",
+          "resumen_es": "Stephen Miller reemplazará a Susie Wiles como jefe de la Casa Blanca del personal Politico"
+        }
+      ],
+      "fuentes": [
+        "CNN",
+        "POLITICO US"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 2,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 3,
+      "motivos_seleccion": [
+        "Cobertura de fuentes distintas",
+        "Actores relevantes: Estados Unidos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-b56562d9a287edb1a8ea",
       "fecha": "2026-11-06",
       "titulo_fuente": "Thomas Markle, Meghan’s father, arrested in Florida on charges related to child sexual abuse material",
@@ -4264,6 +4438,178 @@
       "motivos_seleccion": [
         "Cobertura de fuentes distintas",
         "Actores relevantes: Estados Unidos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-393e67af6a75d08a4d37",
+      "fecha": "2026-11-06",
+      "titulo_fuente": "Houston to limit police cooperation with federal immigration authorities",
+      "region": "Internacional",
+      "temas": [
+        "Migración y DD. HH."
+      ],
+      "noticias": [
+        {
+          "id": "393e67af6a75d08a4d37",
+          "titulo_original": "Houston to limit police cooperation with federal immigration authorities",
+          "titulo_es": "Houston limita la cooperación policial con las autoridades federales de inmigración",
+          "url": "https://www.theguardian.com/us-news/2026/nov/06/houston-police-ice-immigration",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-06T19:29:55+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Mayor said only immigrants that ‘pose a danger’ would be referred to ICE, after Democrats gain control of governor’s seat The mayor of Houston on Friday said the city would limit cooperation with federal immigration authorities, heralding “a new model” of immigration enforcement after Democrats won power in Texas for the first time in decades. Houston’s mayor, John Whitmire, said the city would go after immigrants “that pose a danger, not those t",
+          "resumen_es": "El alcalde dijo que sólo los inmigrantes que \"pose un peligro\" serían referidos a ICE, después de que los demócratas obtengan el control de la sede del gobernador El alcalde de Houston dijo el viernes que la ciudad limitaría la cooperación con las autoridades federales de inmigración, anunciando “"
+        }
+      ],
+      "fuentes": [
+        "The Guardian"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Derecho internacional y constructivismo",
+        "pregunta": "¿Qué normas, identidades y obligaciones internacionales invocan los actores?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Migración y DD. HH."
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-fc60c05aac35d093d743",
+      "fecha": "2026-11-06",
+      "titulo_fuente": "Russell Brand suspected to have attacked at least 10 other women",
+      "region": "Internacional",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "fc60c05aac35d093d743",
+          "titulo_original": "Russell Brand suspected to have attacked at least 10 other women",
+          "titulo_es": "Russell Brand sospechaba haber atacado al menos a otras 10 mujeres",
+          "url": "https://www.theguardian.com/culture/2026/nov/06/russell-brand-trial-other-women",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-06T19:23:24+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Met police chief says ‘many more’ victims could come forward, as actor and comedian awaits sentencing Police are bracing themselves for more victims of Russell Brand to come forward with at least 10 more women suspected of being attacked by the disgraced star. Brand, 51, will be sentenced on Monday to what is expected to be a lengthy jail sentence for rape and sexual assaults after he abused his fame to become a “predator” targeting women, and go",
+          "resumen_es": "El jefe de policía de Met dice que \"muchas más\" víctimas podrían venir adelante, ya que el actor y el comediante espera que la policía se jacta de que más víctimas de Russell Brand vengan con al menos 10 mujeres sospechosas de ser atacadas por"
+        }
+      ],
+      "fuentes": [
+        "The Guardian"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-d6d6910f74d0a909803e",
+      "fecha": "2026-11-06",
+      "titulo_fuente": "Could Trump’s veto stop the Democratic majority?",
+      "region": "Estados Unidos",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "d6d6910f74d0a909803e",
+          "titulo_original": "Could Trump’s veto stop the Democratic majority?",
+          "titulo_es": "¿Podría el veto de Trump detener a la mayoría democrática?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/us-congress-flipped-061126?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-06T19:18:33+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Democrats have won the House and Senate. AJLabs looks at the numbers and what their majority means for Trump.",
+          "resumen_es": "Los demócratas han ganado la Cámara y el Senado. AJLabs mira los números y lo que su mayoría significa para Trump."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-279baf0ccfafe38cdfcb",
+      "fecha": "2026-11-06",
+      "titulo_fuente": "Israel closes Hebron’s Ibrahimi Mosque to Palestinians for Jewish holiday",
+      "region": "Oriente Medio",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "279baf0ccfafe38cdfcb",
+          "titulo_original": "Israel closes Hebron’s Ibrahimi Mosque to Palestinians for Jewish holiday",
+          "titulo_es": "Israel cierra la mezquita Ibrahimi de Hebrón a los palestinos por vacaciones judías",
+          "url": "https://www.aljazeera.com/news/2026/11/6/israel-closes-hebrons-ibrahimi-mosque-to-palestinians-for-jewish-holiday?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-06T19:16:07+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Contested West Bank holy site is reopened exclusively for Israelis, deepening tensions over control of the mosque.",
+          "resumen_es": "El sitio sagrado disputado en la Ribera Occidental es reabierto exclusivamente para israelíes, profundizando las tensiones sobre el control de la mezquita."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [
+        "Israel"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Israel"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -5653,6 +5999,50 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-651d62abd9cc7320e0a4",
+      "fecha": "2026-11-06",
+      "titulo_fuente": "CNN's Nick Paton Walsh reports on the new European Security Plan ahead of Ukraine peace talks - CNN",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "651d62abd9cc7320e0a4",
+          "titulo_original": "CNN's Nick Paton Walsh reports on the new European Security Plan ahead of Ukraine peace talks - CNN",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZzN6T1JUSW9PQTlSenVGV3RSQ0VNeHN3c1lDS0syTnUzcmF3d2FSNVF4YVUtVURpQnNZZnRxRGlBX1NNZ3h5U0o1dTZZd2w2alIwV2FaQ0xzVnJhVTdHdi0zODFpNUk3bDBxTzhLcjZSVlFHam5UOXRGVUYtZllmX2lHMHRzNmdrcWZ0S1dZYTU?oc=5",
+          "fuente": "CNN",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-06T15:55:00+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "CNN's Nick Paton Walsh reports on the new European Security Plan ahead of Ukraine peace talks CNN",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "CNN"
+      ],
+      "actores_mencionados": [
+        "Ucrania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Ucrania"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-30e6153a73f6165a274c",
       "fecha": "2026-11-06",
       "titulo_fuente": "Musk says Tesla to wind down polarising Cybertruck production as sales lag",
@@ -6154,6 +6544,50 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-c9fd4f64a933dfec01c9",
+      "fecha": "2026-11-06",
+      "titulo_fuente": "A third front in US politics: Reading the rise of Democratic Socialists in capitalist USA - The Indian Express",
+      "region": "Estados Unidos",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "c9fd4f64a933dfec01c9",
+          "titulo_original": "A third front in US politics: Reading the rise of Democratic Socialists in capitalist USA - The Indian Express",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMHlvcHZWd3JhWWFhTVVobU8xX0NWMGVNc0JqX29PcTFrRVp2eFhNSTcxSmpzNU5Na005VXBsWUp5VTJmWElYckliRWM1eHV3Zkg1ZmpJVll2QUxQMjFNWHQxOUxSeXRyMXQ4TEtlc1dqanMyd1MycXJMM05hV2cwczQ2aWZFd3JpbzFzZVJxaUx1UkFDRXNLMUtFTm9SeE1iZUltUEpnWkkxWHdkTHE1Q1RyZkhQNFQxMkHSAcABQVVfeXFMTTk4VGhGczE4bFlaSE5JdTMxX2NHb0pyajFPUjVfaG1iVV9fazRKeGZUMm8xWG85Q3ZFYktnUlpWT0FjOTlpX1JUbTBoOVdPWEFjcEFSLVFDRVpwWkJmS2lPQmlZYUdWS3ZkWmhib3RuaWxOeDhGdjB1cVQ0ajV4c0ctUVRfTjlpcjBNa2VLVjctYTlCcGstNVFtZFo5eHczbXU2OTJtenh3QzU5RFZvQ2lyOWtnM3dEWHhFaEZzVjE5?oc=5",
+          "fuente": "The Indian Express",
+          "pais": "India",
+          "fecha": "2026-11-06T14:28:54+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "A third front in US politics: Reading the rise of Democratic Socialists in capitalist USA The Indian Express",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "The Indian Express"
+      ],
+      "actores_mencionados": [
+        "India"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: India"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-4c79bacf917a9646497a",
       "fecha": "2026-11-06",
       "titulo_fuente": "Portugal coach Jesus says Ronaldo was in his plans before star’s retirement - The Indian Express",
@@ -6535,396 +6969,6 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Ámbito: Comercio y finanzas"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-e3b83f3df8bd66e1ff84",
-      "fecha": "2026-11-06",
-      "titulo_fuente": "US job growth exceeds expectations in October despite economic uncertainty",
-      "region": "Internacional",
-      "temas": [
-        "Seguridad y conflictos",
-        "Comercio y finanzas"
-      ],
-      "noticias": [
-        {
-          "id": "e3b83f3df8bd66e1ff84",
-          "titulo_original": "US job growth exceeds expectations in October despite economic uncertainty",
-          "titulo_es": "",
-          "url": "https://www.theguardian.com/business/2026/nov/06/us-job-growth-october",
-          "fuente": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-06T13:42:26+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "‘Low-hire, low-fire’ labor market shows sluggish growth but few layoffs, with an interest rate hike expected in December The US added 165,000 jobs to the economy in October, a sign of resilience in the labor market amid ongoing war in the Middle East and inflation, according to new data released on Friday. Economists had said the labor market has been stuck in a “low-hire, low-fire” state, in which job growth is sluggish but layoffs also remain l",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Guardian"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Comercio y finanzas, Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-6456610df972e6ee65b8",
-      "fecha": "2026-11-06",
-      "titulo_fuente": "More funding could be sought if HK$10b university town loan scheme falls short",
-      "region": "Internacional",
-      "temas": [
-        "Seguridad y conflictos",
-        "Comercio y finanzas"
-      ],
-      "noticias": [
-        {
-          "id": "6456610df972e6ee65b8",
-          "titulo_original": "More funding could be sought if HK$10b university town loan scheme falls short",
-          "titulo_es": "",
-          "url": "https://www.scmp.com/news/hong-kong/education/article/3373600/more-funding-could-be-sought-if-hk10b-university-town-loan-scheme-falls-short",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-11-06T13:41:22+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Hong Kong’s education secretary has said she will seek additional funding if a HK$10 billion loan scheme falls short of the needs of institutions setting foot in the Northern Metropolis’ first university town, while warning that their financial plans must be feasible and they must not “take chances”. A task force jointly established by the Hong Kong Monetary Authority and the Hong Kong Association of Banks will designate 11 tertiary institutions ",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "South China Morning Post"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Comercio y finanzas, Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-8ee3e3a3c3bbff91fef6",
-      "fecha": "2026-11-06",
-      "titulo_fuente": "The US economy added 165,000 jobs in October and the unemployment rate fell - CNN",
-      "region": "Internacional",
-      "temas": [
-        "Comercio y finanzas"
-      ],
-      "noticias": [
-        {
-          "id": "8ee3e3a3c3bbff91fef6",
-          "titulo_original": "The US economy added 165,000 jobs in October and the unemployment rate fell - CNN",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qWk8wMEdtNmQzcFpkelNRdjNtZjJYRkJNWkpKM2xBenpzMnRxeUVKdkUzTFlPZkNmTTE5dmNlN0lzaWJZck5ENmNEc054d280UGNkdEo4MXVUYUVEMjM4RmV5T1ZrV0VWMzRxdDhR?oc=5",
-          "fuente": "CNN",
-          "pais": "Estados Unidos",
-          "fecha": "2026-11-06T13:32:21+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "The US economy added 165,000 jobs in October and the unemployment rate fell CNN",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "CNN"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia compleja y economía política internacional",
-        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Comercio y finanzas"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-fc4a1afef6238823c89f",
-      "fecha": "2026-11-06",
-      "titulo_fuente": "Saudi-led coalition says it downs Houthi drone over Medina; Houthis deny attack",
-      "region": "Oriente Medio",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "fc4a1afef6238823c89f",
-          "titulo_original": "Saudi-led coalition says it downs Houthi drone over Medina; Houthis deny attack",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/news/international/saudi-led-coalition-says-it-downs-houthi-drone-over-medina-houthis-deny-attack/article71674467.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-11-06T13:31:48+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The Houthis have ​repeatedly denied targeting Mecca and Medina, Islam's ⁠two holiest cities, rejecting ⁠previous Saudi-led coalition accusations that it ‌had launched drones towards the cities",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Hindu"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-0d64cc8422bd4869e53d",
-      "fecha": "2026-11-06",
-      "titulo_fuente": "Ukraine raises Zaporizhia aid strike death toll to at least 50",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "0d64cc8422bd4869e53d",
-          "titulo_original": "Ukraine raises Zaporizhia aid strike death toll to at least 50",
-          "titulo_es": "",
-          "url": "https://www.aljazeera.com/news/2026/11/6/ukraine-raises-zaporizhia-aid-strike-death-toll-to-at-least-50?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-11-06T13:30:18+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Ukrainian officials say DNA tests are being used to identify bodies while up to 39 remain trapped under rubble.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera"
-      ],
-      "actores_mencionados": [
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Ucrania"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-abf6b196aaefcae4dd30",
-      "fecha": "2026-11-06",
-      "titulo_fuente": "Why SC said ‘creamy layer’ verdict can’t reopen past appointments - The Indian Express",
-      "region": "Asia-Pacífico",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "abf6b196aaefcae4dd30",
-          "titulo_original": "Why SC said ‘creamy layer’ verdict can’t reopen past appointments - The Indian Express",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdC1nQVMyc3BKbzcyc3BteVk4OU9XcnBCbk5LM0pwSU9iaHdzTFlFZjVseHRsSUFBZUFTQnNlVXRWdU15eE9vV2puSmZGRVl3cTlUdGVUQTZXaVNka0JaN09HUmFTbGNYaDVwQjhqT0ZPSXVZNVNlWnltN0FpaXRISF9WMTlHcmRiQzBpck1JTFdjSzVKcVlMNnFUY2dtb3Y2QUtoMW9yM0ZrTUZHWVRZTWtoUmlReXROWHJaNzBaMTRlNEst0gHLAUFVX3lxTE5kT1drWFZOcGhSRDBkZWFqM25zbWdjbDRkQ3BkeVVHRC1OOExGNDZrcjdjRDJlb2pNRDFYNExPMVBWVmkxdElfa1pJWHNEalYtNlRuZGFKc3FTNWlxVXN4ZmV4X3lGb1djX3V5US0ya0V0YnNEY1paRXpodmQ2aEpBSzFrdjZ0cHNlLWhMMUhlZlpyeVZDM2dwX1VnNFJOc1RqdGhrN3AzSnRXR3ZEZ3VOU2QxdWhmRXZPS0tVTGxfQ1pEaURqUGdqSzJF?oc=5",
-          "fuente": "The Indian Express",
-          "pais": "India",
-          "fecha": "2026-11-06T13:30:04+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Why SC said ‘creamy layer’ verdict can’t reopen past appointments The Indian Express",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Indian Express"
-      ],
-      "actores_mencionados": [
-        "India"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: India"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-58522887ad7d0857825a",
-      "fecha": "2026-11-06",
-      "titulo_fuente": "US midterm results spark fears in Israel over future of two countries' ties",
-      "region": "Oriente Medio",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "58522887ad7d0857825a",
-          "titulo_original": "US midterm results spark fears in Israel over future of two countries' ties",
-          "titulo_es": "",
-          "url": "https://www.bbc.co.uk/news/articles/cx30ee8018lvo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-06T13:23:44+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Staunch US support of Israel has been raised as one of the reasons why Republicans performed so badly.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "BBC News"
-      ],
-      "actores_mencionados": [
-        "Israel"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Israel"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-6f73cef95bcc47b694e5",
-      "fecha": "2026-11-06",
-      "titulo_fuente": "Mookuthi Amman 2 movie review: Nayanthara cannot save this loud, hollow devotional fantasy - The Indian Express",
-      "region": "Asia-Pacífico",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "6f73cef95bcc47b694e5",
-          "titulo_original": "Mookuthi Amman 2 movie review: Nayanthara cannot save this loud, hollow devotional fantasy - The Indian Express",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVFdyZGVNU2pBMTI3ZXlTaFp0RHNWaWJxTmx5U013MlJscGpPTENFekg5YXJtdEhhWVhLZ0NObzJUczUzV1lYcmJPV2ktbUtKOUl3S2V6bEx5ZTVKbGhQS2RkM0lTVjhtU2NFRXV3azktSElGOGVWak9NakRGSnZZYkdiTkNobElkZEpxbDRWNkRXV2RJWGRfRVA1TDg2OWdFdVJxZHJDQUVsb19xS2RHTldSaWxlY1JBRS01R3ZjQ2d3WWxNMEp2WjBTaVhmd2d2SlVJUjFuRdIB3gFBVV95cUxPc20xZnNwQnd5cWJoMnlUdzFqT2FJX0twS2Jjd29Qd1loVWZ0Nkd0a2hDbUFfZDVQQ1VhN1JBM3o4eV9SNElxZXVzUnp5ZEN1ME5Zek94MGl2czFaVmQ5akUtNERtd1YyRG9GaEYxb0NhemY2aktmRy1SN1puc3ZfNnRGaHZYeHNIODlMVXh3Q1ZIeVQzUFZ6MEhtSEpSOXJwNVVMRTZRNXREUU4xYnBwM3A0SWdBUC1GSTFYX1dtVHRRNklrN2JhcWp3QXZDVnh0V2owWG5XSzN0NmcxRWc?oc=5",
-          "fuente": "The Indian Express",
-          "pais": "India",
-          "fecha": "2026-11-06T13:14:48+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Mookuthi Amman 2 movie review: Nayanthara cannot save this loud, hollow devotional fantasy The Indian Express",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Indian Express"
-      ],
-      "actores_mencionados": [
-        "India"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: India"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-1cc47884efbd15f4c604",
-      "fecha": "2026-11-06",
-      "titulo_fuente": "Flávio Bolsonaro battles to remain relevant as he speaks at rightwing conference at Mar-a-Lago",
-      "region": "América Latina",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "1cc47884efbd15f4c604",
-          "titulo_original": "Flávio Bolsonaro battles to remain relevant as he speaks at rightwing conference at Mar-a-Lago",
-          "titulo_es": "",
-          "url": "https://www.theguardian.com/world/2026/nov/06/flavio-bolsonaro-upbeat-brazil-election-us",
-          "fuente": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-06T13:03:38+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Far-right politician addresses Conservative Political Action Conference and makes unsubstantiated claims about election fraud Flávio Bolsonaro, the far-right politician who lost Brazil’s presidential election last month, has insisted his defeat is not “the end for Brazil” as he battles to maintain political relevance after fleeing to the US. Bolsonaro absconded early last week shortly after losing the 25 October election to the leftwing incumbent",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Guardian"
-      ],
-      "actores_mencionados": [
-        "Brasil"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Brasil"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
