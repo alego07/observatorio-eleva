@@ -1,6 +1,92 @@
 {
-  "created_utc": "2026-11-07T18:06:04.616813+00:00",
+  "created_utc": "2026-11-07T19:06:37.097762+00:00",
   "events": [
+    {
+      "id": "a-082aa9ac915444e4fc36",
+      "fecha": "2026-11-07",
+      "titulo_fuente": "US offers $20m reward for information about Iran's nuclear programme",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "082aa9ac915444e4fc36",
+          "titulo_original": "US offers $20m reward for information about Iran's nuclear programme",
+          "titulo_es": "EE.UU. ofrece una recompensa de 20 m por información sobre el programa nuclear de Irán",
+          "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-07T18:14:38+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
+          "resumen_es": "Donald Trump ha planteado repetidamente la perspectiva de renovar huelgas contra las instalaciones nucleares de Irán."
+        },
+        {
+          "id": "b9e31fe1adc1784f3ede",
+          "titulo_original": "US offers $20 million reward and 'possible relocation' for information on 'Iran’s nuclear program'",
+          "titulo_es": "",
+          "url": "https://www.euronews.com/2026/11/07/us-offers-20-million-reward-and-possible-relocation-for-information-on-irans-nuclear-progr",
+          "fuente": "Euronews",
+          "pais": "Unión Europea",
+          "fecha": "2026-11-07T11:31:19+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The State Department said: \"The regime’s lack of compliance with the IAEA on safeguards obligations has led to the agency’s loss of 'continuity of knowledge.'\"",
+          "resumen_es": ""
+        },
+        {
+          "id": "b737b9c95720e5a0572b",
+          "titulo_original": "United States offers $20 million reward for information on 'Iran's nuclear program': CENTCOM",
+          "titulo_es": "",
+          "url": "https://www.thehindu.com/news/international/united-states-offers-20-million-reward-for-information-on-irans-nuclear-program-centcom/article71677324.ece",
+          "fuente": "The Hindu",
+          "pais": "India",
+          "fecha": "2026-11-07T05:12:15+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "U.S. State Department program, Rewards for Justice, gave no specific parameters on what information would yield a $20 million reward",
+          "resumen_es": ""
+        },
+        {
+          "id": "ce1fd58c04be90912382",
+          "titulo_original": "Iran’s nuclear programme: US offers US$20 million reward for information",
+          "titulo_es": "",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3373625/irans-nuclear-programme-us-offers-us20-million-reward-information",
+          "fuente": "South China Morning Post",
+          "pais": "Hong Kong",
+          "fecha": "2026-11-07T02:04:14+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Washington is offering a US$20 million reward “and possible relocation” for information about Iran’s nuclear programme, the US military has said, as President Donald Trump reiterated that Tehran wants to make a deal to end the war. A State Department programme, Rewards for Justice, “is offering a reward of up to US$20 million and possible relocation for information about Iran’s nuclear programme, including its facilities, equipment and associated",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "BBC News",
+        "Euronews",
+        "South China Morning Post",
+        "The Hindu"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Irán"
+      ],
+      "fuentes_independientes": 4,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 9,
+      "motivos_seleccion": [
+        "Cobertura de fuentes distintas",
+        "Actores relevantes: Estados Unidos, Irán",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
     {
       "id": "a-5641fcf9dc353d6dc72c",
       "fecha": "2026-11-07",
@@ -187,79 +273,6 @@
         "Actores relevantes: Estados Unidos, Rusia",
         "Ámbito: Comercio y finanzas, Energía y clima",
         "Posible decisión institucional o negociación"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-b9e31fe1adc1784f3ede",
-      "fecha": "2026-11-07",
-      "titulo_fuente": "US offers $20 million reward and 'possible relocation' for information on 'Iran’s nuclear program'",
-      "region": "Oriente Medio",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "b9e31fe1adc1784f3ede",
-          "titulo_original": "US offers $20 million reward and 'possible relocation' for information on 'Iran’s nuclear program'",
-          "titulo_es": "",
-          "url": "https://www.euronews.com/2026/11/07/us-offers-20-million-reward-and-possible-relocation-for-information-on-irans-nuclear-progr",
-          "fuente": "Euronews",
-          "pais": "Unión Europea",
-          "fecha": "2026-11-07T11:31:19+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The State Department said: \"The regime’s lack of compliance with the IAEA on safeguards obligations has led to the agency’s loss of 'continuity of knowledge.'\"",
-          "resumen_es": ""
-        },
-        {
-          "id": "b737b9c95720e5a0572b",
-          "titulo_original": "United States offers $20 million reward for information on 'Iran's nuclear program': CENTCOM",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/news/international/united-states-offers-20-million-reward-for-information-on-irans-nuclear-program-centcom/article71677324.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-11-07T05:12:15+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "U.S. State Department program, Rewards for Justice, gave no specific parameters on what information would yield a $20 million reward",
-          "resumen_es": ""
-        },
-        {
-          "id": "ce1fd58c04be90912382",
-          "titulo_original": "Iran’s nuclear programme: US offers US$20 million reward for information",
-          "titulo_es": "",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3373625/irans-nuclear-programme-us-offers-us20-million-reward-information",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-11-07T02:04:14+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Washington is offering a US$20 million reward “and possible relocation” for information about Iran’s nuclear programme, the US military has said, as President Donald Trump reiterated that Tehran wants to make a deal to end the war. A State Department programme, Rewards for Justice, “is offering a reward of up to US$20 million and possible relocation for information about Iran’s nuclear programme, including its facilities, equipment and associated",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Euronews",
-        "South China Morning Post",
-        "The Hindu"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "Irán"
-      ],
-      "fuentes_independientes": 3,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 8,
-      "motivos_seleccion": [
-        "Cobertura de fuentes distintas",
-        "Actores relevantes: Estados Unidos, Irán",
-        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -1931,53 +1944,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-b790de7e0ebd13d75cd4",
-      "fecha": "2026-11-06",
-      "titulo_fuente": "Trump’s latest Ukraine offer may only tempt Putin to step up his war - CNN",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "b790de7e0ebd13d75cd4",
-          "titulo_original": "Trump’s latest Ukraine offer may only tempt Putin to step up his war - CNN",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdmhLdEFhNEhJcUhIaGQ5UEwwSzRNdjQwWFZhRmN3T3ZoNDU2QWtwSUx5dzBkcXlabFNiSWFsVWI3Ul93VG1lajJmbk9reGpZZ0w1NVdTMVVCRUhaNE5SM3lSb2NHdm1jTnFLZDJvWW5NaWFVNF8yR29xMTJFZk5QZEhR?oc=5",
-          "fuente": "CNN",
-          "pais": "Estados Unidos",
-          "fecha": "2026-11-06T17:11:51+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Trump’s latest Ukraine offer may only tempt Putin to step up his war CNN",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "CNN"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "Rusia",
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos, Rusia, Ucrania",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-c6ae51f0f919c58bd700",
       "fecha": "2026-11-07",
       "titulo_fuente": "Italian foreign minister says hackers leaked his personal data",
@@ -2166,6 +2132,97 @@
       "motivos_seleccion": [
         "Cobertura de fuentes distintas",
         "Actores relevantes: Estados Unidos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-2ce08d0b7b5658976bea",
+      "fecha": "2026-11-07",
+      "titulo_fuente": "Armenia's selective prosecution: A threat to EU relations?",
+      "region": "Internacional",
+      "temas": [
+        "Diplomacia",
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "2ce08d0b7b5658976bea",
+          "titulo_original": "Armenia's selective prosecution: A threat to EU relations?",
+          "titulo_es": "La fiscalía selectiva de Armenia: ¿Una amenaza para las relaciones de la UE?",
+          "url": "https://www.dw.com/en/armenia-s-selective-prosecution-a-threat-to-eu-relations/a-79878159?maca=en-rss-en-world-4025-rdf",
+          "fuente": "Deutsche Welle",
+          "pais": "Alemania",
+          "fecha": "2026-11-07T18:36:00+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "While Brussels has refrained from harsh criticism, Armenian civil society has warned of selective justice against opposition figures. Could the EU's pragmatic stance risk repeating past mistakes?",
+          "resumen_es": "Aunque Bruselas se ha abstenido de duras críticas, la sociedad civil armenia ha advertido de justicia selectiva contra figuras de oposición. ¿Podría el riesgo pragmático de la UE de repetir errores pasados?"
+        }
+      ],
+      "fuentes": [
+        "Deutsche Welle"
+      ],
+      "actores_mencionados": [
+        "Unión Europea"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Unión Europea",
+        "Ámbito: Diplomacia, Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-04e96eb72cb0a59373e7",
+      "fecha": "2026-11-07",
+      "titulo_fuente": "Russian military satellite delivered into target orbit — Defense Ministry",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "04e96eb72cb0a59373e7",
+          "titulo_original": "Russian military satellite delivered into target orbit — Defense Ministry",
+          "titulo_es": "Satélite militar ruso entregado en órbita dirigida - Ministerio de Defensa",
+          "url": "https://tass.com/science/2214297",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-07T18:14:20+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "After liftoff, the Soyuz-2.1b carrier rocket was tracked by the ground-based automated control system of the Titov Main Test Space Center",
+          "resumen_es": "Después del despegue, el cohete portador Soyuz-2.1b fue rastreado por el sistema de control automatizado terrestre del Centro Espacial de Pruebas Principales de Titov"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Rusia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia",
+        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -5170,6 +5227,224 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-379e444c7817c223cb8f",
+      "fecha": "2026-11-07",
+      "titulo_fuente": "Football News: FIFA World Cup 2026 Updates, Latest News, Fixtures & Results - The Indian Express",
+      "region": "Asia-Pacífico",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "379e444c7817c223cb8f",
+          "titulo_original": "Football News: FIFA World Cup 2026 Updates, Latest News, Fixtures & Results - The Indian Express",
+          "titulo_es": "Noticias de fútbol: Copa Mundial de la FIFA 2026 Actualizaciones, Últimas Noticias, Calendarios &amp; Resultados - El Expreso Indio",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBidVdtOU5wQ0VFUG9Cby1NSTROVHdiWU5iWk52TGU2VGdUWm42X3dhOGxnemJINmQ1ZGFoZGoxTk0zYnF2bzVUeGQ5ZGNxQ2Z1YVR1NWRHNlV0cFhxa1hj?oc=5",
+          "fuente": "The Indian Express",
+          "pais": "India",
+          "fecha": "2026-11-07T19:03:37+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Football News: FIFA World Cup 2026 Updates, Latest News, Fixtures & Results The Indian Express",
+          "resumen_es": "Noticias de Fútbol: Copa Mundial de la FIFA 2026 Actualizaciones, Actualizaciones, Últimas Noticias, Calendarios The Indian Express"
+        }
+      ],
+      "fuentes": [
+        "The Indian Express"
+      ],
+      "actores_mencionados": [
+        "India"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: India"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-de5c99791ddcdb4a8f97",
+      "fecha": "2026-11-07",
+      "titulo_fuente": "Former Trump-appointed prosecutor may probe government attorney ethics in golf course case - Politico",
+      "region": "Estados Unidos",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "de5c99791ddcdb4a8f97",
+          "titulo_original": "Former Trump-appointed prosecutor may probe government attorney ethics in golf course case - Politico",
+          "titulo_es": "El ex fiscal nombrado por Trump puede sondear la ética del fiscal en caso de campo de golf - Politico",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRDZaRHNfaVJoem5LcFRtZWJBbFV3YmFwSGFJTzRqUm1IVzNINDVSMkFiWFFSMXJ3bnNkYV9MMjFFZ0R0X3l2TXBKdGU4RlZNTW93YWw4WkV3QTM4cjRyaUxHUTd3SUdXdTJEcHdfa0psWUt6dVExVzlrcmVlNXVRQTN1Y1JQNkdRV25xN3Vqd3VWaUVzOEZYMVJkSEgyN29EWWc?oc=5",
+          "fuente": "POLITICO US",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-07T18:34:00+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Former Trump-appointed prosecutor may probe government attorney ethics in golf course case Politico",
+          "resumen_es": "El ex fiscal nombrado por Trump puede sondear la ética del fiscal en el caso del campo de golf Politico"
+        }
+      ],
+      "fuentes": [
+        "POLITICO US"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-2dcf128c6d8af65b5dda",
+      "fecha": "2026-11-07",
+      "titulo_fuente": "EN DIRECT, guerre en Ukraine : les dernières informations",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "2dcf128c6d8af65b5dda",
+          "titulo_original": "EN DIRECT, guerre en Ukraine : les dernières informations",
+          "titulo_es": "",
+          "url": "https://www.lemonde.fr/international/live/2026/11/07/en-direct-guerre-en-ukraine-les-dernieres-informations_6803934_3210.html",
+          "fuente": "Le Monde",
+          "pais": "Francia",
+          "fecha": "2026-11-07T18:24:37+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "L’armée russe a lancé plusieurs attaques contre des infrastructures énergétiques ukrainiennes, cette nuit, selon le ministère de l’énergie ukrainien, qui signale des coupures d’électricité dans les oblasts de Dnipropetrovsk, Donetsk, Kiev, Jytomyr et Kharkiv.",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "Le Monde"
+      ],
+      "actores_mencionados": [
+        "Ucrania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Ucrania"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-d04570c52c8f8b018285",
+      "fecha": "2026-11-07",
+      "titulo_fuente": "What we know about Krakow mass shooting so far",
+      "region": "Internacional",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "d04570c52c8f8b018285",
+          "titulo_original": "What we know about Krakow mass shooting so far",
+          "titulo_es": "Lo que sabemos sobre el tiroteo masivo de Krakow hasta ahora",
+          "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-07T18:22:11+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
+          "resumen_es": "Al menos seis personas fueron asesinadas por un pistolero en fatigas militares que abrió fuego en la segunda ciudad más grande de Polonia."
+        }
+      ],
+      "fuentes": [
+        "BBC News"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-65868e0e87a8cd91d6d3",
+      "fecha": "2026-11-07",
+      "titulo_fuente": "Houthis claim strikes on Riyadh airport, Saudi Aramco facilities",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "65868e0e87a8cd91d6d3",
+          "titulo_original": "Houthis claim strikes on Riyadh airport, Saudi Aramco facilities",
+          "titulo_es": "",
+          "url": "https://tass.com/world/2214301",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-07T18:18:51+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Houthi military spokesperson Yahya Saria also claimed that the rebels had struck a Saudi National Guard camp in Najran in the country’s south",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Arabia Saudita"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-b9da297658f4848fef51",
       "fecha": "2026-11-07",
       "titulo_fuente": "En Pologne, au moins six morts dans une attaque par arme à feu à Cracovie, le tireur interpellé",
@@ -5612,48 +5887,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-8feac3fad3d93ce608fe",
-      "fecha": "2026-11-07",
-      "titulo_fuente": "Death toll in Krakow shooting rises to five — police",
-      "region": "Internacional",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "8feac3fad3d93ce608fe",
-          "titulo_original": "Death toll in Krakow shooting rises to five — police",
-          "titulo_es": "El número de muertos en los tiroteos de Cracovia asciende a cinco — policía",
-          "url": "https://tass.com/emergencies/2214287",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-07T15:46:28+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Polish Prime Minister Donald Tusk has described the shooting as a terrorist attack",
-          "resumen_es": "El primer ministro polaco Donald Tusk ha descrito el tiroteo como un ataque terrorista"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-098ac58b17c68cb673b6",
       "fecha": "2026-11-07",
       "titulo_fuente": "Mohammed Shami hated the GPS vest. He also bowled the straightest seam in India - The Indian Express",
@@ -5779,6 +6012,50 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Ámbito: Comercio y finanzas"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-98894519024539c3e55f",
+      "fecha": "2026-11-07",
+      "titulo_fuente": "‘India was my home, my children’s home’: Sonia Gandhi on why she never left after Rajiv’s assassination - The Indian Express",
+      "region": "Asia-Pacífico",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "98894519024539c3e55f",
+          "titulo_original": "‘India was my home, my children’s home’: Sonia Gandhi on why she never left after Rajiv’s assassination - The Indian Express",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN0gxeURJMlhBY0I1amVWX3hoU0NlWGdza0pLcUIyNW9JZm9qX1FYRUMzS0VOR3NBdFhIRFU0M0JDR0piTTg5MUZMZWFjMktIUzVRRlpvUGh2cGZBT0JMX3ZFQXlFbGV1MFl3Ymk4cl91SHBIWVlFU3MxZzZJYXE1WEZnb3VkTnQ1blJXZl9GZ1JpLThnd09aOXdxSzRTcHc20gGnAUFVX3lxTE1Kb0h0SHY0OHFJWVEwamlVRkYxUWVrQlZGb3VRN3VxNTFjMjhGT0oyaU5ucXd1WHRRVmthQk85NDNTSUVPd2VidkVsUU53alp6UHVyRTcxc0xzTWFMUFc1dWFYNllnR3ZQMngwQy1sUjBNZS0zcWc5eFZSYktIVzBCT29aSFFYOVF2U3Y0TzZqYmNoU0ZrTzE2N0p2S1BCeHg0Z0RLcmc4?oc=5",
+          "fuente": "The Indian Express",
+          "pais": "India",
+          "fecha": "2026-11-07T15:13:26+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "‘India was my home, my children’s home’: Sonia Gandhi on why she never left after Rajiv’s assassination The Indian Express",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "The Indian Express"
+      ],
+      "actores_mencionados": [
+        "India"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: India"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6731,269 +7008,6 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Actores relevantes: India"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-72f4df91e90f753b635d",
-      "fecha": "2026-11-07",
-      "titulo_fuente": "Manila weighs second South China Sea legal case against Beijing: analyst",
-      "region": "China",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "72f4df91e90f753b635d",
-          "titulo_original": "Manila weighs second South China Sea legal case against Beijing: analyst",
-          "titulo_es": "",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3373651/manila-weighs-second-south-china-sea-legal-case-against-beijing-analyst",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-11-07T11:10:52+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Manila is preparing for a potential second legal case against Beijing over the South China Sea, according to a Philippines-based security analyst. “Indeed, the Philippines is considering filing another case against China, and authorities are already preparing the necessary legal documentation,” said Rommel Banlaoi, president of the Philippine Society for International Security Studies, on Saturday. He made the remarks at a South China Sea symposi",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "South China Morning Post"
-      ],
-      "actores_mencionados": [
-        "China"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: China"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-b7e642aa9c8ea190f2ba",
-      "fecha": "2026-11-07",
-      "titulo_fuente": "Russian athlete Galina Begim wins world trampoline gymnastics title",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "b7e642aa9c8ea190f2ba",
-          "titulo_original": "Russian athlete Galina Begim wins world trampoline gymnastics title",
-          "titulo_es": "",
-          "url": "https://tass.com/sports/2214231",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-07T11:01:11+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Begim scored 26.200 points in the final",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-40efdaed0b8dd5f38514",
-      "fecha": "2026-11-07",
-      "titulo_fuente": "Ravi Shastri on Shami: ‘What more do you want him to prove?’ - The Indian Express",
-      "region": "Asia-Pacífico",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "40efdaed0b8dd5f38514",
-          "titulo_original": "Ravi Shastri on Shami: ‘What more do you want him to prove?’ - The Indian Express",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeXhuaXBBYk1nUW9kMGxqSk5UbWg3QVBuUEo0X2trNy1nM0MzTklLN3A2MjRNNS0wODhfSFNucVNvY0tPSC15c3FJMmR4c21wMEpBQkZKemttbE44OTFGbUJLUFdFVkFBUFNlT0wtNWsxX1p1a2poT3BHOTRwV0wtZkcwVXFjM3lWWk14TDVRYjd3Y2ZIenpfQkFLUjE3TWJsaVJEcjl3Rk9CRVpSUF9nbFU0RERyd9IBvAFBVV95cUxNVHFHNnNBejlCSHEzZWVVZEttZk1FVzk1NmktSFJGbjNJMDNtblVHZTBWaDk1VGVSLVB3cXk5NTY5SWFsM3pRSHZMOWZTZlY4RzdYUXNRMEoyb2hmMEllUU9aSjAxc1BscDMzMW45Q3E4OHFjUGM5cjRienlhdHdJVVBkanNvYkFpTlRiTm5ISmpyVmU4REtKNmF4MHlnbndKdFJMY20yd1E0QUJsMFpFWWptSHBITGduZWdFaA?oc=5",
-          "fuente": "The Indian Express",
-          "pais": "India",
-          "fecha": "2026-11-07T10:45:25+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Ravi Shastri on Shami: ‘What more do you want him to prove?’ The Indian Express",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Indian Express"
-      ],
-      "actores_mencionados": [
-        "India"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: India"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-df01437ae377c6cff4a0",
-      "fecha": "2026-11-07",
-      "titulo_fuente": "Sudan war and climate change see parents struggle to feed their children",
-      "region": "Perú",
-      "temas": [
-        "Seguridad y conflictos",
-        "Energía y clima"
-      ],
-      "noticias": [
-        {
-          "id": "df01437ae377c6cff4a0",
-          "titulo_original": "Sudan war and climate change see parents struggle to feed their children",
-          "titulo_es": "",
-          "url": "https://www.aljazeera.com/features/2026/11/7/sudan-war-and-climate-change-sees-parents-struggle-to-feed-their-children?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-11-07T10:36:32+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "War, poverty and climate change are all affecting Sudanese, with increasing cases of child malnutrition.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Energía y clima, Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-047f4a89eac0a3ae3c09",
-      "fecha": "2026-11-07",
-      "titulo_fuente": "Inside Babil Khan’s Lokhandwala home: Music studio, eclectic decor and a tribute to father Irrfan - The Indian Express",
-      "region": "Asia-Pacífico",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "047f4a89eac0a3ae3c09",
-          "titulo_original": "Inside Babil Khan’s Lokhandwala home: Music studio, eclectic decor and a tribute to father Irrfan - The Indian Express",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY2tQWnRRRXQ5eWNGUl9xTzVOUG5ydHJPQmk1dlZNdmppVjFoNi14eXRSeFFHOG5saEVNd05uMU1PVGZBclIxM3QzZzVVdW5yVTBDRmVzS0tTYlFEX0c3ajNFMXlXVDd4Yk1WQjVvYXR3ZGVFbFNpTjYwRFZkWXMzZmRnVlE5X2s4UVhuSnJxWVBhY3phYTlTaVpmcTBIWEJldkxIc0dOOFZjZ0h4T0ZfdGQyaVpQT3Bvc0dxX2ZZMVlvQdIByAFBVV95cUxPTmFMYWJkYUUzVHQ2T1hUQzhqS0xMUWJtUmNLSGNVYlVrZU9rckJmcW5pcWpEcTRlNjJxLW1Ma0F1WVNpbXc1eHpSVWlVM3hOemR3bzlCb1pWczhwN3diTm11QUNaNVJsOXlZWHhiTnBtRVBmUUZnWm9sS0V3X3NzR0dIcnlfRTVnUXZJNUtlXzJncGtBcmt1QmxjcWZvczVKMHlRdDdhR24zT09KRkVfTzdPRFlSZmwwbVU3TFRLVlNaWUdBdWF3Uw?oc=5",
-          "fuente": "The Indian Express",
-          "pais": "India",
-          "fecha": "2026-11-07T10:29:36+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Inside Babil Khan’s Lokhandwala home: Music studio, eclectic decor and a tribute to father Irrfan The Indian Express",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Indian Express"
-      ],
-      "actores_mencionados": [
-        "India"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: India"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-6d8744a4bf27ee86fe32",
-      "fecha": "2026-11-07",
-      "titulo_fuente": "Armed man arrested near White House after saying voices told him to kill Trump - Politico",
-      "region": "Estados Unidos",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "6d8744a4bf27ee86fe32",
-          "titulo_original": "Armed man arrested near White House after saying voices told him to kill Trump - Politico",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSzlpQktFMm5RTm1fN2VaUTlLd29IY0NRcVRhWVhtdm1HbFU3aEJaaWdXcUFGRkNfdkV4RlhlY0d1dUhDZ2FNeUU3dEh0eEJyb3QwTVBHdnhHM3puOVZvRWZGTGhkODU1WlN1V0w0TV80MDBUS1UxMktFRW5RZ2EtWUd5SnNPeEJMTXlPQ1NwWG1kRUlIdjhqV0x0ZlBQUi1IOXVzY1AzaDNySkNyV0hvOFJXQVJCTjlPdl9BMHpCNHk?oc=5",
-          "fuente": "POLITICO US",
-          "pais": "Estados Unidos",
-          "fecha": "2026-11-07T10:16:00+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Armed man arrested near White House after saying voices told him to kill Trump Politico",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "POLITICO US"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
