@@ -1,17 +1,33 @@
 {
-  "actualizado_utc": "2026-11-07T16:51:57.900050+00:00",
+  "actualizado_utc": "2026-11-07T17:01:32.712490+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 1724,
-      "nuevas_24h": 49,
+      "cantidad_archivada": 1726,
+      "nuevas_24h": 51,
       "anteriores_24h": 32,
       "dias_con_registros": 23,
-      "fecha_ultima": "2026-11-07T14:39:21+00:00",
+      "fecha_ultima": "2026-11-07T16:55:28+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "5e5f1fd31e1b314dbafd",
+          "fecha": "2026-11-07T16:55:28+00:00",
+          "titulo": "Ukraine says Russia ramps up strikes to pressure Kyiv at talks",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/ukraine-says-russia-ramps-up-strikes-to-pressure-kyiv-at-talks/article71679254.ece",
+          "traducida": false
+        },
+        {
+          "id": "c6ae51f0f919c58bd700",
+          "fecha": "2026-11-07T16:50:06+00:00",
+          "titulo": "Italian foreign minister says hackers leaked his personal data",
+          "fuente": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
+          "traducida": false
+        },
         {
           "id": "661ffadfe74cdcec5819",
           "fecha": "2026-11-07T14:39:21+00:00",
@@ -235,30 +251,14 @@
           "fuente": "TASS",
           "url": "https://tass.com/economy/2214171",
           "traducida": false
-        },
-        {
-          "id": "7091e774d9fdf52d762d",
-          "fecha": "2026-11-07T04:30:01+00:00",
-          "titulo": "Un profesor buscado por la Audiencia Nacional recluta soldados y espías españoles para Rusia",
-          "fuente": "El País",
-          "url": "https://elpais.com/espana/2026-11-07/un-profesor-buscado-por-la-audiencia-nacional-recluta-soldados-y-espias-espanoles-para-rusia.html",
-          "traducida": false
-        },
-        {
-          "id": "ca77a0130626cd2c9a0f",
-          "fecha": "2026-11-07T04:28:16+00:00",
-          "titulo": "Russia to find new formats of work in Germany — official",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2214169",
-          "traducida": false
         }
       ]
     },
     {
       "id": "india-asia",
       "titulo": "India y Asia-Pacífico",
-      "cantidad_archivada": 1071,
-      "nuevas_24h": 49,
+      "cantidad_archivada": 1072,
+      "nuevas_24h": 50,
       "anteriores_24h": 89,
       "dias_con_registros": 23,
       "fecha_ultima": "2026-11-07T16:09:51+00:00",
@@ -497,11 +497,11 @@
           "traducida": false
         },
         {
-          "id": "b264e9c640429bab40e0",
-          "fecha": "2026-11-07T03:21:20+00:00",
-          "titulo": "Mridangam player Sridhar Parthasarathy passes away during Pune concert - The Indian Express",
+          "id": "2b9c18585004c5cbd825",
+          "fecha": "2026-11-07T03:29:00+00:00",
+          "titulo": "Homebuyer wins Rs 6.8 lakh payout after builder sells booked flat to third party - The Indian Express",
           "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaS1EM05HZzFHQTNJZnUtSWxVaWItQW1WeTk4SjNEeHNMV1ZLbkNvVGFzNnhyNlc2cHdZZnZXbU55VERTbmpSR2o2eWpxOVdadTJlTHY3ZnZLTG9PR2xIT1RSeFM2U3NjZTBEVXJESDdWQVdWUW91R0VWS0lYOTRhY2tpUWZLcVF0VEtBbmhIam02eG9maWlEZnEyWGc4VmhRby1Nd0dzRDQ4RHFxLWtvMnAzVkFzT2tfekHSAcABQVVfeXFMTW5pVkEwQ01HdTlqNVBTMkJjdGd3WEF6cXh4R1dUVjZBcnByekp1RG9vdmZLN0dHTU5DQzYydHNDS28zenFXeFVldTZoUmxyZjNSeTluNGF2NldoUVUyRTE0b3JlTXJFYlFwZFVDX3Q5NjNjZXBfMjZuSTNITDk3bW9HellvNFM1aEYta2o3X0psMFB1Y2dPUUZBbjA4cVJocnRfT25Oc05wWDYwTGtMcDFRZzJYVWJlb1ZUeFhHZTdF?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSFo3X0trbkFJQXB6a1BNSFdXc2h5bUh3WGFQUmI5R2swTW4taGlFaDkyTVlqNnBpUUpWUG1IaUd6OGFyazE1ZG44UWVhbC12TGRZalZDZk1LM0Z4ZWpLTlBkSTJGcjZWZzdPeER2T0pYRk8wVGlMcDV5OW1fNGNUbVJNN2NTRi1CNUJMNWlYZTZ1YU9PcXZCSFRudG52RjNaYjRjTkRfTklZbEZOSHVXetIBtwFBVV95cUxPeXVZeEcxS3BKMF91bUZzWGFzUkVUN0JBTVFud09fRnhaVmdFekRJTnVzVGJrNU5IMlQtRmtiOVVhZV81SmZlTDhrdE9HRnhuY2JtbGRZX2toT3g4ZEdCaUpEXzdTR0VQSUU2QzBtS1hyd2l3a0tyclZkSjBKMF9NNjd2c19RWklzSGZZS3gxRXZQc0hmSThzSGxQcHB2bkYwYjRqamlKWHNVSkRBTUNta21VaDk5TzA?oc=5",
           "traducida": false
         }
       ]
@@ -509,13 +509,21 @@
     {
       "id": "oriente-medio",
       "titulo": "Oriente Medio: seguridad y diplomacia",
-      "cantidad_archivada": 1143,
-      "nuevas_24h": 43,
+      "cantidad_archivada": 1144,
+      "nuevas_24h": 44,
       "anteriores_24h": 45,
       "dias_con_registros": 23,
-      "fecha_ultima": "2026-11-07T15:34:58+00:00",
+      "fecha_ultima": "2026-11-07T16:54:59+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "ef30b363df98e5a972da",
+          "fecha": "2026-11-07T16:54:59+00:00",
+          "titulo": "Saudi oil sites, troops and Riyadh airport targeted: Houthis",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/houthis-say-saudi-oil-sites-troops-and-riyadh-airport-targeted-updates/article71679324.ece",
+          "traducida": false
+        },
         {
           "id": "687e9561cf72bf83ad56",
           "fecha": "2026-11-07T15:34:58+00:00",
@@ -746,14 +754,6 @@
           "titulo": "Trump says Israel would not exist without his Iran action - The Indian Express",
           "fuente": "The Indian Express",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVTdxem00TmxmYjV5RUVRM19RQ1hlVDZPazdKVjcwdFNGMW9yRHZ6b0pydEljaDl3blg1UUc1TmVGdXJvM3hNR1k3X1lmdjJ3c3d2TWQ4N1cteEl6bXlZSU92LVhxbURtRDJOVDNPUlVmRTVrLUdlWm4tWEhEQlRjNmtWT1JIdWowaXFsXy1NM3BiMEhqck80QTlTSWlSdGVBR0RsVUs2S3M4TWpXcFZBai1rY0htZE5G0gG_AUFVX3lxTFAtTU5FLWgxTlRRUUhsajk3eUQtVkIwYWtjWEdhd0YtalMzc2MweVhWbWo1WHVKcjctYmZ6LWJfcTlpMHNWbjNNRzl4RzlyYkd2dzJTOTZtX2xvRjJuSWpMMl9ZcjBxUXhXbUtqX2tkZG9VaEZ4Tk5sbUJnTXh6SzloaVlIblhoRTZseDdiamxXVThHc3pwU2tqeTRnQzlpdWtQWGk5RUIzYnpYQ2tNOTMyc3o3aTZIT25MeUFpdllj?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "ce1fd58c04be90912382",
-          "fecha": "2026-11-07T02:04:14+00:00",
-          "titulo": "Iran’s nuclear programme: US offers US$20 million reward for information",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3373625/irans-nuclear-programme-us-offers-us20-million-reward-information",
           "traducida": false
         }
       ]
