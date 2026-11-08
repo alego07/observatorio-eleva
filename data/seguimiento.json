@@ -1,17 +1,25 @@
 {
-  "actualizado_utc": "2026-11-08T18:03:44.734715+00:00",
+  "actualizado_utc": "2026-11-08T18:25:07.252068+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "oriente-medio",
       "titulo": "Oriente Medio: seguridad y diplomacia",
-      "cantidad_archivada": 1238,
-      "nuevas_24h": 87,
-      "anteriores_24h": 49,
+      "cantidad_archivada": 1239,
+      "nuevas_24h": 86,
+      "anteriores_24h": 50,
       "dias_con_registros": 24,
-      "fecha_ultima": "2026-11-08T17:53:59+00:00",
+      "fecha_ultima": "2026-11-08T18:20:45+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "27089dcc8cbc1619c417",
+          "fecha": "2026-11-08T18:20:45+00:00",
+          "titulo": "Iran’s proposals on opening Strait of Hormuz still on table — top diplomat",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2214517",
+          "traducida": false
+        },
         {
           "id": "0710a39b76016560aad8",
           "fecha": "2026-11-08T17:53:59+00:00",
@@ -243,27 +251,27 @@
           "fuente": "The Hindu",
           "url": "https://www.thehindu.com/news/international/israel-defence-minister-says-mission-not-complete-on-iran/article71680896.ece",
           "traducida": false
-        },
-        {
-          "id": "91c146ffbd13f61113b9",
-          "fecha": "2026-11-08T13:00:25+00:00",
-          "titulo": "Russia ready to explore CIS plus Iran format — MFA",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2214469",
-          "traducida": false
         }
       ]
     },
     {
       "id": "india-asia",
       "titulo": "India y Asia-Pacífico",
-      "cantidad_archivada": 1148,
-      "nuevas_24h": 64,
+      "cantidad_archivada": 1149,
+      "nuevas_24h": 65,
       "anteriores_24h": 59,
       "dias_con_registros": 24,
-      "fecha_ultima": "2026-11-08T17:11:16+00:00",
+      "fecha_ultima": "2026-11-08T17:14:20+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "4386817832b0a30b9356",
+          "fecha": "2026-11-08T17:14:20+00:00",
+          "titulo": "Manchester United’s unwanted record after going 0-2 down to Villa inside 4 mins - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVWpkSFktQXEwampyX3FScDZFV2xhRDU0UXBHb0htRHlCeEhDQkcxM3U2eHItbm5TWVBqZWVPNkJmMmFhQVFoa2hWNTdGaVBlRnVrSE03VU1FNWlVUUZyenNUZ21qMEdLUWhMeFBtSnllZnJ0SjduWHpRZ1NiSE9MbE1kYXdmRXhtZzJvMFhlM3ZXTm1DakVOQ0tQRmxjWkFVU1lkaHBpSW5NejlnY3h2ektxUWROZjhIU1HSAcABQVVfeXFMUFN4bE01N0U3T2lxbEtkc1BMTUY3YWI1OHZJR3VMbnlTci1ad3k3eVlxdVdfTWY3QUwyVmowaENFMFEzYkhYWjA2R2JhSDlnREt1enNnNnpxbU9nX1JmSzBOUHNXWkN6VEpoRzBYZ210Y2NJSS1aRnlmM2xzMFVPeXJWcTBJSDViRldGaHh5M3pQVFNQUVAxLVdPNHUxbVF0cUl3NUlZQk9SZU5Bd2hwcDRnNk5yZVNER3pLRUtQRlN2?oc=5",
+          "traducida": false
+        },
         {
           "id": "7b497b53cf910363af84",
           "fecha": "2026-11-08T17:11:16+00:00",
@@ -495,14 +503,6 @@
           "fuente": "South China Morning Post",
           "url": "https://www.scmp.com/week-asia/politics/article/3373584/india-questions-us-double-standards-pakistan-secures-f-16-upgrade-deal",
           "traducida": false
-        },
-        {
-          "id": "0622de14e5250be075b5",
-          "fecha": "2026-11-08T06:56:08+00:00",
-          "titulo": "‘Made him medicine-independent’: Dr Shriram Nene on reversing his father’s diabetes - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWE5qSFBsV3lMQ0NiY1FfYVlyWUNQYXJ6Y2hvSkJYYU1hQ1BQQmRGVU50UWtPXzZhaDVDMWpEQi1rSUYwVVpnQU1sbDdBNC1udGdfblROd0hBa1lRdzVwTnV3UndTRWc5WFoyV2dkcEVITmF6MWhuem0xTDVJTTNpZmtiQ3dXcGhqUEN5WE5VWHBGYThtUWVGRVZDVUZPTTAyRE9QVkxXaTg3X3BHSURvQ3F2cjNKdV8xc05QcFJ4TdIBxgFBVV95cUxPdnV3YVJCTmcxSW55ZEU0Q01fLXBXYXlwMWFxOFFRX1ZaVl82WE9mY0xKNFVDVHJMMmk4YUpFVVF6TEZIVUttV05ZQ3hITGNFSEZKNFVRRHpyRUlUQ0FQV250UFVzaWN4MVNsTTUyZDV2aXU4akUya1VzdjBOUk1UWmFyTi1ES3c4WHJwVGxST0hpbTBmejBQZ3lLU1Z3WE0wMWpDVGcwMFVPT25FWV9MVXM0ZmJ0bU5HR3I5MElVdWpRemtjQkE?oc=5",
-          "traducida": false
         }
       ]
     },
@@ -510,8 +510,8 @@
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
       "cantidad_archivada": 1783,
-      "nuevas_24h": 54,
-      "anteriores_24h": 50,
+      "nuevas_24h": 52,
+      "anteriores_24h": 51,
       "dias_con_registros": 24,
       "fecha_ultima": "2026-11-08T17:24:18+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -762,8 +762,8 @@
       "id": "union-europea",
       "titulo": "Unión Europea y relaciones exteriores",
       "cantidad_archivada": 522,
-      "nuevas_24h": 11,
-      "anteriores_24h": 11,
+      "nuevas_24h": 10,
+      "anteriores_24h": 12,
       "dias_con_registros": 24,
       "fecha_ultima": "2026-11-08T17:06:09+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
