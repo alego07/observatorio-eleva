@@ -1,17 +1,65 @@
 {
-  "actualizado_utc": "2026-11-08T17:17:07.795964+00:00",
+  "actualizado_utc": "2026-11-08T18:03:44.734715+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "oriente-medio",
       "titulo": "Oriente Medio: seguridad y diplomacia",
-      "cantidad_archivada": 1231,
-      "nuevas_24h": 81,
+      "cantidad_archivada": 1238,
+      "nuevas_24h": 87,
       "anteriores_24h": 49,
       "dias_con_registros": 24,
-      "fecha_ultima": "2026-11-08T17:11:05+00:00",
+      "fecha_ultima": "2026-11-08T17:53:59+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "0710a39b76016560aad8",
+          "fecha": "2026-11-08T17:53:59+00:00",
+          "titulo": "Gadi Eisenkot reaches out to Netanyahu allies as he strives to form government",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/08/gadi-eisenkot-netanyahu-allies-form-israel-government",
+          "traducida": false
+        },
+        {
+          "id": "f558f7910766d815ff43",
+          "fecha": "2026-11-08T17:49:19+00:00",
+          "titulo": "Tens of thousands march in Amsterdam, pressing Dutch government on Gaza, Israel",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/tens-of-thousands-march-in-amsterdam-pressing-dutch-government-on-gaza-israel/article71681124.ece",
+          "traducida": false
+        },
+        {
+          "id": "3a163a2d2a09f1bc2641",
+          "fecha": "2026-11-08T17:44:51+00:00",
+          "titulo": "Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "17a12a352cd711c5a233",
+          "fecha": "2026-11-08T17:31:58+00:00",
+          "titulo": "Eisenkot warns of Israel crisis as he seeks to replace Netanyahu’s government",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/eisenkot-warns-of-israel-crisis-as-he-seeks-to-replace-netanyahus-government/article71681159.ece",
+          "traducida": false
+        },
+        {
+          "id": "2f290e2680f8db1e4496",
+          "fecha": "2026-11-08T17:28:27+00:00",
+          "titulo": "Trump says renewed attacks on Iran “highly unlikely” if talks show progress - CNN",
+          "fuente": "CNN",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRcFFDS2FTak9Bd3ZyWUJkVUh4NDdfamp4bDNDd1A1NXpleGxxeFFTRmhsV3IyZE56R19qLVVRYmhNSFZISXpjaEhwYmJHeE1YTzlJVFRDdmJYbHczRnozVjUyYWttNkxyMThCMGJrNW0?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "96d04fc8300d51d6ff38",
+          "fecha": "2026-11-08T17:11:52+00:00",
+          "titulo": "Jerusalem Daily: Eisenkot picked over Netanyahu to form government",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/dnrbltn-261108-hegazyn-jerusalem_daily-081126?traffic_source=rss",
+          "traducida": false
+        },
         {
           "id": "3af496fa46fb024f73b3",
           "fecha": "2026-11-08T17:11:05+00:00",
@@ -173,6 +221,14 @@
           "traducida": false
         },
         {
+          "id": "659206a1382c32348f65",
+          "fecha": "2026-11-08T13:37:50+00:00",
+          "titulo": "Iran executes three men for 'armed unrest' after January protests",
+          "fuente": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
+          "traducida": false
+        },
+        {
           "id": "9add0c107628fa5e0377",
           "fecha": "2026-11-08T13:24:00+00:00",
           "titulo": "Cop31 must deliver climate progress that people can see is real, host says",
@@ -195,71 +251,15 @@
           "fuente": "TASS",
           "url": "https://tass.com/politics/2214469",
           "traducida": false
-        },
-        {
-          "id": "4e1e2a03e3cfd9a32777",
-          "fecha": "2026-11-08T12:50:28+00:00",
-          "titulo": "Egypt reopens Tripoli embassy after 12 years and raises concerns over Turkey-Libya maritime deal",
-          "fuente": "Euronews",
-          "url": "https://www.euronews.com/2026/11/08/egypt-reopens-tripoli-embassy-after-12-years-and-raises-concerns-over-turkey-libya-maritim",
-          "traducida": false
-        },
-        {
-          "id": "6c74e422fb0c493e4e87",
-          "fecha": "2026-11-08T12:00:00+00:00",
-          "titulo": "AIPAC Built a Super PAC to Protect the Israel Consensus. This Election Helped End It. - Politico",
-          "fuente": "POLITICO US",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWVo5elgzQmRGcG9oRWdUa1A4bi1ydENQSG1nbGFXWUFDaEg5ZktYVERpUFFtMnBpMFFZUzJ5VVBpZlFwWU1rVXlYcU9memNtN1NIdTkzX3BaTVk1NEYxclVITExRa2E0UWZqZE1RUzRmVjc3QlNSVkJ5TENTckRvQzBlSE5XYmNoVk0zdVNlcW5kM2xtSmpaa2RodlFMZw?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "ed224a74ead9763ee09b",
-          "fecha": "2026-11-08T11:48:56+00:00",
-          "titulo": "Who’s who at Cop31: key players at the climate talks",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/environment/2026/nov/08/cop31-key-players-climate-talks",
-          "traducida": false
-        },
-        {
-          "id": "e75a24f9e0f1f519d845",
-          "fecha": "2026-11-08T11:46:47+00:00",
-          "titulo": "Three tankers caught fire in Strait of Hormuz: Iran",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/iran-says-two-tankers-caught-fire-in-hormuz-after-hitting-mines/article71680557.ece",
-          "traducida": false
-        },
-        {
-          "id": "537bd4846475489e61a1",
-          "fecha": "2026-11-08T11:46:38+00:00",
-          "titulo": "U.S. launches task force to disrupt land transit routes into Iran",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/us-launches-task-force-to-disrupt-land-transit-routes-into-iran/article71680871.ece",
-          "traducida": false
-        },
-        {
-          "id": "44536c4c8d74c5cf72ce",
-          "fecha": "2026-11-08T11:43:11+00:00",
-          "titulo": "Riyadh financial district targeted in missile attack, Aramco tower damaged: witnesses",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/riyadh-financial-district-targeted-in-missile-attack-aramco-tower-damaged-witnesses/article71680790.ece",
-          "traducida": false
-        },
-        {
-          "id": "d73ea3ccb0ae00758fc6",
-          "fecha": "2026-11-08T11:41:12+00:00",
-          "titulo": "Gaza : les images des pluies diluviennes qui inondent les camps de déplacés",
-          "fuente": "Le Monde",
-          "url": "https://www.lemonde.fr/videos/article/2026/11/08/gaza-les-images-des-pluies-diluviennes-qui-inondent-les-camps-de-deplaces_6808427_1669088.html",
-          "traducida": false
         }
       ]
     },
     {
       "id": "india-asia",
       "titulo": "India y Asia-Pacífico",
-      "cantidad_archivada": 1145,
-      "nuevas_24h": 62,
-      "anteriores_24h": 62,
+      "cantidad_archivada": 1148,
+      "nuevas_24h": 64,
+      "anteriores_24h": 59,
       "dias_con_registros": 24,
       "fecha_ultima": "2026-11-08T17:11:16+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -270,6 +270,22 @@
           "titulo": "EAEU looking at signing free trade agreement with several more countries — senior diplomat",
           "fuente": "TASS",
           "url": "https://tass.com/economy/2214507",
+          "traducida": false
+        },
+        {
+          "id": "9a5f12381671b80d5545",
+          "fecha": "2026-11-08T17:03:14+00:00",
+          "titulo": "Photos: Diwali celebrations light up India and its global diaspora",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/gallery/2026/11/8/photos-diwali-celebrations-light-up-india-and-its-global-diaspora?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "954fe16017fe8a6452e4",
+          "fecha": "2026-11-08T16:59:31+00:00",
+          "titulo": "India’s ‘cockroach’ movement seeks to restore culture of accountability",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/8/indias-cockroach-movement-seeks-to-restore-culture-of-accountability?traffic_source=rss",
           "traducida": false
         },
         {
@@ -334,6 +350,14 @@
           "titulo": "Adnan Sami recalls eating 3-4 Big Macs in one sitting when he weighed 230 kg: ‘Everything was my weakness’ - The Indian Express",
           "fuente": "The Indian Express",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVFBzT0hMZXRtcHN5dnNTbHpBNHJRSE9GeTJ0Qkt5WEJTZ0VWaDdRLUhYbTRpZm1KQWczd1RUd2xSLVl4S3REbzkyRnN1YWZYOVZSaTZxd3Fod2Z2VFZNSVV4TmwzRHNQME5mbmJtRl9rblFIeVlqeDdmai1aUUp2RHoxbEtXLVVMSlhIeUl5Z1NRdzZqTjlUYnp4cU12VmFHWTF1WHRkak83cTEyTlJ2Z0lTOTNsYUxq0gG_AUFVX3lxTE5yTmFnb1BTd19sVGZ4OHp5NklIdDlCRmdydUg0VVFfd1ZjbUxwNENLbndRazNsRDloVFZrSWxDM3A2ZWpOUDJNQnZfQzdXQl85dUVWN2lnOTMycVJLS280bDY1REpjSmk1ckVtcDZibnk5Y2txWjM0Qmd3ekJGMTFhN3Jya2dCV1lLRkJvaE1sOTV5Q2tYXy1JMjR1c09DMHpaTmxvRFY3bTFCTHpJQXVhSWhqSU0wSXhneVppdkZn?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "1ebc81a90d4863fd28e9",
+          "fecha": "2026-11-08T13:29:11+00:00",
+          "titulo": "‘Drove his sister out of home… she went to jail for party’: Telangana CM Revanth Reddy slams KTR - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVVFNSkIxYUNsbkVVS1NHSG9CZ01VSHF1b3VBLUltT2w0emVNYVNhVjdXaWhyNWRFX2hQMlFBX0NKZUpsUEY2eVdLR1VHRk50dnhxN3Jvcm5SX0hWZE9iYjhsbTAyRVNFY3pSZ2R0czI4MTNaaUpYNV9rOEpoSTRoWjl6LXpIUWFwamVORlFhdGZmUGV6VG40VFllNGNKaGQ2NFh0Z3lkeXHSAa8BQVVfeXFMT2VaWUphcXF1LXdBeWdDYlQ2Nm5FV3J6NTQyV2RjQjRIZGJUbFp5MkNPeUFaZFRWanpmUF9ZZW52YUNKSlZIVU80YkNPdURveTdPV1B2aWE1U3dBeS1oZzMwNER1d0RsQWNQRFpPd200aTZyZW1UMEhIZXNsa3ppdERFdGNhdVdlSVN2T1JiQ3JzY1NLMTBFVnBXRzNQWktsZmxCeDQxcFNZYUszQk9DSQ?oc=5",
           "traducida": false
         },
         {
@@ -479,43 +503,35 @@
           "fuente": "The Indian Express",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWE5qSFBsV3lMQ0NiY1FfYVlyWUNQYXJ6Y2hvSkJYYU1hQ1BQQmRGVU50UWtPXzZhaDVDMWpEQi1rSUYwVVpnQU1sbDdBNC1udGdfblROd0hBa1lRdzVwTnV3UndTRWc5WFoyV2dkcEVITmF6MWhuem0xTDVJTTNpZmtiQ3dXcGhqUEN5WE5VWHBGYThtUWVGRVZDVUZPTTAyRE9QVkxXaTg3X3BHSURvQ3F2cjNKdV8xc05QcFJ4TdIBxgFBVV95cUxPdnV3YVJCTmcxSW55ZEU0Q01fLXBXYXlwMWFxOFFRX1ZaVl82WE9mY0xKNFVDVHJMMmk4YUpFVVF6TEZIVUttV05ZQ3hITGNFSEZKNFVRRHpyRUlUQ0FQV250UFVzaWN4MVNsTTUyZDV2aXU4akUya1VzdjBOUk1UWmFyTi1ES3c4WHJwVGxST0hpbTBmejBQZ3lLU1Z3WE0wMWpDVGcwMFVPT25FWV9MVXM0ZmJ0bU5HR3I5MElVdWpRemtjQkE?oc=5",
           "traducida": false
-        },
-        {
-          "id": "3ed469e0357373e6584f",
-          "fecha": "2026-11-08T06:50:44+00:00",
-          "titulo": "Scene Box Office Collection Day 2: Suriya’s film sees 6.3% growth, crosses Rs 81 crore worldwide - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVmFmZUdKVlFPbHRsUnlaUkZNQTFSNGdKZEZCSkZzNVYybEFXdlNmbzA5amRyMEZYN0RzR3VUM3JWWFhCWkpEVF85aGZQWUNHdFVzbGkxUWJjeS11TWhQTUFNNWN5aWlwTVlNWVpQRFVJWUx2cmhnQ09DbTJSd29mQVRVYnM5dzFxdDVtSUFSc010QlJpZEQ2SlVldkEtT1NDVGJ6WE5RNG14ZXBZOGZ5ZnpGT1R3VWhUMlpaeWlaclV5c2lvTG5EMDg1RW9RbHN3WXFTMnNUb09iNGd1SkJpNGR0YTMyM09vcWtuY9IB8wFBVV95cUxQSXNCYTFvdzFtQUc0eXNoVmNqQnQ2Mzhid0ZNdWxrZUllNTJWWDZ4R3NGeTNCQ0VvWDQ0WDNrdDlEbnlUZ18xOGRYWXk3cEpnSFFKNmFpTjVPWEdCSHl3VDFNY25UYlBkcXFoelRCckY2b1JWdWN5UENwdU9GMUFDVVJTd0s1NnZFNzllT2tHcncyQXdJcVFIZWZXRVplVlhiVzJUdnlVVEpuREJLRmE2dFRSeHhOVlpLcmJMejEwR1lCOUlWZUtzeXdvYUxVRzJXcVNndmhjN1FJQXdScHV4N1daQTB1dTdiYTVMeTg5ZkJ4Skk?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "923581bca2a112f8c2e5",
-          "fecha": "2026-11-08T06:25:19+00:00",
-          "titulo": "Au Japon, un séisme de magnitude 5,7 fait plusieurs blessés",
-          "fuente": "Le Monde",
-          "url": "https://www.lemonde.fr/planete/article/2026/11/08/au-japon-un-seisme-de-magnitude-5-7-fait-plusieurs-blesses_6808408_3244.html",
-          "traducida": false
-        },
-        {
-          "id": "227dd4b24b0d1309e237",
-          "fecha": "2026-11-08T06:03:34+00:00",
-          "titulo": "Esha Deol attends Diwali party with ex-husband; Sara Ali Khan, Shilpa Shetty add glam - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSi1rWTlYRTFONXhUd0xwNUVWTXQ3ODBoV1VjOWZxYzkyMm81OEp2elJjNmgzc2JXR3loSkl0enUxeDY3QzFpdHdRZ1k3eE5mZEIxWlFiZzhZS3dxeTFpVFpSa1ZZamdMU1I1RG9nVzlfTUZqdG1lay1yZEFocDBlQld1a25XTGRTM1ZOSU9Xb05Zc1hpM0tvaVlibE5DS0E1VzhLT3VZb3lpdVFLUDZ4TVVkdVB2TFBTdjI0RFYxVnZnZi1TbDVyM1VYcXpBMFhRYzhYdi16SXhTX3pUXzdNRFBRZnd0UdIB7AFBVV95cUxOZ0Jrd0JpdEFEVUhOTkxwbmpIX3czdDExamdsTGxjQWo1WXdOVzN6Rzl3RDFrR3ZGa1BFWUdaczZjeWdCbm9xeXRaUHhSckgzWTlyWjNuSGJBM3hTUmdUWmE2QV9OV21yM3Nhdll4ejk0T3k5di1SV1NfXzN2QndPTWRuNUJXejJsdm1BUHNKc3FQX1phRVVlOE8tWU5QWUh1QjQ4XzQ0ckdDNDB3NUJfaWh5RUIwcFZLZTlwM1l3RmdaX0JlRkd4VTVRX0wyQ0pvVUdYSDFzNHBZSjNfTW9HdlJISm54WVZVZEpBeg?oc=5",
-          "traducida": false
         }
       ]
     },
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 1781,
-      "nuevas_24h": 52,
-      "anteriores_24h": 53,
+      "cantidad_archivada": 1783,
+      "nuevas_24h": 54,
+      "anteriores_24h": 50,
       "dias_con_registros": 24,
-      "fecha_ultima": "2026-11-08T17:04:07+00:00",
+      "fecha_ultima": "2026-11-08T17:24:18+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "370e9ddc433269bc277a",
+          "fecha": "2026-11-08T17:24:18+00:00",
+          "titulo": "Fifty Ukrainian drones taken down over Russian regions during day",
+          "fuente": "TASS",
+          "url": "https://tass.com/defense/2214511",
+          "traducida": false
+        },
+        {
+          "id": "1e9e278214dd0c6c8272",
+          "fecha": "2026-11-08T17:16:39+00:00",
+          "titulo": "EN DIRECT, guerre en Ukraine : les dernières informations",
+          "fuente": "Le Monde",
+          "url": "https://www.lemonde.fr/international/live/2026/11/08/en-direct-guerre-en-ukraine-les-dernieres-informations_6803934_3210.html",
+          "traducida": false
+        },
         {
           "id": "18d28c57e90db3eba7eb",
           "fecha": "2026-11-08T17:04:07+00:00",
@@ -739,22 +755,6 @@
           "fuente": "TASS",
           "url": "https://tass.com/sports/2214407",
           "traducida": false
-        },
-        {
-          "id": "65a9a91e06dbb2cdd11a",
-          "fecha": "2026-11-08T07:00:34+00:00",
-          "titulo": "Will Democrats sway ‘unshackled’ Trump’s Russia-Ukraine stance after midterm rout?",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/world/russia-central-asia/article/3373681/will-democrats-sway-unshackled-trumps-russia-ukraine-stance-after-midterm-rout",
-          "traducida": false
-        },
-        {
-          "id": "3a4998a1e82c39038dfd",
-          "fecha": "2026-11-08T07:00:13+00:00",
-          "titulo": "Le parti d’extrême droite allemand AfD ambitionne d’organiser un sommet entre l’Allemagne, la Russie et les Etats-Unis, mais sans l’Ukraine",
-          "fuente": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/08/le-parti-d-extreme-droite-allemand-afd-ambitionne-d-organiser-un-sommet-entre-l-allemagne-la-russie-et-les-etats-unis-mais-sans-l-ukraine_6808410_3210.html",
-          "traducida": false
         }
       ]
     },
@@ -763,7 +763,7 @@
       "titulo": "Unión Europea y relaciones exteriores",
       "cantidad_archivada": 522,
       "nuevas_24h": 11,
-      "anteriores_24h": 12,
+      "anteriores_24h": 11,
       "dias_con_registros": 24,
       "fecha_ultima": "2026-11-08T17:06:09+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -1013,13 +1013,29 @@
     {
       "id": "suramerica",
       "titulo": "Sudamérica: integración y política exterior",
-      "cantidad_archivada": 287,
-      "nuevas_24h": 5,
+      "cantidad_archivada": 289,
+      "nuevas_24h": 7,
       "anteriores_24h": 7,
       "dias_con_registros": 24,
-      "fecha_ultima": "2026-11-08T14:02:35+00:00",
+      "fecha_ultima": "2026-11-08T17:53:30+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "e1a388ac632794386383",
+          "fecha": "2026-11-08T17:53:30+00:00",
+          "titulo": "Pope Leo leaves Uruguay and heads to most fraught stop of his tour in Milei’s Argentina",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/americas/article/3373717/pope-leo-leaves-uruguay-and-heads-most-fraught-stop-his-tour-mileis-argentina",
+          "traducida": false
+        },
+        {
+          "id": "b2fdfd816197fccc7955",
+          "fecha": "2026-11-08T17:52:18+00:00",
+          "titulo": "Overcrowded car plunges into lake in Brazil, killing ten, including five children",
+          "fuente": "Euronews",
+          "url": "https://www.euronews.com/2026/11/08/overcrowded-car-plunges-into-lake-in-brazil-killing-ten-including-five-children",
+          "traducida": false
+        },
         {
           "id": "f813389e9bfad7c5de14",
           "fecha": "2026-11-08T14:02:35+00:00",
@@ -1242,22 +1258,6 @@
           "titulo": "Eleições nos EUA têm vitórias históricas de minorias sub-representadas",
           "fuente": "Agência Brasil (EBC)",
           "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/eleicoes-nos-eua-tem-vitorias-historicas-de-minorias-sub-representadas",
-          "traducida": false
-        },
-        {
-          "id": "f376407bbc88e9d0fc59",
-          "fecha": "2026-11-04T17:32:03+00:00",
-          "titulo": "El Rey inaugura la XXX Cumbre Iberoamericana en Madrid",
-          "fuente": "El País",
-          "url": "https://elpais.com/espana/2026-11-04/el-rey-inaugura-la-primera-jornada-de-la-xxx-cumbre-iberoamericana-en-madrid.html",
-          "traducida": false
-        },
-        {
-          "id": "bd42de26fb1f1bcf4fd1",
-          "fecha": "2026-11-04T17:30:13+00:00",
-          "titulo": "Brazil: Santa Claus School celebrates graduation at Christ the Redeemer",
-          "fuente": "Euronews",
-          "url": "https://www.euronews.com/video/2026/11/04/brazil-santa-claus-school-celebrates-graduation-at-christ-the-redeemer",
           "traducida": false
         }
       ]

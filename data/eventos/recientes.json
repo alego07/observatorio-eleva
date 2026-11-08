@@ -1,6 +1,81 @@
 {
-  "created_utc": "2026-11-08T17:17:07.743884+00:00",
+  "created_utc": "2026-11-08T18:03:44.679957+00:00",
   "events": [
+    {
+      "id": "a-23c8de50cf6d37b7b898",
+      "fecha": "2026-11-08",
+      "titulo_fuente": "Iran executes 3 more men over January protests, judiciary says",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos",
+        "Migración y DD. HH."
+      ],
+      "noticias": [
+        {
+          "id": "23c8de50cf6d37b7b898",
+          "titulo_original": "Iran executes 3 more men over January protests, judiciary says",
+          "titulo_es": "Irán ejecuta 3 hombres más durante las protestas de enero, dice el poder judicial",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3373716/iran-executes-3-more-men-over-january-protests-judiciary-says",
+          "fuente": "South China Morning Post",
+          "pais": "Hong Kong",
+          "fecha": "2026-11-08T17:06:47+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Iranian authorities executed three men on Sunday on charges linked to January 2026 protests, the judiciary said, after what rights groups described as an unfair trial. Norway-based Iran Human Rights (IHR) said the hangings at dawn of Hassan Divband, Hamid Kazemi and Reza Zanganeh in the city of Karaj outside Tehran brought the number of men hanged over the January protests to at least 39 and warned many more were at risk. The judiciary’s Mizan ne",
+          "resumen_es": "Las autoridades iraníes ejecutaron a tres hombres el domingo por cargos relacionados con las protestas del 2026 de enero, dijo el poder judicial, después de lo que los grupos de derechos descritos como un juicio injusto. Los derechos humanos del Irán (IHR) con sede en Noruega dijeron que las cortinas al amanecer de Hassan"
+        },
+        {
+          "id": "659206a1382c32348f65",
+          "titulo_original": "Iran executes three men for 'armed unrest' after January protests",
+          "titulo_es": "",
+          "url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-08T13:37:50+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
+          "resumen_es": ""
+        },
+        {
+          "id": "53689b1e531e7ae33bac",
+          "titulo_original": "Iran executes three men over armed unrest during January protests",
+          "titulo_es": "",
+          "url": "https://www.thehindu.com/news/international/iran-executes-three-men-over-armed-unrest-during-january-protests/article71680580.ece",
+          "fuente": "The Hindu",
+          "pais": "India",
+          "fecha": "2026-11-08T05:52:10+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The executions are the latest in a ‌series Iran has carried out ‌in ⁠recent months over the January ⁠protests, including of people accused of links to Israel and the U.S.",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "BBC News",
+        "South China Morning Post",
+        "The Hindu"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Irán",
+        "Israel"
+      ],
+      "fuentes_independientes": 3,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 8,
+      "motivos_seleccion": [
+        "Cobertura de fuentes distintas",
+        "Actores relevantes: Estados Unidos, Irán, Israel",
+        "Ámbito: Migración y DD. HH., Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
     {
       "id": "a-0efb1de2f2dc092fc319",
       "fecha": "2026-11-08",
@@ -125,68 +200,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-23c8de50cf6d37b7b898",
-      "fecha": "2026-11-08",
-      "titulo_fuente": "Iran executes 3 more men over January protests, judiciary says",
-      "region": "Oriente Medio",
-      "temas": [
-        "Seguridad y conflictos",
-        "Migración y DD. HH."
-      ],
-      "noticias": [
-        {
-          "id": "23c8de50cf6d37b7b898",
-          "titulo_original": "Iran executes 3 more men over January protests, judiciary says",
-          "titulo_es": "Irán ejecuta 3 hombres más durante las protestas de enero, dice el poder judicial",
-          "url": "https://www.scmp.com/news/world/middle-east/article/3373716/iran-executes-3-more-men-over-january-protests-judiciary-says",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-11-08T17:06:47+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Iranian authorities executed three men on Sunday on charges linked to January 2026 protests, the judiciary said, after what rights groups described as an unfair trial. Norway-based Iran Human Rights (IHR) said the hangings at dawn of Hassan Divband, Hamid Kazemi and Reza Zanganeh in the city of Karaj outside Tehran brought the number of men hanged over the January protests to at least 39 and warned many more were at risk. The judiciary’s Mizan ne",
-          "resumen_es": "Las autoridades iraníes ejecutaron a tres hombres el domingo por cargos relacionados con las protestas del 2026 de enero, dijo el poder judicial, después de lo que los grupos de derechos descritos como un juicio injusto. Los derechos humanos del Irán (IHR) con sede en Noruega dijeron que las cortinas al amanecer de Hassan"
-        },
-        {
-          "id": "53689b1e531e7ae33bac",
-          "titulo_original": "Iran executes three men over armed unrest during January protests",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/news/international/iran-executes-three-men-over-armed-unrest-during-january-protests/article71680580.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-11-08T05:52:10+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The executions are the latest in a ‌series Iran has carried out ‌in ⁠recent months over the January ⁠protests, including of people accused of links to Israel and the U.S.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "South China Morning Post",
-        "The Hindu"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "Irán",
-        "Israel"
-      ],
-      "fuentes_independientes": 2,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 7,
-      "motivos_seleccion": [
-        "Cobertura de fuentes distintas",
-        "Actores relevantes: Estados Unidos, Irán, Israel",
-        "Ámbito: Migración y DD. HH., Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-4e09dd6d44b79814e79e",
       "fecha": "2026-11-08",
       "titulo_fuente": "US military attacks cargo ship in the Gulf of Oman",
@@ -240,6 +253,52 @@
       "prioridad_orientativa": 7,
       "motivos_seleccion": [
         "Cobertura de fuentes distintas",
+        "Actores relevantes: Estados Unidos, Irán",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-2f290e2680f8db1e4496",
+      "fecha": "2026-11-08",
+      "titulo_fuente": "Trump says renewed attacks on Iran “highly unlikely” if talks show progress - CNN",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "2f290e2680f8db1e4496",
+          "titulo_original": "Trump says renewed attacks on Iran “highly unlikely” if talks show progress - CNN",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRcFFDS2FTak9Bd3ZyWUJkVUh4NDdfamp4bDNDd1A1NXpleGxxeFFTRmhsV3IyZE56R19qLVVRYmhNSFZISXpjaEhwYmJHeE1YTzlJVFRDdmJYbHczRnozVjUyYWttNkxyMThCMGJrNW0?oc=5",
+          "fuente": "CNN",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-08T17:28:27+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Trump says renewed attacks on Iran “highly unlikely” if talks show progress CNN",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "CNN"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Irán"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
         "Actores relevantes: Estados Unidos, Irán",
         "Ámbito: Seguridad y conflictos"
       ],
@@ -1019,52 +1078,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-383d5d1451999f03e0f0",
-      "fecha": "2026-11-08",
-      "titulo_fuente": "Air defenses down 142 Ukrainian drones over Russian regions overnight",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "383d5d1451999f03e0f0",
-          "titulo_original": "Air defenses down 142 Ukrainian drones over Russian regions overnight",
-          "titulo_es": "",
-          "url": "https://tass.com/defense/2214401",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-08T06:02:57+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Air defense capabilities intercepted and destroyed drones over the territories of the Belgorod, Bryansk, Kaluga, Kursk, Tula, Oryol, Voronezh, Rostov, Moscow Regions, the Republic of Crimea, and the waters of the Sea of Azov",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia",
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia, Ucrania",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-a556964f40bda9031f4a",
       "fecha": "2026-11-08",
       "titulo_fuente": "Russian Armed Forces hit container ship carrying military cargo southwest of Odessa",
@@ -1436,52 +1449,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-082aa9ac915444e4fc36",
-      "fecha": "2026-11-07",
-      "titulo_fuente": "US offers $20m reward for information about Iran's nuclear programme",
-      "region": "Oriente Medio",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "082aa9ac915444e4fc36",
-          "titulo_original": "US offers $20m reward for information about Iran's nuclear programme",
-          "titulo_es": "EE.UU. ofrece una recompensa de 20 m por información sobre el programa nuclear de Irán",
-          "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-07T18:14:38+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
-          "resumen_es": "Donald Trump ha planteado repetidamente la perspectiva de renovar huelgas contra las instalaciones nucleares de Irán."
-        }
-      ],
-      "fuentes": [
-        "BBC News"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "Irán"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos, Irán",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-a180d342978a60dd169d",
       "fecha": "2026-11-08",
       "titulo_fuente": "Messi becomes first-ever player to win back-to-back MLS Golden Boot awards - The Indian Express",
@@ -1713,6 +1680,335 @@
         "Cobertura de fuentes distintas",
         "Actores relevantes: Estados Unidos",
         "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-aaa9539f55510ac6207b",
+      "fecha": "2026-11-08",
+      "titulo_fuente": "Trump set to lurch further right, claiming US took ‘giant step back’ in elections",
+      "region": "Estados Unidos",
+      "temas": [
+        "Migración y DD. HH."
+      ],
+      "noticias": [
+        {
+          "id": "aaa9539f55510ac6207b",
+          "titulo_original": "Trump set to lurch further right, claiming US took ‘giant step back’ in elections",
+          "titulo_es": "Trump se puso a lurch más a la derecha, afirmando que EE.UU. dio un paso adelante en las elecciones",
+          "url": "https://www.theguardian.com/us-news/2026/nov/08/trump-midterm-elections-loss-democrats-immigration",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-08T17:58:43+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Trump poised to double down on immigration crackdown and refuse concessions to new Democratic majority in Congress Donald Trump set the stage for his administration to lurch further to the right this weekend, claiming the US had taken a “giant step back” by widely rejecting his party. The US president’s hardline aide, Stephen Miller, will begin as White House chief of staff on Monday. He will also meet with Dana White, CEO and president of the Ul",
+          "resumen_es": "Trump llegó a duplicarse con las concesiones de inmigración y rechazar las concesiones a la nueva mayoría democrática en el Congreso Donald Trump puso el escenario para que su administración se alargue más a la derecha este fin de semana, afirmando que Estados Unidos había tomado un \"gi"
+        }
+      ],
+      "fuentes": [
+        "The Guardian"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Derecho internacional y constructivismo",
+        "pregunta": "¿Qué normas, identidades y obligaciones internacionales invocan los actores?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos",
+        "Ámbito: Migración y DD. HH."
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-0710a39b76016560aad8",
+      "fecha": "2026-11-08",
+      "titulo_fuente": "Gadi Eisenkot reaches out to Netanyahu allies as he strives to form government",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "0710a39b76016560aad8",
+          "titulo_original": "Gadi Eisenkot reaches out to Netanyahu allies as he strives to form government",
+          "titulo_es": "Gadi Eisenkot llega a los aliados de Netanyahu mientras se esfuerza por formar gobierno",
+          "url": "https://www.theguardian.com/world/2026/nov/08/gadi-eisenkot-netanyahu-allies-form-israel-government",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-08T17:53:59+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Former military chief says prime minister brought Israel to historic crisis and it is approaching ‘point of no return’ Israel’s former military chief Gadi Eisenkot started the tough task of forming a government on Sunday, reaching out to Benjamin Netanyahu’s allies as he said the veteran prime minister had brought the country to a historic crisis. Eisenkot, 66, the leader of the Yashar party, who has vowed to bridge Israel’s deep polarisation und",
+          "resumen_es": "El ex jefe militar dice que el primer ministro trajo a Israel a la crisis histórica y se acerca \"punto de no retorno\" El ex jefe militar de Israel Gadi Eisenkot comenzó la difícil tarea de formar un gobierno el domingo, llegando a Ser"
+        }
+      ],
+      "fuentes": [
+        "The Guardian"
+      ],
+      "actores_mencionados": [
+        "Israel"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Israel",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-f558f7910766d815ff43",
+      "fecha": "2026-11-08",
+      "titulo_fuente": "Tens of thousands march in Amsterdam, pressing Dutch government on Gaza, Israel",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos",
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "f558f7910766d815ff43",
+          "titulo_original": "Tens of thousands march in Amsterdam, pressing Dutch government on Gaza, Israel",
+          "titulo_es": "Decenas de miles de personas marchan en Amsterdam, presionando al gobierno holandés sobre Gaza, Israel",
+          "url": "https://www.thehindu.com/news/international/tens-of-thousands-march-in-amsterdam-pressing-dutch-government-on-gaza-israel/article71681124.ece",
+          "fuente": "The Hindu",
+          "pais": "India",
+          "fecha": "2026-11-08T17:49:19+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Organisers of the “Red Line” demonstration called for stricter trade sanctions, a halt to arms sales, and an official declaration that Israel’s actions in Gaza amount to genocide",
+          "resumen_es": "Los organizadores de la manifestación “Red Line” pidieron sanciones comerciales más estrictas, un alto a las ventas de armas y una declaración oficial de que las acciones de Israel en Gaza equivalen al genocidio"
+        }
+      ],
+      "fuentes": [
+        "The Hindu"
+      ],
+      "actores_mencionados": [
+        "Israel",
+        "Palestina"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Israel",
+        "Ámbito: Comercio y finanzas, Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-3a163a2d2a09f1bc2641",
+      "fecha": "2026-11-08",
+      "titulo_fuente": "Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel",
+      "region": "Oriente Medio",
+      "temas": [
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "3a163a2d2a09f1bc2641",
+          "titulo_original": "Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel",
+          "titulo_es": "Cientos de miles se unen a la protesta de Amsterdam ‘Red Line’ contra Israel",
+          "url": "https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-08T17:44:51+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Protesters seek stricter trade restrictions on Israel and a halt to all arms sales.",
+          "resumen_es": "Los manifestantes buscan restricciones comerciales más estrictas sobre Israel y detener todas las ventas de armas."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [
+        "Israel"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia compleja y economía política internacional",
+        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Israel",
+        "Ámbito: Comercio y finanzas"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-6554f9e6adf17b520ea6",
+      "fecha": "2026-11-08",
+      "titulo_fuente": "Democrats eye Musk, Miller probes after midterm rout",
+      "region": "Estados Unidos",
+      "temas": [
+        "Migración y DD. HH."
+      ],
+      "noticias": [
+        {
+          "id": "6554f9e6adf17b520ea6",
+          "titulo_original": "Democrats eye Musk, Miller probes after midterm rout",
+          "titulo_es": "Demócratas de ojo Musk, Miller sondas después de la routa de mitad de período",
+          "url": "https://www.thehindu.com/news/international/democrats-eye-musk-miller-probes-after-midterm-rout/article71681171.ece",
+          "fuente": "The Hindu",
+          "pais": "India",
+          "fecha": "2026-11-08T17:42:01+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "California Representative Robert Garcia ‌said investigations will focus on Musk's involvement in the Department of Government Efficiency's firing of federal workers last year, and Miller's role in Trump's ‌hardline immigration crackdown",
+          "resumen_es": "El representante de California, Robert García, dijo que las investigaciones se centrarán en la participación de Musk en el despido de trabajadores federales del Departamento de Eficiencia del Gobierno el año pasado, y el papel de Miller en la represión de la inmigración de Trump"
+        }
+      ],
+      "fuentes": [
+        "The Hindu"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Derecho internacional y constructivismo",
+        "pregunta": "¿Qué normas, identidades y obligaciones internacionales invocan los actores?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos",
+        "Ámbito: Migración y DD. HH."
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-17a12a352cd711c5a233",
+      "fecha": "2026-11-08",
+      "titulo_fuente": "Eisenkot warns of Israel crisis as he seeks to replace Netanyahu’s government",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "17a12a352cd711c5a233",
+          "titulo_original": "Eisenkot warns of Israel crisis as he seeks to replace Netanyahu’s government",
+          "titulo_es": "Eisenkot advierte de la crisis de Israel mientras busca reemplazar al gobierno de Netanyahu",
+          "url": "https://www.thehindu.com/news/international/eisenkot-warns-of-israel-crisis-as-he-seeks-to-replace-netanyahus-government/article71681159.ece",
+          "fuente": "The Hindu",
+          "pais": "India",
+          "fecha": "2026-11-08T17:31:58+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "isenkot, 66, a political novice who has vowed to bridge Israel's deep polarisation under Netanyahu, formally received a mandate from President Isaac Herzog, giving him 28 days to form a government despite his bloc lacking a clear majority",
+          "resumen_es": "isenkot, 66, a political novice who has pledgeed to bridge Israel's deep polarisation under Netanyahu, formally received a mandate from President Isaac Herzog, giving him 28 days to form a government despite his bloc lacking a clear majority"
+        }
+      ],
+      "fuentes": [
+        "The Hindu"
+      ],
+      "actores_mencionados": [
+        "Israel"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Israel",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-370e9ddc433269bc277a",
+      "fecha": "2026-11-08",
+      "titulo_fuente": "Fifty Ukrainian drones taken down over Russian regions during day",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "370e9ddc433269bc277a",
+          "titulo_original": "Fifty Ukrainian drones taken down over Russian regions during day",
+          "titulo_es": "Cincuenta drones ucranianos derribaron las regiones rusas durante el día",
+          "url": "https://tass.com/defense/2214511",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-08T17:24:18+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "They were shot down over Crimea, the Belgorod, Bryansk, Kursk, and Rostov Regions",
+          "resumen_es": "They were shot down over Crimea, the Belgorod, Bryansk, Kursk, and Rostov Regions"
+        },
+        {
+          "id": "383d5d1451999f03e0f0",
+          "titulo_original": "Air defenses down 142 Ukrainian drones over Russian regions overnight",
+          "titulo_es": "",
+          "url": "https://tass.com/defense/2214401",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-08T06:02:57+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Air defense capabilities intercepted and destroyed drones over the territories of the Belgorod, Bryansk, Kaluga, Kursk, Tula, Oryol, Voronezh, Rostov, Moscow Regions, the Republic of Crimea, and the waters of the Sea of Azov",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Rusia",
+        "Ucrania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia, Ucrania"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -3863,97 +4159,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-2ce08d0b7b5658976bea",
-      "fecha": "2026-11-07",
-      "titulo_fuente": "Armenia's selective prosecution: A threat to EU relations?",
-      "region": "Internacional",
-      "temas": [
-        "Diplomacia",
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "2ce08d0b7b5658976bea",
-          "titulo_original": "Armenia's selective prosecution: A threat to EU relations?",
-          "titulo_es": "La fiscalía selectiva de Armenia: ¿Una amenaza para las relaciones de la UE?",
-          "url": "https://www.dw.com/en/armenia-s-selective-prosecution-a-threat-to-eu-relations/a-79878159?maca=en-rss-en-world-4025-rdf",
-          "fuente": "Deutsche Welle",
-          "pais": "Alemania",
-          "fecha": "2026-11-07T18:36:00+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "While Brussels has refrained from harsh criticism, Armenian civil society has warned of selective justice against opposition figures. Could the EU's pragmatic stance risk repeating past mistakes?",
-          "resumen_es": "Aunque Bruselas se ha abstenido de duras críticas, la sociedad civil armenia ha advertido de justicia selectiva contra figuras de oposición. ¿Podría el riesgo pragmático de la UE de repetir errores pasados?"
-        }
-      ],
-      "fuentes": [
-        "Deutsche Welle"
-      ],
-      "actores_mencionados": [
-        "Unión Europea"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Unión Europea",
-        "Ámbito: Diplomacia, Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-04e96eb72cb0a59373e7",
-      "fecha": "2026-11-07",
-      "titulo_fuente": "Russian military satellite delivered into target orbit — Defense Ministry",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "04e96eb72cb0a59373e7",
-          "titulo_original": "Russian military satellite delivered into target orbit — Defense Ministry",
-          "titulo_es": "Satélite militar ruso entregado en órbita dirigida - Ministerio de Defensa",
-          "url": "https://tass.com/science/2214297",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-07T18:14:20+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "After liftoff, the Soyuz-2.1b carrier rocket was tracked by the ground-based automated control system of the Titov Main Test Space Center",
-          "resumen_es": "Después del despegue, el cohete portador Soyuz-2.1b fue rastreado por el sistema de control automatizado terrestre del Centro Espacial de Pruebas Principales de Titov"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-f12240dfccf568c1a1e7",
       "fecha": "2026-11-08",
       "titulo_fuente": "Plane crashes into pickup truck during emergency landing in Florida",
@@ -4349,6 +4554,182 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-ab53b4ef3d50f63c4f74",
+      "fecha": "2026-11-08",
+      "titulo_fuente": "El-Sayed says he is ‘happy’ to work with Trump on Medicare for all, other priorities - Politico",
+      "region": "Estados Unidos",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "ab53b4ef3d50f63c4f74",
+          "titulo_original": "El-Sayed says he is ‘happy’ to work with Trump on Medicare for all, other priorities - Politico",
+          "titulo_es": "El-Sayed dice que es \"feliz\" trabajar con Trump en Medicare para todos, otras prioridades - Politico",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNU0x3alZKcXJjaG05aTlSNHhvajlZOS1sUndWMXJEVFltaGxvNnNKdlI4amhIMktlZjhtY3ZEc3ZSeFhZUlJSdkY2enc4eEU0M0Zab1ZBbzMxY0VYR3pZLWNpTGU5QnFJNXpicmMwR1U2VlJ0ZmNvM19obmNSaHlydDJ5SzcxajNyTUc0?oc=5",
+          "fuente": "POLITICO US",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-08T17:55:00+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "El-Sayed says he is ‘happy’ to work with Trump on Medicare for all, other priorities Politico",
+          "resumen_es": "El-Sayed dice que es \"feliz\" trabajar con Trump en Medicare para todos, otras prioridades Politico"
+        }
+      ],
+      "fuentes": [
+        "POLITICO US"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-b2fdfd816197fccc7955",
+      "fecha": "2026-11-08",
+      "titulo_fuente": "Overcrowded car plunges into lake in Brazil, killing ten, including five children",
+      "region": "América Latina",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "b2fdfd816197fccc7955",
+          "titulo_original": "Overcrowded car plunges into lake in Brazil, killing ten, including five children",
+          "titulo_es": "El coche sobrepoblado se hunde en el lago en Brasil, matando a diez, incluyendo cinco niños",
+          "url": "https://www.euronews.com/2026/11/08/overcrowded-car-plunges-into-lake-in-brazil-killing-ten-including-five-children",
+          "fuente": "Euronews",
+          "pais": "Unión Europea",
+          "fecha": "2026-11-08T17:52:18+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The Rio de Janeiro government confirmed ten dead, including five children. Brazilian media say a baby was among the victims.",
+          "resumen_es": "El gobierno de Río de Janeiro confirmó diez muertos, incluyendo cinco niños. Los medios brasileños dicen que un bebé estaba entre las víctimas."
+        }
+      ],
+      "fuentes": [
+        "Euronews"
+      ],
+      "actores_mencionados": [
+        "Brasil"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Brasil"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-1e9e278214dd0c6c8272",
+      "fecha": "2026-11-08",
+      "titulo_fuente": "EN DIRECT, guerre en Ukraine : les dernières informations",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "1e9e278214dd0c6c8272",
+          "titulo_original": "EN DIRECT, guerre en Ukraine : les dernières informations",
+          "titulo_es": "",
+          "url": "https://www.lemonde.fr/international/live/2026/11/08/en-direct-guerre-en-ukraine-les-dernieres-informations_6803934_3210.html",
+          "fuente": "Le Monde",
+          "pais": "Francia",
+          "fecha": "2026-11-08T17:16:39+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Une attaque russe, cette nuit, contre les infrastructures énergétiques ukrainiennes prive d’électricité plus de 600 000 habitants de l’oblast de Dnipropetrovsk, dans l’est de l’Ukraine.",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "Le Monde"
+      ],
+      "actores_mencionados": [
+        "Ucrania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Ucrania"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-96d04fc8300d51d6ff38",
+      "fecha": "2026-11-08",
+      "titulo_fuente": "Jerusalem Daily: Eisenkot picked over Netanyahu to form government",
+      "region": "Oriente Medio",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "96d04fc8300d51d6ff38",
+          "titulo_original": "Jerusalem Daily: Eisenkot picked over Netanyahu to form government",
+          "titulo_es": "Jerusalem Daily: Eisenkot escogió a Netanyahu para formar gobierno",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/dnrbltn-261108-hegazyn-jerusalem_daily-081126?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-08T17:11:52+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Israel's president picks Gadi Eisenkot to form the next government, passing over Benjamin Netanyahu.",
+          "resumen_es": "El presidente de Israel elige a Gadi Eisenkot para formar el próximo gobierno, pasando por Benjamin Netanyahu."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [
+        "Israel"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Israel"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-3af496fa46fb024f73b3",
       "fecha": "2026-11-08",
       "titulo_fuente": "Erdoğan joins Aliyev for Azerbaijan’s Victory Day in Karabakh",
@@ -4432,6 +4813,94 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-9a5f12381671b80d5545",
+      "fecha": "2026-11-08",
+      "titulo_fuente": "Photos: Diwali celebrations light up India and its global diaspora",
+      "region": "Asia-Pacífico",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "9a5f12381671b80d5545",
+          "titulo_original": "Photos: Diwali celebrations light up India and its global diaspora",
+          "titulo_es": "Fotos: Diwali celebraciones iluminan la India y su diáspora global",
+          "url": "https://www.aljazeera.com/gallery/2026/11/8/photos-diwali-celebrations-light-up-india-and-its-global-diaspora?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-08T17:03:14+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Celebrations feature fireworks, prayers, reunions, rangoli designs, feasting, and the sharing of sweets and gifts.",
+          "resumen_es": "Las celebraciones cuentan con fuegos artificiales, oraciones, reuniones, diseños de rangoli, festividad y compartir dulces y regalos."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [
+        "India"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: India"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-954fe16017fe8a6452e4",
+      "fecha": "2026-11-08",
+      "titulo_fuente": "India’s ‘cockroach’ movement seeks to restore culture of accountability",
+      "region": "Asia-Pacífico",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "954fe16017fe8a6452e4",
+          "titulo_original": "India’s ‘cockroach’ movement seeks to restore culture of accountability",
+          "titulo_es": "El movimiento de la “cockroach” de la India busca restaurar la cultura de la rendición de cuentas",
+          "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/8/indias-cockroach-movement-seeks-to-restore-culture-of-accountability?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-08T16:59:31+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "India's Cockroach Janta Party is a youth movement demanding political accountability, employment and fair elections.",
+          "resumen_es": "El Partido Cockroach Janta de la India es un movimiento juvenil que exige responsabilidad política, empleo y elecciones justas."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [
+        "India"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: India"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6048,6 +6517,50 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-1ebc81a90d4863fd28e9",
+      "fecha": "2026-11-08",
+      "titulo_fuente": "‘Drove his sister out of home… she went to jail for party’: Telangana CM Revanth Reddy slams KTR - The Indian Express",
+      "region": "Asia-Pacífico",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "1ebc81a90d4863fd28e9",
+          "titulo_original": "‘Drove his sister out of home… she went to jail for party’: Telangana CM Revanth Reddy slams KTR - The Indian Express",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVVFNSkIxYUNsbkVVS1NHSG9CZ01VSHF1b3VBLUltT2w0emVNYVNhVjdXaWhyNWRFX2hQMlFBX0NKZUpsUEY2eVdLR1VHRk50dnhxN3Jvcm5SX0hWZE9iYjhsbTAyRVNFY3pSZ2R0czI4MTNaaUpYNV9rOEpoSTRoWjl6LXpIUWFwamVORlFhdGZmUGV6VG40VFllNGNKaGQ2NFh0Z3lkeXHSAa8BQVVfeXFMT2VaWUphcXF1LXdBeWdDYlQ2Nm5FV3J6NTQyV2RjQjRIZGJUbFp5MkNPeUFaZFRWanpmUF9ZZW52YUNKSlZIVU80YkNPdURveTdPV1B2aWE1U3dBeS1oZzMwNER1d0RsQWNQRFpPd200aTZyZW1UMEhIZXNsa3ppdERFdGNhdVdlSVN2T1JiQ3JzY1NLMTBFVnBXRzNQWktsZmxCeDQxcFNZYUszQk9DSQ?oc=5",
+          "fuente": "The Indian Express",
+          "pais": "India",
+          "fecha": "2026-11-08T13:29:11+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "‘Drove his sister out of home… she went to jail for party’: Telangana CM Revanth Reddy slams KTR The Indian Express",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "The Indian Express"
+      ],
+      "actores_mencionados": [
+        "India"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: India"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-45bf1bd7befd01a3412d",
       "fecha": "2026-11-08",
       "titulo_fuente": "Egypt’s reopening of its embassy in Tripoli signals regional shift on Libya",
@@ -6561,485 +7074,6 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Actores relevantes: China"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-a2b2ec4e3be01c544814",
-      "fecha": "2026-11-08",
-      "titulo_fuente": "China’s focus on getting its house in order offers lessons in governance",
-      "region": "China",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "a2b2ec4e3be01c544814",
-          "titulo_original": "China’s focus on getting its house in order offers lessons in governance",
-          "titulo_es": "",
-          "url": "https://www.scmp.com/opinion/china-opinion/article/3373416/chinas-focus-getting-its-house-order-offers-lessons-governance",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-11-08T12:30:11+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The Communist Party’s call for “self-revolution” may be rooted in the pursuit of internal discipline, but its implications extend well beyond China. As the global order faces mounting challenges, Beijing’s emphasis on internal renewal raises a fundamental question: can countries hope to contribute to global stability without first putting their own houses in order? China’s fifth plenum placed considerable emphasis on combating corruption. Beijing",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "South China Morning Post"
-      ],
-      "actores_mencionados": [
-        "China"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: China"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-972ee0f14c12581a4a37",
-      "fecha": "2026-11-08",
-      "titulo_fuente": "Desalojados los primeros campamentos de atención a migrantes en Ceuta",
-      "region": "Internacional",
-      "temas": [
-        "Migración y DD. HH."
-      ],
-      "noticias": [
-        {
-          "id": "972ee0f14c12581a4a37",
-          "titulo_original": "Desalojados los primeros campamentos de atención a migrantes en Ceuta",
-          "titulo_es": "",
-          "url": "https://elpais.com/espana/2026-11-08/el-gobierno-inicia-el-desmantelamiento-de-los-campamentos-de-acogida-de-migrantes-de-ceuta-con-el-desalojo-de-50-carpas-del-puerto.html",
-          "fuente": "El País",
-          "pais": "España",
-          "fecha": "2026-11-08T12:29:18+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "El Gobierno desmantela 50 carpas y traslada a los extranjeros a un centro de acogida temporal. Algunos migrantes han optado por regresar a Marruecos",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "El País"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Derecho internacional y constructivismo",
-        "pregunta": "¿Qué normas, identidades y obligaciones internacionales invocan los actores?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Migración y DD. HH."
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-3b97846150418bb52588",
-      "fecha": "2026-11-08",
-      "titulo_fuente": "Egypt announces new Mediterranean gas field discovery estimated at 200 billion cubic feet",
-      "region": "Perú",
-      "temas": [
-        "Comercio y finanzas",
-        "Energía y clima"
-      ],
-      "noticias": [
-        {
-          "id": "3b97846150418bb52588",
-          "titulo_original": "Egypt announces new Mediterranean gas field discovery estimated at 200 billion cubic feet",
-          "titulo_es": "Egipto anuncia nuevo descubrimiento del campo de gas mediterráneo estimado en 200 mil millones de pies cúbicos",
-          "url": "https://www.euronews.com/2026/11/08/egypt-announces-new-mediterranean-gas-field-discovery-estimated-at-200-billion-cubic-feet",
-          "fuente": "Euronews",
-          "pais": "Unión Europea",
-          "fecha": "2026-11-08T12:23:43+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The Ministry of Petroleum attributed the positive results to higher investment and exploration activity, noting a better investment climate and progress in settling overdue payments to foreign companies in the energy sector.",
-          "resumen_es": "The Ministry of Petroleum attributed the positive results to higher investment and exploration activity, noting a better investment climate and progress in settling overdue payments to foreign companies in the energy sector."
-        }
-      ],
-      "fuentes": [
-        "Euronews"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia compleja y economía política internacional",
-        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Comercio y finanzas, Energía y clima"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-2d60eaca7d13a7ebed6b",
-      "fecha": "2026-11-08",
-      "titulo_fuente": "Última hora de la actualidad política, en directo | Sánchez se compromete a blindar la revalorización de las pensiones conforme al IPC en la Constitución",
-      "region": "Estados Unidos",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "2d60eaca7d13a7ebed6b",
-          "titulo_original": "Última hora de la actualidad política, en directo | Sánchez se compromete a blindar la revalorización de las pensiones conforme al IPC en la Constitución",
-          "titulo_es": "",
-          "url": "https://elpais.com/espana/2026-11-08/ultima-hora-de-la-actualidad-politica-en-directo.html",
-          "fuente": "El País",
-          "pais": "España",
-          "fecha": "2026-11-08T12:21:51+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "“Se lo vamos a exigir a todos los grupos parlamentarios”, ha dicho el presidente del Gobierno y candidato socialista a la reelección en un mitin en Bilbao | Feijóo: “Menos mirar a Trump y más mirar los trenes, que este país está colapsado” | Rufián: “La izquierda no puede robar”",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "El País"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-a019584109c5c96ab033",
-      "fecha": "2026-11-08",
-      "titulo_fuente": "Three tankers explode in Strait of Hormuz on Sunday — IRGC",
-      "region": "Internacional",
-      "temas": [
-        "Diplomacia",
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "a019584109c5c96ab033",
-          "titulo_original": "Three tankers explode in Strait of Hormuz on Sunday — IRGC",
-          "titulo_es": "Tres tanques explotan en el estrecho de Hormuz el domingo — IRGC",
-          "url": "https://tass.com/world/2214457",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-08T12:09:27+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The incidents occurred as the tankers had disabled their navigation and identification systems, as well as due to the actions of the US military, according to the public relations department of the Navy of the Islamic Revolutionary Guard Corps report",
-          "resumen_es": "Los incidentes ocurrieron ya que los tanques habían desactivado sus sistemas de navegación e identificación, así como debido a las acciones del ejército estadounidense, según el departamento de relaciones públicas de la Marina de la Guardia Revolucionaria Islámica Co"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Diplomacia, Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-4e6c4dbc2abf737a9548",
-      "fecha": "2026-11-08",
-      "titulo_fuente": "How Canada Inflicted Maximum Midterms Pain on Trump - Politico",
-      "region": "Estados Unidos",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "4e6c4dbc2abf737a9548",
-          "titulo_original": "How Canada Inflicted Maximum Midterms Pain on Trump - Politico",
-          "titulo_es": "Cómo Canadá inflicó el dolor máximo de los períodos intermedios en Trump - Politico",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeXJXbDVQZnhtc1Vva2NDUTB3VHotRDFjUzk4QzZIX3pqYU1hdDhKYklUZDJDM2xYU3hqMXZMRlphQXo1dXYyTGZIaGYtNWpYMFg1a25PQTA0UzhES2ZQRERLRFNId1RhRE5lVXJYSFA3V1pKaEJvSXFXYmMwaUFuRENBRjd3NFBKWG9CTmxxd3JqbkNHUkhOUVNmb0hqcFVURUE?oc=5",
-          "fuente": "POLITICO US",
-          "pais": "Estados Unidos",
-          "fecha": "2026-11-08T12:00:00+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "How Canada Inflicted Maximum Midterms Pain on Trump Politico",
-          "resumen_es": "Cómo Canadá inflicó el dolor máximo a mitad de período en Trump político"
-        }
-      ],
-      "fuentes": [
-        "POLITICO US"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-6c74e422fb0c493e4e87",
-      "fecha": "2026-11-08",
-      "titulo_fuente": "AIPAC Built a Super PAC to Protect the Israel Consensus. This Election Helped End It. - Politico",
-      "region": "Oriente Medio",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "6c74e422fb0c493e4e87",
-          "titulo_original": "AIPAC Built a Super PAC to Protect the Israel Consensus. This Election Helped End It. - Politico",
-          "titulo_es": "AIPAC Construyó un Super PAC para proteger el consenso de Israel. Esta elección ayudó a terminarla.",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWVo5elgzQmRGcG9oRWdUa1A4bi1ydENQSG1nbGFXWUFDaEg5ZktYVERpUFFtMnBpMFFZUzJ5VVBpZlFwWU1rVXlYcU9memNtN1NIdTkzX3BaTVk1NEYxclVITExRa2E0UWZqZE1RUzRmVjc3QlNSVkJ5TENTckRvQzBlSE5XYmNoVk0zdVNlcW5kM2xtSmpaa2RodlFMZw?oc=5",
-          "fuente": "POLITICO US",
-          "pais": "Estados Unidos",
-          "fecha": "2026-11-08T12:00:00+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "AIPAC Built a Super PAC to Protect the Israel Consensus. This Election Helped End It. Politico",
-          "resumen_es": "AIPAC Construyó un Super PAC para proteger el consenso de Israel. Esta elección ayudó a terminarla."
-        }
-      ],
-      "fuentes": [
-        "POLITICO US"
-      ],
-      "actores_mencionados": [
-        "Israel"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Israel"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-4f7204d44116b02157bc",
-      "fecha": "2026-11-08",
-      "titulo_fuente": "Kremlin spokesman urges against jumping too far ahead on Putin’s potential G20 attendance",
-      "region": "Internacional",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "4f7204d44116b02157bc",
-          "titulo_original": "Kremlin spokesman urges against jumping too far ahead on Putin’s potential G20 attendance",
-          "titulo_es": "El vocero de Kremlin insta a no saltar demasiado lejos en la potencial asistencia G20 de Putin",
-          "url": "https://tass.com/politics/2214455",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-08T11:57:52+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Such trips always entail significant logistical difficulties and challenges, Kremlin Spokesman Dmitry Peskov said",
-          "resumen_es": "Estos viajes siempre conllevan dificultades logísticas y desafíos importantes, dijo el portavoz de Kremlin Dmitry Peskov"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-34430db32ce5c9d8cf4d",
-      "fecha": "2026-11-08",
-      "titulo_fuente": "Polish prosecutors open terrorism investigation into Kraków shooting",
-      "region": "Internacional",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "34430db32ce5c9d8cf4d",
-          "titulo_original": "Polish prosecutors open terrorism investigation into Kraków shooting",
-          "titulo_es": "Los fiscales polacos abren la investigación del terrorismo sobre el tiroteo de Kraków",
-          "url": "https://www.theguardian.com/world/2026/nov/08/krakow-shooting-poland-terrorism-investigation",
-          "fuente": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-08T11:50:15+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Officials say suspect holds far-right views and three people found dead at his home were his parents and sister Polish prosecutors have opened a terrorism investigation after a 24-year-old man opened fire in a busy market square in Kraków, killing six people including a Briton and injuring 17, in an attack that authorities said was probably inspired by far-right ideologies. Police confirmed on Sunday that three people found dead at the gunman’s h",
-          "resumen_es": "Los oficiales dicen que el sospechoso tiene opiniones de extrema derecha y tres personas encontradas muertas en su casa fueron sus padres y la hermana de los fiscales polacos han abierto una investigación terrorista después de que un hombre de 24 años abrió fuego en una plaza de mercado ocupada en Cracovia,"
-        }
-      ],
-      "fuentes": [
-        "The Guardian"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-ed224a74ead9763ee09b",
-      "fecha": "2026-11-08",
-      "titulo_fuente": "Who’s who at Cop31: key players at the climate talks",
-      "region": "Perú",
-      "temas": [
-        "Diplomacia",
-        "Energía y clima"
-      ],
-      "noticias": [
-        {
-          "id": "ed224a74ead9763ee09b",
-          "titulo_original": "Who’s who at Cop31: key players at the climate talks",
-          "titulo_es": "¿Quién es quién en Cop31: actores clave en las conversaciones climáticas",
-          "url": "https://www.theguardian.com/environment/2026/nov/08/cop31-key-players-climate-talks",
-          "fuente": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-08T11:48:56+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "What are the relationships and dominant interests in play, as the summit kicks off after a bitter row over its hosting? Hosting Cop was a key pledge from Australia’s prime minister, Anthony Albanese in 2021 , while in opposition, before his successful election campaign. But arcane rules meant the country had to wait its turn to bid and was then embroiled in an angry row with Turkey over the hosting . The final compromise put Australia in charge o",
-          "resumen_es": "¿Cuáles son las relaciones e intereses dominantes en juego, ya que la cumbre comienza después de una amarga fila sobre su hospedaje? Hosting Cop fue una promesa clave del primer ministro de Australia, Anthony Albanese en 2021, mientras que en oposición, ante su"
-        }
-      ],
-      "fuentes": [
-        "The Guardian"
-      ],
-      "actores_mencionados": [
-        "Turquía"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Diplomacia, Energía y clima"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-e75a24f9e0f1f519d845",
-      "fecha": "2026-11-08",
-      "titulo_fuente": "Three tankers caught fire in Strait of Hormuz: Iran",
-      "region": "Oriente Medio",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "e75a24f9e0f1f519d845",
-          "titulo_original": "Three tankers caught fire in Strait of Hormuz: Iran",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/news/international/iran-says-two-tankers-caught-fire-in-hormuz-after-hitting-mines/article71680557.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-11-08T11:46:47+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The Guards did not specify the names or nationality of the tankers",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Hindu"
-      ],
-      "actores_mencionados": [
-        "Irán"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Irán"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
