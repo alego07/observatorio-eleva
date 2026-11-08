@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-11-08T18:25:07.203708+00:00",
+  "created_utc": "2026-11-08T19:13:40.792152+00:00",
   "events": [
     {
       "id": "a-23c8de50cf6d37b7b898",
@@ -200,6 +200,66 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-a4d7f2fdafb46f59307e",
+      "fecha": "2026-11-08",
+      "titulo_fuente": "New attacks on Iran ‘highly unlikely,’ Trump says",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "a4d7f2fdafb46f59307e",
+          "titulo_original": "New attacks on Iran ‘highly unlikely,’ Trump says",
+          "titulo_es": "Nuevos ataques contra Irán “muy improbable”, dice Trump",
+          "url": "https://tass.com/world/2214519",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-08T18:44:51+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The decision will depend on \"whether or not they sign a very strong agreement, US President said",
+          "resumen_es": "La decisión dependerá de \"si firman o no un acuerdo muy fuerte, dijo el Presidente de EE.UU."
+        },
+        {
+          "id": "2f290e2680f8db1e4496",
+          "titulo_original": "Trump says renewed attacks on Iran “highly unlikely” if talks show progress - CNN",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRcFFDS2FTak9Bd3ZyWUJkVUh4NDdfamp4bDNDd1A1NXpleGxxeFFTRmhsV3IyZE56R19qLVVRYmhNSFZISXpjaEhwYmJHeE1YTzlJVFRDdmJYbHczRnozVjUyYWttNkxyMThCMGJrNW0?oc=5",
+          "fuente": "CNN",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-08T17:28:27+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Trump says renewed attacks on Iran “highly unlikely” if talks show progress CNN",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "CNN",
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Irán"
+      ],
+      "fuentes_independientes": 2,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 7,
+      "motivos_seleccion": [
+        "Cobertura de fuentes distintas",
+        "Actores relevantes: Estados Unidos, Irán",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-4e09dd6d44b79814e79e",
       "fecha": "2026-11-08",
       "titulo_fuente": "US military attacks cargo ship in the Gulf of Oman",
@@ -301,52 +361,6 @@
       "motivos_seleccion": [
         "Actores relevantes: Estados Unidos, Irán",
         "Ámbito: Diplomacia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-2f290e2680f8db1e4496",
-      "fecha": "2026-11-08",
-      "titulo_fuente": "Trump says renewed attacks on Iran “highly unlikely” if talks show progress - CNN",
-      "region": "Oriente Medio",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "2f290e2680f8db1e4496",
-          "titulo_original": "Trump says renewed attacks on Iran “highly unlikely” if talks show progress - CNN",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRcFFDS2FTak9Bd3ZyWUJkVUh4NDdfamp4bDNDd1A1NXpleGxxeFFTRmhsV3IyZE56R19qLVVRYmhNSFZISXpjaEhwYmJHeE1YTzlJVFRDdmJYbHczRnozVjUyYWttNkxyMThCMGJrNW0?oc=5",
-          "fuente": "CNN",
-          "pais": "Estados Unidos",
-          "fecha": "2026-11-08T17:28:27+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Trump says renewed attacks on Iran “highly unlikely” if talks show progress CNN",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "CNN"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "Irán"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos, Irán",
-        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -1370,54 +1384,6 @@
       "motivos_seleccion": [
         "Actores relevantes: Rusia, Ucrania",
         "Ámbito: Energía y clima, Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-b3ffce5a70313962726c",
-      "fecha": "2026-11-07",
-      "titulo_fuente": "Kiev continues attacks on Russia’s critical energy infrastructure — Russian diplomat",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Diplomacia",
-        "Seguridad y conflictos",
-        "Energía y clima"
-      ],
-      "noticias": [
-        {
-          "id": "b3ffce5a70313962726c",
-          "titulo_original": "Kiev continues attacks on Russia’s critical energy infrastructure — Russian diplomat",
-          "titulo_es": "",
-          "url": "https://tass.com/politics/2214327",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-07T20:13:34+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "According to Alexander Pankin, Ukraine is \"backed by EU bureaucrats\" in these actions",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia",
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia, Ucrania",
-        "Ámbito: Diplomacia, Energía y clima"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -3915,198 +3881,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-487eafdec4e067717752",
-      "fecha": "2026-11-07",
-      "titulo_fuente": "US Armed Forces disabled mercantile ship in Gulf of Oman — CENTCOM",
-      "region": "Oriente Medio",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "487eafdec4e067717752",
-          "titulo_original": "US Armed Forces disabled mercantile ship in Gulf of Oman — CENTCOM",
-          "titulo_es": "",
-          "url": "https://tass.com/world/2214341",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-07T21:13:15+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "According to the US military, the crew ignored warnings and attempted to violate the naval blockade against Iran",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Irán"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Irán",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-9206f256cd71063680c2",
-      "fecha": "2026-11-07",
-      "titulo_fuente": "Explosions on Iran’s Qeshm island not caused by attack — agency",
-      "region": "Oriente Medio",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "9206f256cd71063680c2",
-          "titulo_original": "Explosions on Iran’s Qeshm island not caused by attack — agency",
-          "titulo_es": "",
-          "url": "https://tass.com/world/2214337",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-07T20:57:06+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Tasnim reported that the sounds were related to activity in the Strait of Hormuz",
-          "resumen_es": ""
-        },
-        {
-          "id": "b38f2313e15053a4356e",
-          "titulo_original": "Two explosions reported on Iran’s Qeshm Island",
-          "titulo_es": "",
-          "url": "https://tass.com/world/2214325",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-07T20:02:54+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The eastern part of the island was targeted, the news agency reported",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Irán"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Irán",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-19621173ce7a8fe9c4bc",
-      "fecha": "2026-11-07",
-      "titulo_fuente": "Gadi Eisenkot, Netanyahu’s rival, gets mandate to form Israel government: What happens next? - The Indian Express",
-      "region": "Oriente Medio",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "19621173ce7a8fe9c4bc",
-          "titulo_original": "Gadi Eisenkot, Netanyahu’s rival, gets mandate to form Israel government: What happens next? - The Indian Express",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWVFUR1RyN2NpQkJiQ1l5czIwaURiUWpBZHUtZ0tBYVk1YnZWSjJ1clhUbXJOcGFkbGFGMzBWbHk0VFdVZWdBVlFxYkY3cW56UGtJM0s5ZmlEcWYwUktqUnBGODN4VUEzWE9RbldxV3VxdWtaQkxmRUZJTjBzZUc4cmhRRlpza3ZKUEltNVZZaElfaE1pWldNWjNWWm5MRTdvM3BuTzVPZ05XVV9ERGhiRWJ3NVhCSzBjTDlkbEFDWVlscTI0T2pUSTRKZU1kWVZLbVlhYi1rY3ZqdHPSAeIBQVVfeXFMTTJORFVodzJvNlg3UWFtN21pLUowOUpYZFFXalRYbVFzODJHSkdqQ25nVlpVeWxCVlZKYkRZM3VITHJ4by1mbW55S2FDMGU1akdCb1FNQ2k0c0xBM2dnbVRSd1UwVE5ubTBlc05kb2M1QW9JUGFld0tJcGtXcWt4UFBhN0s0empwRWRiRUpFT2dwOUl5VmpYV255eEtSaV9Sek9seE1JRWxWZlNrVUlSWml6cDNtSjZCb1dQZzJtdEVPTU1GVkQwaTRWWWtlVGowTzdmQzNycjFlYWFiaUxJbmFkdw?oc=5",
-          "fuente": "The Indian Express",
-          "pais": "India",
-          "fecha": "2026-11-07T20:48:13+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Gadi Eisenkot, Netanyahu’s rival, gets mandate to form Israel government: What happens next? The Indian Express",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Indian Express"
-      ],
-      "actores_mencionados": [
-        "Israel",
-        "India"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: India, Israel"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-45a139f31dd95915dc58",
-      "fecha": "2026-11-07",
-      "titulo_fuente": "Two civilians injured in Ukrainian attacks on LPR — authorities",
-      "region": "Europa",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "45a139f31dd95915dc58",
-          "titulo_original": "Two civilians injured in Ukrainian attacks on LPR — authorities",
-          "titulo_es": "",
-          "url": "https://tass.com/emergencies/2214333",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-07T20:37:30+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Attacks on residential buildings and vehicles were also recorded",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Ucrania",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-f12240dfccf568c1a1e7",
       "fecha": "2026-11-08",
       "titulo_fuente": "Plane crashes into pickup truck during emergency landing in Florida",
@@ -4311,18 +4085,6 @@
           "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
           "resumen_original": "Netanyahu rival Gadi Eisenkot to be tasked with forming next Israeli government CNN",
           "resumen_es": ""
-        },
-        {
-          "id": "22130dc6ade961cdcac2",
-          "titulo_original": "Gadi Eisenkot to be tasked with forming next Israeli government - CNN",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVmZHWjgtQ3gxMFRSNDREZTBWdHRhZTZVaUE2UXJUSFdzbl95enE4TjRxY2l1c21Ec3g2NE1HbzhvY0tDaVJEVlpzZDlybFBnYzljM1RjYUIyU1VmT2tRQ3o3ekpzRVc2VEZqQzh1Y1hLRzR2T21UYW9jMmpVRldHODl0dERMQ2Q1SkhvcENJYlV4eGoxUGh1aDU4eXA2U09vOVNZRHh0Y2ZfVlpSSEdpTDlVNWRUQQ?oc=5",
-          "fuente": "CNN",
-          "pais": "Estados Unidos",
-          "fecha": "2026-11-07T20:11:37+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Gadi Eisenkot to be tasked with forming next Israeli government CNN",
-          "resumen_es": ""
         }
       ],
       "fuentes": [
@@ -4350,47 +4112,88 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-f2bde56cd8ab38886350",
-      "fecha": "2026-11-07",
-      "titulo_fuente": "Israel’s president taps opposition candidate Eisenkot to form a government, in setback for Netanyahu - Politico",
-      "region": "Oriente Medio",
+      "id": "a-7bf209a3bdb6ee54c87c",
+      "fecha": "2026-11-08",
+      "titulo_fuente": "Sénégal : au moins 34 morts dans le naufrage d’une pirogue de migrants",
+      "region": "Europa",
+      "temas": [
+        "Migración y DD. HH."
+      ],
+      "noticias": [
+        {
+          "id": "7bf209a3bdb6ee54c87c",
+          "titulo_original": "Sénégal : au moins 34 morts dans le naufrage d’une pirogue de migrants",
+          "titulo_es": "",
+          "url": "https://www.lemonde.fr/afrique/article/2026/11/08/senegal-au-moins-34-morts-dans-le-naufrage-d-une-pirogue-de-migrants_6808424_3213.html",
+          "fuente": "Le Monde",
+          "pais": "Francia",
+          "fecha": "2026-11-08T18:54:52+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Des milliers de personnes tentent depuis des années de gagner clandestinement l’Europe en empruntant la route de l’Atlantique, à bord d’embarcations surchargées, souvent vétustes.",
+          "resumen_es": ""
+        },
+        {
+          "id": "74cc24588989b15a76eb",
+          "titulo_original": "Sénégal : 21 morts dans le naufrage d’une pirogue de migrants",
+          "titulo_es": "",
+          "url": "https://www.lemonde.fr/afrique/article/2026/11/08/senegal-21-morts-dans-le-naufrage-d-une-pirogue-de-migrants_6808424_3212.html",
+          "fuente": "Le Monde",
+          "pais": "Francia",
+          "fecha": "2026-11-08T11:23:00+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Des milliers de personnes tentent depuis des années de gagner clandestinement l’Europe en empruntant la route de l’Atlantique, à bord d’embarcations surchargées, souvent vétustes.",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "Le Monde"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Derecho internacional y constructivismo",
+        "pregunta": "¿Qué normas, identidades y obligaciones internacionales invocan los actores?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Migración y DD. HH."
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-de229d709320f4f50f73",
+      "fecha": "2026-11-08",
+      "titulo_fuente": "Keisha Lance Bottoms weighs how to work with Trump - Politico",
+      "region": "Estados Unidos",
       "temas": [
         "Actualidad"
       ],
       "noticias": [
         {
-          "id": "f2bde56cd8ab38886350",
-          "titulo_original": "Israel’s president taps opposition candidate Eisenkot to form a government, in setback for Netanyahu - Politico",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbFRfN29BZnpZb0pMa0dvVFJjSHlkTDAxWDZ4c3Q1RlJLSVJ3NGhSTEM2cTczb195Nk1ZSGRCMDBoNkloc0xoLWppLVBkTS0xMGRJMHoxRjhvY1VzenNHZndCcGVHOEhEREdmSGJwbzVCV3o2M0JiREw3NDYzYjBZcF9JcDhBdDZfaWNKUjgzN0h6MXRjQVZTeGdwQi1HUF8wci02TWlWNlNxQzN0R3RpTlVnNGx6RmNfZjVYV1EyUldnR2kwcXp1ZmNuLTZKN0l2SHM2WFIzbTh0ZlR4VmtrSHN3?oc=5",
+          "id": "de229d709320f4f50f73",
+          "titulo_original": "Keisha Lance Bottoms weighs how to work with Trump - Politico",
+          "titulo_es": "Keisha Lance Bottoms pesa cómo trabajar con Trump - Politico",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSTlQUlFGMi1TbEZTUzBnOERNdGp1R21fdWcyVU10SFNKdUlhRDR2RzdHYjNtd0NxZ2l4dFNySTFsX29ZVW5EVEY1UHJ2eDFQMFVrMzNLQXRIS01kZDNKOERjbU55WC03Y3g2SktDcUdHdEVqSFlZT0hfd1JaRnVpazNEdU9pd3JkM1dIZTRZNA?oc=5",
           "fuente": "POLITICO US",
           "pais": "Estados Unidos",
-          "fecha": "2026-11-07T20:47:00+00:00",
+          "fecha": "2026-11-08T18:54:00+00:00",
           "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Israel’s president taps opposition candidate Eisenkot to form a government, in setback for Netanyahu Politico",
-          "resumen_es": ""
-        },
-        {
-          "id": "436a5f3c45435beddb8f",
-          "titulo_original": "Israel’s president taps Eisenkot to form government, in setback for Netanyahu",
-          "titulo_es": "",
-          "url": "https://www.scmp.com/news/world/middle-east/article/3373671/israels-president-taps-eisenkot-form-government-setback-netanyahu",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-11-07T20:05:19+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Israel’s president announced on Saturday he would task Gadi Eisenkot with forming the next government following last week’s election, in what Netanyahu’s rivals see as a first step to remove the country’s longest-serving prime minister. The opposition bloc led by Eisenkot, a former military chief and political newcomer who has tried to appeal to secular and liberal Israelis, has opened the door to a once improbable alliance with ultra-Orthodox Je",
-          "resumen_es": ""
+          "resumen_original": "Keisha Lance Bottoms weighs how to work with Trump Politico",
+          "resumen_es": "Keisha Lance Bottoms pesa cómo trabajar con Trump Politico"
         }
       ],
       "fuentes": [
-        "POLITICO US",
-        "South China Morning Post"
+        "POLITICO US"
       ],
       "actores_mencionados": [
-        "Israel"
+        "Estados Unidos"
       ],
-      "fuentes_independientes": 2,
+      "fuentes_independientes": 1,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
         "nombre": "Marco por determinar",
@@ -4399,10 +4202,52 @@
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 3,
+      "prioridad_orientativa": 2,
       "motivos_seleccion": [
-        "Cobertura de fuentes distintas",
-        "Actores relevantes: Israel"
+        "Actores relevantes: Estados Unidos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-cddd52a41816fee67878",
+      "fecha": "2026-11-08",
+      "titulo_fuente": "Lisa Nandy wary of ‘circular arguments’ about rejoining EU",
+      "region": "Europa",
+      "temas": [
+        "Seguridad y conflictos",
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "cddd52a41816fee67878",
+          "titulo_original": "Lisa Nandy wary of ‘circular arguments’ about rejoining EU",
+          "titulo_es": "Lisa Nandy advierte de los “discursos circulares” sobre reincorporarse a la UE",
+          "url": "https://www.theguardian.com/politics/2026/nov/08/lisa-nandy-wary-of-circular-arguments-about-rejoining-eu",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-08T18:20:06+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Culture secretary pushes back against talk of revisiting Brexit but says closer ties would fulfil referendum promises One of Andy Burnham’s cabinet ministers has said she wants to avoid “circular arguments” about whether the UK should rejoin the EU, underlining divisions at the top of government over revisiting Brexit. Lisa Nandy, the culture secretary, appeared to suggest she was not in favour of rejoining the trade bloc, but she said the prime ",
+          "resumen_es": "El secretario de Cultura vuelve contra la charla de revisitar el Brexit pero dice que los vínculos más estrechos cumplirían las promesas del referéndum Uno de los ministros del gabinete de Andy Burnham ha dicho que quiere evitar “discursos circulares” sobre si el Reino Unido debe rejoi"
+        }
+      ],
+      "fuentes": [
+        "The Guardian"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Comercio y finanzas, Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -4445,6 +4290,50 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Ámbito: Organismos multilaterales"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-dcf74648f917546b2738",
+      "fecha": "2026-11-08",
+      "titulo_fuente": "Eisenkot open to Netanyahu joining Israel’s next government",
+      "region": "Oriente Medio",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "dcf74648f917546b2738",
+          "titulo_original": "Eisenkot open to Netanyahu joining Israel’s next government",
+          "titulo_es": "Eisenkot abierto a Netanyahu uniéndose al próximo gobierno de Israel",
+          "url": "https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-08T18:12:27+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Israel's president officially tasks the opposition leader with forming a new government.",
+          "resumen_es": "El presidente de Israel encarga oficialmente al líder de la oposición con la formación de un nuevo gobierno."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [
+        "Israel"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Israel"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6968,6 +6857,90 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Ámbito: Energía y clima"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-5c1cb22a60ba038f0968",
+      "fecha": "2026-11-08",
+      "titulo_fuente": "Defects at Hong Kong MTR station ‘unimaginable’, engineers and lawmakers say",
+      "region": "Internacional",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "5c1cb22a60ba038f0968",
+          "titulo_original": "Defects at Hong Kong MTR station ‘unimaginable’, engineers and lawmakers say",
+          "titulo_es": "",
+          "url": "https://www.scmp.com/news/hong-kong/society/article/3373705/defects-hong-kong-mtr-station-unimaginable-engineers-and-lawmakers-say",
+          "fuente": "South China Morning Post",
+          "pais": "Hong Kong",
+          "fecha": "2026-11-08T12:49:56+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Mistakes that left about 30 columns defective at a Hong Kong railway station under construction were “unimaginable”, lawmakers and engineers said on Sunday, adding that the repairs were expected to be straightforward and unlikely to delay the project. The MTR Corporation was also urged to set up a reporting mechanism that would allow frontline workers to flag problems during construction. The comments came a day after the Buildings Department rev",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "South China Morning Post"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-99da3b0e5d8641cc0648",
+      "fecha": "2026-11-08",
+      "titulo_fuente": "Poland mourns six killed in attack as authorities launch ‘terrorism’ probe",
+      "region": "Internacional",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "99da3b0e5d8641cc0648",
+          "titulo_original": "Poland mourns six killed in attack as authorities launch ‘terrorism’ probe",
+          "titulo_es": "",
+          "url": "https://www.aljazeera.com/news/2026/11/8/poland-mourns-six-killed-in-attack-as-authorities-launch-terrorism-probe?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-08T12:40:12+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "'Terrorism' investigation launched after government officials say suspect likely influenced by far-right ideology.",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
