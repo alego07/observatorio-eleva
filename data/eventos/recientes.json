@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-11-08T17:05:31.449115+00:00",
+  "created_utc": "2026-11-08T17:17:07.743884+00:00",
   "events": [
     {
       "id": "a-0efb1de2f2dc092fc319",
@@ -125,6 +125,68 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-23c8de50cf6d37b7b898",
+      "fecha": "2026-11-08",
+      "titulo_fuente": "Iran executes 3 more men over January protests, judiciary says",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos",
+        "Migración y DD. HH."
+      ],
+      "noticias": [
+        {
+          "id": "23c8de50cf6d37b7b898",
+          "titulo_original": "Iran executes 3 more men over January protests, judiciary says",
+          "titulo_es": "Irán ejecuta 3 hombres más durante las protestas de enero, dice el poder judicial",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3373716/iran-executes-3-more-men-over-january-protests-judiciary-says",
+          "fuente": "South China Morning Post",
+          "pais": "Hong Kong",
+          "fecha": "2026-11-08T17:06:47+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Iranian authorities executed three men on Sunday on charges linked to January 2026 protests, the judiciary said, after what rights groups described as an unfair trial. Norway-based Iran Human Rights (IHR) said the hangings at dawn of Hassan Divband, Hamid Kazemi and Reza Zanganeh in the city of Karaj outside Tehran brought the number of men hanged over the January protests to at least 39 and warned many more were at risk. The judiciary’s Mizan ne",
+          "resumen_es": "Las autoridades iraníes ejecutaron a tres hombres el domingo por cargos relacionados con las protestas del 2026 de enero, dijo el poder judicial, después de lo que los grupos de derechos descritos como un juicio injusto. Los derechos humanos del Irán (IHR) con sede en Noruega dijeron que las cortinas al amanecer de Hassan"
+        },
+        {
+          "id": "53689b1e531e7ae33bac",
+          "titulo_original": "Iran executes three men over armed unrest during January protests",
+          "titulo_es": "",
+          "url": "https://www.thehindu.com/news/international/iran-executes-three-men-over-armed-unrest-during-january-protests/article71680580.ece",
+          "fuente": "The Hindu",
+          "pais": "India",
+          "fecha": "2026-11-08T05:52:10+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The executions are the latest in a ‌series Iran has carried out ‌in ⁠recent months over the January ⁠protests, including of people accused of links to Israel and the U.S.",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "South China Morning Post",
+        "The Hindu"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Irán",
+        "Israel"
+      ],
+      "fuentes_independientes": 2,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 7,
+      "motivos_seleccion": [
+        "Cobertura de fuentes distintas",
+        "Actores relevantes: Estados Unidos, Irán, Israel",
+        "Ámbito: Migración y DD. HH., Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-4e09dd6d44b79814e79e",
       "fecha": "2026-11-08",
       "titulo_fuente": "US military attacks cargo ship in the Gulf of Oman",
@@ -179,6 +241,99 @@
       "motivos_seleccion": [
         "Cobertura de fuentes distintas",
         "Actores relevantes: Estados Unidos, Irán",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-7b497b53cf910363af84",
+      "fecha": "2026-11-08",
+      "titulo_fuente": "EAEU looking at signing free trade agreement with several more countries — senior diplomat",
+      "region": "Asia-Pacífico",
+      "temas": [
+        "Diplomacia",
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "7b497b53cf910363af84",
+          "titulo_original": "EAEU looking at signing free trade agreement with several more countries — senior diplomat",
+          "titulo_es": "EAEU mirando a la firma de un acuerdo de libre comercio con varios países más — diplomático superior",
+          "url": "https://tass.com/economy/2214507",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-08T17:11:16+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "According to Alexander Pankin, by now, two rounds of negotiations on a free trade agreement have been held with India and \"the countries’ experts are working ahead of the thitd round\"",
+          "resumen_es": "Según Alexander Pankin, para ahora, se han celebrado dos rondas de negociaciones sobre un acuerdo de libre comercio con la India y \"los expertos de los países están trabajando antes de la tríada ronda\""
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "India"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: India",
+        "Ámbito: Comercio y finanzas, Diplomacia",
+        "Posible decisión institucional o negociación"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-18d28c57e90db3eba7eb",
+      "fecha": "2026-11-08",
+      "titulo_fuente": "Rosstat hack: data obtained suggests over 390,000 Russian deaths in Ukraine war",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "18d28c57e90db3eba7eb",
+          "titulo_original": "Rosstat hack: data obtained suggests over 390,000 Russian deaths in Ukraine war",
+          "titulo_es": "Rosstat hack: los datos obtenidos sugieren más de 390.000 muertes rusas en la guerra de Ucrania",
+          "url": "https://www.euronews.com/2026/11/08/rosstat-hack-data-obtained-suggests-over-390000-russian-deaths-in-ukraine-war",
+          "fuente": "Euronews",
+          "pais": "Unión Europea",
+          "fecha": "2026-11-08T17:04:07+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Hacker groups Cyberpartisans BY and Silent Crow say they hacked Rosstat and counted Russian losses since the invasion of Ukraine. Their tally: between 393,000 and 450,000 killed.",
+          "resumen_es": "Grupos Hacker Cyberpartisans BY y Silent Crow dicen que hackearon a Rosstat y contaron las pérdidas rusas desde la invasión de Ucrania. Su historia: entre 393.000 y 450.000 muertos."
+        }
+      ],
+      "fuentes": [
+        "Euronews"
+      ],
+      "actores_mencionados": [
+        "Rusia",
+        "Ucrania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia, Ucrania",
         "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
@@ -1321,52 +1476,6 @@
       "prioridad_orientativa": 6,
       "motivos_seleccion": [
         "Actores relevantes: Estados Unidos, Irán",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-78b66bf5fe4ad4a2a193",
-      "fecha": "2026-11-07",
-      "titulo_fuente": "Russia upgrades Abu Dhabi delegation as Zelenskyy warns Trump's plan is dangerous - Politico",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "78b66bf5fe4ad4a2a193",
-          "titulo_original": "Russia upgrades Abu Dhabi delegation as Zelenskyy warns Trump's plan is dangerous - Politico",
-          "titulo_es": "Rusia actualiza Delegación de Abu Dhabi como Zelenskyy advierte que el plan de Trump es peligroso - Politico",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZTNab2EtNEhQZTl2UkNQUk13ZmxhaEFKV0s3VGpGU0FxaldWNDIxYUxyLWJOMFNnNGsyclJwVVJwM3l3TEpQeDJvemJLN3hHNDcwRXRLMXBoUzdaT2xZYk1iVi1rMTNKVC12UXIzQ0ZDWkpFbkF2YUR4R0lfaFprYzJxczRaRlhLRFlsRzMwelBnUWYzSGkwaDlvMGJQcWRHWkZXMjJEWExUZ0E1dkZONEdZZlZ5eXBkbTFFMWFR?oc=5",
-          "fuente": "POLITICO US",
-          "pais": "Estados Unidos",
-          "fecha": "2026-11-07T17:16:00+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Russia upgrades Abu Dhabi delegation as Zelenskyy warns Trump's plan is dangerous Politico",
-          "resumen_es": "Rusia actualiza la delegación de Abu Dhabi mientras Zelenskyy advierte que el plan de Trump es peligroso político"
-        }
-      ],
-      "fuentes": [
-        "POLITICO US"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos, Rusia",
         "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
@@ -2884,52 +2993,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-53689b1e531e7ae33bac",
-      "fecha": "2026-11-08",
-      "titulo_fuente": "Iran executes three men over armed unrest during January protests",
-      "region": "Oriente Medio",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "53689b1e531e7ae33bac",
-          "titulo_original": "Iran executes three men over armed unrest during January protests",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/news/international/iran-executes-three-men-over-armed-unrest-during-january-protests/article71680580.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-11-08T05:52:10+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The executions are the latest in a ‌series Iran has carried out ‌in ⁠recent months over the January ⁠protests, including of people accused of links to Israel and the U.S.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Hindu"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "Israel",
-        "Irán"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos, Irán, Israel"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-4ed0f639777806288516",
       "fecha": "2026-11-08",
       "titulo_fuente": "Who is Eisenkot, the former Israeli general expected to replace Netanyahu?",
@@ -3287,6 +3350,52 @@
       "motivos_seleccion": [
         "Actores relevantes: China",
         "Ámbito: Migración y DD. HH."
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-1d883e0e6ab96edd257a",
+      "fecha": "2026-11-08",
+      "titulo_fuente": "Why Iran believes Trump’s midterm defeat gives it the upper hand - The Indian Express",
+      "region": "Oriente Medio",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "1d883e0e6ab96edd257a",
+          "titulo_original": "Why Iran believes Trump’s midterm defeat gives it the upper hand - The Indian Express",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbEtwdzg1WGkwamVfT0h5UUdwOGNRemZoMFUycWRlLTdCbzNnMkdwNExyWjlKQkxGS1dfdXZNR1NjOVRhaHlTRUMxdG5JWnQ2YlZCWkYxeGtDVnMwcnhHWVVXdU1CUzJndy1qMzdqRUtkY3hwVTFfdy1Wc0VxQzdrUGh1ekdzZWxCLXdVLXhaRFU0cDlFdjZtRk5Nemo2S00wbm9QR3djdVJ5ekJhZTlmbGdEOTJuTWIzbjl4UDFPVERDaE9wYkpRc09ZMjJsRWRaaERN0gHaAUFVX3lxTFBJY1g3dHVHZWVyQ3dJdnFUQWVzRE1UcUlfblpOa3YyWm5pMG9CZTdCcDlRTmZiWWxmLVZKczdwVDlyMUpwNVpVTUdyWUFidjZFSWxicUZNM2E2MEdhNWdPZUk5ZkhiMjlPUzlKR3dIZXd2SGtDeldJbnphRXkzTENzQkhXYWd4VHE3MElVSll2N3Q1Ty1XcG5sUTNKTV9QSnU0eWZIWEFPNjNISXMzZ2tnaFFraXZhcFRQbDBWVnl6c3VtQTVIUmplV3JyYzkxOWxCSE4wUThQNjNn?oc=5",
+          "fuente": "The Indian Express",
+          "pais": "India",
+          "fecha": "2026-11-08T02:51:35+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Why Iran believes Trump’s midterm defeat gives it the upper hand The Indian Express",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "The Indian Express"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Irán",
+        "India"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos, India, Irán"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -4235,6 +4344,94 @@
       "motivos_seleccion": [
         "Cobertura de fuentes distintas",
         "Actores relevantes: Israel"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-3af496fa46fb024f73b3",
+      "fecha": "2026-11-08",
+      "titulo_fuente": "Erdoğan joins Aliyev for Azerbaijan’s Victory Day in Karabakh",
+      "region": "Internacional",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "3af496fa46fb024f73b3",
+          "titulo_original": "Erdoğan joins Aliyev for Azerbaijan’s Victory Day in Karabakh",
+          "titulo_es": "Erdoğan se une a Aliyev para el Día de la Victoria de Azerbaiyán en Karabaj",
+          "url": "https://www.euronews.com/2026/11/08/erdogan-joins-aliyev-for-azerbaijans-victory-day-in-karabakh",
+          "fuente": "Euronews",
+          "pais": "Unión Europea",
+          "fecha": "2026-11-08T17:11:05+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Azerbaijan celebrated on Sunday its sixth Victory Day, marking the end of the Karabakh war. Turkey's Erdoğan joined the commemorations in Baku to underscore the strength of bilateral ties despite recent differences, with Aliyev declaring that \"this unity will last forever\".",
+          "resumen_es": "Azerbaiyán celebró el domingo su sexto día de victoria, marcando el fin de la guerra de Karabaj. Erdoğan de Turquía se unió a las conmemoraciones en Bakú para subrayar la fuerza de los vínculos bilaterales a pesar de las recientes diferencias, con Aliyev declarando que"
+        }
+      ],
+      "fuentes": [
+        "Euronews"
+      ],
+      "actores_mencionados": [
+        "Turquía"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-3c254ff8d78a9305dac4",
+      "fecha": "2026-11-08",
+      "titulo_fuente": "Saudi-led coalition hits Houthi missile launchers used to attack Riyadh",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "3c254ff8d78a9305dac4",
+          "titulo_original": "Saudi-led coalition hits Houthi missile launchers used to attack Riyadh",
+          "titulo_es": "La coalición liderada por Arabia Saudita golpea a los lanzamisiles Houthi utilizados para atacar a Riyadh",
+          "url": "https://tass.com/world/2214505",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-08T17:05:56+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The Houthis from the Yemeni rebel movement Ansar Allah used launchers \"to try to attack Riyadh on Sunday\", the coalition’s spokesman Turki al-Maliki said",
+          "resumen_es": "Los Houthis del movimiento rebelde yemení Ansar Allah usó los lanzadores \"para tratar de atacar Riyadh el domingo\", dijo el vocero de la coalición Turki al-Maliki"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Arabia Saudita"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6843,176 +7040,6 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Actores relevantes: Irán"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-c1b8183d9d3f78ab9c3b",
-      "fecha": "2026-11-08",
-      "titulo_fuente": "US forces strike commercial vessel in Gulf of Oman after crew 'ignored repeated warnings'",
-      "region": "Europa",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "c1b8183d9d3f78ab9c3b",
-          "titulo_original": "US forces strike commercial vessel in Gulf of Oman after crew 'ignored repeated warnings'",
-          "titulo_es": "Las fuerzas estadounidenses atacaron a un buque comercial en el Golfo de Omán después de que la tripulación \"ignoró advertencias repetidas '",
-          "url": "https://www.euronews.com/2026/11/08/us-forces-strike-commercial-vessel-in-gulf-of-oman-after-crew-ignored-repeated-warnings",
-          "fuente": "Euronews",
-          "pais": "Unión Europea",
-          "fecha": "2026-11-08T11:41:13+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The UKMTO maritime agency said late on Saturday that it had received a report of an incident involving a bulk carrier and military forces in the gulf.",
-          "resumen_es": "La agencia marítima UKMTO dijo a finales del sábado que había recibido un informe de un incidente que involucraba a un portaaviones y fuerzas militares en el golfo."
-        }
-      ],
-      "fuentes": [
-        "Euronews"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-43742d1511dd258a3633",
-      "fecha": "2026-11-08",
-      "titulo_fuente": "Sunil Gavaskar backs promoting Axar Patel to five on tricky Wellington pitch - The Indian Express",
-      "region": "Asia-Pacífico",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "43742d1511dd258a3633",
-          "titulo_original": "Sunil Gavaskar backs promoting Axar Patel to five on tricky Wellington pitch - The Indian Express",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNXBvVFNpTERqZjE1eU5PalA3cm01ZmhXUWczUkhHcUNxeTJ0a0FESnljUmt3RElESzNqQWhXMnBDa0VOdHBwZE1lbGM1Y1VXMFhHeEMtdVhwZ04xZ1gxZDYyOGNjZVhZcm50UHFjdS1RQlh2bVFQaU9DSFN6RGxrLUtKcUhudWN6RFFIakJrS3JvZFpxYmF3U2NlVThoOGRvbE9NemF0aXdDaEwzbzFYdGNtWnFNYnZNWFpMbnJlcDN2NDN4cm1vYVdXa3I5ZGNi0gHXAUFVX3lxTE9SZkRXOFVCM2N1cDFHUUdrQWk4bnVDTV9NWkI3dzFoQm1NNGk0M3NuUldZa3kyd0M3UmkwamJaMmswSWZQa1BTU0FwbWxBNlkxSEJlUUFNUWMtcE53a1FCUTBXVkltYXMtYjNscm9ja2p4ajJfZVZfWG9mZGw2eDJXcVp5bXlXOFRzT1BZVTZ4QmxuWVpiMUdsRTV3VzduUVNkWFdHb0RtZzdtdEZ4ZHVuQ2dwVVFPaXkwTHA1ZURsUmNReU9iVUpLR3NuWWhWd0tJMVdFMjVV?oc=5",
-          "fuente": "The Indian Express",
-          "pais": "India",
-          "fecha": "2026-11-08T11:37:26+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Sunil Gavaskar backs promoting Axar Patel to five on tricky Wellington pitch The Indian Express",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Indian Express"
-      ],
-      "actores_mencionados": [
-        "India"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: India"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-3abea4d8244ee42e7fc4",
-      "fecha": "2026-11-08",
-      "titulo_fuente": "Poland mourns victims of Krakow mass shooting as security fears grow",
-      "region": "Internacional",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "3abea4d8244ee42e7fc4",
-          "titulo_original": "Poland mourns victims of Krakow mass shooting as security fears grow",
-          "titulo_es": "Polonia llora a las víctimas de los disparos masivos de Krakow a medida que crecen los miedos a la seguridad",
-          "url": "https://www.thehindu.com/news/international/poland-mourns-victims-of-krakow-mass-shooting-as-security-fears-grow/article71680839.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-11-08T11:31:28+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Seventeen people, including two police officers and the gunman, were wounded in the attack, authorities said",
-          "resumen_es": "Diecisiete personas, incluidos dos policías y el pistolero, resultaron heridas en el ataque, dijeron las autoridades"
-        }
-      ],
-      "fuentes": [
-        "The Hindu"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-e41baff33be3ec12b28a",
-      "fecha": "2026-11-08",
-      "titulo_fuente": "The vanity economy is taking over America’s downtowns - CNN",
-      "region": "Internacional",
-      "temas": [
-        "Comercio y finanzas"
-      ],
-      "noticias": [
-        {
-          "id": "e41baff33be3ec12b28a",
-          "titulo_original": "The vanity economy is taking over America’s downtowns - CNN",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9WMEliN1FvWmNmeUhnbU15ZWVOQlhZSGRTd191amZXcldETWVjaVF4QjdzWlR2T25Ud0tyUHBMblBmdUljUHM4RzlHeDdhaVp4aklJaWxpVjc2QVIzalU3M2ZxRV9VLVJJZTJvazhQN2ZMV3pZTFNv?oc=5",
-          "fuente": "CNN",
-          "pais": "Estados Unidos",
-          "fecha": "2026-11-08T11:30:15+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "The vanity economy is taking over America’s downtowns CNN",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "CNN"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia compleja y economía política internacional",
-        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Comercio y finanzas"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
