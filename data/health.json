@@ -1,23 +1,23 @@
 {
-  "updated_utc": "2026-11-08T19:11:47.767254+00:00",
+  "updated_utc": "2026-11-09T23:07:51.004185+00:00",
   "results": [
     {
       "source_id": "f16",
       "source_name": "CNN",
       "status": "ok",
-      "count_recent": 49
+      "count_recent": 50
     },
     {
       "source_id": "f25",
       "source_name": "BBC News",
       "status": "ok",
-      "count_recent": 27
+      "count_recent": 26
     },
     {
       "source_id": "f26",
       "source_name": "Deutsche Welle",
       "status": "ok",
-      "count_recent": 11
+      "count_recent": 12
     },
     {
       "source_id": "f27",
@@ -29,7 +29,7 @@
       "source_id": "f28",
       "source_name": "El País",
       "status": "ok",
-      "count_recent": 50
+      "count_recent": 49
     },
     {
       "source_id": "f29",
@@ -71,49 +71,49 @@
       "source_id": "f47",
       "source_name": "The Indian Express",
       "status": "ok",
-      "count_recent": 46
+      "count_recent": 50
     },
     {
       "source_id": "f64",
       "source_name": "The Guardian",
       "status": "ok",
-      "count_recent": 39
+      "count_recent": 37
     },
     {
       "source_id": "f66",
       "source_name": "Noticias del Consejo de la UE",
-      "status": "ok",
-      "count_recent": 9
+      "status": "error",
+      "message": "The read operation timed out"
     },
     {
       "source_id": "f67",
       "source_name": "GOV.UK FCDO",
       "status": "ok",
-      "count_recent": 16
+      "count_recent": 13
     },
     {
       "source_id": "f74",
       "source_name": "Agência Brasil (EBC)",
       "status": "ok",
-      "count_recent": 3
+      "count_recent": 2
     },
     {
       "source_id": "f75",
       "source_name": "POLITICO US",
       "status": "ok",
-      "count_recent": 47
+      "count_recent": 50
     },
     {
       "source_id": "f76",
       "source_name": "Euronews",
       "status": "ok",
-      "count_recent": 49
+      "count_recent": 50
     },
     {
       "source_id": "f77",
       "source_name": "The Diplomat",
       "status": "ok",
-      "count_recent": 16
+      "count_recent": 6
     },
     {
       "source_id": "f78",
@@ -131,7 +131,7 @@
       "source_id": "f80",
       "source_name": "War on the Rocks",
       "status": "ok",
-      "count_recent": 2
+      "count_recent": 3
     }
   ]
 }
