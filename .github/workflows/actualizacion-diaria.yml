@@ -60,6 +60,8 @@ jobs:
         run: node --check app.js
       - name: Tests internos
         run: python -m unittest discover -s tests -q
+      - name: Prueba de arranque y navegacion de interfaz
+        run: node tests/site_smoke.cjs
       - name: Conservar nuevas entradas e histórico
         run: |
           git config user.name 'eleva-actualizador'
@@ -90,9 +92,15 @@ jobs:
           fi
       - name: Preparar versión pública
         run: |
-          mkdir -p site/data
+          mkdir -p site/data/archive site/data/analisis site/data/eventos
           cp index.html style.css app.js sources.json editorial.json .nojekyll site/
-          cp -R data/. site/data/
+          cp data/current.json data/manifest.json data/health.json data/seguimiento.json site/data/
+          cp data/eventos/recientes.json site/data/eventos/
+          cp data/analisis/referencias.json site/data/analisis/
+          cp data/archive/*.json site/data/archive/
+          # No subir cachés de traducción ni los resúmenes diarios redundantes.
+          test -s site/data/current.json && test -s site/data/eventos/recientes.json
+          test -s site/data/analisis/referencias.json
       - uses: actions/configure-pages@v5
         with:
           enablement: true
@@ -101,3 +109,11 @@ jobs:
           path: site
       - id: deployment
         uses: actions/deploy-pages@v4
+        continue-on-error: true
+        with:
+          timeout: 600000
+      - id: deployment_retry
+        if: steps.deployment.outcome == 'failure'
+        uses: actions/deploy-pages@v4
+        with:
+          timeout: 600000
