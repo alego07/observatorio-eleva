@@ -14,8 +14,11 @@ class AnalisisIATest(unittest.TestCase):
    ai=e.get('analisis_ia',{})
    self.assertTrue(ai.get('actualizado'))
    for item in ai.get('conclusiones',[]):
-    for key in ('evidencia','inferencia','fundamento','teoria','limite'):
+    for key in ('evidencia','inferencia','fundamento','limite'):
      self.assertGreater(len(item.get(key,'')),18, (e['id'],key))
+    # El nombre de una teoria puede ser breve (p. ej., realismo o geoeconomia).
+    # Exigir que el mecanismo este explicado en el fundamento, no en la etiqueta.
+    self.assertGreaterEqual(len(item.get('teoria','').strip()),7, (e['id'],'teoria'))
     self.assertTrue(item.get('fuentes'))
     for i in item['fuentes']:
      self.assertGreaterEqual(i,0)
