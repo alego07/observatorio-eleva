@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-11-09T23:10:09.228782+00:00",
+  "created_utc": "2026-11-09T23:30:22.090908+00:00",
   "events": [
     {
       "id": "a-bfda470de770220f023d",
@@ -219,6 +219,67 @@
         "Actores relevantes: China, Estados Unidos, Irán, Rusia",
         "Ámbito: Diplomacia, Seguridad y conflictos",
         "Posible decisión institucional o negociación"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-2ecf841fedbcee54db81",
+      "fecha": "2026-11-09",
+      "titulo_fuente": "Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy",
+      "region": "China",
+      "temas": [
+        "Diplomacia",
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "2ecf841fedbcee54db81",
+          "titulo_original": "Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy",
+          "titulo_es": "Silicon Valley y Trump se reúnen detrás del CEO de Nvidia después de su aventura con presunto espía chino",
+          "url": "https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-09T23:14:17+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Elon Musk and other finance moguls defend Jensen Huang after he admitted to the affair in an email to employees Nvidia’s board needs to do some succession planning – sharpish Donald Trump , Elon Musk and prominent finance moguls have expressed their support for embattled Nvidia CEO Jensen Huang , as the head of the world’s most valuable chip company faces an internal investigation over a romantic relationship with an alleged Chinese spy. Trump sa",
+          "resumen_es": "Elon Musk y otros moguls financieros defienden a Jensen Huang después de haber admitido en el asunto en un correo electrónico a los empleados Nvidia's board necesita hacer algunos planes de sucesión – agudizo Donald Trump , Elon Musk y prominentes moguls financieros tienen expatriados"
+        },
+        {
+          "id": "4a9293f6fb1874436e24",
+          "titulo_original": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+          "titulo_es": "Trump dice que el FBI está investigando el asunto del jefe de Nvidia con el presunto espía chino",
+          "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-09T23:01:32+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The US president said the FBI is now investigating the affair. He said he spoke with Jensen Huang and asked him about the affair.",
+          "resumen_es": "El presidente estadounidense dijo que el FBI está investigando el asunto. Dijo que habló con Jensen Huang y le preguntó sobre el asunto."
+        }
+      ],
+      "fuentes": [
+        "BBC News",
+        "The Guardian"
+      ],
+      "actores_mencionados": [
+        "China",
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 2,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 7,
+      "motivos_seleccion": [
+        "Cobertura de fuentes distintas",
+        "Actores relevantes: China, Estados Unidos",
+        "Ámbito: Comercio y finanzas, Diplomacia"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -530,14 +591,14 @@
         {
           "id": "f2809e1f41f3995f1f79",
           "titulo_original": "Turkey: Delegates arrive in Antalya as COP31 climate talks begin",
-          "titulo_es": "",
+          "titulo_es": "Turquía: Los delegados llegan a Antalya cuando comienzan las conversaciones climáticas COP31",
           "url": "https://www.euronews.com/video/2026/11/09/turkey-delegates-arrive-in-antalya-as-cop31-climate-talks-begin",
           "fuente": "Euronews",
           "pais": "Unión Europea",
           "fecha": "2026-11-09T21:23:15+00:00",
           "estado": "publicación periodística; corroboración pendiente",
           "resumen_original": "The United Nations COP31 climate summit has opened in Antalya after a year marked by deadly heatwaves and devastating floods. Delegates face fresh challenges as the war in Iran disrupts global energy supplies.",
-          "resumen_es": ""
+          "resumen_es": "La cumbre sobre el clima de la COP31 de las Naciones Unidas se ha abierto en Antalya después de un año marcado por ondas de calor mortales y inundaciones devastadoras. Los delegados se enfrentan a nuevos desafíos mientras la guerra en Irán interrumpe los suministros energéticos globales."
         }
       ],
       "fuentes": [
@@ -1986,52 +2047,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-27089dcc8cbc1619c417",
-      "fecha": "2026-11-08",
-      "titulo_fuente": "Iran’s proposals on opening Strait of Hormuz still on table — top diplomat",
-      "region": "Oriente Medio",
-      "temas": [
-        "Diplomacia"
-      ],
-      "noticias": [
-        {
-          "id": "27089dcc8cbc1619c417",
-          "titulo_original": "Iran’s proposals on opening Strait of Hormuz still on table — top diplomat",
-          "titulo_es": "Las propuestas de Irán sobre la apertura del Estrecho de Hormuz todavía sobre la mesa — diplomático superior",
-          "url": "https://tass.com/world/2214517",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-08T18:20:45+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "If Washington meets Tehran’s demands, it will see the result, Iranian Foreign Minister Abbas Araghchi said",
-          "resumen_es": "Si Washington cumple con las demandas de Teherán, verá el resultado, dijo el Canciller iraní Abbas Araghchi"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "Irán"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos, Irán",
-        "Ámbito: Diplomacia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-fe8cd1d86af295068231",
       "fecha": "2026-11-09",
       "titulo_fuente": "Trilateral talks on Ukraine to begin in Abu Dhabi",
@@ -2163,29 +2178,29 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-4a9293f6fb1874436e24",
+      "id": "a-8d0f7bf2e8e8c3af6b4d",
       "fecha": "2026-11-09",
-      "titulo_fuente": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "titulo_fuente": "Trump backs Nvidia’s Huang over spy allegations, says Xi may raise case",
       "region": "China",
       "temas": [
         "Actualidad"
       ],
       "noticias": [
         {
-          "id": "4a9293f6fb1874436e24",
-          "titulo_original": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-          "titulo_es": "Trump dice que el FBI está investigando el asunto del jefe de Nvidia con el presunto espía chino",
-          "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-09T23:01:32+00:00",
+          "id": "8d0f7bf2e8e8c3af6b4d",
+          "titulo_original": "Trump backs Nvidia’s Huang over spy allegations, says Xi may raise case",
+          "titulo_es": "Trump respalda a Huang de Nvidia por acusaciones de espía, dice Xi puede plantear caso",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3373857/trump-backs-nvidias-huang-over-spy-allegations-says-xi-may-raise-case",
+          "fuente": "South China Morning Post",
+          "pais": "Hong Kong",
+          "fecha": "2026-11-09T23:15:38+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The US president said the FBI is now investigating the affair. He said he spoke with Jensen Huang and asked him about the affair.",
-          "resumen_es": "El presidente estadounidense dijo que el FBI está investigando el asunto. Dijo que habló con Jensen Huang y le preguntó sobre el asunto."
+          "resumen_original": "US President Donald Trump said on Monday that Nvidia chief executive Jensen Huang had told him he did not know a woman at the centre of espionage allegations was a suspected Chinese spy, and that he believed the technology executive’s account. Speaking to reporters at the White House, Trump said he had spoken to Huang earlier in the day, as the chipmaker faces scrutiny over whether its founder was targeted by a foreign intelligence operation. “I ",
+          "resumen_es": "El presidente estadounidense Donald Trump dijo el lunes que el jefe ejecutivo de Nvidia Jensen Huang le había dicho que no conocía a una mujer en el centro de las acusaciones de espionaje era un espía chino sospechoso, y que creía que el ejecutivo de la tecnología era accou."
         }
       ],
       "fuentes": [
-        "BBC News"
+        "South China Morning Post"
       ],
       "actores_mencionados": [
         "Estados Unidos",
@@ -2492,14 +2507,14 @@
         {
           "id": "0d0d60984df1678fb96d",
           "titulo_original": "In Vietnam, ‘China plus one’ still needs Chinese input",
-          "titulo_es": "",
+          "titulo_es": "En Vietnam, ‘China más uno’ todavía necesita insumos chinos",
           "url": "https://www.scmp.com/opinion/asia-opinion/article/3373495/vietnam-china-plus-one-still-needs-chinese-input",
           "fuente": "South China Morning Post",
           "pais": "Hong Kong",
           "fecha": "2026-11-09T21:30:05+00:00",
           "estado": "publicación periodística; corroboración pendiente",
           "resumen_original": "At the Fortune Southeast Asia 500 Summit in Ho Chi Minh City on November 3, a discussion of regional connectivity explored how goods move across borders. I came away thinking about what stays behind. When production moves to Vietnam, how much of the ability to produce moves with it? Vietnam has set itself an extraordinary ambition. Its five-year plan, approved in April, targets average annual gross domestic product growth of at least 10 per cent ",
-          "resumen_es": ""
+          "resumen_es": "En la Cumbre Fortune Southeast Asia 500 en Ho Chi Minh City el 3 de noviembre, una discusión de conectividad regional exploró cómo las mercancías se mueven a través de las fronteras. Me fui pensando en lo que queda atrás. Cuando la producción se mueve a Vietnam, cómo mu"
         }
       ],
       "fuentes": [
@@ -2537,14 +2552,14 @@
         {
           "id": "931e15f47a0e79bfee8f",
           "titulo_original": "‘Trump is still Trump’ on Ukraine - Politico",
-          "titulo_es": "",
+          "titulo_es": "‘Trump sigue siendo Trump’ en Ucrania - Politico",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ29GNDJmaHA5bTZ3YVlUVTdmSkRzdzYtZ2NJNTBRN3dpblZ6UldLdEVxS0MwUmRCdXlUelNmOTdxTXpJTXhvVlRTOExMczlUcWlRZnhhVmRoZkwtS0d5UkVfWHRaczJSUEtqOEpqd0lfVHJsTEhidnFtbXhIRjEwcnlhTDIzV0ZwdnRWaFhUaGw4bHMyWGFULW83cGk5MWp0cEcyb2RUUnBBM211b0ZJdmFn?oc=5",
           "fuente": "POLITICO US",
           "pais": "Estados Unidos",
           "fecha": "2026-11-09T21:22:23+00:00",
           "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
           "resumen_original": "‘Trump is still Trump’ on Ukraine Politico",
-          "resumen_es": ""
+          "resumen_es": "‘Trump sigue siendo Trump’ en Ucrania Politico"
         }
       ],
       "fuentes": [
@@ -2582,14 +2597,14 @@
         {
           "id": "e9f5f210cb87a388482e",
           "titulo_original": "Politico names European participants supporting Ukraine in Abu Dhabi",
-          "titulo_es": "",
+          "titulo_es": "Nombres políticos Participantes europeos que apoyan Ucrania en Abu Dhabi",
           "url": "https://tass.com/world/2215093",
           "fuente": "TASS",
           "pais": "Rusia",
           "fecha": "2026-11-09T21:10:01+00:00",
           "estado": "publicación periodística; corroboración pendiente",
           "resumen_original": "Among them, in particular, are Gunther Sautter, the German chancellor’s adviser on foreign issue, and Emmanuel Bonne, the French President’s diplomatic adviser",
-          "resumen_es": ""
+          "resumen_es": "Entre ellos, en particular, están Gunther Sautter, asesor del canciller alemán sobre cuestiones extranjeras, y Emmanuel Bonne, asesor diplomático del presidente francés"
         }
       ],
       "fuentes": [
@@ -3154,6 +3169,51 @@
       "prioridad_orientativa": 4,
       "motivos_seleccion": [
         "Actores relevantes: Rusia, Ucrania"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-df256364efb1b7f9f516",
+      "fecha": "2026-11-09",
+      "titulo_fuente": "Ukraine: Council extends EU Military Assistance Mission mandate for two years",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "df256364efb1b7f9f516",
+          "titulo_original": "Ukraine: Council extends EU Military Assistance Mission mandate for two years",
+          "titulo_es": "",
+          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/09/ukraine-council-extends-eu-military-assistance-mission-mandate-for-two-years/",
+          "fuente": "Noticias del Consejo de la UE",
+          "pais": "Unión Europea",
+          "fecha": "2026-11-09T17:01:00+00:00",
+          "estado": "declaración de la fuente; corroboración independiente pendiente",
+          "resumen_original": "The Council extended the mandate of the EU Military Assistance Mission in support of Ukraine until 15 November 2028.",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "Noticias del Consejo de la UE"
+      ],
+      "actores_mencionados": [
+        "Ucrania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Ucrania",
+        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -4899,51 +4959,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-aaa9539f55510ac6207b",
-      "fecha": "2026-11-08",
-      "titulo_fuente": "Trump set to lurch further right, claiming US took ‘giant step back’ in elections",
-      "region": "Estados Unidos",
-      "temas": [
-        "Migración y DD. HH."
-      ],
-      "noticias": [
-        {
-          "id": "aaa9539f55510ac6207b",
-          "titulo_original": "Trump set to lurch further right, claiming US took ‘giant step back’ in elections",
-          "titulo_es": "Trump se puso a lurch más a la derecha, afirmando que EE.UU. dio un paso adelante en las elecciones",
-          "url": "https://www.theguardian.com/us-news/2026/nov/08/trump-midterm-elections-loss-democrats-immigration",
-          "fuente": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-08T17:58:43+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Trump poised to double down on immigration crackdown and refuse concessions to new Democratic majority in Congress Donald Trump set the stage for his administration to lurch further to the right this weekend, claiming the US had taken a “giant step back” by widely rejecting his party. The US president’s hardline aide, Stephen Miller, will begin as White House chief of staff on Monday. He will also meet with Dana White, CEO and president of the Ul",
-          "resumen_es": "Trump llegó a duplicarse con las concesiones de inmigración y rechazar las concesiones a la nueva mayoría democrática en el Congreso Donald Trump puso el escenario para que su administración se alargue más a la derecha este fin de semana, afirmando que Estados Unidos había tomado un \"gi"
-        }
-      ],
-      "fuentes": [
-        "The Guardian"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Derecho internacional y constructivismo",
-        "pregunta": "¿Qué normas, identidades y obligaciones internacionales invocan los actores?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos",
-        "Ámbito: Migración y DD. HH."
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-d874e98ba1892e4066ad",
       "fecha": "2026-11-09",
       "titulo_fuente": "Judge denies motion to dismiss Lindsay Clancy's murder case",
@@ -5787,14 +5802,14 @@
         {
           "id": "43bb44b556078a64bd29",
           "titulo_original": "COP31 opens amid energy crisis as activists demand climate action",
-          "titulo_es": "",
+          "titulo_es": "COP31 abre en medio de la crisis energética mientras los activistas demandan acción climática",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/cop31-opens-amid-energy-crisis-as-activists-demand-climate-action?traffic_source=rss",
           "fuente": "Al Jazeera",
           "pais": "Catar",
           "fecha": "2026-11-09T21:18:25+00:00",
           "estado": "publicación periodística; corroboración pendiente",
           "resumen_original": "COP31 has opened in Turkiye amid war-driven energy disruptions and a renewed reliance on fossil fuels.",
-          "resumen_es": ""
+          "resumen_es": "COP31 ha abierto en Turkiye en medio de perturbaciones energéticas impulsadas por la guerra y una renovada dependencia de los combustibles fósiles."
         }
       ],
       "fuentes": [
@@ -5831,14 +5846,14 @@
         {
           "id": "3b49dd0524a12feaa2f3",
           "titulo_original": "Nvidia plunges but tech shares rebound, oil prices slump",
-          "titulo_es": "",
+          "titulo_es": "Nvidia se hunde pero las acciones tecnológicas rebotan, los precios del petróleo desploma",
           "url": "https://www.thehindu.com/business/markets/nvidia-plunges-but-tech-shares-rebound-oil-prices-slump/article71683988.ece",
           "fuente": "The Hindu",
           "pais": "India",
           "fecha": "2026-11-09T21:13:33+00:00",
           "estado": "publicación periodística; corroboración pendiente",
           "resumen_original": "Nvidia shares slumped more than 8% as trading got under way in New York but recovered to stand down more than 5% in early afternoon trading",
-          "resumen_es": ""
+          "resumen_es": "Las acciones de Nvidia desplomaron más del 8% cuando el comercio se puso en marcha en Nueva York pero se recuperó para bajar más del 5% en el comercio de la tarde temprano"
         }
       ],
       "fuentes": [
@@ -6031,6 +6046,48 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Actores relevantes: Irán"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-6f6c11d912e095d5a7ff",
+      "fecha": "2026-11-09",
+      "titulo_fuente": "Media advisory - Economic and Financial Affairs Council (Budget) of 10 November 2026",
+      "region": "Internacional",
+      "temas": [
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "6f6c11d912e095d5a7ff",
+          "titulo_original": "Media advisory - Economic and Financial Affairs Council (Budget) of 10 November 2026",
+          "titulo_es": "",
+          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/09/media-advisory-economic-and-financial-affairs-council-budget-of-10-november-2026/",
+          "fuente": "Noticias del Consejo de la UE",
+          "pais": "Unión Europea",
+          "fecha": "2026-11-09T20:35:00+00:00",
+          "estado": "declaración de la fuente; corroboración independiente pendiente",
+          "resumen_original": "Main agenda items, approximate timing and press opportunities.",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "Noticias del Consejo de la UE"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia compleja y economía política internacional",
+        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Comercio y finanzas"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6972,50 +7029,6 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Cobertura de fuentes distintas"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-6d33bfa95651e33affba",
-      "fecha": "2026-11-09",
-      "titulo_fuente": "Europe aircraft bomb threats could be used to paint Russia as villain — GFCN deputy head",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "6d33bfa95651e33affba",
-          "titulo_original": "Europe aircraft bomb threats could be used to paint Russia as villain — GFCN deputy head",
-          "titulo_es": "",
-          "url": "https://tass.com/society/2215037",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-09T18:10:00+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Daniil Bisslinger said the reports should be treated with due caution, because their danger lies in the fact that security services must thoroughly investigate each such report",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
