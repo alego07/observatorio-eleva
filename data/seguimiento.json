@@ -1,17 +1,41 @@
 {
-  "actualizado_utc": "2026-11-10T18:41:36.843425+00:00",
+  "actualizado_utc": "2026-11-10T18:55:12.423461+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 1941,
-      "nuevas_24h": 120,
-      "anteriores_24h": 38,
+      "cantidad_archivada": 1944,
+      "nuevas_24h": 122,
+      "anteriores_24h": 39,
       "dias_con_registros": 26,
-      "fecha_ultima": "2026-11-10T18:33:32+00:00",
+      "fecha_ultima": "2026-11-10T18:50:19+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "8dd2067a60dab3880c39",
+          "fecha": "2026-11-10T18:50:19+00:00",
+          "titulo": "Putin thanks Lukashenko for Belarus' assistance with humanitarian exchanges on Ukraine",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2215741",
+          "traducida": false
+        },
+        {
+          "id": "3fb04ed161986a0991f5",
+          "fecha": "2026-11-10T18:39:02+00:00",
+          "titulo": "Russian stocks close in the red on Tuesday",
+          "fuente": "TASS",
+          "url": "https://tass.com/economy/2215737",
+          "traducida": false
+        },
+        {
+          "id": "55b4bc03a0eb318e375f",
+          "fecha": "2026-11-10T18:35:35+00:00",
+          "titulo": "Meet the Peaky Blinders, Ukraine's drone unit protecting a devastated front-line city",
+          "fuente": "BBC News",
+          "url": "https://www.bbc.co.uk/news/videos/cm2l4l59gjp7o?at_medium=RSS&at_campaign=rss",
+          "traducida": false
+        },
         {
           "id": "b6d7e839491af531acb5",
           "fecha": "2026-11-10T18:33:32+00:00",
@@ -227,30 +251,6 @@
           "fuente": "POLITICO Europe",
           "url": "https://www.politico.eu/article/merz-clashes-with-fico-over-german-bid-to-link-eu-budget-and-ukraine-loan/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
           "traducida": false
-        },
-        {
-          "id": "91f59a5feff5f70dcf8b",
-          "fecha": "2026-11-10T14:43:31+00:00",
-          "titulo": "EN DIRECT, guerre en Ukraine : « La libération des prisonniers de guerre est une priorité », souligne Volodymyr Zelensky après la première journée de discussions à Abou Dhabi",
-          "fuente": "Le Monde",
-          "url": "https://www.lemonde.fr/international/live/2026/11/10/en-direct-guerre-en-ukraine-marco-rubio-juge-les-pourparlers-d-abou-dhabi-tres-productifs_6808609_3210.html",
-          "traducida": false
-        },
-        {
-          "id": "68ca88aa70f368801164",
-          "fecha": "2026-11-10T14:36:35+00:00",
-          "titulo": "More than 250 churches damaged in Donbass, Novorossiya in Ukrainian attacks",
-          "fuente": "TASS",
-          "url": "https://tass.com/society/2215625",
-          "traducida": false
-        },
-        {
-          "id": "a0e6d1ed1ed2102cbbf8",
-          "fecha": "2026-11-10T14:27:10+00:00",
-          "titulo": "US redeployment in Europe to force EU to foot bill for NATO, Kiev — expert",
-          "fuente": "TASS",
-          "url": "https://tass.com/society/2215619",
-          "traducida": false
         }
       ]
     },
@@ -258,8 +258,8 @@
       "id": "oriente-medio",
       "titulo": "Oriente Medio: seguridad y diplomacia",
       "cantidad_archivada": 1390,
-      "nuevas_24h": 108,
-      "anteriores_24h": 42,
+      "nuevas_24h": 106,
+      "anteriores_24h": 43,
       "dias_con_registros": 26,
       "fecha_ultima": "2026-11-10T18:26:46+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -510,8 +510,8 @@
       "id": "india-asia",
       "titulo": "India y Asia-Pacífico",
       "cantidad_archivada": 1281,
-      "nuevas_24h": 65,
-      "anteriores_24h": 65,
+      "nuevas_24h": 64,
+      "anteriores_24h": 66,
       "dias_con_registros": 26,
       "fecha_ultima": "2026-11-10T16:30:09+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -1266,8 +1266,8 @@
       "id": "suramerica",
       "titulo": "Sudamérica: integración y política exterior",
       "cantidad_archivada": 313,
-      "nuevas_24h": 15,
-      "anteriores_24h": 9,
+      "nuevas_24h": 13,
+      "anteriores_24h": 11,
       "dias_con_registros": 26,
       "fecha_ultima": "2026-11-10T18:00:20+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -1518,8 +1518,8 @@
       "id": "onu",
       "titulo": "Naciones Unidas y multilateralismo",
       "cantidad_archivada": 66,
-      "nuevas_24h": 6,
-      "anteriores_24h": 3,
+      "nuevas_24h": 5,
+      "anteriores_24h": 4,
       "dias_con_registros": 21,
       "fecha_ultima": "2026-11-10T17:23:27+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",

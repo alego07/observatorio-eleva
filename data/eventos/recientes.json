@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-11-10T18:41:36.777388+00:00",
+  "created_utc": "2026-11-10T18:55:12.008668+00:00",
   "events": [
     {
       "id": "a-6feeab290d0ce2a1eae2",
@@ -439,6 +439,52 @@
       "motivos_seleccion": [
         "Actores relevantes: Perú",
         "Mención expresa al Perú"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-55b4bc03a0eb318e375f",
+      "fecha": "2026-11-10",
+      "titulo_fuente": "Meet the Peaky Blinders, Ukraine's drone unit protecting a devastated front-line city",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "55b4bc03a0eb318e375f",
+          "titulo_original": "Meet the Peaky Blinders, Ukraine's drone unit protecting a devastated front-line city",
+          "titulo_es": "Conoce a los Peaky Blinders, la unidad de drones de Ucrania que protege una ciudad en primera línea devastada",
+          "url": "https://www.bbc.co.uk/news/videos/cm2l4l59gjp7o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-10T18:35:35+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Slovyansk continues to be bombarded by Russian forces, making it almost uninhabitable with less than 10% of it's pre-war population remaining.",
+          "resumen_es": "Slovyansk sigue siendo bombardeada por fuerzas rusas, lo que lo hace casi inhabitable con menos del 10% de su población anterior a la guerra."
+        }
+      ],
+      "fuentes": [
+        "BBC News"
+      ],
+      "actores_mencionados": [
+        "Rusia",
+        "Ucrania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia, Ucrania",
+        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -2173,47 +2219,60 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-93cacf4153836507f4f7",
+      "id": "a-565f673f87838f624771",
       "fecha": "2026-11-10",
-      "titulo_fuente": "Elon Musk and Michael Miebach to join Trump at Apec in Shenzhen. What about Jensen Huang?",
-      "region": "China",
+      "titulo_fuente": "Trump administration again boycotts UN human rights review",
+      "region": "Estados Unidos",
       "temas": [
-        "Diplomacia"
+        "Migración y DD. HH."
       ],
       "noticias": [
         {
-          "id": "93cacf4153836507f4f7",
-          "titulo_original": "Elon Musk and Michael Miebach to join Trump at Apec in Shenzhen. What about Jensen Huang?",
-          "titulo_es": "",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3373901/top-us-business-leaders-including-elon-musk-set-join-donald-trump-apec-china",
+          "id": "565f673f87838f624771",
+          "titulo_original": "Trump administration again boycotts UN human rights review",
+          "titulo_es": "La administración Trump vuelve a boicotear la revisión de derechos humanos de la ONU",
+          "url": "https://www.aljazeera.com/news/2026/11/10/trump-administration-again-boycotts-un-human-rights-review?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-10T18:29:56+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "UN Human Rights Council delays US human rights record examination until January after Washington refuses meeting.",
+          "resumen_es": "ONU Derechos Humanos Consejo retrasa el examen récord de derechos humanos de Estados Unidos hasta enero después de que Washington se rehúsa a reunirse."
+        },
+        {
+          "id": "eb6e1f21ea09c92f23c5",
+          "titulo_original": "US again fails to show at UN for its human rights review",
+          "titulo_es": "EE.UU. no vuelve a mostrar en la ONU su examen de derechos humanos",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3373992/us-again-fails-show-un-its-human-rights-review",
           "fuente": "South China Morning Post",
           "pais": "Hong Kong",
-          "fecha": "2026-11-10T06:16:04+00:00",
+          "fecha": "2026-11-10T17:17:51+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Top US business leaders, including Tesla and SpaceX chief Elon Musk and Mastercard’s Michael Miebach, are expected to join Donald Trump’s delegation to China for next week’s Apec summit, the South China Morning Post understands. Nvidia chief Jensen Huang had been in talks to join, but his participation is now in doubt amid a controversy that has rocked his company and the wider tech industry. Sources told the SCMP that Musk, Miebach and Huang wer",
-          "resumen_es": ""
+          "resumen_original": "The UN’s top human rights body on Tuesday postponed a regular review of the US human rights record until January in hopes of persuading the Trump administration to reverse its decision to become the first government to snub the process. The move by the Human Rights Council buys it more time to try to coax Washington to take part in the review. The council’s 47 member countries adopted without a vote the decision to delay the US review – amid “con",
+          "resumen_es": "El martes, el máximo órgano de derechos humanos de la ONU pospuso un examen periódico del registro de derechos humanos de los Estados Unidos hasta enero con la esperanza de persuadir a la administración Trump de que revertiera su decisión de convertirse en el primer gobierno en cuestionar el proceso. El"
         }
       ],
       "fuentes": [
+        "Al Jazeera",
         "South China Morning Post"
       ],
       "actores_mencionados": [
-        "Estados Unidos",
-        "China"
+        "Estados Unidos"
       ],
-      "fuentes_independientes": 1,
+      "fuentes_independientes": 2,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+        "nombre": "Derecho internacional y constructivismo",
+        "pregunta": "¿Qué normas, identidades y obligaciones internacionales invocan los actores?"
       },
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
+      "prioridad_orientativa": 5,
       "motivos_seleccion": [
-        "Actores relevantes: China, Estados Unidos",
-        "Ámbito: Diplomacia"
+        "Cobertura de fuentes distintas",
+        "Actores relevantes: Estados Unidos",
+        "Ámbito: Migración y DD. HH."
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -2393,6 +2452,96 @@
       "motivos_seleccion": [
         "Cobertura de fuentes distintas",
         "Actores relevantes: China, Estados Unidos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-8dd2067a60dab3880c39",
+      "fecha": "2026-11-10",
+      "titulo_fuente": "Putin thanks Lukashenko for Belarus' assistance with humanitarian exchanges on Ukraine",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "8dd2067a60dab3880c39",
+          "titulo_original": "Putin thanks Lukashenko for Belarus' assistance with humanitarian exchanges on Ukraine",
+          "titulo_es": "Putin agradece a Lukashenko por la asistencia de Belarús con intercambios humanitarios en Ucrania",
+          "url": "https://tass.com/politics/2215741",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-10T18:50:19+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The president said that Russia greatly appreciates it",
+          "resumen_es": "El presidente dijo que Rusia lo aprecia mucho"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Rusia",
+        "Ucrania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia, Ucrania"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-3fb04ed161986a0991f5",
+      "fecha": "2026-11-10",
+      "titulo_fuente": "Russian stocks close in the red on Tuesday",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "3fb04ed161986a0991f5",
+          "titulo_original": "Russian stocks close in the red on Tuesday",
+          "titulo_es": "Las acciones rusas cierran en rojo el martes",
+          "url": "https://tass.com/economy/2215737",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-10T18:39:02+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "BCS World of Investment forecasts the dollar exchange rate for Wednesday at 81-83 rubles",
+          "resumen_es": "BCS World of Investment pronostica el tipo de cambio de dólar para el miércoles a 81-83 rublos"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Rusia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia compleja y economía política internacional",
+        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia",
+        "Ámbito: Comercio y finanzas"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -2888,51 +3037,6 @@
       "motivos_seleccion": [
         "Actores relevantes: Irán",
         "Ámbito: Comercio y finanzas, Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-eb6e1f21ea09c92f23c5",
-      "fecha": "2026-11-10",
-      "titulo_fuente": "US again fails to show at UN for its human rights review",
-      "region": "Estados Unidos",
-      "temas": [
-        "Migración y DD. HH."
-      ],
-      "noticias": [
-        {
-          "id": "eb6e1f21ea09c92f23c5",
-          "titulo_original": "US again fails to show at UN for its human rights review",
-          "titulo_es": "EE.UU. no vuelve a mostrar en la ONU su examen de derechos humanos",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3373992/us-again-fails-show-un-its-human-rights-review",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-11-10T17:17:51+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The UN’s top human rights body on Tuesday postponed a regular review of the US human rights record until January in hopes of persuading the Trump administration to reverse its decision to become the first government to snub the process. The move by the Human Rights Council buys it more time to try to coax Washington to take part in the review. The council’s 47 member countries adopted without a vote the decision to delay the US review – amid “con",
-          "resumen_es": "El martes, el máximo órgano de derechos humanos de la ONU pospuso un examen periódico del registro de derechos humanos de los Estados Unidos hasta enero con la esperanza de persuadir a la administración Trump de que revertiera su decisión de convertirse en el primer gobierno en cuestionar el proceso. El"
-        }
-      ],
-      "fuentes": [
-        "South China Morning Post"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Derecho internacional y constructivismo",
-        "pregunta": "¿Qué normas, identidades y obligaciones internacionales invocan los actores?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos",
-        "Ámbito: Migración y DD. HH."
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6878,98 +6982,6 @@
       "motivos_seleccion": [
         "Actores relevantes: Estados Unidos",
         "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-f2bcddac46a96502efdf",
-      "fecha": "2026-11-10",
-      "titulo_fuente": "Rosoboronexport presents Anti-Drone Dome project at international forum in Moscow",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Seguridad y conflictos",
-        "Comercio y finanzas"
-      ],
-      "noticias": [
-        {
-          "id": "f2bcddac46a96502efdf",
-          "titulo_original": "Rosoboronexport presents Anti-Drone Dome project at international forum in Moscow",
-          "titulo_es": "",
-          "url": "https://tass.com/defense/2215259",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-10T08:05:18+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The Verba man-portable air defense system, the Pantsir-S1M air defense missile and gun system and the Citadel air defense artillery system are also on display",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia",
-        "Ámbito: Comercio y finanzas, Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-78bffaa710535cf2ca21",
-      "fecha": "2026-11-10",
-      "titulo_fuente": "Gapriya-A1 (E) UAV unveiled at international forum in Moscow",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Comercio y finanzas",
-        "Organismos multilaterales"
-      ],
-      "noticias": [
-        {
-          "id": "78bffaa710535cf2ca21",
-          "titulo_original": "Gapriya-A1 (E) UAV unveiled at international forum in Moscow",
-          "titulo_es": "",
-          "url": "https://tass.com/defense/2215263",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-10T08:03:45+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "According to Rosoboronexport CEO Alexander Mikheyev, the Garpyia-A1 (E) unmanned aerial vehicle is the world’s only loitering munition available for export with a range of up to 1,000 km",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia compleja y economía política internacional",
-        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia",
-        "Ámbito: Comercio y finanzas, Organismos multilaterales"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
