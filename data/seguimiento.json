@@ -1,17 +1,57 @@
 {
-  "actualizado_utc": "2026-11-10T18:16:50.196597+00:00",
+  "actualizado_utc": "2026-11-10T18:41:36.843425+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 1936,
-      "nuevas_24h": 116,
-      "anteriores_24h": 37,
+      "cantidad_archivada": 1941,
+      "nuevas_24h": 120,
+      "anteriores_24h": 38,
       "dias_con_registros": 26,
-      "fecha_ultima": "2026-11-10T18:02:30+00:00",
+      "fecha_ultima": "2026-11-10T18:33:32+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "b6d7e839491af531acb5",
+          "fecha": "2026-11-10T18:33:32+00:00",
+          "titulo": "Putin says pleased with pace of high-tech development in Russia, Belarus",
+          "fuente": "TASS",
+          "url": "https://tass.com/economy/2215735",
+          "traducida": false
+        },
+        {
+          "id": "0a565b8e6803e4a6d6e9",
+          "fecha": "2026-11-10T18:31:21+00:00",
+          "titulo": "Lukashenko thanks Putin for providing Belarus with advanced weapons",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2215733",
+          "traducida": false
+        },
+        {
+          "id": "60af6a80fe7faae1b407",
+          "fecha": "2026-11-10T18:29:46+00:00",
+          "titulo": "Russian-Belarusian economic partnership expanding at good pace — Putin",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2215731",
+          "traducida": false
+        },
+        {
+          "id": "3c9e2d2e78301b66f1a3",
+          "fecha": "2026-11-10T18:13:00+00:00",
+          "titulo": "Putin meets with Lukashenko at Novo-Ogaryovo residence in Moscow Region",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2215727",
+          "traducida": false
+        },
+        {
+          "id": "b42c067e9427ee7c3c8c",
+          "fecha": "2026-11-10T18:12:46+00:00",
+          "titulo": "CSTO Council meeting to focus on wide range of security issues — Putin",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2215725",
+          "traducida": false
+        },
         {
           "id": "6089d545d9753af30164",
           "fecha": "2026-11-10T18:02:30+00:00",
@@ -211,59 +251,35 @@
           "fuente": "TASS",
           "url": "https://tass.com/society/2215619",
           "traducida": false
-        },
-        {
-          "id": "100ed8133111995e9f80",
-          "fecha": "2026-11-10T14:24:52+00:00",
-          "titulo": "Bulgaria unable to provide funds for loans to Ukraine — prime minister",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2215615",
-          "traducida": false
-        },
-        {
-          "id": "eae6be4b62de22a30884",
-          "fecha": "2026-11-10T14:23:04+00:00",
-          "titulo": "MEP deeply troubled over twisting of torture facts in Ukraine",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2215613",
-          "traducida": false
-        },
-        {
-          "id": "4c36068fda516f7162d5",
-          "fecha": "2026-11-10T14:20:40+00:00",
-          "titulo": "Russian foreign minister comments on Armenia in CSTO, Kiev's revenge, EU plans for Ukraine",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2215611",
-          "traducida": false
-        },
-        {
-          "id": "19719fd9393421ccbf99",
-          "fecha": "2026-11-10T14:10:30+00:00",
-          "titulo": "Rubio says Abu Dhabi talks between Russia, US, Ukraine were 'very productive'",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2215607",
-          "traducida": false
-        },
-        {
-          "id": "8aac9ada61edda4a874a",
-          "fecha": "2026-11-10T13:54:22+00:00",
-          "titulo": "Three Zaporozhye NPP employees killed in Ukraine’s attacks in past two weeks",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2215597",
-          "traducida": false
         }
       ]
     },
     {
       "id": "oriente-medio",
       "titulo": "Oriente Medio: seguridad y diplomacia",
-      "cantidad_archivada": 1388,
-      "nuevas_24h": 109,
-      "anteriores_24h": 40,
+      "cantidad_archivada": 1390,
+      "nuevas_24h": 108,
+      "anteriores_24h": 42,
       "dias_con_registros": 26,
-      "fecha_ultima": "2026-11-10T17:40:35+00:00",
+      "fecha_ultima": "2026-11-10T18:26:46+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "3557666475fb7a874ba3",
+          "fecha": "2026-11-10T18:26:46+00:00",
+          "titulo": "US forces Iraq to send back plane carrying Iranian football squad — sports official",
+          "fuente": "TASS",
+          "url": "https://tass.com/sports/2215721",
+          "traducida": false
+        },
+        {
+          "id": "839001bc59e38393addc",
+          "fecha": "2026-11-10T18:22:43+00:00",
+          "titulo": "En Israël, la première session sous tension à la Knesset laisse présager des tractations difficiles dans les semaines à venir",
+          "fuente": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/10/en-israel-la-premiere-session-sous-tension-a-la-knesset-laisse-presager-des-tractations-difficiles-dans-les-semaines-a-venir_6808849_3211.html",
+          "traducida": false
+        },
         {
           "id": "f6093e5a2df98a4586a4",
           "fecha": "2026-11-10T17:40:35+00:00",
@@ -486,22 +502,6 @@
           "titulo": "Pentagon says US destroyed over 80% of Iran's nuclear industry",
           "fuente": "TASS",
           "url": "https://tass.com/world/2215639",
-          "traducida": false
-        },
-        {
-          "id": "10c38b2a87dfb34d01a5",
-          "fecha": "2026-11-10T14:51:09+00:00",
-          "titulo": "Houthis claim strikes on Riyadh airport, Saudi Aramco facilities",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2215633",
-          "traducida": false
-        },
-        {
-          "id": "058918c6f6f2aded9db2",
-          "fecha": "2026-11-10T14:45:22+00:00",
-          "titulo": "Hegseth impeachment: What is he accused of, and could he be removed?",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/10/hegseth-impeachment-what-is-he-accused-of-and-could-he-be-removed?traffic_source=rss",
           "traducida": false
         }
       ]
@@ -763,7 +763,7 @@
       "titulo": "Unión Europea y relaciones exteriores",
       "cantidad_archivada": 583,
       "nuevas_24h": 38,
-      "anteriores_24h": 22,
+      "anteriores_24h": 21,
       "dias_con_registros": 26,
       "fecha_ultima": "2026-11-10T17:53:00+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
