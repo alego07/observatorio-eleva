@@ -1,6 +1,80 @@
 {
-  "created_utc": "2026-11-10T20:31:38.675567+00:00",
+  "created_utc": "2026-11-10T21:04:21.961447+00:00",
   "events": [
+    {
+      "id": "a-982b651ff5a5995dd553",
+      "fecha": "2026-11-10",
+      "titulo_fuente": "US Army soldier arrested in UK, suspected of espionage related to Russia - Politico",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "982b651ff5a5995dd553",
+          "titulo_original": "US Army soldier arrested in UK, suspected of espionage related to Russia - Politico",
+          "titulo_es": "Soldado del Ejército de Estados Unidos arrestado en Reino Unido, sospechoso de espionaje relacionado con Rusia - Politico",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNjNvTUx0NVBXdXZDdXhaZXlxN0NwQWI1X29QV2hhUWlCVjRuSGo2a3ZGQW9lMVRKRUl3QU9jSEhhMXYyR1AtbUx4YWtVOTBoSzl6ZUExNVNmVnVIWmc0bVczWVh4YWl6dzlDWERYOVBaWjMwZUhFZnpUZnlmVUY4M3RmM1VMUzRteXdmcktrZUpja0ctVms4?oc=5",
+          "fuente": "POLITICO US",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-10T20:31:00+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "US Army soldier arrested in UK, suspected of espionage related to Russia Politico",
+          "resumen_es": "Soldado del Ejército de Estados Unidos arrestado en Reino Unido, sospechoso de espionaje relacionado con Rusia Politico"
+        },
+        {
+          "id": "85e4f56d9ede9c0e1d38",
+          "titulo_original": "Senior US soldier arrested in UK over suspected espionage for Russia",
+          "titulo_es": "",
+          "url": "https://www.scmp.com/news/world/europe/article/3373997/senior-us-soldier-arrested-uk-over-suspected-espionage-russia",
+          "fuente": "South China Morning Post",
+          "pais": "Hong Kong",
+          "fecha": "2026-11-10T20:20:35+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "⁠A senior US ⁠Army soldier was arrested in ⁠Britain on suspicion of assisting Russian intelligence, British police said on Tuesday, after the US removed aircraft from British military bases over a separate apparent threat from Iran. FBI Director Kash Patel ‌said the arrest of the 41-year-old man related to “allegations of espionage, which is of the utmost concern to the United States and our allies”. Brigadier General Sean Stinchon, the commandin",
+          "resumen_es": ""
+        },
+        {
+          "id": "c23fff91dbf158b4203c",
+          "titulo_original": "US Army soldier arrested in UK for alleged espionage related to Russia - CNN",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUlBQaE11cnl4a0VjOVp6cHJyRGNLbUxNTHg5dXNlakpXRTJuWjdjVF8wTUFBY0xUS1dHQXhiYjdWcFh3WnM3Yjh4bUJFaERJQV8xUjRUVFhEVmxISWxYaEVSOEVGQ0Fac2hMZU9QVDFyc0RaWjExc2ZGNTBDaEY1T3VYVnNLRWwtSG8zQmYtVQ?oc=5",
+          "fuente": "CNN",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-10T19:20:39+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "US Army soldier arrested in UK for alleged espionage related to Russia CNN",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "CNN",
+        "POLITICO US",
+        "South China Morning Post"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Irán",
+        "Rusia"
+      ],
+      "fuentes_independientes": 3,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 8,
+      "motivos_seleccion": [
+        "Cobertura de fuentes distintas",
+        "Actores relevantes: Estados Unidos, Irán, Rusia",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
     {
       "id": "a-4f67a9eb13c446c6e6a0",
       "fecha": "2026-11-10",
@@ -193,67 +267,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-85e4f56d9ede9c0e1d38",
-      "fecha": "2026-11-10",
-      "titulo_fuente": "Senior US soldier arrested in UK over suspected espionage for Russia",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "85e4f56d9ede9c0e1d38",
-          "titulo_original": "Senior US soldier arrested in UK over suspected espionage for Russia",
-          "titulo_es": "",
-          "url": "https://www.scmp.com/news/world/europe/article/3373997/senior-us-soldier-arrested-uk-over-suspected-espionage-russia",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-11-10T20:20:35+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "⁠A senior US ⁠Army soldier was arrested in ⁠Britain on suspicion of assisting Russian intelligence, British police said on Tuesday, after the US removed aircraft from British military bases over a separate apparent threat from Iran. FBI Director Kash Patel ‌said the arrest of the 41-year-old man related to “allegations of espionage, which is of the utmost concern to the United States and our allies”. Brigadier General Sean Stinchon, the commandin",
-          "resumen_es": ""
-        },
-        {
-          "id": "c23fff91dbf158b4203c",
-          "titulo_original": "US Army soldier arrested in UK for alleged espionage related to Russia - CNN",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUlBQaE11cnl4a0VjOVp6cHJyRGNLbUxNTHg5dXNlakpXRTJuWjdjVF8wTUFBY0xUS1dHQXhiYjdWcFh3WnM3Yjh4bUJFaERJQV8xUjRUVFhEVmxISWxYaEVSOEVGQ0Fac2hMZU9QVDFyc0RaWjExc2ZGNTBDaEY1T3VYVnNLRWwtSG8zQmYtVQ?oc=5",
-          "fuente": "CNN",
-          "pais": "Estados Unidos",
-          "fecha": "2026-11-10T19:20:39+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "US Army soldier arrested in UK for alleged espionage related to Russia CNN",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "CNN",
-        "South China Morning Post"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "Irán",
-        "Rusia"
-      ],
-      "fuentes_independientes": 2,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 7,
-      "motivos_seleccion": [
-        "Cobertura de fuentes distintas",
-        "Actores relevantes: Estados Unidos, Irán, Rusia",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-2585baa8e524fccf3d53",
       "fecha": "2026-11-10",
       "titulo_fuente": "British maritime agency reports projectile strike on tanker off Oman's coast",
@@ -294,66 +307,6 @@
       "motivos_seleccion": [
         "Actores relevantes: Perú",
         "Mención expresa al Perú"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-6feeab290d0ce2a1eae2",
-      "fecha": "2026-11-10",
-      "titulo_fuente": "US military aircraft pulled from second UK base after ‘Iran threat’",
-      "region": "Oriente Medio",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "6feeab290d0ce2a1eae2",
-          "titulo_original": "US military aircraft pulled from second UK base after ‘Iran threat’",
-          "titulo_es": "",
-          "url": "https://www.politico.eu/article/us-military-aircraft-pulled-from-second-uk-base-after-iran-threat/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "fuente": "POLITICO Europe",
-          "pais": "Unión Europea",
-          "fecha": "2026-11-10T11:48:31+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Bombers were withdrawn from RAF Fairford in October after an Iran-linked security incident.",
-          "resumen_es": ""
-        },
-        {
-          "id": "02d21737244e5670700f",
-          "titulo_original": "US withdraws military aircraft from second UK airbase after Iran threat: reports",
-          "titulo_es": "",
-          "url": "https://www.scmp.com/news/world/europe/article/3373947/us-withdraws-9-military-aircraft-second-uk-airbase-after-iran-threat-reports",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-11-10T09:27:05+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The United States has withdrawn military aircraft from a second British airbase following a threat from Iran, the Wall Street Journal (WSJ) reported, citing people familiar with events. A number of American refuelling tankers were evacuated on Monday from Mildenhall Royal Air Force (RAF) base in eastern England after the purported threat, the newspaper said. Sky News said on Tuesday that 12 aircraft – nine tankers and three Osprey transporters – ",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "POLITICO Europe",
-        "South China Morning Post"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "Irán"
-      ],
-      "fuentes_independientes": 2,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 7,
-      "motivos_seleccion": [
-        "Cobertura de fuentes distintas",
-        "Actores relevantes: Estados Unidos, Irán",
-        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -415,6 +368,64 @@
         "Cobertura de fuentes distintas",
         "Actores relevantes: Estados Unidos, Rusia, Ucrania",
         "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-82c04007e672db9a7dd2",
+      "fecha": "2026-11-10",
+      "titulo_fuente": "Iraq blocks Iranian football team’s plane from landing over US sanctions",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "82c04007e672db9a7dd2",
+          "titulo_original": "Iraq blocks Iranian football team’s plane from landing over US sanctions",
+          "titulo_es": "Irak bloquea el avión del equipo iraní de fútbol de aterrizar sobre sanciones estadounidenses",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/iraq-blocks-iranian-football-teams-plane-from-landing-over-us-sanctions?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-10T20:23:03+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Iraq has barred Iran’s national football team from landing in Basra due to US sanctions on Iranian airlines.",
+          "resumen_es": "Iraq ha impedido que el equipo nacional de fútbol iraní aterrizara en Basora debido a las sanciones estadounidenses a las aerolíneas iraníes."
+        },
+        {
+          "id": "92c59da2bce3f3ec717c",
+          "titulo_original": "Iraq bars Iranian football team’s plane from landing in Basra: Report",
+          "titulo_es": "",
+          "url": "https://www.aljazeera.com/sports/2026/11/10/iraq-bars-iranian-football-teams-plane-from-landing-in-basra-report?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-10T14:03:31+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Decision by the Iraqi Civil Aviation Authority reportedly related to ⁠US sanctions imposed on Iranian airlines.",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [
+        "Irán"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: Irán",
+        "Ámbito: Seguridad y conflictos",
+        "Posible decisión institucional o negociación"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -1866,95 +1877,60 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-78c8d7be351ec3941c93",
+      "id": "a-46d0b3dc8121e9de61d9",
       "fecha": "2026-11-10",
-      "titulo_fuente": "Iran seeks deal with US, timing of conflict’s end remains unclear — Trump",
-      "region": "Oriente Medio",
+      "titulo_fuente": "Nvidia hires Wachtell Lipton for Jensen Huang investigation",
+      "region": "China",
       "temas": [
-        "Seguridad y conflictos",
-        "Organismos multilaterales"
+        "Diplomacia"
       ],
       "noticias": [
         {
-          "id": "78c8d7be351ec3941c93",
-          "titulo_original": "Iran seeks deal with US, timing of conflict’s end remains unclear — Trump",
+          "id": "46d0b3dc8121e9de61d9",
+          "titulo_original": "Nvidia hires Wachtell Lipton for Jensen Huang investigation",
           "titulo_es": "",
-          "url": "https://tass.com/world/2215387",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-10T09:52:40+00:00",
+          "url": "https://www.politico.eu/article/nvidia-hires-wachtell-lipton-for-jensen-huang-investigation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "fuente": "POLITICO Europe",
+          "pais": "Unión Europea",
+          "fecha": "2026-11-10T20:58:00+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Earlier, Iranian Supreme National Security Council Secretary Mohsen Rezaei stated that it was time for the United States to stop reporting on imaginary talks with Iran and accept Tehran’s settlement terms",
+          "resumen_original": "The independent investigation follows reports that the CEO had a romantic relationship with an alleged Chinese spy.",
           "resumen_es": ""
+        },
+        {
+          "id": "d0239b47b9fdfbf484d0",
+          "titulo_original": "Nvidia hires Wachtell Lipton for Jensen Huang investigation - Politico",
+          "titulo_es": "Nvidia contrata Wachtell Lipton para la investigación Jensen Huang - Politico",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMEhxMkIyN3lrUC1UTE9iT3RBUTVHbG56Z2VZREZfUjdiVTkyWWExaDN1d3QtTWZUOG9lemRsWTdqVjhsN0ZfR1RMcWJNelpnU2pHMzZBck1uWTdNb2tWOGlwVmROWFItc29SNE1SZnFtaU9xbk50OXllWURoUE1Bc1RSUWV2RnNFbEo3Uk1R?oc=5",
+          "fuente": "POLITICO US",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-10T20:52:00+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Nvidia hires Wachtell Lipton for Jensen Huang investigation Politico",
+          "resumen_es": "Nvidia contrata Wachtell Lipton para la investigación Jensen Huang Politico"
         }
       ],
       "fuentes": [
-        "TASS"
+        "POLITICO Europe",
+        "POLITICO US"
       ],
       "actores_mencionados": [
-        "Estados Unidos",
-        "Irán",
-        "ONU"
+        "China"
       ],
-      "fuentes_independientes": 1,
+      "fuentes_independientes": 2,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
       },
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
+      "prioridad_orientativa": 5,
       "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos, Irán, ONU",
-        "Ámbito: Organismos multilaterales, Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-2f68b82d21faa9dd529e",
-      "fecha": "2026-11-10",
-      "titulo_fuente": "Trump says more US attacks on Iran 'highly unlikely'",
-      "region": "Oriente Medio",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "2f68b82d21faa9dd529e",
-          "titulo_original": "Trump says more US attacks on Iran 'highly unlikely'",
-          "titulo_es": "",
-          "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-10T09:40:31+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "BBC News"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "Irán"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos, Irán",
-        "Ámbito: Seguridad y conflictos"
+        "Cobertura de fuentes distintas",
+        "Actores relevantes: China",
+        "Ámbito: Diplomacia"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -2193,6 +2169,96 @@
       "motivos_seleccion": [
         "Cobertura de fuentes distintas",
         "Actores relevantes: China, Estados Unidos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-4aece563432e6cabad38",
+      "fecha": "2026-11-10",
+      "titulo_fuente": "China mocks US ‘congratulations’ over Dominican closure of Chinese-run factory",
+      "region": "China",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "4aece563432e6cabad38",
+          "titulo_original": "China mocks US ‘congratulations’ over Dominican closure of Chinese-run factory",
+          "titulo_es": "China se burla de las ‘congratulaciones’ estadounidenses sobre el cierre dominicano de la fábrica de China",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3374000/china-mocks-us-congratulations-over-dominican-closure-chinese-run-factory",
+          "fuente": "South China Morning Post",
+          "pais": "Hong Kong",
+          "fecha": "2026-11-10T20:49:11+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "China’s embassy in Santo Domingo accused the United States on Monday evening of “sinister intentions” and mocked Washington for “congratulating” the Dominican Republic on closing a Chinese-run cardboard factory. The rebuke came hours after Juan Pablo Segura, who leads the US State Department’s Bureau of Western Hemisphere Affairs, praised Dominican authorities on social media for “taking decisive action to shut down a massive, illegal, Chinese-op",
+          "resumen_es": "La embajada de China en Santo Domingo acusó a los Estados Unidos el lunes por la noche de “intensiones siniestras” y se mojó a Washington por “congratular” a la República Dominicana al cerrar una fábrica de cartón china. La reprensión llegó horas después."
+        }
+      ],
+      "fuentes": [
+        "South China Morning Post"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "China"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: China, Estados Unidos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-4bf9ec2f4610b45fc3f3",
+      "fecha": "2026-11-10",
+      "titulo_fuente": "US soldier arrested in UK on suspicion of spying for Russia",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "4bf9ec2f4610b45fc3f3",
+          "titulo_original": "US soldier arrested in UK on suspicion of spying for Russia",
+          "titulo_es": "Soldado estadounidense arrestado en Reino Unido por sospecha de espionaje para Rusia",
+          "url": "https://www.aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-10T20:41:53+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "London Metropolitan Police says its 'counterterror' forces worked closely with the FBI and US military to make arrest.",
+          "resumen_es": "London Metropolitan La policía dice que sus fuerzas de \"contraterrorismo\" trabajaron estrechamente con el FBI y el ejército estadounidense para hacer arresto."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [
+        "Rusia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia",
+        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -5045,51 +5111,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-92c59da2bce3f3ec717c",
-      "fecha": "2026-11-10",
-      "titulo_fuente": "Iraq bars Iranian football team’s plane from landing in Basra: Report",
-      "region": "Oriente Medio",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "92c59da2bce3f3ec717c",
-          "titulo_original": "Iraq bars Iranian football team’s plane from landing in Basra: Report",
-          "titulo_es": "",
-          "url": "https://www.aljazeera.com/sports/2026/11/10/iraq-bars-iranian-football-teams-plane-from-landing-in-basra-report?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-11-10T14:03:31+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Decision by the Iraqi Civil Aviation Authority reportedly related to ⁠US sanctions imposed on Iranian airlines.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera"
-      ],
-      "actores_mencionados": [
-        "Irán"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Irán",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-cefcb6ccc6f26832db6c",
       "fecha": "2026-11-10",
       "titulo_fuente": "Five people, including bus passenger, killed in Ukrainian attacks on LPR over past day",
@@ -5818,6 +5839,51 @@
       "prioridad_orientativa": 4,
       "motivos_seleccion": [
         "Actores relevantes: Rusia, Ucrania"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-6feeab290d0ce2a1eae2",
+      "fecha": "2026-11-10",
+      "titulo_fuente": "US military aircraft pulled from second UK base after ‘Iran threat’",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "6feeab290d0ce2a1eae2",
+          "titulo_original": "US military aircraft pulled from second UK base after ‘Iran threat’",
+          "titulo_es": "",
+          "url": "https://www.politico.eu/article/us-military-aircraft-pulled-from-second-uk-base-after-iran-threat/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "fuente": "POLITICO Europe",
+          "pais": "Unión Europea",
+          "fecha": "2026-11-10T11:48:31+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Bombers were withdrawn from RAF Fairford in October after an Iran-linked security incident.",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "POLITICO Europe"
+      ],
+      "actores_mencionados": [
+        "Irán"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Irán",
+        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6816,137 +6882,140 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-c9d81694cf22662aa600",
+      "id": "a-d0e1cc1440dbbaefd8b6",
       "fecha": "2026-11-10",
-      "titulo_fuente": "Nvidia spy scandal fuels debate over chip exports to China",
-      "region": "China",
+      "titulo_fuente": "Meghan's father Thomas Markle detained for allegedly cutting off ankle monitor, officials say",
+      "region": "Internacional",
       "temas": [
-        "Diplomacia",
-        "Comercio y finanzas"
+        "Actualidad"
       ],
       "noticias": [
         {
-          "id": "c9d81694cf22662aa600",
-          "titulo_original": "Nvidia spy scandal fuels debate over chip exports to China",
-          "titulo_es": "",
-          "url": "https://www.aljazeera.com/economy/2026/11/10/nvidia-spy-scandal-fuels-debate-over-chip-exports-to-china?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-11-10T09:42:04+00:00",
+          "id": "d0e1cc1440dbbaefd8b6",
+          "titulo_original": "Meghan's father Thomas Markle detained for allegedly cutting off ankle monitor, officials say",
+          "titulo_es": "El padre de Meghan Thomas Markle detenido por supuestamente cortando el monitor del tobillo, dicen los funcionarios",
+          "url": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-10T20:53:33+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "US lawmakers call for tighter restrictions on chip sales amid inquiry into Nvidia CEO's relationship with alleged spy.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera"
-      ],
-      "actores_mencionados": [
-        "China"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: China",
-        "Ámbito: Comercio y finanzas, Diplomacia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-17478ac3857bc4677ae2",
-      "fecha": "2026-11-10",
-      "titulo_fuente": "Ramayana actor Indira Krishnan on Sai Pallavi’s Sita: ‘I never saw Sita as a warrior’ - The Indian Express",
-      "region": "Asia-Pacífico",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
+          "resumen_original": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
+          "resumen_es": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material."
+        },
         {
-          "id": "17478ac3857bc4677ae2",
-          "titulo_original": "Ramayana actor Indira Krishnan on Sai Pallavi’s Sita: ‘I never saw Sita as a warrior’ - The Indian Express",
+          "id": "a548fbee92f5ba8612f0",
+          "titulo_original": "Thomas Markle, father of Meghan, cut off ankle monitor days after arrest",
+          "titulo_es": "Thomas Markle, padre de Meghan, cortó el tobillo días después del arresto",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3373999/thomas-markle-father-meghan-cut-ankle-monitor-days-after-arrest",
+          "fuente": "South China Morning Post",
+          "pais": "Hong Kong",
+          "fecha": "2026-11-10T20:44:24+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The 82-year-old estranged father of Meghan, the Duchess of Sussex, cut an electronic monitoring device off his ankle, just days after his arrest for keeping child sexual abuse material in storage units in California, authorities said on Tuesday. Thomas Markle was in custody awaiting a hearing in federal court in Tampa, Florida, First Assistant US Attorney Bill Essayli said. He was arrested shortly after he cut off the ankle bracelet at 1.45am, Es",
+          "resumen_es": "El padre de Meghan de 82 años, la Duquesa de Sussex, cortó un dispositivo de monitoreo electrónico de su tobillo, justo días después de su detención por mantener material de abuso sexual infantil en unidades de almacenamiento en California, las autoridades dijeron en Tue"
+        },
+        {
+          "id": "b22f5e381c35f14e6293",
+          "titulo_original": "Thomas Markle, Meghan’s father, cut off his ankle monitor, DoJ says",
+          "titulo_es": "Thomas Markle, El padre de Meghan, corta su monitor de tobillo, dice DoJ",
+          "url": "https://www.theguardian.com/us-news/2026/nov/10/thomas-markle-ankle-monitor",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-10T20:08:10+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Estranged father of Duchess of Sussex was arrested for keeping child sexual abuse material, authorities say The 82-year-old estranged father of Meghan, the Duchess of Sussex, cut an electronic monitoring device off his ankle, just days after his arrest for keeping child sexual abuse material in storage units in California, authorities said on Tuesday. Thomas Markle was in custody awaiting a hearing in federal court in Tampa, Florida, first assist",
+          "resumen_es": "Estranged father of Duchess of Sussex was arrested for keeping child sexual abuse material, authorities say El padre estrangulado de 82 años de Meghan, la duquesa de Sussex, cortó un dispositivo de monitoreo electrónico de su tobillo, sólo días después"
+        },
+        {
+          "id": "8a3a894e098f6bb607a9",
+          "titulo_original": "Thomas Markle, father of Meghan, cut off his ankle monitor, DOJ says - CNN",
           "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNU3pCSkJhcTNYTEhZSmwzM2RZa0pweHZkcGw1ck5kTGN3U292akFzd3kza0Vzc3h0YmR2RUhxaDRfU0FiMHpsTnQ5UmZid0VoTVYyYzhldklkazVyRjdzMWFta0JMcnRRNEs3bXhlUUlfNldnWHA0YXhLOUYzUnQ2eW1rVVN3Wm8ya1MzMjMxdzEtOUVtM081RWlyUnFteG9wYjhVdkN0X21xaVdLTVdPN3dXTlMtN1h1RW5GeXZtUlcwN0gtZmZDOHBsYUp5TGNzSmtObGNSbk1pUExCTDBoV0lCa9IB6gFBVV95cUxQMVRUbjhhNjdTYmpuSVhlNGE3Uk5rOVQ4Z05yN0ZSWlRBN3ZaNGdXN1dCNllJaFpfQjVoMnpLcS1DTkIyLThHNmhoOF9nNl9DR0ZsYkMzS080OFpyazZaT1RqY0xuMGsyNXNydkl0em4yRWx0OUdzUVkzcXlBaWZOQm04cXJ4ZGJHYlBGLV91clpxRjBPajN5X2h4Yl85MHBTMGlEWUEyTnJsU19tVlEzeGFVVURNVFIwWGN3VGo0N2FHMnNrM2ZwZ3MySWJVT1VMNUpaZjhWRnF2OUdnanBjaXplMnZ6aDRVR1E?oc=5",
-          "fuente": "The Indian Express",
-          "pais": "India",
-          "fecha": "2026-11-10T09:31:50+00:00",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSUnMyMU95Qk1sMXcyNU82Nm81eWJiRG1wTmYyVEM1UHJvclg3ekl2SGo3X1dSdF9QbDRwdXNiYmRHbVFuMjk3cGEwNTY0aFlHX19BamhlVTZ4V3Bya2VQYXItV0xtR1ZWZ04yR3lR?oc=5",
+          "fuente": "CNN",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-10T19:38:10+00:00",
           "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Ramayana actor Indira Krishnan on Sai Pallavi’s Sita: ‘I never saw Sita as a warrior’ The Indian Express",
+          "resumen_original": "Thomas Markle, father of Meghan, cut off his ankle monitor, DOJ says CNN",
           "resumen_es": ""
         }
       ],
       "fuentes": [
-        "The Indian Express"
+        "BBC News",
+        "CNN",
+        "South China Morning Post",
+        "The Guardian"
       ],
-      "actores_mencionados": [
-        "India"
-      ],
-      "fuentes_independientes": 1,
+      "actores_mencionados": [],
+      "fuentes_independientes": 4,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
       },
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
+      "prioridad_orientativa": 3,
       "motivos_seleccion": [
-        "Actores relevantes: India",
-        "Ámbito: Seguridad y conflictos"
+        "Cobertura de fuentes distintas"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
     },
     {
-      "id": "a-23666c3ce4f7a7f81dd9",
+      "id": "a-c5da30050562948aad5c",
       "fecha": "2026-11-10",
-      "titulo_fuente": "Three workers die at Tata’s iPhone parts plant in India’s Tamil Nadu",
-      "region": "Asia-Pacífico",
+      "titulo_fuente": "Republicans elect Trump ally Jim Jordan as new US House minority leader",
+      "region": "Estados Unidos",
       "temas": [
-        "Energía y clima"
+        "Actualidad"
       ],
       "noticias": [
         {
-          "id": "23666c3ce4f7a7f81dd9",
-          "titulo_original": "Three workers die at Tata’s iPhone parts plant in India’s Tamil Nadu",
-          "titulo_es": "",
-          "url": "https://www.aljazeera.com/news/2026/11/10/three-workers-die-at-tatas-iphone-parts-plant-in-indias-tamil-nadu?traffic_source=rss",
+          "id": "c5da30050562948aad5c",
+          "titulo_original": "Republicans elect Trump ally Jim Jordan as new US House minority leader",
+          "titulo_es": "Los republicanos eligen a Trump aliado Jim Jordan como nuevo líder minoritario de la US House",
+          "url": "https://www.aljazeera.com/news/2026/11/10/republicans-elect-trump-ally-jim-jordan-as-new-us-house-minority-leader?traffic_source=rss",
           "fuente": "Al Jazeera",
           "pais": "Catar",
-          "fecha": "2026-11-10T09:29:54+00:00",
+          "fecha": "2026-11-10T19:54:46+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The workers had inhaled gas while inspecting an external nano-filtration tank, a district official says.",
-          "resumen_es": ""
+          "resumen_original": "Ohio Congressman Jim Jordan to succeed Mike Johnson as GOP minority leader, promising unity and a robust opposition.",
+          "resumen_es": "El congresista de Ohio Jim Jordan tiene éxito Mike Johnson como líder de la minoría GOP, unidad prometedora y una fuerte oposición."
+        },
+        {
+          "id": "518877a6ec48aa433e1f",
+          "titulo_original": "Republicans elect Jim Jordan as House minority leader after midterm defeats",
+          "titulo_es": "Los republicanos eligen a Jim Jordan como líder minoritario de la Casa después de las derrotas de mitad de período",
+          "url": "https://www.theguardian.com/us-news/2026/nov/10/jim-jordan-house-republican-leader",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-10T19:40:10+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "As Democrats prepare to take control of Congress, Republicans pick Jordan for last two years of Trump’s presidency Republican lawmakers have elected Jim Jordan, veteran congressman and Trump loyalist, as their leader in the House of Representatives following resounding losses in last week’s US midterm elections. As Democrats prepare to take control of both chambers of US Congress in January, Republicans backed Jordan to lead them in the House for",
+          "resumen_es": "Mientras los demócratas se preparan para tomar el control del Congreso, los republicanos eligen a Jordania durante los últimos dos años de los legisladores republicanos presidenciales de Trump han elegido a Jim Jordan, congresista veterano y lealista Trump, como su líder en la Cámara de Representantes"
         }
       ],
       "fuentes": [
-        "Al Jazeera"
+        "Al Jazeera",
+        "The Guardian"
       ],
       "actores_mencionados": [
-        "India"
+        "Estados Unidos"
       ],
-      "fuentes_independientes": 1,
+      "fuentes_independientes": 2,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
-        "nombre": "Interdependencia y gobernanza global",
-        "pregunta": "¿Cómo se distribuyen los costos de coordinación y los incentivos para cooperar?"
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
       },
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
+      "prioridad_orientativa": 3,
       "motivos_seleccion": [
-        "Actores relevantes: India",
-        "Ámbito: Energía y clima"
+        "Cobertura de fuentes distintas",
+        "Actores relevantes: Estados Unidos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
