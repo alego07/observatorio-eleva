@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-11-11T20:16:11.614285+00:00",
+  "created_utc": "2026-11-11T21:37:05.026432+00:00",
   "events": [
     {
       "id": "a-8206c8bbfeb01e07bd8e",
@@ -83,6 +83,54 @@
         "Cobertura de fuentes distintas",
         "Actores relevantes: Estados Unidos, Rusia",
         "Ámbito: Diplomacia"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-80b48a24898ab05fc65a",
+      "fecha": "2026-11-11",
+      "titulo_fuente": "Low-hanging fruit for Xi and Trump to pluck at Shenzhen Apec summit",
+      "region": "China",
+      "temas": [
+        "Diplomacia",
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "80b48a24898ab05fc65a",
+          "titulo_original": "Low-hanging fruit for Xi and Trump to pluck at Shenzhen Apec summit",
+          "titulo_es": "Fruto de bajo crecimiento para Xi y Trump para sumergirse en la cumbre de Shenzhen Apec",
+          "url": "https://www.scmp.com/opinion/china-opinion/article/3373661/low-hanging-fruit-xi-and-trump-pluck-shenzhen-apec-summit",
+          "fuente": "South China Morning Post",
+          "pais": "Hong Kong",
+          "fecha": "2026-11-11T21:30:05+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The Asia-Pacific Economic Cooperation summit is set to take place in Shenzhen on November 18 and 19. Shenzhen will also be playing host to the first of two further meetings between Chinese President Xi Jinping and US President Donald Trump this year. When the two leaders met in May and September, they called for “constructive strategic stability” as a prescription for US-China relations. Both sides are keen to maintain the fragile detente, in par",
+          "resumen_es": "La Cumbre de Cooperación Económica de Asia y el Pacífico se celebrará en Shenzhen los días 18 y 19 de noviembre. Shenzhen también será el anfitrión de la primera de dos reuniones más entre el presidente chino Xi Jinping y el presidente estadounidense Donald Trump"
+        }
+      ],
+      "fuentes": [
+        "South China Morning Post"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "China"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 8,
+      "motivos_seleccion": [
+        "Actores relevantes: China, Estados Unidos",
+        "Ámbito: Comercio y finanzas, Diplomacia",
+        "Posible decisión institucional o negociación"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -380,61 +428,47 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-4d84ecdc0e172ff3d0d2",
+      "id": "a-040ab706dcacebba19ec",
       "fecha": "2026-11-11",
-      "titulo_fuente": "US Treasury chief Bessent moved to military base after ‘Iranian threats’",
-      "region": "Oriente Medio",
+      "titulo_fuente": "Pope Leo draws 3-million-strong crowd at Argentina’s holiest shrine",
+      "region": "Perú",
       "temas": [
-        "Seguridad y conflictos"
+        "Actualidad"
       ],
       "noticias": [
         {
-          "id": "4d84ecdc0e172ff3d0d2",
-          "titulo_original": "US Treasury chief Bessent moved to military base after ‘Iranian threats’",
-          "titulo_es": "",
-          "url": "https://www.aljazeera.com/news/2026/11/11/us-treasury-chief-bessent-moved-to-military-base-after-iranian-threats?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-11-11T10:16:38+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Iran is said to have geo-located Bessent's $12.5m mansion in Washington, DC after a photo of it was published.",
-          "resumen_es": ""
-        },
-        {
-          "id": "df6470ccc98a61a1c597",
-          "titulo_original": "US Treasury chief Bessent moved to military base over alleged Iran threats",
-          "titulo_es": "",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3374046/us-treasury-chief-bessent-moved-military-base-after-iran-threats",
+          "id": "040ab706dcacebba19ec",
+          "titulo_original": "Pope Leo draws 3-million-strong crowd at Argentina’s holiest shrine",
+          "titulo_es": "El Papa Leo atrae a 3 millones de personas en el santuario más sagrado de Argentina",
+          "url": "https://www.scmp.com/news/world/americas/article/3374124/pope-leo-draws-3-million-strong-crowd-argentinas-holiest-shrine",
           "fuente": "South China Morning Post",
           "pais": "Hong Kong",
-          "fecha": "2026-11-11T07:45:52+00:00",
+          "fecha": "2026-11-11T20:44:05+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "US Treasury Secretary Scott ‌Bessent has recently moved from his Washington DC residence to a US military base after Iranian threats against his life, two people familiar with the matter said on Tuesday. The New York Times first reported the move. A senior intelligence official in the Trump administration warned in a memo seen by Reuters late last month that Iranian plots against US personnel and American citizens had reached an advanced stage. B",
-          "resumen_es": ""
+          "resumen_original": "Pope Leo drew vast crowds to Argentina’s holiest shrine on Wednesday, the final day of his visit before he departs for Peru, where he spent nearly two decades as a missionary. Authorities said over 3 million people packed the streets around the Basilica of Lujan, with some climbing fences, barriers, trees and lamp posts for a glimpse of the pontiff. Crowds chanted “Thank you, Leo!” to the 71-year-old pope, who is on a 12-day tour of Uruguay, Arge",
+          "resumen_es": "Papa Leo dibujó vastas multitudes al santuario más sagrado de Argentina el miércoles, el día final de su visita antes de partir para Perú, donde pasó casi dos décadas como misionero. Las autoridades dijeron que más de 3 millones de personas empacaron las calles"
         }
       ],
       "fuentes": [
-        "Al Jazeera",
         "South China Morning Post"
       ],
       "actores_mencionados": [
-        "Estados Unidos",
-        "Irán"
+        "Perú",
+        "Argentina"
       ],
-      "fuentes_independientes": 2,
+      "fuentes_independientes": 1,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
       },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "relevancia_peru": "Perú aparece mencionado; falta verificar el alcance real de cualquier consecuencia.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
       "prioridad_orientativa": 7,
       "motivos_seleccion": [
-        "Cobertura de fuentes distintas",
-        "Actores relevantes: Estados Unidos, Irán",
-        "Ámbito: Seguridad y conflictos"
+        "Actores relevantes: Perú",
+        "Mención expresa al Perú"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -480,6 +514,144 @@
       "motivos_seleccion": [
         "Actores relevantes: Perú",
         "Mención expresa al Perú"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-fca848356a968ecde34e",
+      "fecha": "2026-11-11",
+      "titulo_fuente": "CSTO leaders approve nearly 20 documents at Moscow summit",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Diplomacia"
+      ],
+      "noticias": [
+        {
+          "id": "fca848356a968ecde34e",
+          "titulo_original": "CSTO leaders approve nearly 20 documents at Moscow summit",
+          "titulo_es": "Los líderes de la OMC aprueban casi 20 documentos en la cumbre de Moscú",
+          "url": "https://tass.com/politics/2216619",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-11T21:05:42+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The summit participants also approved a declaration",
+          "resumen_es": "Los participantes en la cumbre también aprobaron una declaración"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Rusia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia",
+        "Ámbito: Diplomacia",
+        "Posible decisión institucional o negociación"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-541ba97dc5145b14b3df",
+      "fecha": "2026-11-11",
+      "titulo_fuente": "European sanctions office, EU mistakes, visa rules in Moldova: Russian MFA briefing",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "541ba97dc5145b14b3df",
+          "titulo_original": "European sanctions office, EU mistakes, visa rules in Moldova: Russian MFA briefing",
+          "titulo_es": "Oficina Europea de Sanciones, errores de la UE, normas de visados en Moldova: Federación Rusa",
+          "url": "https://tass.com/politics/2216613",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-11T20:52:31+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Spokeswoman Maria Zakharova said that the OSCE is becoming complicit in the Kiev regime’s information campaign to conceal the true nature and scale of crimes against individuals, including by remaining silent about the existence of a network of torture prisons",
+          "resumen_es": "La portavoz Maria Zakharova dijo que la OSCE se está volviendo complícita en la campaña de información del régimen de Kiev para ocultar la verdadera naturaleza y escala de crímenes contra personas, incluso silenciando la existencia de una usurpación neta"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Rusia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia",
+        "Ámbito: Seguridad y conflictos",
+        "Posible decisión institucional o negociación"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-6b2d691b97a86635076f",
+      "fecha": "2026-11-11",
+      "titulo_fuente": "Trump defends Iran war in Veterans Day speech",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "6b2d691b97a86635076f",
+          "titulo_original": "Trump defends Iran war in Veterans Day speech",
+          "titulo_es": "Trump defiende la guerra de Irán en el discurso del Día de los Veteranos",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3374123/trump-defends-iran-war-veterans-day-speech",
+          "fuente": "South China Morning Post",
+          "pais": "Hong Kong",
+          "fecha": "2026-11-11T20:30:57+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "US President Donald Trump used a Veterans Day commemoration on Wednesday to defend the war against Iran – an increasingly unpopular conflict that helped trigger a Democratic takeover of Congress in last week’s midterm elections. “The bravery and skill of our amazing American warriors has absolutely been incredible,” Trump said in an address at Arlington National Cemetery just outside Washington. “When this conflict is over, and it will be soon, t",
+          "resumen_es": "El presidente estadounidense Donald Trump utilizó una conmemoración del Día de los Veteranos el miércoles para defender la guerra contra Irán, un conflicto cada vez más impopular que ayudó a desencadenar una toma democrática del Congreso en las elecciones de mitad de período de la semana pasada. “El valiente"
+        }
+      ],
+      "fuentes": [
+        "South China Morning Post"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Irán"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos, Irán",
+        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -578,6 +750,54 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-d9a2b3fe4d5d6f1bb43b",
+      "fecha": "2026-11-11",
+      "titulo_fuente": "French Ambassador on efforts to restore 'normal, reciprocal' U.S.-France trade relations | POLITICO at B20 USA - Politico",
+      "region": "Estados Unidos",
+      "temas": [
+        "Diplomacia",
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "d9a2b3fe4d5d6f1bb43b",
+          "titulo_original": "French Ambassador on efforts to restore 'normal, reciprocal' U.S.-France trade relations | POLITICO at B20 USA - Politico",
+          "titulo_es": "Embajador francés en los esfuerzos para restaurar las relaciones comerciales 'normales, recíprocas' Estados Unidos-Francia",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNTFzOW9ySVJkRGpwdGJHdmx5SEQ0OC0zNm9COHpybkV0WE94N2Vzd3JXS0FYZHNsc09OZVdUdkVScTBXQklfaDBTT09OcEZGMkg5MnQ3WHNseEpvVzk4d0VVOTBqUmVvQ041czcwQWZuZjJjU2dlZjFWd2p4LTZkdy1kM3VxWjVPUl91RHFoSXZ3ZWR1b0h2MU9iTWpEeUt5SzBwV0I3RnI0eTRmTUpLZ1lCNk5VV3Qxc3FZQ1FaaUl5QmI4NEwwbHdTWnVNSElxazI4NkVzX0Zzdi1QaHZ4WnJITXBXSkZfRkE?oc=5",
+          "fuente": "POLITICO US",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-11T19:32:37+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "French Ambassador on efforts to restore 'normal, reciprocal' U.S.-France trade relations | POLITICO at B20 USA Politico",
+          "resumen_es": "Embajador francés en los esfuerzos para restaurar las relaciones comerciales 'normales, recíprocas' EEUU-Francia"
+        }
+      ],
+      "fuentes": [
+        "POLITICO US"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Francia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos",
+        "Ámbito: Comercio y finanzas, Diplomacia",
+        "Posible decisión institucional o negociación"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-3a7848b9f4679c796049",
       "fecha": "2026-11-11",
       "titulo_fuente": "EU leaders to consider assigning Russia negotiator at Dublin summit — media",
@@ -619,6 +839,78 @@
         "Actores relevantes: Rusia",
         "Ámbito: Diplomacia",
         "Posible decisión institucional o negociación"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-894817e2d1c97a247a3b",
+      "fecha": "2026-11-11",
+      "titulo_fuente": "US soldier arrested on suspicion of espionage related to Russia - CNN",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "894817e2d1c97a247a3b",
+          "titulo_original": "US soldier arrested on suspicion of espionage related to Russia - CNN",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa0RuMmR6Zmp5VFpyaDdjY1ZWWVNFTDhjb25tWk9fQ0tTeDdVWWxkVW03dXM0Ul9JZTZWWmI4R3pmUldnajg3NWhFMnNQYzFXT0RkZmRsV0ExYjQ1cjBvTVNZamdKX1ZfOERUMDBMN3MwYy1sZXktMWczR0Y4bTI2cy1RYmhCSXp5cHhadkE4MnlfY3dUamJzR0tkbzJ5OUFidVh2TXh4SDE5MktXV2tsWWV5REgzZw?oc=5",
+          "fuente": "CNN",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-11T18:28:00+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "US soldier arrested on suspicion of espionage related to Russia CNN",
+          "resumen_es": ""
+        },
+        {
+          "id": "b3347dd81a3562265246",
+          "titulo_original": "US soldier arrested for Russia spying: What we know",
+          "titulo_es": "Soldado estadounidense arrestado por Rusia espiando: Lo que sabemos",
+          "url": "https://www.aljazeera.com/news/2026/11/11/us-soldier-arrested-for-russia-spying-what-we-know?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-11T12:23:22+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "A 41-year-old man has been arrested near Gloucester on suspicion of offences under the National Security Act.",
+          "resumen_es": "A 41-year-old man has been arrested near Gloucester on suspicion of offences under the National Security Act."
+        },
+        {
+          "id": "5f04a3e6c4fc0c880fa6",
+          "titulo_original": "US soldier arrested in England on suspicion of spying for Russia",
+          "titulo_es": "",
+          "url": "https://www.euronews.com/2026/11/11/us-soldier-arrested-in-england-on-suspicion-of-spying-for-russia",
+          "fuente": "Euronews",
+          "pais": "Unión Europea",
+          "fecha": "2026-11-11T07:54:52+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The FBI says the case is of “the utmost concern” to Washington and its allies, while army counterintelligence chiefs warn that insider threats are “real and persistent”.",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera",
+        "CNN",
+        "Euronews"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Rusia"
+      ],
+      "fuentes_independientes": 3,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Cobertura de fuentes distintas",
+        "Actores relevantes: Estados Unidos, Rusia"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -1526,6 +1818,18 @@
           "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
           "resumen_original": "IPL 2027: Full list of players traded ahead of retention deadline The Indian Express",
           "resumen_es": ""
+        },
+        {
+          "id": "e11ab142c4378dad09b0",
+          "titulo_original": "IPL 2027: Full list of players traded ahead of retention deadline - The Indian Express",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTlZGRG5memJjb091Ylg0VnpoZktydVpmVVJXeThSRXQyQWlMZ3JTX1ZTbUVQNkZULWxSaXFLWnlWS3RNNUVFU2c0LU5LbUtBQzdfekVXQ2M1MkRGeDk4c2FUNVFoU3BtUHFCQzU3TmdScXE1aFp6czIteGNsbGhHY3kzSWMzTkdzeHZxOXU0YzQ5ei02NkRFdlZjcVQwV0h0am4xNHcxWGFMMlhVWlNLWmxaNVUzdXBkeDZSc0JaS1rSAccBQVVfeXFMUFJMMlJnTzE5SVJTWlQ1OTQzVjFpV0FWdS1SUi1KcTRaVXpwV0tTaXpub01DT3REM2wwdjdJZHRnRmxZRzhjdTVlc0h0STdXVnYxa09lU0JybEZTM0ZyVWRkRVFhd2pUUndqWlY5Rlp4S1NJeTNDNWxjcld0al9ZdGNoTHVxb053cXVkQjdDRGJwQlZ6NmtSTkEzOVppUmMtQzE2U0pYa0tLNEhHNEtYS3dxMWdpVzVxOG1Cc2MtY3A3cTBPTEhVNA?oc=5",
+          "fuente": "The Indian Express",
+          "pais": "India",
+          "fecha": "2026-11-11T13:34:09+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "IPL 2027: Full list of players traded ahead of retention deadline The Indian Express",
+          "resumen_es": ""
         }
       ],
       "fuentes": [
@@ -2063,6 +2367,52 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-4d84ecdc0e172ff3d0d2",
+      "fecha": "2026-11-11",
+      "titulo_fuente": "US Treasury chief Bessent moved to military base after ‘Iranian threats’",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "4d84ecdc0e172ff3d0d2",
+          "titulo_original": "US Treasury chief Bessent moved to military base after ‘Iranian threats’",
+          "titulo_es": "",
+          "url": "https://www.aljazeera.com/news/2026/11/11/us-treasury-chief-bessent-moved-to-military-base-after-iranian-threats?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-11T10:16:38+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Iran is said to have geo-located Bessent's $12.5m mansion in Washington, DC after a photo of it was published.",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Irán"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos, Irán",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-5df9dc05842e5ba92b83",
       "fecha": "2026-11-11",
       "titulo_fuente": "Why former CSK player thinks Hardik’s trade to Punjab is ‘not a great…situation’ - The Indian Express",
@@ -2480,285 +2830,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-a9a47a6077c4c41fe465",
-      "fecha": "2026-11-11",
-      "titulo_fuente": "How Nvidia CEO Jensen Huang's extramarital affair could cause collateral damage in Washington",
-      "region": "China",
-      "temas": [
-        "Comercio y finanzas",
-        "Energía y clima"
-      ],
-      "noticias": [
-        {
-          "id": "a9a47a6077c4c41fe465",
-          "titulo_original": "How Nvidia CEO Jensen Huang's extramarital affair could cause collateral damage in Washington",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/news/international/how-nvidia-ceo-jensen-huangs-extramarital-affair-could-cause-collateral-damage-in-washington/article71688529.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-11-11T07:54:08+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Nvidia CEO Jensen Huang confronts a widening political and legal storm in Washington over an alleged extramarital affair and claims a former Megaspeed executive spied for China, as federal investigators probe export controls and possible national-security breaches tied to Nvidia’s chips in the high-stakes U.S.-China AI race",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Hindu"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "China"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia compleja y economía política internacional",
-        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: China, Estados Unidos",
-        "Ámbito: Comercio y finanzas, Energía y clima"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-ab86e1c6b7f64e4aa347",
-      "fecha": "2026-11-11",
-      "titulo_fuente": "Is Washington rethinking its relationship with Israel?",
-      "region": "Oriente Medio",
-      "temas": [
-        "Diplomacia"
-      ],
-      "noticias": [
-        {
-          "id": "ab86e1c6b7f64e4aa347",
-          "titulo_original": "Is Washington rethinking its relationship with Israel?",
-          "titulo_es": "",
-          "url": "https://www.aljazeera.com/opinions/2026/11/11/is-washington-rethinking-its-relationship-with-israel?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-11-11T07:26:17+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The midterms exposed a growing challenge to decades of US support for Israel, with potentially lasting consequences.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "Israel"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos, Israel",
-        "Ámbito: Diplomacia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-b46f4ad025b940cf886f",
-      "fecha": "2026-11-11",
-      "titulo_fuente": "Malaysia moves to calm Taiwan chip investors after China remarks freeze talks",
-      "region": "China",
-      "temas": [
-        "Seguridad y conflictos",
-        "Comercio y finanzas"
-      ],
-      "noticias": [
-        {
-          "id": "b46f4ad025b940cf886f",
-          "titulo_original": "Malaysia moves to calm Taiwan chip investors after China remarks freeze talks",
-          "titulo_es": "",
-          "url": "https://www.scmp.com/week-asia/politics/article/3374042/taiwan-pauses-malaysia-investment-talks-after-anwar-remarks-spark-fury-taipei",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-11-11T07:13:56+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Malaysia is seeking to reassure Taiwanese investors that it remains a reliable destination for hi-tech manufacturing after Taipei suspended bilateral investment talks over Prime Minister Anwar Ibrahim’s remarks on China, raising concerns over the future of semiconductor investments in the Southeast Asian nation. Taiwan confirmed on Tuesday that it had paused negotiations scheduled for late October. The move came after Anwar told Al Jazeera in an ",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "South China Morning Post"
-      ],
-      "actores_mencionados": [
-        "China",
-        "Taiwán"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: China, Taiwán",
-        "Ámbito: Comercio y finanzas, Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-addeade284642707155a",
-      "fecha": "2026-11-11",
-      "titulo_fuente": "U.S. and China should stay clear-eyed on AI cooperation and competition, says Scott Bessent",
-      "region": "China",
-      "temas": [
-        "Diplomacia"
-      ],
-      "noticias": [
-        {
-          "id": "addeade284642707155a",
-          "titulo_original": "U.S. and China should stay clear-eyed on AI cooperation and competition, says Scott Bessent",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/news/international/us-and-china-should-stay-clear-eyed-on-ai-cooperation-and-competition-says-scott-bessent/article71688169.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-11-11T07:12:20+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Bessent, who will travel to China next week for U.S. President Donald Trump’s third meeting this year with Chinese President Xi Jinping, said that he wanted to “build a constructive relationship on the basis of balance and reciprocity”",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Hindu"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "China"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: China, Estados Unidos",
-        "Ámbito: Diplomacia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-98b586e014bcdc6d1641",
-      "fecha": "2026-11-11",
-      "titulo_fuente": "Rubio says 'no need' to attack Iran as diplomacy gathers pace",
-      "region": "Oriente Medio",
-      "temas": [
-        "Diplomacia",
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "98b586e014bcdc6d1641",
-          "titulo_original": "Rubio says 'no need' to attack Iran as diplomacy gathers pace",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/news/international/rubio-says-no-need-to-attack-iran-as-diplomacy-gathers-pace/article71688168.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-11-11T07:08:19+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Tehran said its offer to reopen Hormuz within two days — if Washington agreed to a raft of conditions — remained on the table",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Hindu"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "Irán"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos, Irán",
-        "Ámbito: Diplomacia, Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-4b2ba019d6dfe8b3e967",
-      "fecha": "2026-11-11",
-      "titulo_fuente": "Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "4b2ba019d6dfe8b3e967",
-          "titulo_original": "Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment",
-          "titulo_es": "",
-          "url": "https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia",
-          "fuente": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-11T05:33:27+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Capture of man from Java follows reports that hundreds are being recruited from the south-east Asian country as Moscow seeks to boost its war effort Ukraine says it has captured its first Indonesian prisoner of war, amid what it says is a spike in recruitment by Russia from the south-east Asian nation. The 49-year-old man from Java was taken to Ukraine’s Zaporizhzhia region to take part in a Russian assault, but managed to reach Ukrainian-held te",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Guardian"
-      ],
-      "actores_mencionados": [
-        "Rusia",
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia, Ucrania",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-b9c391934221e2acbee1",
       "fecha": "2026-11-11",
       "titulo_fuente": "Russia-Ukraine talks in UAE secure major prisoner exchange deal",
@@ -2830,60 +2901,320 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-b3347dd81a3562265246",
+      "id": "a-4b8941c7ebcea791afa0",
       "fecha": "2026-11-11",
-      "titulo_fuente": "US soldier arrested for Russia spying: What we know",
-      "region": "Rusia-Ucrania",
+      "titulo_fuente": "Ukrainian attacks kill two DPR civilians, injure ten others over past day",
+      "region": "Europa",
       "temas": [
-        "Actualidad"
+        "Seguridad y conflictos"
       ],
       "noticias": [
         {
-          "id": "b3347dd81a3562265246",
-          "titulo_original": "US soldier arrested for Russia spying: What we know",
-          "titulo_es": "Soldado estadounidense arrestado por Rusia espiando: Lo que sabemos",
-          "url": "https://www.aljazeera.com/news/2026/11/11/us-soldier-arrested-for-russia-spying-what-we-know?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-11-11T12:23:22+00:00",
+          "id": "4b8941c7ebcea791afa0",
+          "titulo_original": "Ukrainian attacks kill two DPR civilians, injure ten others over past day",
+          "titulo_es": "Los ataques ucranianos matan a dos civiles del DPR, hirieron a otros diez en el pasado día",
+          "url": "https://tass.com/defense/2216621",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-11T21:08:37+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "A 41-year-old man has been arrested near Gloucester on suspicion of offences under the National Security Act.",
-          "resumen_es": "A 41-year-old man has been arrested near Gloucester on suspicion of offences under the National Security Act."
-        },
-        {
-          "id": "5f04a3e6c4fc0c880fa6",
-          "titulo_original": "US soldier arrested in England on suspicion of spying for Russia",
-          "titulo_es": "",
-          "url": "https://www.euronews.com/2026/11/11/us-soldier-arrested-in-england-on-suspicion-of-spying-for-russia",
-          "fuente": "Euronews",
-          "pais": "Unión Europea",
-          "fecha": "2026-11-11T07:54:52+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The FBI says the case is of “the utmost concern” to Washington and its allies, while army counterintelligence chiefs warn that insider threats are “real and persistent”.",
-          "resumen_es": ""
+          "resumen_original": "Six residential buildings and three civilian infrastructure facilities were damaged",
+          "resumen_es": "Se dañaron seis edificios residenciales y tres instalaciones de infraestructura civil"
         }
       ],
       "fuentes": [
-        "Al Jazeera",
-        "Euronews"
+        "TASS"
       ],
       "actores_mencionados": [
-        "Estados Unidos",
-        "Rusia"
+        "Ucrania"
       ],
-      "fuentes_independientes": 2,
+      "fuentes_independientes": 1,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
       },
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 5,
+      "prioridad_orientativa": 4,
       "motivos_seleccion": [
-        "Cobertura de fuentes distintas",
-        "Actores relevantes: Estados Unidos, Rusia"
+        "Actores relevantes: Ucrania",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-7c51c96bf8be47a3e7e3",
+      "fecha": "2026-11-11",
+      "titulo_fuente": "Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "7c51c96bf8be47a3e7e3",
+          "titulo_original": "Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says",
+          "titulo_es": "Hormuz Strait \"nunca volverá\" al estado de preguerra, dice Ghalibaf de Irán",
+          "url": "https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-11T21:03:40+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Iran's parliament speaker and top negotiator says Tehran is waiting for an official US response to its seven conditions.",
+          "resumen_es": "El orador del parlamento de Irán y el principal negociador dice que Teherán está esperando una respuesta oficial de Estados Unidos a sus siete condiciones."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [
+        "Irán"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Irán",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-b93fb0d6c06d6e543a90",
+      "fecha": "2026-11-11",
+      "titulo_fuente": "Israeli attacks kill six Palestinians in Gaza Strip over past day — Health Ministry",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "b93fb0d6c06d6e543a90",
+          "titulo_original": "Israeli attacks kill six Palestinians in Gaza Strip over past day — Health Ministry",
+          "titulo_es": "Los ataques israelíes matan a seis palestinos en la Franja de Gaza en el pasado día — Ministerio de Salud",
+          "url": "https://tass.com/world/2216617",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-11T21:01:22+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The ministry reported that over 20 injured people were taken to hospitals throughout the day",
+          "resumen_es": "The ministry reported that over 20 injured people were taken to hospitals throughout the day"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Israel",
+        "Palestina"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Israel",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-96bfe6273f1c2ef00c78",
+      "fecha": "2026-11-11",
+      "titulo_fuente": "Biden says he wouldn’t have run for second term if he’d known he had cancer",
+      "region": "Estados Unidos",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "96bfe6273f1c2ef00c78",
+          "titulo_original": "Biden says he wouldn’t have run for second term if he’d known he had cancer",
+          "titulo_es": "Biden dice que no habría corrido por segundo término si hubiera sabido que tenía cáncer",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3374126/biden-says-he-wouldnt-have-run-second-term-if-hed-known-he-had-cancer",
+          "fuente": "South China Morning Post",
+          "pais": "Hong Kong",
+          "fecha": "2026-11-11T20:55:07+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Joe Biden says he did not know he had cancer while he was US president and would not have sought a second term if he already had been diagnosed. The former Democratic president’s comments came in an interview with People magazine before the release of his White House memoir on Tuesday. “If I had known that I was feeling lousy because I had cancer,” said Biden, who turns 84 on November 20, “I would’ve not gone forward” with a 2024 re-election bid ",
+          "resumen_es": "Joe Biden dice que no sabía que tenía cáncer mientras era presidente de Estados Unidos y no habría buscado un segundo término si ya se le había diagnosticado. Los comentarios del ex presidente demócrata llegaron en una entrevista con la revista People antes de la"
+        }
+      ],
+      "fuentes": [
+        "South China Morning Post"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-f9e2cf7512bb189e4686",
+      "fecha": "2026-11-11",
+      "titulo_fuente": "Oil production nears pre-Iran war levels, OPEC says",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos",
+        "Energía y clima"
+      ],
+      "noticias": [
+        {
+          "id": "f9e2cf7512bb189e4686",
+          "titulo_original": "Oil production nears pre-Iran war levels, OPEC says",
+          "titulo_es": "Producción de petróleo cerca de los niveles de guerra pre-Irán, dice la OPEP",
+          "url": "https://www.aljazeera.com/news/2026/11/11/oil-production-near-pre-iran-war-levels-opec-says?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-11T20:45:30+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Saudi Arabia reports oil outputs soared to highest levels in months despite continued shipping disruptions.",
+          "resumen_es": "La Arabia Saudita informa de que los productos petrolíferos se elevaron a niveles más altos en meses, a pesar de las continuas perturbaciones del transporte marítimo."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [
+        "Irán",
+        "Arabia Saudita"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Irán",
+        "Ámbito: Energía y clima, Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-1cb5e964d106ff98f874",
+      "fecha": "2026-11-11",
+      "titulo_fuente": "Gaza goalkeeper killed in Israeli attack",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "1cb5e964d106ff98f874",
+          "titulo_original": "Gaza goalkeeper killed in Israeli attack",
+          "titulo_es": "El portero de Gaza murió en ataque israelí",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/gaza-goalkeeper-killed-in-israeli-attack?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-11T20:44:34+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Palestinian footballer Mahmoud Abdel-Malek was killed in an Israeli strike days after the Thousand Martyrs Cup.",
+          "resumen_es": "El futbolista palestino Mahmoud Abdel-Malek fue asesinado en una huelga israelí días después de la Copa Mil Mártires."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [
+        "Israel",
+        "Palestina"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Israel",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-779c012eb3ad6bccdcf3",
+      "fecha": "2026-11-11",
+      "titulo_fuente": "Trump’s White House calls Democratic plans for congressional probes ‘abuse’",
+      "region": "Estados Unidos",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "779c012eb3ad6bccdcf3",
+          "titulo_original": "Trump’s White House calls Democratic plans for congressional probes ‘abuse’",
+          "titulo_es": "La Casa Blanca de Trump llama planes democráticos para las sondas del Congreso ’",
+          "url": "https://www.aljazeera.com/news/2026/11/11/trumps-white-house-calls-democratic-plans-for-congressional-probes-abuse?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-11T20:39:50+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Democratic lawmaker Robert Garcia denounced a White House letter as an unconstitutional attack on legislative branch.",
+          "resumen_es": "Democratic lawmaker Robert García denunció una carta de la Casa Blanca como un ataque inconstitucional contra el poder legislativo."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos",
+        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -4512,6 +4843,51 @@
       "motivos_seleccion": [
         "Actores relevantes: Estados Unidos",
         "Ámbito: Migración y DD. HH., Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-d7ad4832bb80238f092a",
+      "fecha": "2026-11-11",
+      "titulo_fuente": "Sonia Gandhi understands Modi’s ‘discomfort’ with elite, attacks his Sangh ideology - The Indian Express",
+      "region": "Asia-Pacífico",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "d7ad4832bb80238f092a",
+          "titulo_original": "Sonia Gandhi understands Modi’s ‘discomfort’ with elite, attacks his Sangh ideology - The Indian Express",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSkpIMFVLM1ROZmRqM2lqalhMZDdXSGtGdlZJN3I3WmE2OEFTV3pQYVNzcmRIdmkyaVVYMmxxNHE3VUFsclNjY2ZFZHdidWdZYXF5R1pXbGV3MjhVdWZqdWtNejZBQXMwQzNwQ3Y2X1hqdUR4b2l4amc4SlVWTFJmcmhIdC05a0xYekFTUXBSeW1jc1lPUUxKRDBHZVdPazZVek56TFpsNVhYaF9lMGo4bXE0NGQxQ3VXcFBTNWphMG5MVTdYd05V0gHOAUFVX3lxTE1PVTFIM2RtbTlmZTg1eC1sU3FwY0lQLWttV1lTLWphYjVuZjNZeGsxOVlSQ092d0ZETF9CelptdC1xN2o1YVZkTVBUcXVPdlJ5MWtQd3prb1ZEc1F6VVlDMGxTV0l0OFlONG1nN3hvb2thNDE0eWZldjlIa0ZaUkFGeGdqWnhRODcxa1dBcFhkV3FKTXZkREFBVEtYN3pLRk1UMUxqSGdQOUx3dmtWZTJYLURKWjRJSlVaaHotbEdPU0JCMkU2NnU2bWpMSElB?oc=5",
+          "fuente": "The Indian Express",
+          "pais": "India",
+          "fecha": "2026-11-11T13:22:28+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Sonia Gandhi understands Modi’s ‘discomfort’ with elite, attacks his Sangh ideology The Indian Express",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "The Indian Express"
+      ],
+      "actores_mencionados": [
+        "India"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: India",
+        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6489,320 +6865,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-e26166c9944b85e33f0d",
-      "fecha": "2026-11-11",
-      "titulo_fuente": "US warns Madagascar over growing military ties with Russia",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Seguridad y conflictos",
-        "Energía y clima"
-      ],
-      "noticias": [
-        {
-          "id": "e26166c9944b85e33f0d",
-          "titulo_original": "US warns Madagascar over growing military ties with Russia",
-          "titulo_es": "",
-          "url": "https://www.bbc.co.uk/news/articles/crkgv58pknyeo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-11T07:30:15+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "US general warns the Sahel model-like security deal with Russia could lead to greater instability in Africa.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "BBC News"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia",
-        "Ámbito: Energía y clima, Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-29565c9297df33f43027",
-      "fecha": "2026-11-11",
-      "titulo_fuente": "Ramayana eligible for Oscars? What a film needs to independently apply for the awards - The Indian Express",
-      "region": "Asia-Pacífico",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "29565c9297df33f43027",
-          "titulo_original": "Ramayana eligible for Oscars? What a film needs to independently apply for the awards - The Indian Express",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOckpSZkQ4aVJrbHR3R2ZNcXdyWE1VQXp6d0Z1Q0piTUJMQnpZUjU5cWg0QWs5VzVYMDdpaDlSNWFQeVA0ZDhPQUloX3NWa2dyTTJ6bllGYnJXMFZCYUVJVHF1bVZ4T1ZhT1c5bndmQnpUY182ZFVWQ0twUHJ5Q0RDLW5JQTBBRUgxOHpNeHA3YzZKb2d6b0JYb0hweF8welJwSmtHRHhMV0h0UDI1Ynl5YjdVd04wNlA4MVV4ZGozUko5YXFwRUhKNWVzN3M4X0hqTk8xRWU5Zk9YTFXSAeIBQVVfeXFMUG5PV3oxODRlYzg5bUlNSUx0UmdxWV9acnR3b2JWTDJyNXA2THVOSDI5MmNEaWZnOWRSM0dqRW0tbDM3M0NhUnVoWlhfa2IzMGpwaXF1TDBNNVFITWpSYmNpREVxZUJJR2tiaWpTWDZLX0hlUjJWaFRWUEEzVzFSeFVlc19tSkpsNnQ3U3RlWDduNTc0SkpoMERtZE5fLThVeDBKVmxvY0gxa01lclRDNmFNZFU4NnRaamZBc09iS3p2dW1BNW45NWJxZl9qYXVRaDRUa3M0d2E4dnJkZVNWRlVUZw?oc=5",
-          "fuente": "The Indian Express",
-          "pais": "India",
-          "fecha": "2026-11-11T07:29:33+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Ramayana eligible for Oscars? What a film needs to independently apply for the awards The Indian Express",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Indian Express"
-      ],
-      "actores_mencionados": [
-        "India"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: India",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-0839803339f2e2bc48e9",
-      "fecha": "2026-11-11",
-      "titulo_fuente": "Chinese university buys Nvidia AI H200 chips despite US ban, records show",
-      "region": "China",
-      "temas": [
-        "Comercio y finanzas"
-      ],
-      "noticias": [
-        {
-          "id": "0839803339f2e2bc48e9",
-          "titulo_original": "Chinese university buys Nvidia AI H200 chips despite US ban, records show",
-          "titulo_es": "",
-          "url": "https://www.aljazeera.com/news/2026/11/11/chinese-university-buys-nvidia-ai-h200-chips-despite-us-ban-records-show?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-11-11T07:26:28+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Investigation reveals Chinese entities accessing US-restricted AI tech despite stringent export control measures.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera"
-      ],
-      "actores_mencionados": [
-        "China"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia compleja y economía política internacional",
-        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: China",
-        "Ámbito: Comercio y finanzas"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-dc558981d1cb40eea4d2",
-      "fecha": "2026-11-11",
-      "titulo_fuente": "China’s cutthroat car market, Southeast Asia’s electric vehicle boom: 7 EV reads",
-      "region": "China",
-      "temas": [
-        "Energía y clima"
-      ],
-      "noticias": [
-        {
-          "id": "dc558981d1cb40eea4d2",
-          "titulo_original": "China’s cutthroat car market, Southeast Asia’s electric vehicle boom: 7 EV reads",
-          "titulo_es": "",
-          "url": "https://www.scmp.com/business/china-evs/article/3374044/chinas-cutthroat-car-market-southeast-asias-electric-vehicle-boom-7-ev-reads",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-11-11T07:24:10+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "We have put together stories from our coverage on electric and new energy vehicles from the past two weeks to help you stay informed. If you would like to see more of our reporting, please consider subscribing. 1. ‘Awfully bleak’: why global carmakers keep losing ground in China’s vast market Global carmakers are searching for a way to survive in China’s cutthroat market, as they continue to lose ground to domestic competitors in a landscape that",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "South China Morning Post"
-      ],
-      "actores_mencionados": [
-        "China"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia y gobernanza global",
-        "pregunta": "¿Cómo se distribuyen los costos de coordinación y los incentivos para cooperar?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: China",
-        "Ámbito: Energía y clima"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-0caeb201bb2e98ba2ad8",
-      "fecha": "2026-11-11",
-      "titulo_fuente": "No talks underway with U.S., says Iran top security official",
-      "region": "Oriente Medio",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "0caeb201bb2e98ba2ad8",
-          "titulo_original": "No talks underway with U.S., says Iran top security official",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/news/international/no-talks-underway-with-us-says-iran-top-security-official/article71688184.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-11-11T07:19:34+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Iran ‌has insisted ‌the ⁠U.S. must meet ⁠seven conditions set out in a June interim agreement ​before the ‌Strait of Hormuz can reopen and negotiations resume",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Hindu"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "Irán"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos, Irán"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-86beced8a37d2f979d5b",
-      "fecha": "2026-11-11",
-      "titulo_fuente": "EU budget for 2027: Council and Parliament reach agreement",
-      "region": "Europa",
-      "temas": [
-        "Comercio y finanzas"
-      ],
-      "noticias": [
-        {
-          "id": "86beced8a37d2f979d5b",
-          "titulo_original": "EU budget for 2027: Council and Parliament reach agreement",
-          "titulo_es": "",
-          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/11/eu-budget-for-2027-council-and-parliament-reach-agreement/",
-          "fuente": "Noticias del Consejo de la UE",
-          "pais": "Unión Europea",
-          "fecha": "2026-11-11T06:25:00+00:00",
-          "estado": "declaración de la fuente; corroboración independiente pendiente",
-          "resumen_original": "The Council and the European Parliament secured agreement on the EU’s annual budget for 2027 - the seventh and final annual budget of the current multiannual financial framework (MFF) 2021-2027.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Noticias del Consejo de la UE"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia compleja y economía política internacional",
-        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Ámbito: Comercio y finanzas",
-        "Posible decisión institucional o negociación"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-4a0678f1e7f4949790c7",
-      "fecha": "2026-11-11",
-      "titulo_fuente": "Why Philippines is muzzling anti-China rhetoric ahead of crucial Asean talks",
-      "region": "China",
-      "temas": [
-        "Diplomacia"
-      ],
-      "noticias": [
-        {
-          "id": "4a0678f1e7f4949790c7",
-          "titulo_original": "Why Philippines is muzzling anti-China rhetoric ahead of crucial Asean talks",
-          "titulo_es": "",
-          "url": "https://www.scmp.com/week-asia/politics/article/3374030/why-philippines-muzzling-anti-china-rhetoric-ahead-crucial-asean-talks",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-11-11T06:11:44+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The Philippine foreign affairs department’s rare rebuke of officials and agencies over anti-China rhetoric could signal Manila’s bid to rein in tensions ahead of the Asean summit next week – but also internal disagreements over strategy, according to analysts. The Department of Foreign Affairs (DFA) on Sunday said public criticism of China could undermine diplomatic efforts. “In high-stakes diplomacy, a disciplined and coherent national voice rem",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "South China Morning Post"
-      ],
-      "actores_mencionados": [
-        "China"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: China",
-        "Ámbito: Diplomacia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-8b5c5ef9690ad253c02a",
       "fecha": "2026-11-11",
       "titulo_fuente": "Will Sheikh Hasina return to Bangladesh?",
@@ -7029,48 +7091,6 @@
       "motivos_seleccion": [
         "Cobertura de fuentes distintas",
         "Actores relevantes: Irán"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-b5832023985142399047",
-      "fecha": "2026-11-11",
-      "titulo_fuente": "African writing award probe finds 'no evidence' winning story was AI generated",
-      "region": "África",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "b5832023985142399047",
-          "titulo_original": "African writing award probe finds 'no evidence' winning story was AI generated",
-          "titulo_es": "La sonda de premios de escritura africana encuentra la historia ganadora 'no evidencia' fue generada AI",
-          "url": "https://www.bbc.co.uk/news/articles/cmglr260z7eko?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-11T20:00:54+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Zimbabwean writer Simbarashe Kundizeza has also vehemently denied the allegation made in a US magazine.",
-          "resumen_es": "El escritor de Zimbabwe Simbarashe Kundizeza también ha negado vehementementemente la denuncia hecha en una revista estadounidense."
-        }
-      ],
-      "fuentes": [
-        "BBC News"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
