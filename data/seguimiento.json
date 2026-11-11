@@ -1,17 +1,41 @@
 {
-  "actualizado_utc": "2026-11-11T18:54:55.615660+00:00",
+  "actualizado_utc": "2026-11-11T19:49:29.951257+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 2085,
-      "nuevas_24h": 138,
-      "anteriores_24h": 125,
+      "cantidad_archivada": 2089,
+      "nuevas_24h": 131,
+      "anteriores_24h": 132,
       "dias_con_registros": 27,
-      "fecha_ultima": "2026-11-11T18:43:19+00:00",
+      "fecha_ultima": "2026-11-11T19:23:55+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "fde3afaa8f57abc39d98",
+          "fecha": "2026-11-11T19:23:55+00:00",
+          "titulo": "Canada against Russian presence at 2026 IIHF Junior World Championship",
+          "fuente": "TASS",
+          "url": "https://tass.com/sports/2216603",
+          "traducida": false
+        },
+        {
+          "id": "2db924a4f98082f28517",
+          "fecha": "2026-11-11T19:20:46+00:00",
+          "titulo": "Présidentielle 2027 : Jean-Luc Mélenchon, critiqué pour ses propositions sur l’Ukraine, accuse les médias d’avoir « truqué ses paroles »",
+          "fuente": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/11/presidentielle-2027-jean-luc-melenchon-critique-pour-ses-propositions-sur-l-ukraine-accuse-les-medias-d-avoir-truque-ses-paroles_6809023_823448.html",
+          "traducida": false
+        },
+        {
+          "id": "c53438f67fac5058a952",
+          "fecha": "2026-11-11T18:54:42+00:00",
+          "titulo": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky est arrivé en Irlande, où il doit notamment s’entretenir avec les émissaires américains après les négociations à Abou Dhabi",
+          "fuente": "Le Monde",
+          "url": "https://www.lemonde.fr/international/live/2026/11/11/en-direct-guerre-en-ukraine-volodymyr-zelensky-est-arrive-en-irlande-ou-il-doit-notamment-s-entretenir-avec-les-emissaires-americains-apres-les-negociations-a-abou-dhabi_6808609_3210.html",
+          "traducida": false
+        },
         {
           "id": "3a7848b9f4679c796049",
           "fecha": "2026-11-11T18:43:19+00:00",
@@ -98,6 +122,14 @@
           "titulo": "Russia’s ambassador to US dies, foreign ministry says - Politico",
           "fuente": "POLITICO US",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWm52SXd0bkR4bXNaQ2FxSW1DdEgtX2k4TGdmVURTWmtRNThBem5rTUctUGlvaUxXU19jSEFwYVdBenUtODZmanJsWi05Wl9NX3JBR3YybGFHUURRYlVXMjNrSzVQNVB5RVkxaE1oOWlVRlNvdzdONEx2MUhEMjU5LQ?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "6917fa797cd756f5e972",
+          "fecha": "2026-11-11T17:09:10+00:00",
+          "titulo": "Russian ambassador to the US dies, Russia's foreign ministry announced",
+          "fuente": "Euronews",
+          "url": "https://www.euronews.com/2026/11/11/russian-ambassador-to-the-us-dies-russias-foreign-ministry-announced",
           "traducida": false
         },
         {
@@ -219,51 +251,35 @@
           "fuente": "TASS",
           "url": "https://tass.com/politics/2216467",
           "traducida": false
-        },
-        {
-          "id": "7dfc53730f00e86aeeb4",
-          "fecha": "2026-11-11T15:05:11+00:00",
-          "titulo": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-          "fuente": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
-          "traducida": false
-        },
-        {
-          "id": "2d6b9e70ab77986a2a6e",
-          "fecha": "2026-11-11T15:00:52+00:00",
-          "titulo": "CSTO summit makes decision to deprive Armenia of voting right",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2216451",
-          "traducida": false
-        },
-        {
-          "id": "673a513504ecc716c285",
-          "fecha": "2026-11-11T15:00:11+00:00",
-          "titulo": "Friedrich Merz menace de priver de fonds européens les pays de l’UE qui ne soutiennent pas l’Ukraine",
-          "fuente": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/11/friedrich-merz-menace-de-priver-de-fonds-europeens-les-pays-de-l-ue-qui-ne-soutiennent-pas-l-ukraine_6808988_3210.html",
-          "traducida": false
-        },
-        {
-          "id": "345a7584256e89be9b8e",
-          "fecha": "2026-11-11T14:54:11+00:00",
-          "titulo": "Russia, Ukraine agree on prisoner exchange as talks end without major breakthrough",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/world/europe/article/3374117/russia-ukraine-agree-prisoner-exchange-talks-end-without-major-breakthrough",
-          "traducida": false
         }
       ]
     },
     {
       "id": "oriente-medio",
       "titulo": "Oriente Medio: seguridad y diplomacia",
-      "cantidad_archivada": 1462,
-      "nuevas_24h": 69,
+      "cantidad_archivada": 1464,
+      "nuevas_24h": 67,
       "anteriores_24h": 109,
       "dias_con_registros": 27,
-      "fecha_ultima": "2026-11-11T18:47:57+00:00",
+      "fecha_ultima": "2026-11-11T19:21:03+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "4d1201794bf0707c9778",
+          "fecha": "2026-11-11T19:21:03+00:00",
+          "titulo": "Israël : Gadi Eisenkot appelle Benyamin Nétanyahou à faire « preuve de retenue et de prudence » quant à de possibles nouvelles attaques en Iran",
+          "fuente": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/11/israel-gadi-eisenkot-appelle-benyamin-netanyahou-a-faire-preuve-de-retenue-et-de-prudence-quant-a-de-possibles-nouvelles-attaques-en-iran_6809024_3210.html",
+          "traducida": false
+        },
+        {
+          "id": "6a677297aa963b9b9d12",
+          "fecha": "2026-11-11T18:52:08+00:00",
+          "titulo": "‘The world we know is over’ without urgent climate action, leaders tell Cop31",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/environment/2026/nov/11/the-world-we-know-is-over-marshall-islands-president-cop31",
+          "traducida": false
+        },
         {
           "id": "e67498a9b2e9e86744f5",
           "fecha": "2026-11-11T18:47:57+00:00",
@@ -487,31 +503,15 @@
           "fuente": "Al Jazeera",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/israel-kills-gaza-goalkeeper-days-after-playing-in-cup-for-slain-athletes?traffic_source=rss",
           "traducida": false
-        },
-        {
-          "id": "8e32bbd13a75bc80293c",
-          "fecha": "2026-11-11T10:28:48+00:00",
-          "titulo": "Tehran has no plans to give up enriched uranium — Security Council secretary",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2216049",
-          "traducida": false
-        },
-        {
-          "id": "4d84ecdc0e172ff3d0d2",
-          "fecha": "2026-11-11T10:16:38+00:00",
-          "titulo": "US Treasury chief Bessent moved to military base after ‘Iranian threats’",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/11/us-treasury-chief-bessent-moved-to-military-base-after-iranian-threats?traffic_source=rss",
-          "traducida": false
         }
       ]
     },
     {
       "id": "india-asia",
       "titulo": "India y Asia-Pacífico",
-      "cantidad_archivada": 1361,
-      "nuevas_24h": 56,
-      "anteriores_24h": 88,
+      "cantidad_archivada": 1366,
+      "nuevas_24h": 59,
+      "anteriores_24h": 87,
       "dias_con_registros": 27,
       "fecha_ultima": "2026-11-11T15:57:02+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -522,6 +522,14 @@
           "titulo": "India's oil imports up to record level in September with over third supplied by Russia",
           "fuente": "TASS",
           "url": "https://tass.com/economy/2216519",
+          "traducida": false
+        },
+        {
+          "id": "562af3a9b5efa4a0890f",
+          "fecha": "2026-11-11T15:09:52+00:00",
+          "titulo": "Kiara Advani, Sidharth Malhotra reveal how they almost broke up before marriage - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQmE2M29SQ1JLUVN2TjRPSkdTZjdIRGlRYmRoRm43MlVrcjhrc0NCTFJMallVb2laNVJ2M1NfUDRlbzJkTlF2dWl1Rm9DemJta0RfM2p4UWlLMEZHU1J4OUhSTzRIdm1aWmhDc1llbzJEajNmLTloOE9PWG9aVnpSUTZKNDc3ZWl0QzdMaGxjX3V1Si1ySmtkSi1seXlja1oxZWJ4NWg2dTlVY1lkYW5mVXNDWU5ta2NfS0JKRFBpUlRpN3NvbDRGSnFMdlZ6dE1WRTlDRkt5ZmlpVGRjT2I00gHmAUFVX3lxTE5KYU8tU3JZWVRwNnpsSTMyaVNkZ0ZxSHZWOGVXUXZqVzJsTU1tQTJEQzI4NHJVVEFmZGl2aldOVTA2NkNIU3ZTamZGQ25xQ0FhS2MwV1JnUTNEa1Q2SVpyS0RPaXVacVRVTWpoaXgyT1BiNmpuTVFTenhCUS1QcThPbjBuRi1ScVo3cnEwdzMtOGxBRDR3azQ4X01PLUR2eWtocDlDR3I5dlNzeVVaQXJfVEoxOG8wT3RybDZNM1EwWVFMdWpxYkRiUC1qTFJacXZiT2lSNERlVFptZ3FiN1dyZHR3MUZB?oc=5",
           "traducida": false
         },
         {
@@ -538,6 +546,14 @@
           "titulo": "Why does Irfan Pathan think Mumbai Indians are winners of Hardik-Arshdeep trade? - The Indian Express",
           "fuente": "The Indian Express",
           "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaWtId2ZQYTFjcUlWd0FmSVVNUnk2Qmx4cDY2MmpHRFZkVHVUbEtUTUtUeExPXzlsU042TWUwVGRNOWI5WHUxcnRpTVlZZjduVGprdEVxVWhOVEJFRHk2V1NiRnoyMUFWNHhWQ0FfYjN3Rldwd093YkNYY3VnLUFOUURaN3VMTEF2NTQ0aWR5ZWFGMXRnSmFPOVhPOEdXMGNtX04ySmw2elN1R0t2MFFTQURpUzRqdDNvdWRKQ0tjOEV5Sm9RT2ZnN2JWcGFZREdjdk9ab9IB2wFBVV95cUxNM1o2cUlrZ04xU0tMNzhNd21aQkZJZjN0amdzWmxtQ1JUZFhvOHpqVGF4STBPenA5b2tEWVNZa2N5Tkc2YXYtMExlUTNJcm1UOXdMSXlsNzBzTU5OSVZRZlJDVTQ5cF9UYnBuMFV0V29Id1hyOFB6SFlYcDVsQlhaS2NYYWhLU2M0SXIyVzJhRTRjaGd6Q2xNNzg5RUxrX0dYZXdaQ25xaGJIWm0xdENCMEM5YTI4dWkzTGM1NmN0OGRjWENzdGpPd3Z0bFNlQ2piOTUtbVUxLVZ5aXc?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "8f1ea75b93109dc5dfb2",
+          "fecha": "2026-11-11T13:53:34+00:00",
+          "titulo": "Mani Ratnam returns to romance: Vijay Sethupathi, Sai Pallavi’s Inji Vellam gets release date - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbWNpckJMZ0hJeFZWUUk4ZVA1RUhxdnpfd1k0c2JIRkZhUFZMMzhFVGxVTzlHdmJZSWNoVjNmSUU5bmVNX0doUHhEZGNZZTAxRk43X2l3OHNkTjExMmlmNWY1cldfUzRNcWNVWlJGSVh4VFhfRjNxM05jQU5WQVl1NGEyM1cwVkc3ZUtBLV85MFctQTd6THQxeHRTQWt1RFRFUWNVeVJhZ21sYlQ2RERHbjNCTkJCY2NUZnlhTE9CZ1RsYXRIZV9pc3pQWmtGd3fSAdYBQVVfeXFMTkcxWUJyY2E4dTR6a0NwWTBfakdOdzZ2SWJEbGJSN0F3clBfU2c1bFNUYUlSLXBlaExaV3RYMWhQN05zRkc1RVVudlIybDJxSThkY01oMkFmZS1fU05vYWhhVmxkM2pRZTdEdm5WOHJTTFE0R0x0UXZqSmphTThXRENpeEVIQUM3MlU0Nlo2RVdFcDVaZmN0SHluQUdIWGFuSWl6cWYxUjRIRUZ6c2NFRWtudkgtc1pFX242MmtGdGNLNlB3ajh6cmpZSG55dEtPS1VyVTV1dw?oc=5",
           "traducida": false
         },
         {
@@ -653,6 +669,14 @@
           "traducida": false
         },
         {
+          "id": "868e156a5ab44ee6a105",
+          "fecha": "2026-11-11T10:31:26+00:00",
+          "titulo": "After Ramayana, Pyre submitted for Oscars: ‘Independent cinema deserves the opportunity’ - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdEFHdjhMU2pZcEV5ajJzM3Zsdm5ZLXVnMWoyNnVaaXVoelRxb0t6WmU0UGdIMUZsNEszNXV1UmZiQzlCcW1Bdy1USVBUdEtjY2gyWXVlOC1hOHVFa0hQeW1nOEl1WV9Ldkx3WVhTVGR1VmhHc0hFNGdJMUZmdzdfLXVrc0FtQ1F6TTQwYkRQQ0ttWlBJQjVTa2ZFUzl5T3FBZHBqSFVLaDB6VnJVLUpLZdIBtwFBVV95cUxPd09MZkJQWEo2WkUwbHlHTmFpNW0xUUJrRE9WTW9Ebmd6aEZEbXB3Y0hsODdVajd5b3Ayb25SbU51Nm1PU3lQLTVMeE1QTDZUQXYxQjViNTMxWHdNcmRmMndCLWNCeEhUZmtBWTNUTm5TN2JKZUMtR3hWLXdmOThMTUU3TTROQ2hwNXhLeENpVVptWUx0MnhKT2d4Q1BXVGRnWXppV3ljVGQ2emN2eDcwRzNqWHRDS28?oc=5",
+          "traducida": false
+        },
+        {
           "id": "b8ccc860f55eb86e0992",
           "fecha": "2026-11-11T10:29:48+00:00",
           "titulo": "‘Cocktail, starter, and a lecture please’: Why trend of professors giving lectures in bars is here to stay - The Indian Express",
@@ -693,6 +717,14 @@
           "traducida": false
         },
         {
+          "id": "c9bb7e914d09d05f941d",
+          "fecha": "2026-11-11T08:09:33+00:00",
+          "titulo": "IIT Madras Pravartak launches free online training for school students, educators - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWWtXYzJ6aUhKcGVta1Ixemt6WkFsZ0JFS0kwWWJQZ1d6QkkwWEU2Yzc5OW5GUXhBMW9NbkZSNHNXeXU1X0RBN3VIWHBRNThvbkRmWWNTbkZnS3BjSnVUS3pRXzNySERxYUdrRTVqLWM3WW5lRDQ5blJhOHpiMnRJMy01UkdFN1ZoRHlyWnR1T1B4X05DYks2Z3laVXowUGREQUdKcV9naWZWUGVhNEg5MHpOVnhrN2tiZEdkc2VpTzFZVHJ1dnM4Z1dpNTVyUUnSAdYBQVVfeXFMUEtGOUp1QVc0VWtQYzdqX05YcGRpcDFNc1V6NE44dkcwMlhPNzQ1cDFCTkxKX0JKa3QyU05TUG54a0FyZEFvMDV4eG9tYWhkMUdsUVNwd2oxcURXY2lDV1hiNFBkQndtaWxzRnZJWWhQZ0dtS3kxOVBhblpuWmctSzg1dzN0X2pfRlNycW5QZWZiWkZrUFZPbEFNVmNZRkMwakFtcDZ6SS1PRzU2SE5XNnVEMEkzUXJmWnZjWDRXSzdzSzJ4SWp6Zl95YjF5X2NsY21iaWtwZw?oc=5",
+          "traducida": false
+        },
+        {
           "id": "ee16544c7ac43823eb4c",
           "fecha": "2026-11-11T08:00:40+00:00",
           "titulo": "11 drills in 60 days: is India’s navy stretched too thin?",
@@ -709,51 +741,19 @@
           "traducida": false
         },
         {
+          "id": "29565c9297df33f43027",
+          "fecha": "2026-11-11T07:29:33+00:00",
+          "titulo": "Ramayana eligible for Oscars? What a film needs to independently apply for the awards - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOckpSZkQ4aVJrbHR3R2ZNcXdyWE1VQXp6d0Z1Q0piTUJMQnpZUjU5cWg0QWs5VzVYMDdpaDlSNWFQeVA0ZDhPQUloX3NWa2dyTTJ6bllGYnJXMFZCYUVJVHF1bVZ4T1ZhT1c5bndmQnpUY182ZFVWQ0twUHJ5Q0RDLW5JQTBBRUgxOHpNeHA3YzZKb2d6b0JYb0hweF8welJwSmtHRHhMV0h0UDI1Ynl5YjdVd04wNlA4MVV4ZGozUko5YXFwRUhKNWVzN3M4X0hqTk8xRWU5Zk9YTFXSAeIBQVVfeXFMUG5PV3oxODRlYzg5bUlNSUx0UmdxWV9acnR3b2JWTDJyNXA2THVOSDI5MmNEaWZnOWRSM0dqRW0tbDM3M0NhUnVoWlhfa2IzMGpwaXF1TDBNNVFITWpSYmNpREVxZUJJR2tiaWpTWDZLX0hlUjJWaFRWUEEzVzFSeFVlc19tSkpsNnQ3U3RlWDduNTc0SkpoMERtZE5fLThVeDBKVmxvY0gxa01lclRDNmFNZFU4NnRaamZBc09iS3p2dW1BNW45NWJxZl9qYXVRaDRUa3M0d2E4dnJkZVNWRlVUZw?oc=5",
+          "traducida": false
+        },
+        {
           "id": "e0b8020dbd567496a471",
           "fecha": "2026-11-11T07:18:00+00:00",
           "titulo": "ISC Class 12 Date Sheet 2027 Out: Check complete subject-wise schedule here - The Indian Express",
           "fuente": "The Indian Express",
           "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTG1OVmdwTGZDbWpUVUI5bl9zbHZwbjZlVXFxQ1JjRlJjLVNpdU1KRURkQUMtN3F1cnh5aWJHazNqT2pnVDI4QzcxcThfcU9Fc0hwNGQxclhLYVNhSVBvYUxlUlVSdk5NZlh0NG10ZUNRcnVfaUo4MGNrNGpmQnJ4SjFzMDZpSkRjQnZSZGhBTTNNUEg0aWc1WVdoc3Zydk1GQU9EYTYwaXp1NWZ1b2Q0ZFltQlJQSFc2VXBENU40Qk91RDNESTlyMWhrcldnQmxCN2hVQTlUR25TMDl0SENxeGNKNXLSAesBQVVfeXFMTXJJVklPU202QnpzT0ZCZHA1TnFneF9YWE1ORnI3Z0VYSWhCaFZ0ejZvZ29nc2I2Z0NtN1lkbkFCMmh4ODhabkxtbmplRkM2aDVHWVpVLW85SFNmbjFvb2FEdmQyWnVzLUZXWERUZ0lCejZRcHllb0hiQlhUZC03RC1sQUVaalZlTTdqMXprbFV5ZlNhSnV6UV9Fa1pGQk5NMjZkblYtV0loUEtlUGVWOWVjWGhpNlZOYjZ4UGJ1a2llNU5IbERXZnhJUzNLd0p4SlE1MTRSWWdtdWRzZ3ZtbkNLRV9yeGhPVG9xSQ?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "5ddd57cb3b352ab86467",
-          "fecha": "2026-11-11T06:10:07+00:00",
-          "titulo": "A tale of 2 photos on Sonia Gandhi’s book – and a ‘what if’ note at end - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPd2d5WUdYM1h0Y0dxRndscmdHd215dDNLMWdwQVprbG5qTHRiTk9UcU11dWw4RUV6V1JrcFZHcFo1aEY3SFM1Ym1qa0otbzZ3eFU2WXFzQ1VBcENKWktfZTBFUHc1R3dKV01xZXZjbGVtXzJfcDljdjN1cEFIZEp6eG51Y3UtX1JrTUJ2MmVrNHMwSGVUVG82WTNDckZNS3FhY2VoNDFYZkhKa1BhWjlXbHNjQU1yQWJRM201Sm51VWZ5N3dwNUJ6UEVyNzhVQdIB1AFBVV95cUxPY0lsVm5wVWNfc0NvWFEtWFhrSXNiZDBwdkFMeVNlY0pBNUtiY01CMW1LZ2s1cDlmakoxSGlILThrbEd3eWdGSkQwMUpNRFI4a195MFAxMGVGZGF3d1ZMdFpUbURYa1l1Q2JoQW40RGVBMjdlTS1scGZvcjR2XzFwZ2pKN0M2TzBsNE5COXo0dU85TXJBOW9JLTNabGNrdlFpamVHQUVfRHRvUnpfUlUzeTNuZEJKTG45TWVzSUVDM0s3eWFRai02eGtfVlpTR0VMLWViVQ?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "6d231062cbe373bcf8a1",
-          "fecha": "2026-11-11T06:08:18+00:00",
-          "titulo": "‘No one has the right to make Ravana bigger than Lord Rama’: Mukesh Khanna on Ramayana - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZGc3NWphZ2JoOEhtOG1ZekRFS1ByVmdYb3pnd3UzWnU4OFJ3bGhzUEZIdk9IZHhDalZCaWlIenpMLTdmNWo4bElHSklWVEhHeWtreHItNjNNRzRGWXhELTlBVXo5UEFQaS1wUWZ6Tl9nbjVfcEJ3cTJoMVRxc0VkS1JpbGZFa085OWRtMzhsbXBvbW1TdllkVEZESWdIc2JIdDJMMVVQby1jb21mSVFTVUFWdlgtWDRsRkE0emdHRHphVVA4RjI0QmV4ZW5YRVQzMm5aZmFiMWU3OHJXRjBnN1RwNNIB6gFBVV95cUxNazU3VWJIWUxFQW5mTndJajdqRnA4Z1hfTmxxVmJZaVAweHVoY2JfUnJNN3h4aU5nal83bFU2Vms4ZHR6cnkwN1Y2VWhMZG1OaDhaRzBIcldZNndDQ1FLZTdaT3NoT3dfUmJxWGdnb0NHUjBGeWI5NnMtRi1wbkFubXdfWFpNZmQzQ2FaSDYyVHEySl9NWnNXdFF1MWJOOUFWeGNjenQ3UkJGczEzbXBPYWRMbkRXM1czZ3JEMG1rU0V1akc1MXFkRDZaaG4zeHh4SjNRRWpra0tfaFY4VWhJOUpvM2o5SWxsMXc?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "a9b235e627b22dc1ce0c",
-          "fecha": "2026-11-11T05:50:11+00:00",
-          "titulo": "Why Hardik Pandya’s MI to PBKS move could be the fresh start his career needs - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTS1hUG1JZWhRYVNnWGNjdkpnNlRveGxNSlpRbUJMXzRqYnRfMmtGVUhOMG13cEhPM3hJcVV2dWRpRkg2aFl3OXYtQlhNczVHRUwtU01GSTYtVXlzX0R5S1Z2NVkxdzRFOVNmMXRJQWFDa243eXBOY0FBQ2U3Y1lsRzFPbHNIQ2k5bEkxVTdDdXhpa0k1c183Q2FLb185ckdsX2h2ZVV4bHhlV0J3R0UzU250VFFEeEtab19rR19R0gHEAUFVX3lxTE1yRUc0N3ZzbmtaX2Uwa2VCWFV3ZVBVMTRNbElBVUh2S2hQcnkwc05HcHhaeTJDS2hMakNPOUhVcUV5cTNGSld0TkVpYkpTNFZvOFlRLVpaa0pRZE92ZlBlUkdZaDVkeXBXOEpKdlpqR2pydGdTRzM4SVJDTWZtd3FVX01yR1c3NUdwMk5sQlFjaUFPX2ItcU1OaHBQZWNZb0VjM2dNblloOXNxTVpFR3ZiRlY0aWZhaDBOcHdUYi01YmU5TVk?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "1bc8a9965ce0bea85c4b",
-          "fecha": "2026-11-11T05:30:46+00:00",
-          "titulo": "Fast-spreading Covid variant PJ.2.1: What Indians need to know - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZjZoSlVQQjlvMWhUNTRyV0d4Sk53cXEtYW15RGhvSzFJUmJfMHB2UG8yYk9fN0FrSzJra0NxajVCdksxQnhOS21mVVdIbFg0U1ViTlhiR3VVTTg1T1o2LWo4QWZkd2pQYTAycy1tRmx0LWdHVzlKUlpISUtvaEpMNEdfdmc2UHZzUi1YSHVZVHlwSGI0Q0x2c01mSXRlaGU1ckhpeEFubzJXZk1aWjFEX0dxVzl4TTlJeXU2OURSUTFGZFJuV0I5atIBzwFBVV95cUxOM0I4TnVqUjFvNHZYV1YwUGdOanYxVEs3MElxaDhoUHpTY1Y4WGlENWY4b3UyZlRvemZYdHNBay1fdnhSZ29sbVFIbkc2bURkTEhUa3EtNFVHVmpZakkwTEV2SUYweVhDeXBKZ1ZJdExXOGM3TE9CUUwwUldYeTBxLVZ6SVhYZTF2WTlQMU5GLUxzWnoyQU1HcmYyVTFjd2xCaFktbHp6U0YtSWl0Y0hGR0MxRmhvUzFWZmExQjZwZ3R1S3A3MWNVVk9Ldk9ldlk?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "09605d62732b2742f468",
-          "fecha": "2026-11-11T05:13:14+00:00",
-          "titulo": "What is smog and why does it blanket Delhi every winter? - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNFExdk9OZXNXODBGRkM5U3g0bHdjUTQtNlRFNlNyVzByTlFiaXYxaGY5eW9qM2ZMMXVDMHZDV1paaFlHdDkzMzJGdGNHLVIwYVBpa3J2ang2VlpLVEpRei1PeDlQdzYzbm54Y0M2RHpzcVBOWnRiMlVzczZTVkFaWWtQNEduN2Q3ZnAwNUkzZkRqV0FXSWJKdlg5UTlMMzE5Q0g4VVhnNVM0LUgtelZuc2lNSjRBZ2dRdUtfU1QzdUVNR1RKalFjN9IBzwFBVV95cUxNSW5BdnotVHFMclRlSUtQeUZzaWM2SEp5ai0wWkNHamF5OXhnTXlmZUxBcjk3WVUxcU5oejNOTWJLa1Z3Y0tPZ0xlanMxRkdyMUpHZ3BYNWJIWXIxbkpzMDhuOEhmaUZoYXBuT0dScFhjNDJUbjJBdWJBeWtYSWJMSlJUTndNOVdXUTExdGJZVnVGajBobkpuLVl3ZFduV3FZUDBza1BISmpjUmtqSUxmaWhwQkZjOXJsZktmdlYxTzdHYTVKU2pYVEl4YXpuTW8?oc=5",
           "traducida": false
         }
       ]
@@ -761,13 +761,21 @@
     {
       "id": "union-europea",
       "titulo": "Unión Europea y relaciones exteriores",
-      "cantidad_archivada": 599,
-      "nuevas_24h": 16,
-      "anteriores_24h": 38,
+      "cantidad_archivada": 600,
+      "nuevas_24h": 15,
+      "anteriores_24h": 40,
       "dias_con_registros": 27,
-      "fecha_ultima": "2026-11-11T15:47:37+00:00",
+      "fecha_ultima": "2026-11-11T19:20:46+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "2db924a4f98082f28517",
+          "fecha": "2026-11-11T19:20:46+00:00",
+          "titulo": "Présidentielle 2027 : Jean-Luc Mélenchon, critiqué pour ses propositions sur l’Ukraine, accuse les médias d’avoir « truqué ses paroles »",
+          "fuente": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/11/presidentielle-2027-jean-luc-melenchon-critique-pour-ses-propositions-sur-l-ukraine-accuse-les-medias-d-avoir-truque-ses-paroles_6809023_823448.html",
+          "traducida": false
+        },
         {
           "id": "49cc238ef5d9158fe1b8",
           "fecha": "2026-11-11T15:47:37+00:00",
@@ -999,27 +1007,27 @@
           "fuente": "TASS",
           "url": "https://tass.com/economy/2215603",
           "traducida": false
-        },
-        {
-          "id": "a8beda85e0ad7d00f46e",
-          "fecha": "2026-11-10T13:56:00+00:00",
-          "titulo": "Statement by the High Representative on behalf of the EU on the alignment of certain countries concerning restrictive measures against the proliferation and use of chemical weapons",
-          "fuente": "Noticias del Consejo de la UE",
-          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/10/statement-by-the-high-representative-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-concerning-restrictive-measures-against-the-proliferation-and-use-of-chemical-weapons/",
-          "traducida": false
         }
       ]
     },
     {
       "id": "suramerica",
       "titulo": "Sudamérica: integración y política exterior",
-      "cantidad_archivada": 328,
-      "nuevas_24h": 14,
-      "anteriores_24h": 14,
+      "cantidad_archivada": 329,
+      "nuevas_24h": 15,
+      "anteriores_24h": 13,
       "dias_con_registros": 27,
-      "fecha_ultima": "2026-11-11T18:29:56+00:00",
+      "fecha_ultima": "2026-11-11T19:00:33+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "7ba0cb86cd02fda00475",
+          "fecha": "2026-11-11T19:00:33+00:00",
+          "titulo": "Ex-member of radical Marxist group scales balcony, escapes house arrest in Argentina",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/11/red-brigades-leonardo-bertulazzi-escapes-house-arrest-argentina",
+          "traducida": false
+        },
         {
           "id": "d1dc0430a842ff1b3574",
           "fecha": "2026-11-11T18:29:56+00:00",
@@ -1250,14 +1258,6 @@
           "titulo": "Argentina: Pope Leo XIV urges Milei's government to protect the most vulnerable",
           "fuente": "Euronews",
           "url": "https://www.euronews.com/2026/11/09/argentina-pope-leo-xiv-urges-mileis-government-to-protect-the-most-vulnerable",
-          "traducida": false
-        },
-        {
-          "id": "e0500c3f265289ea14e1",
-          "fecha": "2026-11-09T18:53:19+00:00",
-          "titulo": "Brazil’s Lula heads to Cop31 on first trip since re-election",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/world/americas/article/3373847/brazils-lula-heads-cop31-first-trip-re-election",
           "traducida": false
         }
       ]
@@ -1517,13 +1517,21 @@
     {
       "id": "onu",
       "titulo": "Naciones Unidas y multilateralismo",
-      "cantidad_archivada": 73,
-      "nuevas_24h": 7,
+      "cantidad_archivada": 74,
+      "nuevas_24h": 8,
       "anteriores_24h": 5,
       "dias_con_registros": 22,
-      "fecha_ultima": "2026-11-11T18:16:38+00:00",
+      "fecha_ultima": "2026-11-11T19:14:13+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "138ca8c7f9ad3f0098b5",
+          "fecha": "2026-11-11T19:14:13+00:00",
+          "titulo": "CSTO leaders adopt Counterterrorism Strategy through 2030",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2216599",
+          "traducida": false
+        },
         {
           "id": "72cd26866b50391ed3a0",
           "fecha": "2026-11-11T18:16:38+00:00",
@@ -1754,14 +1762,6 @@
           "titulo": "West Asia conflict: China's Foreign Minister pushes for dialogue",
           "fuente": "The Hindu",
           "url": "https://www.thehindu.com/news/international/west-asia-conflict-chinas-foreign-minister-pushes-for-dialogue/article71656273.ece",
-          "traducida": false
-        },
-        {
-          "id": "230c86bdd5cd6b37a648",
-          "fecha": "2026-11-02T09:28:16+00:00",
-          "titulo": "The closer Russia to victory, the more aggressive the West in opposing it, says Shoigu",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2211747",
           "traducida": false
         }
       ]
