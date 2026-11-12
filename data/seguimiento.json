@@ -1,17 +1,33 @@
 {
-  "actualizado_utc": "2026-11-12T19:13:12.866715+00:00",
+  "actualizado_utc": "2026-11-12T20:20:03.407238+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 2202,
-      "nuevas_24h": 114,
-      "anteriores_24h": 138,
+      "cantidad_archivada": 2204,
+      "nuevas_24h": 112,
+      "anteriores_24h": 132,
       "dias_con_registros": 28,
-      "fecha_ultima": "2026-11-12T19:05:17+00:00",
+      "fecha_ultima": "2026-11-12T20:10:38+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "f91b27e050335982f59b",
+          "fecha": "2026-11-12T20:10:38+00:00",
+          "titulo": "Putin open to Europe joining Ukraine peace talks, says Witkoff",
+          "fuente": "POLITICO Europe",
+          "url": "https://www.politico.eu/article/vladimir-putin-open-to-europe-joining-ukraine-peace-talks-steve-witkoff/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "traducida": false
+        },
+        {
+          "id": "619885842e7dee416e95",
+          "fecha": "2026-11-12T20:02:00+00:00",
+          "titulo": "Russian national football team secures hard-fought victory over Uzbekistan",
+          "fuente": "TASS",
+          "url": "https://tass.com/sports/2217433",
+          "traducida": false
+        },
         {
           "id": "1a2bb872ee945534f08c",
           "fecha": "2026-11-12T19:05:17+00:00",
@@ -235,35 +251,43 @@
           "fuente": "TASS",
           "url": "https://tass.com/politics/2217255",
           "traducida": false
-        },
-        {
-          "id": "247319ca562990116aea",
-          "fecha": "2026-11-12T14:46:52+00:00",
-          "titulo": "UK blacklists Russian companies, projects",
-          "fuente": "TASS",
-          "url": "https://tass.com/economy/2217249",
-          "traducida": false
-        },
-        {
-          "id": "c2223a92b6451f4ad548",
-          "fecha": "2026-11-12T14:45:26+00:00",
-          "titulo": "CSTO states to jointly train cybersecurity specialists — Russian Foreign Ministry",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2217247",
-          "traducida": false
         }
       ]
     },
     {
       "id": "oriente-medio",
       "titulo": "Oriente Medio: seguridad y diplomacia",
-      "cantidad_archivada": 1534,
+      "cantidad_archivada": 1537,
       "nuevas_24h": 71,
-      "anteriores_24h": 68,
+      "anteriores_24h": 66,
       "dias_con_registros": 28,
-      "fecha_ultima": "2026-11-12T18:53:36+00:00",
+      "fecha_ultima": "2026-11-12T19:38:33+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "f7452bab6a474c61807c",
+          "fecha": "2026-11-12T19:38:33+00:00",
+          "titulo": "Iranian men guilty of spying on British journalists",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/iranian-men-guilty-of-spying-on-british-journalists?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "912fa4197bcd23fe4463",
+          "fecha": "2026-11-12T19:01:16+00:00",
+          "titulo": "Trump says no deal needed on Iran war and orders Vance to focus on domestic issues",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/12/trump-jd-vance-iran-war",
+          "traducida": false
+        },
+        {
+          "id": "567332351478c61f0eb8",
+          "fecha": "2026-11-12T18:58:49+00:00",
+          "titulo": "UK mosque rebukes comission’s ‘warning’ following Palestine comments",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/12/uk-mosque-rebukes-comissions-warning-following-palestine-comments?traffic_source=rss",
+          "traducida": false
+        },
         {
           "id": "c9818d791f038965349a",
           "fecha": "2026-11-12T18:53:36+00:00",
@@ -479,39 +503,15 @@
           "fuente": "TASS",
           "url": "https://tass.com/world/2217239",
           "traducida": false
-        },
-        {
-          "id": "9ba3f7e5d6adf11afc26",
-          "fecha": "2026-11-12T14:27:54+00:00",
-          "titulo": "‘No war, no peace’: Can Iran break the deadlock with the US?",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/12/no-war-no-peace-can-iran-break-the-deadlock-with-the-us?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "ba86be4e20d80cfb72f7",
-          "fecha": "2026-11-12T14:25:00+00:00",
-          "titulo": "Iran: Exiled journalists still repressed by regime",
-          "fuente": "Deutsche Welle",
-          "url": "https://www.dw.com/en/iran-exiled-journalists-still-repressed-by-regime/a-79929694?maca=en-rss-en-world-4025-rdf",
-          "traducida": false
-        },
-        {
-          "id": "e82e2749bf883f34a484",
-          "fecha": "2026-11-12T14:23:50+00:00",
-          "titulo": "NAZA: how and where to watch the Guardian’s acclaimed Gaza documentary",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/global/2026/nov/12/naza-how-to-watch-guardian-acclaimed-gaza-documentary",
-          "traducida": false
         }
       ]
     },
     {
       "id": "india-asia",
       "titulo": "India y Asia-Pacífico",
-      "cantidad_archivada": 1446,
-      "nuevas_24h": 60,
-      "anteriores_24h": 80,
+      "cantidad_archivada": 1450,
+      "nuevas_24h": 62,
+      "anteriores_24h": 81,
       "dias_con_registros": 28,
       "fecha_ultima": "2026-11-12T17:31:58+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -637,6 +637,22 @@
           "traducida": false
         },
         {
+          "id": "f6382725099d0050d51a",
+          "fecha": "2026-11-12T11:59:37+00:00",
+          "titulo": "Bookstores report strong early sales of Sonia Gandhi’s memoir - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOG9aRjdCVEJLT0Q5dEVfU0xUYUdNRXJFU2hJdDc1RWkwSF9uSGp3ZUItd2sxcXl6elgwbGhfaE1YTFRzcklsWkxLVGE2TGlRSURhUldFeHNENkpKQTlZRkNsdFpyeV93UVBuNmptd0tiMkhEakx4WlVzZkhrTDZhZkZjUXdKRm5wcV9VeTNERF9USUxjaW04c0FLdmF0ODRrRXUtckFpZ1pkOGpnWUhlX3NJaDVwdUZ2YTlrZFA3YWxERVBjQ0FELUpib9IB0gFBVV95cUxPZTB5b3FON2dJWWVqWlF0bmE1OEhUeXI4ZlhBbERhWEpjNTduS2dwYXdFMFFhd3ZzNHVMaXVVOXBqS19xUmk1aGx3bWx3QkpIOXNLVl9zVnhrSWZyVTFqbmVDRVFJdFNNbkRGZ2Znb1IyZUZwWlZIVUJfYlV5VklRY3B0WGFQNU9QQ05lOXBXV1o2Q0ItdUpBeXdJUHVmaXFWcXBGa2loY3hHTi1nczZWRlNNaWJQSm9oTnpZU2JpaWM1ejhzWDYxc3FvTnJ6UWd3dHc?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "76165a30a6589d3c5dbd",
+          "fecha": "2026-11-12T11:54:12+00:00",
+          "titulo": "They called her mother. When she died, two Muslim brothers lit her pyre - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYU50QVV1UGMxVERZMTY2SUpoNnljY2E0Ym5NakVlOVRreDhQV0YwTElOc2ZrbTg4UnotdVlVSkVFcUJVRXBvRm95czhVeHU2Z2hRQjdDNzlscFh1UnNYSWFka1FpM0Zsdy1JdU5OOUFpVlpTN3dqTUJRbWs2SUpjZ0V4S3FNZ3JyNlpfSWNqRWhLVFdwMnJrNlBfY2x1R3l5Y0I5ZXdkQU1XN0I5cUMtUVJR0gG4AUFVX3lxTE1ENEFZX252SERBcFZOOVBqWGxZZW5aQm1USkpNM243eWstelc5dEJmc2xWbVFGdnFsSTBZMVZVaTR0Z00tbzdudzByN1pLRU5SdGxaT3VEV0tGaXZDUnJhNG5uMjlqVE8xaEN3OG9lWDIzQ1Y2SVl5ZWJRQXZIX1hkWE9CSHNSQWNyNnUtQ0JEWjJrTGZQUjMza0w5RFZsX0dXbURkenRpYkN3ZjBCUzJocG9FTHdvU0c?oc=5",
+          "traducida": false
+        },
+        {
           "id": "d8081087795a72dc7b82",
           "fecha": "2026-11-12T11:44:42+00:00",
           "titulo": "Technical issues force 2 Cathay Pacific flights from London and Tokyo to return or divert",
@@ -666,6 +682,14 @@
           "titulo": "New Weird goes mainstream: M John Harrison’s post-apocalyptic satire wins the Booker - The Indian Express",
           "fuente": "The Indian Express",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQb1laaXVxRERiX1JiTWktRE80MkFHeVlNRnhjNlM1ZTJnQmp4d2N5QWJOdkhsUnNCVnlPeWozTUJ2dk55dWE2QUVjcnRtSjdEN3NIZC1ZNTN2R3RJblJjdV9zcTZpZkN5RWRfLWUyU2praHVlVUk3Q1hKUDdUaWR0eGd3XzY2WkRXWDdtc3RzekdZaEVIUkVQUmJ6N2pqZHJ4UWg1RndrdDd1S1lORzBicWpxaW5OUm9yUjVnNlZMNVB3aUJia3ZBcWhR0gHQAUFVX3lxTE9KSjNLc3QxMkQtcmdZazdXRXNONF9rdVRMZlg0TzFmZEZFZUs5UEhjSDZLdVdFbGF2eGdnUnQ4cUdYYWs4OGRuVTQxMTVKN2lEZjIzMDlyVVBjTVhOd29wNXhmaGtXSk5iTEg3bGhHQlVSX2dPWXhwNjZCT0NmMnRTbHZPRk9qQ0EycmptcWlDZ0UyX2VWa3VmUnI0dlA2Wi1wUERvRjFTblZWRERwWTJ5OXV3VVNZd1JLSHhlN25GeHBOY2w4OGpObXJLdm1VbHQ?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "240172dc809c1530394a",
+          "fecha": "2026-11-12T11:25:56+00:00",
+          "titulo": "After Asaduddin Owaisi and Chandra Shekhar Aazad join hands for UP polls, what Akhilesh Yadav said - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQb3oyLTVrcmhGUWxaOXUxU2VJUlFRX1F4S1VWaU5YQVpRbXZYTnBONC1oaGlDOGczSDVoSW5qNk1jbXFNWU1pUjBYT0ptX29ZRHRhTE5Zcy1tdVFsZmc1YTNNZFRpaDZ4OWhKRUVCWndKWE1tOHh0VFdsek5OaVMzYmhrZ2FpWi05SHpqMXdDNVBxTFRNZThrZWdxbGRwVEMwallZTUlBdkU2RFpSZUlFdE04VDNTTVhKZGVGc3k1bU9BWlVTLUJEZHl0Z9IB0gFBVV95cUxPN2Y0X2VscVVzVUFxRW9vSEdneWx6Q244QlRkaWp4NzJJMlRrcWVUWTZCWTJoOU16eG9FY2FwbFVkRlBGeFZJbENTYUJmajhzYXozOURsZUUyWjQwcXN6bXZfSUFjMjNwSUIzSDNUX0RHNFpkSXdjejFuamZYZEF0SDJoaHQzWnVVVUdobTRYbDg4ZVIxZ2dWdnVvY2pjTVNVQ3Qyc01ORUlzdkdZNnVsaTRyNWUtS3RtWHV5d2UyWkZYU09SZ2NZNFo0OXA4TVVOemc?oc=5",
           "traducida": false
         },
         {
@@ -731,30 +755,6 @@
           "fuente": "The Indian Express",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE10VWNjcmFxcUIwY283SUM5VlE3M2l0ZFlXcUY2OGduSVhTMDRQSU9ad3pidV9zNm5EWXhFSmVDT3RNZlRSUUl4RmN4aGJUcU1TZGYwRTE1Yw?oc=5",
           "traducida": false
-        },
-        {
-          "id": "45b1e1a040bdd78068c7",
-          "fecha": "2026-11-12T09:41:05+00:00",
-          "titulo": "Duterte-Carpio impeachment trial zeroes in on US$3,220 Tokyo meal",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/week-asia/politics/article/3374216/duterte-carpio-impeachment-trial-zeroes-us3220-tokyo-meal",
-          "traducida": false
-        },
-        {
-          "id": "cd2de1a03228e87f8672",
-          "fecha": "2026-11-12T09:29:53+00:00",
-          "titulo": "Labuschagne snares 3 wickets. Can spin bowling put him in contention for BGT? - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNU09MMDZfNVRBWnRhYUJGS2t6SXBlZ0tDMHgzVTBIOGlpMkV1aC1sWkdDdGVMNnJqZVRVenNSclhVWUp0TEc1TlBRUS0wa0lBTU9EQ3J3SURpVkdjV3hXdlY3U1VUV1cxbFRDbFFDUy1PcE82bXEwVXJ6OU5JejN5UmhyN2hxOWVTdHF6Tkh4czFPRm9DYnBjZDRzSVRWNVRZUHd4VlEtRUtCNFZNQ09MWW9hY9IBugFBVV95cUxNLTBlaTJJRXgtak01TEY1ZlN6NUpjWjk4bVVIZTZibDJPQmFtYjFXbGRSOUkwOVZoQW5aVGI3T1JFMHhSb3NCd2NUMERkR2pBZDUybjRSaEZ3RkNUaHAyTjNsZjdLTVdyNWMwb1p0dlRtaFEwOU5YMzVvZGxjOXNkQWtGbDVBSktuYm9leldWMnEwOXBwaVotd25uZmNtUWhiUzdBZVpKR3poTnRNYjU3dXBESzE3bVItcWc?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "40a7ea3db05ff997b121",
-          "fecha": "2026-11-12T09:21:14+00:00",
-          "titulo": "Shah Rukh’s no-photo rule, Salman’s sofa, Aishwarya’s corner: Inside Manish Malhotra’s party - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQeFJhbmxuTGZ0cndRTElSSjB3X2Zvc1J2dFFXcGxjdWQ5Z01VYkxyTU5GdWFDeFNmSUhJenItV1drVmcwTkpGb2J3OFU2ZnlvQ2tUM1ppTWtnUk8yNmp5SmJkOXUxa0ViWnJTVEtzRURieXNZVWNubm1ZYnlJOGREZDNtV2FGdkdYalJMazVJMl9kMTk1Wnp5QmRTZHEtNlRvb1ZsaE9ZeHRjVmE5WVR0cWt5NDFKanVCa0h1Wk80a184SVdoLUcwZHlacW00d2VHQmdqaEZJTUM4YVYwaFNjMFkzMFlhRmdtTHFuN0FQMWVLUdIB-AFBVV95cUxPNXRCNGt4Z3l3RFBFa1RPSjEwVEg3dHRhcjNFVXBYS2c0bDFYUGVqQzFpWWgzbU1ZYUVfMExZdVd0bXk1Vl9UcVVlNW1zcVE5REdfTHFoR04zSHpuZ1BrTWw5N2t4cXFEQlpyb2dtSDFpdWx0TjdSQ1AyNUFtdHR5XzlDOXE3bF9yT1hGVzlCQ0NkZm00eDFBS3ltTWpBV3R4eDBsT3dWdjhyUzh4RXZGMUV0QWQ4aW44WV9abEhJQjBVaUh3TGtweVZhS05fTVdNNmFscTl5ZE04ZjJPYVlrd3ZvRDRVQnBrTVI1cGp1UThWeF9DcjYwVQ?oc=5",
-          "traducida": false
         }
       ]
     },
@@ -762,8 +762,8 @@
       "id": "union-europea",
       "titulo": "Unión Europea y relaciones exteriores",
       "cantidad_archivada": 620,
-      "nuevas_24h": 21,
-      "anteriores_24h": 16,
+      "nuevas_24h": 19,
+      "anteriores_24h": 15,
       "dias_con_registros": 28,
       "fecha_ultima": "2026-11-12T18:00:20+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -1013,13 +1013,21 @@
     {
       "id": "suramerica",
       "titulo": "Sudamérica: integración y política exterior",
-      "cantidad_archivada": 343,
-      "nuevas_24h": 14,
-      "anteriores_24h": 15,
+      "cantidad_archivada": 344,
+      "nuevas_24h": 15,
+      "anteriores_24h": 14,
       "dias_con_registros": 28,
-      "fecha_ultima": "2026-11-12T17:24:08+00:00",
+      "fecha_ultima": "2026-11-12T19:50:49+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "073b6d17faa21a1541c4",
+          "fecha": "2026-11-12T19:50:49+00:00",
+          "titulo": "León XIV critica el machismo en Perú: “La violencia contra las mujeres hiere a toda la humanidad”",
+          "fuente": "El País",
+          "url": "https://elpais.com/america/2026-11-12/leon-xiv-critica-el-machismo-en-peru-la-violencia-contra-las-mujeres-hiere-a-toda-la-humanidad.html",
+          "traducida": false
+        },
         {
           "id": "5f9b14de06fa459c8480",
           "fecha": "2026-11-12T17:24:08+00:00",
@@ -1250,14 +1258,6 @@
           "titulo": "Brasil e Espanha firmam acordo para estimular taxação de super-ricos",
           "fuente": "Agência Brasil (EBC)",
           "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/brasil-e-espanha-firmam-acordo-para-estimular-taxacao-de-super-ricos",
-          "traducida": false
-        },
-        {
-          "id": "28c56304c9bed23c023a",
-          "fecha": "2026-11-10T18:00:20+00:00",
-          "titulo": "Visite de Léon XIV en Argentine : « Nous espérons qu’il redonne au pays et à ses dirigeants une conscience sociale »",
-          "fuente": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/10/visite-de-leon-xiv-en-argentine-nous-esperons-qu-il-redonne-au-pays-et-a-ses-dirigeants-une-conscience-sociale_6808890_3210.html",
           "traducida": false
         }
       ]
@@ -1769,13 +1769,21 @@
     {
       "id": "peru-mundo",
       "titulo": "Perú en el sistema internacional",
-      "cantidad_archivada": 24,
-      "nuevas_24h": 7,
+      "cantidad_archivada": 25,
+      "nuevas_24h": 8,
       "anteriores_24h": 1,
       "dias_con_registros": 9,
-      "fecha_ultima": "2026-11-12T17:24:08+00:00",
+      "fecha_ultima": "2026-11-12T19:50:49+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "073b6d17faa21a1541c4",
+          "fecha": "2026-11-12T19:50:49+00:00",
+          "titulo": "León XIV critica el machismo en Perú: “La violencia contra las mujeres hiere a toda la humanidad”",
+          "fuente": "El País",
+          "url": "https://elpais.com/america/2026-11-12/leon-xiv-critica-el-machismo-en-peru-la-violencia-contra-las-mujeres-hiere-a-toda-la-humanidad.html",
+          "traducida": false
+        },
         {
           "id": "5f9b14de06fa459c8480",
           "fecha": "2026-11-12T17:24:08+00:00",
@@ -1974,7 +1982,7 @@
       "id": "onu",
       "titulo": "Naciones Unidas y multilateralismo",
       "cantidad_archivada": 75,
-      "nuevas_24h": 2,
+      "nuevas_24h": 1,
       "anteriores_24h": 7,
       "dias_con_registros": 23,
       "fecha_ultima": "2026-11-12T14:45:26+00:00",

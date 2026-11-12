@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-11-12T19:13:12.823177+00:00",
+  "created_utc": "2026-11-12T20:20:03.346864+00:00",
   "events": [
     {
       "id": "a-c9818d791f038965349a",
@@ -145,47 +145,34 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-384b817dc7c7e1026c7e",
+      "id": "a-073b6d17faa21a1541c4",
       "fecha": "2026-11-12",
-      "titulo_fuente": "Pope Leo XIV welcomed by millions on return to his second home Peru",
+      "titulo_fuente": "León XIV critica el machismo en Perú: “La violencia contra las mujeres hiere a toda la humanidad”",
       "region": "Perú",
       "temas": [
         "Actualidad"
       ],
       "noticias": [
         {
-          "id": "384b817dc7c7e1026c7e",
-          "titulo_original": "Pope Leo XIV welcomed by millions on return to his second home Peru",
+          "id": "073b6d17faa21a1541c4",
+          "titulo_original": "León XIV critica el machismo en Perú: “La violencia contra las mujeres hiere a toda la humanidad”",
           "titulo_es": "",
-          "url": "https://www.euronews.com/2026/11/12/pope-leo-xiv-welcomed-by-millions-on-return-to-his-second-home-peru",
-          "fuente": "Euronews",
-          "pais": "Unión Europea",
-          "fecha": "2026-11-12T09:00:13+00:00",
+          "url": "https://elpais.com/america/2026-11-12/leon-xiv-critica-el-machismo-en-peru-la-violencia-contra-las-mujeres-hiere-a-toda-la-humanidad.html",
+          "fuente": "El País",
+          "pais": "España",
+          "fecha": "2026-11-12T19:50:49+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The Holy Father starts in Lima the final stage of his Latin American tour: a six-day visit to the country where he served for decades, reaffirming his bond with Peru and urging just healing of past wounds.",
-          "resumen_es": ""
-        },
-        {
-          "id": "68de82384ab494513e4a",
-          "titulo_original": "Pope Leo welcomed by millions in his second ‘homeland’ of Peru",
-          "titulo_es": "",
-          "url": "https://www.aljazeera.com/news/2026/11/12/pope-leo-welcomed-by-millions-in-his-second-homeland-of-peru?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-11-12T07:37:42+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "On his Latin America tour, the pontiff is expected to spend 3 days in Chiclayo, where ​he was bishop from 2015-2023.",
+          "resumen_original": "El Papa llama a “promover efectivamente la presencia, el respeto y la participación de las mujeres”",
           "resumen_es": ""
         }
       ],
       "fuentes": [
-        "Al Jazeera",
-        "Euronews"
+        "El País"
       ],
       "actores_mencionados": [
         "Perú"
       ],
-      "fuentes_independientes": 2,
+      "fuentes_independientes": 1,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
         "nombre": "Marco por determinar",
@@ -194,9 +181,8 @@
       "relevancia_peru": "Perú aparece mencionado; falta verificar el alcance real de cualquier consecuencia.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 8,
+      "prioridad_orientativa": 7,
       "motivos_seleccion": [
-        "Cobertura de fuentes distintas",
         "Actores relevantes: Perú",
         "Mención expresa al Perú"
       ],
@@ -427,6 +413,51 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-384b817dc7c7e1026c7e",
+      "fecha": "2026-11-12",
+      "titulo_fuente": "Pope Leo XIV welcomed by millions on return to his second home Peru",
+      "region": "Perú",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "384b817dc7c7e1026c7e",
+          "titulo_original": "Pope Leo XIV welcomed by millions on return to his second home Peru",
+          "titulo_es": "",
+          "url": "https://www.euronews.com/2026/11/12/pope-leo-xiv-welcomed-by-millions-on-return-to-his-second-home-peru",
+          "fuente": "Euronews",
+          "pais": "Unión Europea",
+          "fecha": "2026-11-12T09:00:13+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The Holy Father starts in Lima the final stage of his Latin American tour: a six-day visit to the country where he served for decades, reaffirming his bond with Peru and urging just healing of past wounds.",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "Euronews"
+      ],
+      "actores_mencionados": [
+        "Perú"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Perú aparece mencionado; falta verificar el alcance real de cualquier consecuencia.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 7,
+      "motivos_seleccion": [
+        "Actores relevantes: Perú",
+        "Mención expresa al Perú"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-1a2bb872ee945534f08c",
       "fecha": "2026-11-12",
       "titulo_fuente": "Putin indicates he will not compromise on Ukraine in meeting with US envoys",
@@ -495,6 +526,52 @@
       "motivos_seleccion": [
         "Cobertura de fuentes distintas",
         "Actores relevantes: Estados Unidos, Rusia, Ucrania"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-912fa4197bcd23fe4463",
+      "fecha": "2026-11-12",
+      "titulo_fuente": "Trump says no deal needed on Iran war and orders Vance to focus on domestic issues",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "912fa4197bcd23fe4463",
+          "titulo_original": "Trump says no deal needed on Iran war and orders Vance to focus on domestic issues",
+          "titulo_es": "Trump dice que no hay acuerdo necesario en la guerra y órdenes de Irán Vance to focus on domestic issues",
+          "url": "https://www.theguardian.com/us-news/2026/nov/12/trump-jd-vance-iran-war",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-12T19:01:16+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "President says vice-president will focus on supposed ‘Massive Corruption and Crime taking place in Democrat run Cities and States’ US politics live – latest updates Donald Trump has said that the US is no longer seeking a deal to end the war with Iran and ordered JD Vance, who had spearheaded recent efforts to restart negotiations with Iran, to focus on domestic politics instead. In a post to his social media site on Thursday, Trump said he was r",
+          "resumen_es": "El presidente dice que el vicepresidente se centrará en la supuesta \"Cobertura Masiva y Crimen que tiene lugar en la política demócrata Ciudades y Estados Unidos en vivo – las últimas actualizaciones que Donald Trump ha dicho que los EE.UU. ya no buscan un acuerdo para poner fin a la wa"
+        }
+      ],
+      "fuentes": [
+        "The Guardian"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Irán"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos, Irán",
+        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -939,114 +1016,6 @@
       "motivos_seleccion": [
         "Actores relevantes: Estados Unidos, Irán",
         "Ámbito: Diplomacia, Energía y clima"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-016207586a198ca794cc",
-      "fecha": "2026-11-12",
-      "titulo_fuente": "Nvidia CEO Jensen Huang resigns amid spy scandal",
-      "region": "Internacional",
-      "temas": [
-        "Comercio y finanzas"
-      ],
-      "noticias": [
-        {
-          "id": "016207586a198ca794cc",
-          "titulo_original": "Nvidia CEO Jensen Huang resigns amid spy scandal",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/news/international/nvidia-ceo-jensen-huang-resigns-amid-scandal/article71694271.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-11-12T15:56:59+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Chief financial officer Colette Kress will serve as interim CEO while keeping her finance role, and the board will consider internal and external candidates for a permanent replacement",
-          "resumen_es": ""
-        },
-        {
-          "id": "4c8f69d5a489476bc518",
-          "titulo_original": "LIVE: Jensen Huang resigns as Nvidia CEO as affairs raise security concerns",
-          "titulo_es": "",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/11/12/live-jensen-huang-resigns-as-nvidia-ceo-as-affairs-raise-security-concerns?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-11-12T14:44:54+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Jensen Huang, 63, has resigned as chief executive of AI giant Nvidia, according to the company.",
-          "resumen_es": ""
-        },
-        {
-          "id": "bdded12e09c32f4fbc56",
-          "titulo_original": "Nvidia CEO Jensen Huang resigns",
-          "titulo_es": "",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/nvidia-ceo-jensen-huang-resigns?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-11-12T14:40:20+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Nvidia CEO Jensen Huang has resigned amid reports of a second affair with an executive.",
-          "resumen_es": ""
-        },
-        {
-          "id": "4f61d6d6f0d5ef727866",
-          "titulo_original": "Jensen Huang resigns from Nvidia following affair reports - Politico",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcTczU1pfT3V0aXFzX25xdWh5bzltRGRHcmFWM3pQZVMzeHFnQ0ZJdTFSRnpIekFTUXNYczJ4WGlQejE2STZDX3ZwMmtaN2Rsclk5LU1ybEhpbnBQSlhVa3ZTUXp4cEV4MUI3MTc3dWpwZDY3WVRQUUF2NmF0RTgxdlVZRTFfdkp1QU04SWlhZTFmWFI5aDRqUzBtcEZHcEVSakpfa0F3akdlWlFYR0NZR0Q3MjI?oc=5",
-          "fuente": "POLITICO US",
-          "pais": "Estados Unidos",
-          "fecha": "2026-11-12T14:12:00+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Jensen Huang resigns from Nvidia following affair reports Politico",
-          "resumen_es": ""
-        },
-        {
-          "id": "11c2c73b1b044fee5f84",
-          "titulo_original": "Nvidia CEO Jensen Huang resigns amid spy scandal and market loss",
-          "titulo_es": "",
-          "url": "https://www.aljazeera.com/news/2026/11/12/ai-titan-jensen-huang-out-as-nvidia-ceo?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-11-12T13:55:07+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Tech giant's market value drops below $4 trillion after Huang steps down following espionage and affair allegations.",
-          "resumen_es": ""
-        },
-        {
-          "id": "04926509c4ee63f0882b",
-          "titulo_original": "Megaspeed to cooperate with U.S. probe into Nvidia CEO Jensen Huang scandal",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/news/international/megaspeed-to-cooperate-with-us-probe-into-nvidia-ceo-jensen-huang-scandal/article71693276.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-11-12T11:21:36+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Megaspeed, in a statement on November 12, said that it takes its obligation to comply with U.S. export control laws “extremely seriously",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera",
-        "POLITICO US",
-        "The Hindu"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos"
-      ],
-      "fuentes_independientes": 3,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia compleja y economía política internacional",
-        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Cobertura de fuentes distintas",
-        "Actores relevantes: Estados Unidos",
-        "Ámbito: Comercio y finanzas"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -2584,171 +2553,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-d5ee02f901ff779c2d36",
-      "fecha": "2026-11-12",
-      "titulo_fuente": "G7 Foreign Ministers say China's actions east of Taiwan threaten stability",
-      "region": "China",
-      "temas": [
-        "Diplomacia"
-      ],
-      "noticias": [
-        {
-          "id": "d5ee02f901ff779c2d36",
-          "titulo_original": "G7 Foreign Ministers say China's actions east of Taiwan threaten stability",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/news/international/g7-foreign-ministers-say-chinas-actions-east-of-taiwan-threaten-stability/article71692205.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-11-12T07:18:48+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The G7 statement said the Ministers ⁠stressed the importance of maintaining peace and stability across the Taiwan Strait",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Hindu"
-      ],
-      "actores_mencionados": [
-        "China",
-        "Taiwán"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: China, Taiwán",
-        "Ámbito: Diplomacia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-7c670ec87508ee71ac28",
-      "fecha": "2026-11-12",
-      "titulo_fuente": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-      "region": "Oriente Medio",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "7c670ec87508ee71ac28",
-          "titulo_original": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-          "titulo_es": "La huelga israelí en el hospital de Gaza mata a seis palestinos, dice el ministerio de salud",
-          "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-12T12:26:01+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
-          "resumen_es": "Los testigos dicen que un misil golpeó un edificio que contenía las salas quirúrgicas y unidades de cuidados intensivos en el hospital Nasser, el más grande del sur de Gaza."
-        },
-        {
-          "id": "67c8c379ba7f892462b7",
-          "titulo_original": "Israeli strike on southern Gaza hospital kills six, health authorities say",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/news/international/israeli-strike-on-southern-gaza-hospital-kills-five-gaza-civil-defence-says/article71692179.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-11-12T06:49:51+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Israeli forces have previously targeted Nasser Hospital; in 2025, the military killed five journalists — including AP contributor Mariam Dagga — when it struck a gathering point for local reporters at the complex",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "BBC News",
-        "The Hindu"
-      ],
-      "actores_mencionados": [
-        "Israel",
-        "Palestina"
-      ],
-      "fuentes_independientes": 2,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 5,
-      "motivos_seleccion": [
-        "Cobertura de fuentes distintas",
-        "Actores relevantes: Israel",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-989ec6f83c0ea0b968a4",
-      "fecha": "2026-11-12",
-      "titulo_fuente": "Nvidia board weighs Jensen Huang’s future: Can it remove its founder?",
-      "region": "China",
-      "temas": [
-        "Diplomacia"
-      ],
-      "noticias": [
-        {
-          "id": "989ec6f83c0ea0b968a4",
-          "titulo_original": "Nvidia board weighs Jensen Huang’s future: Can it remove its founder?",
-          "titulo_es": "El consejo de Nvidia pesa el futuro de Jensen Huang: ¿Puede eliminar a su fundador?",
-          "url": "https://www.aljazeera.com/news/2026/11/12/nvidia-board-weighs-jensen-huangs-future-can-it-remove-its-founder?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-11-12T11:43:19+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "CEO of chip maker is under scrutiny after reports of affairs, including a relationship with an alleged Chinese spy.",
-          "resumen_es": "El CEO de chip maker está bajo escrutinio después de informes de asuntos, incluyendo una relación con un presunto espía chino."
-        },
-        {
-          "id": "0238cc6a09a5b8e00752",
-          "titulo_original": "Nvidia board weighs Jensen Huang’s future as reports emerge of second affair",
-          "titulo_es": "",
-          "url": "https://www.euronews.com/2026/11/12/nvidia-board-weighs-jensen-huangs-future-as-reports-emerge-of-second-affair",
-          "fuente": "Euronews",
-          "pais": "Unión Europea",
-          "fecha": "2026-11-12T07:03:21+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The report of a second affair follows Huang admitting to having a relationship with Alice Huang, a senior executive at Singapore-based data centre company Megaspeed.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera",
-        "Euronews"
-      ],
-      "actores_mencionados": [
-        "China"
-      ],
-      "fuentes_independientes": 2,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 5,
-      "motivos_seleccion": [
-        "Cobertura de fuentes distintas",
-        "Actores relevantes: China",
-        "Ámbito: Diplomacia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-8fbc71d19e2ee03c7fc0",
       "fecha": "2026-11-12",
       "titulo_fuente": "US envoys arrive in Moscow for Russia-Ukraine talks with Putin",
@@ -2803,6 +2607,52 @@
       "motivos_seleccion": [
         "Cobertura de fuentes distintas",
         "Actores relevantes: Rusia, Ucrania"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-f91b27e050335982f59b",
+      "fecha": "2026-11-12",
+      "titulo_fuente": "Putin open to Europe joining Ukraine peace talks, says Witkoff",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "f91b27e050335982f59b",
+          "titulo_original": "Putin open to Europe joining Ukraine peace talks, says Witkoff",
+          "titulo_es": "",
+          "url": "https://www.politico.eu/article/vladimir-putin-open-to-europe-joining-ukraine-peace-talks-steve-witkoff/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "fuente": "POLITICO Europe",
+          "pais": "Unión Europea",
+          "fecha": "2026-11-12T20:10:38+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Donald Trump's envoys debriefed Ukrainian leader in Dublin late Thursday after Moscow discussions.",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "POLITICO Europe"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Rusia",
+        "Ucrania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos, Rusia, Ucrania"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -3435,51 +3285,6 @@
       "prioridad_orientativa": 4,
       "motivos_seleccion": [
         "Actores relevantes: Brasil, India"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-a6cc98e4bf770e66b1d9",
-      "fecha": "2026-11-12",
-      "titulo_fuente": "UK court convicts 2 Iranian men of spying on journalists",
-      "region": "Oriente Medio",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "a6cc98e4bf770e66b1d9",
-          "titulo_original": "UK court convicts 2 Iranian men of spying on journalists",
-          "titulo_es": "",
-          "url": "https://www.dw.com/en/uk-court-convicts-2-iranian-men-of-spying-on-journalists/a-79931583?maca=en-rss-en-world-4025-rdf",
-          "fuente": "Deutsche Welle",
-          "pais": "Alemania",
-          "fecha": "2026-11-12T15:23:00+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "A London court has found two Iranian citizens guilty of surveilling reporters for a Persian-language television station critical of Iran's government. One was also convicted of planning a violent attack against them.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Deutsche Welle"
-      ],
-      "actores_mencionados": [
-        "Irán"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Irán",
-        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -4429,6 +4234,52 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-7c670ec87508ee71ac28",
+      "fecha": "2026-11-12",
+      "titulo_fuente": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "7c670ec87508ee71ac28",
+          "titulo_original": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+          "titulo_es": "La huelga israelí en el hospital de Gaza mata a seis palestinos, dice el ministerio de salud",
+          "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-12T12:26:01+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
+          "resumen_es": "Los testigos dicen que un misil golpeó un edificio que contenía las salas quirúrgicas y unidades de cuidados intensivos en el hospital Nasser, el más grande del sur de Gaza."
+        }
+      ],
+      "fuentes": [
+        "BBC News"
+      ],
+      "actores_mencionados": [
+        "Israel",
+        "Palestina"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Israel",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-057e8ab14a218004fcbd",
       "fecha": "2026-11-12",
       "titulo_fuente": "Putin receives US special envoys at Kremlin",
@@ -4655,6 +4506,51 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-989ec6f83c0ea0b968a4",
+      "fecha": "2026-11-12",
+      "titulo_fuente": "Nvidia board weighs Jensen Huang’s future: Can it remove its founder?",
+      "region": "China",
+      "temas": [
+        "Diplomacia"
+      ],
+      "noticias": [
+        {
+          "id": "989ec6f83c0ea0b968a4",
+          "titulo_original": "Nvidia board weighs Jensen Huang’s future: Can it remove its founder?",
+          "titulo_es": "El consejo de Nvidia pesa el futuro de Jensen Huang: ¿Puede eliminar a su fundador?",
+          "url": "https://www.aljazeera.com/news/2026/11/12/nvidia-board-weighs-jensen-huangs-future-can-it-remove-its-founder?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-12T11:43:19+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "CEO of chip maker is under scrutiny after reports of affairs, including a relationship with an alleged Chinese spy.",
+          "resumen_es": "El CEO de chip maker está bajo escrutinio después de informes de asuntos, incluyendo una relación con un presunto espía chino."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [
+        "China"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: China",
+        "Ámbito: Diplomacia"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-90c5a4838a1fd9cece89",
       "fecha": "2026-11-12",
       "titulo_fuente": "Alice Huang, accused of spying on Nvidia chief, entered Taiwan eight times in 2024-25: Official",
@@ -4844,6 +4740,52 @@
       "motivos_seleccion": [
         "Actores relevantes: Rusia",
         "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-04926509c4ee63f0882b",
+      "fecha": "2026-11-12",
+      "titulo_fuente": "Megaspeed to cooperate with U.S. probe into Nvidia CEO Jensen Huang scandal",
+      "region": "Estados Unidos",
+      "temas": [
+        "Comercio y finanzas",
+        "Energía y clima"
+      ],
+      "noticias": [
+        {
+          "id": "04926509c4ee63f0882b",
+          "titulo_original": "Megaspeed to cooperate with U.S. probe into Nvidia CEO Jensen Huang scandal",
+          "titulo_es": "",
+          "url": "https://www.thehindu.com/news/international/megaspeed-to-cooperate-with-us-probe-into-nvidia-ceo-jensen-huang-scandal/article71693276.ece",
+          "fuente": "The Hindu",
+          "pais": "India",
+          "fecha": "2026-11-12T11:21:36+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Megaspeed, in a statement on November 12, said that it takes its obligation to comply with U.S. export control laws “extremely seriously",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "The Hindu"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia compleja y economía política internacional",
+        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos",
+        "Ámbito: Comercio y finanzas, Energía y clima"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -5976,35 +5918,59 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-5df5b13482c35b6591d4",
+      "id": "a-97238466f698afcc9ab7",
       "fecha": "2026-11-12",
-      "titulo_fuente": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
-      "region": "Rusia-Ucrania",
+      "titulo_fuente": "Why did Nvidia CEO Jensen Huang resign, and who is Colette Kress?",
+      "region": "China",
       "temas": [
         "Actualidad"
       ],
       "noticias": [
         {
-          "id": "5df5b13482c35b6591d4",
-          "titulo_original": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
-          "titulo_es": "",
-          "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-12T07:59:33+00:00",
+          "id": "97238466f698afcc9ab7",
+          "titulo_original": "Why did Nvidia CEO Jensen Huang resign, and who is Colette Kress?",
+          "titulo_es": "¿Por qué el CEO de Nvidia Jensen Huang renunció, y quién es Colette Kress?",
+          "url": "https://www.aljazeera.com/news/2026/11/12/why-did-nvidia-ceo-jensen-huang-resign-and-who-is-colette-kress?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-12T19:45:40+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
+          "resumen_original": "Huang has stepped down amid revelations about extramarital affairs and allegations of Chinese espionage.",
+          "resumen_es": "Huang ha bajado en medio de revelaciones sobre asuntos extramaritales y denuncias de espionaje chino."
+        },
+        {
+          "id": "b1706317d5ba822a83b3",
+          "titulo_original": "CFO Colette Kress to serve as interim leader after Nvidia CEO Jensen Huang resignation - CNN",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVV0ZxeFgzelpIZUV3Ry1ybGhVTnBGMHpIaldZb1hTWkxrb2NJdDNFOFdoVUVTdWctOXpONXBLbVBsWDFWaHpaNTdjMlpjaGFla0FlamEtS21PMGZpbHBBOU5iQ0Nud1c3bkJXVTZBRlE?oc=5",
+          "fuente": "CNN",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-12T14:09:53+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "CFO Colette Kress to serve as interim leader after Nvidia CEO Jensen Huang resignation CNN",
+          "resumen_es": ""
+        },
+        {
+          "id": "eeefc1199e6094bbfcec",
+          "titulo_original": "Nvidia’s board said Thursday that Jensen Huang has resigned and that CFO Colette Kress will serve as interim CEO - CNN",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CRDBIMkNaSm1CZTlldUZsYU1pc3NZOTBJSnc3dTRPX3V3dF9BZ3hqQ0FwVjFBY05tN0dGVi1CcGgtV21aT0N1QmRqNGNvXzdGdWNsSVQ2elU0QlVNaC1xRG9YbTRwZF9KV0QtUlFESTVQbGpKTUNuWjkzT3REUQ?oc=5",
+          "fuente": "CNN",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-12T14:06:57+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Nvidia’s board said Thursday that Jensen Huang has resigned and that CFO Colette Kress will serve as interim CEO CNN",
           "resumen_es": ""
         }
       ],
       "fuentes": [
-        "BBC News"
+        "Al Jazeera",
+        "CNN"
       ],
       "actores_mencionados": [
-        "Rusia",
-        "Ucrania"
+        "China"
       ],
-      "fuentes_independientes": 1,
+      "fuentes_independientes": 2,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
         "nombre": "Marco por determinar",
@@ -6013,189 +5979,68 @@
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
+      "prioridad_orientativa": 3,
       "motivos_seleccion": [
-        "Actores relevantes: Rusia, Ucrania"
+        "Cobertura de fuentes distintas",
+        "Actores relevantes: China"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
     },
     {
-      "id": "a-a061117cf018940974ba",
+      "id": "a-f7452bab6a474c61807c",
       "fecha": "2026-11-12",
-      "titulo_fuente": "Russia’s Strategic Missile Force rearmament to enhance nuclear forces’ capabilities",
-      "region": "Rusia-Ucrania",
+      "titulo_fuente": "Iranian men guilty of spying on British journalists",
+      "region": "Oriente Medio",
       "temas": [
-        "Seguridad y conflictos"
+        "Actualidad"
       ],
       "noticias": [
         {
-          "id": "a061117cf018940974ba",
-          "titulo_original": "Russia’s Strategic Missile Force rearmament to enhance nuclear forces’ capabilities",
-          "titulo_es": "",
-          "url": "https://tass.com/defense/2216731",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-12T07:57:16+00:00",
+          "id": "f7452bab6a474c61807c",
+          "titulo_original": "Iranian men guilty of spying on British journalists",
+          "titulo_es": "Hombres iraníes culpables de espiar a periodistas británicos",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/iranian-men-guilty-of-spying-on-british-journalists?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-12T19:38:33+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The rearmament of the Strategic Missile Force involves not only providing the troops with new missile systems, but also building modern infrastructure that offers improved conditions for the training of combat alert forces, the Russian Defense Ministry said",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-4cd6e1c1a2d5a82c0544",
-      "fecha": "2026-11-12",
-      "titulo_fuente": "Hong Kong arts group urges balance in funding criteria as attendance falls",
-      "region": "China",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
+          "resumen_original": "Two Iranian men were convicted under Britain's National Security Act for spying on dissident journalists.",
+          "resumen_es": "Two Iranian men were convicted under Britain's National Security Act for spying on disidente journalists."
+        },
         {
-          "id": "4cd6e1c1a2d5a82c0544",
-          "titulo_original": "Hong Kong arts group urges balance in funding criteria as attendance falls",
+          "id": "a6cc98e4bf770e66b1d9",
+          "titulo_original": "UK court convicts 2 Iranian men of spying on journalists",
           "titulo_es": "",
-          "url": "https://www.scmp.com/news/hong-kong/society/article/3374190/hong-kong-arts-group-urges-balance-funding-criteria-attendance-falls",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-11-12T07:51:24+00:00",
+          "url": "https://www.dw.com/en/uk-court-convicts-2-iranian-men-of-spying-on-journalists/a-79931583?maca=en-rss-en-world-4025-rdf",
+          "fuente": "Deutsche Welle",
+          "pais": "Alemania",
+          "fecha": "2026-11-12T15:23:00+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "A major Hong Kong performing arts group has urged the government to give greater weight to qualitative measures when setting funding criteria for local organisations, arguing that changing social trends have contributed to falling attendance. Celina Chin Man-wah, executive director of the Hong Kong Chinese Orchestra, also warned on Thursday that the group might have to scale back its community work to devote more resources to income-generating or",
+          "resumen_original": "A London court has found two Iranian citizens guilty of surveilling reporters for a Persian-language television station critical of Iran's government. One was also convicted of planning a violent attack against them.",
           "resumen_es": ""
         }
       ],
       "fuentes": [
-        "South China Morning Post"
+        "Al Jazeera",
+        "Deutsche Welle"
       ],
       "actores_mencionados": [
-        "China"
+        "Irán"
       ],
-      "fuentes_independientes": 1,
+      "fuentes_independientes": 2,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
       },
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
+      "prioridad_orientativa": 3,
       "motivos_seleccion": [
-        "Actores relevantes: China",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-6eac64225b827bdd89e4",
-      "fecha": "2026-11-12",
-      "titulo_fuente": "Munawar Faruqui had a ‘dark phase’ after Bigg Boss, realised he had to marry: ‘I hated myself’ - The Indian Express",
-      "region": "Asia-Pacífico",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "6eac64225b827bdd89e4",
-          "titulo_original": "Munawar Faruqui had a ‘dark phase’ after Bigg Boss, realised he had to marry: ‘I hated myself’ - The Indian Express",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdEN1QjZ4NUpIUFFFYjlBQ0VQcGN2cVBmMXFKTUFiYW9kWDhXcU5KU3lnSldfRjExclg4aHJuRmNCaFhMenZfTzFQc1RDZ1Myd0FYa2hfSndES1RPMF8yRHdSLXRvQmlPY2gwVHRtOElVWEplRERsb1J4UEllX1IzMUMxcm5lWkdjSFZqNFBvZDZLalVsYUNpbW5wUXU5RUJjaXcxMHh5ZUp2dW9JTlpObXNTVTVNTWJwVjJlY1lVNkFjQzRNc21mT3lNTXlYeFFWY1hLd2130gHcAUFVX3lxTE5XbmNpX2ZFc3FZV2Vrc0g2LVBFcnJkVWZXM2wyQ3F3ZzZQMlllb21RcXZjLWFYNGNWc1FUQjJQeFF4aGtIMzlGemVOVllGcnktUWZZWkNxRjNUZ3V4Z1RGMGZTZm5CNVdTdE9WMXFNc3VjNUNHaTVPS3Ezd1cxMVZjdE5FVWFhVHVTalktRENTa1J5YlFfUFhRZHcyZkdpcUlHbjlRTzhIM29lMVVuV1BqNmxBMlN4WkV2MHIxLUVZaW1OdTNWWGZNVlJ1cTdmRFVmVDl2SGEwTEMybnM?oc=5",
-          "fuente": "The Indian Express",
-          "pais": "India",
-          "fecha": "2026-11-12T07:51:16+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Munawar Faruqui had a ‘dark phase’ after Bigg Boss, realised he had to marry: ‘I hated myself’ The Indian Express",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Indian Express"
-      ],
-      "actores_mencionados": [
-        "India"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: India",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-76fc7ac954a9e9959933",
-      "fecha": "2026-11-12",
-      "titulo_fuente": "How Srikanth’s diving defense outgunned World No 8 Kodai Naraoka in 60 mins - The Indian Express",
-      "region": "Asia-Pacífico",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "76fc7ac954a9e9959933",
-          "titulo_original": "How Srikanth’s diving defense outgunned World No 8 Kodai Naraoka in 60 mins - The Indian Express",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOG1KODktU0tZWUhIQzV1QktRQXVtbVdiZGF5LWJBd2ZjNlNoY2pNZnE1WE9Rdm4tM3JDQ3ZJU3l6WUp5RDRpbFd6ZEg1ZDMtS0lnR1p3T1hUTTFSOUMtNXBhMVFqY0o5aW9sMGxNZ0k4OHNoMFUwZUtlcUZIb3Z3Q2l1LUJsYmhJaG5pRHpXdlJJRWR5emxBMnB1b1dPQlVnQlFTUWI4WkhuX1poa1JXb2k1Smc5TS12VXBMM3FDaGxkd9IByAFBVV95cUxNN0RKWm5QQ2N1WmplalNIbC05b0dZb3NrbFhPY2d6M3ZDc0hZT0xCRDF4dnNEM1ZZdUF1N2ZhTjl4TzdoeGtibTJjU29QU3BUNTRSUlh1R2MzTWd1OXFpeXJPV3JiU0N3UVc0WU5mTmVzR25kUkJXYkQxeEhTOWU4d1loWGhNTWhTbC1TcklMZ2Nralo2RVFiQ3NjcTA0TjVhQ01YY056TG5BZVhkS0thcFVSM19zc1IyMC0xUy0wdGJxeFBCR041WA?oc=5",
-          "fuente": "The Indian Express",
-          "pais": "India",
-          "fecha": "2026-11-12T07:18:38+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "How Srikanth’s diving defense outgunned World No 8 Kodai Naraoka in 60 mins The Indian Express",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Indian Express"
-      ],
-      "actores_mencionados": [
-        "India"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: India",
-        "Ámbito: Seguridad y conflictos"
+        "Cobertura de fuentes distintas",
+        "Actores relevantes: Irán"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6266,88 +6111,6 @@
       "motivos_seleccion": [
         "Cobertura de fuentes distintas",
         "Actores relevantes: Estados Unidos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-7730b5bc23af47a625cd",
-      "fecha": "2026-11-12",
-      "titulo_fuente": "Nvidia chief Jensen Huang resigns, CFO Colette Kress named interim CEO - The Indian Express",
-      "region": "Asia-Pacífico",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "7730b5bc23af47a625cd",
-          "titulo_original": "Nvidia chief Jensen Huang resigns, CFO Colette Kress named interim CEO - The Indian Express",
-          "titulo_es": "El jefe de Nvidia Jensen Huang renuncia, CFO Colette Kress nombrado CEO interino - The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPY3B5U1VXdVpULXk3Xzk0aHFtYkM0eEt3bnpsSFl2QktzaDZNdS0xWGFrWElkVThyQjUyRzBReVQ1QnBDWnAtbGhaNDFSMlB4djR4Sk1TYTRhU2ZKSzlRcWRtS3dIYlZzcjB0T3JrYmI2VzIydll1RHR1Z1RfeWJWRDlZd1R2Y3R2WXpzeDdWRTVwSEYwWXBXTF90akFaRlQ5NWo1allmM05PR0NGRHB2Qmp0UHBHUTk0WE1F0gHCAUFVX3lxTE9rcnNQWC1mdmZDOFBLdlhFUmI3dEotMGdxeXNuaEcxc3J5OXM3aDh0Mkt2cF9TcE4xMEN0Uy1rc3YyckI4MGY0VnVueV85a2RhdUgzcUt0V1V5TDZCaWNsZ0RMVFpsWC1ScldkQktzcVk0c01rYmJhOUZCZC1CazFCcUcteWd6U1AwamV4Mzh0WE1XdjZoYkZ1emNPdmFQV1F0dkc3ajlYYy0tcXZzbGpLUGVEUHR3alNmc0dpbkJnVm5R?oc=5",
-          "fuente": "The Indian Express",
-          "pais": "India",
-          "fecha": "2026-11-12T17:31:58+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Nvidia chief Jensen Huang resigns, CFO Colette Kress named interim CEO The Indian Express",
-          "resumen_es": "El jefe de Nvidia Jensen Huang renuncia, CFO Colette Kress nombrado CEO interino The Indian Express"
-        },
-        {
-          "id": "c1e42fc05fc67d3cc1ea",
-          "titulo_original": "Jensen Huang resigns: Why his exit from Nvidia will be a test for the AI boom - The Indian Express",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObTg5TXNIaGRPUnJ3dkY5UjQwcXoxSDJGY2dXMDkyYjdiNG1OMEUwdU5TQjFyazB6SDdvd2hqTGhQb09VZlJ5S2xIUzJiRURMM010VW5rQXhtelhUUkRKWWVmVVA4RmRjUk9XaTRtMW9UdGRnQVBvckZ2aUsxS2p4NVpISi14Ni1yUjRGNTFubGtsSEtKNUxTVXlRR2NFS0h4OUdCaVRURDdRRjZHMXdoUVpOONIBugFBVV95cUxOWUJBRklyckdDZ0VaLUlyZFY5R1p2cEdta1doQmdOTmNlNktqUkk2NWpnVC1vSjIyS2tnc0hDa29LbDd6UW96UmFmQlpxWktnSFFqQTI2Z0NDNXlwZTJXcUtjcE5OQTdpY0I4aVZNZTZEZmtBSGM4OFBjMW1aV0MwLWNOM2FHYXB6N0hWYkZYMW5ONmlHNm5zNldzWDBlUUxyaFByM21vRGRUSFJvc2dPYS1saE5nT1M4b3c?oc=5",
-          "fuente": "The Indian Express",
-          "pais": "India",
-          "fecha": "2026-11-12T14:19:07+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Jensen Huang resigns: Why his exit from Nvidia will be a test for the AI boom The Indian Express",
-          "resumen_es": ""
-        },
-        {
-          "id": "9a6d30661bd390564bb2",
-          "titulo_original": "Who is Colette Kress? 5 things to know about Nvidia’s interim CEO - The Indian Express",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYTZnWjR3Nll2dm44dFVfSXF4WDB2R1ktU2RwYnlRS2I5ZWVBdDFodFJlMDdoeVUzM0twazQ0VTNWNVpIaWNVTDlwR1U1SEVRXzJDRm54NE5yenhZcUZmQ21sbXpiMHVtNTdqeXlYSjhCRHk5SVZXWTJxRjBlSHd3eW1mMzBSLXVuSTRxT3JEMHkwNEU2d1BhejkydVlOcGZpVlVmUFUtcW5hc1FKMWc4NjFsTktJM3Q1VFBpeU5Lc05DTG04b1HSAcwBQVVfeXFMTlRZM1BmTHpiRzEtOVRlX2xlT3hSNWl2OXpCRlhiNnNrc3JSNjNxbHBVYjFBS1JtN2ZsbFlqV2cwWFIya3NVUDJZa1VlVG4xZHNiU2drYVhtNVBhRExrbXpKWW5falRQbV8tcEZiSGVoSG41QXlQa0plY1U5VW80Zlh2a3JiYXNWZDRyWU40VTZfS0Y3UExDRmhXOUw1ejdGZW5NeUFvU0kyY2FOS3lOMkVtV0ZYUzY3TnNvV3dzMkg3Sk1pWWZjU3QyZzlU?oc=5",
-          "fuente": "The Indian Express",
-          "pais": "India",
-          "fecha": "2026-11-12T14:14:48+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Who is Colette Kress? 5 things to know about Nvidia’s interim CEO The Indian Express",
-          "resumen_es": ""
-        },
-        {
-          "id": "b1706317d5ba822a83b3",
-          "titulo_original": "CFO Colette Kress to serve as interim leader after Nvidia CEO Jensen Huang resignation - CNN",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVV0ZxeFgzelpIZUV3Ry1ybGhVTnBGMHpIaldZb1hTWkxrb2NJdDNFOFdoVUVTdWctOXpONXBLbVBsWDFWaHpaNTdjMlpjaGFla0FlamEtS21PMGZpbHBBOU5iQ0Nud1c3bkJXVTZBRlE?oc=5",
-          "fuente": "CNN",
-          "pais": "Estados Unidos",
-          "fecha": "2026-11-12T14:09:53+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "CFO Colette Kress to serve as interim leader after Nvidia CEO Jensen Huang resignation CNN",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "CNN",
-        "The Indian Express"
-      ],
-      "actores_mencionados": [
-        "India"
-      ],
-      "fuentes_independientes": 2,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 3,
-      "motivos_seleccion": [
-        "Cobertura de fuentes distintas",
-        "Actores relevantes: India"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6586,6 +6349,294 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-ff7752c82b0a71c79cdf",
+      "fecha": "2026-11-12",
+      "titulo_fuente": "Jensen Huang mantuvo una tercera relación extramarital con otra empleada de Nvidia",
+      "region": "China",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "ff7752c82b0a71c79cdf",
+          "titulo_original": "Jensen Huang mantuvo una tercera relación extramarital con otra empleada de Nvidia",
+          "titulo_es": "",
+          "url": "https://elpais.com/us/2026-11-12/jensen-huang-mantuvo-una-tercera-relacion-extramarital-con-una-empleada-de-nvidia.html",
+          "fuente": "El País",
+          "pais": "España",
+          "fecha": "2026-11-12T20:14:12+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "El fundador de Nvidia ha renunciado este jueves como consejero delegado por la presiones recibidas tras desvelarse el escándalo de sus infidelidades, entre ellas con una supuesta espía china",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "El País"
+      ],
+      "actores_mencionados": [
+        "China"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: China"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-619885842e7dee416e95",
+      "fecha": "2026-11-12",
+      "titulo_fuente": "Russian national football team secures hard-fought victory over Uzbekistan",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "619885842e7dee416e95",
+          "titulo_original": "Russian national football team secures hard-fought victory over Uzbekistan",
+          "titulo_es": "El equipo de fútbol nacional ruso asegura una victoria dura sobre Uzbekistán",
+          "url": "https://tass.com/sports/2217433",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-12T20:02:00+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The match result will be factored into the FIFA rankings",
+          "resumen_es": "El resultado del partido se tendrá en cuenta en la clasificación FIFA"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Rusia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-db1e5604b66fe2d45838",
+      "fecha": "2026-11-12",
+      "titulo_fuente": "ICE touts record deportations as polls show voters soured on Trump’s crackdown - Politico",
+      "region": "Estados Unidos",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "db1e5604b66fe2d45838",
+          "titulo_original": "ICE touts record deportations as polls show voters soured on Trump’s crackdown - Politico",
+          "titulo_es": "ICE registra las deportaciones mientras las encuestas muestran a los votantes empapados en la represión de Trump - Politico",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPa3VXM1poWXRla0dGanpXT1lkQkhoNExteFV3WDdqQnQ5WkM1a3M2djFCT1lZVzdmbGFPVXp5elZFLWJMS2wta2VieUhWcjRhQ3dBWWdEQnY1cGJtbFoxTkJmb013dWZfeGtCODRDS0hYcWw2YXRGajZhUWE2cC1ibm1Tc1Z3c0NtbDRfa0FmZl8tc0k?oc=5",
+          "fuente": "POLITICO US",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-12T19:55:00+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "ICE touts record deportations as polls show voters soured on Trump’s crackdown Politico",
+          "resumen_es": "ICE registra deportaciones mientras las encuestas muestran a los votantes empapados en la política de represión de Trump"
+        }
+      ],
+      "fuentes": [
+        "POLITICO US"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-01a476854ea64808cf20",
+      "fecha": "2026-11-12",
+      "titulo_fuente": "Jensen Huang has resigned, what's next for Nvidia?",
+      "region": "Internacional",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "01a476854ea64808cf20",
+          "titulo_original": "Jensen Huang has resigned, what's next for Nvidia?",
+          "titulo_es": "Jensen Huang ha renunciado, ¿qué sigue para Nvidia?",
+          "url": "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-12T19:33:37+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The BBC's Samira Hussain reports from Wall Street on what the fall of the tech superstar means for the company and AI.",
+          "resumen_es": "Samira Hussain de la BBC informa desde Wall Street sobre lo que la caída de la superestrella tecnológica significa para la compañía y AI."
+        },
+        {
+          "id": "016207586a198ca794cc",
+          "titulo_original": "Nvidia CEO Jensen Huang resigns amid spy scandal",
+          "titulo_es": "",
+          "url": "https://www.thehindu.com/news/international/nvidia-ceo-jensen-huang-resigns-amid-scandal/article71694271.ece",
+          "fuente": "The Hindu",
+          "pais": "India",
+          "fecha": "2026-11-12T15:56:59+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Chief financial officer Colette Kress will serve as interim CEO while keeping her finance role, and the board will consider internal and external candidates for a permanent replacement",
+          "resumen_es": ""
+        },
+        {
+          "id": "bdded12e09c32f4fbc56",
+          "titulo_original": "Nvidia CEO Jensen Huang resigns",
+          "titulo_es": "",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/nvidia-ceo-jensen-huang-resigns?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-12T14:40:20+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Nvidia CEO Jensen Huang has resigned amid reports of a second affair with an executive.",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera",
+        "BBC News",
+        "The Hindu"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 3,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Cobertura de fuentes distintas"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-7ae8e332e29de65c6c86",
+      "fecha": "2026-11-12",
+      "titulo_fuente": "Huang fallout hits Washington - Politico",
+      "region": "Estados Unidos",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "7ae8e332e29de65c6c86",
+          "titulo_original": "Huang fallout hits Washington - Politico",
+          "titulo_es": "Huang fallout golpea Washington - Politico",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaGw3WTljbWZzakJKRndUV1FQNGEzVjdna1I3OVdXbXBGTWpmbERpT1VyZzJTMDF2ZHgxUTNrVGJYV0ZRS1hKY09qVXBRTzhEVE94WWJxdVB1Uzd2SHlrUDRjaGk2ckxOMU9janlKb1pQSEtXQW5WNExkZE5IMGktTHpKWHpydUM2alQtampGYzJLRDNVUWN0WGRCaW90MUU?oc=5",
+          "fuente": "POLITICO US",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-12T19:23:17+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Huang fallout hits Washington Politico",
+          "resumen_es": "Huang fallout golpea Washington Politico"
+        }
+      ],
+      "fuentes": [
+        "POLITICO US"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-567332351478c61f0eb8",
+      "fecha": "2026-11-12",
+      "titulo_fuente": "UK mosque rebukes comission’s ‘warning’ following Palestine comments",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "567332351478c61f0eb8",
+          "titulo_original": "UK mosque rebukes comission’s ‘warning’ following Palestine comments",
+          "titulo_es": "La mezquita del Reino Unido reprenderá el ‘recuerdo’ de la comisión después de Palestina comentarios",
+          "url": "https://www.aljazeera.com/news/2026/11/12/uk-mosque-rebukes-comissions-warning-following-palestine-comments?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-12T18:58:49+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The Lewisham Islamic Centre accused the charity watchdog of imposing disproportionate expectations on Muslim charities.",
+          "resumen_es": "El Centro Islámico de Lewisham acusó a la organización benéfica de imponer expectativas desproporcionadas a las organizaciones benéficas musulmanas."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [
+        "Palestina"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-cf04d6046088c4faa212",
       "fecha": "2026-11-12",
       "titulo_fuente": "Houthis claim responsibility for strikes on Saudi Aramco, airbase in Saudi Arabia",
@@ -6711,6 +6762,48 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Ámbito: Diplomacia"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-052acfc1bc8bab9bdf2c",
+      "fecha": "2026-11-12",
+      "titulo_fuente": "Climate science says 1.5C is dead. No one wants to bury it.",
+      "region": "Perú",
+      "temas": [
+        "Energía y clima"
+      ],
+      "noticias": [
+        {
+          "id": "052acfc1bc8bab9bdf2c",
+          "titulo_original": "Climate science says 1.5C is dead. No one wants to bury it.",
+          "titulo_es": "",
+          "url": "https://www.politico.eu/article/climate-science-1-5c-target-global-warming-dead/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "fuente": "POLITICO Europe",
+          "pais": "Unión Europea",
+          "fecha": "2026-11-12T18:27:58+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Leaders at COP31 want to keep the totemic goal alive, even after the U.N. declared it impossible to hit.",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "POLITICO Europe"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia y gobernanza global",
+        "pregunta": "¿Cómo se distribuyen los costos de coordinación y los incentivos para cooperar?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Energía y clima"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6969,182 +7062,6 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-562fd4a1129046d9b8d7",
-      "fecha": "2026-11-12",
-      "titulo_fuente": "Suspect turns gun on himself after deadly shooting in Washington DC",
-      "region": "Estados Unidos",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "562fd4a1129046d9b8d7",
-          "titulo_original": "Suspect turns gun on himself after deadly shooting in Washington DC",
-          "titulo_es": "El sospechoso se convierte en un arma después de disparar mortalmente en Washington DC",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/suspect-turns-gun-on-himself-after-deadly-shooting-in-washington-dc?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-11-12T18:02:32+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Police say the man suspected to have killed one person in a shooting in Washington DC appears to have shot himself.",
-          "resumen_es": "La policía dice que el hombre sospechoso de haber matado a una persona en un tiroteo en Washington DC parece haberse disparado."
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-fc9bcbb71a5289aeef29",
-      "fecha": "2026-11-12",
-      "titulo_fuente": "Lewis Hamilton says ‘Israel’s genocide in Gaza is appalling’ after Rafah visit",
-      "region": "Oriente Medio",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "fc9bcbb71a5289aeef29",
-          "titulo_original": "Lewis Hamilton says ‘Israel’s genocide in Gaza is appalling’ after Rafah visit",
-          "titulo_es": "Lewis Hamilton dice que “el genocidio de Israel en Gaza es terrible” después de la visita de Rafah",
-          "url": "https://www.theguardian.com/sport/2026/nov/12/lewis-hamilton-gaza-visit-rafah-israel",
-          "fuente": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-12T18:00:50+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "F1 driver urges Israel to let aid into Gaza Trip involved tour of facilities with aid workers Formula One driver Lewis Hamilton said on Wednesday that Israel must allow aid ⁠trucks into Gaza, a day after he visited the Rafah border crossing in Egypt. Hamilton, a seven-time ⁠world champion, arrived ⁠in ​El Arish on Tuesday, where he was briefed on how aid is prepared and coordinated before it ⁠is sent into Gaza, as he toured the Rafah crossing and",
-          "resumen_es": "El piloto de la F1 insta a Israel a que deje que la ayuda al Viaje de Gaza implicara una visita a las instalaciones con los trabajadores de ayuda Formula Un conductor Lewis Hamilton dijo el miércoles que Israel debe permitir la ayuda ⁠trucks en Gaza, un día después de visitar el cruce fronterizo de Rafah"
-        }
-      ],
-      "fuentes": [
-        "The Guardian"
-      ],
-      "actores_mencionados": [
-        "Israel",
-        "Palestina"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Israel"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-481921e374932590975d",
-      "fecha": "2026-11-12",
-      "titulo_fuente": "Entre la France et l’Algérie, les échanges commerciaux s’effondrent, nouvel effet de la crise entre les deux pays",
-      "region": "Europa",
-      "temas": [
-        "Diplomacia",
-        "Comercio y finanzas"
-      ],
-      "noticias": [
-        {
-          "id": "481921e374932590975d",
-          "titulo_original": "Entre la France et l’Algérie, les échanges commerciaux s’effondrent, nouvel effet de la crise entre les deux pays",
-          "titulo_es": "",
-          "url": "https://www.lemonde.fr/afrique/article/2026/11/12/entre-la-france-et-l-algerie-les-echanges-commerciaux-s-effondrent-nouvel-effet-de-la-crise-entre-les-deux-pays_6809148_3212.html",
-          "fuente": "Le Monde",
-          "pais": "Francia",
-          "fecha": "2026-11-12T18:00:20+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Conséquence des tensions diplomatiques entre les deux Etats, les exportations françaises vers l’Algérie subissent une baisse sans précédent. Des secteurs comme les produits sidérurgiques ou alimentaires sont ciblés par les autorités algériennes.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Le Monde"
-      ],
-      "actores_mencionados": [
-        "Francia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Comercio y finanzas, Diplomacia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-a494fbe420958d7f249e",
-      "fecha": "2026-11-12",
-      "titulo_fuente": "Los sindicatos vuelven a la justicia por una carta de la consejera madrileña a los profesores sobre la huelga",
-      "region": "Internacional",
-      "temas": [
-        "Diplomacia"
-      ],
-      "noticias": [
-        {
-          "id": "a494fbe420958d7f249e",
-          "titulo_original": "Los sindicatos vuelven a la justicia por una carta de la consejera madrileña a los profesores sobre la huelga",
-          "titulo_es": "",
-          "url": "https://elpais.com/espana/madrid/2026-11-12/ccoo-ugt-cnt-y-cgt-vuelven-a-acudir-a-la-justicia-contra-la-comunidad-de-madrid-y-rechazan-la-ampliacion-de-los-servicios-minimos.html",
-          "fuente": "El País",
-          "pais": "España",
-          "fecha": "2026-11-12T17:41:23+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "La Dirección General de Recursos Humanos de la Consejería de Educación ha convocado mañana viernes a nueve representantes del Comité de Huelga para anunciar un aumento de los servicios mínimos mientras sigue sin aceptar una negociación sobre la huelga",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "El País"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Diplomacia"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
