@@ -1,17 +1,33 @@
 {
-  "actualizado_utc": "2026-11-12T18:37:07.534396+00:00",
+  "actualizado_utc": "2026-11-12T18:57:20.618359+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 2199,
+      "cantidad_archivada": 2201,
       "nuevas_24h": 113,
       "anteriores_24h": 141,
       "dias_con_registros": 28,
-      "fecha_ultima": "2026-11-12T18:31:07+00:00",
+      "fecha_ultima": "2026-11-12T18:53:36+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "c9818d791f038965349a",
+          "fecha": "2026-11-12T18:53:36+00:00",
+          "titulo": "Russia and Iran criticise US Caspian task force as study outlines joint sanction evasion",
+          "fuente": "Euronews",
+          "url": "https://www.euronews.com/2026/11/12/russia-and-iran-criticise-us-caspian-task-force-as-study-outlines-joint-sanction-evasion",
+          "traducida": false
+        },
+        {
+          "id": "4ce1a96126f6de7b9ebe",
+          "fecha": "2026-11-12T18:47:10+00:00",
+          "titulo": "Putin vows to keep pursuing Russia's interests in world sports",
+          "fuente": "TASS",
+          "url": "https://tass.com/sports/2217429",
+          "traducida": false
+        },
         {
           "id": "3935e1825343c4145ee3",
           "fecha": "2026-11-12T18:31:07+00:00",
@@ -235,41 +251,49 @@
           "fuente": "POLITICO Europe",
           "url": "https://www.politico.eu/article/ukraine-meldet-erneut-einschraenkungen-bei-starlink/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
           "traducida": false
-        },
-        {
-          "id": "036dab1d34499b00bfaf",
-          "fecha": "2026-11-12T14:40:00+00:00",
-          "titulo": "Joint statement by President Costa and President von der Leyen following their meeting with President Zelenskyy in Dublin",
-          "fuente": "Noticias del Consejo de la UE",
-          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/12/joint-statement-by-president-costa-and-president-von-der-leyen-following-their-meeting-with-president-zelenskyy-in-dublin/",
-          "traducida": false
-        },
-        {
-          "id": "1a917cc9671d8d74d735",
-          "fecha": "2026-11-12T14:38:54+00:00",
-          "titulo": "Russia’s unlawful detention of former OSCE officials: E3 statement to the OSCE",
-          "fuente": "GOV.UK FCDO",
-          "url": "https://www.gov.uk/government/speeches/russias-unlawful-detention-of-former-osce-officials-e3-statement-to-the-osce",
-          "traducida": false
         }
       ]
     },
     {
       "id": "oriente-medio",
       "titulo": "Oriente Medio: seguridad y diplomacia",
-      "cantidad_archivada": 1530,
-      "nuevas_24h": 69,
-      "anteriores_24h": 69,
+      "cantidad_archivada": 1533,
+      "nuevas_24h": 70,
+      "anteriores_24h": 70,
       "dias_con_registros": 28,
-      "fecha_ultima": "2026-11-12T18:32:12+00:00",
+      "fecha_ultima": "2026-11-12T18:53:36+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "c9818d791f038965349a",
+          "fecha": "2026-11-12T18:53:36+00:00",
+          "titulo": "Russia and Iran criticise US Caspian task force as study outlines joint sanction evasion",
+          "fuente": "Euronews",
+          "url": "https://www.euronews.com/2026/11/12/russia-and-iran-criticise-us-caspian-task-force-as-study-outlines-joint-sanction-evasion",
+          "traducida": false
+        },
+        {
+          "id": "cf04d6046088c4faa212",
+          "fecha": "2026-11-12T18:49:55+00:00",
+          "titulo": "Houthis claim responsibility for strikes on Saudi Aramco, airbase in Saudi Arabia",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2217431",
+          "traducida": false
+        },
         {
           "id": "9a9fd4ee6db2fb9946f9",
           "fecha": "2026-11-12T18:32:12+00:00",
           "titulo": "Israeli strike on Gaza hospital kills 11 in deadliest attack since election",
           "fuente": "South China Morning Post",
           "url": "https://www.scmp.com/news/world/middle-east/article/3374264/israeli-strike-gaza-hospital-kills-11-deadliest-attack-election",
+          "traducida": false
+        },
+        {
+          "id": "f764eda1c93c988536c0",
+          "fecha": "2026-11-12T18:28:12+00:00",
+          "titulo": "Trump retira a Vance de las conversaciones con Irán para acabar la guerra",
+          "fuente": "El País",
+          "url": "https://elpais.com/internacional/2026-11-12/trump-retira-a-vance-de-las-conversaciones-con-iran-para-acabar-la-guerra.html",
           "traducida": false
         },
         {
@@ -479,39 +503,15 @@
           "fuente": "Al Jazeera",
           "url": "https://www.aljazeera.com/news/2026/11/12/horrific-crime-gaza-doctor-killed-as-israel-expands-war-on-healthcare?traffic_source=rss",
           "traducida": false
-        },
-        {
-          "id": "c7e12300b77d5fbb5609",
-          "fecha": "2026-11-12T14:17:38+00:00",
-          "titulo": "Trump says US does not ‘need a deal with Iran’",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3374257/trump-says-us-does-not-need-deal-iran",
-          "traducida": false
-        },
-        {
-          "id": "18a6c58e68d017c65fd7",
-          "fecha": "2026-11-12T14:07:42+00:00",
-          "titulo": "Two men found guilty of helping Iran try to ‘eliminate’ UK-based journalists",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/uk-news/2026/nov/12/two-men-found-guilty-over-iranian-attempts-to-eliminate-uk-based-journalists",
-          "traducida": false
-        },
-        {
-          "id": "8f5e9177296d451b4c8f",
-          "fecha": "2026-11-12T14:05:00+00:00",
-          "titulo": "Minister Doughty Statement to the House of Commons: 12 November 2026",
-          "fuente": "GOV.UK FCDO",
-          "url": "https://www.gov.uk/government/speeches/minister-doughty-statement-to-the-house-of-commons-12-november-2026",
-          "traducida": false
         }
       ]
     },
     {
       "id": "india-asia",
       "titulo": "India y Asia-Pacífico",
-      "cantidad_archivada": 1445,
-      "nuevas_24h": 59,
-      "anteriores_24h": 83,
+      "cantidad_archivada": 1446,
+      "nuevas_24h": 60,
+      "anteriores_24h": 81,
       "dias_con_registros": 28,
       "fecha_ultima": "2026-11-12T17:31:58+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -725,6 +725,14 @@
           "traducida": false
         },
         {
+          "id": "904b013bbda81a511215",
+          "fecha": "2026-11-12T09:45:40+00:00",
+          "titulo": "Education News India: Latest Board Exam, Live Results, Admission News, School & Colleges News - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE10VWNjcmFxcUIwY283SUM5VlE3M2l0ZFlXcUY2OGduSVhTMDRQSU9ad3pidV9zNm5EWXhFSmVDT3RNZlRSUUl4RmN4aGJUcU1TZGYwRTE1Yw?oc=5",
+          "traducida": false
+        },
+        {
           "id": "45b1e1a040bdd78068c7",
           "fecha": "2026-11-12T09:41:05+00:00",
           "titulo": "Duterte-Carpio impeachment trial zeroes in on US$3,220 Tokyo meal",
@@ -746,14 +754,6 @@
           "titulo": "Shah Rukh’s no-photo rule, Salman’s sofa, Aishwarya’s corner: Inside Manish Malhotra’s party - The Indian Express",
           "fuente": "The Indian Express",
           "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQeFJhbmxuTGZ0cndRTElSSjB3X2Zvc1J2dFFXcGxjdWQ5Z01VYkxyTU5GdWFDeFNmSUhJenItV1drVmcwTkpGb2J3OFU2ZnlvQ2tUM1ppTWtnUk8yNmp5SmJkOXUxa0ViWnJTVEtzRURieXNZVWNubm1ZYnlJOGREZDNtV2FGdkdYalJMazVJMl9kMTk1Wnp5QmRTZHEtNlRvb1ZsaE9ZeHRjVmE5WVR0cWt5NDFKanVCa0h1Wk80a184SVdoLUcwZHlacW00d2VHQmdqaEZJTUM4YVYwaFNjMFkzMFlhRmdtTHFuN0FQMWVLUdIB-AFBVV95cUxPNXRCNGt4Z3l3RFBFa1RPSjEwVEg3dHRhcjNFVXBYS2c0bDFYUGVqQzFpWWgzbU1ZYUVfMExZdVd0bXk1Vl9UcVVlNW1zcVE5REdfTHFoR04zSHpuZ1BrTWw5N2t4cXFEQlpyb2dtSDFpdWx0TjdSQ1AyNUFtdHR5XzlDOXE3bF9yT1hGVzlCQ0NkZm00eDFBS3ltTWpBV3R4eDBsT3dWdjhyUzh4RXZGMUV0QWQ4aW44WV9abEhJQjBVaUh3TGtweVZhS05fTVdNNmFscTl5ZE04ZjJPYVlrd3ZvRDRVQnBrTVI1cGp1UThWeF9DcjYwVQ?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "eacb344f5550dcc3803e",
-          "fecha": "2026-11-12T09:10:34+00:00",
-          "titulo": "New Zealand blank India 5-0 in friendly match - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRXVuRHpKRzdkNUU2R04wM2xOVno1UWgza1NJZVJlSXdRZzNpcUZ3dHNSM1R4N1NfRy1aTnFEM09FSWR2em9iX0VHSTRvMlNGcVg1aEZ3Q25WZlE0YTlPU3ZzODRTVlpUME9DcUZHRzF6N1dTbXVFVTVuRjI4a2tia18xQjNhZE9YZjNrcldncEd3QkZhaXVJUEN6NGRRWEktU0NzVlBnaTnSAa8BQVVfeXFMUGhtelZZTkEwQUg4aTU4Y1VETk9WbjBrX2tLVE5VTXNVVHN0RWZQYU1NdWViUVJRZFEwQ1FtNVQ3dW9CeUkyNkZtOEJLazFKelFVcV9XeUtRZnRIdTdpMjJfWHJxWjFzd3gxU1l6NF9fWmNRNGJULV80TlA5Q1l6ZHkxMUNvVTJaMmI0MENwOFkzX0dlWWM5bl83ZWpOWVJnaEUtRGo2czdOcFE3b3V0UQ?oc=5",
           "traducida": false
         }
       ]
