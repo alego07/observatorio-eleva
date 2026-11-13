@@ -1,6 +1,54 @@
 {
-  "created_utc": "2026-11-13T18:33:28.446826+00:00",
+  "created_utc": "2026-11-13T18:50:20.780358+00:00",
   "events": [
+    {
+      "id": "a-50cc7de5e951ca603349",
+      "fecha": "2026-11-13",
+      "titulo_fuente": "US-China Board of Trade holds first meeting days before Trump-Xi summit",
+      "region": "China",
+      "temas": [
+        "Diplomacia",
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "50cc7de5e951ca603349",
+          "titulo_original": "US-China Board of Trade holds first meeting days before Trump-Xi summit",
+          "titulo_es": "US-China Board of Trade celebra los primeros días de reunión antes de la cumbre Trump-Xi",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3374407/us-china-board-trade-holds-first-meeting-days-trump-xi-summit",
+          "fuente": "South China Morning Post",
+          "pais": "Hong Kong",
+          "fecha": "2026-11-13T18:39:05+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The United States and China held the inaugural meeting of their bilateral Board of Trade on Friday, just days before US President Donald Trump is set to meet Chinese leader Xi Jinping in Shenzhen. “Today, the Office of the US Trade Representative, alongside the @USTreasury, held the first official US-China Board of Trade meeting with our Chinese counterparts,” the US Trade Representative (USTR) said on social media. “The Trump Administration look",
+          "resumen_es": "Estados Unidos y China celebraron la reunión inaugural de su Junta de Comercio bilateral el viernes, justo días antes de que el presidente estadounidense Donald Trump se reúna con el líder chino Xi Jinping en Shenzhen. “Hoy, la Oficina del Represen Comercial de los Estados Unidos"
+        }
+      ],
+      "fuentes": [
+        "South China Morning Post"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "China"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 8,
+      "motivos_seleccion": [
+        "Actores relevantes: China, Estados Unidos",
+        "Ámbito: Comercio y finanzas, Diplomacia",
+        "Posible decisión institucional o negociación"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
     {
       "id": "a-3282dd85400a0635d1ca",
       "fecha": "2026-11-13",
@@ -2379,6 +2427,51 @@
       "prioridad_orientativa": 4,
       "motivos_seleccion": [
         "Actores relevantes: Rusia, Ucrania"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-71c7be67a1fe0eeccae0",
+      "fecha": "2026-11-13",
+      "titulo_fuente": "Iran honours fallen soldiers in Iran-Iraq war with missile display",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "71c7be67a1fe0eeccae0",
+          "titulo_original": "Iran honours fallen soldiers in Iran-Iraq war with missile display",
+          "titulo_es": "Irán honra a soldados caídos en la guerra Irán-Iraq con la exhibición de misiles",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/iran-honours-fallen-soldiers-in-iran-iraq-war-with-missile-display?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-13T18:09:05+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Thousands gathered in Tehran for a mass funeral honouring 110 unidentified soldiers killed in the Iran-Iraq war.",
+          "resumen_es": "Miles se reunieron en Teherán para un funeral masivo en honor a 110 soldados no identificados asesinados en la guerra Irán-Iraq."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [
+        "Irán"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Irán",
+        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -5829,46 +5922,91 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-4217e6433f3c6089dd70",
+      "id": "a-df16858a278991b6daaa",
       "fecha": "2026-11-13",
-      "titulo_fuente": "RSS chief Mohan Bhagwat’s defence of firecrackers: ‘Once purified atmosphere’ - The Indian Express",
-      "region": "Asia-Pacífico",
+      "titulo_fuente": "EU okays consultant team for expert-level talks with Russia — AFP",
+      "region": "Rusia-Ucrania",
       "temas": [
-        "Seguridad y conflictos"
+        "Actualidad"
       ],
       "noticias": [
         {
-          "id": "4217e6433f3c6089dd70",
-          "titulo_original": "RSS chief Mohan Bhagwat’s defence of firecrackers: ‘Once purified atmosphere’ - The Indian Express",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObXFzdkllOURydm9seW9lVjVxLXIwNC1jRm1sdmJUSUNyLXVxeEkzX2hqMTgxajRBeTBEMzFXZFZ5cGF1MFk1LU13cWxZdWFFSWRjWUhfQWsweFpRZ21oSnBiLTg5MEoyalBIX1NJSy1XUGx0em9NZVIyV09RYnNsTGJvY0luV3k1UGQxT1JhTGxIQzFJTkx2alZyMjRaalgyUVFJUkJJVUJKbXBNd292eHZpU1BXRVRPZ3A3MDB2Y0VBNFdH0gHLAUFVX3lxTE9wY0c4WWhqUV9FZ3NTQWFTd0M2amNUSWZOajhCdU5kUmRLY1hseXU3QUdSTlcyUTdaTjRPbklvY1c4c3dpaExJellnbXZMaXh6TG1fRlk0LWhUVG5FT3g0MFlLX2hKOHpybzJiejczSHh5MlN3TXRwdlJGbm1VelluSUxzckx0SUd3WU93MWJvOVcxQ1htVUV2UHZETXUyVUZUdllWNE00QkhxTVhvZGdVRk9yalZMX1J1dGJTN01kaVRtak1aQVU0WTJj?oc=5",
-          "fuente": "The Indian Express",
-          "pais": "India",
-          "fecha": "2026-11-13T00:20:00+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "RSS chief Mohan Bhagwat’s defence of firecrackers: ‘Once purified atmosphere’ The Indian Express",
-          "resumen_es": ""
+          "id": "df16858a278991b6daaa",
+          "titulo_original": "EU okays consultant team for expert-level talks with Russia — AFP",
+          "titulo_es": "Equipo de consultor de acuerdo con la UE para conversaciones de expertos con Rusia — AFP",
+          "url": "https://tass.com/world/2218019",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-13T18:39:40+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The delegation will include representatives of the European Commission, the EU Council, Germany, France, Italy, and Poland, as well as the UK",
+          "resumen_es": "La delegación incluirá representantes de la Comisión Europea, el Consejo de la UE, Alemania, Francia, Italia y Polonia, así como el Reino Unido"
         }
       ],
       "fuentes": [
-        "The Indian Express"
+        "TASS"
       ],
       "actores_mencionados": [
-        "India"
+        "Rusia",
+        "Francia",
+        "Alemania"
       ],
       "fuentes_independientes": 1,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
       },
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
+      "prioridad_orientativa": 2,
       "motivos_seleccion": [
-        "Actores relevantes: India",
-        "Ámbito: Seguridad y conflictos"
+        "Actores relevantes: Rusia"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-4bef807469061ce37ca1",
+      "fecha": "2026-11-13",
+      "titulo_fuente": "Russia urges North Stream blasts contractors be identified — ambassador",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "4bef807469061ce37ca1",
+          "titulo_original": "Russia urges North Stream blasts contractors be identified — ambassador",
+          "titulo_es": "Rusia insta a los contratistas de explosión de North Stream — embajador",
+          "url": "https://tass.com/politics/2218017",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-13T18:35:54+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Sergey Nechayev dismissed as ungrounded the theory widely circulating in the Western media that the act of sabotage could have been committed by amateurs",
+          "resumen_es": "Sergey Nechayev desestimó la teoría que circulaba ampliamente en los medios occidentales que el acto de sabotaje podría haber sido cometido por aficionados"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Rusia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -5999,6 +6137,51 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-5c72f80bff0030afdab9",
+      "fecha": "2026-11-13",
+      "titulo_fuente": "Eisenkot slams Netanyahu’s ‘racist’ campaign against Palestinian Israelis",
+      "region": "Oriente Medio",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "5c72f80bff0030afdab9",
+          "titulo_original": "Eisenkot slams Netanyahu’s ‘racist’ campaign against Palestinian Israelis",
+          "titulo_es": "Eisenkot slams La campaña “racista” de Netanyahu contra israelíes palestinos",
+          "url": "https://www.aljazeera.com/news/2026/11/13/eisenkot-slams-netanyahus-racist-campaign-against-palestinian-israelis?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-13T18:04:22+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Prime ministerial hopeful calls attempts to marginalise and smear Palestinian citizens of Israel 'an anti-state act'.",
+          "resumen_es": "El primer ministro llama a los intentos de marginar y despreciar a los ciudadanos palestinos de Israel 'un acto antiestatal'."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [
+        "Israel",
+        "Palestina"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Israel"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6706,181 +6889,6 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Actores relevantes: India"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-a92b2f54420c37581d02",
-      "fecha": "2026-11-13",
-      "titulo_fuente": "Condo manager says DC gym shooter confessed in phone call, noting dispute over living conditions",
-      "region": "Estados Unidos",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "a92b2f54420c37581d02",
-          "titulo_original": "Condo manager says DC gym shooter confessed in phone call, noting dispute over living conditions",
-          "titulo_es": "Condo manager dice que el tirador del gimnasio DC confesó en la llamada telefónica, notando disputa sobre las condiciones de vida",
-          "url": "https://www.theguardian.com/us-news/2026/nov/13/washington-dc-gym-shooter-confession",
-          "fuente": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-13T16:35:02+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Gunman killed one person and injured at least five others in and around condo building not far from the White House More details were emerging on Friday about the previous morning’s shooting in north-west Washington DC, as a manager at the shooter’s residential building shared how he was angry over living conditions there and confessed to the killings. The gunman killed one person and injured at least five others on Thursday in and around the con",
-          "resumen_es": "Gunman mató a una persona e hirió al menos a otros cinco en y alrededor del edificio de condominios no lejos de la Casa Blanca Más detalles estaban surgiendo el viernes sobre el tiroteo de la mañana anterior en el noroeste de Washington DC, como gerente en el"
-        }
-      ],
-      "fuentes": [
-        "The Guardian"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-a21ae7772c0eacbc6224",
-      "fecha": "2026-11-13",
-      "titulo_fuente": "Jerusalem Daily: Baby dies from cold in Gaza",
-      "region": "Oriente Medio",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "a21ae7772c0eacbc6224",
-          "titulo_original": "Jerusalem Daily: Baby dies from cold in Gaza",
-          "titulo_es": "Jerusalén Daily: El bebé muere de frío en Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/jerusalem-daily-baby-dies-from-cold-in-gaza?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-11-13T16:34:24+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "A baby dies from the cold in Gaza as 53 countries urge Israel to allow aid in.",
-          "resumen_es": "Un bebé muere del frío en Gaza mientras 53 países instan a Israel a permitir la ayuda."
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera"
-      ],
-      "actores_mencionados": [
-        "Israel",
-        "Palestina"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Israel"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-7ecdead41695a17070c1",
-      "fecha": "2026-11-13",
-      "titulo_fuente": "Jaguar Land Rover reports £451m quarterly loss after cutting 4,000 jobs",
-      "region": "China",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "7ecdead41695a17070c1",
-          "titulo_original": "Jaguar Land Rover reports £451m quarterly loss after cutting 4,000 jobs",
-          "titulo_es": "",
-          "url": "https://www.theguardian.com/business/2026/nov/13/jaguar-land-rover-quarterly-loss-electric-cars-job-cuts",
-          "fuente": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-13T16:22:16+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "JLR chief executive calls for EU and Britain to join forces amid competition from Chinese electric carmakers Jaguar Land Rover has reported a £451m quarterly loss as it counts the cost of cutting 4,000 jobs, while its chief executive has called for the EU and Britain to work together in the face of competition from China. Britain’s largest automotive employer reported revenues rising to £5.9bn between July and September, but it recorded £530m in ",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Guardian"
-      ],
-      "actores_mencionados": [
-        "China"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: China"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-90cc4e2d4f89c894ef13",
-      "fecha": "2026-11-13",
-      "titulo_fuente": "Militants kill 37 civilians in Niger — media",
-      "region": "Internacional",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "90cc4e2d4f89c894ef13",
-          "titulo_original": "Militants kill 37 civilians in Niger — media",
-          "titulo_es": "",
-          "url": "https://tass.com/emergencies/2217957",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-13T16:03:14+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Local residents, escorted by militias, were traveling from the village of Tillim to the city of Tera when they were attacked by the militants",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
