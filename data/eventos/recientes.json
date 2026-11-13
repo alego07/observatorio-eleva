@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-11-13T19:59:11.051107+00:00",
+  "created_utc": "2026-11-13T20:32:48.196693+00:00",
   "events": [
     {
       "id": "a-50cc7de5e951ca603349",
@@ -551,6 +551,54 @@
       "motivos_seleccion": [
         "Actores relevantes: Perú",
         "Mención expresa al Perú"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-9ba4ed86b69308ed97b3",
+      "fecha": "2026-11-13",
+      "titulo_fuente": "Bessent blames US Commerce Department for not restricting Nvidia chip exports to China",
+      "region": "China",
+      "temas": [
+        "Seguridad y conflictos",
+        "Comercio y finanzas",
+        "Energía y clima"
+      ],
+      "noticias": [
+        {
+          "id": "9ba4ed86b69308ed97b3",
+          "titulo_original": "Bessent blames US Commerce Department for not restricting Nvidia chip exports to China",
+          "titulo_es": "Bessent culpa al Departamento de Comercio de Estados Unidos por no restringir las exportaciones de chips Nvidia a China",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3374409/bessent-blames-us-commerce-department-not-restricting-nvidia-chip-exports-china",
+          "fuente": "South China Morning Post",
+          "pais": "Hong Kong",
+          "fecha": "2026-11-13T20:20:33+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "US Treasury Secretary Scott Bessent on Friday blamed the Commerce Department, led by Howard Lutnick, for delaying the blacklisting of Megaspeed, an Nvidia customer suspected of diverting advanced AI chips to China, days before US President Donald Trump and Chinese President Xi Jinping are expected to meet in Shenzhen. Bessent spoke a day after Nvidia co-founder Jensen Huang resigned as chief executive following reports that he had an affair with ",
+          "resumen_es": "El secretario del Tesoro de EE.UU. Scott Bessent el viernes culpó al Departamento de Comercio, liderado por Howard Lutnick, por retrasar la lista negra de Megaspeed, un cliente de Nvidia sospechoso de desviar chips avanzados de AI a China, días antes del presidente estadounidense"
+        }
+      ],
+      "fuentes": [
+        "South China Morning Post"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "China"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: China, Estados Unidos",
+        "Ámbito: Comercio y finanzas, Energía y clima"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -2765,6 +2813,51 @@
       "motivos_seleccion": [
         "Actores relevantes: Rusia",
         "Ámbito: Diplomacia"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-cc13b97142fe36c1a77f",
+      "fecha": "2026-11-13",
+      "titulo_fuente": "Europe and Ukraine get a boost in peace talks, but Putin is playing for time - CNN",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "cc13b97142fe36c1a77f",
+          "titulo_original": "Europe and Ukraine get a boost in peace talks, but Putin is playing for time - CNN",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcUF0RjZSUldra2R2TVp6OUg4YmFBRDdHMHYtMnpwNk9MelhKdU92NUtMaC1heV9GYnotUEZvWHdqLXVQejV2bnpScUlTaGlCbU5vU0ozX3pOWENTVGdDaVNoNGRGVzBSbFM3X25GcURsWFBjVFJkLWVxNjJJVkh0NlpJaFFHcnJhMTVNdnJR?oc=5",
+          "fuente": "CNN",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-13T18:24:53+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Europe and Ukraine get a boost in peace talks, but Putin is playing for time CNN",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "CNN"
+      ],
+      "actores_mencionados": [
+        "Rusia",
+        "Ucrania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia, Ucrania"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6031,235 +6124,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-29dbf83bbec3275396d5",
-      "fecha": "2026-11-13",
-      "titulo_fuente": "Guerre en Ukraine : les émissaires de Donald Trump admettent la nécessité de voir les Européens associés aux négociations de paix",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "29dbf83bbec3275396d5",
-          "titulo_original": "Guerre en Ukraine : les émissaires de Donald Trump admettent la nécessité de voir les Européens associés aux négociations de paix",
-          "titulo_es": "",
-          "url": "https://www.lemonde.fr/international/article/2026/11/13/guerre-en-ukraine-les-emissaires-americains-assurent-que-les-europeens-seront-associes-aux-prochaines-reunions-de-negociation-de-paix_6809269_3210.html",
-          "fuente": "Le Monde",
-          "pais": "Francia",
-          "fecha": "2026-11-13T04:00:29+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Depuis plusieurs mois, l’Europe réclame une place à la table des négociations, mais Moscou n’a pas confirmé son accord. Jared Kushner et Steve Witkoff, les envoyés spéciaux du président américain, sont repartis de Moscou, jeudi, avec très peu d’éléments nouveaux sur les négociations entre la Russie et l’Ukraine.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Le Monde"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos, Ucrania"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-ab640709d730fb3c8199",
-      "fecha": "2026-11-13",
-      "titulo_fuente": "Microsoft Outlook outage puts Hong Kong’s financial sector on hold",
-      "region": "China",
-      "temas": [
-        "Seguridad y conflictos",
-        "Comercio y finanzas"
-      ],
-      "noticias": [
-        {
-          "id": "ab640709d730fb3c8199",
-          "titulo_original": "Microsoft Outlook outage puts Hong Kong’s financial sector on hold",
-          "titulo_es": "",
-          "url": "https://www.scmp.com/business/banking-finance/article/3374291/microsoft-outlook-outage-disrupts-workers-hong-kongs-financial-sector",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-11-13T03:44:09+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "A multihour outage of Microsoft’s office software Outlook, beginning on Friday morning, severely disrupted work in Hong Kong’s financial sector, according to staff members at several of the city’s investment banks. Some bankers from Goldman Sachs and Nomura said their work had been interrupted, the South China Morning Post learned. Many in Central, Hong Kong’s main financial district, had to work offline after the email service went down. “We hav",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "South China Morning Post"
-      ],
-      "actores_mencionados": [
-        "China"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: China",
-        "Ámbito: Comercio y finanzas, Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-ef3bfbfbd16a6edde46b",
-      "fecha": "2026-11-13",
-      "titulo_fuente": "Flight tickets, food and more: 5 charts that explain what’s driving inflation higher, wider - The Indian Express",
-      "region": "Asia-Pacífico",
-      "temas": [
-        "Comercio y finanzas"
-      ],
-      "noticias": [
-        {
-          "id": "ef3bfbfbd16a6edde46b",
-          "titulo_original": "Flight tickets, food and more: 5 charts that explain what’s driving inflation higher, wider - The Indian Express",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMlB5cm1QUHVQRWs0M0twNEx2U3N6VzBUZWVSMFNvNllwTlpIOExYSDNvQ3oySTU0X3E5ellRWHVONXNLdU9TQzFySTRhdV8za3JJWEJYX08xel82bm1SdXd1UkxZV1RWUnU0SHNRVzAweDZSdTVnVzBPdF9IZ19RbmpFV1ZlZHNvdDhjbmpWMHIxdHJITlpIckVCYUpzTVFzTEhJNnlZOWtqU2NFZTc0SDFmQUthbkE4WWdjS1BaanhUVk5YQi1SUdIBzwFBVV95cUxQYnJ1dzQyTlBFbEtYaEFmRUFsbFhvT3A0aXVvaVBuM2dzZm1PbEJpZGluTzB4Zl9nUGpJaFo2SVpGUFZXRzhtMGRiQ1E2NGI5QlhVcnB3bEtGZ0k2Y0pZZGpaRkotNVVrdk5lMWdwcFdveEVsMXJ4dENqbFdoVTRUTjlpT2Z1d3RqMzZnaGRBeVVsYVJlWVNhcDFBbTVrTGxGNG1UZkpzZzd3aElMZ1F1S3F0bkdJblJZNkZ2a2l4dGUxUzU4UW1NbWtqdGItVTg?oc=5",
-          "fuente": "The Indian Express",
-          "pais": "India",
-          "fecha": "2026-11-13T03:43:49+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Flight tickets, food and more: 5 charts that explain what’s driving inflation higher, wider The Indian Express",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Indian Express"
-      ],
-      "actores_mencionados": [
-        "India"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia compleja y economía política internacional",
-        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: India",
-        "Ámbito: Comercio y finanzas"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-0369bfad78bd2eaa1ec6",
-      "fecha": "2026-11-13",
-      "titulo_fuente": "Adani’s Navi Mumbai airport push boils over, Gulf airlines warn of diplomatic escalation - The Indian Express",
-      "region": "Asia-Pacífico",
-      "temas": [
-        "Diplomacia",
-        "Seguridad y conflictos",
-        "Energía y clima"
-      ],
-      "noticias": [
-        {
-          "id": "0369bfad78bd2eaa1ec6",
-          "titulo_original": "Adani’s Navi Mumbai airport push boils over, Gulf airlines warn of diplomatic escalation - The Indian Express",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdE5CbDN5V00zRXBUbzBrWEVuR1gyM193LWkxbkpkQzJBeHg0dGZhSjdyN09kSnQxUUlVZjNwMUN2M2thRkJ2dF9HZncxdExCUzJvYnlKdV90UWVpcFV0WllyQ0NzZUs4NFUtbE5iM1VmSlBYSkV2aXF0cHM5TXBOMExKVHRmaEM2Z2c0WmVCOVl0ellDaEE0RVpYNGgwd2RPbDZfQkJhZ0lyekQ0cU10Q2I3V3ZPMnZ2dDVwSGpoRV8zYWJLb2g3Nk5zcjd1d9IB1AFBVV95cUxQT3ZUQlZuSGlWajNzYXp6WTJycG92bnFkUEtqbnJ5TTNUUjZGdDFYcFpXeWpyM0MzZVBqRlByc1pfQUpVUjNudERCQ0F6d0tCNXZrS2tKczJZYnlvNlZqQW9NUXR1X2xxT3dUSDBTajhMQ2h0a2VmYTZyVzNCS3gtYjNLeDU0VHQ3MDRlU2RGampIT0JuQnVwcVRiUlZIbHZpbjhfeHMxY0xOd3NlNUM3dk5PZ2lHWExDSVM2Zks5MWJ5eTJ2NHR5X1p4UWozMVV3OGF2RQ?oc=5",
-          "fuente": "The Indian Express",
-          "pais": "India",
-          "fecha": "2026-11-13T03:30:39+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Adani’s Navi Mumbai airport push boils over, Gulf airlines warn of diplomatic escalation The Indian Express",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Indian Express"
-      ],
-      "actores_mencionados": [
-        "India"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: India",
-        "Ámbito: Diplomacia, Energía y clima"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-3270ed61c3d2afa7e080",
-      "fecha": "2026-11-13",
-      "titulo_fuente": "U.S., Ukraine say Europe to join Russia talks as Putin sticks to hardline stance",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "3270ed61c3d2afa7e080",
-          "titulo_original": "U.S., Ukraine say Europe to join Russia talks as Putin sticks to hardline stance",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/news/international/us-ukraine-say-europe-to-join-russia-talks-as-putin-sticks-to-hardline-stance/article71696395.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-11-13T03:28:43+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "U.S. envoys Jared Kushner and Steve Witkoff held over four hours of talks with Vladimir Putin in the Kremlin before jetting to debrief Volodymyr Zelenskyy in Dublin",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Hindu"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "Rusia",
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos, Rusia, Ucrania"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-c0d6ad1512100c4c65eb",
       "fecha": "2026-11-13",
       "titulo_fuente": "Microsoft faces Washington scrutiny after global outage - Politico",
@@ -6312,6 +6176,192 @@
       "prioridad_orientativa": 3,
       "motivos_seleccion": [
         "Cobertura de fuentes distintas",
+        "Actores relevantes: Estados Unidos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-b57135dcc0389fbbc175",
+      "fecha": "2026-11-13",
+      "titulo_fuente": "USDA delays grocery store rule after Mamdani appeal to Trump - Politico",
+      "region": "Estados Unidos",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "b57135dcc0389fbbc175",
+          "titulo_original": "USDA delays grocery store rule after Mamdani appeal to Trump - Politico",
+          "titulo_es": "USDA retrasa la regla de la tienda después de que Mamdani apele a Trump - Politico",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNa3N5Nk9ib0ZkcUVINmVsUWhWcGU4TDhmakU4RkVGWmJ2VFN5SndqMmQxSHB1V0JLQzJtTTZ5NVhlaW5fTUxlRmRuT1owTnd5bEZfMnl1d3pzNkE0bnFBcHAta0JuRWVDUnU1UmtCemtrNmVzS0dicG1EYkNSQjFwcV9LMjhyYmFUSEdz?oc=5",
+          "fuente": "POLITICO US",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-13T20:27:00+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "USDA delays grocery store rule after Mamdani appeal to Trump Politico",
+          "resumen_es": "USDA retrasa la regla de la tienda después de que Mamdani apele a Trump Politico"
+        }
+      ],
+      "fuentes": [
+        "POLITICO US"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-77c86922fa845f16abdd",
+      "fecha": "2026-11-13",
+      "titulo_fuente": "Tanker collides with river cruise ship carrying more than 130 people in New Orleans – latest updates",
+      "region": "Internacional",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "77c86922fa845f16abdd",
+          "titulo_original": "Tanker collides with river cruise ship carrying more than 130 people in New Orleans – latest updates",
+          "titulo_es": "Tanker colisiona con crucero por el río que transporta a más de 130 personas en Nueva Orleans – últimas actualizaciones",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/13/new-orleans-cruise-liner-tanker-crash-live-updates",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-13T20:19:37+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Rescue efforts under way as ship takes on water; governor confirms incident in Mississippi River Tanker collides with cruise ship on Mississippi River in New Orleans Videos circulating across social media appear to show the moment the Atlantic Asphalt tanker crashes into the side of the American Cruise Lines’ American Heritage while the cruise ship is docked on the Mississippi River. The ship then falls to its side towards the open water and begi",
+          "resumen_es": "Los esfuerzos de rescate en curso mientras el barco toma el agua; gobernador confirma incidente en Mississippi River Tanker colisiona con crucero en el río Mississippi en Nueva Orleans Videos circulando por las redes sociales parecen mostrar el momento en que el Atlan"
+        },
+        {
+          "id": "315e43dca758242da02f",
+          "titulo_original": "Tanker collides with cruise ship on Mississippi River in New Orleans",
+          "titulo_es": "Tanker colisiona con crucero en el río Mississippi en Nueva Orleans",
+          "url": "https://www.theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-13T20:04:03+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "A large emergency response is underway to rescue people from the water, with overnight cruise ship on its side New Orleans river collision – latest updates A tanker collided with an overnight cruise ship on the Mississippi River in New Orleans on Friday afternoon, prompting a large emergency response, according to officials. The boat that was struck was American Cruise Lines’ American Heritage, a New Orleans port official told local news outlet W",
+          "resumen_es": "Una gran respuesta de emergencia está en curso para rescatar a la gente del agua, con un crucero nocturno a su lado de la colisión del río Nueva Orleáns – últimas actualizaciones Un petrolero chocó con un crucero nocturno en el río Mississippi en Nueva Orle"
+        }
+      ],
+      "fuentes": [
+        "The Guardian"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-00662abcf455e7485508",
+      "fecha": "2026-11-13",
+      "titulo_fuente": "As Van Hollen wages a challenge, Senate Democrats are torn on whom to elect as their leader",
+      "region": "Estados Unidos",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "00662abcf455e7485508",
+          "titulo_original": "As Van Hollen wages a challenge, Senate Democrats are torn on whom to elect as their leader",
+          "titulo_es": "Mientras Van Hollen paga un desafío, los demócratas del Senado están desgarrados a quienes elegir como su líder",
+          "url": "https://www.theguardian.com/us-news/2026/nov/13/democrats-midterms-senate-leader",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-13T20:08:00+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Maryland senator’s bid against Chuck Schumer for leadership could decide direction of the Democratic party US politics live – latest updates Ever since Donald Trump returned to the White House, Democratic officeholders and voters alike have been divided over whether their leader in the Senate, Chuck Schumer , is up to the task of taking the president on. That debate intensified on Thursday, when the Maryland senator Chris Van Hollen announced he ",
+          "resumen_es": "La propuesta del senador de Maryland contra Chuck Schumer por liderazgo podría decidir la dirección de la política del partido demócrata estadounidense en vivo – las últimas actualizaciones Desde que Donald Trump regresó a la Casa Blanca, los titulares de oficinas democráticas y votantes por igual han"
+        }
+      ],
+      "fuentes": [
+        "The Guardian"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-4edfe31ee32887b6d986",
+      "fecha": "2026-11-13",
+      "titulo_fuente": "Trump-backed Maga firebrand Lauren Boebert defeated in Colorado congressional race",
+      "region": "Estados Unidos",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "4edfe31ee32887b6d986",
+          "titulo_original": "Trump-backed Maga firebrand Lauren Boebert defeated in Colorado congressional race",
+          "titulo_es": "El bombero de Trump, Lauren Boebert, derrotado en la carrera del Congreso de Colorado",
+          "url": "https://www.theguardian.com/us-news/2026/nov/13/trump-maga-lauren-boebert-colorado",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-13T20:07:07+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "US congresswoman, who has been caught up in repeated controversies, loses re-election bid to Democrat Eileen Laubacher Lauren Boebert, the firebrand conservative Republican Colorado representative whose three terms in Congress have been marred by multiple controversies, was defeated in her re-election bid. The gun rights advocate, born-again Christian and one-time QAnon fan lost to Democrat Eileen Laubacher by a less than 1% margin, according to ",
+          "resumen_es": "La congresista estadounidense, que ha sido atrapada en controversias repetidas, pierde la propuesta de reelección al demócrata Eileen Laubacher Lauren Boebert, el representante conservador de la marca de fuego de Colorado, cuyos tres términos en el Congreso han sido maras"
+        }
+      ],
+      "fuentes": [
+        "The Guardian"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
         "Actores relevantes: Estados Unidos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
@@ -6882,48 +6932,6 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Actores relevantes: Ucrania"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-18495c761d7e3c380bca",
-      "fecha": "2026-11-13",
-      "titulo_fuente": "Churchill’s WWII bunker opens to visitors — newspaper",
-      "region": "Internacional",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "18495c761d7e3c380bca",
-          "titulo_original": "Churchill’s WWII bunker opens to visitors — newspaper",
-          "titulo_es": "El búnker WWII de Churchill se abre a los visitantes — periódico",
-          "url": "https://tass.com/society/2218005",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-13T18:07:12+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The Fan Bay Deep Shelter was home to some of the most advanced military technology of its time, The Telegraph reported",
-          "resumen_es": "The Fan Bay Deep Shelter era el hogar de algunas de las tecnologías militares más avanzadas de su tiempo, The Telegraph informó"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
