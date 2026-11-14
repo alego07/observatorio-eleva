@@ -1,17 +1,25 @@
 {
-  "actualizado_utc": "2026-11-14T16:45:43.737322+00:00",
+  "actualizado_utc": "2026-11-14T17:09:18.350739+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 2370,
-      "nuevas_24h": 86,
-      "anteriores_24h": 96,
+      "cantidad_archivada": 2371,
+      "nuevas_24h": 82,
+      "anteriores_24h": 99,
       "dias_con_registros": 30,
-      "fecha_ultima": "2026-11-14T16:16:05+00:00",
+      "fecha_ultima": "2026-11-14T16:58:40+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "82f7721f81d234153370",
+          "fecha": "2026-11-14T16:58:40+00:00",
+          "titulo": "Putin, Xi Jinping, Trump trilateral summit to be held in Shenzhen on November 19 — Kremlin",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2218203",
+          "traducida": false
+        },
         {
           "id": "490ebff0d15fd650a8f4",
           "fecha": "2026-11-14T16:16:05+00:00",
@@ -243,14 +251,6 @@
           "fuente": "TASS",
           "url": "https://tass.com/defense/2218169",
           "traducida": false
-        },
-        {
-          "id": "dccb198f6f63611e348b",
-          "fecha": "2026-11-14T10:03:32+00:00",
-          "titulo": "Farewell ceremony for Russian ambassador to US underway in Moscow",
-          "fuente": "TASS",
-          "url": "https://tass.com/society/2218167",
-          "traducida": false
         }
       ]
     },
@@ -258,8 +258,8 @@
       "id": "india-asia",
       "titulo": "India y Asia-Pacífico",
       "cantidad_archivada": 1576,
-      "nuevas_24h": 52,
-      "anteriores_24h": 69,
+      "nuevas_24h": 51,
+      "anteriores_24h": 67,
       "dias_con_registros": 30,
       "fecha_ultima": "2026-11-14T15:31:02+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -509,13 +509,21 @@
     {
       "id": "oriente-medio",
       "titulo": "Oriente Medio: seguridad y diplomacia",
-      "cantidad_archivada": 1608,
+      "cantidad_archivada": 1609,
       "nuevas_24h": 25,
       "anteriores_24h": 62,
       "dias_con_registros": 30,
-      "fecha_ultima": "2026-11-14T16:28:36+00:00",
+      "fecha_ultima": "2026-11-14T16:49:20+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "7b7ba90b95656a26bed7",
+          "fecha": "2026-11-14T16:49:20+00:00",
+          "titulo": "Trump tells advisers he may hold off on Iran attacks barring new provocations, sources say",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/trump-tells-advisers-he-may-hold-off-on-iran-attacks-barring-new-provocations-sources-say/article71702671.ece",
+          "traducida": false
+        },
         {
           "id": "452f331d3e19e9fa2cca",
           "fecha": "2026-11-14T16:28:36+00:00",
@@ -747,27 +755,27 @@
           "fuente": "TASS",
           "url": "https://tass.com/world/2217953",
           "traducida": false
-        },
-        {
-          "id": "9ece6a28d13756cca544",
-          "fecha": "2026-11-13T15:49:51+00:00",
-          "titulo": "Turkiye and Qatar sign mutual defence agreement",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement?traffic_source=rss",
-          "traducida": false
         }
       ]
     },
     {
       "id": "eeuu-china",
       "titulo": "Competencia estratégica Estados Unidos–China",
-      "cantidad_archivada": 187,
-      "nuevas_24h": 19,
+      "cantidad_archivada": 188,
+      "nuevas_24h": 20,
       "anteriores_24h": 16,
       "dias_con_registros": 27,
-      "fecha_ultima": "2026-11-14T15:53:55+00:00",
+      "fecha_ultima": "2026-11-14T16:58:40+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "82f7721f81d234153370",
+          "fecha": "2026-11-14T16:58:40+00:00",
+          "titulo": "Putin, Xi Jinping, Trump trilateral summit to be held in Shenzhen on November 19 — Kremlin",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2218203",
+          "traducida": false
+        },
         {
           "id": "c680cb902e27912f7d6a",
           "fecha": "2026-11-14T15:53:55+00:00",
@@ -999,14 +1007,6 @@
           "fuente": "The Hindu",
           "url": "https://www.thehindu.com/news/international/us-commerce-secretary-lutnick-to-testify-before-congress-on-nvidia-us-media/article71696546.ece",
           "traducida": false
-        },
-        {
-          "id": "b6e8e2fa8c4e9edb7662",
-          "fecha": "2026-11-13T08:31:07+00:00",
-          "titulo": "China's Defence Ministry says it maintains dialogue with the U.S.",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/chinas-defence-ministry-says-it-maintains-dialogue-with-the-us/article71697067.ece",
-          "traducida": false
         }
       ]
     },
@@ -1014,8 +1014,8 @@
       "id": "union-europea",
       "titulo": "Unión Europea y relaciones exteriores",
       "cantidad_archivada": 651,
-      "nuevas_24h": 17,
-      "anteriores_24h": 17,
+      "nuevas_24h": 16,
+      "anteriores_24h": 16,
       "dias_con_registros": 30,
       "fecha_ultima": "2026-11-14T15:34:54+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -1263,263 +1263,11 @@
       ]
     },
     {
-      "id": "onu",
-      "titulo": "Naciones Unidas y multilateralismo",
-      "cantidad_archivada": 82,
-      "nuevas_24h": 5,
-      "anteriores_24h": 2,
-      "dias_con_registros": 25,
-      "fecha_ultima": "2026-11-14T09:10:07+00:00",
-      "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
-      "publicaciones": [
-        {
-          "id": "c6c97fbe7d6e1914cb67",
-          "fecha": "2026-11-14T09:10:07+00:00",
-          "titulo": "South Sudan postpones first national elections until February",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/south-sudan-postpones-first-national-elections-until-february/article71701304.ece",
-          "traducida": false
-        },
-        {
-          "id": "ae850768bfab29bc41e5",
-          "fecha": "2026-11-14T00:30:00+00:00",
-          "titulo": "‘We’re not the United Nations’: Rubio blasts global elite in speech - Politico",
-          "fuente": "POLITICO US",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbS1VaE54cTQ4X2ZiMzA2aVhGdTNWWXlheVRIM0ZOWmJ2ZXdCRWZpVGFrZlhDa3l1MExMZ3dRZFdpaG44SkFBVVExLUFhbm9kQmtRSHRZYVViczJESU5JcDQ2c080aU5vVU1ERUVhS3J1QTZ4WmJsTkg3ZXFUeW5neW1vc24zWDJmWXF5ZGNwb21nS0VmM1FMTmh3dGRUVnFKVHlkRXk1d2NWVHliak5SR2pJVQ?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "426806a06a50e9762b60",
-          "fecha": "2026-11-13T21:42:23+00:00",
-          "titulo": "The United Kingdom stands in solidarity with our Gulf partners: UK statement at the UN Security Council",
-          "fuente": "GOV.UK FCDO",
-          "url": "https://www.gov.uk/government/speeches/the-united-kingdom-stands-in-solidarity-with-our-gulf-partners-uk-statement-at-the-un-security-council",
-          "traducida": false
-        },
-        {
-          "id": "cd89019bc1ec041341cc",
-          "fecha": "2026-11-13T19:14:58+00:00",
-          "titulo": "EU not even invited to Ukraine talks yet — Russian security official",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2218033",
-          "traducida": false
-        },
-        {
-          "id": "2d5945ca27aed4fa3246",
-          "fecha": "2026-11-13T16:58:15+00:00",
-          "titulo": "Pakistan calls for 'immediate' end to Houthi attacks on Saudi Arabia at UN",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/pakistan-calls-for-immediate-end-to-houthi-attacks-on-saudi-arabia-at-un/article71699212.ece",
-          "traducida": false
-        },
-        {
-          "id": "61b7707fea7f2d976910",
-          "fecha": "2026-11-13T09:00:00+00:00",
-          "titulo": "Spain’s Sánchez laments potential for ‘planetary annihilation’",
-          "fuente": "POLITICO Europe",
-          "url": "https://www.politico.eu/article/sanchez-laments-potential-for-planetary-annihilation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "traducida": false
-        },
-        {
-          "id": "b7c0e4dec30f9afb0676",
-          "fecha": "2026-11-12T20:53:40+00:00",
-          "titulo": "This resolution demonstrates this Council’s determination to take decisive action against reckless attacks by the Houthis in Yemen: UK Explanation of Vote at the UN Security Council",
-          "fuente": "GOV.UK FCDO",
-          "url": "https://www.gov.uk/government/speeches/this-resolution-demonstrates-this-councils-determination-to-take-decisive-action-against-reckless-attacks-by-the-houthis-in-yemen-uk-explanation-of-vo",
-          "traducida": false
-        },
-        {
-          "id": "c2223a92b6451f4ad548",
-          "fecha": "2026-11-12T14:45:26+00:00",
-          "titulo": "CSTO states to jointly train cybersecurity specialists — Russian Foreign Ministry",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2217247",
-          "traducida": false
-        },
-        {
-          "id": "138ca8c7f9ad3f0098b5",
-          "fecha": "2026-11-11T19:14:13+00:00",
-          "titulo": "CSTO leaders adopt Counterterrorism Strategy through 2030",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2216599",
-          "traducida": false
-        },
-        {
-          "id": "72cd26866b50391ed3a0",
-          "fecha": "2026-11-11T18:16:38+00:00",
-          "titulo": "Situation in special op zone significantly changed since Anchorage meeting — Shoigu",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2216581",
-          "traducida": false
-        },
-        {
-          "id": "24e15c7e0480ff462d61",
-          "fecha": "2026-11-11T17:46:44+00:00",
-          "titulo": "Iran to hit US bases in Europe if attacks come from there — Security Council secretary",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2216573",
-          "traducida": false
-        },
-        {
-          "id": "51e0597d757bd76b6501",
-          "fecha": "2026-11-11T15:42:47+00:00",
-          "titulo": "Tehran grateful for historic stance taken by Russia, China at UN Security Council",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2216511",
-          "traducida": false
-        },
-        {
-          "id": "6f558549e5a743d934d4",
-          "fecha": "2026-11-11T15:13:39+00:00",
-          "titulo": "Armenia deprived of voting rights in CSTO over unpaid debts",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2216471",
-          "traducida": false
-        },
-        {
-          "id": "8e32bbd13a75bc80293c",
-          "fecha": "2026-11-11T10:28:48+00:00",
-          "titulo": "Tehran has no plans to give up enriched uranium — Security Council secretary",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2216049",
-          "traducida": false
-        },
-        {
-          "id": "afcfaff8f44ee3e2494f",
-          "fecha": "2026-11-11T09:11:32+00:00",
-          "titulo": "World leaders begin UN climate talks amid concerns action on global warming too slow",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/world/africa/article/3374065/world-leaders-begin-un-climate-talks-amid-concerns-action-global-warming-too-slow",
-          "traducida": false
-        },
-        {
-          "id": "a54cf107d2a1889f5dd9",
-          "fecha": "2026-11-10T20:04:48+00:00",
-          "titulo": "Marruecos proclama en la ONU que el Sáhara Occidental seguirá bajo su soberanía “hasta el fin de los tiempos”",
-          "fuente": "El País",
-          "url": "https://elpais.com/internacional/2026-11-10/marruecos-proclama-en-la-onu-que-el-sahara-occidental-seguira-bajo-su-soberania-hasta-el-fin-de-los-tiempos.html",
-          "traducida": false
-        },
-        {
-          "id": "4f2a1c64af7887193af0",
-          "fecha": "2026-11-10T17:23:27+00:00",
-          "titulo": "Iran yet to receive US response to its conditions — National Security Council secretary",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2215705",
-          "traducida": false
-        },
-        {
-          "id": "47cc73907dc9c50c91b1",
-          "fecha": "2026-11-10T17:16:27+00:00",
-          "titulo": "Iran's Supreme National Security Council says Tehran not in talks with Washington",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2215701",
-          "traducida": false
-        },
-        {
-          "id": "6292e6fd4493f7563436",
-          "fecha": "2026-11-10T17:04:02+00:00",
-          "titulo": "South Sudan's authorities must allow UNMISS to operate without obstruction: UK statement at the UN Security Council",
-          "fuente": "GOV.UK FCDO",
-          "url": "https://www.gov.uk/government/speeches/south-sudans-authorities-must-allow-unmiss-to-operate-without-obstruction-uk-statement-at-the-un-security-council",
-          "traducida": false
-        },
-        {
-          "id": "78c8d7be351ec3941c93",
-          "fecha": "2026-11-10T09:52:40+00:00",
-          "titulo": "Iran seeks deal with US, timing of conflict’s end remains unclear — Trump",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2215387",
-          "traducida": false
-        },
-        {
-          "id": "f2809e1f41f3995f1f79",
-          "fecha": "2026-11-09T21:23:15+00:00",
-          "titulo": "Turkey: Delegates arrive in Antalya as COP31 climate talks begin",
-          "fuente": "Euronews",
-          "url": "https://www.euronews.com/video/2026/11/09/turkey-delegates-arrive-in-antalya-as-cop31-climate-talks-begin",
-          "traducida": false
-        },
-        {
-          "id": "e0500c3f265289ea14e1",
-          "fecha": "2026-11-09T18:53:19+00:00",
-          "titulo": "Brazil’s Lula heads to Cop31 on first trip since re-election",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/world/americas/article/3373847/brazils-lula-heads-cop31-first-trip-re-election",
-          "traducida": false
-        },
-        {
-          "id": "6a08bee58c02364ce83d",
-          "fecha": "2026-11-09T17:26:28+00:00",
-          "titulo": "Russia does not seek armed confrontation with Europe — diplomat",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2215015",
-          "traducida": false
-        },
-        {
-          "id": "a1d655b295370d5ebf5d",
-          "fecha": "2026-11-09T17:24:16+00:00",
-          "titulo": "UNSC meetings on Ukraine in no way bring conflict settlement closer — Russian diplomat",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2215013",
-          "traducida": false
-        },
-        {
-          "id": "2d1b8618313cd653d9a0",
-          "fecha": "2026-11-09T16:27:31+00:00",
-          "titulo": "Along with our partners we will stand with Ukraine for as long as it takes: UK statement at the UN Security Council",
-          "fuente": "GOV.UK FCDO",
-          "url": "https://www.gov.uk/government/speeches/along-with-our-partners-we-will-stand-with-ukraine-for-as-long-as-it-takes-uk-statement-at-the-un-security-council",
-          "traducida": false
-        },
-        {
-          "id": "0efb1de2f2dc092fc319",
-          "fecha": "2026-11-08T14:18:23+00:00",
-          "titulo": "Iran’s Supreme National Security Council endorses agreement on Rasht-Astara railway",
-          "fuente": "TASS",
-          "url": "https://tass.com/economy/2214479",
-          "traducida": false
-        },
-        {
-          "id": "0c2c1a331fb8b35fa4fd",
-          "fecha": "2026-11-08T10:01:49+00:00",
-          "titulo": "At least 21 dead after migrant boat capsizes off Senegal, authorities say",
-          "fuente": "Euronews",
-          "url": "https://www.euronews.com/2026/11/08/at-least-21-dead-after-migrant-boat-capsizes-off-senegal-authorities-say",
-          "traducida": false
-        },
-        {
-          "id": "f4c51b00341b65b8d7e6",
-          "fecha": "2026-11-06T15:42:18+00:00",
-          "titulo": "Iran delivers secret Khamenei message to Putin as Moscow pushes gas pipeline deal",
-          "fuente": "Euronews",
-          "url": "https://www.euronews.com/2026/11/06/iran-delivers-secret-khamenei-message-to-putin-as-moscow-pushes-gas-pipeline-deal",
-          "traducida": false
-        },
-        {
-          "id": "bda960726fe48dac7d4e",
-          "fecha": "2026-11-05T16:11:59+00:00",
-          "titulo": "Continued violations of Abyei’s demilitarised status are unacceptable: UK statement at the UN Security Council",
-          "fuente": "GOV.UK FCDO",
-          "url": "https://www.gov.uk/government/speeches/continued-violations-of-abyeis-demilitarised-status-are-unacceptable-uk-statement-at-the-un-security-council",
-          "traducida": false
-        },
-        {
-          "id": "27264f7f98e6df5016de",
-          "fecha": "2026-11-05T10:38:42+00:00",
-          "titulo": "North Korea tells EU to 'mind its own business' after draft UN resolution on human rights",
-          "fuente": "Euronews",
-          "url": "https://www.euronews.com/2026/11/05/north-korea-tells-eu-to-mind-its-own-business-after-draft-un-resolution-on-human-rights",
-          "traducida": false
-        }
-      ]
-    },
-    {
       "id": "suramerica",
       "titulo": "Sudamérica: integración y política exterior",
       "cantidad_archivada": 352,
       "nuevas_24h": 4,
-      "anteriores_24h": 8,
+      "anteriores_24h": 6,
       "dias_con_registros": 30,
       "fecha_ultima": "2026-11-14T13:18:32+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -1762,6 +1510,258 @@
           "titulo": "OPEC keeps non-OPEC+ supply growth forecast for 2026",
           "fuente": "TASS",
           "url": "https://tass.com/economy/2216321",
+          "traducida": false
+        }
+      ]
+    },
+    {
+      "id": "onu",
+      "titulo": "Naciones Unidas y multilateralismo",
+      "cantidad_archivada": 82,
+      "nuevas_24h": 4,
+      "anteriores_24h": 3,
+      "dias_con_registros": 25,
+      "fecha_ultima": "2026-11-14T09:10:07+00:00",
+      "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
+      "publicaciones": [
+        {
+          "id": "c6c97fbe7d6e1914cb67",
+          "fecha": "2026-11-14T09:10:07+00:00",
+          "titulo": "South Sudan postpones first national elections until February",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/south-sudan-postpones-first-national-elections-until-february/article71701304.ece",
+          "traducida": false
+        },
+        {
+          "id": "ae850768bfab29bc41e5",
+          "fecha": "2026-11-14T00:30:00+00:00",
+          "titulo": "‘We’re not the United Nations’: Rubio blasts global elite in speech - Politico",
+          "fuente": "POLITICO US",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbS1VaE54cTQ4X2ZiMzA2aVhGdTNWWXlheVRIM0ZOWmJ2ZXdCRWZpVGFrZlhDa3l1MExMZ3dRZFdpaG44SkFBVVExLUFhbm9kQmtRSHRZYVViczJESU5JcDQ2c080aU5vVU1ERUVhS3J1QTZ4WmJsTkg3ZXFUeW5neW1vc24zWDJmWXF5ZGNwb21nS0VmM1FMTmh3dGRUVnFKVHlkRXk1d2NWVHliak5SR2pJVQ?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "426806a06a50e9762b60",
+          "fecha": "2026-11-13T21:42:23+00:00",
+          "titulo": "The United Kingdom stands in solidarity with our Gulf partners: UK statement at the UN Security Council",
+          "fuente": "GOV.UK FCDO",
+          "url": "https://www.gov.uk/government/speeches/the-united-kingdom-stands-in-solidarity-with-our-gulf-partners-uk-statement-at-the-un-security-council",
+          "traducida": false
+        },
+        {
+          "id": "cd89019bc1ec041341cc",
+          "fecha": "2026-11-13T19:14:58+00:00",
+          "titulo": "EU not even invited to Ukraine talks yet — Russian security official",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2218033",
+          "traducida": false
+        },
+        {
+          "id": "2d5945ca27aed4fa3246",
+          "fecha": "2026-11-13T16:58:15+00:00",
+          "titulo": "Pakistan calls for 'immediate' end to Houthi attacks on Saudi Arabia at UN",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/pakistan-calls-for-immediate-end-to-houthi-attacks-on-saudi-arabia-at-un/article71699212.ece",
+          "traducida": false
+        },
+        {
+          "id": "61b7707fea7f2d976910",
+          "fecha": "2026-11-13T09:00:00+00:00",
+          "titulo": "Spain’s Sánchez laments potential for ‘planetary annihilation’",
+          "fuente": "POLITICO Europe",
+          "url": "https://www.politico.eu/article/sanchez-laments-potential-for-planetary-annihilation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "traducida": false
+        },
+        {
+          "id": "b7c0e4dec30f9afb0676",
+          "fecha": "2026-11-12T20:53:40+00:00",
+          "titulo": "This resolution demonstrates this Council’s determination to take decisive action against reckless attacks by the Houthis in Yemen: UK Explanation of Vote at the UN Security Council",
+          "fuente": "GOV.UK FCDO",
+          "url": "https://www.gov.uk/government/speeches/this-resolution-demonstrates-this-councils-determination-to-take-decisive-action-against-reckless-attacks-by-the-houthis-in-yemen-uk-explanation-of-vo",
+          "traducida": false
+        },
+        {
+          "id": "c2223a92b6451f4ad548",
+          "fecha": "2026-11-12T14:45:26+00:00",
+          "titulo": "CSTO states to jointly train cybersecurity specialists — Russian Foreign Ministry",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2217247",
+          "traducida": false
+        },
+        {
+          "id": "138ca8c7f9ad3f0098b5",
+          "fecha": "2026-11-11T19:14:13+00:00",
+          "titulo": "CSTO leaders adopt Counterterrorism Strategy through 2030",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2216599",
+          "traducida": false
+        },
+        {
+          "id": "72cd26866b50391ed3a0",
+          "fecha": "2026-11-11T18:16:38+00:00",
+          "titulo": "Situation in special op zone significantly changed since Anchorage meeting — Shoigu",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2216581",
+          "traducida": false
+        },
+        {
+          "id": "24e15c7e0480ff462d61",
+          "fecha": "2026-11-11T17:46:44+00:00",
+          "titulo": "Iran to hit US bases in Europe if attacks come from there — Security Council secretary",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2216573",
+          "traducida": false
+        },
+        {
+          "id": "51e0597d757bd76b6501",
+          "fecha": "2026-11-11T15:42:47+00:00",
+          "titulo": "Tehran grateful for historic stance taken by Russia, China at UN Security Council",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2216511",
+          "traducida": false
+        },
+        {
+          "id": "6f558549e5a743d934d4",
+          "fecha": "2026-11-11T15:13:39+00:00",
+          "titulo": "Armenia deprived of voting rights in CSTO over unpaid debts",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2216471",
+          "traducida": false
+        },
+        {
+          "id": "8e32bbd13a75bc80293c",
+          "fecha": "2026-11-11T10:28:48+00:00",
+          "titulo": "Tehran has no plans to give up enriched uranium — Security Council secretary",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2216049",
+          "traducida": false
+        },
+        {
+          "id": "afcfaff8f44ee3e2494f",
+          "fecha": "2026-11-11T09:11:32+00:00",
+          "titulo": "World leaders begin UN climate talks amid concerns action on global warming too slow",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/africa/article/3374065/world-leaders-begin-un-climate-talks-amid-concerns-action-global-warming-too-slow",
+          "traducida": false
+        },
+        {
+          "id": "a54cf107d2a1889f5dd9",
+          "fecha": "2026-11-10T20:04:48+00:00",
+          "titulo": "Marruecos proclama en la ONU que el Sáhara Occidental seguirá bajo su soberanía “hasta el fin de los tiempos”",
+          "fuente": "El País",
+          "url": "https://elpais.com/internacional/2026-11-10/marruecos-proclama-en-la-onu-que-el-sahara-occidental-seguira-bajo-su-soberania-hasta-el-fin-de-los-tiempos.html",
+          "traducida": false
+        },
+        {
+          "id": "4f2a1c64af7887193af0",
+          "fecha": "2026-11-10T17:23:27+00:00",
+          "titulo": "Iran yet to receive US response to its conditions — National Security Council secretary",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2215705",
+          "traducida": false
+        },
+        {
+          "id": "47cc73907dc9c50c91b1",
+          "fecha": "2026-11-10T17:16:27+00:00",
+          "titulo": "Iran's Supreme National Security Council says Tehran not in talks with Washington",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2215701",
+          "traducida": false
+        },
+        {
+          "id": "6292e6fd4493f7563436",
+          "fecha": "2026-11-10T17:04:02+00:00",
+          "titulo": "South Sudan's authorities must allow UNMISS to operate without obstruction: UK statement at the UN Security Council",
+          "fuente": "GOV.UK FCDO",
+          "url": "https://www.gov.uk/government/speeches/south-sudans-authorities-must-allow-unmiss-to-operate-without-obstruction-uk-statement-at-the-un-security-council",
+          "traducida": false
+        },
+        {
+          "id": "78c8d7be351ec3941c93",
+          "fecha": "2026-11-10T09:52:40+00:00",
+          "titulo": "Iran seeks deal with US, timing of conflict’s end remains unclear — Trump",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2215387",
+          "traducida": false
+        },
+        {
+          "id": "f2809e1f41f3995f1f79",
+          "fecha": "2026-11-09T21:23:15+00:00",
+          "titulo": "Turkey: Delegates arrive in Antalya as COP31 climate talks begin",
+          "fuente": "Euronews",
+          "url": "https://www.euronews.com/video/2026/11/09/turkey-delegates-arrive-in-antalya-as-cop31-climate-talks-begin",
+          "traducida": false
+        },
+        {
+          "id": "e0500c3f265289ea14e1",
+          "fecha": "2026-11-09T18:53:19+00:00",
+          "titulo": "Brazil’s Lula heads to Cop31 on first trip since re-election",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/americas/article/3373847/brazils-lula-heads-cop31-first-trip-re-election",
+          "traducida": false
+        },
+        {
+          "id": "6a08bee58c02364ce83d",
+          "fecha": "2026-11-09T17:26:28+00:00",
+          "titulo": "Russia does not seek armed confrontation with Europe — diplomat",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2215015",
+          "traducida": false
+        },
+        {
+          "id": "a1d655b295370d5ebf5d",
+          "fecha": "2026-11-09T17:24:16+00:00",
+          "titulo": "UNSC meetings on Ukraine in no way bring conflict settlement closer — Russian diplomat",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2215013",
+          "traducida": false
+        },
+        {
+          "id": "2d1b8618313cd653d9a0",
+          "fecha": "2026-11-09T16:27:31+00:00",
+          "titulo": "Along with our partners we will stand with Ukraine for as long as it takes: UK statement at the UN Security Council",
+          "fuente": "GOV.UK FCDO",
+          "url": "https://www.gov.uk/government/speeches/along-with-our-partners-we-will-stand-with-ukraine-for-as-long-as-it-takes-uk-statement-at-the-un-security-council",
+          "traducida": false
+        },
+        {
+          "id": "0efb1de2f2dc092fc319",
+          "fecha": "2026-11-08T14:18:23+00:00",
+          "titulo": "Iran’s Supreme National Security Council endorses agreement on Rasht-Astara railway",
+          "fuente": "TASS",
+          "url": "https://tass.com/economy/2214479",
+          "traducida": false
+        },
+        {
+          "id": "0c2c1a331fb8b35fa4fd",
+          "fecha": "2026-11-08T10:01:49+00:00",
+          "titulo": "At least 21 dead after migrant boat capsizes off Senegal, authorities say",
+          "fuente": "Euronews",
+          "url": "https://www.euronews.com/2026/11/08/at-least-21-dead-after-migrant-boat-capsizes-off-senegal-authorities-say",
+          "traducida": false
+        },
+        {
+          "id": "f4c51b00341b65b8d7e6",
+          "fecha": "2026-11-06T15:42:18+00:00",
+          "titulo": "Iran delivers secret Khamenei message to Putin as Moscow pushes gas pipeline deal",
+          "fuente": "Euronews",
+          "url": "https://www.euronews.com/2026/11/06/iran-delivers-secret-khamenei-message-to-putin-as-moscow-pushes-gas-pipeline-deal",
+          "traducida": false
+        },
+        {
+          "id": "bda960726fe48dac7d4e",
+          "fecha": "2026-11-05T16:11:59+00:00",
+          "titulo": "Continued violations of Abyei’s demilitarised status are unacceptable: UK statement at the UN Security Council",
+          "fuente": "GOV.UK FCDO",
+          "url": "https://www.gov.uk/government/speeches/continued-violations-of-abyeis-demilitarised-status-are-unacceptable-uk-statement-at-the-un-security-council",
+          "traducida": false
+        },
+        {
+          "id": "27264f7f98e6df5016de",
+          "fecha": "2026-11-05T10:38:42+00:00",
+          "titulo": "North Korea tells EU to 'mind its own business' after draft UN resolution on human rights",
+          "fuente": "Euronews",
+          "url": "https://www.euronews.com/2026/11/05/north-korea-tells-eu-to-mind-its-own-business-after-draft-un-resolution-on-human-rights",
           "traducida": false
         }
       ]
