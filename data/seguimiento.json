@@ -1,17 +1,25 @@
 {
-  "actualizado_utc": "2026-11-14T17:22:06.849199+00:00",
+  "actualizado_utc": "2026-11-14T18:26:35.206273+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 2372,
-      "nuevas_24h": 83,
-      "anteriores_24h": 99,
+      "cantidad_archivada": 2373,
+      "nuevas_24h": 70,
+      "anteriores_24h": 105,
       "dias_con_registros": 30,
-      "fecha_ultima": "2026-11-14T16:58:40+00:00",
+      "fecha_ultima": "2026-11-14T17:44:51+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "54ff11ffa0a80be4317f",
+          "fecha": "2026-11-14T17:44:51+00:00",
+          "titulo": "Air defenses downed 39 Ukrainian UAVs over Russian regions during day — Defense Ministry",
+          "fuente": "TASS",
+          "url": "https://tass.com/defense/2218213",
+          "traducida": false
+        },
         {
           "id": "82f7721f81d234153370",
           "fecha": "2026-11-14T16:58:40+00:00",
@@ -243,23 +251,15 @@
           "fuente": "Euronews",
           "url": "https://www.euronews.com/2026/11/14/us-floats-ukraine-ceding-land-to-russia-in-exchange-for-nato-membership-zelenskyy",
           "traducida": false
-        },
-        {
-          "id": "0b6c33c89507f675de87",
-          "fecha": "2026-11-14T10:17:19+00:00",
-          "titulo": "Ukraine not going to enshrine neutrality in constitution, Zelensky says",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2218171",
-          "traducida": false
         }
       ]
     },
     {
       "id": "india-asia",
       "titulo": "India y Asia-Pacífico",
-      "cantidad_archivada": 1576,
-      "nuevas_24h": 51,
-      "anteriores_24h": 67,
+      "cantidad_archivada": 1583,
+      "nuevas_24h": 55,
+      "anteriores_24h": 68,
       "dias_con_registros": 30,
       "fecha_ultima": "2026-11-14T15:31:02+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -289,6 +289,14 @@
           "traducida": false
         },
         {
+          "id": "85286cff556035d07448",
+          "fecha": "2026-11-14T14:25:00+00:00",
+          "titulo": "Canada freezes intake cap for international students till 2029 in new immigration plan - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRGd4am5aeHNXRVJzUV9VdGhiWmNmN1dYSjVaUHo3d3NQZFBWU19GYklKOXhQTHJUOE9lRUNPNW1fSmRIUkJ4Q05BZmhsZ2dWeXNnZWxKWTNnZGlrT05FeUxjRWptREpTd3FyazFkY0FuTjlSM3lLQzRqdi1mQUM2Z1k4YUlGR0t5enFNRVY0c0FYVkxyc1hIYjdHUl9rbW9WVWNaYVVrMVdVWi10akdteE5YRGFWYmNmVDlab3hyN2tIenk5MGNMZVU5OFdXVThWZ2hOV0RXbVprSUluSFZxeXBCZndBZGfSAe4BQVVfeXFMTjlfa2NKUjA3UVBtRmFTcnRsdUFOaW9WSDdsZXo0Yk4yd1FROGMwaFpLaEN6S2VkVXRPamlVZ0ZmRThFLXRNS1VEQVFuQ2oyNUduVjVEX2dYQVVMU3EwN01id3BwQkZyQjFabnpaUWhSb003bDFSMzJkaHhmcVhjOGdSTlY1QmJ2cDVTekdKSGI5WVJrQzhDOTQyWmRQRzRnMWkyTm5XZWZOX2t0cDFoMEtFNHpmNkxKYWJmSFF4NHZDRWdGd2xoaXNzRTJzeEEtOXpyMHhHend1V28zc2Rjd1JFTVFzcF9CRmV2VFlrdw?oc=5",
+          "traducida": false
+        },
+        {
           "id": "a801a85929d376a611f2",
           "fecha": "2026-11-14T14:08:40+00:00",
           "titulo": "‘Thought it was joke’: Ex-Belgium coach on Balogun’s World Cup red card reversal - The Indian Express",
@@ -313,11 +321,43 @@
           "traducida": false
         },
         {
+          "id": "4042427606a973c1c882",
+          "fecha": "2026-11-14T13:44:09+00:00",
+          "titulo": "Alexander Zverev becomes world No. 1 amid doubts over how he got there - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOVJDVEpsOEhXSGtZVjBaUFV4RktiNV9ncXJReVVyN01VRWFRT1BwYnk1T25rYjNDOFNjWVJLWTZyTERHYi1PNFQ4dEpfMkVEV1ZtOEdoVVl2VjU4RDVHMnZ5dWMxbExNNEdmR1dDOUZQcEc0aURUOFhJS2dUQ0p5WWljVnR6eVJQbUhGeEpoVnhvSllMVm5XZ3RWeGdxa1NCS2xicWt6ZC1McHhKX0FESkV0bjgtSTJZ0gG_AUFVX3lxTFBvZVNRd2NkbW9MaGU2dFVIZ0hXblU4OHVJZEs4NmRYTllJZWtuSU9yaU1nMFNuM1Jxb0sySHhFSkVvd1NVQjlhMmFPdHBQMTdXRHFRaHVhQXNmdHJrT0lPSmttWDdFcWRLRV83eE5XZkw0dG5YVEx3dkc3Y3pDcC05WTl3Y240bG1RcE5OemhYSmFUVGNWaUVGbkljZEI3MU42R3ZwUEsybmtFajIxUDJkVXJjTUY2cnh5WE04bVhJ?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "0fcef43dcb30e6bff767",
+          "fecha": "2026-11-14T13:30:38+00:00",
+          "titulo": "Art and Culture, News on Art and Culture, Articles on Art and Culture - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41VVd0Rmk1NkZ6U1FCMlptek9KalZHX1pIUVpJczNWSFAwOVpRRFFDUXVwODFaYTdjSEU0ZC1fdENCY0QyOXI3emVEZThpLVg4U3lLT0lrem44ZWVYX2djR1p6Zlc3N2lkbTRkdQ?oc=5",
+          "traducida": false
+        },
+        {
           "id": "5e2ae22c2b214d616f7d",
           "fecha": "2026-11-14T13:28:22+00:00",
           "titulo": "Kuldeep Yadav to play Mushtaq Ali Trophy as Brar replaces him in Tests - The Indian Express",
           "fuente": "The Indian Express",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS1l5UFROcnVIU19XTVZlQndxUjk0eW5JeDMyUFR6ZjZTMVpKaFVVQVlOdlFJMF9telBiYkxaVjU2XzJzWlhQeVp0a01XcWtOY0gtdlJXRmVDLVZLSEFGR1pUU3hJUzItcHd6cE1jd1A1SWxjX3FkNUtHSUdXcThud1NpdG43VHZYSFRIcU5Qc2cxd25TMkg5Ry11TmgwWjBJSm9QNEx1NWJHbEhfU04zVHVVTk5yNXd5QVRJ0gHCAUFVX3lxTFBqMDBrOVpMRVJ1UlNfRGFSaEdWczBRTlozUnBmZ2lLZktFbGhLNTBCcEtybXdKUjJVY3hQOFNJVlFJcUxBcGhNYmR1WEstSzhYdllqYjRTN2pYS2VxVS1MaElzYUViVXJjc3lOcHptSlJvSC1LY1BBelZrU3NzMENRZlJrc05PM3lsZ1BXdnpkSzNqbFJCdDNQQWQ1TkQ3a0RBS1ByV3c2dWVKa3RCTkZjaUxSZldJZUM0bGYtN3RVS3hn?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "9c288346af01c583a19f",
+          "fecha": "2026-11-14T13:14:54+00:00",
+          "titulo": "India defeat Pakistan by 1 wicket to clinch U-19 Asia Cup title - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUTc4Nk4zT3BXQnFOQ0RkOTBCQVM3R2xmdnIxQ2lqdkFyVWVSWUJnb0JXeHhQRmIxMTlmcHo1V3U5Y2syV3Fxd0U0VFRIYnNNT1NEX09GbGNsZXVfRWpRZHEzU3BUUS12eWlzeTN1N1pDR3o0ZThlWXNmbHZtRTFXWFZNWjZpSHNfV1A3TWpaQ3pyc2pKekpFRXF1anNjZ3A0WGNabUhfTlhIel9M0gGzAUFVX3lxTE5za1pvSzNLRHB0dTVpQ0w2QUdBWkkwTW5maF82aXI4QnNzamFFeDJLYl9XNm1uS2x0V0JmczU1UHpVR2tST1NYRk5Cc0diUWp1SHFMTE9zcFVzWDZNYlR2ZU1OWnc5ZFBVRXpnQ1hvZVBGM0hyaGt3cnMxaEFNUUNOYUlhOHJzY0NLaHZmcHJKRk5Pak8zX2VIcGQ3Q091dFdSWGRqR00tajdnR1RMRUZZT2NR?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "196470d590f550d2b970",
+          "fecha": "2026-11-14T13:08:19+00:00",
+          "titulo": "‘Opposition’s fight rooted in truth, non-violence’: Rahul Gandhi at Hyderabad Bharat Summit - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNVgyckFhZWNwMEtfQVJabTZoMmJMdmMxUms1cDFKeUVsTi1jaGpSVW1QeEQwQWxRam5CRllDR0JuM1FGQ0F2Q2NlREVXOE1Cd09UWjFJaVJteHM0QlFQd0J5Q3UxTTJtc1hFTmVzUzlPMVRTWXA0QkwxSmdYTC1OUlZYSnFfY1JjSVhsVFRXT2pJVXpsd2FwakVfSnZPU2dUM3hrLTdqd09OWTlYMk5TYmZBMWVZNmZtbUdYaVExckdsZDg1WGJHZU5OU3RUY3ph0gHXAUFVX3lxTE8zdURUMWFJM0hYUmFKTE9nMFpSUUQzVnNYYkdTTVhSUXcyZFk2cDFmYjdxQ056cTktdC1GUUk0dUFsQjJCN2JkSHFJNjJBbmphMTFVZjAtcjJUd1pXV2dhRUYwRkRhb25ySktaT1ZRLUxMb2RhNDBDNldJS3Fyb0IzRGZ2dE5jNTRac2huaV9UNTBlZHhxZkRIRktwMjd0UGtEaFo5TWpEQXlnRjJ4ZmczSG1tZC1wcmN1UDVLTkRKeEo3dG5JVWJRRUVQOHdDenZwNVlqd3Q4?oc=5",
           "traducida": false
         },
         {
@@ -366,6 +406,14 @@
           "titulo": "Rohit Sharma outlasts the selector who wanted him gone, but runs must follow - The Indian Express",
           "fuente": "The Indian Express",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcGZSZV95cDBlVXZHWmRidURaNEdIMnJJcUNVMFlFcGVjMkRLT2dZYnN4WU9YLVdkRloxSjNZWHVCRmxpOEVXZV9RUHZzQTVMZm5FaTZ6dEpiVnQtOGFaZXh6cmdQMS1YMldYTFplNlNjcE9idVBfRmlGV2dLaU43cGVZc2FXQ1psdjRWekFWdXl4YmdPcGNmQ3NubG9jaUtiZGdvOWxUYVpBTDk1VE1jY2JJMHU4M0UzMnBJc2d30gHEAUFVX3lxTE1lY1FVbUljYWdpUGp6djdlTVpXR2lLN0V4V2hqUUpQTFVOQXdveWdSeTNlbjQzakxZUXBlTGVRNzkwVWpLWWxlYi14NDYyWHBZNlB0TFIxTWE1b2lvTDg0LXE1amo0elJzNENFeWFXU3lYdUZtbWhkN09FSGdYWkpCV1czS3JLYzR0cHRPQ1BaSElEWUE2ZG1XeXVkTXlzS19uTDF3TF9Jd0VRdXFmWnNoY3poZTNLLVNYQnB2YmFEaEE5ZEg?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "22378d4d96e790739368",
+          "fecha": "2026-11-14T10:44:01+00:00",
+          "titulo": "‘Vicky Kaushal is the peace to my hysteria,’ says Katrina Kaif: ‘He’s incredibly supportive’ - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQd3czR3lGcXJ1SkVuOGZpcDQtLXlkUUJsVVRCNWxJT2JiVHVoODJwQTZzSUEzSkdwX1IxTC1yWXZ0VDVNU2NnbVQ5MXJhby1JVy1vTGdYM3lkMG94QjlLMi1fZDZ2bmVoUk50b0xEaGk3bk44UkVrWDg5R1lpWGRtRENRb3lFMkI3ZDRuaEZDYlU2VF91Ymd4LXlZZjlvWENpTC1lX3J3Nks2S0tvTTNCZ1djUi1saE9GeFE3Q0xwOGphZ1kxXzBFdzQ4aUNtQzjSAdYBQVVfeXFMUGkxTWl1dkphay1iNG5HLVpmMXFEZm00TUJjZjZuam4yMS0zeFZNb3E4bmlCYkFKMkFDX05ENS1Ub09DSWFsNzlRdENUcDNlQkR2MDdjT1Zock9UeV9rdUlNbkRoeklxWEV4Q1gxYlZIZExHQUZ4S01qazV1UGoxaUxZYU9IN01jOUlpci1tVHlKR3BoX2ROUjgzVDREN01QUjdSMG1XMjB0X0xCVGdBYUxzZTN4WHl5TFBHQmF0MUJiTGJ4N1RSb2czT2E0bTlUZjRQb21zUQ?oc=5",
           "traducida": false
         },
         {
@@ -455,67 +503,27 @@
           "fuente": "The Indian Express",
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQjhnalp4VzlONlhwLUt1NG9na0RabGVkNzRjMEJNVmNPcVIzdlItdkh3WGhXS1UzbzR6and1akp5R1huQnMwSmlBN1FGQWxsUnk5TUctNjNWT2UtcEY4UFNDbUtPVU5ET3YxRnpUVGoxd2VVZU82RFNlT25lMWVuNzRKZUhCdUtGbXE4Y01HcDB3d3ZzMHFxbU1mTF85TEZtYzBkbFU1bVZVdVJ2Q3I1MWZKTk5SQ2Zvd1Zzbm0zTVZHZEJTUEJaUkhzU1AzN21qUG1yc2hCUFlOQk1FVm9j0gHmAUFVX3lxTE93WFFIMzg3eXFTTUl1VUJGMmhacUhHb01KWDFnWmw1RGRid3ZvQ2lwWElnMFhLd0ZoS2RYN3BRY1Fma29VOURPVEVOY0liWlcyeV8tMUJheTdoX05KNjlhNktLZmY2WGFhUzJFY2N0TzlTUDdZa2xzRV9nYzlibUdIamYxNkVBWlhFd29oNWJ4U3VWdmxDd1VaeHlqaktqM3ZNZGhTVlJ2SjRjSWd6b0VVcVlGNmhueGNKR3cwM0ZKTlJObUdMd202Z2Riand2aEc0TDgzUVVWX1REY1QxcTJTYVRIVmFn?oc=5",
           "traducida": false
-        },
-        {
-          "id": "90c1ceb8c7dc200926ba",
-          "fecha": "2026-11-14T07:02:34+00:00",
-          "titulo": "Ahead of ATP Finals, World No. 1 Zverev faces new lawsuit on domestic abuse case - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS1ZoaGI5WXAwM0JjUUN3aVJGRkd2UkNjYXBPV3RPUHFQMUJGeVNiWFY0ZW1ERUhYMWl1MUZDOTVrLUVJb0psaWdYRzVneUlNM3BnNldodGF2dHRlM3hyOF9ZQm4tNHNBSkk3Mm5oZTZhcW5uMzJIUGlrWkJ1ZFNsclFtcS1TT0dNNVFWemMzbDUwUVdvdlZwd05WMDJJX3JhMEJ0MndWUnlVRnNIUDN4M1hGcVVhNzBPOFJr0gHCAUFVX3lxTE9tUjNOMF9ILThwOUVfVXBHbzJNNjQ5QzB3U0tJVVczNm8zTUFsWEw5d21FVWt2dlFKUGJSbW9wdlpCN2dxSThnQTM4Mk91MUVsaGE3OHlYU1BHN0dkREJrVmRnTHFkTE1PNGNGdlUwOGlJbThtSGIyS043amtFVHJKU3h0VVNJeExQUEEtT056NEotZXFMQlp5OFV4ZjZzNUU2YXJWRUhiVGdQQnc2X2ZEVzJUeklKV0xVMm5jclZyeTF3?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "2ee38773ab43eaeddf01",
-          "fecha": "2026-11-14T06:58:05+00:00",
-          "titulo": "Sai Pallavi reveals what keeps her grounded: ‘I started thinking about how Sita Maa would react’ - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQzg2WWFyTVNXRVFoRGpDM2N4TTQwZHU0dDIyVEQ0bHVaYnNXV1lsYkFHM3ppNnJVN2V3NGJIaEc0NUl1U2xyRXVueTNWa1dSeldkV1c0clAxTW1oQmtOM2QyODNSNUxBczdBUG5NYzJtUkVfY2NZYmJoQklQakNIMFBRdlpibDVKVk5wbW5XNjU3ZXVaV3cyUXZUVFF3QldHM09XZVVlaXJ5WHlKMmfSAbQBQVVfeXFMT21ZUkF2SWVoY052alhZd2NLejUtS0MzM2xXX1I2Q2FTaHZZRlFvMExPeDA0bjRMcXJWMWpSOFB3RFdnVmVCdWNVRVVacWZYcVM4bmhLMUozRUFERXlNWlZfblRwT1lqbjY5dGlJNmRNekRITEJ3a2Z0bzhSLVRTY2FTbGFNM2I1VlVNc1ZydU9haWFwSWVzby0zbEtSejFfanhCdVBmOVNDOHBxZFpuendaM0dY?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "f80e3820d5f147a3b480",
-          "fecha": "2026-11-14T06:32:35+00:00",
-          "titulo": "No locus standi: Indian envoy hits back at USCIRF for remarks on Sharjeel Imam",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/indian-envoy-slams-uscirf-over-sharjeel-imam-remarks-says-panel-has-no-locus-standi/article71700860.ece",
-          "traducida": false
-        },
-        {
-          "id": "d6868e85ad04edf2b743",
-          "fecha": "2026-11-14T06:30:59+00:00",
-          "titulo": "India’s Bollywood boosts security as fears of criminal gangs rise",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/asia/south-asia/article/3374430/indias-bollywood-boosts-security-fears-criminal-gangs-rise",
-          "traducida": false
-        },
-        {
-          "id": "1ad1410f1a8a686a1d9c",
-          "fecha": "2026-11-14T05:54:46+00:00",
-          "titulo": "Sharad Kapoor breaks silence on viral video, appeals for work: ‘Money is not the issue’ - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdmJ4cXc2N1VPUVVCWE1TN1VKWkRjN0Z5VVA1TG1RUmV5N0hFUEs5T0wwMWpVME91V2Q3SVpDSVZmLUtKYnUtUFo0WjFSYkNIMFJFTWs5X19ueWdidGNsRTJmT2RCWnhSRTlDR2lnWEd5SVVpQTQ5LUtySFpOY1BoWjhUY3NHWmZuQkdjLVFzeEJ0b3NSZE0wbUJiOHNWMG9qb0FZV2dQbVpDTFl4TWpaUTNicUFVcFpaNER0dndmUW9qbGFxLTVn0gHOAUFVX3lxTE1HV1p4T19weVJDZXQwUGI2bjhLa3puUzJLRnZwdEZhWWo0d3Ita0Zmalh3LXVYb2J4eWR5MzNHaVhJbjBlcUVVYjF4ZzFuMXFaU0hRdTdyc2k2R2YzR3kwb1YtSGFFUUhiTzJOSDlLdzVQVHpHeEdsY2s1RDNrcDVrMzlLSVZrTzg1N0luR0tTcFFPY0lzWUtEOTYxUFM4RlhHWXRVN21OeWJ4bTRuTmdpMmZRZ3psUUxLOFc3M1J3OWpqR2xfbEhPOVNZYlVn?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "fd7d9d340eaa520cddb0",
-          "fecha": "2026-11-14T05:38:45+00:00",
-          "titulo": "A baby boy survived Kaziranga crash that killed 26. Where are his parents? - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaEpJbkk5R3RCVDVHcUFuVE5GcHNnWUxIbGk1WFh3WmpxdmJRaExsT2hGSF9rdVFIOFVkS3JzdlpzcUlRTlZGcU1pNjBPYmpvVzZfaGdhUWFNZ1N4Ym1XbFZuMjJ5QXZNbGRCQjc1dzZ4Z2VxbXZiTGxnTDBlb1BNZWtUS0VINjFUMzVNSmFKVEJucVZUb29DMnNtR0RtbnPSAaYBQVVfeXFMTmI5c0NDMnM4WHBkbVpEZ1dvUjQ3LUx2NHBhUV9LUFhMYXNWTkVJMGZsbGRFWmk3bkY4RkN5UTI1Ni12MVhxN1ZmekRrN0t3M1N4dE1zVzZ1MS1KZnV5YjZHeERLUHNLbXZaa3RxOTg4VnNMNjVRZVZzaVgyQUI1blM2Q1YyU1ZURGRJMkhjaXNicjAtVTEzXzl4a1VXQlNKZ0pOdVdUUQ?oc=5",
-          "traducida": false
         }
       ]
     },
     {
       "id": "oriente-medio",
       "titulo": "Oriente Medio: seguridad y diplomacia",
-      "cantidad_archivada": 1609,
+      "cantidad_archivada": 1611,
       "nuevas_24h": 23,
-      "anteriores_24h": 63,
+      "anteriores_24h": 58,
       "dias_con_registros": 30,
-      "fecha_ultima": "2026-11-14T16:49:20+00:00",
+      "fecha_ultima": "2026-11-14T17:19:00+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "7c4f22459e9e5daa6634",
+          "fecha": "2026-11-14T17:19:00+00:00",
+          "titulo": "COP31: Protesters, UN urge swift climate deal",
+          "fuente": "Deutsche Welle",
+          "url": "https://www.dw.com/en/cop31-protesters-un-urge-swift-climate-deal/a-79948501?maca=en-rss-en-world-4025-rdf",
+          "traducida": false
+        },
         {
           "id": "7b7ba90b95656a26bed7",
           "fecha": "2026-11-14T16:49:20+00:00",
@@ -637,6 +645,14 @@
           "traducida": false
         },
         {
+          "id": "ac10cf0b03e4ddc9c931",
+          "fecha": "2026-11-14T07:31:00+00:00",
+          "titulo": "Turkey uses espionage accusations to pressure government critics",
+          "fuente": "Deutsche Welle",
+          "url": "https://www.dw.com/en/turkey-uses-espionage-accusations-to-pressure-government-critics/a-79943768?maca=en-rss-en-world-4025-rdf",
+          "traducida": false
+        },
+        {
           "id": "59c4db105af8e5561bef",
           "fecha": "2026-11-14T05:00:31+00:00",
           "titulo": "Face à Israël et aux Etats-Unis, l’Iran resserre ses liens avec la Russie",
@@ -739,22 +755,6 @@
           "fuente": "Al Jazeera",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/jerusalem-daily-baby-dies-from-cold-in-gaza?traffic_source=rss",
           "traducida": false
-        },
-        {
-          "id": "a423a00e9d8456900026",
-          "fecha": "2026-11-13T16:22:33+00:00",
-          "titulo": "US Treasury warns against rate hikes during US-Iran war energy ‘shock’",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/11/13/us-treasury-warns-against-rate-hikes-during-us-iran-war-energy-shock?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "054a434c7d2c7baa141a",
-          "fecha": "2026-11-13T15:59:42+00:00",
-          "titulo": "Mossad chief arrives in Washington for consultations on Iran — media",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2217953",
-          "traducida": false
         }
       ]
     },
@@ -763,7 +763,7 @@
       "titulo": "Competencia estratégica Estados Unidos–China",
       "cantidad_archivada": 188,
       "nuevas_24h": 20,
-      "anteriores_24h": 16,
+      "anteriores_24h": 15,
       "dias_con_registros": 27,
       "fecha_ultima": "2026-11-14T16:58:40+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -1014,8 +1014,8 @@
       "id": "union-europea",
       "titulo": "Unión Europea y relaciones exteriores",
       "cantidad_archivada": 651,
-      "nuevas_24h": 15,
-      "anteriores_24h": 17,
+      "nuevas_24h": 13,
+      "anteriores_24h": 18,
       "dias_con_registros": 30,
       "fecha_ultima": "2026-11-14T15:34:54+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -1258,258 +1258,6 @@
           "titulo": "Pro-Palestinian group seeks ban on Israeli property fair in Paris",
           "fuente": "South China Morning Post",
           "url": "https://www.scmp.com/news/world/europe/article/3374269/pro-palestinian-group-seeks-ban-israeli-property-fair-paris",
-          "traducida": false
-        }
-      ]
-    },
-    {
-      "id": "suramerica",
-      "titulo": "Sudamérica: integración y política exterior",
-      "cantidad_archivada": 352,
-      "nuevas_24h": 4,
-      "anteriores_24h": 6,
-      "dias_con_registros": 30,
-      "fecha_ultima": "2026-11-14T13:18:32+00:00",
-      "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
-      "publicaciones": [
-        {
-          "id": "43f497182f301513df01",
-          "fecha": "2026-11-14T13:18:32+00:00",
-          "titulo": "Sánchez pide “el voto europeísta” para frenar a Abascal",
-          "fuente": "El País",
-          "url": "https://elpais.com/espana/elecciones-generales/2026-11-14/sanchez-pide-el-voto-europeista-para-frenar-a-abascal.html",
-          "traducida": false
-        },
-        {
-          "id": "e72f028430d7b6b65b8b",
-          "fecha": "2026-11-13T20:28:20+00:00",
-          "titulo": "Pope thanks crowds on emotional return to ‘second home’ in Peru’s Chiclayo",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/13/pope-thanks-crowds-on-emotional-return-to-second-home-in-perus-chiclayo?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "cc77c38ca8f56d4a9ecc",
-          "fecha": "2026-11-13T18:34:45+00:00",
-          "titulo": "The Peruvian city that has embraced Pope Leo as one of its own",
-          "fuente": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
-          "traducida": false
-        },
-        {
-          "id": "1998622e0e074d43be08",
-          "fecha": "2026-11-13T18:05:38+00:00",
-          "titulo": "Peruvians flock to mass with Pope Leo in city he served as bishop",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/world/americas/article/3374406/peruvians-flock-mass-pope-leo-city-he-served-bishop",
-          "traducida": false
-        },
-        {
-          "id": "eaa7f01a088f549bce57",
-          "fecha": "2026-11-13T08:11:29+00:00",
-          "titulo": "Peru: Pope Leo XIV leads youth prayer vigil at Lima's National Stadium",
-          "fuente": "Euronews",
-          "url": "https://www.euronews.com/video/2026/11/13/peru-pope-leo-xiv-leads-youth-prayer-vigil-at-limas-national-stadium",
-          "traducida": false
-        },
-        {
-          "id": "6d09fa3fe07dcc3dc660",
-          "fecha": "2026-11-13T07:54:05+00:00",
-          "titulo": "Pope Leo XIV denounces ‘machismo,’ demands women be protected in emotional return to Peru",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/pope-leo-xiv-denounces-machismo-demands-women-be-protected-in-emotional-return-to-peru/article71696760.ece",
-          "traducida": false
-        },
-        {
-          "id": "fb1e6cf7ad740e947b30",
-          "fecha": "2026-11-12T20:42:27+00:00",
-          "titulo": "US invests in Peru’s Callao as port battle with China’s Chancay megaport continues",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/us/diplomacy/article/3374267/us-invests-perus-callao-port-battle-chinas-chancay-megaport-continues",
-          "traducida": false
-        },
-        {
-          "id": "71fb71b7d93b6d347a3f",
-          "fecha": "2026-11-12T20:25:21+00:00",
-          "titulo": "What’s at stake in the renewed tensions over the Falkland Islands?",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/11/12/whats-at-stake-in-the-renewed-tensions-over-the-falkland-islands?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "073b6d17faa21a1541c4",
-          "fecha": "2026-11-12T19:50:49+00:00",
-          "titulo": "León XIV critica el machismo en Perú: “La violencia contra las mujeres hiere a toda la humanidad”",
-          "fuente": "El País",
-          "url": "https://elpais.com/america/2026-11-12/leon-xiv-critica-el-machismo-en-peru-la-violencia-contra-las-mujeres-hiere-a-toda-la-humanidad.html",
-          "traducida": false
-        },
-        {
-          "id": "5f9b14de06fa459c8480",
-          "fecha": "2026-11-12T17:24:08+00:00",
-          "titulo": "Au Pérou, Léon XIV, de retour dans sa « patrie », appelle les autorités à traiter les « événements du passé » avec « justice et sensibilité »",
-          "fuente": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/12/au-perou-de-retour-dans-sa-patrie-leon-xiv-a-appele-les-autorites-a-traiter-les-evenements-du-passe-avec-justice-et-sensibilite_6809138_3210.html",
-          "traducida": false
-        },
-        {
-          "id": "6a7227f5ab0cceb867ac",
-          "fecha": "2026-11-12T17:02:52+00:00",
-          "titulo": "Lula viaja a Madrid para hacer campaña con Sánchez tras su remontada en Brasil",
-          "fuente": "El País",
-          "url": "https://elpais.com/espana/elecciones-generales/2026-11-12/lula-viaja-a-madrid-para-hacer-campana-con-sanchez.html",
-          "traducida": false
-        },
-        {
-          "id": "c23303d5f51de77c48e1",
-          "fecha": "2026-11-12T17:00:04+00:00",
-          "titulo": "COP 31 : qu’attendre des négociations ?",
-          "fuente": "POLITICO Europe",
-          "url": "https://www.politico.eu/podcast/playbook-paris-podcast/cop-31-quattendre-des-negociations/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "traducida": false
-        },
-        {
-          "id": "40852a1724298b2d1d2f",
-          "fecha": "2026-11-12T15:30:00+00:00",
-          "titulo": "Call to Action Joint Statement on health and humanitarian access into Gaza",
-          "fuente": "GOV.UK FCDO",
-          "url": "https://www.gov.uk/government/speeches/call-to-action-joint-statement-on-health-and-humanitarian-access-into-gaza",
-          "traducida": false
-        },
-        {
-          "id": "60c14dc5628d1b4798bc",
-          "fecha": "2026-11-12T14:43:35+00:00",
-          "titulo": "Brazil intends to increase supplies of fertilizers from Iran — Lula da Silva",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2217245",
-          "traducida": false
-        },
-        {
-          "id": "76346d47ab7a06082b58",
-          "fecha": "2026-11-12T10:32:43+00:00",
-          "titulo": "Un exterrorista italiano se fuga en Buenos Aires descolgándose de un quinto piso para evitar ser extraditado",
-          "fuente": "El País",
-          "url": "https://elpais.com/internacional/2026-11-12/un-exterrorista-italiano-se-fuga-en-buenos-aires-descolgandose-de-un-quinto-piso-para-evitar-ser-extraditado.html",
-          "traducida": false
-        },
-        {
-          "id": "90409f3f7949a6852cc1",
-          "fecha": "2026-11-12T09:07:55+00:00",
-          "titulo": "Peru: Pope Leo XIV returns to his adopted homeland on historic visit",
-          "fuente": "Euronews",
-          "url": "https://www.euronews.com/video/2026/11/12/peru-pope-leo-xiv-returns-to-his-adopted-homeland-on-historic-visit",
-          "traducida": false
-        },
-        {
-          "id": "384b817dc7c7e1026c7e",
-          "fecha": "2026-11-12T09:00:13+00:00",
-          "titulo": "Pope Leo XIV welcomed by millions on return to his second home Peru",
-          "fuente": "Euronews",
-          "url": "https://www.euronews.com/2026/11/12/pope-leo-xiv-welcomed-by-millions-on-return-to-his-second-home-peru",
-          "traducida": false
-        },
-        {
-          "id": "68de82384ab494513e4a",
-          "fecha": "2026-11-12T07:37:42+00:00",
-          "titulo": "Pope Leo welcomed by millions in his second ‘homeland’ of Peru",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/12/pope-leo-welcomed-by-millions-in-his-second-homeland-of-peru?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "e7a20629e590c692d213",
-          "fecha": "2026-11-12T04:30:01+00:00",
-          "titulo": "El Papa contra los gritos",
-          "fuente": "El País",
-          "url": "https://elpais.com/opinion/2026-11-12/el-papa-contra-los-gritos.html",
-          "traducida": false
-        },
-        {
-          "id": "1f509ba5a09597592851",
-          "fecha": "2026-11-12T03:20:39+00:00",
-          "titulo": "León XIV en Lima: “Las guerras reclaman una diplomacia que respete el derecho internacional”",
-          "fuente": "El País",
-          "url": "https://elpais.com/america/2026-11-12/leon-xiv-en-lima-las-guerras-reclaman-una-diplomacia-que-respete-el-derecho-internacional.html",
-          "traducida": false
-        },
-        {
-          "id": "a3182a2562dac46b6fcb",
-          "fecha": "2026-11-11T23:41:00+00:00",
-          "titulo": "Pope Leo returns to Peru where he was once a missionary - CNN",
-          "fuente": "CNN",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSEpTWHYtd0VzeEtsYVdDUDZ3ZUJHbC1aVndvY0F1SnhFNHNXeU4zanBMTjlhVDFkU2xaLXVxdTJyWUwwOFU4SlhUbUQ0SGtHZ0hLV0dhYmpGczlPeFBicTRZb0ViN0gtNG4wTHVVNlhOaTdhbkpFVFJsLUt2bGVqUWdqQlhFQQ?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "ffea957c41531bf29ac4",
-          "fecha": "2026-11-11T22:50:37+00:00",
-          "titulo": "Two skulls likely belonging to enslaved people returned to Brazil after Harvard used them in eugenics studies",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/news/2026/nov/11/harvard-skulls-repatriated-brazil",
-          "traducida": false
-        },
-        {
-          "id": "040ab706dcacebba19ec",
-          "fecha": "2026-11-11T20:44:05+00:00",
-          "titulo": "Pope Leo draws 3-million-strong crowd at Argentina’s holiest shrine",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/world/americas/article/3374124/pope-leo-draws-3-million-strong-crowd-argentinas-holiest-shrine",
-          "traducida": false
-        },
-        {
-          "id": "7ba0cb86cd02fda00475",
-          "fecha": "2026-11-11T19:00:33+00:00",
-          "titulo": "Ex-member of radical Marxist group scales balcony, escapes house arrest in Argentina",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/11/red-brigades-leonardo-bertulazzi-escapes-house-arrest-argentina",
-          "traducida": false
-        },
-        {
-          "id": "d1dc0430a842ff1b3574",
-          "fecha": "2026-11-11T18:29:56+00:00",
-          "titulo": "Lula’s Turkey trot - Politico",
-          "fuente": "POLITICO US",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd2IxTzd6YXVJalQwb3RfWmY3QzNzTTBYYVZHRWFkR3liSW9WWnd4T0lBOGJHTUd3dTNqa2xoTDFEeWFfNlQ4dEdqbnlzVFBrV2NFTi1iM2V0dkRKQnYxZGJZaUNQTUlNeTlpU0hxdTZLVHhMWTRvVVhzTzJFb0h2RDZ4NHM5NFRLX0ZWcjVseEdncVU?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "cf2fc89481231d9afe39",
-          "fecha": "2026-11-11T16:05:45+00:00",
-          "titulo": "Argentinian lawyer mocks UK’s sovereignty claim in Falklands oil case",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/uk-news/2026/nov/11/argentine-lawyer-mocks-uk-sovereignty-claim-in-falklands-oil-case",
-          "traducida": false
-        },
-        {
-          "id": "b250bd27485b03aeef10",
-          "fecha": "2026-11-11T15:17:00+00:00",
-          "titulo": "Brazil electoral court fines Meta, sees no deliberate election bias",
-          "fuente": "Deutsche Welle",
-          "url": "https://www.dw.com/en/brazil-electoral-court-fines-meta-sees-no-deliberate-election-bias/a-79920780?maca=en-rss-en-world-4025-rdf",
-          "traducida": false
-        },
-        {
-          "id": "f6f2c356227b45bce379",
-          "fecha": "2026-11-11T14:56:11+00:00",
-          "titulo": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
-          "fuente": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
-          "traducida": false
-        },
-        {
-          "id": "4394bdf9db3878b9d9f1",
-          "fecha": "2026-11-11T14:47:03+00:00",
-          "titulo": "Brazil electoral court fines Meta, sees no deliberate election bias",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/brazil-electoral-court-fines-meta-sees-no-deliberate-election-bias/article71689942.ece",
-          "traducida": false
-        },
-        {
-          "id": "cb77be69ad83a5bc8721",
-          "fecha": "2026-11-11T13:47:36+00:00",
-          "titulo": "OPEC keeps non-OPEC+ supply growth forecast for 2026",
-          "fuente": "TASS",
-          "url": "https://tass.com/economy/2216321",
           "traducida": false
         }
       ]
@@ -1767,10 +1515,262 @@
       ]
     },
     {
+      "id": "suramerica",
+      "titulo": "Sudamérica: integración y política exterior",
+      "cantidad_archivada": 352,
+      "nuevas_24h": 3,
+      "anteriores_24h": 6,
+      "dias_con_registros": 30,
+      "fecha_ultima": "2026-11-14T13:18:32+00:00",
+      "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
+      "publicaciones": [
+        {
+          "id": "43f497182f301513df01",
+          "fecha": "2026-11-14T13:18:32+00:00",
+          "titulo": "Sánchez pide “el voto europeísta” para frenar a Abascal",
+          "fuente": "El País",
+          "url": "https://elpais.com/espana/elecciones-generales/2026-11-14/sanchez-pide-el-voto-europeista-para-frenar-a-abascal.html",
+          "traducida": false
+        },
+        {
+          "id": "e72f028430d7b6b65b8b",
+          "fecha": "2026-11-13T20:28:20+00:00",
+          "titulo": "Pope thanks crowds on emotional return to ‘second home’ in Peru’s Chiclayo",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/13/pope-thanks-crowds-on-emotional-return-to-second-home-in-perus-chiclayo?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "cc77c38ca8f56d4a9ecc",
+          "fecha": "2026-11-13T18:34:45+00:00",
+          "titulo": "The Peruvian city that has embraced Pope Leo as one of its own",
+          "fuente": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
+          "traducida": false
+        },
+        {
+          "id": "1998622e0e074d43be08",
+          "fecha": "2026-11-13T18:05:38+00:00",
+          "titulo": "Peruvians flock to mass with Pope Leo in city he served as bishop",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/americas/article/3374406/peruvians-flock-mass-pope-leo-city-he-served-bishop",
+          "traducida": false
+        },
+        {
+          "id": "eaa7f01a088f549bce57",
+          "fecha": "2026-11-13T08:11:29+00:00",
+          "titulo": "Peru: Pope Leo XIV leads youth prayer vigil at Lima's National Stadium",
+          "fuente": "Euronews",
+          "url": "https://www.euronews.com/video/2026/11/13/peru-pope-leo-xiv-leads-youth-prayer-vigil-at-limas-national-stadium",
+          "traducida": false
+        },
+        {
+          "id": "6d09fa3fe07dcc3dc660",
+          "fecha": "2026-11-13T07:54:05+00:00",
+          "titulo": "Pope Leo XIV denounces ‘machismo,’ demands women be protected in emotional return to Peru",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/pope-leo-xiv-denounces-machismo-demands-women-be-protected-in-emotional-return-to-peru/article71696760.ece",
+          "traducida": false
+        },
+        {
+          "id": "fb1e6cf7ad740e947b30",
+          "fecha": "2026-11-12T20:42:27+00:00",
+          "titulo": "US invests in Peru’s Callao as port battle with China’s Chancay megaport continues",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/us/diplomacy/article/3374267/us-invests-perus-callao-port-battle-chinas-chancay-megaport-continues",
+          "traducida": false
+        },
+        {
+          "id": "71fb71b7d93b6d347a3f",
+          "fecha": "2026-11-12T20:25:21+00:00",
+          "titulo": "What’s at stake in the renewed tensions over the Falkland Islands?",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/11/12/whats-at-stake-in-the-renewed-tensions-over-the-falkland-islands?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "073b6d17faa21a1541c4",
+          "fecha": "2026-11-12T19:50:49+00:00",
+          "titulo": "León XIV critica el machismo en Perú: “La violencia contra las mujeres hiere a toda la humanidad”",
+          "fuente": "El País",
+          "url": "https://elpais.com/america/2026-11-12/leon-xiv-critica-el-machismo-en-peru-la-violencia-contra-las-mujeres-hiere-a-toda-la-humanidad.html",
+          "traducida": false
+        },
+        {
+          "id": "5f9b14de06fa459c8480",
+          "fecha": "2026-11-12T17:24:08+00:00",
+          "titulo": "Au Pérou, Léon XIV, de retour dans sa « patrie », appelle les autorités à traiter les « événements du passé » avec « justice et sensibilité »",
+          "fuente": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/12/au-perou-de-retour-dans-sa-patrie-leon-xiv-a-appele-les-autorites-a-traiter-les-evenements-du-passe-avec-justice-et-sensibilite_6809138_3210.html",
+          "traducida": false
+        },
+        {
+          "id": "6a7227f5ab0cceb867ac",
+          "fecha": "2026-11-12T17:02:52+00:00",
+          "titulo": "Lula viaja a Madrid para hacer campaña con Sánchez tras su remontada en Brasil",
+          "fuente": "El País",
+          "url": "https://elpais.com/espana/elecciones-generales/2026-11-12/lula-viaja-a-madrid-para-hacer-campana-con-sanchez.html",
+          "traducida": false
+        },
+        {
+          "id": "c23303d5f51de77c48e1",
+          "fecha": "2026-11-12T17:00:04+00:00",
+          "titulo": "COP 31 : qu’attendre des négociations ?",
+          "fuente": "POLITICO Europe",
+          "url": "https://www.politico.eu/podcast/playbook-paris-podcast/cop-31-quattendre-des-negociations/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "traducida": false
+        },
+        {
+          "id": "40852a1724298b2d1d2f",
+          "fecha": "2026-11-12T15:30:00+00:00",
+          "titulo": "Call to Action Joint Statement on health and humanitarian access into Gaza",
+          "fuente": "GOV.UK FCDO",
+          "url": "https://www.gov.uk/government/speeches/call-to-action-joint-statement-on-health-and-humanitarian-access-into-gaza",
+          "traducida": false
+        },
+        {
+          "id": "60c14dc5628d1b4798bc",
+          "fecha": "2026-11-12T14:43:35+00:00",
+          "titulo": "Brazil intends to increase supplies of fertilizers from Iran — Lula da Silva",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2217245",
+          "traducida": false
+        },
+        {
+          "id": "76346d47ab7a06082b58",
+          "fecha": "2026-11-12T10:32:43+00:00",
+          "titulo": "Un exterrorista italiano se fuga en Buenos Aires descolgándose de un quinto piso para evitar ser extraditado",
+          "fuente": "El País",
+          "url": "https://elpais.com/internacional/2026-11-12/un-exterrorista-italiano-se-fuga-en-buenos-aires-descolgandose-de-un-quinto-piso-para-evitar-ser-extraditado.html",
+          "traducida": false
+        },
+        {
+          "id": "90409f3f7949a6852cc1",
+          "fecha": "2026-11-12T09:07:55+00:00",
+          "titulo": "Peru: Pope Leo XIV returns to his adopted homeland on historic visit",
+          "fuente": "Euronews",
+          "url": "https://www.euronews.com/video/2026/11/12/peru-pope-leo-xiv-returns-to-his-adopted-homeland-on-historic-visit",
+          "traducida": false
+        },
+        {
+          "id": "384b817dc7c7e1026c7e",
+          "fecha": "2026-11-12T09:00:13+00:00",
+          "titulo": "Pope Leo XIV welcomed by millions on return to his second home Peru",
+          "fuente": "Euronews",
+          "url": "https://www.euronews.com/2026/11/12/pope-leo-xiv-welcomed-by-millions-on-return-to-his-second-home-peru",
+          "traducida": false
+        },
+        {
+          "id": "68de82384ab494513e4a",
+          "fecha": "2026-11-12T07:37:42+00:00",
+          "titulo": "Pope Leo welcomed by millions in his second ‘homeland’ of Peru",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/12/pope-leo-welcomed-by-millions-in-his-second-homeland-of-peru?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "e7a20629e590c692d213",
+          "fecha": "2026-11-12T04:30:01+00:00",
+          "titulo": "El Papa contra los gritos",
+          "fuente": "El País",
+          "url": "https://elpais.com/opinion/2026-11-12/el-papa-contra-los-gritos.html",
+          "traducida": false
+        },
+        {
+          "id": "1f509ba5a09597592851",
+          "fecha": "2026-11-12T03:20:39+00:00",
+          "titulo": "León XIV en Lima: “Las guerras reclaman una diplomacia que respete el derecho internacional”",
+          "fuente": "El País",
+          "url": "https://elpais.com/america/2026-11-12/leon-xiv-en-lima-las-guerras-reclaman-una-diplomacia-que-respete-el-derecho-internacional.html",
+          "traducida": false
+        },
+        {
+          "id": "a3182a2562dac46b6fcb",
+          "fecha": "2026-11-11T23:41:00+00:00",
+          "titulo": "Pope Leo returns to Peru where he was once a missionary - CNN",
+          "fuente": "CNN",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSEpTWHYtd0VzeEtsYVdDUDZ3ZUJHbC1aVndvY0F1SnhFNHNXeU4zanBMTjlhVDFkU2xaLXVxdTJyWUwwOFU4SlhUbUQ0SGtHZ0hLV0dhYmpGczlPeFBicTRZb0ViN0gtNG4wTHVVNlhOaTdhbkpFVFJsLUt2bGVqUWdqQlhFQQ?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "ffea957c41531bf29ac4",
+          "fecha": "2026-11-11T22:50:37+00:00",
+          "titulo": "Two skulls likely belonging to enslaved people returned to Brazil after Harvard used them in eugenics studies",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/news/2026/nov/11/harvard-skulls-repatriated-brazil",
+          "traducida": false
+        },
+        {
+          "id": "040ab706dcacebba19ec",
+          "fecha": "2026-11-11T20:44:05+00:00",
+          "titulo": "Pope Leo draws 3-million-strong crowd at Argentina’s holiest shrine",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/americas/article/3374124/pope-leo-draws-3-million-strong-crowd-argentinas-holiest-shrine",
+          "traducida": false
+        },
+        {
+          "id": "7ba0cb86cd02fda00475",
+          "fecha": "2026-11-11T19:00:33+00:00",
+          "titulo": "Ex-member of radical Marxist group scales balcony, escapes house arrest in Argentina",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/11/red-brigades-leonardo-bertulazzi-escapes-house-arrest-argentina",
+          "traducida": false
+        },
+        {
+          "id": "d1dc0430a842ff1b3574",
+          "fecha": "2026-11-11T18:29:56+00:00",
+          "titulo": "Lula’s Turkey trot - Politico",
+          "fuente": "POLITICO US",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd2IxTzd6YXVJalQwb3RfWmY3QzNzTTBYYVZHRWFkR3liSW9WWnd4T0lBOGJHTUd3dTNqa2xoTDFEeWFfNlQ4dEdqbnlzVFBrV2NFTi1iM2V0dkRKQnYxZGJZaUNQTUlNeTlpU0hxdTZLVHhMWTRvVVhzTzJFb0h2RDZ4NHM5NFRLX0ZWcjVseEdncVU?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "cf2fc89481231d9afe39",
+          "fecha": "2026-11-11T16:05:45+00:00",
+          "titulo": "Argentinian lawyer mocks UK’s sovereignty claim in Falklands oil case",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/uk-news/2026/nov/11/argentine-lawyer-mocks-uk-sovereignty-claim-in-falklands-oil-case",
+          "traducida": false
+        },
+        {
+          "id": "b250bd27485b03aeef10",
+          "fecha": "2026-11-11T15:17:00+00:00",
+          "titulo": "Brazil electoral court fines Meta, sees no deliberate election bias",
+          "fuente": "Deutsche Welle",
+          "url": "https://www.dw.com/en/brazil-electoral-court-fines-meta-sees-no-deliberate-election-bias/a-79920780?maca=en-rss-en-world-4025-rdf",
+          "traducida": false
+        },
+        {
+          "id": "f6f2c356227b45bce379",
+          "fecha": "2026-11-11T14:56:11+00:00",
+          "titulo": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
+          "fuente": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
+          "traducida": false
+        },
+        {
+          "id": "4394bdf9db3878b9d9f1",
+          "fecha": "2026-11-11T14:47:03+00:00",
+          "titulo": "Brazil electoral court fines Meta, sees no deliberate election bias",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/brazil-electoral-court-fines-meta-sees-no-deliberate-election-bias/article71689942.ece",
+          "traducida": false
+        },
+        {
+          "id": "cb77be69ad83a5bc8721",
+          "fecha": "2026-11-11T13:47:36+00:00",
+          "titulo": "OPEC keeps non-OPEC+ supply growth forecast for 2026",
+          "fuente": "TASS",
+          "url": "https://tass.com/economy/2216321",
+          "traducida": false
+        }
+      ]
+    },
+    {
       "id": "peru-mundo",
       "titulo": "Perú en el sistema internacional",
       "cantidad_archivada": 31,
-      "nuevas_24h": 3,
+      "nuevas_24h": 2,
       "anteriores_24h": 5,
       "dias_con_registros": 10,
       "fecha_ultima": "2026-11-13T20:28:20+00:00",
