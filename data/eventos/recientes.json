@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-11-15T19:04:13.779151+00:00",
+  "created_utc": "2026-11-15T19:26:17.409537+00:00",
   "events": [
     {
       "id": "a-f266d84447bb2aa7566c",
@@ -292,55 +292,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-0a158dc1c3d8c2a80762",
-      "fecha": "2026-11-14",
-      "titulo_fuente": "Quad Summit likely to be held in Manila on November 17, sources say",
-      "region": "Estados Unidos",
-      "temas": [
-        "Diplomacia",
-        "Energía y clima"
-      ],
-      "noticias": [
-        {
-          "id": "0a158dc1c3d8c2a80762",
-          "titulo_original": "Quad Summit likely to be held in Manila on November 17, sources say",
-          "titulo_es": "La Cumbre Cuádruple probablemente se celebrará en Manila el 17 de noviembre, según las fuentes",
-          "url": "https://www.thehindu.com/news/international/quad-summit-likely-to-be-held-in-manila-on-november-17-sources-say/article71702178.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-11-14T15:18:18+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The Summit between leaders of India, U.S., Australia, and Japan is being held in a non-Quad country for the first time, expected to address critical minerals and energy supply chains and safety of seafarers",
-          "resumen_es": "La Cumbre entre líderes de la India, Estados Unidos, Australia y Japón se celebra por primera vez en un país no Cuad, que se espera abordar los minerales críticos y las cadenas de suministro de energía y la seguridad de los marinos"
-        }
-      ],
-      "fuentes": [
-        "The Hindu"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "India",
-        "Japón"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 8,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos, India",
-        "Ámbito: Diplomacia, Energía y clima",
-        "Posible decisión institucional o negociación"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-fca971b253c07d0a0519",
       "fecha": "2026-11-15",
       "titulo_fuente": "Estonia to close all border crossings with Russia after attack on drone maker",
@@ -562,6 +513,52 @@
       "motivos_seleccion": [
         "Actores relevantes: Perú",
         "Mención expresa al Perú"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-d5f06e3d4d58514012cb",
+      "fecha": "2026-11-15",
+      "titulo_fuente": "Russian Security Council secretary arrives in UAE",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Organismos multilaterales"
+      ],
+      "noticias": [
+        {
+          "id": "d5f06e3d4d58514012cb",
+          "titulo_original": "Russian Security Council secretary arrives in UAE",
+          "titulo_es": "Secretario del Consejo de Seguridad Ruso llega a UAE",
+          "url": "https://tass.com/politics/2218391",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-15T19:18:19+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Sergey Shoigu will meet with the UAE leadership and chiefs of law enforcement and special services",
+          "resumen_es": "Sergey Shoigu se reunirá con los dirigentes de los Emiratos Árabes Unidos y los jefes de las fuerzas del orden y los servicios especiales"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Rusia",
+        "ONU"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Institucionalismo liberal",
+        "pregunta": "¿Qué reglas, mecanismos de cooperación y límites institucionales afectan la decisión?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: ONU, Rusia",
+        "Ámbito: Organismos multilaterales"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -2016,78 +2013,6 @@
       "motivos_seleccion": [
         "Actores relevantes: Brasil, China, Estados Unidos",
         "Ámbito: Comercio y finanzas, Diplomacia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-575ec0383f105c9008c1",
-      "fecha": "2026-11-14",
-      "titulo_fuente": "Zelensky: US floated idea of Ukraine swapping land for NATO membership - CNN",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "575ec0383f105c9008c1",
-          "titulo_original": "Zelensky: US floated idea of Ukraine swapping land for NATO membership - CNN",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcnBJSVdsRS1QWWJDQUdWZHN6SFhTcTg1TlNfSm8wTEQ2NGV4aHpqLS1lQVVCT29EdUZJMmNoSFZtbzRRZ2hYeFlvbndWMXFxTjBRZTRNbllTNXQ3TFJKWUxuQkEtSEw5ZnMteXdOS3V5WERSNklISXJKSGZSRmdCQVZPem43RThxcUphU3Nodk5aenRycmhV?oc=5",
-          "fuente": "CNN",
-          "pais": "Estados Unidos",
-          "fecha": "2026-11-14T23:30:40+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Zelensky: US floated idea of Ukraine swapping land for NATO membership CNN",
-          "resumen_es": ""
-        },
-        {
-          "id": "4d3f357daa8cc28fb323",
-          "titulo_original": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-          "titulo_es": "Estados Unidos ha flotado Ucrania ceder a Donbas para ser miembro de Nato, Zelensky dice",
-          "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-14T15:15:57+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
-          "resumen_es": "El presidente ucraniano dice que los enviados de EE.UU. lanzaron el intercambio como parte de los esfuerzos para poner fin a la guerra con Rusia."
-        },
-        {
-          "id": "598ba954413433eeb779",
-          "titulo_original": "Zelensky says US floated idea of Ukraine ceding Donbas for Nato membership",
-          "titulo_es": "Zelensky dice que EE.UU. flotaba idea de Ucrania ceder a Donbas para ser miembro de Nato",
-          "url": "https://www.scmp.com/news/world/europe/article/3374450/zelensky-says-us-floated-idea-ukraine-ceding-donbas-nato-membership",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-11-14T15:14:00+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "US negotiators have floated the idea of Ukraine’s potential withdrawal from its eastern region of Donbas in exchange for joining Nato, President Volodymyr Zelensky said, following the latest round of peace talks with Russia in Abu Dhabi. This is the first time the question of linking Nato membership to territorial concessions has been raised during the talks, Zelensky said in remarks ‌to reporters released by his office on Saturday. “The American",
-          "resumen_es": "Los negociadores estadounidenses han flotado la idea de la posible retirada de Ucrania de su región oriental de Donbas a cambio de unirse a Nato, dijo el presidente Volodymyr Zelensky, tras la última ronda de conversaciones de paz con Rusia en Abu Dhabi. Th"
-        }
-      ],
-      "fuentes": [
-        "BBC News",
-        "CNN",
-        "South China Morning Post"
-      ],
-      "actores_mencionados": [
-        "Rusia",
-        "Ucrania"
-      ],
-      "fuentes_independientes": 3,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Cobertura de fuentes distintas",
-        "Actores relevantes: Rusia, Ucrania"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -4159,6 +4084,51 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-d13e34782197feee8624",
+      "fecha": "2026-11-15",
+      "titulo_fuente": "Cardiologist flags five major heart attack risk factors - The Indian Express",
+      "region": "Asia-Pacífico",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "d13e34782197feee8624",
+          "titulo_original": "Cardiologist flags five major heart attack risk factors - The Indian Express",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOFcyMkNaM1VlOHdGbFFzZWM0MWczUm5tdnVnazVUb1g3QmVNN2I0Wm1EQXY0ZC14QWk3YVVydThYeTlKTm1MV0V4YUt2ck5pZ3l6c3lKLXRVWllPS3pMWUN3RURZNHhXaXpvUlJ6cHc5UmRGRld6a3FwWFRFazBDRWxOQld6UGxtVXp0cEI3OGNMUlZxckRGUjAyYjBkZWNydjBZbWxjVld6YUs5dGln0gG2AUFVX3lxTFBkb3cybDBOSUJJVzNmRmgxYzdmOU5PY2dvOHR5c0dtdmhSYXdmX2dSNHd3SE9peUVHVkZYbGhMUXRLT1FCSzB2WUN4a2ZJbGtwQXdrdXFFWXNuWHdjYlZPS2V5Z2ZfREhtOThkZERhZEdlang2NzJWWEthU0l2QUFBaHFNSGJ4OHE4RlpKWmt5MDY0UDFQZzBQaGlmWVNrVUItSTlCNUUyV2ZxbmtWaTdfTWtlR2dn?oc=5",
+          "fuente": "The Indian Express",
+          "pais": "India",
+          "fecha": "2026-11-15T00:30:04+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Cardiologist flags five major heart attack risk factors The Indian Express",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "The Indian Express"
+      ],
+      "actores_mencionados": [
+        "India"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: India",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-16620ac54fb54348ee99",
       "fecha": "2026-11-14",
       "titulo_fuente": "Beware of Pakistan-made whitening creams: Madhya Pradesh’s latest advisory - The Indian Express",
@@ -4703,140 +4673,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-f32b433add00247a48dc",
-      "fecha": "2026-11-14",
-      "titulo_fuente": "Zelenski asegura que EE UU sugiere admitir a Ucrania en la OTAN a cambio de entregar el Donbás a Rusia",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "f32b433add00247a48dc",
-          "titulo_original": "Zelenski asegura que EE UU sugiere admitir a Ucrania en la OTAN a cambio de entregar el Donbás a Rusia",
-          "titulo_es": "",
-          "url": "https://elpais.com/internacional/2026-11-14/zelenski-asegura-que-ee-uu-sugiere-admitir-a-ucrania-en-la-otan-a-cambio-de-entregar-el-donbas-a-rusia.html",
-          "fuente": "El País",
-          "pais": "España",
-          "fecha": "2026-11-14T15:09:29+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "El presidente ucranio descarta esa posibilidad que, afirma, debería ser sometida a referéndum en caso de concretarse una oferta",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "El País"
-      ],
-      "actores_mencionados": [
-        "Rusia",
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia, Ucrania"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-a279c6f2362354764b7f",
-      "fecha": "2026-11-14",
-      "titulo_fuente": "Canada and the Philippines conclude talks on free trade deal, Mark Carney says",
-      "region": "Internacional",
-      "temas": [
-        "Comercio y finanzas",
-        "Energía y clima"
-      ],
-      "noticias": [
-        {
-          "id": "a279c6f2362354764b7f",
-          "titulo_original": "Canada and the Philippines conclude talks on free trade deal, Mark Carney says",
-          "titulo_es": "Canadá y Filipinas concluyen conversaciones sobre el libre comercio, dice Mark Carney",
-          "url": "https://www.euronews.com/2026/11/14/canada-and-the-philippines-conclude-talks-on-free-trade-deal-mark-carney-says",
-          "fuente": "Euronews",
-          "pais": "Unión Europea",
-          "fecha": "2026-11-14T15:09:25+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "\"This is good news for Canadians in the agriculture sector, in the aerospace sector, even in AI, and our businesses working across forest products, mining, energy, services and beyond,\" Carney told reporters.",
-          "resumen_es": "\"Esta es una buena noticia para los canadienses en el sector agrícola, en el sector aeroespacial, incluso en AI, y nuestros negocios trabajando en productos forestales, minería, energía, servicios y más allá\", dijo Carney a los reporteros."
-        }
-      ],
-      "fuentes": [
-        "Euronews"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia compleja y economía política internacional",
-        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Ámbito: Comercio y finanzas, Energía y clima",
-        "Posible decisión institucional o negociación"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-a0eb1628b1c2dff7537a",
-      "fecha": "2026-11-14",
-      "titulo_fuente": "How a US extradition bid over Hamas allegations put a wealthy activist before a Spanish court",
-      "region": "Oriente Medio",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "a0eb1628b1c2dff7537a",
-          "titulo_original": "How a US extradition bid over Hamas allegations put a wealthy activist before a Spanish court",
-          "titulo_es": "Cómo una oferta de extradición estadounidense sobre las acusaciones de Hamás puso a un activista rico ante un tribunal español",
-          "url": "https://www.theguardian.com/us-news/2026/nov/14/activist-extradition-gaza-hamas-spanish-court",
-          "fuente": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-14T15:00:47+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "James ‘Fergie’ Chambers, a Cox Enterprises heir, faced a two-hour hearing about alleged support for Hamas A two-hour hearing in Spain’s high court Friday on the US extradition request of wealthy leftwing activist and philanthropist James “Fergie” Chambers turned out to be a study in contrasts. Chambers’s defense took most of the session to query the US citizen and detail irregularities in the Trump administration’s extradition request – several o",
-          "resumen_es": "James ‘Fergie’ Chambers, heredero de Cox Enterprises, se enfrentó a una audiencia de dos horas sobre el presunto apoyo a Hamas Una audiencia de dos horas en la alta corte española el viernes sobre la solicitud de extradición de Estados Unidos de rico activista de izquierda y filántropo James “F"
-        }
-      ],
-      "fuentes": [
-        "The Guardian"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-2008a02f55aaeadbd0bc",
       "fecha": "2026-11-15",
       "titulo_fuente": "Jordan sentences 3 men to death over deadly church attack",
@@ -4946,6 +4782,266 @@
       "motivos_seleccion": [
         "Cobertura de fuentes distintas",
         "Actores relevantes: India"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-42eaed5fe6534240e745",
+      "fecha": "2026-11-15",
+      "titulo_fuente": "Sergio Ramírez ingresa en la RAE: “Perdí un país, pero nunca he sido extranjero en España”",
+      "region": "Internacional",
+      "temas": [
+        "Energía y clima"
+      ],
+      "noticias": [
+        {
+          "id": "42eaed5fe6534240e745",
+          "titulo_original": "Sergio Ramírez ingresa en la RAE: “Perdí un país, pero nunca he sido extranjero en España”",
+          "titulo_es": "",
+          "url": "https://elpais.com/cultura/2026-11-15/sergio-ramirez-ingresa-en-la-rae-perdi-un-pais-pero-nunca-he-sido-extranjero-en-espana.html",
+          "fuente": "El País",
+          "pais": "España",
+          "fecha": "2026-11-15T19:11:01+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "El nuevo académico, exiliado de Nicaragua en 2021, glosa en su discurso la figura de Vargas Llosa, cuya silla L hereda",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "El País"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia y gobernanza global",
+        "pregunta": "¿Cómo se distribuyen los costos de coordinación y los incentivos para cooperar?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Energía y clima"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-8ecfa13ab256d2b75459",
+      "fecha": "2026-11-15",
+      "titulo_fuente": "EN DIRECT, guerre en Ukraine : l’Estonie ferme ses frontières avec la Russie, Kiev invite les gouvernements européens à faire preuve de la même fermeté",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "8ecfa13ab256d2b75459",
+          "titulo_original": "EN DIRECT, guerre en Ukraine : l’Estonie ferme ses frontières avec la Russie, Kiev invite les gouvernements européens à faire preuve de la même fermeté",
+          "titulo_es": "",
+          "url": "https://www.lemonde.fr/international/live/2026/11/15/en-direct-guerre-en-ukraine-l-estonie-ferme-ses-frontieres-avec-la-russie-kiev-invite-les-gouvernements-europeens-a-faire-preuve-de-la-meme-fermete_6810982_3210.html",
+          "fuente": "Le Monde",
+          "pais": "Francia",
+          "fecha": "2026-11-15T19:05:08+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Le ministre des affaires étrangères estonien, Margus Tsahkna, a annoncé dimanche la fermeture de tous les postes-frontières avec la Russie à compter du 1er décembre. Il a déclaré détenir des « preuves manifestes » indiquant que le service de renseignement militaire russe a ordonné une « opération de sabotage » contre une entreprise estonienne du secteur de la défense.",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "Le Monde"
+      ],
+      "actores_mencionados": [
+        "Ucrania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Ucrania"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-5491f8fc1a775bea1e5e",
+      "fecha": "2026-11-15",
+      "titulo_fuente": "Joint Foreign Ministers Statement on Gaza",
+      "region": "Oriente Medio",
+      "temas": [
+        "Diplomacia"
+      ],
+      "noticias": [
+        {
+          "id": "5491f8fc1a775bea1e5e",
+          "titulo_original": "Joint Foreign Ministers Statement on Gaza",
+          "titulo_es": "Declaración conjunta de Ministros de Relaciones Exteriores sobre Gaza",
+          "url": "https://www.gov.uk/government/news/joint-foreign-ministers-statement-on-gaza--2",
+          "fuente": "GOV.UK FCDO",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-15T19:03:43+00:00",
+          "estado": "declaración de la fuente; corroboración independiente pendiente",
+          "resumen_original": "Joint statement on Gaza by the Foreign Ministers of Australia, Canada, Italy and the United Kingdom.",
+          "resumen_es": "Declaración conjunta de los Ministros de Relaciones Exteriores de Australia, el Canadá, Italia y el Reino Unido sobre Gaza."
+        }
+      ],
+      "fuentes": [
+        "GOV.UK FCDO"
+      ],
+      "actores_mencionados": [
+        "Palestina"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Diplomacia"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-a68f962ee953edba311d",
+      "fecha": "2026-11-15",
+      "titulo_fuente": "Israeli drone filmed flying low outside homes in southern Lebanon",
+      "region": "Oriente Medio",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "a68f962ee953edba311d",
+          "titulo_original": "Israeli drone filmed flying low outside homes in southern Lebanon",
+          "titulo_es": "drone israelí filmó volando bajo fuera de las casas del sur del Líbano",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/israeli-drone-filmed-flying-low-outside-homes-in-southern-lebanon?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-15T19:02:21+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Video shows an Israeli drone flying at low altitude over a residential area in southern Lebanon.",
+          "resumen_es": "El vídeo muestra un avión aéreo israelí que sobrevolaba una zona residencial en el sur del Líbano."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [
+        "Israel"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Israel"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-9939cd926df5167c2a6c",
+      "fecha": "2026-11-15",
+      "titulo_fuente": "Foreign leaders look beyond Trump on his Asian meeting spree - Politico",
+      "region": "Estados Unidos",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "9939cd926df5167c2a6c",
+          "titulo_original": "Foreign leaders look beyond Trump on his Asian meeting spree - Politico",
+          "titulo_es": "Los líderes extranjeros miran más allá de Trump en su reunión asiática - Politico",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4wci1tVVRaX05DXzNoNHROT2h1aGVyaS1IM1ZaTk5DX1pKdGV3TXdjY0I3cVZWbmxMWEVDV0VvVm1Hd2l5MEdzeVVTSExucy15c2tJZktVWmpHemRBcWJ4RXo3eVNzSzJFeGk1SEhSRTRtVFdxdVlBNU1NZjU5QQ?oc=5",
+          "fuente": "POLITICO US",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-15T19:00:00+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Foreign leaders look beyond Trump on his Asian meeting spree Politico",
+          "resumen_es": "Los líderes extranjeros miran más allá de Trump en su reunión asiática"
+        }
+      ],
+      "fuentes": [
+        "POLITICO US"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-39caf644c37ea341da77",
+      "fecha": "2026-11-15",
+      "titulo_fuente": "Trident nuclear submarine concludes record underwater deployment",
+      "region": "Internacional",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "39caf644c37ea341da77",
+          "titulo_original": "Trident nuclear submarine concludes record underwater deployment",
+          "titulo_es": "",
+          "url": "https://www.theguardian.com/uk-news/2026/nov/15/trident-nuclear-submarine-hms-vengeance-record-tour",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-15T18:50:33+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "HMS Vengeance’s seven-month patrol prompts concerns about slow pace of maintenance of ageing fleet and impact on crew A Trident nuclear submarine has concluded a record seven-month deployment, returning to the Faslane naval base in Scotland where its crew was greeted by the defence secretary, Wes Streeting. HMS Vengeance began its patrol on 12 April and spent 217 days submerged before returning on Sunday, having left the country when Keir Starmer",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "The Guardian"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -5204,6 +5300,62 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-9dc94ce378059067f57b",
+      "fecha": "2026-11-15",
+      "titulo_fuente": "As Trump administration implores Congress for additional FAA funding, Democrats say the agency already has it - CNN",
+      "region": "Estados Unidos",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "9dc94ce378059067f57b",
+          "titulo_original": "As Trump administration implores Congress for additional FAA funding, Democrats say the agency already has it - CNN",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWkRJTUprMnNMb0FobG5BeU1xWHd5NThwYXA3Tk1veS1vNXU5bmFZUGZLLVRoeWxJWEZ1eXFMekFJdl9IZUZBNkQ0dHlEV0NpNm9VV0FxUkx5MzhfOS1PMWJkT3hremNwczhmSmlDMnpfUnZGSS1UUWQ4ZzlRM2V3N2dubUJvV1JxV0x6dnFuR3d1cXM?oc=5",
+          "fuente": "CNN",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-15T17:51:46+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "As Trump administration implores Congress for additional FAA funding, Democrats say the agency already has it CNN",
+          "resumen_es": ""
+        },
+        {
+          "id": "853b4952cb38a23b3460",
+          "titulo_original": "As Trump administration implores Congress for additional FAA funding, Democrats say the agency already has it - CNN",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYXdaYi1Bdk8xNl9lV2lRUG4zRHBYM3VLaHBHME0wZko0OTg3RGVNMEdrTkQ5NXBWM0IzWTVma25sakc4b2pzcTFUQ2dNNVMtSjJjNlN2d0M2cERPVGtBaHZrclN2LUlqWEw1YmpyRlI5MnZ3NzM0TmVxQ1lvN0dLcm80OUNMbmFxZTFxSkJB?oc=5",
+          "fuente": "CNN",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-15T16:45:26+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "As Trump administration implores Congress for additional FAA funding, Democrats say the agency already has it CNN",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "CNN"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -5519,50 +5671,6 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Ámbito: Migración y DD. HH., Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-853b4952cb38a23b3460",
-      "fecha": "2026-11-15",
-      "titulo_fuente": "As Trump administration implores Congress for additional FAA funding, Democrats say the agency already has it - CNN",
-      "region": "Estados Unidos",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "853b4952cb38a23b3460",
-          "titulo_original": "As Trump administration implores Congress for additional FAA funding, Democrats say the agency already has it - CNN",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYXdaYi1Bdk8xNl9lV2lRUG4zRHBYM3VLaHBHME0wZko0OTg3RGVNMEdrTkQ5NXBWM0IzWTVma25sakc4b2pzcTFUQ2dNNVMtSjJjNlN2d0M2cERPVGtBaHZrclN2LUlqWEw1YmpyRlI5MnZ3NzM0TmVxQ1lvN0dLcm80OUNMbmFxZTFxSkJB?oc=5",
-          "fuente": "CNN",
-          "pais": "Estados Unidos",
-          "fecha": "2026-11-15T16:45:26+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "As Trump administration implores Congress for additional FAA funding, Democrats say the agency already has it CNN",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "CNN"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6788,136 +6896,6 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-32e09d23afb3b0da22d9",
-      "fecha": "2026-11-15",
-      "titulo_fuente": "EN DIRECT, guerre en Ukraine : l’Estonie va fermer sa frontière avec la Russie après une nouvelle tentative de sabotage",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "32e09d23afb3b0da22d9",
-          "titulo_original": "EN DIRECT, guerre en Ukraine : l’Estonie va fermer sa frontière avec la Russie après une nouvelle tentative de sabotage",
-          "titulo_es": "",
-          "url": "https://www.lemonde.fr/international/live/2026/11/15/en-direct-guerre-en-ukraine-les-restrictions-d-acces-a-starshield-persistent-et-empechent-kiev-de-se-proteger-des-attaques-russes-dit-volodymyr-zelensky_6810982_3210.html",
-          "fuente": "Le Monde",
-          "pais": "Francia",
-          "fecha": "2026-11-15T13:48:24+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "« En raison de preuves manifestes indiquant que le GRU a ordonné une opération de sabotage contre une entreprise estonienne du secteur de la défense, l’Estonie fermera tous les postes-frontières avec la Russie à compter du 1er décembre », a dit le ministre des affaires étrangères, Margus Tsahkna.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Le Monde"
-      ],
-      "actores_mencionados": [
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Ucrania"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-7193ed9e3bede2e9c160",
-      "fecha": "2026-11-15",
-      "titulo_fuente": "Explosive attack targets investigative journalist’s home in Panama",
-      "region": "Internacional",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "7193ed9e3bede2e9c160",
-          "titulo_original": "Explosive attack targets investigative journalist’s home in Panama",
-          "titulo_es": "",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/explosive-attack-targets-investigative-journalists-home-in-panama?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-11-15T13:43:11+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "An investigative journalist’s home in Panama was attacked in a suspected bombing.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-fc2a8dd508ca6d3e0c95",
-      "fecha": "2026-11-15",
-      "titulo_fuente": "Tavleen Singh writes: Sonia Gandhi establishes that she belongs - The Indian Express",
-      "region": "Asia-Pacífico",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "fc2a8dd508ca6d3e0c95",
-          "titulo_original": "Tavleen Singh writes: Sonia Gandhi establishes that she belongs - The Indian Express",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZVJhVDdhT19zTnFWWVdhWER0OFQ4Q1YxYzBZb1JSMl9aMFpJcnpwTHdqNmlMazQ4WDVjZUg2ZnVkMUkyLWE3bWRzdDdLUVgtYVBuUTFSXzJjNUMwN3JhR3YtcVdCS2ZZLVprckxpenRMT1BvbWFNZFNSVDhGam5qZDF5V3pYb0pmc01sZnlaYkpKVkZSUnIxQ0dXTXlLY19fS0RiMWJjR1U3a1Y2alFreVRsZDNJNXE4R2R5ZFNqb9IBxgFBVV95cUxPbXBRakJtVnhkSFFxLTB5d2hrXzB4MF9DM3NscE96RXBfNHhRZzFKaWJHVUhLTkxqUzJVTmJpM1l6Q3ZUSFdVTmdmN3NVYTZiSEkzQ1EyVndtRzBqZGt4VTJ2dHQxZG1Ib3dlLVRFWXBwV1lsX2hVUEw1cFpVanMtMUhyZlVyNDY5NVNSdFQzZThXQUoyYkRZWlBGRmpKQV82enZpbnZReXRqOVVjRWNvZlNuZ0JSZVRsTTRscmMtTkpVdUFETXc?oc=5",
-          "fuente": "The Indian Express",
-          "pais": "India",
-          "fecha": "2026-11-15T13:40:10+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Tavleen Singh writes: Sonia Gandhi establishes that she belongs The Indian Express",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Indian Express"
-      ],
-      "actores_mencionados": [
-        "India"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: India"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
