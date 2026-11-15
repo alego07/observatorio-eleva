@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-11-15T17:44:08.482363+00:00",
+  "created_utc": "2026-11-15T18:01:45.691494+00:00",
   "events": [
     {
       "id": "a-f266d84447bb2aa7566c",
@@ -341,6 +341,66 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-c019bab26c7ebf0e9ecd",
+      "fecha": "2026-11-15",
+      "titulo_fuente": "Iran launches drone attacks against US military base in Bahrain",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "c019bab26c7ebf0e9ecd",
+          "titulo_original": "Iran launches drone attacks against US military base in Bahrain",
+          "titulo_es": "Irán lanza ataques de drones contra la base militar estadounidense en Bahréin",
+          "url": "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-15T17:36:09+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Strikes cast further doubt on peace talks between Tehran and Washington with increasing risk of escalation Iran has launched drone attacks against a US military base in Bahrain, casting further doubt on peace talks between Tehran and Washington and raising the spectre of escalation. Blasts sounded over the Gulf nation on Sunday in the second Iranian drone attack in three days in retaliation for US strikes in Iran. Continue reading...",
+          "resumen_es": "Las huelgas arrojan más dudas sobre las conversaciones de paz entre Teherán y Washington con un creciente riesgo de escalada Irán ha lanzado ataques con drones contra una base militar estadounidense en Bahréin, poniendo más en duda las conversaciones de paz entre Teherán y Washin"
+        },
+        {
+          "id": "aa8e6247d001d1219b1b",
+          "titulo_original": "Iran targets US military base in Bahrain with drone attack",
+          "titulo_es": "",
+          "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-15T13:42:58+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "BBC News",
+        "The Guardian"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Irán"
+      ],
+      "fuentes_independientes": 2,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 7,
+      "motivos_seleccion": [
+        "Cobertura de fuentes distintas",
+        "Actores relevantes: Estados Unidos, Irán",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-9afc02083c2f4fd93ab8",
       "fecha": "2026-11-15",
       "titulo_fuente": "Starshield restrictions help Russia’s energy attacks on Ukraine: Zelenskyy",
@@ -555,6 +615,18 @@
           "titulo_original": "Iran raises stakes with new drone attacks as Trump signals a waiting game - CNN",
           "titulo_es": "",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0wRnhRaVVocE9uVEN6Ml82aHNlaXc4di1fM1NJR29BMHp3SmdBNDRMcUt2UFZ6QnV6LU5WeDFNZjYwOTdXd1FoczdLOUVwb1VHQTRtVUN0VUpBMlM2U0c0cWxjMHRsMkI1S2dwcjZfMFdMQVZoS1oydlBiYUY4Zw?oc=5",
+          "fuente": "CNN",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-15T15:36:17+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Iran raises stakes with new drone attacks as Trump signals a waiting game CNN",
+          "resumen_es": ""
+        },
+        {
+          "id": "8a476f2cc3cb1ade9ed3",
+          "titulo_original": "Iran raises stakes with new drone attacks as Trump signals a waiting game - CNN",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVnFVWmhLVUNEYkk5Sjd3d09WWUQ5cVh6ZEpMRkctU3R5U3E5cl9OVDc5NmgzY2xRNEFWWDdLdTYyX1VXTTNSaWRQNkNCWDdjYkVJZUdtSnlwRFc4T0FjWHJQU2VYWURaWW9ncGtBUWhiOHo4T0xBNHRoZkhZaTZaVEtfQQ?oc=5",
           "fuente": "CNN",
           "pais": "Estados Unidos",
           "fecha": "2026-11-15T15:36:17+00:00",
@@ -1793,18 +1865,6 @@
           "estado": "publicación periodística; corroboración pendiente",
           "resumen_original": "US negotiators have floated the idea of Ukraine’s potential withdrawal from its eastern region of Donbas in exchange for joining Nato, President Volodymyr Zelensky said, following the latest round of peace talks with Russia in Abu Dhabi. This is the first time the question of linking Nato membership to territorial concessions has been raised during the talks, Zelensky said in remarks ‌to reporters released by his office on Saturday. “The American",
           "resumen_es": "Los negociadores estadounidenses han flotado la idea de la posible retirada de Ucrania de su región oriental de Donbas a cambio de unirse a Nato, dijo el presidente Volodymyr Zelensky, tras la última ronda de conversaciones de paz con Rusia en Abu Dhabi. Th"
-        },
-        {
-          "id": "219d2bb4d0d629ffb599",
-          "titulo_original": "US floated idea of Ukraine swapping land for NATO membership, Zelensky says - CNN",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE02ZlQ2Y1A0enpwLWYtVDFSYVgyVWZmUTJzcjdrLVp2VmlnSHNkcGNfbi00VkliUXdtNV9VbHlINDdDOTc3dUxHRlQ4aE9BZ3p6V2Ywdk1BQnhXbDBKYU5DZ1ZfUEJSVDNvNXJfTnpQbUFsSzV5cVE?oc=5",
-          "fuente": "CNN",
-          "pais": "Estados Unidos",
-          "fecha": "2026-11-14T13:16:54+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "US floated idea of Ukraine swapping land for NATO membership, Zelensky says CNN",
-          "resumen_es": ""
         }
       ],
       "fuentes": [
@@ -2067,98 +2127,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-4f6d830134e10cc01444",
-      "fecha": "2026-11-14",
-      "titulo_fuente": "How does Iran view shift in US approach after JD Vance ordered away?",
-      "region": "Oriente Medio",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "4f6d830134e10cc01444",
-          "titulo_original": "How does Iran view shift in US approach after JD Vance ordered away?",
-          "titulo_es": "",
-          "url": "https://www.aljazeera.com/news/2026/11/14/how-does-iran-view-shift-in-us-approach-after-vance-ordered-away?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-11-14T13:24:44+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Washington believes maritime blockade, overland border disruptions, air restrictions and isolating sanctions are working",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "Irán"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos, Irán",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-196470d590f550d2b970",
-      "fecha": "2026-11-14",
-      "titulo_fuente": "‘Opposition’s fight rooted in truth, non-violence’: Rahul Gandhi at Hyderabad Bharat Summit - The Indian Express",
-      "region": "Asia-Pacífico",
-      "temas": [
-        "Diplomacia"
-      ],
-      "noticias": [
-        {
-          "id": "196470d590f550d2b970",
-          "titulo_original": "‘Opposition’s fight rooted in truth, non-violence’: Rahul Gandhi at Hyderabad Bharat Summit - The Indian Express",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNVgyckFhZWNwMEtfQVJabTZoMmJMdmMxUms1cDFKeUVsTi1jaGpSVW1QeEQwQWxRam5CRllDR0JuM1FGQ0F2Q2NlREVXOE1Cd09UWjFJaVJteHM0QlFQd0J5Q3UxTTJtc1hFTmVzUzlPMVRTWXA0QkwxSmdYTC1OUlZYSnFfY1JjSVhsVFRXT2pJVXpsd2FwakVfSnZPU2dUM3hrLTdqd09OWTlYMk5TYmZBMWVZNmZtbUdYaVExckdsZDg1WGJHZU5OU3RUY3ph0gHXAUFVX3lxTE8zdURUMWFJM0hYUmFKTE9nMFpSUUQzVnNYYkdTTVhSUXcyZFk2cDFmYjdxQ056cTktdC1GUUk0dUFsQjJCN2JkSHFJNjJBbmphMTFVZjAtcjJUd1pXV2dhRUYwRkRhb25ySktaT1ZRLUxMb2RhNDBDNldJS3Fyb0IzRGZ2dE5jNTRac2huaV9UNTBlZHhxZkRIRktwMjd0UGtEaFo5TWpEQXlnRjJ4ZmczSG1tZC1wcmN1UDVLTkRKeEo3dG5JVWJRRUVQOHdDenZwNVlqd3Q4?oc=5",
-          "fuente": "The Indian Express",
-          "pais": "India",
-          "fecha": "2026-11-14T13:08:19+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "‘Opposition’s fight rooted in truth, non-violence’: Rahul Gandhi at Hyderabad Bharat Summit The Indian Express",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Indian Express"
-      ],
-      "actores_mencionados": [
-        "India"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: India",
-        "Ámbito: Diplomacia",
-        "Posible decisión institucional o negociación"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-a35f446124dd8cc18234",
       "fecha": "2026-11-15",
       "titulo_fuente": "Estonia to close Russia border after ‘sabotage’ bid, foreign minister says",
@@ -2214,65 +2182,6 @@
         "Cobertura de fuentes distintas",
         "Actores relevantes: Rusia",
         "Ámbito: Diplomacia, Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-aa8e6247d001d1219b1b",
-      "fecha": "2026-11-15",
-      "titulo_fuente": "Iran targets US military base in Bahrain with drone attack",
-      "region": "Oriente Medio",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "aa8e6247d001d1219b1b",
-          "titulo_original": "Iran targets US military base in Bahrain with drone attack",
-          "titulo_es": "",
-          "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-15T13:42:58+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
-          "resumen_es": ""
-        },
-        {
-          "id": "7d1d7c4334750effb723",
-          "titulo_original": "Iran targets US military radar in Bahrain in ‘retaliatory’ drone strikes",
-          "titulo_es": "",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/iran-targets-us-military-radar-in-bahrain-in-retaliatory-drone-strikes?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-11-15T12:15:51+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Iran’s IRGC says six drones were launched at a US radar installation at an air base in Bahrain.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera",
-        "BBC News"
-      ],
-      "actores_mencionados": [
-        "Irán"
-      ],
-      "fuentes_independientes": 2,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 5,
-      "motivos_seleccion": [
-        "Cobertura de fuentes distintas",
-        "Actores relevantes: Irán",
-        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -3079,6 +2988,51 @@
           "fecha": "2026-11-15T12:36:19+00:00",
           "estado": "publicación periodística; corroboración pendiente",
           "resumen_original": "Tehran says its air attacks on countries cooperating with the US are justified under international law.",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [
+        "Irán"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Irán",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-7d1d7c4334750effb723",
+      "fecha": "2026-11-15",
+      "titulo_fuente": "Iran targets US military radar in Bahrain in ‘retaliatory’ drone strikes",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "7d1d7c4334750effb723",
+          "titulo_original": "Iran targets US military radar in Bahrain in ‘retaliatory’ drone strikes",
+          "titulo_es": "",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/iran-targets-us-military-radar-in-bahrain-in-retaliatory-drone-strikes?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-15T12:15:51+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Iran’s IRGC says six drones were launched at a US radar installation at an air base in Bahrain.",
           "resumen_es": ""
         }
       ],
@@ -4641,52 +4595,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-43f497182f301513df01",
-      "fecha": "2026-11-14",
-      "titulo_fuente": "Sánchez pide “el voto europeísta” para frenar a Abascal",
-      "region": "Estados Unidos",
-      "temas": [
-        "Comercio y finanzas"
-      ],
-      "noticias": [
-        {
-          "id": "43f497182f301513df01",
-          "titulo_original": "Sánchez pide “el voto europeísta” para frenar a Abascal",
-          "titulo_es": "",
-          "url": "https://elpais.com/espana/elecciones-generales/2026-11-14/sanchez-pide-el-voto-europeista-para-frenar-a-abascal.html",
-          "fuente": "El País",
-          "pais": "España",
-          "fecha": "2026-11-14T13:18:32+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "El presidente no hace distinción entre Feijóo y su socio potencial de Gobierno y destaca las alianzas del líder de Vox con dirigentes de la ultraderecha global como Trump, Milei, Orban, Salvini y Meloni",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "El País"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "Argentina"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia compleja y economía política internacional",
-        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos",
-        "Ámbito: Comercio y finanzas"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-2008a02f55aaeadbd0bc",
       "fecha": "2026-11-15",
       "titulo_fuente": "Jordan sentences 3 men to death over deadly church attack",
@@ -4738,6 +4646,146 @@
       "motivos_seleccion": [
         "Cobertura de fuentes distintas",
         "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-4d882ee625709e11dca3",
+      "fecha": "2026-11-15",
+      "titulo_fuente": "Southeast Asian leaders denounce violence in Myanmar, extend ban on its leader",
+      "region": "Asia-Pacífico",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "4d882ee625709e11dca3",
+          "titulo_original": "Southeast Asian leaders denounce violence in Myanmar, extend ban on its leader",
+          "titulo_es": "Los líderes del sudeste asiático denuncian la violencia en Myanmar, extienden la prohibición a su líder",
+          "url": "https://www.thehindu.com/news/international/southeast-asian-leaders-denounce-violence-in-myanmar-extend-ban-on-its-leader/article71705733.ece",
+          "fuente": "The Hindu",
+          "pais": "India",
+          "fecha": "2026-11-15T17:55:47+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "ASEAN leaders proposed the plan in April 2021 to try to ease the violence that erupted after the army seized power from the elected government of Aung San Suu Kyi",
+          "resumen_es": "Los líderes de la ASEAN propusieron el plan en abril de 2021 para tratar de aliviar la violencia que estalló después de que el ejército se apoderara del poder del gobierno elegido de Aung San Suu Kyi"
+        }
+      ],
+      "fuentes": [
+        "The Hindu"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-283be04b3ba39abbf93c",
+      "fecha": "2026-11-15",
+      "titulo_fuente": "Realitatea: Transnistrian leader returns to Moldova to be faced with travel ban",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "283be04b3ba39abbf93c",
+          "titulo_original": "Realitatea: Transnistrian leader returns to Moldova to be faced with travel ban",
+          "titulo_es": "Realitatea: El líder transnistiano vuelve a Moldavia para enfrentarse a la prohibición de viajar",
+          "url": "https://tass.com/world/2218375",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-15T17:42:32+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The reason is visit of Vadim Krasnoselsky to Moscow",
+          "resumen_es": "La razón es la visita de Vadim Krasnoselsky a Moscú"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Rusia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-175e955f766e2b5002bf",
+      "fecha": "2026-11-15",
+      "titulo_fuente": "Nearly 1,500 migrants reach Spain’s Canary Islands in one day",
+      "region": "Internacional",
+      "temas": [
+        "Migración y DD. HH."
+      ],
+      "noticias": [
+        {
+          "id": "175e955f766e2b5002bf",
+          "titulo_original": "Nearly 1,500 migrants reach Spain’s Canary Islands in one day",
+          "titulo_es": "Casi 1.500 migrantes llegan a las Islas Canarias de España en un día",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/nearly-1500-migrants-reach-spains-canary-islands-in-one-day?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-15T17:39:23+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Nearly 1,500 migrants reach Spain’s Canary Islands in one day",
+          "resumen_es": "Casi 1.500 migrantes llegan a las Islas Canarias de España en un día"
+        },
+        {
+          "id": "ec9e1c6774d09ec67efc",
+          "titulo_original": "Record number of migrants arrive in Spain’s Canary Islands",
+          "titulo_es": "",
+          "url": "https://www.aljazeera.com/news/2026/11/15/record-number-of-migrants-arrive-in-spains-canary-islands?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-15T15:16:29+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "New EU migration and asylum laws have largely failed to stem flow of migrants to Spain and its territories.",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Derecho internacional y constructivismo",
+        "pregunta": "¿Qué normas, identidades y obligaciones internacionales invocan los actores?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Migración y DD. HH."
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -5476,48 +5524,6 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Ámbito: Energía y clima, Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-ec9e1c6774d09ec67efc",
-      "fecha": "2026-11-15",
-      "titulo_fuente": "Record number of migrants arrive in Spain’s Canary Islands",
-      "region": "Internacional",
-      "temas": [
-        "Migración y DD. HH."
-      ],
-      "noticias": [
-        {
-          "id": "ec9e1c6774d09ec67efc",
-          "titulo_original": "Record number of migrants arrive in Spain’s Canary Islands",
-          "titulo_es": "",
-          "url": "https://www.aljazeera.com/news/2026/11/15/record-number-of-migrants-arrive-in-spains-canary-islands?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-11-15T15:16:29+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "New EU migration and asylum laws have largely failed to stem flow of migrants to Spain and its territories.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Derecho internacional y constructivismo",
-        "pregunta": "¿Qué normas, identidades y obligaciones internacionales invocan los actores?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Migración y DD. HH."
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
