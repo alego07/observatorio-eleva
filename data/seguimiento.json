@@ -1,17 +1,33 @@
 {
-  "actualizado_utc": "2026-11-16T21:18:47.156148+00:00",
+  "actualizado_utc": "2026-11-16T22:28:02.162582+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 2510,
-      "nuevas_24h": 76,
-      "anteriores_24h": 59,
+      "cantidad_archivada": 2512,
+      "nuevas_24h": 78,
+      "anteriores_24h": 58,
       "dias_con_registros": 32,
-      "fecha_ultima": "2026-11-16T20:41:53+00:00",
+      "fecha_ultima": "2026-11-16T21:41:01+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "c58cf58749eec6720dae",
+          "fecha": "2026-11-16T21:41:01+00:00",
+          "titulo": "Russian president to have three busy days in Shenzhen — Kremlin spokesman",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2219251",
+          "traducida": false
+        },
+        {
+          "id": "c90ff9c139344a3fe608",
+          "fecha": "2026-11-16T21:34:56+00:00",
+          "titulo": "Putin could meet North Korea’s Kim if he also heads to China for Apec summit",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3374652/putin-could-meet-north-koreas-kim-if-he-also-heads-china-apec-summit",
+          "traducida": false
+        },
         {
           "id": "98e13098a226954a7f18",
           "fecha": "2026-11-16T20:41:53+00:00",
@@ -235,30 +251,14 @@
           "fuente": "TASS",
           "url": "https://tass.com/politics/2219101",
           "traducida": false
-        },
-        {
-          "id": "e7f615697b5dd8ddef40",
-          "fecha": "2026-11-16T16:50:37+00:00",
-          "titulo": "Putin, Xi may also hold informal talks alongside official meetings at 2026 APEC Summit",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2219099",
-          "traducida": false
-        },
-        {
-          "id": "a69f1330d177895149f9",
-          "fecha": "2026-11-16T16:49:00+00:00",
-          "titulo": "Putin to present Russian investment potential at APEC business summit — Kremlin aide",
-          "fuente": "TASS",
-          "url": "https://tass.com/economy/2219097",
-          "traducida": false
         }
       ]
     },
     {
       "id": "india-asia",
       "titulo": "India y Asia-Pacífico",
-      "cantidad_archivada": 1703,
-      "nuevas_24h": 54,
+      "cantidad_archivada": 1704,
+      "nuevas_24h": 55,
       "anteriores_24h": 55,
       "dias_con_registros": 32,
       "fecha_ultima": "2026-11-16T18:56:06+00:00",
@@ -334,6 +334,14 @@
           "titulo": "Sarvam, symbole des ambitions indiennes dans la course mondiale à l’IA",
           "fuente": "Le Monde",
           "url": "https://www.lemonde.fr/economie/article/2026/11/16/sarvam-symbole-des-ambitions-indiennes-dans-la-course-mondiale-a-l-ia_6811900_3234.html",
+          "traducida": false
+        },
+        {
+          "id": "5b5be03754913e247c23",
+          "fecha": "2026-11-16T13:42:00+00:00",
+          "titulo": "Microsoft’s 21-hour outage: How its fallout cascaded into lives of users worldwide - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZDI5WXFpakRoSXVHdThnNThKMktNSGlaSDBjRm05RzY4US1sWWJhbF9pamt0YmRXWHlQNUJPbkxRRV9ibnZYRXJHX2dSVWV6a2JCRGxzNXpCdWhhUWlyYmQtVUN2RXVMRU5kaWNINW5OVG44Mk01NHBUYmtNS3pLbENHTjliTGdPa2hRT2NQbDV5LVFSWGV5aW4zY01uMDdXeUZQaTR1WmNPeVN5WGtIMkFCaTV6UHZmZXd5YmVsYk1pSmYwV3ZXaV9R0gHQAUFVX3lxTE1hd2hhN1FpQW5ubUJ6U2paazIxQUxUT3B2RVhxYTVwR2o0aGRqMVN6c3AzUG53X3dUQWlpekx3TkQwYXpMM3ZrQVZnWGx6OWlEekZXejc1WDljWVZUZ0gzbVp1VlBvZGtObUtkVHI5djZZeEFZT3dUR25WNU5idFBrT0tOWUswdkU5WkpaU0lxc2ZwMlJvdWsyRmYxMFhqYk9sQ3lYLUdTdUV4UUxmTmU2SEY4ZTBUSFJOeS0xeGJqRUhXc29CVDJmMWtWTWtKUlM?oc=5",
           "traducida": false
         },
         {
@@ -495,27 +503,35 @@
           "fuente": "The Indian Express",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeWp3ZG8zbnJmNjFrazZpRG41ZzI5NHVQbkdHanF3OGs4NUYxcFAzR2ZLZ0VOc2lYUFVfUG9zbU1UV0d0Yk9ZblIxaTdSbEtzUlFkUGN2ZWZSeXpuU1N0ZmVzemYzdkJnSExSMzc4eUpMWWRSRHdoV1hFTnVEOFFqLUhnVWQ1cUM2MGtmSUs0ZzRHMUN6Z2ZTSUF5dHdrdjhCZUZvZ2MtVDg1MzlWZ1hremV6dDZaSlVMbEpZVDRkN1AtNUR5M1UzN0VLemZpS01PN2FoUlZzbnnSAd8BQVVfeXFMTmw1Y3VTR1VmSlV5SjlhMzF2dUlSR3lXODhOY2xqMm4yc3VUY0pTMVZqT3BZUFAzMXViWnY2ZUMyRkYxZ3E3ekd2ZmwzRlVPcHFTbXBYWXFEV2FjeGs4clZSLVJ1ZlNJUjNfd3ZQaGp3c2h5cmFvRXdBQ1lsRHpYSmFDb2tHOVAxdGtKaUVxaUpVTzg3cGVhNTV3NWxUZnZYZlRuXzgwMy1CUWVNS1d1eXZDNlIzT29SdjdHdTVvUXlRN2NxaUhneU5Eck9PWjhBMDF5QmphY2hpTlpjNkhtTQ?oc=5",
           "traducida": false
-        },
-        {
-          "id": "aea69fa2fbfea19e7c26",
-          "fecha": "2026-11-16T08:10:03+00:00",
-          "titulo": "Pakistan’s participation in SCO Civilisational Forum | Explained",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/pakistans-participation-in-sco-civilisational-forum-explained/article71707102.ece",
-          "traducida": false
         }
       ]
     },
     {
       "id": "oriente-medio",
       "titulo": "Oriente Medio: seguridad y diplomacia",
-      "cantidad_archivada": 1688,
-      "nuevas_24h": 32,
-      "anteriores_24h": 41,
+      "cantidad_archivada": 1690,
+      "nuevas_24h": 34,
+      "anteriores_24h": 40,
       "dias_con_registros": 32,
-      "fecha_ultima": "2026-11-16T20:36:25+00:00",
+      "fecha_ultima": "2026-11-16T21:40:07+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "74dca108d80eb27cbdb7",
+          "fecha": "2026-11-16T21:40:07+00:00",
+          "titulo": "Houthi rebel advance in Yemen may further destabilise global economy",
+          "fuente": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+          "traducida": false
+        },
+        {
+          "id": "ca89adf20e18c0d60d95",
+          "fecha": "2026-11-16T21:13:02+00:00",
+          "titulo": "Third US aircraft carrier brings thousands more troops to Middle East",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/16/aircraft-middle-east-trump-military",
+          "traducida": false
+        },
         {
           "id": "9028ec8d48f771787308",
           "fecha": "2026-11-16T20:36:25+00:00",
@@ -739,35 +755,27 @@
           "fuente": "The Hindu",
           "url": "https://www.thehindu.com/news/international/icj-to-rule-on-rohingya-genocide-refugee-crisis-timeline-of-the-case-and-more/article71707225.ece",
           "traducida": false
-        },
-        {
-          "id": "f78829236dd8ad21d7cd",
-          "fecha": "2026-11-16T09:40:29+00:00",
-          "titulo": "Albanese treads tightrope in upcoming Trump meeting, wanting Indo-Pacific engagement and end to Iran and Ukraine wars",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars",
-          "traducida": false
-        },
-        {
-          "id": "149371e84d1b5bd86c12",
-          "fecha": "2026-11-16T08:58:46+00:00",
-          "titulo": "Israeli opposition chiefs denounce Netanyahu over 'attempted coup'",
-          "fuente": "Euronews",
-          "url": "https://www.euronews.com/2026/11/16/israeli-opposition-chiefs-denounce-netanyahu-over-attempted-coup",
-          "traducida": false
         }
       ]
     },
     {
       "id": "union-europea",
       "titulo": "Unión Europea y relaciones exteriores",
-      "cantidad_archivada": 695,
-      "nuevas_24h": 26,
+      "cantidad_archivada": 696,
+      "nuevas_24h": 27,
       "anteriores_24h": 14,
       "dias_con_registros": 32,
-      "fecha_ultima": "2026-11-16T20:12:21+00:00",
+      "fecha_ultima": "2026-11-16T22:08:48+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "97431921c1544f2651e4",
+          "fecha": "2026-11-16T22:08:48+00:00",
+          "titulo": "UK PM Andy Burnham says Brexit has not worked ahead of a reset summit with the EU",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/europe/article/3374654/uk-pm-andy-burnham-says-brexit-has-not-worked-ahead-reset-summit-eu",
+          "traducida": false
+        },
         {
           "id": "7b05a1b0d883ed077c58",
           "fecha": "2026-11-16T20:12:21+00:00",
@@ -999,27 +1007,27 @@
           "fuente": "Al Jazeera",
           "url": "https://www.aljazeera.com/sports/2026/11/15/germany-vs-netherlands-nations-league-preview-team-news-predictions?traffic_source=rss",
           "traducida": false
-        },
-        {
-          "id": "b01596a0716e8962067f",
-          "fecha": "2026-11-15T13:23:44+00:00",
-          "titulo": "La misión naval de la UE aborda en el Mediterráneo un petrolero sospechoso de formar parte de la flota fantasma de Rusia",
-          "fuente": "El País",
-          "url": "https://elpais.com/internacional/2026-11-15/la-mision-naval-de-la-ue-aborda-en-el-mediterraneo-un-petrolero-sospechoso-de-formar-parte-de-la-flota-fantasma-de-rusia.html",
-          "traducida": false
         }
       ]
     },
     {
       "id": "eeuu-china",
       "titulo": "Competencia estratégica Estados Unidos–China",
-      "cantidad_archivada": 219,
-      "nuevas_24h": 25,
-      "anteriores_24h": 6,
+      "cantidad_archivada": 220,
+      "nuevas_24h": 26,
+      "anteriores_24h": 5,
       "dias_con_registros": 29,
-      "fecha_ultima": "2026-11-16T17:47:31+00:00",
+      "fecha_ultima": "2026-11-16T21:41:01+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "c58cf58749eec6720dae",
+          "fecha": "2026-11-16T21:41:01+00:00",
+          "titulo": "Russian president to have three busy days in Shenzhen — Kremlin spokesman",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2219251",
+          "traducida": false
+        },
         {
           "id": "d2589ebb0b2d939c82e2",
           "fecha": "2026-11-16T17:47:31+00:00",
@@ -1251,27 +1259,27 @@
           "fuente": "The Guardian",
           "url": "https://www.theguardian.com/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean",
           "traducida": false
-        },
-        {
-          "id": "e07212374cc10e8d3db1",
-          "fecha": "2026-11-15T01:00:10+00:00",
-          "titulo": "Asean’s neutrality set to be tested as Philippines welcomes world leaders",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/week-asia/politics/article/3374395/aseans-neutrality-set-be-tested-philippines-welcomes-world-leaders",
-          "traducida": false
         }
       ]
     },
     {
       "id": "suramerica",
       "titulo": "Sudamérica: integración y política exterior",
-      "cantidad_archivada": 368,
+      "cantidad_archivada": 369,
       "nuevas_24h": 9,
       "anteriores_24h": 7,
       "dias_con_registros": 32,
-      "fecha_ultima": "2026-11-16T19:01:28+00:00",
+      "fecha_ultima": "2026-11-16T21:38:43+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "dc78459111dc034116c7",
+          "fecha": "2026-11-16T21:38:43+00:00",
+          "titulo": "Squeezed in the US, China’s CATL bets on Argentina’s battery storage boom",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/article/3374653/squeezed-us-chinas-catl-bets-argentinas-battery-storage-boom",
+          "traducida": false
+        },
         {
           "id": "79264960e5c308d29d12",
           "fecha": "2026-11-16T19:01:28+00:00",
@@ -1503,266 +1511,6 @@
           "fuente": "GOV.UK FCDO",
           "url": "https://www.gov.uk/government/speeches/call-to-action-joint-statement-on-health-and-humanitarian-access-into-gaza",
           "traducida": false
-        },
-        {
-          "id": "60c14dc5628d1b4798bc",
-          "fecha": "2026-11-12T14:43:35+00:00",
-          "titulo": "Brazil intends to increase supplies of fertilizers from Iran — Lula da Silva",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2217245",
-          "traducida": false
-        }
-      ]
-    },
-    {
-      "id": "peru-mundo",
-      "titulo": "Perú en el sistema internacional",
-      "cantidad_archivada": 38,
-      "nuevas_24h": 5,
-      "anteriores_24h": 2,
-      "dias_con_registros": 12,
-      "fecha_ultima": "2026-11-16T08:55:08+00:00",
-      "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
-      "publicaciones": [
-        {
-          "id": "2f6dcba096c56b22e6f3",
-          "fecha": "2026-11-16T08:55:08+00:00",
-          "titulo": "Peruvians honour Pope Leo XIV with procession through Lima",
-          "fuente": "Euronews",
-          "url": "https://www.euronews.com/video/2026/11/16/peruvians-honour-pope-leo-xiv-with-procession-through-lima",
-          "traducida": false
-        },
-        {
-          "id": "695ee4fc05244ae4186d",
-          "fecha": "2026-11-16T05:10:26+00:00",
-          "titulo": "Pope Leo XIV in visit to Peruvian rainforest demands justice for slain Amazon defenders",
-          "fuente": "Euronews",
-          "url": "https://www.euronews.com/2026/11/16/pope-leo-xiv-in-visit-to-peruvian-rainforest-demands-justice-for-slain-amazon-defenders",
-          "traducida": false
-        },
-        {
-          "id": "1b8ebbd43f78db22fb85",
-          "fecha": "2026-11-16T01:13:44+00:00",
-          "titulo": "‘The blood of these brothers cries out’: Pope Leo demands justice for people killed protecting the Amazon",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/16/pope-leo-speech-peru-justice-for-amazon-activists-environment",
-          "traducida": false
-        },
-        {
-          "id": "89fffebcc39ab5baba83",
-          "fecha": "2026-11-16T00:04:00+00:00",
-          "titulo": "Pope Leo flies in helicopter with Peruvian Air Force pilots - CNN",
-          "fuente": "CNN",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ1hlM01NekhzZDdqcFhkUEpNOHpXQkJJU193d2RFMUNDeTk5RDhRV3VJX05kX2dLQkJ6OTE2eWpIUmFHQU9haTFhNnFEUE9HNG9YeTVaeDlha0ZjUGxJVVR0MkNsdDhvWFhaNDVoMXVsSVpfcVM0cHJtdUoxSG11OHI5bVJyM3BGbjNkZWRTT3VEbC1Ganl0YmpweXR4RElaX2NkUDVSaUJhMUVB?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "65ee4ed9ae8faa95c4ff",
-          "fecha": "2026-11-15T21:41:00+00:00",
-          "titulo": "Pope in Peruvian rainforest demands justice for environmental defenders killed for protecting Amazon - Politico",
-          "fuente": "POLITICO US",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQm1kWFJtUzFLSmpqSm9GdjlieFFETVBPQlJ4M0NYT01xYWg2eEIwX2x4WkR0RDhheVJjaXlXYkJzZ0szUk94aGFQM25RZE5UMnRWRzJfZjdKOEFxVHRWQmJKRHNSSEl0bkRock0tb1BIZGhJd0RSR3YtbkFubWRpRDNYYw?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "c27285778da4b00dd6a1",
-          "fecha": "2026-11-15T18:38:11+00:00",
-          "titulo": "Pope Leo rides in helicopter cockpit during Peru trip",
-          "fuente": "BBC News",
-          "url": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
-          "traducida": false
-        },
-        {
-          "id": "3b379d430bd5efb03d07",
-          "fecha": "2026-11-15T12:45:00+00:00",
-          "titulo": "Pope crosses Peru in finale of trip home to visit flock high in Andes and deep in Amazon - Politico",
-          "fuente": "POLITICO US",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTjlFUDFrd25XM3lQRjBEVXNDcXpsd1pRMlpCVklHa0JOLVNLMHluNUJ5ek1WMmYyeUgzQWhfUlBwZXVJYVVYTzlRNDZ0akVxQkxNWEJKSFZSeWRBQTFWaHA4YlFyOVZvZFBiU1ZhQU1nSGxKWlpqUXZSLUJiV0N1a3NB?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "e72f028430d7b6b65b8b",
-          "fecha": "2026-11-13T20:28:20+00:00",
-          "titulo": "Pope thanks crowds on emotional return to ‘second home’ in Peru’s Chiclayo",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/13/pope-thanks-crowds-on-emotional-return-to-second-home-in-perus-chiclayo?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "cc77c38ca8f56d4a9ecc",
-          "fecha": "2026-11-13T18:34:45+00:00",
-          "titulo": "The Peruvian city that has embraced Pope Leo as one of its own",
-          "fuente": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
-          "traducida": false
-        },
-        {
-          "id": "1998622e0e074d43be08",
-          "fecha": "2026-11-13T18:05:38+00:00",
-          "titulo": "Peruvians flock to mass with Pope Leo in city he served as bishop",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/world/americas/article/3374406/peruvians-flock-mass-pope-leo-city-he-served-bishop",
-          "traducida": false
-        },
-        {
-          "id": "eaa7f01a088f549bce57",
-          "fecha": "2026-11-13T08:11:29+00:00",
-          "titulo": "Peru: Pope Leo XIV leads youth prayer vigil at Lima's National Stadium",
-          "fuente": "Euronews",
-          "url": "https://www.euronews.com/video/2026/11/13/peru-pope-leo-xiv-leads-youth-prayer-vigil-at-limas-national-stadium",
-          "traducida": false
-        },
-        {
-          "id": "6d09fa3fe07dcc3dc660",
-          "fecha": "2026-11-13T07:54:05+00:00",
-          "titulo": "Pope Leo XIV denounces ‘machismo,’ demands women be protected in emotional return to Peru",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/pope-leo-xiv-denounces-machismo-demands-women-be-protected-in-emotional-return-to-peru/article71696760.ece",
-          "traducida": false
-        },
-        {
-          "id": "fb1e6cf7ad740e947b30",
-          "fecha": "2026-11-12T20:42:27+00:00",
-          "titulo": "US invests in Peru’s Callao as port battle with China’s Chancay megaport continues",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/us/diplomacy/article/3374267/us-invests-perus-callao-port-battle-chinas-chancay-megaport-continues",
-          "traducida": false
-        },
-        {
-          "id": "073b6d17faa21a1541c4",
-          "fecha": "2026-11-12T19:50:49+00:00",
-          "titulo": "León XIV critica el machismo en Perú: “La violencia contra las mujeres hiere a toda la humanidad”",
-          "fuente": "El País",
-          "url": "https://elpais.com/america/2026-11-12/leon-xiv-critica-el-machismo-en-peru-la-violencia-contra-las-mujeres-hiere-a-toda-la-humanidad.html",
-          "traducida": false
-        },
-        {
-          "id": "5f9b14de06fa459c8480",
-          "fecha": "2026-11-12T17:24:08+00:00",
-          "titulo": "Au Pérou, Léon XIV, de retour dans sa « patrie », appelle les autorités à traiter les « événements du passé » avec « justice et sensibilité »",
-          "fuente": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/12/au-perou-de-retour-dans-sa-patrie-leon-xiv-a-appele-les-autorites-a-traiter-les-evenements-du-passe-avec-justice-et-sensibilite_6809138_3210.html",
-          "traducida": false
-        },
-        {
-          "id": "90409f3f7949a6852cc1",
-          "fecha": "2026-11-12T09:07:55+00:00",
-          "titulo": "Peru: Pope Leo XIV returns to his adopted homeland on historic visit",
-          "fuente": "Euronews",
-          "url": "https://www.euronews.com/video/2026/11/12/peru-pope-leo-xiv-returns-to-his-adopted-homeland-on-historic-visit",
-          "traducida": false
-        },
-        {
-          "id": "384b817dc7c7e1026c7e",
-          "fecha": "2026-11-12T09:00:13+00:00",
-          "titulo": "Pope Leo XIV welcomed by millions on return to his second home Peru",
-          "fuente": "Euronews",
-          "url": "https://www.euronews.com/2026/11/12/pope-leo-xiv-welcomed-by-millions-on-return-to-his-second-home-peru",
-          "traducida": false
-        },
-        {
-          "id": "68de82384ab494513e4a",
-          "fecha": "2026-11-12T07:37:42+00:00",
-          "titulo": "Pope Leo welcomed by millions in his second ‘homeland’ of Peru",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/12/pope-leo-welcomed-by-millions-in-his-second-homeland-of-peru?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "1f509ba5a09597592851",
-          "fecha": "2026-11-12T03:20:39+00:00",
-          "titulo": "León XIV en Lima: “Las guerras reclaman una diplomacia que respete el derecho internacional”",
-          "fuente": "El País",
-          "url": "https://elpais.com/america/2026-11-12/leon-xiv-en-lima-las-guerras-reclaman-una-diplomacia-que-respete-el-derecho-internacional.html",
-          "traducida": false
-        },
-        {
-          "id": "a3182a2562dac46b6fcb",
-          "fecha": "2026-11-11T23:41:00+00:00",
-          "titulo": "Pope Leo returns to Peru where he was once a missionary - CNN",
-          "fuente": "CNN",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSEpTWHYtd0VzeEtsYVdDUDZ3ZUJHbC1aVndvY0F1SnhFNHNXeU4zanBMTjlhVDFkU2xaLXVxdTJyWUwwOFU4SlhUbUQ0SGtHZ0hLV0dhYmpGczlPeFBicTRZb0ViN0gtNG4wTHVVNlhOaTdhbkpFVFJsLUt2bGVqUWdqQlhFQQ?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "040ab706dcacebba19ec",
-          "fecha": "2026-11-11T20:44:05+00:00",
-          "titulo": "Pope Leo draws 3-million-strong crowd at Argentina’s holiest shrine",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/world/americas/article/3374124/pope-leo-draws-3-million-strong-crowd-argentinas-holiest-shrine",
-          "traducida": false
-        },
-        {
-          "id": "eb2e8cf2db62b786c07d",
-          "fecha": "2026-11-11T10:00:15+00:00",
-          "titulo": "Peruvian homecoming: Pope Leo returns to the country that shaped his path to the papacy - CNN",
-          "fuente": "CNN",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YV3VUUkVzaERUZmhYZ183Y1V6MHRROE1IOUVzd3hQMHBfM2plSW45RGNYS0xQMWpvU0pTd3pMV0NtbDNUZ3dQR1hVSGJQZnY3WEx5bEtUZTUzaHVsaEVvMXlpWUtld09ZN01BWW53blZBZWcteEl0T1ZB?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "2585baa8e524fccf3d53",
-          "fecha": "2026-11-10T16:50:07+00:00",
-          "titulo": "British maritime agency reports projectile strike on tanker off Oman's coast",
-          "fuente": "TASS",
-          "url": "https://tass.com/emergencies/2215691",
-          "traducida": false
-        },
-        {
-          "id": "681e692c93bc892a9815",
-          "fecha": "2026-11-10T07:45:25+00:00",
-          "titulo": "Peru: Giant statue of Pope Leo XIV unveiled ahead of papal visit",
-          "fuente": "Euronews",
-          "url": "https://www.euronews.com/video/2026/11/10/peru-giant-statue-of-pope-leo-xiv-unveiled-ahead-of-papal-visit",
-          "traducida": false
-        },
-        {
-          "id": "a0948435b48eccf499bd",
-          "fecha": "2026-11-10T04:30:01+00:00",
-          "titulo": "La investigación vaticana del Sodalicio revela extracciones de ovarios y uso de psicofármacos para tratar la homosexualidad",
-          "fuente": "El País",
-          "url": "https://elpais.com/sociedad/2026-11-10/la-investigacion-vaticana-del-sodalicio-revela-extracciones-de-ovarios-y-uso-de-psicofarmacos-para-tratar-la-homosexualidad.html",
-          "traducida": false
-        },
-        {
-          "id": "bfda470de770220f023d",
-          "fecha": "2026-11-09T16:00:16+00:00",
-          "titulo": "Au Pérou, l’autorité électorale sanctionne les « réélections déguisées » des maires après le scrutin",
-          "fuente": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/09/au-perou-l-autorite-electorale-sanctionne-les-reelections-deguisees-des-maires-apres-le-scrutin_6808668_3210.html",
-          "traducida": false
-        },
-        {
-          "id": "960834a4736a1af5f546",
-          "fecha": "2026-11-06T20:30:15+00:00",
-          "titulo": "Pope Leo in Uruguay to kick off South America tour just weeks after lung surgery",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/world/americas/article/3373618/pope-leo-uruguay-kick-south-america-tour-just-weeks-after-lung-surgery",
-          "traducida": false
-        },
-        {
-          "id": "1e0e1e830d9ac75e0db7",
-          "fecha": "2026-11-06T18:59:16+00:00",
-          "titulo": "La visita del Papa León XIV en Uruguay, en vivo | El Papa aterriza en Montevideo, su primera escala de la gira por Uruguay, Argentina y Perú",
-          "fuente": "El País",
-          "url": "https://elpais.com/america/2026-11-06/la-visita-del-papa-leon-xiv-en-uruguay-en-vivo.html",
-          "traducida": false
-        },
-        {
-          "id": "eba931e97bacff3757b7",
-          "fecha": "2026-11-06T16:13:51+00:00",
-          "titulo": "Peru travel advice",
-          "fuente": "GOV.UK FCDO",
-          "url": "https://www.gov.uk/foreign-travel-advice/peru",
-          "traducida": false
-        },
-        {
-          "id": "ac33850a6989d660c169",
-          "fecha": "2026-11-06T11:59:46+00:00",
-          "titulo": "First Thing: Global tech stocks wobble over AI regulation fears after midterms",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/nov/06/first-thing-tech-stocks-ai-regulation-midterms",
-          "traducida": false
         }
       ]
     },
@@ -1771,7 +1519,7 @@
       "titulo": "Naciones Unidas y multilateralismo",
       "cantidad_archivada": 88,
       "nuevas_24h": 4,
-      "anteriores_24h": 2,
+      "anteriores_24h": 1,
       "dias_con_registros": 27,
       "fecha_ultima": "2026-11-16T18:34:29+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -2014,6 +1762,258 @@
           "titulo": "UNSC meetings on Ukraine in no way bring conflict settlement closer — Russian diplomat",
           "fuente": "TASS",
           "url": "https://tass.com/politics/2215013",
+          "traducida": false
+        }
+      ]
+    },
+    {
+      "id": "peru-mundo",
+      "titulo": "Perú en el sistema internacional",
+      "cantidad_archivada": 38,
+      "nuevas_24h": 4,
+      "anteriores_24h": 3,
+      "dias_con_registros": 12,
+      "fecha_ultima": "2026-11-16T08:55:08+00:00",
+      "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
+      "publicaciones": [
+        {
+          "id": "2f6dcba096c56b22e6f3",
+          "fecha": "2026-11-16T08:55:08+00:00",
+          "titulo": "Peruvians honour Pope Leo XIV with procession through Lima",
+          "fuente": "Euronews",
+          "url": "https://www.euronews.com/video/2026/11/16/peruvians-honour-pope-leo-xiv-with-procession-through-lima",
+          "traducida": false
+        },
+        {
+          "id": "695ee4fc05244ae4186d",
+          "fecha": "2026-11-16T05:10:26+00:00",
+          "titulo": "Pope Leo XIV in visit to Peruvian rainforest demands justice for slain Amazon defenders",
+          "fuente": "Euronews",
+          "url": "https://www.euronews.com/2026/11/16/pope-leo-xiv-in-visit-to-peruvian-rainforest-demands-justice-for-slain-amazon-defenders",
+          "traducida": false
+        },
+        {
+          "id": "1b8ebbd43f78db22fb85",
+          "fecha": "2026-11-16T01:13:44+00:00",
+          "titulo": "‘The blood of these brothers cries out’: Pope Leo demands justice for people killed protecting the Amazon",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/16/pope-leo-speech-peru-justice-for-amazon-activists-environment",
+          "traducida": false
+        },
+        {
+          "id": "89fffebcc39ab5baba83",
+          "fecha": "2026-11-16T00:04:00+00:00",
+          "titulo": "Pope Leo flies in helicopter with Peruvian Air Force pilots - CNN",
+          "fuente": "CNN",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ1hlM01NekhzZDdqcFhkUEpNOHpXQkJJU193d2RFMUNDeTk5RDhRV3VJX05kX2dLQkJ6OTE2eWpIUmFHQU9haTFhNnFEUE9HNG9YeTVaeDlha0ZjUGxJVVR0MkNsdDhvWFhaNDVoMXVsSVpfcVM0cHJtdUoxSG11OHI5bVJyM3BGbjNkZWRTT3VEbC1Ganl0YmpweXR4RElaX2NkUDVSaUJhMUVB?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "65ee4ed9ae8faa95c4ff",
+          "fecha": "2026-11-15T21:41:00+00:00",
+          "titulo": "Pope in Peruvian rainforest demands justice for environmental defenders killed for protecting Amazon - Politico",
+          "fuente": "POLITICO US",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQm1kWFJtUzFLSmpqSm9GdjlieFFETVBPQlJ4M0NYT01xYWg2eEIwX2x4WkR0RDhheVJjaXlXYkJzZ0szUk94aGFQM25RZE5UMnRWRzJfZjdKOEFxVHRWQmJKRHNSSEl0bkRock0tb1BIZGhJd0RSR3YtbkFubWRpRDNYYw?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "c27285778da4b00dd6a1",
+          "fecha": "2026-11-15T18:38:11+00:00",
+          "titulo": "Pope Leo rides in helicopter cockpit during Peru trip",
+          "fuente": "BBC News",
+          "url": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
+          "traducida": false
+        },
+        {
+          "id": "3b379d430bd5efb03d07",
+          "fecha": "2026-11-15T12:45:00+00:00",
+          "titulo": "Pope crosses Peru in finale of trip home to visit flock high in Andes and deep in Amazon - Politico",
+          "fuente": "POLITICO US",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTjlFUDFrd25XM3lQRjBEVXNDcXpsd1pRMlpCVklHa0JOLVNLMHluNUJ5ek1WMmYyeUgzQWhfUlBwZXVJYVVYTzlRNDZ0akVxQkxNWEJKSFZSeWRBQTFWaHA4YlFyOVZvZFBiU1ZhQU1nSGxKWlpqUXZSLUJiV0N1a3NB?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "e72f028430d7b6b65b8b",
+          "fecha": "2026-11-13T20:28:20+00:00",
+          "titulo": "Pope thanks crowds on emotional return to ‘second home’ in Peru’s Chiclayo",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/13/pope-thanks-crowds-on-emotional-return-to-second-home-in-perus-chiclayo?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "cc77c38ca8f56d4a9ecc",
+          "fecha": "2026-11-13T18:34:45+00:00",
+          "titulo": "The Peruvian city that has embraced Pope Leo as one of its own",
+          "fuente": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
+          "traducida": false
+        },
+        {
+          "id": "1998622e0e074d43be08",
+          "fecha": "2026-11-13T18:05:38+00:00",
+          "titulo": "Peruvians flock to mass with Pope Leo in city he served as bishop",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/americas/article/3374406/peruvians-flock-mass-pope-leo-city-he-served-bishop",
+          "traducida": false
+        },
+        {
+          "id": "eaa7f01a088f549bce57",
+          "fecha": "2026-11-13T08:11:29+00:00",
+          "titulo": "Peru: Pope Leo XIV leads youth prayer vigil at Lima's National Stadium",
+          "fuente": "Euronews",
+          "url": "https://www.euronews.com/video/2026/11/13/peru-pope-leo-xiv-leads-youth-prayer-vigil-at-limas-national-stadium",
+          "traducida": false
+        },
+        {
+          "id": "6d09fa3fe07dcc3dc660",
+          "fecha": "2026-11-13T07:54:05+00:00",
+          "titulo": "Pope Leo XIV denounces ‘machismo,’ demands women be protected in emotional return to Peru",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/pope-leo-xiv-denounces-machismo-demands-women-be-protected-in-emotional-return-to-peru/article71696760.ece",
+          "traducida": false
+        },
+        {
+          "id": "fb1e6cf7ad740e947b30",
+          "fecha": "2026-11-12T20:42:27+00:00",
+          "titulo": "US invests in Peru’s Callao as port battle with China’s Chancay megaport continues",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/us/diplomacy/article/3374267/us-invests-perus-callao-port-battle-chinas-chancay-megaport-continues",
+          "traducida": false
+        },
+        {
+          "id": "073b6d17faa21a1541c4",
+          "fecha": "2026-11-12T19:50:49+00:00",
+          "titulo": "León XIV critica el machismo en Perú: “La violencia contra las mujeres hiere a toda la humanidad”",
+          "fuente": "El País",
+          "url": "https://elpais.com/america/2026-11-12/leon-xiv-critica-el-machismo-en-peru-la-violencia-contra-las-mujeres-hiere-a-toda-la-humanidad.html",
+          "traducida": false
+        },
+        {
+          "id": "5f9b14de06fa459c8480",
+          "fecha": "2026-11-12T17:24:08+00:00",
+          "titulo": "Au Pérou, Léon XIV, de retour dans sa « patrie », appelle les autorités à traiter les « événements du passé » avec « justice et sensibilité »",
+          "fuente": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/12/au-perou-de-retour-dans-sa-patrie-leon-xiv-a-appele-les-autorites-a-traiter-les-evenements-du-passe-avec-justice-et-sensibilite_6809138_3210.html",
+          "traducida": false
+        },
+        {
+          "id": "90409f3f7949a6852cc1",
+          "fecha": "2026-11-12T09:07:55+00:00",
+          "titulo": "Peru: Pope Leo XIV returns to his adopted homeland on historic visit",
+          "fuente": "Euronews",
+          "url": "https://www.euronews.com/video/2026/11/12/peru-pope-leo-xiv-returns-to-his-adopted-homeland-on-historic-visit",
+          "traducida": false
+        },
+        {
+          "id": "384b817dc7c7e1026c7e",
+          "fecha": "2026-11-12T09:00:13+00:00",
+          "titulo": "Pope Leo XIV welcomed by millions on return to his second home Peru",
+          "fuente": "Euronews",
+          "url": "https://www.euronews.com/2026/11/12/pope-leo-xiv-welcomed-by-millions-on-return-to-his-second-home-peru",
+          "traducida": false
+        },
+        {
+          "id": "68de82384ab494513e4a",
+          "fecha": "2026-11-12T07:37:42+00:00",
+          "titulo": "Pope Leo welcomed by millions in his second ‘homeland’ of Peru",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/12/pope-leo-welcomed-by-millions-in-his-second-homeland-of-peru?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "1f509ba5a09597592851",
+          "fecha": "2026-11-12T03:20:39+00:00",
+          "titulo": "León XIV en Lima: “Las guerras reclaman una diplomacia que respete el derecho internacional”",
+          "fuente": "El País",
+          "url": "https://elpais.com/america/2026-11-12/leon-xiv-en-lima-las-guerras-reclaman-una-diplomacia-que-respete-el-derecho-internacional.html",
+          "traducida": false
+        },
+        {
+          "id": "a3182a2562dac46b6fcb",
+          "fecha": "2026-11-11T23:41:00+00:00",
+          "titulo": "Pope Leo returns to Peru where he was once a missionary - CNN",
+          "fuente": "CNN",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSEpTWHYtd0VzeEtsYVdDUDZ3ZUJHbC1aVndvY0F1SnhFNHNXeU4zanBMTjlhVDFkU2xaLXVxdTJyWUwwOFU4SlhUbUQ0SGtHZ0hLV0dhYmpGczlPeFBicTRZb0ViN0gtNG4wTHVVNlhOaTdhbkpFVFJsLUt2bGVqUWdqQlhFQQ?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "040ab706dcacebba19ec",
+          "fecha": "2026-11-11T20:44:05+00:00",
+          "titulo": "Pope Leo draws 3-million-strong crowd at Argentina’s holiest shrine",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/americas/article/3374124/pope-leo-draws-3-million-strong-crowd-argentinas-holiest-shrine",
+          "traducida": false
+        },
+        {
+          "id": "eb2e8cf2db62b786c07d",
+          "fecha": "2026-11-11T10:00:15+00:00",
+          "titulo": "Peruvian homecoming: Pope Leo returns to the country that shaped his path to the papacy - CNN",
+          "fuente": "CNN",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YV3VUUkVzaERUZmhYZ183Y1V6MHRROE1IOUVzd3hQMHBfM2plSW45RGNYS0xQMWpvU0pTd3pMV0NtbDNUZ3dQR1hVSGJQZnY3WEx5bEtUZTUzaHVsaEVvMXlpWUtld09ZN01BWW53blZBZWcteEl0T1ZB?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "2585baa8e524fccf3d53",
+          "fecha": "2026-11-10T16:50:07+00:00",
+          "titulo": "British maritime agency reports projectile strike on tanker off Oman's coast",
+          "fuente": "TASS",
+          "url": "https://tass.com/emergencies/2215691",
+          "traducida": false
+        },
+        {
+          "id": "681e692c93bc892a9815",
+          "fecha": "2026-11-10T07:45:25+00:00",
+          "titulo": "Peru: Giant statue of Pope Leo XIV unveiled ahead of papal visit",
+          "fuente": "Euronews",
+          "url": "https://www.euronews.com/video/2026/11/10/peru-giant-statue-of-pope-leo-xiv-unveiled-ahead-of-papal-visit",
+          "traducida": false
+        },
+        {
+          "id": "a0948435b48eccf499bd",
+          "fecha": "2026-11-10T04:30:01+00:00",
+          "titulo": "La investigación vaticana del Sodalicio revela extracciones de ovarios y uso de psicofármacos para tratar la homosexualidad",
+          "fuente": "El País",
+          "url": "https://elpais.com/sociedad/2026-11-10/la-investigacion-vaticana-del-sodalicio-revela-extracciones-de-ovarios-y-uso-de-psicofarmacos-para-tratar-la-homosexualidad.html",
+          "traducida": false
+        },
+        {
+          "id": "bfda470de770220f023d",
+          "fecha": "2026-11-09T16:00:16+00:00",
+          "titulo": "Au Pérou, l’autorité électorale sanctionne les « réélections déguisées » des maires après le scrutin",
+          "fuente": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/09/au-perou-l-autorite-electorale-sanctionne-les-reelections-deguisees-des-maires-apres-le-scrutin_6808668_3210.html",
+          "traducida": false
+        },
+        {
+          "id": "960834a4736a1af5f546",
+          "fecha": "2026-11-06T20:30:15+00:00",
+          "titulo": "Pope Leo in Uruguay to kick off South America tour just weeks after lung surgery",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/americas/article/3373618/pope-leo-uruguay-kick-south-america-tour-just-weeks-after-lung-surgery",
+          "traducida": false
+        },
+        {
+          "id": "1e0e1e830d9ac75e0db7",
+          "fecha": "2026-11-06T18:59:16+00:00",
+          "titulo": "La visita del Papa León XIV en Uruguay, en vivo | El Papa aterriza en Montevideo, su primera escala de la gira por Uruguay, Argentina y Perú",
+          "fuente": "El País",
+          "url": "https://elpais.com/america/2026-11-06/la-visita-del-papa-leon-xiv-en-uruguay-en-vivo.html",
+          "traducida": false
+        },
+        {
+          "id": "eba931e97bacff3757b7",
+          "fecha": "2026-11-06T16:13:51+00:00",
+          "titulo": "Peru travel advice",
+          "fuente": "GOV.UK FCDO",
+          "url": "https://www.gov.uk/foreign-travel-advice/peru",
+          "traducida": false
+        },
+        {
+          "id": "ac33850a6989d660c169",
+          "fecha": "2026-11-06T11:59:46+00:00",
+          "titulo": "First Thing: Global tech stocks wobble over AI regulation fears after midterms",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/06/first-thing-tech-stocks-ai-regulation-midterms",
           "traducida": false
         }
       ]

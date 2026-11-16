@@ -1,11 +1,11 @@
 {
-  "updated_utc": "2026-11-16T21:17:05.816577+00:00",
+  "updated_utc": "2026-11-16T22:26:19.766849+00:00",
   "results": [
     {
       "source_id": "f16",
       "source_name": "CNN",
-      "status": "ok",
-      "count_recent": 50
+      "status": "error",
+      "message": "HTTP Error 429: Too Many Requests"
     },
     {
       "source_id": "f25",
@@ -89,7 +89,7 @@
       "source_id": "f67",
       "source_name": "GOV.UK FCDO",
       "status": "ok",
-      "count_recent": 10
+      "count_recent": 9
     },
     {
       "source_id": "f74",
