@@ -1,17 +1,49 @@
 {
-  "actualizado_utc": "2026-11-16T22:57:22.863091+00:00",
+  "actualizado_utc": "2026-11-16T23:34:17.732760+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 2512,
-      "nuevas_24h": 78,
-      "anteriores_24h": 58,
+      "cantidad_archivada": 2516,
+      "nuevas_24h": 82,
+      "anteriores_24h": 56,
       "dias_con_registros": 32,
-      "fecha_ultima": "2026-11-16T21:41:01+00:00",
+      "fecha_ultima": "2026-11-16T23:13:01+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "0e5bbed64d3a35d85d7d",
+          "fecha": "2026-11-16T23:13:01+00:00",
+          "titulo": "Ukrainian forces attack Crimean Bridge again — Head of the Republic of Crimea",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2219261",
+          "traducida": false
+        },
+        {
+          "id": "c077942a10a24552ca52",
+          "fecha": "2026-11-16T23:00:00+00:00",
+          "titulo": "China warmly welcomes Putin to APEC summit in Shenzhen — ambassador to Russia",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2219259",
+          "traducida": false
+        },
+        {
+          "id": "9619836a34edab6ac4cc",
+          "fecha": "2026-11-16T22:34:01+00:00",
+          "titulo": "Russian president begins busy three-day visit to Shenzhen",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2219255",
+          "traducida": false
+        },
+        {
+          "id": "2131fe812b487a4239eb",
+          "fecha": "2026-11-16T22:15:00+00:00",
+          "titulo": "APEC CEO Summit opens in Shenzhen",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2219253",
+          "traducida": false
+        },
         {
           "id": "c58cf58749eec6720dae",
           "fecha": "2026-11-16T21:41:01+00:00",
@@ -218,38 +250,6 @@
           "titulo": "Europeans try to 'pull' Trump away from Russia after Anchorage summit — Lavrov",
           "fuente": "TASS",
           "url": "https://tass.com/politics/2219117",
-          "traducida": false
-        },
-        {
-          "id": "4669e4125a7a3592adf8",
-          "fecha": "2026-11-16T17:08:41+00:00",
-          "titulo": "Russia grateful to UAE for mediating POW exchange with Ukraine — Shoigu",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2219113",
-          "traducida": false
-        },
-        {
-          "id": "6de432992798bdb27a4d",
-          "fecha": "2026-11-16T16:56:42+00:00",
-          "titulo": "High-ranking delegation to accompany Putin in China — Kremlin aide",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2219107",
-          "traducida": false
-        },
-        {
-          "id": "236a055b3317bcde5a82",
-          "fecha": "2026-11-16T16:53:58+00:00",
-          "titulo": "Russia, US, China may make separate statements on presidents’ trilateral meeting — Kremlin",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2219105",
-          "traducida": false
-        },
-        {
-          "id": "8322942bae5c8fb7ef36",
-          "fecha": "2026-11-16T16:52:46+00:00",
-          "titulo": "One should not talk to US 'with one's mouth agape in delight,' says Lavrov",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2219101",
           "traducida": false
         }
       ]
@@ -1013,13 +1013,21 @@
     {
       "id": "eeuu-china",
       "titulo": "Competencia estratégica Estados Unidos–China",
-      "cantidad_archivada": 220,
-      "nuevas_24h": 26,
+      "cantidad_archivada": 221,
+      "nuevas_24h": 27,
       "anteriores_24h": 5,
       "dias_con_registros": 29,
-      "fecha_ultima": "2026-11-16T21:41:01+00:00",
+      "fecha_ultima": "2026-11-16T22:15:00+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "2131fe812b487a4239eb",
+          "fecha": "2026-11-16T22:15:00+00:00",
+          "titulo": "APEC CEO Summit opens in Shenzhen",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2219253",
+          "traducida": false
+        },
         {
           "id": "c58cf58749eec6720dae",
           "fecha": "2026-11-16T21:41:01+00:00",
@@ -1250,14 +1258,6 @@
           "titulo": "Anthony Albanese welcomes Trump-Xi-Putin summit – even as European leaders express reservations",
           "fuente": "The Guardian",
           "url": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-welcomes-trump-xi-putin-summit-even-as-european-leaders-express-reservations",
-          "traducida": false
-        },
-        {
-          "id": "48c060ca9d409921abfa",
-          "fecha": "2026-11-15T04:00:02+00:00",
-          "titulo": "World leaders head to Asia for back-to-back diplomatic summits",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean",
           "traducida": false
         }
       ]
@@ -1517,13 +1517,29 @@
     {
       "id": "onu",
       "titulo": "Naciones Unidas y multilateralismo",
-      "cantidad_archivada": 88,
-      "nuevas_24h": 4,
+      "cantidad_archivada": 90,
+      "nuevas_24h": 6,
       "anteriores_24h": 1,
       "dias_con_registros": 27,
-      "fecha_ultima": "2026-11-16T18:34:29+00:00",
+      "fecha_ultima": "2026-11-16T23:30:07+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "4820503f71570cebad9a",
+          "fecha": "2026-11-16T23:30:07+00:00",
+          "titulo": "Former Hong Kong leader CY Leung appeals for aid to help refugees in Djibouti",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/hong-kong/society/article/3374636/former-hong-kong-leader-cy-leung-appeals-aid-help-refugees-djibouti",
+          "traducida": false
+        },
+        {
+          "id": "a5d1bff5c06f3ea933d1",
+          "fecha": "2026-11-16T23:16:38+00:00",
+          "titulo": "US agency’s rare AI chip disclaimer exposes rift in Trump administration: experts",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/us/article/3374656/us-agencys-rare-ai-chip-disclaimer-exposes-rift-trump-administration-experts",
+          "traducida": false
+        },
         {
           "id": "75f08d5e4098f6a3c6ef",
           "fecha": "2026-11-16T18:34:29+00:00",
@@ -1746,22 +1762,6 @@
           "titulo": "Brazil’s Lula heads to Cop31 on first trip since re-election",
           "fuente": "South China Morning Post",
           "url": "https://www.scmp.com/news/world/americas/article/3373847/brazils-lula-heads-cop31-first-trip-re-election",
-          "traducida": false
-        },
-        {
-          "id": "6a08bee58c02364ce83d",
-          "fecha": "2026-11-09T17:26:28+00:00",
-          "titulo": "Russia does not seek armed confrontation with Europe — diplomat",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2215015",
-          "traducida": false
-        },
-        {
-          "id": "a1d655b295370d5ebf5d",
-          "fecha": "2026-11-09T17:24:16+00:00",
-          "titulo": "UNSC meetings on Ukraine in no way bring conflict settlement closer — Russian diplomat",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2215013",
           "traducida": false
         }
       ]

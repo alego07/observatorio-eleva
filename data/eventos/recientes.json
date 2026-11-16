@@ -1,51 +1,37 @@
 {
-  "created_utc": "2026-11-16T22:57:22.800957+00:00",
+  "created_utc": "2026-11-16T23:34:17.680985+00:00",
   "events": [
     {
-      "id": "a-849b24f49711b2136815",
+      "id": "a-c077942a10a24552ca52",
       "fecha": "2026-11-16",
-      "titulo_fuente": "Canada could work with Chinese automakers if US trade talks fail, says Carney",
+      "titulo_fuente": "China warmly welcomes Putin to APEC summit in Shenzhen — ambassador to Russia",
       "region": "China",
       "temas": [
         "Diplomacia",
-        "Seguridad y conflictos",
-        "Comercio y finanzas"
+        "Seguridad y conflictos"
       ],
       "noticias": [
         {
-          "id": "849b24f49711b2136815",
-          "titulo_original": "Canada could work with Chinese automakers if US trade talks fail, says Carney",
-          "titulo_es": "",
-          "url": "https://www.theguardian.com/world/2026/nov/16/canada-carney-cars-evs-tariffs-xi-jinping-china-trump-trade-talks",
-          "fuente": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-16T04:39:20+00:00",
+          "id": "c077942a10a24552ca52",
+          "titulo_original": "China warmly welcomes Putin to APEC summit in Shenzhen — ambassador to Russia",
+          "titulo_es": "China acoge calurosamente a Putin en la cumbre de la APEC en Shenzhen — embajador en Rusia",
+          "url": "https://tass.com/politics/2219259",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-16T23:00:00+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Ahead of Apec summit, PM says ‘Canada is going to move forward either way’ when asked if Chinese investment was leverage in US negotiations The prime minister of Canada, Mark Carney, said the country could turn to Chinese automakers if trade negotiations with the US president, Donald Trump, failed to preserve an integrated North American auto industry. Carney’s comments in Cambodia on Monday came ahead of a planned meeting with Chinese leader Xi ",
-          "resumen_es": ""
-        },
-        {
-          "id": "bf98af20260c01db065e",
-          "titulo_original": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/news/international/carney-says-canada-could-turn-to-chinese-automakers-if-trump-trade-talks-fail/article71706703.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-11-16T03:46:11+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Mr. Carney said any Chinese investment would have to involve substantial manufacturing in Canada rather than simply assembling imported parts",
-          "resumen_es": ""
+          "resumen_original": "According to Zhang Hanhui, Beijing is convinced that a meeting between the Russian leader and Chinese President Xi Jinping on the sidelines of the summit will give a powerful new impetus to the steady development of relations between the two countries",
+          "resumen_es": "Según Zhang Hanhui, Beijing está convencida de que una reunión entre el líder ruso y el presidente chino Xi Jinping en el margen de la cumbre dará un nuevo impulso poderoso al desarrollo constante de las relaciones entre el tw"
         }
       ],
       "fuentes": [
-        "The Guardian",
-        "The Hindu"
+        "TASS"
       ],
       "actores_mencionados": [
         "China",
-        "Estados Unidos"
+        "Rusia"
       ],
-      "fuentes_independientes": 2,
+      "fuentes_independientes": 1,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
         "nombre": "Liberalismo institucional y negociación",
@@ -54,11 +40,58 @@
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 9,
+      "prioridad_orientativa": 8,
       "motivos_seleccion": [
-        "Cobertura de fuentes distintas",
-        "Actores relevantes: China, Estados Unidos",
-        "Ámbito: Comercio y finanzas, Diplomacia",
+        "Actores relevantes: China, Rusia",
+        "Ámbito: Diplomacia, Seguridad y conflictos",
+        "Posible decisión institucional o negociación"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-2131fe812b487a4239eb",
+      "fecha": "2026-11-16",
+      "titulo_fuente": "APEC CEO Summit opens in Shenzhen",
+      "region": "China",
+      "temas": [
+        "Diplomacia"
+      ],
+      "noticias": [
+        {
+          "id": "2131fe812b487a4239eb",
+          "titulo_original": "APEC CEO Summit opens in Shenzhen",
+          "titulo_es": "APEC CEO La Cumbre se inaugura en Shenzhen",
+          "url": "https://tass.com/politics/2219253",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-16T22:15:00+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Kremlin Spokesman Dmitry Peskov said Russian President Vladimir Putin, Chinese President Xi Jinping and US President Donald Trump would meet on November 19",
+          "resumen_es": "El portavoz de Kremlin Dmitry Peskov dijo que el presidente ruso Vladimir Putin, el presidente chino Xi Jinping y el presidente estadounidense Donald Trump se reunirían el 19 de noviembre."
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "China",
+        "Rusia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 8,
+      "motivos_seleccion": [
+        "Actores relevantes: China, Estados Unidos, Rusia",
+        "Ámbito: Diplomacia",
         "Posible decisión institucional o negociación"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
@@ -593,6 +626,55 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-849b24f49711b2136815",
+      "fecha": "2026-11-16",
+      "titulo_fuente": "Canada could work with Chinese automakers if US trade talks fail, says Carney",
+      "region": "China",
+      "temas": [
+        "Diplomacia",
+        "Seguridad y conflictos",
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "849b24f49711b2136815",
+          "titulo_original": "Canada could work with Chinese automakers if US trade talks fail, says Carney",
+          "titulo_es": "",
+          "url": "https://www.theguardian.com/world/2026/nov/16/canada-carney-cars-evs-tariffs-xi-jinping-china-trump-trade-talks",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-16T04:39:20+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Ahead of Apec summit, PM says ‘Canada is going to move forward either way’ when asked if Chinese investment was leverage in US negotiations The prime minister of Canada, Mark Carney, said the country could turn to Chinese automakers if trade negotiations with the US president, Donald Trump, failed to preserve an integrated North American auto industry. Carney’s comments in Cambodia on Monday came ahead of a planned meeting with Chinese leader Xi ",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "The Guardian"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "China"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 8,
+      "motivos_seleccion": [
+        "Actores relevantes: China, Estados Unidos",
+        "Ámbito: Comercio y finanzas, Diplomacia",
+        "Posible decisión institucional o negociación"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-97431921c1544f2651e4",
       "fecha": "2026-11-16",
       "titulo_fuente": "UK PM Andy Burnham says Brexit has not worked ahead of a reset summit with the EU",
@@ -799,6 +881,53 @@
       "motivos_seleccion": [
         "Actores relevantes: Perú",
         "Mención expresa al Perú"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-a5d1bff5c06f3ea933d1",
+      "fecha": "2026-11-16",
+      "titulo_fuente": "US agency’s rare AI chip disclaimer exposes rift in Trump administration: experts",
+      "region": "Estados Unidos",
+      "temas": [
+        "Comercio y finanzas",
+        "Organismos multilaterales"
+      ],
+      "noticias": [
+        {
+          "id": "a5d1bff5c06f3ea933d1",
+          "titulo_original": "US agency’s rare AI chip disclaimer exposes rift in Trump administration: experts",
+          "titulo_es": "La rara exención de chips AI de la agencia estadounidense expone la grieta en la administración de Trump: expertos",
+          "url": "https://www.scmp.com/news/us/article/3374656/us-agencys-rare-ai-chip-disclaimer-exposes-rift-trump-administration-experts",
+          "fuente": "South China Morning Post",
+          "pais": "Hong Kong",
+          "fecha": "2026-11-16T23:16:38+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "A US agency’s unusual decision to distance itself from new restrictions on advanced artificial intelligence chips suggests a breakdown in inter-agency coordination on export controls, according to experts. The Bureau of Industry and Security (BIS) said the rules were written by the Treasury Department and the National Security Council, rather than by the Commerce Department agency itself. “In 35 years of working on export controls, I’ve never see",
+          "resumen_es": "La decisión inusual de una agencia estadounidense de distanciarse de nuevas restricciones a los chips avanzados de inteligencia artificial sugiere un desglose de la coordinación interinstitucional sobre controles de exportación, según expertos. The Bureau of Industry and Securit"
+        }
+      ],
+      "fuentes": [
+        "South China Morning Post"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "ONU"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia compleja y economía política internacional",
+        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos, ONU",
+        "Ámbito: Comercio y finanzas, Organismos multilaterales"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -2706,6 +2835,155 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-4820503f71570cebad9a",
+      "fecha": "2026-11-16",
+      "titulo_fuente": "Former Hong Kong leader CY Leung appeals for aid to help refugees in Djibouti",
+      "region": "Estados Unidos",
+      "temas": [
+        "Organismos multilaterales",
+        "Migración y DD. HH."
+      ],
+      "noticias": [
+        {
+          "id": "4820503f71570cebad9a",
+          "titulo_original": "Former Hong Kong leader CY Leung appeals for aid to help refugees in Djibouti",
+          "titulo_es": "Antigua Hong Kong Kong leader CY Leung appeals for aid to help refugees in Djibouti",
+          "url": "https://www.scmp.com/news/hong-kong/society/article/3374636/former-hong-kong-leader-cy-leung-appeals-aid-help-refugees-djibouti",
+          "fuente": "South China Morning Post",
+          "pais": "Hong Kong",
+          "fecha": "2026-11-16T23:30:07+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "A charity founded by a former Hong Kong leader has appealed for donations to fund emergency medical aid in Djibouti, where an influx of thousands of refugees has heightened the risk of disease outbreaks in the East African nation. Leung Chun-ying, chairman of the GX Foundation, said cuts to humanitarian funding by the United Nations and Western governments made Hong Kong donors’ generosity all the more vital, describing the city as a hub of chari",
+          "resumen_es": "Una organización benéfica fundada por un ex líder de Hong Kong ha pedido donaciones para financiar la ayuda médica de emergencia en Djibouti, donde una afluencia de miles de refugiados ha aumentado el riesgo de brotes de enfermedades en la nación de África oriental. Leung Chu"
+        }
+      ],
+      "fuentes": [
+        "South China Morning Post"
+      ],
+      "actores_mencionados": [
+        "ONU"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Institucionalismo liberal",
+        "pregunta": "¿Qué reglas, mecanismos de cooperación y límites institucionales afectan la decisión?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: ONU",
+        "Ámbito: Migración y DD. HH., Organismos multilaterales"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-0e5bbed64d3a35d85d7d",
+      "fecha": "2026-11-16",
+      "titulo_fuente": "Ukrainian forces attack Crimean Bridge again — Head of the Republic of Crimea",
+      "region": "Europa",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "0e5bbed64d3a35d85d7d",
+          "titulo_original": "Ukrainian forces attack Crimean Bridge again — Head of the Republic of Crimea",
+          "titulo_es": "Las fuerzas ucranianas vuelven a atacar el puente de Crimea — Jefe de la República de Crimea",
+          "url": "https://tass.com/politics/2219261",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-16T23:13:01+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Sergey Aksyonov urged residents and visitors to the peninsula to refrain from traveling toward the Crimean Bridge and to take the situation into account when planning their routes",
+          "resumen_es": "Sergey Aksyonov instó a los residentes y visitantes de la península a abstenerse de viajar hacia el puente de Crimea y tener en cuenta la situación al planificar sus rutas"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Ucrania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Ucrania",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-9619836a34edab6ac4cc",
+      "fecha": "2026-11-16",
+      "titulo_fuente": "Russian president begins busy three-day visit to Shenzhen",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "9619836a34edab6ac4cc",
+          "titulo_original": "Russian president begins busy three-day visit to Shenzhen",
+          "titulo_es": "El presidente ruso comienza una visita a Shenzhen",
+          "url": "https://tass.com/politics/2219255",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-16T22:34:01+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Vladimir Putin has attended APEC events in various formats, including via video link, since becoming president, but this will be his first in-person participation since 2017",
+          "resumen_es": "Vladimir Putin ha asistido a eventos de la APEC en varios formatos, incluyendo a través de videoconferencia, desde que se convirtió en presidente, pero esta será su primera participación en persona desde 2017"
+        },
+        {
+          "id": "c58cf58749eec6720dae",
+          "titulo_original": "Russian president to have three busy days in Shenzhen — Kremlin spokesman",
+          "titulo_es": "Presidente ruso para tener tres días ocupados en Shenzhen — vocero de Kremlin",
+          "url": "https://tass.com/politics/2219251",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-16T21:41:01+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Dmitry Peskov noted that there will be bilateral meetings and a separate trilateral meeting involving Russian President Vladimir Putin, Chinese President Xi Jinping and US leader Donald Trump",
+          "resumen_es": "Dmitry Peskov señaló que habrá reuniones bilaterales y una reunión trilateral independiente con el presidente ruso Vladimir Putin, el presidente chino Xi Jinping y el líder estadounidense Donald Trump"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "China",
+        "Estados Unidos",
+        "Rusia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: China, Estados Unidos, Rusia"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-dd0f4b53fb18110a021a",
       "fecha": "2026-11-16",
       "titulo_fuente": "Customers at some of the U.S.’ largest banks are reporting difficulty accessing accounts online",
@@ -2819,52 +3097,6 @@
       "motivos_seleccion": [
         "Actores relevantes: China",
         "Ámbito: Comercio y finanzas, Diplomacia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-c58cf58749eec6720dae",
-      "fecha": "2026-11-16",
-      "titulo_fuente": "Russian president to have three busy days in Shenzhen — Kremlin spokesman",
-      "region": "China",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "c58cf58749eec6720dae",
-          "titulo_original": "Russian president to have three busy days in Shenzhen — Kremlin spokesman",
-          "titulo_es": "Presidente ruso para tener tres días ocupados en Shenzhen — vocero de Kremlin",
-          "url": "https://tass.com/politics/2219251",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-16T21:41:01+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Dmitry Peskov noted that there will be bilateral meetings and a separate trilateral meeting involving Russian President Vladimir Putin, Chinese President Xi Jinping and US leader Donald Trump",
-          "resumen_es": "Dmitry Peskov señaló que habrá reuniones bilaterales y una reunión trilateral independiente con el presidente ruso Vladimir Putin, el presidente chino Xi Jinping y el líder estadounidense Donald Trump"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "China",
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: China, Estados Unidos, Rusia"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -5815,51 +6047,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-093477bf3b1e996bab05",
-      "fecha": "2026-11-16",
-      "titulo_fuente": "U.S. govt seeks 24-year prison term for Nikhil Gupta in Pannun murder-for-hire plot",
-      "region": "Estados Unidos",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "093477bf3b1e996bab05",
-          "titulo_original": "U.S. govt seeks 24-year prison term for Nikhil Gupta in Pannun murder-for-hire plot",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/news/international/us-govt-seeks-24-year-prison-term-for-nikhil-gupta-in-pannun-murder-for-hire-plot/article71705973.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-11-16T03:03:48+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Gupta will be sentenced on November 20. His lawyers have, however, argued for a \"substantial downward\" sentence of 12 years' imprisonment followed by three years of supervised release",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Hindu"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-1eab82a1bc175644620a",
       "fecha": "2026-11-16",
       "titulo_fuente": "United Airlines says it is working to fix ‘widespread’ system outage",
@@ -6222,6 +6409,92 @@
       "motivos_seleccion": [
         "Cobertura de fuentes distintas",
         "Actores relevantes: Estados Unidos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-fd75cc33592ed37aea4d",
+      "fecha": "2026-11-16",
+      "titulo_fuente": "Top Chinese cancer researcher calls on Hong Kong to deepen research ties with mainland",
+      "region": "China",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "fd75cc33592ed37aea4d",
+          "titulo_original": "Top Chinese cancer researcher calls on Hong Kong to deepen research ties with mainland",
+          "titulo_es": "El investigador chino de cáncer llama a Hong Kong para profundizar los vínculos de investigación con el continente",
+          "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3374625/top-chinese-cancer-researcher-calls-hong-kong-deepen-research-ties-mainland",
+          "fuente": "South China Morning Post",
+          "pais": "Hong Kong",
+          "fecha": "2026-11-16T23:00:08+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "A leading Chinese blood cancer specialist has urged Hong Kong to deepen research collaboration with mainland China, saying the city could play a unique role in connecting the mainland’s growing scientific capabilities with the international life sciences community. Zhu Chen, a professor at Ruijin Hospital of Shanghai Jiao Tong University’s school of medicine, received the 2026 Shaw Prize in Life Science and Medicine last week alongside French mol",
+          "resumen_es": "Un destacado especialista en cáncer de sangre chino ha instado a Hong Kong a profundizar la colaboración de investigación con China continental, diciendo que la ciudad podría desempeñar un papel único en la conexión de las crecientes capacidades científicas del continente con la internacional"
+        }
+      ],
+      "fuentes": [
+        "South China Morning Post"
+      ],
+      "actores_mencionados": [
+        "China"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: China"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-11804fe32c9050936a80",
+      "fecha": "2026-11-16",
+      "titulo_fuente": "‘Software bug’ in JPMorgan Chase systems halts online banking - Politico",
+      "region": "Internacional",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "11804fe32c9050936a80",
+          "titulo_original": "‘Software bug’ in JPMorgan Chase systems halts online banking - Politico",
+          "titulo_es": "“Insecto de software” en JPMorgan Sistemas Chase detiene la banca en línea - Politico",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWVRvY3I5V3BMbW52ZmFWRzJKT2dXYTVrOTkwOEhkdHFLY3dXVHRWN1hBZnEzdGhUV0NuWnRoemtady1BX3pKdDJzMXZBcVk0TEx1d1RaRFNrSXd4RUp4b0NDVUY2aVVfemlVX0VCZzVvcmJaY2ZoMnpMS1R5Vnp1VFQ1Tm5EVnZRYmdJN0h1amg3b1JMcnBz?oc=5",
+          "fuente": "POLITICO US",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-16T22:57:00+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "‘Software bug’ in JPMorgan Chase systems halts online banking Politico",
+          "resumen_es": "“Insecto de software” en JPMorgan Sistemas Chase detiene la banca en línea Politico"
+        }
+      ],
+      "fuentes": [
+        "POLITICO US"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6823,262 +7096,6 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Actores relevantes: China"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-77155c8e1635a9bd476a",
-      "fecha": "2026-11-16",
-      "titulo_fuente": "Le projet de cinq pays européens d’ouvrir un centre de retour au Rwanda traduit la bascule de la politique européenne en matière d’immigration",
-      "region": "Internacional",
-      "temas": [
-        "Migración y DD. HH."
-      ],
-      "noticias": [
-        {
-          "id": "77155c8e1635a9bd476a",
-          "titulo_original": "Le projet de cinq pays européens d’ouvrir un centre de retour au Rwanda traduit la bascule de la politique européenne en matière d’immigration",
-          "titulo_es": "",
-          "url": "https://www.lemonde.fr/international/article/2026/11/16/le-projet-de-cinq-pays-europeens-d-ouvrir-un-centre-de-retour-au-rwanda-traduit-la-bascule-de-la-politique-europeenne-en-matiere-d-immigration_6812426_3210.html",
-          "fuente": "Le Monde",
-          "pais": "Francia",
-          "fecha": "2026-11-16T20:52:39+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "L’Allemagne, l’Autriche, le Danemark, la Grèce et les Pays-Bas ont annoncé, lundi 16 novembre, la création d’une plateforme au Rwanda, où pourront être renvoyés les demandeurs d’asile déboutés.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Le Monde"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Derecho internacional y constructivismo",
-        "pregunta": "¿Qué normas, identidades y obligaciones internacionales invocan los actores?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Migración y DD. HH."
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-5d25e38a51a8dba68bc4",
-      "fecha": "2026-11-16",
-      "titulo_fuente": "Photos: California residents gather to watch massive El Nino-fuelled waves",
-      "region": "Internacional",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "5d25e38a51a8dba68bc4",
-          "titulo_original": "Photos: California residents gather to watch massive El Nino-fuelled waves",
-          "titulo_es": "Fotos: Los residentes de California se reúnen para ver ondas masivas de El Nino",
-          "url": "https://www.aljazeera.com/gallery/2026/11/16/photos-california-residents-gather-to-watch-massive-el-nino-fuelled-waves?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-11-16T20:42:18+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "National Weather Service warns that waves of more than 10 metres high could impact some parts of US's California coast.",
-          "resumen_es": "El Servicio Meteorológico Nacional advierte que las olas de más de 10 metros de altura podrían afectar algunas partes de la costa estadounidense de California."
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-98e13098a226954a7f18",
-      "fecha": "2026-11-16",
-      "titulo_fuente": "Pyongyang supports Russia’s effort to resist neo-colonialism — North Korean official",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "98e13098a226954a7f18",
-          "titulo_original": "Pyongyang supports Russia’s effort to resist neo-colonialism — North Korean official",
-          "titulo_es": "Pyongyang soporta El esfuerzo de Rusia por resistir al neocolonialismo — funcionario norcoreano",
-          "url": "https://tass.com/world/2219235",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-16T20:41:53+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Jo Yong Won went on to say that the current visit to Russia provided the DPRK delegation with \"an opportunity to become more deeply acquainted with the selfless efforts of the fraternal people of Russia to defend their sovereignty and security interests\"",
-          "resumen_es": "Jo Yong Won continuó diciendo que la actual visita a Rusia proporcionó a la delegación de la República Popular Democrática de Corea \"una oportunidad para conocer más profundamente los esfuerzos desinteresados del pueblo hermano de Rusia para defender su soberanía y asentir"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-b6e86477adaeb7fe0fcc",
-      "fecha": "2026-11-16",
-      "titulo_fuente": "Trump administration points fingers on FAA ground stop — and ends up implicating the GOP - CNN",
-      "region": "Estados Unidos",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "b6e86477adaeb7fe0fcc",
-          "titulo_original": "Trump administration points fingers on FAA ground stop — and ends up implicating the GOP - CNN",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5HYzUtSHlqNzlXWU9hZnhGUzhTMkxQRnJKLUFXQUQtdVNpcllwdXYzcnk1d2doRkZSd0hGYjZHMUVGQlppTTVpNUQzYU9NWExnLXVKcVBSaVIzTm85QlhjaU5GRmg0M0ZrQkZzR0Fuc3RPOWUzTWc?oc=5",
-          "fuente": "CNN",
-          "pais": "Estados Unidos",
-          "fecha": "2026-11-16T20:39:46+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Trump administration points fingers on FAA ground stop — and ends up implicating the GOP CNN",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "CNN"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-12e33232d91e2c41248e",
-      "fecha": "2026-11-16",
-      "titulo_fuente": "Suspect in custody after bomb found at Illinois ethanol plant",
-      "region": "Internacional",
-      "temas": [
-        "Energía y clima"
-      ],
-      "noticias": [
-        {
-          "id": "12e33232d91e2c41248e",
-          "titulo_original": "Suspect in custody after bomb found at Illinois ethanol plant",
-          "titulo_es": "Sospechoso en custodia después de la bomba encontrada en la planta de etanol de Illinois",
-          "url": "https://www.theguardian.com/us-news/2026/nov/16/illinois-bomb-ethanol-plant-suspect",
-          "fuente": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-16T20:25:06+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The FBI is leading the investigation into the Biourja Renewables incident after it led to a temporary evacuation Authorities investigating a bomb found recently at an ethanol production plant in Peoria, Illinois, have taken a suspect into custody, according to the mayor there. The Peoria mayor, Rita Ali, told the Guardian on Monday that leadership at the BioUrja Renewables plant “have informed me that a suspect is in custody”. Continue reading...",
-          "resumen_es": "El FBI lidera la investigación del incidente de Biourja Renewables después de que condujo a una evacuación temporal Las autoridades que investigan una bomba encontrada recientemente en una planta de producción de etanol en Peoria, Illinois, han llevado a un sospechoso a c"
-        }
-      ],
-      "fuentes": [
-        "The Guardian"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia y gobernanza global",
-        "pregunta": "¿Cómo se distribuyen los costos de coordinación y los incentivos para cooperar?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Energía y clima"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-102bc023cad4d7f5094a",
-      "fecha": "2026-11-16",
-      "titulo_fuente": "Microsoft identifies months-old bug as root cause of global outage",
-      "region": "Internacional",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "102bc023cad4d7f5094a",
-          "titulo_original": "Microsoft identifies months-old bug as root cause of global outage",
-          "titulo_es": "Microsoft identifica fallo de meses como causa raíz de la salida global",
-          "url": "https://www.theguardian.com/technology/2026/nov/16/microsoft-global-outage-cause",
-          "fuente": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-16T20:23:20+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Latent bug or defect from July caused Microsoft’s servers to ‘become overwhelmed and unresponsive’, executive says Microsoft has identified the root cause of the outage on Thursday that crippled Outlook, Exchange and a host of other vital office software across the globe. The company issued an initial report on Monday that identified a months-old bug malfunctioning connections between internal systems as the factors that led to the 24-hour blacko",
-          "resumen_es": "El fallo o defecto latente de julio causó que los servidores de Microsoft “se vuelvan abrumados e inresponsables”, dice el ejecutivo que Microsoft ha identificado la causa raíz de la salida del jueves que crippled Outlook, Exchange y un anfitrión de otros o"
-        }
-      ],
-      "fuentes": [
-        "The Guardian"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
