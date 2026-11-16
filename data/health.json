@@ -1,11 +1,11 @@
 {
-  "updated_utc": "2026-11-16T22:26:19.766849+00:00",
+  "updated_utc": "2026-11-16T22:55:52.303067+00:00",
   "results": [
     {
       "source_id": "f16",
       "source_name": "CNN",
-      "status": "error",
-      "message": "HTTP Error 429: Too Many Requests"
+      "status": "ok",
+      "count_recent": 50
     },
     {
       "source_id": "f25",
