@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-11-17T21:51:03.802342+00:00",
+  "created_utc": "2026-11-17T22:43:01.992608+00:00",
   "events": [
     {
       "id": "a-98a192551fe36b50369d",
@@ -150,47 +150,48 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-0217f9edd288ae220fde",
+      "id": "a-b200a8607bb9aa0c7eac",
       "fecha": "2026-11-17",
-      "titulo_fuente": "Pope Leo misses the catch as rosary from crowd hits his eye in Peru",
-      "region": "Perú",
+      "titulo_fuente": "Russia-China-US summit significant for whole world — senior CPC official",
+      "region": "China",
       "temas": [
-        "Seguridad y conflictos"
+        "Diplomacia"
       ],
       "noticias": [
         {
-          "id": "0217f9edd288ae220fde",
-          "titulo_original": "Pope Leo misses the catch as rosary from crowd hits his eye in Peru",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/news/international/pope-leo-misses-the-catch-as-rosary-from-crowd-hits-his-eye-in-peru/article71710583.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-11-17T06:43:10+00:00",
+          "id": "b200a8607bb9aa0c7eac",
+          "titulo_original": "Russia-China-US summit significant for whole world — senior CPC official",
+          "titulo_es": "Rusia-China-EEUU cumbre significativa para el mundo entero - alto funcionario del CPC",
+          "url": "https://tass.com/world/2219951",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-17T21:45:01+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Photos ‌and video showed the pope rubbing ​his eye shortly after the object was tossed toward him as he greeted well-wishers ⁠along the route to Mass",
-          "resumen_es": ""
+          "resumen_original": "Vice minister of the International Department of the Chinese Communist Party Central Committee Ma Hui opined that if the great powers can maintain strategic stability, that is important for peace and development worldwide",
+          "resumen_es": "El viceministro del Departamento Internacional del Comité Central del Partido Comunista Chino Ma Hui opinó que si los grandes poderes pueden mantener la estabilidad estratégica, eso es importante para la paz y el desarrollo en todo el mundo"
         }
       ],
       "fuentes": [
-        "The Hindu"
+        "TASS"
       ],
       "actores_mencionados": [
-        "Perú"
+        "China",
+        "Rusia"
       ],
       "fuentes_independientes": 1,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
       },
-      "relevancia_peru": "Perú aparece mencionado; falta verificar el alcance real de cualquier consecuencia.",
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 9,
+      "prioridad_orientativa": 8,
       "motivos_seleccion": [
-        "Actores relevantes: Perú",
-        "Mención expresa al Perú",
-        "Ámbito: Seguridad y conflictos"
+        "Actores relevantes: China, Rusia",
+        "Ámbito: Diplomacia",
+        "Posible decisión institucional o negociación"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -631,49 +632,106 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-c26a77d1ae34cc95a7b8",
+      "id": "a-9f967c10c1690f3d1842",
       "fecha": "2026-11-17",
-      "titulo_fuente": "Xi, Carney call for deeper ties as Canada looks beyond U.S. for trade",
-      "region": "China",
+      "titulo_fuente": "U.K. hands NATO-assigned American soldier accused of Russia spying to U.S.",
+      "region": "Rusia-Ucrania",
       "temas": [
-        "Diplomacia",
-        "Comercio y finanzas"
+        "Seguridad y conflictos"
       ],
       "noticias": [
         {
-          "id": "c26a77d1ae34cc95a7b8",
-          "titulo_original": "Xi, Carney call for deeper ties as Canada looks beyond U.S. for trade",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/news/international/xi-carney-call-for-deeper-ties-as-canada-looks-beyond-us-for-trade/article71710632.ece",
+          "id": "9f967c10c1690f3d1842",
+          "titulo_original": "U.K. hands NATO-assigned American soldier accused of Russia spying to U.S.",
+          "titulo_es": "U.K. da a soldado estadounidense asignado por la OTAN acusado de Rusia espiando a Estados Unidos.",
+          "url": "https://www.thehindu.com/news/international/american-soldier-accused-of-russia-spying/article71713619.ece",
           "fuente": "The Hindu",
           "pais": "India",
-          "fecha": "2026-11-17T06:51:12+00:00",
+          "fecha": "2026-11-17T22:20:14+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Mark Carney said that the exchanges between Canada and China have increased in the past months and praised that now there is ‘greater predictability and stability’ in their relationship",
-          "resumen_es": ""
+          "resumen_original": "A U.S. Army official has named the detained soldier as 41-year-old Lieutenant Colonel Brandon Tyner",
+          "resumen_es": "Un funcionario del Ejército de Estados Unidos ha nombrado al soldado detenido como teniente coronel Brandon Tyner de 41 años"
+        },
+        {
+          "id": "2e287a0c3858c653307c",
+          "titulo_original": "UK hands NATO-assigned US soldier accused of Russia spying to US military",
+          "titulo_es": "El Reino Unido entrega al soldado estadounidense designado por la OTAN acusado de Rusia espiando al ejército estadounidense",
+          "url": "https://www.aljazeera.com/news/2026/11/17/uk-hands-nato-assigned-us-soldier-accused-of-russia-spying-to-us-military?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-17T21:35:24+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "UK authorities have passed the investigation to the US 'in line with existing international protocols'.",
+          "resumen_es": "Las autoridades del Reino Unido han pasado la investigación a los Estados Unidos 'en línea con los protocolos internacionales existentes'."
         }
       ],
       "fuentes": [
+        "Al Jazeera",
         "The Hindu"
       ],
       "actores_mencionados": [
         "Estados Unidos",
-        "China"
+        "Rusia"
       ],
-      "fuentes_independientes": 1,
+      "fuentes_independientes": 2,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
       },
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 8,
+      "prioridad_orientativa": 7,
       "motivos_seleccion": [
-        "Actores relevantes: China, Estados Unidos",
-        "Ámbito: Comercio y finanzas, Diplomacia",
-        "Posible decisión institucional o negociación"
+        "Cobertura de fuentes distintas",
+        "Actores relevantes: Estados Unidos, Rusia",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-61b7b4c278607b20b406",
+      "fecha": "2026-11-17",
+      "titulo_fuente": "Five viral moments from Pope Leo XIV's South American tour",
+      "region": "Perú",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "61b7b4c278607b20b406",
+          "titulo_original": "Five viral moments from Pope Leo XIV's South American tour",
+          "titulo_es": "Cinco momentos virales de la gira sudamericana del Papa León XIV",
+          "url": "https://www.euronews.com/2026/11/17/five-viral-moments-from-pope-leo-xivs-south-american-tour",
+          "fuente": "Euronews",
+          "pais": "Unión Europea",
+          "fecha": "2026-11-17T22:10:25+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Pope Leo XIV's South American tour brought several memorable moments, from an unexpected encounter with a flying rosary bracelet to a helicopter journey into Peru's remote Andes.",
+          "resumen_es": "La gira sudamericana del Papa León XIV trajo varios momentos memorables, desde un inesperado encuentro con un rosario volador hasta un viaje en helicóptero hacia los Andes remotos del Perú."
+        }
+      ],
+      "fuentes": [
+        "Euronews"
+      ],
+      "actores_mencionados": [
+        "Perú"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Perú aparece mencionado; falta verificar el alcance real de cualquier consecuencia.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 7,
+      "motivos_seleccion": [
+        "Actores relevantes: Perú",
+        "Mención expresa al Perú"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -934,6 +992,52 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-271163fd6e637b8eeee1",
+      "fecha": "2026-11-17",
+      "titulo_fuente": "US criticises Ukraine's 'deep strike' campaign against Russia",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "271163fd6e637b8eeee1",
+          "titulo_original": "US criticises Ukraine's 'deep strike' campaign against Russia",
+          "titulo_es": "Estados Unidos critica la campaña de Ucrania contra Rusia",
+          "url": "https://www.euronews.com/2026/11/17/us-criticises-ukraines-deep-strike-campaign-against-russia",
+          "fuente": "Euronews",
+          "pais": "Unión Europea",
+          "fecha": "2026-11-17T22:34:29+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "German Defence Minister Boris Pistorius called the US' warning \"quite a stupid thing,\" while his British counterpart Wes Streeting said there was \"no doubt\" in his mind that Ukraine's long-range strikes had \"helped to degrade Putin's war machine.\"",
+          "resumen_es": "El ministro de Defensa alemán Boris Pistorius llamó la advertencia de Estados Unidos \"muy estupidez\", mientras que su contraparte británica Wes Streeting dijo que había \"sin duda\" en su mente que las huelgas de largo alcance de Ucrania habían ayudado a degradar la guerra de Putin ma"
+        }
+      ],
+      "fuentes": [
+        "Euronews"
+      ],
+      "actores_mencionados": [
+        "Rusia",
+        "Ucrania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia, Ucrania",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-2d5c1ca1cf4ddd304f37",
       "fecha": "2026-11-17",
       "titulo_fuente": "US Navy chief urges US lawmakers to strengthen shipbuilding capacity to close gap on China",
@@ -1023,78 +1127,6 @@
         "Actores relevantes: Israel",
         "Ámbito: Seguridad y conflictos",
         "Posible decisión institucional o negociación"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-917750539cbd143853fc",
-      "fecha": "2026-11-17",
-      "titulo_fuente": "Moment Russian military plane crashes in Siberia, killing 19",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "917750539cbd143853fc",
-          "titulo_original": "Moment Russian military plane crashes in Siberia, killing 19",
-          "titulo_es": "Momento avión militar ruso se estrella en Siberia, matando 19",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/moment-russian-military-plane-crashes-in-siberia-killing-19?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-11-17T21:25:43+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Footage captures the moment a Russian military transport aircraft crashes in the Kemerovo region",
-          "resumen_es": "Footage captura el momento en que un avión ruso de transporte militar choca en la región de Kemerovo"
-        },
-        {
-          "id": "1c2920559cb456e42d3c",
-          "titulo_original": "Plane crashes in Siberia killing 19",
-          "titulo_es": "Plane se estrella en Siberia matando 19",
-          "url": "https://tass.com/emergencies/2219927",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-17T19:40:56+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The preliminary cause of the disaster is a technical malfunction",
-          "resumen_es": "La causa preliminar del desastre es un mal funcionamiento técnico"
-        },
-        {
-          "id": "8fefe823db1a58c6aed0",
-          "titulo_original": "Russian military plane crashes killing all 19 on board",
-          "titulo_es": "El avión militar ruso se estrella matando a los 19 a bordo",
-          "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-17T19:33:55+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Russia's defence ministry says a technical malfunction was the likely cause of the crash in the Kemerovo region.",
-          "resumen_es": "El ministerio de defensa de Rusia dice que un mal funcionamiento técnico fue la causa probable del accidente en la región de Kemerovo."
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera",
-        "BBC News",
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 3,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Cobertura de fuentes distintas",
-        "Actores relevantes: Rusia",
-        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -3250,145 +3282,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-db525a010c8a44f53ae8",
-      "fecha": "2026-11-17",
-      "titulo_fuente": "What is Quad, what is on the Manila agenda, and why does the 2026 summit matter?",
-      "region": "Estados Unidos",
-      "temas": [
-        "Diplomacia"
-      ],
-      "noticias": [
-        {
-          "id": "db525a010c8a44f53ae8",
-          "titulo_original": "What is Quad, what is on the Manila agenda, and why does the 2026 summit matter?",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/news/international/what-is-quad-manila-agenda-why-does-2026-summit-matter/article71710464.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-11-17T06:38:00+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The summit in Manila will be the first meeting of Quad leaders since they gathered in Wilmington, United States, in September 2024",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Hindu"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos",
-        "Ámbito: Diplomacia",
-        "Posible decisión institucional o negociación"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-dfc942616c510d541606",
-      "fecha": "2026-11-17",
-      "titulo_fuente": "Inside the Chinese 'AI wonderland' where Xi will host Trump",
-      "region": "China",
-      "temas": [
-        "Diplomacia",
-        "Comercio y finanzas"
-      ],
-      "noticias": [
-        {
-          "id": "dfc942616c510d541606",
-          "titulo_original": "Inside the Chinese 'AI wonderland' where Xi will host Trump",
-          "titulo_es": "",
-          "url": "https://www.bbc.co.uk/news/videos/ckjwjl6ywgn9o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-17T06:23:51+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The meeting will take place as Trump attends the Asia-Pacific Economic Co-operation (Apec) summit in the southern city of Shenzhen.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "BBC News"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "China"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: China, Estados Unidos",
-        "Ámbito: Comercio y finanzas, Diplomacia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-15833b015bab4adcef9d",
-      "fecha": "2026-11-17",
-      "titulo_fuente": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "15833b015bab4adcef9d",
-          "titulo_original": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
-          "titulo_es": "",
-          "url": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-17T05:59:01+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "BBC News"
-      ],
-      "actores_mencionados": [
-        "Rusia",
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia, Ucrania",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-35ec7fce43bd571d36aa",
       "fecha": "2026-11-17",
       "titulo_fuente": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
@@ -3508,25 +3401,82 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-2e287a0c3858c653307c",
+      "id": "a-e57fb579949bca90755e",
       "fecha": "2026-11-17",
-      "titulo_fuente": "UK hands NATO-assigned US soldier accused of Russia spying to US military",
+      "titulo_fuente": "Israeli parliament elects new Knesset speaker backed by Netanyahu’s opponents",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "e57fb579949bca90755e",
+          "titulo_original": "Israeli parliament elects new Knesset speaker backed by Netanyahu’s opponents",
+          "titulo_es": "El Parlamento israelí elige al nuevo orador Knesset respaldado por los opositores de Netanyahu",
+          "url": "https://www.theguardian.com/world/2026/nov/17/israeli-parliament-elects-new-knesset-speaker-backed-netanyahus-opponents",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-17T22:30:17+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Appointment of Matan Kahana marks step towards reversing policies of Netanyahu’s outgoing government The Israeli parliament elected a new speaker on Tuesday, a key step toward rolling back policies passed by the outgoing government led by the prime minister, Benjamin Netanyahu. The new speaker is Matan Kahana, an ally of Gadi Eisenkot , the party leader currently working to form the next government and replace Netanyahu . Eisenkot’s bloc has pled",
+          "resumen_es": "Nombramiento de Matan Kahana marca paso hacia la inversión de políticas del gobierno saliente de Netanyahu El Parlamento israelí eligió a un nuevo orador el martes, un paso clave hacia la puesta en marcha de políticas aprobadas por el gobierno saliente encabezado por t"
+        }
+      ],
+      "fuentes": [
+        "The Guardian"
+      ],
+      "actores_mencionados": [
+        "Israel"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Israel",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-c94644338a37bf0cfc86",
+      "fecha": "2026-11-17",
+      "titulo_fuente": "Russian military plane crash in Siberia kills 19",
       "region": "Rusia-Ucrania",
       "temas": [
         "Seguridad y conflictos"
       ],
       "noticias": [
         {
-          "id": "2e287a0c3858c653307c",
-          "titulo_original": "UK hands NATO-assigned US soldier accused of Russia spying to US military",
-          "titulo_es": "El Reino Unido entrega al soldado estadounidense designado por la OTAN acusado de Rusia espiando al ejército estadounidense",
-          "url": "https://www.aljazeera.com/news/2026/11/17/uk-hands-nato-assigned-us-soldier-accused-of-russia-spying-to-us-military?traffic_source=rss",
+          "id": "c94644338a37bf0cfc86",
+          "titulo_original": "Russian military plane crash in Siberia kills 19",
+          "titulo_es": "Accidente de avión militar ruso en Siberia mata 19",
+          "url": "https://www.aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19?traffic_source=rss",
           "fuente": "Al Jazeera",
           "pais": "Catar",
-          "fecha": "2026-11-17T21:35:24+00:00",
+          "fecha": "2026-11-17T22:21:16+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "UK authorities have passed the investigation to the US 'in line with existing international protocols'.",
-          "resumen_es": "Las autoridades del Reino Unido han pasado la investigación a los Estados Unidos 'en línea con los protocolos internacionales existentes'."
+          "resumen_original": "Russia's Defence Ministry says preliminary findings for the crash point to equipment failure.",
+          "resumen_es": "El Ministerio de Defensa de Rusia dice hallazgos preliminares para el punto de impacto del fracaso del equipo."
+        },
+        {
+          "id": "917750539cbd143853fc",
+          "titulo_original": "Moment Russian military plane crashes in Siberia, killing 19",
+          "titulo_es": "Momento avión militar ruso se estrella en Siberia, matando 19",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/moment-russian-military-plane-crashes-in-siberia-killing-19?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-17T21:25:43+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Footage captures the moment a Russian military transport aircraft crashes in the Kemerovo region",
+          "resumen_es": "Footage captura el momento en que un avión ruso de transporte militar choca en la región de Kemerovo"
         }
       ],
       "fuentes": [
@@ -3598,6 +3548,51 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-6468ceae84aee0e6c3cb",
+      "fecha": "2026-11-17",
+      "titulo_fuente": "Russia meets 89.3% of 2026 military contract recruitment target — deputy defense minister",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "6468ceae84aee0e6c3cb",
+          "titulo_original": "Russia meets 89.3% of 2026 military contract recruitment target — deputy defense minister",
+          "titulo_es": "Rusia cumple con el 89,3% de 2026 objetivos de reclutamiento de contratos militares — viceministro de defensa",
+          "url": "https://tass.com/defense/2219949",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-17T21:30:00+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Contract recruitment centers are the main channel for staffing the Russian Armed Forces, Russian Deputy Defense Minister and chief of the Russian army’s main military-political directorate Army General Viktor Goremykin said",
+          "resumen_es": "Los centros de reclutamiento de contratos son el principal canal para la dotación de personal de las Fuerzas Armadas Rusas, el viceministro de Defensa ruso y el jefe de la principal dirección militar-política del ejército ruso Viktor Goremykin dijo"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Rusia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-baaaa9b06943183e01ed",
       "fecha": "2026-11-17",
       "titulo_fuente": "‘Zero transparency’: Inside Trump’s plans for Venezuela’s oil money",
@@ -3638,6 +3633,97 @@
       "motivos_seleccion": [
         "Actores relevantes: Estados Unidos",
         "Ámbito: Energía y clima"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-171a429934b15a030631",
+      "fecha": "2026-11-17",
+      "titulo_fuente": "US carries out ‘self-defense’ strikes on Iranian missile launch site - CNN",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "171a429934b15a030631",
+          "titulo_original": "US carries out ‘self-defense’ strikes on Iranian missile launch site - CNN",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Vb0RmWXNaMXVnWXAxb0ZrSUlJWU8wOU9TMXJ4NFljc3FiVzBhWm1CcHRMMWRvN1haNkk3OXU3TWsycUtyQnA4MEVqSkpYNk1JWVJ2U2w0LWg1cjVaLXFuV0NnQm9GenJyUDRONGF3c3VYMG9qM0dz?oc=5",
+          "fuente": "CNN",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-17T21:26:06+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "US carries out ‘self-defense’ strikes on Iranian missile launch site CNN",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "CNN"
+      ],
+      "actores_mencionados": [
+        "Irán"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Irán",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-eabca18c54e93130e15c",
+      "fecha": "2026-11-17",
+      "titulo_fuente": "Six Palestinians killed in Israeli attacks on Gaza over past day — Health Ministry",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "eabca18c54e93130e15c",
+          "titulo_original": "Six Palestinians killed in Israeli attacks on Gaza over past day — Health Ministry",
+          "titulo_es": "",
+          "url": "https://tass.com/world/2219947",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-17T21:17:01+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "According to the Gaza’s Health Ministry, Israeli airstrikes and artillery shelling have killed 1,650 people and wounded another 5,975",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Israel",
+        "Palestina"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Israel",
+        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -3727,6 +3813,52 @@
       "prioridad_orientativa": 4,
       "motivos_seleccion": [
         "Actores relevantes: Irán",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-179a94945c5abef9957b",
+      "fecha": "2026-11-17",
+      "titulo_fuente": "Melenchon urges France not to get involved in conflict in Ukraine",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "179a94945c5abef9957b",
+          "titulo_original": "Melenchon urges France not to get involved in conflict in Ukraine",
+          "titulo_es": "Melenchon urge Francia no se involucra en conflictos en Ucrania",
+          "url": "https://tass.com/world/2219945",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-17T20:53:01+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The \"coalition of the willing,\" led by Britain and France, is developing guarantees for Ukraine's security, including the deployment of military contingents after the end of the conflict",
+          "resumen_es": "La \"coalición de la voluntad\", liderada por Gran Bretaña y Francia, está desarrollando garantías para la seguridad de Ucrania, incluyendo el despliegue de contingentes militares después del fin del conflicto"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Ucrania",
+        "Francia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Ucrania",
         "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
@@ -6888,142 +7020,6 @@
       "motivos_seleccion": [
         "Actores relevantes: India",
         "Ámbito: Diplomacia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-75773c54664ff33b56ea",
-      "fecha": "2026-11-17",
-      "titulo_fuente": "Ahead of Apec, Beijing’s Hong Kong envoy says party discipline removes ‘serious dangers’",
-      "region": "China",
-      "temas": [
-        "Diplomacia"
-      ],
-      "noticias": [
-        {
-          "id": "75773c54664ff33b56ea",
-          "titulo_original": "Ahead of Apec, Beijing’s Hong Kong envoy says party discipline removes ‘serious dangers’",
-          "titulo_es": "",
-          "url": "https://www.scmp.com/news/china/politics/article/3374719/ahead-apec-beijings-hong-kong-envoy-says-party-discipline-removes-serious-dangers",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-11-17T08:06:09+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Tightening Communist Party discipline is vital for stability and development, Beijing’s top foreign ministry envoy in Hong Kong said as he briefed the city’s diplomatic community on the outcomes of the party’s latest plenum. Cui Jianchun, the head of the Office of the Commissioner of the Ministry of Foreign Affairs in Hong Kong, outlined the main takeaways of the fifth plenum, held in Beijing last month. The gathering resulted in the adoption of ",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "South China Morning Post"
-      ],
-      "actores_mencionados": [
-        "China"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: China",
-        "Ámbito: Diplomacia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-eaa7c1e2d14efefeea2c",
-      "fecha": "2026-11-17",
-      "titulo_fuente": "Beijing keeps up tight oversight on carmaker payment cycles as domestic sales slump",
-      "region": "China",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "eaa7c1e2d14efefeea2c",
-          "titulo_original": "Beijing keeps up tight oversight on carmaker payment cycles as domestic sales slump",
-          "titulo_es": "",
-          "url": "https://www.scmp.com/business/china-business/article/3374715/beijing-keeps-tight-oversight-carmaker-payment-cycles-domestic-sales-slump",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-11-17T08:00:13+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Beijing has once again stepped up policing of carmakers’ payments to their supply-chain vendors to clean up an auto market often mired in brutal price wars. The Ministry of Industry and Information Technology has delegated the China Association of Automobile Manufacturers (CAAM) to assess 17 major carmakers’ payment cycles to ensure they comply with regulatory requirements, the association said in a statement issued on Monday. The major players, ",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "South China Morning Post"
-      ],
-      "actores_mencionados": [
-        "China"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: China",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-4c502a8674a752295fd7",
-      "fecha": "2026-11-17",
-      "titulo_fuente": "Tokyo lodges protest after aircraft believed to be Russian violate Japan airspace",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "4c502a8674a752295fd7",
-          "titulo_original": "Tokyo lodges protest after aircraft believed to be Russian violate Japan airspace",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/news/international/tokyo-lodges-protest-after-aircraft-believed-to-be-russian-violate-japan-airspace/article71710315.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-11-17T07:52:25+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The last confirmed violation of ‌Japan’s airspace by Russian aircraft ​was off Rebun Island, Hokkaido, in ⁠September 2024, according to the ⁠Defence Ministry",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Hindu"
-      ],
-      "actores_mencionados": [
-        "Rusia",
-        "Japón"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia",
-        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
