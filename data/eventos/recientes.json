@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-11-17T19:52:41.998742+00:00",
+  "created_utc": "2026-11-17T20:05:14.834148+00:00",
   "events": [
     {
       "id": "a-4fa78833e8141a370023",
@@ -945,6 +945,145 @@
       "motivos_seleccion": [
         "Actores relevantes: Perú",
         "Mención expresa al Perú"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-12a0126e5a0c9beadbad",
+      "fecha": "2026-11-17",
+      "titulo_fuente": "US initiative on Ukraine puts Europe in difficult position — Bloomberg",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "12a0126e5a0c9beadbad",
+          "titulo_original": "US initiative on Ukraine puts Europe in difficult position — Bloomberg",
+          "titulo_es": "La iniciativa estadounidense en Ucrania pone a Europa en una posición difícil — Bloomberg",
+          "url": "https://tass.com/world/2219933",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-17T19:57:02+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "According to sources information, Washington proposes to discuss NATO's activities, the deployment of troops and military infrastructure in Europe simultaneously with the conditions for ending the conflict",
+          "resumen_es": "Según informaciones de fuentes, Washington propone discutir las actividades de la OTAN, el despliegue de tropas e infraestructura militar en Europa simultáneamente con las condiciones para poner fin al conflicto"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Ucrania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos, Ucrania",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-0331cba98819e3480ac5",
+      "fecha": "2026-11-17",
+      "titulo_fuente": "US scolds Ukraine over deep strikes ahead of fresh Russia peace talks",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "0331cba98819e3480ac5",
+          "titulo_original": "US scolds Ukraine over deep strikes ahead of fresh Russia peace talks",
+          "titulo_es": "",
+          "url": "https://www.politico.eu/article/us-scold-ukraine-strikes-russia-peace-talks-elbridge-colby/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "fuente": "POLITICO Europe",
+          "pais": "Unión Europea",
+          "fecha": "2026-11-17T19:53:42+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "German Defense Minister Boris Pistorius slammed the U.S. criticism as a \"stupid thing.\"",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "POLITICO Europe"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Rusia",
+        "Ucrania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos, Rusia, Ucrania",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-0b65fb4eb325624ae1c8",
+      "fecha": "2026-11-17",
+      "titulo_fuente": "Moscow calls for lifting US trade, fuel blockade of Cuba — foreign ministry",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "0b65fb4eb325624ae1c8",
+          "titulo_original": "Moscow calls for lifting US trade, fuel blockade of Cuba — foreign ministry",
+          "titulo_es": "Moscú pide levantar el comercio de Estados Unidos, el bloqueo de combustible de Cuba — ministerio extranjero",
+          "url": "https://tass.com/politics/2219931",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-17T19:50:23+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The Russian side expressed strong and unconditional support for the Cuban leadership and the people of this brotherly country during these difficult times, the Russian Foreign Ministry said after his meeting with Cuban Ambassador to Moscow Enrique Orta Gonzalez",
+          "resumen_es": "La parte rusa expresó su firme e incondicional apoyo a la dirección cubana y al pueblo de este país hermano durante estos tiempos difíciles, dijo el Ministerio de Relaciones Exteriores ruso después de su reunión con el Embajador cubano en Moscú"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Rusia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia compleja y economía política internacional",
+        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia",
+        "Ámbito: Comercio y finanzas",
+        "Posible decisión institucional o negociación"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6884,132 +7023,6 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Ámbito: Energía y clima, Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-97803aea3194140c8402",
-      "fecha": "2026-11-17",
-      "titulo_fuente": "Using law to try to silence abuse victims is ‘ultimate form of gaslighting’, MPs told",
-      "region": "Internacional",
-      "temas": [
-        "Energía y clima"
-      ],
-      "noticias": [
-        {
-          "id": "97803aea3194140c8402",
-          "titulo_original": "Using law to try to silence abuse victims is ‘ultimate form of gaslighting’, MPs told",
-          "titulo_es": "Usar la ley para tratar de silenciar a las víctimas de abuso es \"una forma íntima de gaseoso\", dijeron los parlamentarios",
-          "url": "https://www.theguardian.com/society/2026/nov/17/using-law-try-silence-abuse-victims-ultimate-gaslighting-mps-told",
-          "fuente": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-17T19:36:11+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Woman sued by alleged rapist tells justice committee that Slapp lawsuits present perpetrator as victim of wrongdoing Attempts by perpetrators and alleged perpetrators of sexual abuse to silence their victims using the law are “the ultimate form of gaslighting”, MPs have heard. Verity Nevitt, a co-founder of the Gemini Project, a survivor-led nonprofit organisation, told the House of Commons justice committee about the ordeal of being sued by the ",
-          "resumen_es": "Woman demanded by alleged rapist tell justice committee that Slapp lawsuits present perpetrator as victim of wrongdoing Attempts by perpetrators and alleged perpetrators of sexual abuse to silence their victims using the law are “the ultimate ultimate ultimate end"
-        }
-      ],
-      "fuentes": [
-        "The Guardian"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia y gobernanza global",
-        "pregunta": "¿Cómo se distribuyen los costos de coordinación y los incentivos para cooperar?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Energía y clima"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-134ec0c7df9284f9f362",
-      "fecha": "2026-11-17",
-      "titulo_fuente": "Ugandan human trafficking survivor uses music to fight abuse",
-      "region": "Internacional",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "134ec0c7df9284f9f362",
-          "titulo_original": "Ugandan human trafficking survivor uses music to fight abuse",
-          "titulo_es": "Superviviente de la trata de personas ugandesa utiliza música para combatir el abuso",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/ugandan-human-trafficking-survivor-uses-music-to-fight-abuse?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-11-17T19:32:44+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "After surviving trafficking in Myanmar, Ugandan singer Gideon Mwesezi, known as ‘Small Q’, is using music to warn others",
-          "resumen_es": "Después de sobrevivir el tráfico en Myanmar, el cantante ugandés Gideon Mwesezi, conocido como ‘Small Q’, está usando música para advertir a otros"
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-7afcb5441ffbe7de5a06",
-      "fecha": "2026-11-17",
-      "titulo_fuente": "Milburn calls for tax cuts for businesses hiring young people despite union concerns",
-      "region": "Europa",
-      "temas": [
-        "Comercio y finanzas"
-      ],
-      "noticias": [
-        {
-          "id": "7afcb5441ffbe7de5a06",
-          "titulo_original": "Milburn calls for tax cuts for businesses hiring young people despite union concerns",
-          "titulo_es": "Milburn pide recortes fiscales para empresas que contratan a jóvenes a pesar de las preocupaciones sindicales",
-          "url": "https://www.theguardian.com/society/2026/nov/17/alan-milburn-tax-cuts-businesses-unions-neets-youth-unemployment",
-          "fuente": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-17T19:30:32+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Youth unemployment review risks clash with unions and Labour left over workers’ rights and minimum wage Neet ideas: what’s in Alan Milburn’s youth unemployment report? Who are the Neets? UK youth job crisis in five charts Milburn urges Burnham to spend billions on young people Alan Milburn has called on ministers to cut business taxes and ease regulations to encourage employers to hire more young people, setting up a potential clash with trade un",
-          "resumen_es": "Los riesgos de la revisión del desempleo juvenil chocan con los sindicatos y el trabajo dejan sobre los derechos de los trabajadores y el salario mínimo Neet ideas: ¿qué hay en el informe de desempleo juvenil de Alan Milburn? ¿Quiénes son los Neets? Crisis laboral juvenil en el Reino Unido en cinco gráficos Milburn urge Burn"
-        }
-      ],
-      "fuentes": [
-        "The Guardian"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia compleja y economía política internacional",
-        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Comercio y finanzas"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
