@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-11-17T19:25:08.144441+00:00",
+  "created_utc": "2026-11-17T19:52:41.998742+00:00",
   "events": [
     {
       "id": "a-4fa78833e8141a370023",
@@ -130,6 +130,57 @@
         "Actores relevantes: Perú",
         "Mención expresa al Perú",
         "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-e289d8c89a3602529ff0",
+      "fecha": "2026-11-17",
+      "titulo_fuente": "Shenzhen summit of Xi, Trump and Putin was Brazil’s Lula’s idea, Carney claims",
+      "region": "China",
+      "temas": [
+        "Diplomacia",
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "e289d8c89a3602529ff0",
+          "titulo_original": "Shenzhen summit of Xi, Trump and Putin was Brazil’s Lula’s idea, Carney claims",
+          "titulo_es": "La cumbre de Shenzhen de Xi, Trump y Putin fue la idea de Lula de Brasil, afirma Carney",
+          "url": "https://www.scmp.com/news/us/diplomacy/article/3374801/shenzhen-summit-xi-trump-and-putin-was-brazils-lulas-idea-carney-claims",
+          "fuente": "South China Morning Post",
+          "pais": "Hong Kong",
+          "fecha": "2026-11-17T19:49:02+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Brazilian President Luiz Inacio Lula da Silva came up with the idea for the meeting between US President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin, Canadian Prime Minister Mark Carney said on Monday, days before the three leaders were due to meet in Shenzhen. “He told me yesterday that he had encouraged this meeting to help bring about an end to the war in Ukraine,” Carney told reporters on the sidelines of t",
+          "resumen_es": "El presidente brasileño Luiz Inacio Lula da Silva surgió la idea de la reunión entre el presidente estadounidense Donald Trump, el presidente chino Xi Jinping y el presidente ruso Vladimir Putin, el primer ministro canadiense Mark Carney, dijo el lunes, da"
+        }
+      ],
+      "fuentes": [
+        "South China Morning Post"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "China",
+        "Rusia",
+        "Ucrania",
+        "Brasil"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 8,
+      "motivos_seleccion": [
+        "Actores relevantes: Brasil, China, Estados Unidos, Rusia",
+        "Ámbito: Diplomacia, Seguridad y conflictos",
+        "Posible decisión institucional o negociación"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -749,54 +800,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-2131fe812b487a4239eb",
-      "fecha": "2026-11-16",
-      "titulo_fuente": "APEC CEO Summit opens in Shenzhen",
-      "region": "China",
-      "temas": [
-        "Diplomacia"
-      ],
-      "noticias": [
-        {
-          "id": "2131fe812b487a4239eb",
-          "titulo_original": "APEC CEO Summit opens in Shenzhen",
-          "titulo_es": "APEC CEO La Cumbre se inaugura en Shenzhen",
-          "url": "https://tass.com/politics/2219253",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-16T22:15:00+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Kremlin Spokesman Dmitry Peskov said Russian President Vladimir Putin, Chinese President Xi Jinping and US President Donald Trump would meet on November 19",
-          "resumen_es": "El portavoz de Kremlin Dmitry Peskov dijo que el presidente ruso Vladimir Putin, el presidente chino Xi Jinping y el presidente estadounidense Donald Trump se reunirían el 19 de noviembre."
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "China",
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 8,
-      "motivos_seleccion": [
-        "Actores relevantes: China, Estados Unidos, Rusia",
-        "Ámbito: Diplomacia",
-        "Posible decisión institucional o negociación"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-abc9a4d7b8646e4b7948",
       "fecha": "2026-11-17",
       "titulo_fuente": "Trump warns Iran over allegations of dirty bomb threat to Washington",
@@ -942,6 +945,145 @@
       "motivos_seleccion": [
         "Actores relevantes: Perú",
         "Mención expresa al Perú"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-e8aba36e86a9883a6e7b",
+      "fecha": "2026-11-17",
+      "titulo_fuente": "Putin arrives in China’s Shenzhen — correspondent",
+      "region": "China",
+      "temas": [
+        "Diplomacia"
+      ],
+      "noticias": [
+        {
+          "id": "e8aba36e86a9883a6e7b",
+          "titulo_original": "Putin arrives in China’s Shenzhen — correspondent",
+          "titulo_es": "Putin llega al corresponsal de Shenzhen de China",
+          "url": "https://tass.com/politics/2219925",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-17T19:45:29+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Russian President will have a packed schedule as he takes part in events at the APEC summit and will hold bilateral talks with his Chinese counterpart and friend, Xi Jinping",
+          "resumen_es": "El Presidente ruso tendrá una agenda llena mientras participa en eventos en la cumbre de la APEC y celebrará conversaciones bilaterales con su homólogo y amigo chino, Xi Jinping"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "China",
+        "Rusia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: China, Rusia",
+        "Ámbito: Diplomacia"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-59c908c784bff83b08b7",
+      "fecha": "2026-11-17",
+      "titulo_fuente": "EN DIRECT, guerre en Ukraine : Vladimir Poutine est arrivé en Chine, où il doit rencontrer Donald Trump et Xi Jinping, selon Moscou",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Organismos multilaterales"
+      ],
+      "noticias": [
+        {
+          "id": "59c908c784bff83b08b7",
+          "titulo_original": "EN DIRECT, guerre en Ukraine : Vladimir Poutine est arrivé en Chine, où il doit rencontrer Donald Trump et Xi Jinping, selon Moscou",
+          "titulo_es": "",
+          "url": "https://www.lemonde.fr/international/live/2026/11/17/en-direct-guerre-en-ukraine-vladimir-poutine-est-arrive-en-chine-ou-il-doit-rencontrer-donald-trump-et-xi-jinping-selon-moscou_6810982_3210.html",
+          "fuente": "Le Monde",
+          "pais": "Francia",
+          "fecha": "2026-11-17T19:45:28+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Le président russe est arrivé mardi à Shenzhen, dans le sud-est de la Chine, pour participer au sommet annuel de la Coopération économique pour l’Asie-Pacifique, a annoncé l’agence de presse officielle russe TASS. Son avion a atterri à l’aéroport international de cette métropole voisine de Hongkong.",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "Le Monde"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "China",
+        "Ucrania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Institucionalismo liberal",
+        "pregunta": "¿Qué reglas, mecanismos de cooperación y límites institucionales afectan la decisión?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: China, Estados Unidos, Ucrania",
+        "Ámbito: Organismos multilaterales"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-856727f9a5c6957e07aa",
+      "fecha": "2026-11-17",
+      "titulo_fuente": "Ukraine's ‘deep' strikes inside Russia not helping end conflict — Pentagon",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "856727f9a5c6957e07aa",
+          "titulo_original": "Ukraine's ‘deep' strikes inside Russia not helping end conflict — Pentagon",
+          "titulo_es": "Las huelgas “defusas” de Ucrania dentro de Rusia no ayudan a poner fin al conflicto – Pentágono",
+          "url": "https://tass.com/world/2219923",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-17T19:29:56+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Such strikes, especially those that target civilian infrastructure have actually probably hardened the Russian public's resolve and the Kremlin's own willingness to escalate, said US Under Secretary of Defense for Policy Elbridge Colby",
+          "resumen_es": "Tales huelgas, especialmente las que apuntan a la infraestructura civil, probablemente han endurecido la resolución del público ruso y la voluntad del Kremlin de escalar, dijo el Secretario de Defensa de EE.UU. Elbridge Colby"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Rusia",
+        "Ucrania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia, Ucrania",
+        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -2295,6 +2437,54 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-9bb27f2bbcffa2c5a109",
+      "fecha": "2026-11-17",
+      "titulo_fuente": "‘Peace through strength’: Albanese and Trump hail progress on Quad alliance",
+      "region": "China",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "9bb27f2bbcffa2c5a109",
+          "titulo_original": "‘Peace through strength’: Albanese and Trump hail progress on Quad alliance",
+          "titulo_es": "",
+          "url": "https://www.theguardian.com/us-news/2026/nov/17/peace-through-strength-albanese-and-trump-hail-progress-on-quad-alliance",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-17T12:22:56+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Leaders of India and Japan join for talks on military exercises, AI and rare earths as a counter to Chinese power Donald Trump and Anthony Albanese have heralded plans for new joint Quad military exercises designed to push back on China’s expansionist ambitions, promising the grouping with India and Japan will guarantee “peace through strength”. Albanese met Trump, India’s Nahrendra Modi and Japan’s Sanae Takaichi in Manila late on Tuesday in tal",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "The Guardian"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "China",
+        "India",
+        "Japón"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: China, Estados Unidos, India",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-17ebdf42bb9f1be71c37",
       "fecha": "2026-11-17",
       "titulo_fuente": "Trump issues stark warning to Iran over possible DC threat - CNN",
@@ -2910,47 +3100,89 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-97431921c1544f2651e4",
-      "fecha": "2026-11-16",
-      "titulo_fuente": "UK PM Andy Burnham says Brexit has not worked ahead of a reset summit with the EU",
-      "region": "Europa",
+      "id": "a-b65998619e2b11af9d37",
+      "fecha": "2026-11-17",
+      "titulo_fuente": "Companies get billions in tariff refunds. Consumers are left with the bill.",
+      "region": "Internacional",
       "temas": [
-        "Diplomacia"
+        "Comercio y finanzas"
       ],
       "noticias": [
         {
-          "id": "97431921c1544f2651e4",
-          "titulo_original": "UK PM Andy Burnham says Brexit has not worked ahead of a reset summit with the EU",
-          "titulo_es": "El primer ministro británico Andy Burnham dice que Brexit no ha trabajado antes de una cumbre de reajuste con la UE",
-          "url": "https://www.scmp.com/news/world/europe/article/3374654/uk-pm-andy-burnham-says-brexit-has-not-worked-ahead-reset-summit-eu",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-11-16T22:08:48+00:00",
+          "id": "b65998619e2b11af9d37",
+          "titulo_original": "Companies get billions in tariff refunds. Consumers are left with the bill.",
+          "titulo_es": "Las empresas obtienen miles de millones en reembolsos arancelarios. Los consumidores quedan con la cuenta.",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/companies-get-billions-in-tariff-refunds-consumers-are-left-with-the-bill?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-17T19:31:30+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "UK Prime Minister Andy Burnham said on Monday that it is time to admit that Brexit has not delivered for the UK and that the country needs a much closer relationship with the European Union to combat growing isolationism around the world. He compared the outcome of Britain’s divorce from the EU, triggered by a 2016 referendum, to the Hans Christian Andersen fairy tale The Emperor’s New Clothes, in which no one is willing to tell the ruler that he",
-          "resumen_es": "UK Prime Minister Andy Burnham dijo el lunes que es hora de admitir que Brexit no ha entregado para el Reino Unido y que el país necesita una relación mucho más estrecha con la Unión Europea para combatir el creciente aislamiento en todo el mundo. H"
+          "resumen_original": "Companies get billions in tariff refunds. Consumers are left with the bill.",
+          "resumen_es": "Las empresas obtienen miles de millones en reembolsos arancelarios. Los consumidores quedan con la cuenta."
         }
       ],
       "fuentes": [
-        "South China Morning Post"
+        "Al Jazeera"
       ],
-      "actores_mencionados": [
-        "Unión Europea"
-      ],
+      "actores_mencionados": [],
       "fuentes_independientes": 1,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+        "nombre": "Interdependencia compleja y economía política internacional",
+        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
       },
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
+      "prioridad_orientativa": 4,
       "motivos_seleccion": [
-        "Actores relevantes: Unión Europea",
-        "Ámbito: Diplomacia",
+        "Ámbito: Comercio y finanzas",
         "Posible decisión institucional o negociación"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-e2fedeb2d5c89a15b091",
+      "fecha": "2026-11-17",
+      "titulo_fuente": "Thomas Markle, acusado también en Filipinas: se enfrenta a cargos por “distribuir, vender y exportar” material de pornografía infantil",
+      "region": "Estados Unidos",
+      "temas": [
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "e2fedeb2d5c89a15b091",
+          "titulo_original": "Thomas Markle, acusado también en Filipinas: se enfrenta a cargos por “distribuir, vender y exportar” material de pornografía infantil",
+          "titulo_es": "",
+          "url": "https://elpais.com/gente/2026-11-17/thomas-markle-acusado-tambien-en-filipinas-se-enfrenta-a-cargos-por-distribuir-vender-y-exportar-material-de-pornografia-infantil.html",
+          "fuente": "El País",
+          "pais": "España",
+          "fecha": "2026-11-17T19:01:18+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "El padre de Meghan Markle permanece en una prisión de Florida desde el pasado 10 de noviembre. En Estados Unidos puede ser condenado hasta a 20 años de cárcel si es declarado culpable del delito de posesión de pornografía infantil",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "El País"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia compleja y economía política internacional",
+        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos",
+        "Ámbito: Comercio y finanzas"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -3130,6 +3362,52 @@
       "motivos_seleccion": [
         "Actores relevantes: Estados Unidos",
         "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-93acb7fcf3eace2f7e08",
+      "fecha": "2026-11-17",
+      "titulo_fuente": "Europe fears what Trump, Xi and Putin might discuss behind closed doors in China - CNN",
+      "region": "China",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "93acb7fcf3eace2f7e08",
+          "titulo_original": "Europe fears what Trump, Xi and Putin might discuss behind closed doors in China - CNN",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oMkdocXkyWjJnQ0dBTXplTy12RkVHdVNzWHF1ci1FT1hldWlvbWtUV3FRcXdTZmF6a04zSGtOV0dRblllcm9IZDZnMF94V1p6N1FNaC1wOU92YV9NekdWb2twUVFYMzRqM2VPTQ?oc=5",
+          "fuente": "CNN",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-17T17:52:30+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Europe fears what Trump, Xi and Putin might discuss behind closed doors in China CNN",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "CNN"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "China",
+        "Rusia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: China, Estados Unidos, Rusia"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6392,48 +6670,47 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-9619836a34edab6ac4cc",
-      "fecha": "2026-11-16",
-      "titulo_fuente": "Russian president begins busy three-day visit to Shenzhen",
-      "region": "Rusia-Ucrania",
+      "id": "a-1c2920559cb456e42d3c",
+      "fecha": "2026-11-17",
+      "titulo_fuente": "Plane crashes in Siberia killing 19",
+      "region": "Internacional",
       "temas": [
         "Actualidad"
       ],
       "noticias": [
         {
-          "id": "9619836a34edab6ac4cc",
-          "titulo_original": "Russian president begins busy three-day visit to Shenzhen",
-          "titulo_es": "El presidente ruso comienza una visita a Shenzhen",
-          "url": "https://tass.com/politics/2219255",
+          "id": "1c2920559cb456e42d3c",
+          "titulo_original": "Plane crashes in Siberia killing 19",
+          "titulo_es": "Plane se estrella en Siberia matando 19",
+          "url": "https://tass.com/emergencies/2219927",
           "fuente": "TASS",
           "pais": "Rusia",
-          "fecha": "2026-11-16T22:34:01+00:00",
+          "fecha": "2026-11-17T19:40:56+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Vladimir Putin has attended APEC events in various formats, including via video link, since becoming president, but this will be his first in-person participation since 2017",
-          "resumen_es": "Vladimir Putin ha asistido a eventos de la APEC en varios formatos, incluyendo a través de videoconferencia, desde que se convirtió en presidente, pero esta será su primera participación en persona desde 2017"
+          "resumen_original": "The preliminary cause of the disaster is a technical malfunction",
+          "resumen_es": "La causa preliminar del desastre es un mal funcionamiento técnico"
         },
         {
-          "id": "c58cf58749eec6720dae",
-          "titulo_original": "Russian president to have three busy days in Shenzhen — Kremlin spokesman",
-          "titulo_es": "Presidente ruso para tener tres días ocupados en Shenzhen — vocero de Kremlin",
-          "url": "https://tass.com/politics/2219251",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-16T21:41:01+00:00",
+          "id": "8fefe823db1a58c6aed0",
+          "titulo_original": "Russian military plane crashes killing all 19 on board",
+          "titulo_es": "El avión militar ruso se estrella matando a los 19 a bordo",
+          "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-17T19:33:55+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Dmitry Peskov noted that there will be bilateral meetings and a separate trilateral meeting involving Russian President Vladimir Putin, Chinese President Xi Jinping and US leader Donald Trump",
-          "resumen_es": "Dmitry Peskov señaló que habrá reuniones bilaterales y una reunión trilateral independiente con el presidente ruso Vladimir Putin, el presidente chino Xi Jinping y el líder estadounidense Donald Trump"
+          "resumen_original": "Russia's defence ministry says a technical malfunction was the likely cause of the crash in the Kemerovo region.",
+          "resumen_es": "El ministerio de defensa de Rusia dice que un mal funcionamiento técnico fue la causa probable del accidente en la región de Kemerovo."
         }
       ],
       "fuentes": [
+        "BBC News",
         "TASS"
       ],
       "actores_mencionados": [
-        "China",
-        "Estados Unidos",
         "Rusia"
       ],
-      "fuentes_independientes": 1,
+      "fuentes_independientes": 2,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
         "nombre": "Marco por determinar",
@@ -6442,101 +6719,10 @@
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
+      "prioridad_orientativa": 3,
       "motivos_seleccion": [
-        "Actores relevantes: China, Estados Unidos, Rusia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-66b7c3ba0ca428886cff",
-      "fecha": "2026-11-16",
-      "titulo_fuente": "Why China is betting on ‘home-court diplomacy’ at the Shenzhen Apec gathering",
-      "region": "China",
-      "temas": [
-        "Diplomacia",
-        "Seguridad y conflictos",
-        "Comercio y finanzas"
-      ],
-      "noticias": [
-        {
-          "id": "66b7c3ba0ca428886cff",
-          "titulo_original": "Why China is betting on ‘home-court diplomacy’ at the Shenzhen Apec gathering",
-          "titulo_es": "¿Por qué China apuesta en “diplomacia casera” en la reunión de Shenzhen Apec",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3374575/why-china-betting-home-court-diplomacy-shenzhen-apec-gathering",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-11-16T22:00:06+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "In October 2001, with the world still reeling from the September 11 attacks and China on the cusp of joining the World Trade Organization, then Chinese president Jiang Zemin opened the Asia-Pacific Economic Cooperation (Apec) leaders’ meeting in Shanghai. The world, he said, was at “a crucial moment, a moment of great hope as well as imposing challenges”. The summit was both a diplomatic debut and a strategic warm-up for China, marking its first ",
-          "resumen_es": "En octubre de 2001, con el mundo todavía se retira de los atentados del 11 de septiembre y China en la víspera de unirse a la Organización Mundial del Comercio, el presidente chino Jiang Zemin abrió el encuentro de líderes de Asia y el Pacífico (Apec)"
-        }
-      ],
-      "fuentes": [
-        "South China Morning Post"
-      ],
-      "actores_mencionados": [
-        "China"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: China",
-        "Ámbito: Comercio y finanzas, Diplomacia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-74dca108d80eb27cbdb7",
-      "fecha": "2026-11-16",
-      "titulo_fuente": "Houthi rebel advance in Yemen may further destabilise global economy",
-      "region": "Oriente Medio",
-      "temas": [
-        "Comercio y finanzas"
-      ],
-      "noticias": [
-        {
-          "id": "74dca108d80eb27cbdb7",
-          "titulo_original": "Houthi rebel advance in Yemen may further destabilise global economy",
-          "titulo_es": "",
-          "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-16T21:40:07+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "BBC News"
-      ],
-      "actores_mencionados": [
-        "Irán"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia compleja y economía política internacional",
-        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Irán",
-        "Ámbito: Comercio y finanzas"
+        "Cobertura de fuentes distintas",
+        "Actores relevantes: Rusia"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6658,45 +6844,35 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-1eab82a1bc175644620a",
-      "fecha": "2026-11-16",
-      "titulo_fuente": "United Airlines says it is working to fix ‘widespread’ system outage",
+      "id": "a-40677a8bb4a3d341f73a",
+      "fecha": "2026-11-17",
+      "titulo_fuente": "Houthis say they attacked two oil pumping stations near Riyadh",
       "region": "Internacional",
       "temas": [
-        "Seguridad y conflictos"
+        "Seguridad y conflictos",
+        "Energía y clima"
       ],
       "noticias": [
         {
-          "id": "1eab82a1bc175644620a",
-          "titulo_original": "United Airlines says it is working to fix ‘widespread’ system outage",
-          "titulo_es": "United Airlines dice que está trabajando para arreglar el despilfarro del sistema",
-          "url": "https://www.theguardian.com/us-news/2026/nov/16/united-airlines-system-outage",
-          "fuente": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-16T22:19:48+00:00",
+          "id": "40677a8bb4a3d341f73a",
+          "titulo_original": "Houthis say they attacked two oil pumping stations near Riyadh",
+          "titulo_es": "Dicen que atacaron dos estaciones de bombeo de petróleo cerca de Riyadh",
+          "url": "https://tass.com/world/2219929",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-17T19:42:10+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Outage at major airline comes just three days after FAA issued rare nationwide ground stop on all US flights United ⁠Airlines said on ⁠Monday ⁠that it was ​experiencing ⁠a widespread system ⁠outage, just three days after the Federal ⁠Aviation Administration issued a rare nationwide ground stop on all US flights. “We’re ‌aware of the widespread system outage, ‌and our teams are working ​hard to get ⁠things back ​up and ​running ​as soon ​as possib",
-          "resumen_es": "La emisión en la aerolínea principal llega apenas tres días después de que la FAA emitiera una rara parada terrestre a nivel nacional en todos los vuelos estadounidenses United ⁠Airlines dijo en ⁠Monday ⁠ que estaba experimentando un sistema generalizado ⁠outage, apenas tres días después de la Federal ⁠Aviati"
-        },
-        {
-          "id": "36796264376915762ab5",
-          "titulo_original": "United Airlines experiencing a widespread system outage, airline says - CNN",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWdVNQc3RhVm1FaTNNOXdkNXlfaHZ3NE10blRxN215NUNwbW1KdmlqOWRmQlZrY0RtbDJmaC1OeUpVU3ptTDZTWUF6anZMbmRScEd0YTA1NVhIMGNwc01uLXU4ZlhVRGc?oc=5",
-          "fuente": "CNN",
-          "pais": "Estados Unidos",
-          "fecha": "2026-11-16T22:12:23+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "United Airlines experiencing a widespread system outage, airline says CNN",
-          "resumen_es": ""
+          "resumen_original": "According to Houthi spokesman Yahya Saria, the attacks caused fires at these facilities",
+          "resumen_es": "Según el portavoz de Houthi Yahya Saria, los ataques causaron incendios en estas instalaciones"
         }
       ],
       "fuentes": [
-        "CNN",
-        "The Guardian"
+        "TASS"
       ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 2,
+      "actores_mencionados": [
+        "Arabia Saudita"
+      ],
+      "fuentes_independientes": 1,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
         "nombre": "Realismo y dilema de seguridad",
@@ -6705,364 +6881,135 @@
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 3,
+      "prioridad_orientativa": 2,
       "motivos_seleccion": [
-        "Cobertura de fuentes distintas",
+        "Ámbito: Energía y clima, Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-97803aea3194140c8402",
+      "fecha": "2026-11-17",
+      "titulo_fuente": "Using law to try to silence abuse victims is ‘ultimate form of gaslighting’, MPs told",
+      "region": "Internacional",
+      "temas": [
+        "Energía y clima"
+      ],
+      "noticias": [
+        {
+          "id": "97803aea3194140c8402",
+          "titulo_original": "Using law to try to silence abuse victims is ‘ultimate form of gaslighting’, MPs told",
+          "titulo_es": "Usar la ley para tratar de silenciar a las víctimas de abuso es \"una forma íntima de gaseoso\", dijeron los parlamentarios",
+          "url": "https://www.theguardian.com/society/2026/nov/17/using-law-try-silence-abuse-victims-ultimate-gaslighting-mps-told",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-17T19:36:11+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Woman sued by alleged rapist tells justice committee that Slapp lawsuits present perpetrator as victim of wrongdoing Attempts by perpetrators and alleged perpetrators of sexual abuse to silence their victims using the law are “the ultimate form of gaslighting”, MPs have heard. Verity Nevitt, a co-founder of the Gemini Project, a survivor-led nonprofit organisation, told the House of Commons justice committee about the ordeal of being sued by the ",
+          "resumen_es": "Woman demanded by alleged rapist tell justice committee that Slapp lawsuits present perpetrator as victim of wrongdoing Attempts by perpetrators and alleged perpetrators of sexual abuse to silence their victims using the law are “the ultimate ultimate ultimate end"
+        }
+      ],
+      "fuentes": [
+        "The Guardian"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia y gobernanza global",
+        "pregunta": "¿Cómo se distribuyen los costos de coordinación y los incentivos para cooperar?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Energía y clima"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-134ec0c7df9284f9f362",
+      "fecha": "2026-11-17",
+      "titulo_fuente": "Ugandan human trafficking survivor uses music to fight abuse",
+      "region": "Internacional",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "134ec0c7df9284f9f362",
+          "titulo_original": "Ugandan human trafficking survivor uses music to fight abuse",
+          "titulo_es": "Superviviente de la trata de personas ugandesa utiliza música para combatir el abuso",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/ugandan-human-trafficking-survivor-uses-music-to-fight-abuse?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-17T19:32:44+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "After surviving trafficking in Myanmar, Ugandan singer Gideon Mwesezi, known as ‘Small Q’, is using music to warn others",
+          "resumen_es": "Después de sobrevivir el tráfico en Myanmar, el cantante ugandés Gideon Mwesezi, conocido como ‘Small Q’, está usando música para advertir a otros"
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
         "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
     },
     {
-      "id": "a-8c2e99bd3809d5c45ddc",
+      "id": "a-7afcb5441ffbe7de5a06",
       "fecha": "2026-11-17",
-      "titulo_fuente": "Kalshi halts trading on Trump's speeches - Politico",
-      "region": "Estados Unidos",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "8c2e99bd3809d5c45ddc",
-          "titulo_original": "Kalshi halts trading on Trump's speeches - Politico",
-          "titulo_es": "Kalshi detiene el comercio de los discursos de Trump - Politico",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN091UW9IYzBpOGFoclY5azdjN3VpbGtOUTBGelJSdzVwbEJmTTF3Z0l0OFZqTUpUWFpheWx5elVlME1MUWpNVTBnX1V3REFFVkxSMVhkSE1vdlNrSUFOWF9ObVNLdW9LN0h6bGRaMjhmai1pNTVocFZHRHdCRndxQUFZZDhuWm8?oc=5",
-          "fuente": "POLITICO US",
-          "pais": "Estados Unidos",
-          "fecha": "2026-11-17T19:17:00+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Kalshi halts trading on Trump's speeches Politico",
-          "resumen_es": "Kalshi detiene el comercio de los discursos de Trump Politico"
-        }
-      ],
-      "fuentes": [
-        "POLITICO US"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-2a85defb04a5babf2ef1",
-      "fecha": "2026-11-17",
-      "titulo_fuente": "Cornyn links Nvidia scandal to perception of Trump admin corruption - Politico",
-      "region": "Estados Unidos",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "2a85defb04a5babf2ef1",
-          "titulo_original": "Cornyn links Nvidia scandal to perception of Trump admin corruption - Politico",
-          "titulo_es": "Cornyn vincula el escándalo de Nvidia a la percepción de la corrupción de Trump admin - Politico",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPajhUdEF6dGVCVjEyMXhsN2VVcWI2czNYUk9WaGNPRFRuS1gxQXNXVGsxV1VUMXNWOHRBUXl4MFNLVDZoWF9JdmJPRkZxOHVndWhsM2hwWXBTcU1LTG4ybVVUbV9FUk00SmtUd2pMTUpLT1BlLU4xUWNTbHFIdlNycUFaelI2SUFOekowNE5Gd1RxWTkza0hB?oc=5",
-          "fuente": "POLITICO US",
-          "pais": "Estados Unidos",
-          "fecha": "2026-11-17T19:13:00+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Cornyn links Nvidia scandal to perception of Trump admin corruption Politico",
-          "resumen_es": "Cornyn vincula el escándalo de Nvidia a la percepción de la corrupción de Trump admin Politico"
-        }
-      ],
-      "fuentes": [
-        "POLITICO US"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-e2b8fd0fb6754d1f23ed",
-      "fecha": "2026-11-17",
-      "titulo_fuente": "Lawmakers want answers from the Trump administration on recent tech outages - Politico",
-      "region": "Estados Unidos",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "e2b8fd0fb6754d1f23ed",
-          "titulo_original": "Lawmakers want answers from the Trump administration on recent tech outages - Politico",
-          "titulo_es": "Los legisladores quieren respuestas de la administración Trump sobre los últimos avances tecnológicos - Politico",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOT3dhNXMxU01CY3lnRi1yZHhkRzRtZHBuaUtxTGpJWVNXemhwTHFQaUIySjFEUy0yWUVGRElsMXpYTDlRZmtBX0U0cHVmV3hhdERta3JJUVBoTXhkczd2N3lUNTNmY3VxU3NMdThTOTVqSl9faTdXOHJLSDl5X3ZEU25sZ0E5TmFmQy1ucXFWUFpDRUdlV3pBZkpqNVdUNm8?oc=5",
-          "fuente": "POLITICO US",
-          "pais": "Estados Unidos",
-          "fecha": "2026-11-17T19:13:00+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Lawmakers want answers from the Trump administration on recent tech outages Politico",
-          "resumen_es": "Los legisladores quieren respuestas de la administración Trump sobre los últimos avances tecnológicos Politico"
-        }
-      ],
-      "fuentes": [
-        "POLITICO US"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-5613e1047e1fdb9dba5f",
-      "fecha": "2026-11-17",
-      "titulo_fuente": "Democrat Mary Peltola closes in on victory in closely watched US Senate race in Alaska – live",
-      "region": "Estados Unidos",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "5613e1047e1fdb9dba5f",
-          "titulo_original": "Democrat Mary Peltola closes in on victory in closely watched US Senate race in Alaska – live",
-          "titulo_es": "La demócrata Mary Peltola se acerca a la victoria al observar de cerca la carrera del Senado de Estados Unidos en Alaska – vivir",
-          "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
-          "fuente": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-17T19:07:07+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Challenger nears 50% of the ballot to secure victory in final midterms contest Protests greet Trump on Asia visit – follow live Sign up for US Breaking News email Abdul El-Sayed , the Democratic-Senator elect from Michigan, said today that he would be happy to work with the Trump administration to pass one of his tentpole policy agenda items – Medicare For All. “Everybody’s like, ‘ah well, you’d work with Donald Trump to get Medicare For All?’. I",
-          "resumen_es": "Challenger se acerca al 50% de la votación para asegurar la victoria en el concurso final de mitades Protests saludan a Trump en Asia visita – seguir en directo Regístrate para US Breaking News email Abdul El-Sayed , el senador demócrata elegido desde Michigan, dijo hoy que"
-        }
-      ],
-      "fuentes": [
-        "The Guardian"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-51eadd24b003035ee8ce",
-      "fecha": "2026-11-17",
-      "titulo_fuente": "New anti-regime protests erupt in flashpoint Iranian city",
-      "region": "Oriente Medio",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "51eadd24b003035ee8ce",
-          "titulo_original": "New anti-regime protests erupt in flashpoint Iranian city",
-          "titulo_es": "Nuevas protestas contra el régimen estallaron en el punto de inflamación de la ciudad iraní",
-          "url": "https://www.euronews.com/2026/11/17/new-anti-regime-protests-erupt-in-flashpoint-iranian-city",
-          "fuente": "Euronews",
-          "pais": "Unión Europea",
-          "fecha": "2026-11-17T19:06:03+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "A protest sparked by a deadly bus crash in a western Iranian city turned into a new anti-regime protest with hundreds chanting \"Death to the dictator.\"",
-          "resumen_es": "Una protesta provocada por un mortífero accidente de autobús en una ciudad iraní occidental se convirtió en una nueva protesta contra el régimen con cientos de cantos \"Muerte al dictador\"."
-        }
-      ],
-      "fuentes": [
-        "Euronews"
-      ],
-      "actores_mencionados": [
-        "Irán"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Irán"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-a5428cb568f208e53ce7",
-      "fecha": "2026-11-17",
-      "titulo_fuente": "National Security Agency network for internal communications goes down",
-      "region": "Internacional",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "a5428cb568f208e53ce7",
-          "titulo_original": "National Security Agency network for internal communications goes down",
-          "titulo_es": "Seguridad Nacional La red del Organismo para las comunicaciones internas disminuye",
-          "url": "https://www.theguardian.com/us-news/2026/nov/17/nsa-national-security-classified-communications-network-down",
-          "fuente": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-17T19:00:21+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "NSA issues ‘code yellow’ as NSANet, used by staff to share classified material, including top-secret intelligence, fails The National Security Agency’s classified internal communications network went down on Tuesday, disrupting work at the US signals intelligence agency, according to several US media reports. The network, known as NSANet, is used by NSA staff to share classified material, including top-secret intelligence. The New York Times and ",
-          "resumen_es": "NSA emite “código amarillo” como NSANet, utilizado por el personal para compartir material clasificado, incluyendo la inteligencia secreta superior, falla la red de comunicaciones internas clasificadas de la Agencia de Seguridad Nacional descendió el martes, interrumpiendo el trabajo en la"
-        },
-        {
-          "id": "fe77f4b80be03a3239ff",
-          "titulo_original": "Top-secret US security communications network is down, report says",
-          "titulo_es": "La red de comunicaciones de seguridad de EE.UU. de alto secreto está bajada, informe dice",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3374800/top-secret-us-security-communications-network-down-report-says",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-11-17T18:57:26+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "A top-secret network that the US National Security Agency (NSA) uses for internal communications went down Tuesday, US media reported. CNN cited six people familiar with the outage and said that so far there is no evidence of a cyberattack, in the latest technical snafu to plague America in a matter of just days. The Wall Street Journal quoted a person familiar with the NSA incident as saying the outage stemmed from software update work and there",
-          "resumen_es": "Una red de alto secreto que la Agencia de Seguridad Nacional (NSA) utiliza para las comunicaciones internas bajó el martes, informó los medios de comunicación estadounidenses. CNN citó a seis personas familiarizadas con el exterior y dijo que hasta ahora no hay evidencia de un ciberataque,"
-        },
-        {
-          "id": "d204e94dbdd0218a8f41",
-          "titulo_original": "Exclusive: Highly classified US national security communications network goes down - CNN",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZHdzYi0xLWd6am9CNjFRQnBGNkszanVyWVk5SW5zQjlSUy1qRUZRQmZGVXBjbzF6d1RiZUNHRkp3SHdVdkVCV3ZOWXRYSTJTZDFXN0wtRVF1QXJ6OC1BN2VUM25SVDM5Q1FYa0M0RkZZbWFkVFVtVWN4cTRGQlVwLXB4RmU4UEZFeU9nejBXc19ydDA4SFZkelV2emFLV3NXYkE?oc=5",
-          "fuente": "CNN",
-          "pais": "Estados Unidos",
-          "fecha": "2026-11-17T17:07:00+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Exclusive: Highly classified US national security communications network goes down CNN",
-          "resumen_es": ""
-        },
-        {
-          "id": "dd8bdce65627b3161856",
-          "titulo_original": "Exclusive: Sources tell CNN highly classified US national security communications network goes down - CNN",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaWEtcF9jZFJJel9TMEdnRVBFcGliWFJnZmc2V3ltMFBkVkdBYTdkdThQV01GNUMzc1FWWjVOci1vUGZIVjdScXF5cE5XdFY1V29FdEs1bmVTUmk0VHJLSk45UWxtbTQzWVgxWE14NzVjWWJrYWZNTHhwX19kd0hQZEl4WXdUbzZfUHJqN2E0ZmNWVGdVVGVn?oc=5",
-          "fuente": "CNN",
-          "pais": "Estados Unidos",
-          "fecha": "2026-11-17T15:44:54+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Exclusive: Sources tell CNN highly classified US national security communications network goes down CNN",
-          "resumen_es": ""
-        },
-        {
-          "id": "abd4501750f18957507d",
-          "titulo_original": "Exclusive: Highly classified US national security communications network goes down, sources say - CNN",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ0tpUkRvaGcwWEh5T0JlUzZzMEdTakNIenJjdjltc1dLb25pdlgxQks1aExOSTQ5UDI4ZVEwTjZDWm5nRk1XTkkxM0tUQVFIS19JSGNsblFxcW9jT0ZPb3U2QmxnVmh6b1hGbjFRcU1SaDRza0lzcEFGRWNMUjdSX1QtVDNTdnRMeUJRb0FRbk5kc1MwVnVTNWJQdXBvM3d2VXhVQzZtenJ5U0I4?oc=5",
-          "fuente": "CNN",
-          "pais": "Estados Unidos",
-          "fecha": "2026-11-17T15:31:26+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Exclusive: Highly classified US national security communications network goes down, sources say CNN",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "CNN",
-        "South China Morning Post",
-        "The Guardian"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 3,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Cobertura de fuentes distintas"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-3848c3b1ba9d571cfe4d",
-      "fecha": "2026-11-17",
-      "titulo_fuente": "Bukele, de El Salvador, projeta poder no Caribe com operação no Haiti",
+      "titulo_fuente": "Milburn calls for tax cuts for businesses hiring young people despite union concerns",
       "region": "Europa",
       "temas": [
-        "Seguridad y conflictos"
+        "Comercio y finanzas"
       ],
       "noticias": [
         {
-          "id": "3848c3b1ba9d571cfe4d",
-          "titulo_original": "Bukele, de El Salvador, projeta poder no Caribe com operação no Haiti",
-          "titulo_es": "Bukele, de El Salvador, proyecta poder en el Caribe con operación en Haití",
-          "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/bukele-de-el-salvador-projeta-poder-no-caribe-com-operacao-no-haiti",
-          "fuente": "Agência Brasil (EBC)",
-          "pais": "Brasil",
-          "fecha": "2026-11-17T18:49:00+00:00",
+          "id": "7afcb5441ffbe7de5a06",
+          "titulo_original": "Milburn calls for tax cuts for businesses hiring young people despite union concerns",
+          "titulo_es": "Milburn pide recortes fiscales para empresas que contratan a jóvenes a pesar de las preocupaciones sindicales",
+          "url": "https://www.theguardian.com/society/2026/nov/17/alan-milburn-tax-cuts-businesses-unions-neets-youth-unemployment",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-17T19:30:32+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Sob a justificativa de resgatar quatro soldados de El Salvador que teriam sido capturados por gangues do Haiti, o presidente Nayib Bukele tem projetado poder no Caribe com uma operação militar na ilha Hispaniola, que dura três semanas e conta com mais de dois mil militares salvadorenhos. Os jornais haitianos registram crescente apoio popular às ações militares conduzidas por El Salvador. O colunista do Le Nouvelliste, Frantz Duval, afirma que Buk",
-          "resumen_es": "Bajo la justificación de rescatar a cuatro soldados de El Salvador que habrían sido capturados por pandillas de Haití, el presidente Nayib Bukele ha diseñado poder en el Caribe con una operación militar en la isla Hispaniola, que dura tres semanas y con"
+          "resumen_original": "Youth unemployment review risks clash with unions and Labour left over workers’ rights and minimum wage Neet ideas: what’s in Alan Milburn’s youth unemployment report? Who are the Neets? UK youth job crisis in five charts Milburn urges Burnham to spend billions on young people Alan Milburn has called on ministers to cut business taxes and ease regulations to encourage employers to hire more young people, setting up a potential clash with trade un",
+          "resumen_es": "Los riesgos de la revisión del desempleo juvenil chocan con los sindicatos y el trabajo dejan sobre los derechos de los trabajadores y el salario mínimo Neet ideas: ¿qué hay en el informe de desempleo juvenil de Alan Milburn? ¿Quiénes son los Neets? Crisis laboral juvenil en el Reino Unido en cinco gráficos Milburn urge Burn"
         }
       ],
       "fuentes": [
-        "Agência Brasil (EBC)"
+        "The Guardian"
       ],
       "actores_mencionados": [],
       "fuentes_independientes": 1,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+        "nombre": "Interdependencia compleja y economía política internacional",
+        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
       },
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
-        "Ámbito: Seguridad y conflictos"
+        "Ámbito: Comercio y finanzas"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
