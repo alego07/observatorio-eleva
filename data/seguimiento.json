@@ -1,17 +1,25 @@
 {
-  "actualizado_utc": "2026-11-18T20:51:11.118629+00:00",
+  "actualizado_utc": "2026-11-18T21:29:26.973509+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 2683,
-      "nuevas_24h": 89,
-      "anteriores_24h": 84,
+      "cantidad_archivada": 2684,
+      "nuevas_24h": 87,
+      "anteriores_24h": 87,
       "dias_con_registros": 34,
-      "fecha_ultima": "2026-11-18T20:37:41+00:00",
+      "fecha_ultima": "2026-11-18T20:49:14+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "5480caf2e22bcd19b538",
+          "fecha": "2026-11-18T20:49:14+00:00",
+          "titulo": "US accuses Russian citizen of fraud, acting as unregistered foreign agent",
+          "fuente": "TASS",
+          "url": "https://tass.com/emergencies/2220805",
+          "traducida": false
+        },
         {
           "id": "9993c9acec1e53f01fcc",
           "fecha": "2026-11-18T20:37:41+00:00",
@@ -243,22 +251,14 @@
           "fuente": "TASS",
           "url": "https://tass.com/economy/2220737",
           "traducida": false
-        },
-        {
-          "id": "c9b0fff68ccc2e2df0b1",
-          "fecha": "2026-11-18T16:40:03+00:00",
-          "titulo": "Crowds gather as Trump arrives in China ahead of talks with Xi and Putin",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/crowds-gather-as-trump-arrives-in-china-ahead-of-talks-with-xi-and-putin?traffic_source=rss",
-          "traducida": false
         }
       ]
     },
     {
       "id": "india-asia",
       "titulo": "India y Asia-Pacífico",
-      "cantidad_archivada": 1842,
-      "nuevas_24h": 65,
+      "cantidad_archivada": 1845,
+      "nuevas_24h": 68,
       "anteriores_24h": 72,
       "dias_con_registros": 34,
       "fecha_ultima": "2026-11-18T17:51:47+00:00",
@@ -302,6 +302,14 @@
           "titulo": "How Kidambi Srikanth helped Lakshya Sen reach BWF World Tour Finals - The Indian Express",
           "fuente": "The Indian Express",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSGszU1NxQTVtX0IyNml4cmZHWGR1b0t1dGFSUklEZUJBQ2cwXzRzdURia1ljR2dmVWUtWTIzcC1LT2hTWTRWWDBzeGxsR21XMm1ZaVk1Z21mNTVWT2ZaVG81LXl1dWtrVUZaR05EUWpDSmlrTVo0TkhnTFlqRkx5QmNBV3ZZamU4amQ5aUJrTF9uY1FWblo1WjVBRWJiMVFDb3U1Qy1CYUxOYVBkMkVfdW1MTTZkVG_SAb4BQVVfeXFMTnoxZTlDVnJaeUtCdW9oeXVuTzNzTWZLZ3Z6V241S0lvYk5RNXdTcDV1NU12OWYwb3RpdGo4MjZ6V3dyaHJCV0luTDF4LVg1NVJ4dWlOOEh4b1JuQksyQzJ3T0xCekhKQlU1NUZINlVlUGJ5MnFxbnY5X2lsNXk4TDBSczlxN1RQTG5DRU54VnJSVURJUHZTcFk2UjV4Rk1SU3h4TWJrdjczd1lKTVE4QzZSd3UyN1ZGcTNiNmhVdw?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "46851b8f984e38b63c11",
+          "fecha": "2026-11-18T16:59:53+00:00",
+          "titulo": "‘Run for your safety’: The final hours before Lashkar’s Lateef Bhat was gunned down - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdUY5eEE0VFNyTHBYQ2VkRkZtSVlsQTNhM0NwUmcycWpsVGd4VktQa2MzRl9oZmpWeDNGRDNQZGpqRzZGMDlNeEc0eXd3Zk9kR2xDdHhkSThOdEhTS2F2dzFtM1REVVIwVVROQmZhcHJYdHBoV1c4dUQwVzRBcWJONjNDN0JJbTdYbU9qOXJZSC1tOVBULVo5akZrQnEwZG5uTlNTS01xcmlOYVRGZzY1VFJZcE5YSTFYdVlIZ1NPVUJYTWdvZmxCdTRRWGE0T0t3VTZDc1dlNNIB3gFBVV95cUxPZkhyOUhCVjRRbjR5cHROc1BhM1l0TENIU0lycXBqY2lDNnBxT2xXR1hrbUdycE44cnhxV28xcHNKcW9QUHhubkkxVy1pbnlsa0JpRHRPRjUxTGExVklfWWc0YUUtWHgxWHdBLTNLREhNU1VYYTZxQVN2Vnc3RnA5Vy1pN3JIQnJrZlZ2a1o2M2c4OXZZeVd6U1RvYnNDWjR5SkpMMjhYdEtUTWtfcXRCSTZrOW5BdFpHUkFBQUFIOHd0SHJYNTF4b2JHSkFWWG81TmM0ZlkwWGxpQUQ4RUE?oc=5",
           "traducida": false
         },
         {
@@ -495,27 +503,35 @@
           "fuente": "The Indian Express",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORzZwY29UclZuaXh0emxjRHk3WnNpQmlqX0p6YWdsN3VwY1oxSVFrY28zUFEyUWg2SWNPdkdseTdRUGZuYmhibmpXZmxnYW5mc0FBWGU3NTkycmtEU2VGdGRHczVfRG84b1h6bUhwVmFoc3JlWGd0ZWpGaE5uNGNaU1EtbGg1dm1lc2xnUWM0RURTWGJhWVZwbDM5VmdqT3RxdmdoanZ0ZzhqVEpma25Vdm9JdTdnMXIzdWVFWU94bWp1UDJkRHZUSNIBzwFBVV95cUxOUmdKOG5WNDA5ZGctbEdteTRaWkJaank4Sm1QMW1tSnNRbVVycnNmQVFhZldpVWFrRWpra29fcWhsUmZvMGpsdWxEOGs3clprNmNQUzRsQXJTdmdQYVpWblEtWTlzZFVyYnpMU1RmWjJMTnVUMXc4Nkk4SURNOWYxZEN0MW82d0ZJcnk1TVNZZlZXaDZGR1pzQndXNE9iak5Lb0M0bDljVkQ4ZGNPUzFqNUQ1aU1laV9ycWV4eUhmbE5UNENONXVhVU01ekRrUDg?oc=5",
           "traducida": false
-        },
-        {
-          "id": "76c9167318041b59ddf7",
-          "fecha": "2026-11-18T08:41:39+00:00",
-          "titulo": "‘Shining’ Mumbai for royals, garbage for Mumbaikars: Bombay HC raps civic body - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNXZ1eHlVeXlqNlZ3TFd4U1ozNWZRaGM5VnhoTEtIYVlteVlXRlRaZld2VVhldHdmSGFKUmxWX1VfMEdSem83dWdZWTNoU3ZrajFjc0txMW51aF9TYnVZMmtpM1lyN2R6Vk1mbmpfaFZzaFY4b1ZFU0pFVHozVkdmRGlNWWRiV1JDVXFIMWhBQk9Dd2NGWFFOTFBfUU1ocWFodmxSSVVBaEpkeUdsWTlyNldVb25FUE1paTFHeWxadHJzd3VxNlHSAcwBQVVfeXFMT0xYWFVHdkM5TzZWZ3NTenNXX1F6Tl84eGM5emtmZGZvaWZLcW5tLUE1emdZZU51VmVfYUFpTm1SM1NHQlR2X1ktZTVMd1hDeDBiRE5Oems1RU04cHZENG1qb1ZPbmQxR2Z1akZxQlV2NkctbWhjejF0OW5tVnVSdnhqM3BNU1BvdndPdWo4NlJPVU5ZYkp3ZnZCbFJhLV9JeDJNbjhnWk1tX3FlQ3NyOFN5RGh2TFozdXZ3UmpTQU1sMjZFU0FicVM1Yjl1?oc=5",
-          "traducida": false
         }
       ]
     },
     {
       "id": "oriente-medio",
       "titulo": "Oriente Medio: seguridad y diplomacia",
-      "cantidad_archivada": 1788,
-      "nuevas_24h": 58,
-      "anteriores_24h": 47,
+      "cantidad_archivada": 1790,
+      "nuevas_24h": 55,
+      "anteriores_24h": 51,
       "dias_con_registros": 34,
-      "fecha_ultima": "2026-11-18T20:43:37+00:00",
+      "fecha_ultima": "2026-11-18T21:10:37+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "df9ca2cd5b045e247079",
+          "fecha": "2026-11-18T21:10:37+00:00",
+          "titulo": "Houthis claim cruise missile strike on airport and financial center in Riyadh",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2220811",
+          "traducida": false
+        },
+        {
+          "id": "dc24d393577ad5d35291",
+          "fecha": "2026-11-18T21:03:14+00:00",
+          "titulo": "IDF confirms start of ‘targeted’ operation west of Yellow Line in Gaza",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2220809",
+          "traducida": false
+        },
         {
           "id": "125b2d1dea9ab254d950",
           "fecha": "2026-11-18T20:43:37+00:00",
@@ -738,22 +754,6 @@
           "titulo": "‘Status quo’ between US and Iran could break out into war, analysts warn",
           "fuente": "Al Jazeera",
           "url": "https://www.aljazeera.com/news/2026/11/18/status-quo-between-us-and-iran-could-break-out-into-war-analysts-warn?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "82b3ef7d47188414e423",
-          "fecha": "2026-11-18T14:13:51+00:00",
-          "titulo": "Can the US and Iran sustain a ‘frozen war’?",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/18/can-the-us-and-iran-sustain-a-frozen?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "c909e9e5ddfbe53ddd05",
-          "fecha": "2026-11-18T14:05:38+00:00",
-          "titulo": "Israel delays building contracts for West Bank settlement after UK sanctions",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/18/israel-construction-contracts-e1-west-bank-settlement-uk-sanctions",
           "traducida": false
         }
       ]
@@ -1013,13 +1013,21 @@
     {
       "id": "union-europea",
       "titulo": "Unión Europea y relaciones exteriores",
-      "cantidad_archivada": 731,
+      "cantidad_archivada": 732,
       "nuevas_24h": 17,
-      "anteriores_24h": 19,
+      "anteriores_24h": 20,
       "dias_con_registros": 34,
-      "fecha_ultima": "2026-11-18T18:48:08+00:00",
+      "fecha_ultima": "2026-11-18T21:00:35+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "0a4d8585bd78704e9850",
+          "fecha": "2026-11-18T21:00:35+00:00",
+          "titulo": "Trois « revenantes » françaises condamnées à des peines de cinq à douze ans de prison pour avoir rejoint l’organisation Etat islamique",
+          "fuente": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/18/trois-revenantes-francaises-condamnees-a-des-peines-de-cinq-a-douze-ans-de-prison-pour-avoir-rejoint-l-organisation-etat-islamique_6813211_3224.html",
+          "traducida": false
+        },
         {
           "id": "bf10e8d0f94a460d263b",
           "fecha": "2026-11-18T18:48:08+00:00",
@@ -1251,14 +1259,6 @@
           "fuente": "El País",
           "url": "https://elpais.com/economia/2026-11-17/bruselas-alerta-de-que-la-falta-de-vivienda-es-el-riesgo-principal-para-la-economia-espanola.html",
           "traducida": false
-        },
-        {
-          "id": "96d03424c51ab23f59e8",
-          "fecha": "2026-11-17T15:00:15+00:00",
-          "titulo": "En Pologne, auprès d’un exercice militaire inédit de la coalition des volontaires, dirigé par la France et le Royaume-Uni",
-          "fuente": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/17/en-pologne-aupres-d-un-exercice-militaire-inedit-de-la-coalition-des-volontaires-dirige-par-la-france-et-le-royaume-uni_6812990_3210.html",
-          "traducida": false
         }
       ]
     },
@@ -1267,7 +1267,7 @@
       "titulo": "Sudamérica: integración y política exterior",
       "cantidad_archivada": 388,
       "nuevas_24h": 7,
-      "anteriores_24h": 14,
+      "anteriores_24h": 13,
       "dias_con_registros": 34,
       "fecha_ultima": "2026-11-18T19:08:00+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -1519,7 +1519,7 @@
       "titulo": "Perú en el sistema internacional",
       "cantidad_archivada": 46,
       "nuevas_24h": 2,
-      "anteriores_24h": 6,
+      "anteriores_24h": 5,
       "dias_con_registros": 14,
       "fecha_ultima": "2026-11-18T11:35:31+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
