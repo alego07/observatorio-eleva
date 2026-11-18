@@ -1,13 +1,13 @@
 {
-  "actualizado_utc": "2026-11-18T19:03:54.736207+00:00",
+  "actualizado_utc": "2026-11-18T19:26:12.831561+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 2670,
-      "nuevas_24h": 87,
-      "anteriores_24h": 82,
+      "cantidad_archivada": 2671,
+      "nuevas_24h": 88,
+      "anteriores_24h": 81,
       "dias_con_registros": 34,
       "fecha_ultima": "2026-11-18T18:53:59+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -255,15 +255,275 @@
       ]
     },
     {
-      "id": "oriente-medio",
-      "titulo": "Oriente Medio: seguridad y diplomacia",
-      "cantidad_archivada": 1778,
-      "nuevas_24h": 53,
-      "anteriores_24h": 48,
+      "id": "india-asia",
+      "titulo": "India y Asia-Pacífico",
+      "cantidad_archivada": 1838,
+      "nuevas_24h": 64,
+      "anteriores_24h": 69,
       "dias_con_registros": 34,
-      "fecha_ultima": "2026-11-18T19:00:09+00:00",
+      "fecha_ultima": "2026-11-18T17:51:47+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "c9225e5cee2bd86065dd",
+          "fecha": "2026-11-18T17:51:47+00:00",
+          "titulo": "William and Kate reflect on 'enduring' UK-India ties with Modi",
+          "fuente": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
+          "traducida": false
+        },
+        {
+          "id": "907f1c5f51ecb67bac69",
+          "fecha": "2026-11-18T17:51:19+00:00",
+          "titulo": "SMAT 2026: Bihar, Vidarbha pull off thrilling chases; Baroda rout UP - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSzJSc1pScERZVElYaTZnSTVZb1BTemZwdFdnTkd5OGJ3WmUxWWJIRGJJM2xsS2NtYnQ2a3A1NWRWQkYzYmU3S3ZwTTBidGNnMThGS3hDM0FvU1lyMjYxQW5KME45UzRuX2FzaFo3Sm9CV25FYk5zc1owSmc4aWNoS18zdXRHUXJuZzlkR2NaUGpzRndUcXQ2N3NZc240X1A2MmdEZGJpOEZCMzVzRWZhaDVURzBjcGRPSnVfZWhMQjXSAccBQVVfeXFMTXRJUTYxMENPS2JxMktYMmlXdGtZckRTVnByOXVPd1ZvMU9TemkzcWxhUUdoclU2R1FxYjh1TGtCYmU1eVg2SlNwUUF6UmMzQmt5bHVUTFZLdG9HQVlCRVJ3dVpQMHpIaDNSM1lvaDNjSFFVMmRXNTBsZmhab0s0dmdVY0R1emJ2MTNTMGVYR2JRMlBKVlJuNk9tXzhadXVodnRDMzB1UnhsWHJfcEZ0SHJDeVo4NzBpaHF2bEZwRWpnN3JWT0ZlYw?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "3bdca5852a7c61a3bf07",
+          "fecha": "2026-11-18T17:25:00+00:00",
+          "titulo": "US senators urge White House AI chief to fix vulnerabilities after mass outages",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/18/jay-clayton-ai-tech-outages-infrastructure",
+          "traducida": false
+        },
+        {
+          "id": "16ab597d249dd77d30d5",
+          "fecha": "2026-11-18T17:16:14+00:00",
+          "titulo": "India, Canada eye defence pact during Modi visit in December",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/india-canada-eye-defence-pact-during-modi-visit-in-december/article71716898.ece",
+          "traducida": false
+        },
+        {
+          "id": "23079984fdfb599f0276",
+          "fecha": "2026-11-18T17:01:05+00:00",
+          "titulo": "How Kidambi Srikanth helped Lakshya Sen reach BWF World Tour Finals - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSGszU1NxQTVtX0IyNml4cmZHWGR1b0t1dGFSUklEZUJBQ2cwXzRzdURia1ljR2dmVWUtWTIzcC1LT2hTWTRWWDBzeGxsR21XMm1ZaVk1Z21mNTVWT2ZaVG81LXl1dWtrVUZaR05EUWpDSmlrTVo0TkhnTFlqRkx5QmNBV3ZZamU4amQ5aUJrTF9uY1FWblo1WjVBRWJiMVFDb3U1Qy1CYUxOYVBkMkVfdW1MTTZkVG_SAb4BQVVfeXFMTnoxZTlDVnJaeUtCdW9oeXVuTzNzTWZLZ3Z6V241S0lvYk5RNXdTcDV1NU12OWYwb3RpdGo4MjZ6V3dyaHJCV0luTDF4LVg1NVJ4dWlOOEh4b1JuQksyQzJ3T0xCekhKQlU1NUZINlVlUGJ5MnFxbnY5X2lsNXk4TDBSczlxN1RQTG5DRU54VnJSVURJUHZTcFk2UjV4Rk1SU3h4TWJrdjczd1lKTVE4QzZSd3UyN1ZGcTNiNmhVdw?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "ed8776e738037f8b8e2b",
+          "fecha": "2026-11-18T16:24:15+00:00",
+          "titulo": "Japan’s Takaichi meets Putin in rare talks amid strained ties with Russia",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3374961/japans-takaichi-meets-putin-rare-talks-amid-strained-ties-russia",
+          "traducida": false
+        },
+        {
+          "id": "f9f71fa21d7912bb8c7f",
+          "fecha": "2026-11-18T15:14:23+00:00",
+          "titulo": "After passing England & Sri Lanka tests, India await stern challenge in New Zealand - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdlN3ZDQzajRHdGxDYk1WdUdPQ1VYdXpZb3lkeWZLWDFNSWJHVHpOemd5bjlGWTBSblFzazdhVFZ4SzVmRkRlUFE1Y19VWGJHdGdoQkZUbGNRa0M4cnJTbWgwSzRRUE14dkVnWF9EcWQyaGpqaTJ6UUJmSnBmNmZlT2UwUS1Vb211RGJ6aXZtTWVJaDFCTnJfVjNtQjcteUlzWmduVENWT1VBMk5TeWIzUjYxU2ttSDB4NnYxUkNaaWRMd9IByAFBVV95cUxNVXVIYTRfQTVzOTJOS0V4eEEzUWxxYjJkbkt2eXJYdXVfRjdHbC04c1NXdUsxeFdKaXc4VEJtMmE4eDNzT0lBVnJsZUkyTjRpMk9MaXlMZjdXVEN6ckNFYlk3NUJqa1g3S29RS0pyTHdOWVlOWVRMNmJSQlI5dm5fa1c2TXRvN3huV2JDdHJMZW91UE1SY3F6T2NwMzVOOXVtNExGT0p2dGpzTk5XbWp0ajI0SVFPem5KaHQxVDBQNDZMeENiWDY4Tg?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "851eba7ae19fd38a1a43",
+          "fecha": "2026-11-18T14:38:01+00:00",
+          "titulo": "GTA 6 countdown begins as billboards go up from Tokyo to Sydney",
+          "fuente": "Euronews",
+          "url": "https://www.euronews.com/video/2026/11/18/gta-6-countdown-begins-as-billboards-go-up-from-tokyo-to-sydney",
+          "traducida": false
+        },
+        {
+          "id": "96864384d3ce56f3e32f",
+          "fecha": "2026-11-18T14:33:18+00:00",
+          "titulo": "When Gautam Gambhir batted nearly 11 hours to save a Test - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdkZkd1ltMGM4M0s3bVN6T0FYckdmNXFkYlVJazlJaGVKVmtBQUpyaVlaZHcydDNJYldYWDV0S2luS2VvRExCeVRXbzZVUVdKemtsYTRPeXlERlcxZkFYY0JhaGQwa09DZUUyRmxkTFM4dlZwR05fSDhob0M0UEJVcmNNTTctSGNKeGp3TWRLUEJjWFI1QTF1VUxwTkVpZDZ1VXRCM2thMGxGNm5DWi1PY0diT1Bvcjk0ZGU4dWtiONIBxgFBVV95cUxNRXVxNXFRZEpVZmlPblZRUUl0TjN2TkhQZ0JXVzJNZFNMUkpiNUR5bjAwUWdDYkJnX3FLUERsNWwxbUt5akhZVDBqVk5HYVFtMDZsQ195UHdiTWtJUG1YMzVVNEJYX3ByVXNPYVlSdVRZbDltei1zZkZIa3AyX3Rja2NhNUhXNXZrbmRFRzBORDBmWENnUzQzUURPalQteVBzOGx3bzRIWkg5T1EwNFFOblZLTDRSajRqc3h1TkFTMGRVRDdxSGc?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "b69ec930c1b86080ab71",
+          "fecha": "2026-11-18T14:28:00+00:00",
+          "titulo": "India: Online censorship grows after 'Cockroach' protests",
+          "fuente": "Deutsche Welle",
+          "url": "https://www.dw.com/en/india-online-censorship-grows-after-cockroach-protests/a-79976982?maca=en-rss-en-world-4025-rdf",
+          "traducida": false
+        },
+        {
+          "id": "49fde87868eb14981d58",
+          "fecha": "2026-11-18T14:16:42+00:00",
+          "titulo": "India sitting on 'economic disaster': Rahul Gandhi at Columbia University",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/india-sitting-on-economic-disaster-rahul-gandhi-at-columbia-university/article71714437.ece",
+          "traducida": false
+        },
+        {
+          "id": "7d5287c0a745694e2494",
+          "fecha": "2026-11-18T14:00:07+00:00",
+          "titulo": "How China’s ‘carrier nannies’ are powering the Liaoning’s long Pacific push",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/military/article/3374918/how-chinas-carrier-nannies-are-powering-liaonings-long-pacific-push",
+          "traducida": false
+        },
+        {
+          "id": "704010dd3e2156833bf5",
+          "fecha": "2026-11-18T13:37:03+00:00",
+          "titulo": "Xi greets Takaichi with a smile – but no words – as China-Japan freeze lingers",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3374944/xi-greets-takaichi-smile-no-words-china-japan-freeze-lingers",
+          "traducida": false
+        },
+        {
+          "id": "6cd501e3949f65d28edf",
+          "fecha": "2026-11-18T13:37:02+00:00",
+          "titulo": "Beach wrestling, which aced social media at the Youth Olympics, to be pitched for Brisbane 2032 - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNGIwZ0VPZVpVVk9aVHY4NlpOUVQ3Wl9iMGg3SHdHVFBCUnhJLXZoeXBZRFJzbHo5ZGtZYklpRDZWU0lsbDU3eXpVcDBGX2I4WDhMSURma3BvQjFrdTc4MlVnT1lsTkxZVWQwMnJlVjdka1pmRFdVb3EzUWFCdmV2bUZreWlMRkFSNTY4cW50X0RtUlJwakNtbWVHSlpCQmhqQ0VpejN6NGVsQkU2NU4zQ9IBtwFBVV95cUxPZEM5OXpoV2otQ2VvY3hHSHA3OVU3X09IczdydEl5RzBNVXEyTXdsVnZ1WmliRjBsaE1fT05Vd215QW1NU2Utb3VneTlYNGhGN0lfTTZRRm5wd2g5aFRnVWI2YWJlckJIVzJWeGdUWGxuTzRiU1VEeVdiLWx1WU5udy1DUHFqSHRhSjVTQU1PR3p6X29JNHJkYTI4VUNHRFRVdXhRc2Fjc1QzSjdlT2Jzcm16NlMwV00?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "25bf8bed677939969030",
+          "fecha": "2026-11-18T12:44:42+00:00",
+          "titulo": "Sharad Kapoor reveals Shah Rukh Khan, Salman Khan reached out: ‘Everybody was worried’ - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOGE0RTA4dDF6SVdNM0tBSldIelNoNEF2UGVZTTNjUmhlVDhCVjFkcnYzTzdPb2pCTTJSV1pGeE5hN21hLW5hY1h3TllGMUwwdEFhMkQ1bXFQdnFyaFRmRGx6Z0FXZ2swWGhEdk1aU3hTaW13dnA2LU0xUzVMblQ5Q1VSenpBNEEyNTNpTHZPM0ZGb05yUkdJMjNmajdaQl9pd1I4Rlc0NDZiLW9vOTBHOGxqZmR4c1ZFMWMwSmczajNJbnBiWndRa1lRR01TdDNZdWQ0Z9IB2wFBVV95cUxPNDVwODVHbWYtbG1ReFZQbnJGUVBBd05fSWpMdS1MSTlXV1lPX0hGeVR2OE5mYU80QWxyck1GRS12T1pkc0lmaGZzOVpyUVBkdWtBZTNJbTAzdjMwNUNCOGFfMmR6RE5kNTlnVGN2VW9DOWt2aU9kS0Y1RG1OMm1ObkdYR0M3eXZDYW1ybklGa292UVJ1ejdfSVNWeUNhVUIta0tEMy1SNlJZVWhkdTBZMUlZV1pYc1RIb0o5eEpBNWZfYTJkLURHSEFSZWZUTDFwTnk2ZTNNSkZHREU?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "1dffc7596d56a6bf6c70",
+          "fecha": "2026-11-18T11:46:23+00:00",
+          "titulo": "Sonakshi Sinha mocks outrage over Rahul Gandhi’s ‘mom on papa’s lap’ remark: ‘Uncs losing it’ - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQmNaU0w4a2hIejZmRHRoenFjUzVHMnp5Z0loNWJyelZ6VUxZLTlyZzBfNHRPNmQ1ZjlZT1RyN0NlQjBfTGQyVEh4N1pva2w4UG05bVE4T053a2Z3OXRYUGFIY3Rfa29MUXI0NnJZTlpVU1JteG5aazFTUnJmSzN5UzU4TWdDOTQ4YVpKRWJOWnhLdFotSHZZc0RYcFVRQ2dncnRFRV9mR0lvUm1XbEN0aWVTUkhRS1o4cDlLUVJBZjFVUWdnX0tyM1hpNnd4V1FxelUyWkt4UzN5VHkwb0R1TGtzMVhrQzBPU3pMQkV4eklUTXJXNzUtX9IB_wFBVV95cUxQcDB1aXNoYVlDeUpXVU94WTFCWGJidWNoa1hIZ2k0ZGFWZEp0SjREMGtHZWtXVm1yajNrdUZFMUc3b29DUFdjRmp3X0hHUnQwN3NPbktDbDNrT2Y2M0NPakpvTGNjd0h1WkZqUnFSN3JwZW8wRnl5NDlJcUYwM2RxaWVyZFc2RjV5Y1hpak9BVjZ5blpOakFrNm42allQUTJIY2dHZVl3M3pyVEs3NjEyY3JreGpBVFJUTjFnd3MwcWcxbVMtNTVqNWJjRGtZRnM2dVc1VVA4TUJyMkVGeTNEZWhDQklqSnFHbmpNc3I2QzF4RTB3a0RiVTl2RWtwbnc?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "c906b1b763a7b042ace6",
+          "fecha": "2026-11-18T11:39:10+00:00",
+          "titulo": "How low tech exposure turned India into a haven during Asia’s chip sell-off",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/week-asia/economics/article/3374927/how-low-tech-exposure-turned-india-haven-during-asias-chip-sell",
+          "traducida": false
+        },
+        {
+          "id": "0cac3b9ecf3daa93e85f",
+          "fecha": "2026-11-18T11:27:58+00:00",
+          "titulo": "A 90-year-old painting, 400 carats of emeralds: Sonam Kapoor’s latest fashion moment - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMG9pY2ZPb2ZOcHdmU25sbTRVSHk4SlFqUGlHZmpQQmY4bWxQQ1ktaE50WWZCR29GclROc0ptU1ZROE9kSjI3bW5Obll3dEZXckx5MzdWTGt3V1FxWG1SdW1xZFY3dWk5eWxPbVZWUXAtbFRzN3loaXNpTXhzWDVmNDViSDl3c25zamlraU9QRE95V1cwOTByalNFWm5COVhaYWtJY3M4dl9JYVVXcGxtMWM1YVNTMTE4S1k2OW9kZTlmbzM3UHYwMjZWNmJjMUhmVllJUzZ5VnpJdlnSAeIBQVVfeXFMUGY0dU5GM2xPSGV6YmEtUWtOWVdOSi1nSVEyTEZUejEyWU0wWnpQTEpWODZXNklwZVZuS25teTFJLVZHNW5tT3Ric3dvWUYyVmpnZk9ZMVlocEFWSnBKZ2ZFNnRyWkwtYmVrbEdrOTBTaUtTd2VWTWhvSUdPbmtxckdMa0ZINE5xVE44Y3dncFRjaTRaWGxKMFJnU3dlUHNCVVA5U3pGU2I4S1Nxd0FsaDA4TmNfWkxTbDY0QTR4ZXhYcmhDRnQwTTc5YVphNGFGd1d0eWlTUzZVR3B6NXFRZjNSZw?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "d1e0c2da954633d0949b",
+          "fecha": "2026-11-18T11:08:08+00:00",
+          "titulo": "‘Respect and perspective’: David Boon on Cricket Australia’s forum for Sandpapergate - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLXdESjVOWWd4WXgtZ1QtQlhVelBtRzBVcTVfS2JMWDhmTUdzQUFaV0I5a3dHaTdXNGVIZ3ZkVzVPRC04NUd4bTJDMWVNUVBGRnVtWmlpV0tUNG9qb3ZvRmxjX05GWGhLaVFkZFJFUVk5eDkzenlGRmszVE1ORU0xbTFnNzE4Szk1NjdvdUdpWndWWHBEQm44MFFVaVQzUFRpMFZUdmlERzdTUU9ocmZsVXAyUnpWWkdyQ1BnatIBwwFBVV95cUxPLUVONldGZndIdm9oSkZ0eUY4QVdwNFd3MmQyZzEzQjdCX2UxYTEtUUl3STRXY0hvZnAtNU9TMHctTW0wWVExSTVtVHFiMUtuaGU3N3dZTkJsMTJDamxsUzVOSng1Qkx3NWhNamJSRlk0MERhX0dCZEVQTnVnRFk3S09WUG9lcVVlSVpxdFptNG9qZmtEOVhXdEp5QmdNUlA1d2NNaVdnY0JxYXp1OEFFM0tjQXFncVcydDFXN3pFZ1BVWWM?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "06eac39eadccf2c487da",
+          "fecha": "2026-11-18T11:07:30+00:00",
+          "titulo": "Takaichi makes low-key arrival in Shenzhen after South Korea’s Lee is greeted by dancers",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3374921/takaichi-makes-low-key-arrival-shenzhen-while-lee-greeted-dancers",
+          "traducida": false
+        },
+        {
+          "id": "1dd4515eb93e1f819b24",
+          "fecha": "2026-11-18T10:41:08+00:00",
+          "titulo": "Why a new security flaw in Java has triggered urgent security advisories worldwide - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQXpSTktRV1dEbVFTQzllbHlTdTFpTWJ0RzEyUmlUX3haR21BU3dKdUFyd3RVQm1QSmVJS25vOVVFN1l6LXh1X2JDdHZPTkc1aTdGdXprbUZnMGdhbFZRbFFIQmdiUHpDMWRoZmdqUHlLSHQ0eWZrcGxRZ2RBeTByeXdDREluaURhWWVLZ1gyT1JQb1F2TmdUY1d5eGJvTlhyMVlnLWNrXzdqMkgzbjYtOU5mYWc0QXZ3Q1ZwZVNDa01BQQ?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "4e45e638dac709ef0009",
+          "fecha": "2026-11-18T10:27:12+00:00",
+          "titulo": "In the age of AI, Cambridge Dictionary chooses ‘human’ as its Word Of The Year 2026 - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ3Z0cElDVzdvSW1VV3lyb0lJVkpLX3Z4bWhWSXhiTHh4Q0ljMnVXNHZrWEhGRTV1V2Y2d1BoZU9tZXV3TmQ4MmlXTEl3T2ZDaS00cmFpTXhGb2FqQXBaZUtabDJLNGk3ckNyZ3N6dE9GenpqLURDWjFzVUhYSlJRNkZ3SGVUTHZCNFVWUm1iZ1FpdlpkSF91Rld6RVptVW9pckp2OWFPV2xOZ3lDRm1vR2NJT2w2NHB4RFpZVHFKRDVmanpUMWtSUnlSbkpuTTDSAdYBQVVfeXFMTXBHN294dGFiSEFaRDBTZWpVa1dSWTZoSEpnUEdyT3hTbzBlR05VREN3YU8xSVJtbHlPN3dhVG4zUGpqbGkyb3p4STZQd0FfaGRBbEx6M0NFZC1XUWtxakxIMVR3akRSRWpRTXFya1hYWHdwdWlyeDRueHIyTzFvbVFFTmxfUzVUdUd0dk5RZ19udTdKYWF3TTNxT2swQnNZWkpzajZIT1A1TWFYbklxWHNoM3lFXzl0ZjZwNHBoUkItZ3pORUZ2ajlGaF9QYWp1YTM1RjVFUQ?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "48e5f0e826b5a884c752",
+          "fecha": "2026-11-18T10:27:02+00:00",
+          "titulo": "Shashi Tharoor: ECI’s closed-door reversals cannot substitute for accountability - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM3p4SmlBVkFYSzk4c0pLblRjanhTV1VVVzhMU3F6WmZuSmx6cGFMY19TMlBKRmdOc3JqQTlqb0IwT2FBdXZ0RnFrNmI4SnFNTmp3QzYxcFlwNHY3ejlRYjdNbUlOTXo5WVdVNDdNWVg1OVJkRVpuOWIzekY1MElwWEVJeHJHRWJOVlVFY2hwNXB5M29LbzlsclhkeTBMQjk3ZUxYd0lUWlBLNVJOR25YTDl1aW90WU1aMWZHOFRubVRyZ9IByAFBVV95cUxQNWxuWm1RVmY5WFlkV2NFUHptNjZVenVnNmFFT0JrYWotYnVyQy1YZHhUOFVhdU10WTNWM1NtT3l3X2hwNWg1dW9WdldNUlV0VDFkN29WTHBRYW1uVW9rSGQzSTRraUpuRGJOMmhiN0ppRndHYmRuTlV1NWlybGExVVJPQzQ3MElSNUxtWG5iTGVFUHg3U3pHUDZLWmtMSFhrd2RlR0JJakF4MjRET2lEa0tLT2FvYWoyMWcwaGhNS0EzYXdqTDVyRA?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "2163156184a2869ba851",
+          "fecha": "2026-11-18T10:14:50+00:00",
+          "titulo": "PM Modi gifts Pichwaai painting, Banarasi Katan silk stole, Kashmiri carpet to world leaders",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/pm-modi-gifts-pichwaai-painting-banarasi-katan-silk-stole-kashmiri-carpet-to-world-leaders/article71715310.ece",
+          "traducida": false
+        },
+        {
+          "id": "eed6a16a491b31886a68",
+          "fecha": "2026-11-18T09:30:31+00:00",
+          "titulo": "‘Brar can take advantage of the pace and bounce on these pitches’: Sunil Gavaskar - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSUxLWTl6VTZhaF8xVllCNVQ3S1JibDI2SDlnYTU2eEJ3S2NPWDRldk9IN0RMR2hxbmkwaWVHUlB5cXJlRnZ2TEV6VDhEbHUxU1VRTG9IWE51cDFLcE1ranN5aXF4VVB1WFYtRDZtUk12Xy1uM0NLbnZwVTdHSVByenplbmVfeUo1UHRwY0g5ZDJJVEhlRjRDaXd0bGJvZTRnNUZKWFJsYlBROVFOamRjRUZKakpNai1WcmJ1aGJyY2xuRmdmb05NMmNZV3ZROS1nN2Mw0gHaAUFVX3lxTE1IS2xvUWdRZzgzX2pwU2tFb19QaW4wVVdIM1VPeW1PWTBCbS1qSW51Y2htSVpZZzNodVBRU0VtaWpHMmo4OUNkek9XMTJYbm5wNjRHNF9ieXU2a2xQY3JKZUs1Ni1wbHJIUXY1YnJMeVV6OWpZc2YtaDBacHNaMmRfVndOcUJZenZLREtQM1JzQzU5OU5MVXNKQ1d5ck50bU9SS3A3TkZlVTg3Rk9zYmV4eFRmQUc0ZUdUMlJFempDWnlvNDgwOTNBeko3X0dLYjdjM2JCN0pKLVBR?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "be05331f792b6ef3d24c",
+          "fecha": "2026-11-18T09:30:07+00:00",
+          "titulo": "Abhishek Bachchan has ’36 ka aankda’ with broccoli; experts on why he may be a ‘super-taster’ - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQjZXOUZQUkFhZ1JXX0lSSzBYWTFndkhNc25mQ0kyT2M2Z1hPSWhMODVsRmpFZk9LR3pGT0dqOFRkMDUwY0NnQ20tYXMzNHpUcHgyYTlnejBURXp4aU5MLW5pSnlpa0kyQWtUamdiaDNwOFk0YzdBcjJzSjMxOTUwNUNIUFZBQTI4RFFOaXNaV3o1SkdCWlNUQy12V1I0N3UzZnVJeUVpc0NzS1dnSGNtZDVIbDBxcHhfaEN3Sk9SNjdDNHE5MXc2WlRDWDl6UdIB1AFBVV95cUxON1FkQ3FzQlpmQk8xVnhTMk0yMkY5NVU2QTJFRFZxMDU4VV9fM3dzMGxjTmpiNnJibEhDSHZoQXdPcUxwSzhubWt4WkFmRXFDc0plcFdCM1N3N1FZS3lmemRfNHVJcVU5YVBfNkZjOTg0UlZ6UjBRcHBnY3MwNlB5RWx0MzZTVTNVeVlUd0FXTjVlYzBHUzhFLTBfN2VUcmE4QnF1TVdwclVWUXpLN0t2OTdJdEkzY1gzYW1BRDNBQmtSb1RjX1B0ek16cVFvVV9pc3JVbA?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "b6cdb3e6e7cc582c89d9",
+          "fecha": "2026-11-18T09:09:25+00:00",
+          "titulo": "Cameron Bancroft: I wasn’t completely honest about sandpaper, says whole team knew about it - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPd1VzbDg1NWh2RkJKQnR6dGVZWmgxbU5GSmlKQXV2NXJXZGp3MU94dGtWQXRQa09LVXJCOEc1VVZ5Z0FJMUFXbnNibHZoV0xwalVQQzJvUVlDTzVZSEVZcTlBVk1mMGFsUlp0d0FJN2xzaFgxNTU4b3hBNC01akdjZm5jSmxNeGZ6ZDhwU3YtbTA5c1I4SnpvQmRnU0hQd2V6Rmd5c2dNTlU2YUt0S29ET0gwU204Z9IBvAFBVV95cUxQTFpubXBzc3ZNUTBZVzVSQkxRZGw0MHZseUFVZkxxcURIU05TYkNleThvMHNlU1NfZ2UxdHhKTUdfeHlua1ZCV2RoQ01PVDhYeDFmaEFMenF0WjJEYlAtVjJrMVBEdnFCLWd2NlVtQWh4SzIyeXNPVjVQQU9MeXp2dmN3M3A3Z1FIVmVSQl95d0tnLWdDY2JzSDBvRFRzRGN6TVJKS3F6MUtVRHppV1RaNlI3enJDMGZsdnBUSw?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "76c9167318041b59ddf7",
+          "fecha": "2026-11-18T08:41:39+00:00",
+          "titulo": "‘Shining’ Mumbai for royals, garbage for Mumbaikars: Bombay HC raps civic body - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNXZ1eHlVeXlqNlZ3TFd4U1ozNWZRaGM5VnhoTEtIYVlteVlXRlRaZld2VVhldHdmSGFKUmxWX1VfMEdSem83dWdZWTNoU3ZrajFjc0txMW51aF9TYnVZMmtpM1lyN2R6Vk1mbmpfaFZzaFY4b1ZFU0pFVHozVkdmRGlNWWRiV1JDVXFIMWhBQk9Dd2NGWFFOTFBfUU1ocWFodmxSSVVBaEpkeUdsWTlyNldVb25FUE1paTFHeWxadHJzd3VxNlHSAcwBQVVfeXFMT0xYWFVHdkM5TzZWZ3NTenNXX1F6Tl84eGM5emtmZGZvaWZLcW5tLUE1emdZZU51VmVfYUFpTm1SM1NHQlR2X1ktZTVMd1hDeDBiRE5Oems1RU04cHZENG1qb1ZPbmQxR2Z1akZxQlV2NkctbWhjejF0OW5tVnVSdnhqM3BNU1BvdndPdWo4NlJPVU5ZYkp3ZnZCbFJhLV9JeDJNbjhnWk1tX3FlQ3NyOFN5RGh2TFozdXZ3UmpTQU1sMjZFU0FicVM1Yjl1?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "e5af0f419f9216bbb1ab",
+          "fecha": "2026-11-18T08:40:36+00:00",
+          "titulo": "Why did the U.S. lose its measles elimination status? | Explained",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/health/why-the-us-lost-its-measles-elimination-status-explained/article71714981.ece",
+          "traducida": false
+        },
+        {
+          "id": "79378ca2ff96ffa1bb1e",
+          "fecha": "2026-11-18T08:38:09+00:00",
+          "titulo": "Why does Rayudu think Dhoni’s absence will ‘ease up’ on Gaikwad? - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNakw1WUZPU3RIa0t5Z1NTUUYxUmIzYWVFejBMMGFoQnlWanFHZGI0eDBheElaZXF6aWx6YVJOdFpBOXJISUxFb0Q4S0NoeVVTRlNfamREZzFWeGduWnNTRWtQVklrWV9kdk5HWThtUGFhbTk0bmJBR05WZmtvTDd5c3FjREVORUtJWUdsV243QS1UMV9tbmZNdmxidHlRQnRBTWVIeUVrWUdJQXNGNjlzUHRTV2YxRG_SAb4BQVVfeXFMT2JLQ1FZUElBQXZiMDYtemhuUzJLM0ktOGdYaEJWdW5BbmZKcW1TSUJ1YjFrTExTNVA1dk1yUGxTeUJNYlByOHRmNktHbjVBTkR1QWQxY0FER2JPeHBGTVRZYmFkQ3NqWnpvY1FpclZrVlVCZlVnTGdFYU10T3BxWnFaZFJGMWplNHlnRkM4XzNoOEYxUmktY0lYQVhlaHAzX2UxZEpic0Jja0lYTm44UVE4blVVcWRWZ3ZFSGtUQQ?oc=5",
+          "traducida": false
+        }
+      ]
+    },
+    {
+      "id": "oriente-medio",
+      "titulo": "Oriente Medio: seguridad y diplomacia",
+      "cantidad_archivada": 1783,
+      "nuevas_24h": 57,
+      "anteriores_24h": 46,
+      "dias_con_registros": 34,
+      "fecha_ultima": "2026-11-18T19:11:28+00:00",
+      "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
+      "publicaciones": [
+        {
+          "id": "001a1606932a6ac73e75",
+          "fecha": "2026-11-18T19:11:28+00:00",
+          "titulo": "No US service members injured in Iranian attacks this week — CENTCOM",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2220789",
+          "traducida": false
+        },
         {
           "id": "47013b5a0c6145b7a97a",
           "fecha": "2026-11-18T19:00:09+00:00",
@@ -495,22 +755,14 @@
           "fuente": "Euronews",
           "url": "https://www.euronews.com/2026/11/18/irans-army-chief-vows-more-crushing-response-if-us-attacks-again",
           "traducida": false
-        },
-        {
-          "id": "443b3d27a32c200db6a5",
-          "fecha": "2026-11-18T10:54:33+00:00",
-          "titulo": "Xi personally welcomes Trump to China for high-stakes summit",
-          "fuente": "POLITICO Europe",
-          "url": "https://www.politico.eu/article/xi-jinping-donald-trump-china-summit/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "traducida": false
         }
       ]
     },
     {
       "id": "eeuu-china",
       "titulo": "Competencia estratégica Estados Unidos–China",
-      "cantidad_archivada": 269,
-      "nuevas_24h": 28,
+      "cantidad_archivada": 270,
+      "nuevas_24h": 29,
       "anteriores_24h": 22,
       "dias_con_registros": 31,
       "fecha_ultima": "2026-11-18T17:48:24+00:00",
@@ -709,6 +961,14 @@
           "traducida": false
         },
         {
+          "id": "23a2509fe9b34fca96a7",
+          "fecha": "2026-11-17T23:02:06+00:00",
+          "titulo": "Analysis: Trump is about to see up close why US efforts won’t stop China’s rise as tech powerhouse - CNN",
+          "fuente": "CNN",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTmVJZTVVOU02Yk9mTWxVbEltbmg4X253U0dwM3drVXNobWtMWEg2WXJDS0I2dkN2ZWV3MkNqZ0U0cEZGcTdfbm5HVGZmdDRIbXN2QzltUUFRdXN1TTN4aFdCdE9yNmczSTM0REx4bXNqSUctTmlxei1PWkJ2cWNKV0Z1OA?oc=5",
+          "traducida": false
+        },
+        {
           "id": "2d5c1ca1cf4ddd304f37",
           "fecha": "2026-11-17T21:48:26+00:00",
           "titulo": "US Navy chief urges US lawmakers to strengthen shipbuilding capacity to close gap on China",
@@ -747,14 +1007,6 @@
           "fuente": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
           "traducida": false
-        },
-        {
-          "id": "a79103a667bdec3981a0",
-          "fecha": "2026-11-17T18:11:40+00:00",
-          "titulo": "Part of Putin-Trump-Xi meeting may be open to press — Kremlin",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2219897",
-          "traducida": false
         }
       ]
     },
@@ -762,8 +1014,8 @@
       "id": "union-europea",
       "titulo": "Unión Europea y relaciones exteriores",
       "cantidad_archivada": 731,
-      "nuevas_24h": 20,
-      "anteriores_24h": 18,
+      "nuevas_24h": 19,
+      "anteriores_24h": 19,
       "dias_con_registros": 34,
       "fecha_ultima": "2026-11-18T18:48:08+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -1011,267 +1263,23 @@
       ]
     },
     {
-      "id": "india-asia",
-      "titulo": "India y Asia-Pacífico",
-      "cantidad_archivada": 1793,
-      "nuevas_24h": 19,
-      "anteriores_24h": 69,
-      "dias_con_registros": 34,
-      "fecha_ultima": "2026-11-18T17:51:47+00:00",
-      "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
-      "publicaciones": [
-        {
-          "id": "c9225e5cee2bd86065dd",
-          "fecha": "2026-11-18T17:51:47+00:00",
-          "titulo": "William and Kate reflect on 'enduring' UK-India ties with Modi",
-          "fuente": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
-          "traducida": false
-        },
-        {
-          "id": "3bdca5852a7c61a3bf07",
-          "fecha": "2026-11-18T17:25:00+00:00",
-          "titulo": "US senators urge White House AI chief to fix vulnerabilities after mass outages",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/nov/18/jay-clayton-ai-tech-outages-infrastructure",
-          "traducida": false
-        },
-        {
-          "id": "16ab597d249dd77d30d5",
-          "fecha": "2026-11-18T17:16:14+00:00",
-          "titulo": "India, Canada eye defence pact during Modi visit in December",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/india-canada-eye-defence-pact-during-modi-visit-in-december/article71716898.ece",
-          "traducida": false
-        },
-        {
-          "id": "ed8776e738037f8b8e2b",
-          "fecha": "2026-11-18T16:24:15+00:00",
-          "titulo": "Japan’s Takaichi meets Putin in rare talks amid strained ties with Russia",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3374961/japans-takaichi-meets-putin-rare-talks-amid-strained-ties-russia",
-          "traducida": false
-        },
-        {
-          "id": "851eba7ae19fd38a1a43",
-          "fecha": "2026-11-18T14:38:01+00:00",
-          "titulo": "GTA 6 countdown begins as billboards go up from Tokyo to Sydney",
-          "fuente": "Euronews",
-          "url": "https://www.euronews.com/video/2026/11/18/gta-6-countdown-begins-as-billboards-go-up-from-tokyo-to-sydney",
-          "traducida": false
-        },
-        {
-          "id": "b69ec930c1b86080ab71",
-          "fecha": "2026-11-18T14:28:00+00:00",
-          "titulo": "India: Online censorship grows after 'Cockroach' protests",
-          "fuente": "Deutsche Welle",
-          "url": "https://www.dw.com/en/india-online-censorship-grows-after-cockroach-protests/a-79976982?maca=en-rss-en-world-4025-rdf",
-          "traducida": false
-        },
-        {
-          "id": "49fde87868eb14981d58",
-          "fecha": "2026-11-18T14:16:42+00:00",
-          "titulo": "India sitting on 'economic disaster': Rahul Gandhi at Columbia University",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/india-sitting-on-economic-disaster-rahul-gandhi-at-columbia-university/article71714437.ece",
-          "traducida": false
-        },
-        {
-          "id": "7d5287c0a745694e2494",
-          "fecha": "2026-11-18T14:00:07+00:00",
-          "titulo": "How China’s ‘carrier nannies’ are powering the Liaoning’s long Pacific push",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/military/article/3374918/how-chinas-carrier-nannies-are-powering-liaonings-long-pacific-push",
-          "traducida": false
-        },
-        {
-          "id": "704010dd3e2156833bf5",
-          "fecha": "2026-11-18T13:37:03+00:00",
-          "titulo": "Xi greets Takaichi with a smile – but no words – as China-Japan freeze lingers",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3374944/xi-greets-takaichi-smile-no-words-china-japan-freeze-lingers",
-          "traducida": false
-        },
-        {
-          "id": "c906b1b763a7b042ace6",
-          "fecha": "2026-11-18T11:39:10+00:00",
-          "titulo": "How low tech exposure turned India into a haven during Asia’s chip sell-off",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/week-asia/economics/article/3374927/how-low-tech-exposure-turned-india-haven-during-asias-chip-sell",
-          "traducida": false
-        },
-        {
-          "id": "06eac39eadccf2c487da",
-          "fecha": "2026-11-18T11:07:30+00:00",
-          "titulo": "Takaichi makes low-key arrival in Shenzhen after South Korea’s Lee is greeted by dancers",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3374921/takaichi-makes-low-key-arrival-shenzhen-while-lee-greeted-dancers",
-          "traducida": false
-        },
-        {
-          "id": "2163156184a2869ba851",
-          "fecha": "2026-11-18T10:14:50+00:00",
-          "titulo": "PM Modi gifts Pichwaai painting, Banarasi Katan silk stole, Kashmiri carpet to world leaders",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/pm-modi-gifts-pichwaai-painting-banarasi-katan-silk-stole-kashmiri-carpet-to-world-leaders/article71715310.ece",
-          "traducida": false
-        },
-        {
-          "id": "e5af0f419f9216bbb1ab",
-          "fecha": "2026-11-18T08:40:36+00:00",
-          "titulo": "Why did the U.S. lose its measles elimination status? | Explained",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/health/why-the-us-lost-its-measles-elimination-status-explained/article71714981.ece",
-          "traducida": false
-        },
-        {
-          "id": "17ab2b4598148f546e5e",
-          "fecha": "2026-11-18T08:21:48+00:00",
-          "titulo": "India, Japan set to review defence ties as Rajnath, Jaishankar arrive in Tokyo",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/india-japan-set-to-review-defence-ties-as-rajnath-jaishankar-arrive-in-tokyo/article71714856.ece",
-          "traducida": false
-        },
-        {
-          "id": "f7cb716b00a21c14fd1e",
-          "fecha": "2026-11-18T08:16:18+00:00",
-          "titulo": "Indian national missing after attacks on commercial vessel in Strait of Hormuz",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/indian-national-missing-after-attacks-on-commercial-vessel-in-strait-of-hormuz/article71714331.ece",
-          "traducida": false
-        },
-        {
-          "id": "9ac64091c9e3e821b26e",
-          "fecha": "2026-11-18T05:05:53+00:00",
-          "titulo": "Nepal gets nod to import 350 MW of power from India during winter",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/nepal-gets-nod-to-import-350-mw-of-power-from-india-during-winter/article71714504.ece",
-          "traducida": false
-        },
-        {
-          "id": "2d5c1ca1cf4ddd304f37",
-          "fecha": "2026-11-17T21:48:26+00:00",
-          "titulo": "US Navy chief urges US lawmakers to strengthen shipbuilding capacity to close gap on China",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/us/diplomacy/article/3374804/us-navy-chief-urges-us-lawmakers-strengthen-shipbuilding-capacity-close-gap-china",
-          "traducida": false
-        },
-        {
-          "id": "ed67d210552b0927fccf",
-          "fecha": "2026-11-17T19:56:00+00:00",
-          "titulo": "India’s footballers celebrate SAFF final win against Pakistan",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/indias-footballers-celebrate-saff-final-win-against-pakistan?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "1317b980a99adbe72175",
-          "fecha": "2026-11-17T19:28:30+00:00",
-          "titulo": "Fresh Magnus Carlsen controversy as he forfeits fast classic clash against Bibisara - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQjRJVXVub2MxWHZQd2g2aXJJajRETUxEYzJzTnA3OEwwMHRJbVp4MFRlb2NENHhsTkJtbUxwS0VuVFhEZ3RIRUJ2dUEweFU5clpud1ZtR09tMng1M3RaOHREczdaNEJDNEFSdjUybG5mTFdLYjdIVHhCcGpWa285U3JJbjIyRFVOMW81WFVCOU1JQUprOFhXN2tCMmJXb1hjTEhMc09fTXBuTXMxZXJFVmF6aWgtZF9JTG5xZdIBwwFBVV95cUxOMFRLUUlfYkFieXFhSFlIXzVEdEtRb2JSeGJVSzkyM0FLbEpPNkNpOXhpbDFGd1k5T0VMNUlEWHhwanhaZllIUTdwaDZFbDhnSEptMldxMm9ONUlvX2NmTkVUa0ViSDNkUEtxZnF4WUk1bDJXTHRNUmt1SGVXYTdWMkZjazB1QUNaX0tVWVBqRUVOTGlrTkZvLUJ5OHJHeGZHOWsyOUlVM0xVM0YxYmp6ajhmaXF1T0doMEZDbXl3dVU5N3c?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "971c8deef30dac35131a",
-          "fecha": "2026-11-17T18:47:59+00:00",
-          "titulo": "Indian limbo skater breaks world record",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/indian-limbo-skater-breaks-world-record?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "4d1aed8d846dc8ea02b7",
-          "fecha": "2026-11-17T18:26:51+00:00",
-          "titulo": "All-too fallible: On India’s vote against moratorium on death penalty",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/opinion/editorial/the-hindu-editorial-on-indias-vote-against-moratorium-on-death-penalty/article71713256.ece",
-          "traducida": false
-        },
-        {
-          "id": "ee0d2ac7daef868382c7",
-          "fecha": "2026-11-17T18:19:07+00:00",
-          "titulo": "Levy Rozman was once a chess teacher for kids, now he plays with Harry Kane - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeVZPSGMwejZ0dkk5dUM4WFMwRks0aFpHWWVwXzVjeW1aUE9RczdzUUxmZkYwenpDeGNfaTBmWFEwRElOR2Q2WjNxbVdkUFlHTER4UWYwclF6SU9mUjE3dGNNUjVaSTM5UW55TGVzdEtDNWpXN2dKeUtMZE1WMnMzMElLSkc2eExZdFBycDhqZVl6emRkTXdHc0lRNFo0OWNiYzBLeldYeWnSAa8BQVVfeXFMT3BuTklhbFJPTUo1N051MXVnNFVoVy1Td29nUTh2X2xINVNHMUl6X3d3bElNUHZ0VW1uSjl6aXk4eDhHS0tLWVlydXVndXUzaC14ZG85RTRTSnZPczhqNFh0dGxBbXQwWnVfTU92bncxbUNZMTdlRXFDMWVrSlF4czBkd2JQbVlPMF8tM2VlTTNDcGFyT3E3WERsTFpLTTdoVndQejc1bVpiZ3NNRW5ZWQ?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "51981a1fe28fa1336fce",
-          "fecha": "2026-11-17T16:46:55+00:00",
-          "titulo": "ASEAN, Quad Summit updates on November 17, 2026",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/asean-india-summit-manila-november-2026-quad-live-updates-pm-modi-trump-meeting-latest-news/article71710382.ece",
-          "traducida": false
-        },
-        {
-          "id": "5a7241e02988c6c8cc54",
-          "fecha": "2026-11-17T16:33:42+00:00",
-          "titulo": "India win SAFF Championship for 10th time, defeat Pakistan 2-1 in final - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYU92TWVReEdhLVd6Q1ctdVZ0X1BDdUg5VEdlLTlOai12UEl2YlNHTWV3RE5tWmVHa2p5R0pxQ1JRN1hJdUpPWi1VZUowQnBTdU9fMkZGeThZTU9TN0tWd0NXVnpRRFNkNlZqV1BJV1FMbTdHc2ZvYTJtMEMtOGNsajFMYi1ITFBLRXhnMDdSZnpMQjZZbXZqVTltVkE3T3F1eHJNNTl3ZzBWR2FlWGxEZ2M2a3BUdFJNenRHWWdjajI?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "ae0b0deb34af5c7d1c27",
-          "fecha": "2026-11-17T16:33:42+00:00",
-          "titulo": "India win SAFF Championship for 10th time, defeat Pakistan 2-1 in final - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYU92TWVReEdhLVd6Q1ctdVZ0X1BDdUg5VEdlLTlOai12UEl2YlNHTWV3RE5tWmVHa2p5R0pxQ1JRN1hJdUpPWi1VZUowQnBTdU9fMkZGeThZTU9TN0tWd0NXVnpRRFNkNlZqV1BJV1FMbTdHc2ZvYTJtMEMtOGNsajFMYi1ITFBLRXhnMDdSZnpMQjZZbXZqVTltVkE3T3F1eHJNNTl3ZzBWR2FlWGxEZ2M2a3BUdFJNenRHWWdjajLSAccBQVVfeXFMTXZGdDVPeGdzdzZUUGY4Z05ybVBaUDB4RlBTZGw4aGFpSDJPX2xXcHM3dWQtMGhuaWJiaFJDbkQ0YnhIeXNROUJLODJQb1RhclRGMzZyZTVxT0V5SzNsNFN6d2RWZW9keE10Q0otNzI2U0dfN2RsMWhpV3RWSlU5THlVMUNyMkFTNGVfbjlBZkdQbnJac2Z6cmNyQm81b3Z3c3RTQnVTSFE2QmI5RTAtMlUtM2pidGtyRkZtVzVDbzh1cXhzdlJ0Zw?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "b94c2f0f90c42a3a418d",
-          "fecha": "2026-11-17T16:26:26+00:00",
-          "titulo": "Now, MS Dhoni, CSK’s eternal love, matters all the more to franchise and fans - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONlJBT0trWi1IMnl3QU9CbnVLRmV3Zy12V1NCczNRaDZfQTlkdzNTdzEzWUJPYy1rNHM3dTQxVVMzeFZiQ1NPMWJrOXZZRWc1NHFzZlI2TXJfRWVJLWRCLXl3OVM2dWdjbnd0MHNOZ2ROejJuVzdQOFJaVWJueXpQY0VXdVBndGZ5TkduMDlvd0VKaGtNUkhhcUNXUG1iWnNubEJkdDVza1BTVFhMdVM3dTFhazQ4V1dQU1R0X2Fzd9IBxgFBVV95cUxOak5NaHJoRFJqcmwwTzJySGFhVHlBVzloUnFDWjBScWRfWHBQSUszSTlhekgwVDJ5MS02YWNqbXZUSV9TSWdWYXhTazJpVnI0d0NzblhrTENXX29YV3hhdkRTQXJ4TmlmcHFhWmpPSWwtZDlXOWhsY0VsOTFlZF9uXzVVZ1FFQjd2N3YxS1lPcUo2LW1jNUtuQ3RCV3B4SW9pUXVkcXBiQVVsTHhSN19zcHdhbGZ2aW5QcDBxUy14ZTNURFFIQlE?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "9a3942ae055a7ac718f0",
-          "fecha": "2026-11-17T16:02:01+00:00",
-          "titulo": "MS Dhoni, CSK icon ends 18-year IPL career as player, will be team mentor - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaFMxa01QbFRmUG1qcWo3bGRwZmd0VmZRWENhekgzZ1A3a3NkQmJ3NmVmUXowU0ZEVmNPQUpjRGtCTnRJb1N0VmMwNmV5NFZ2UGl0dmlRZTZKZTliR1otdUV4aERuNXIyNzhaRzRYQVgwcUdwVVA3Q2hBbnc5Vk1Rek93Zk9DLXR6MkR2bldiTnZia3cwbmVpVkVMeWxXbHplUlluemxvNmlFQkpfOFhuelQyTDl4TnlPNlFDckFhQ1B5XzDSAcoBQVVfeXFMUDhfd20wYUtGV013YmFwbk5sOXI5LVF2TDNiWnF5LVd3cGV4WUMtUnpYLTY4TW94MHdsTWdSRmpOZWROX0lPTmVPTmlrNkIxVHVBLVNyLWtkMTFqMEpiMHl4aWN0SWV4VzZ2M3duYmZiTHpBdmRNWW9CamlfYXNOVVBxcXVaNlM0MkV4M1lkeEZ0b1F5blotQnExN1pIcm8xbGxNM3FucUtLSUR2Z1VidkNJWWltS0d1UjJVaU5PVEdDZENWNjdfUURpUQ?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "ed2b7606a6e750633905",
-          "fecha": "2026-11-17T15:37:11+00:00",
-          "titulo": "India cannot dictate terms on Hasina’s return to Bangladesh: PM’s adviser",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/india-cannot-dictate-terms-on-hasinas-return-to-bangladesh-pms-adviser/article71712874.ece",
-          "traducida": false
-        },
-        {
-          "id": "c7fd8f35b83a8c930947",
-          "fecha": "2026-11-17T14:50:05+00:00",
-          "titulo": "South Korea’s Lee Jae Myung to visit Japan in January",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/asia/east-asia/article/3374789/south-koreas-lee-jae-myung-visit-japan-january",
-          "traducida": false
-        },
-        {
-          "id": "0f7e0ff8548f6133a3d2",
-          "fecha": "2026-11-17T14:49:46+00:00",
-          "titulo": "A trade deal, rare earths and a Quad revival: day 1 of Trump’s Asia trip",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3374794/trade-deal-rare-earths-and-quad-revival-day-1-trumps-asia-trip",
-          "traducida": false
-        }
-      ]
-    },
-    {
       "id": "suramerica",
       "titulo": "Sudamérica: integración y política exterior",
-      "cantidad_archivada": 387,
-      "nuevas_24h": 7,
+      "cantidad_archivada": 388,
+      "nuevas_24h": 8,
       "anteriores_24h": 13,
       "dias_con_registros": 34,
-      "fecha_ultima": "2026-11-18T14:27:22+00:00",
+      "fecha_ultima": "2026-11-18T19:08:00+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "49b9daac821137139804",
+          "fecha": "2026-11-18T19:08:00+00:00",
+          "titulo": "Estados Unidos entram em alerta após sucessivas panes tecnológicas",
+          "fuente": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/estados-unidos-entram-em-alerta-apos-sucessivas-panes-tecnologicas",
+          "traducida": false
+        },
         {
           "id": "24a299c3398151942566",
           "fecha": "2026-11-18T14:27:22+00:00",
@@ -1502,14 +1510,6 @@
           "titulo": "Pope in Peruvian rainforest demands justice for environmental defenders killed for protecting Amazon - Politico",
           "fuente": "POLITICO US",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQm1kWFJtUzFLSmpqSm9GdjlieFFETVBPQlJ4M0NYT01xYWg2eEIwX2x4WkR0RDhheVJjaXlXYkJzZ0szUk94aGFQM25RZE5UMnRWRzJfZjdKOEFxVHRWQmJKRHNSSEl0bkRock0tb1BIZGhJd0RSR3YtbkFubWRpRDNYYw?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "c27285778da4b00dd6a1",
-          "fecha": "2026-11-15T18:38:11+00:00",
-          "titulo": "Pope Leo rides in helicopter cockpit during Peru trip",
-          "fuente": "BBC News",
-          "url": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
           "traducida": false
         }
       ]
