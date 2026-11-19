@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-11-19T19:30:38.698428+00:00",
+  "created_utc": "2026-11-19T19:40:03.947377+00:00",
   "events": [
     {
       "id": "a-fe0d5989f874d0c3bdf2",
@@ -1022,6 +1022,54 @@
       "prioridad_orientativa": 8,
       "motivos_seleccion": [
         "Actores relevantes: Estados Unidos, Rusia",
+        "Ámbito: Diplomacia",
+        "Posible decisión institucional o negociación"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-438be26edf588101cffd",
+      "fecha": "2026-11-19",
+      "titulo_fuente": "Trump's former EU ambassador says Trump sent a 'terrible message to Zelensky' in trilateral China summit - CNN",
+      "region": "China",
+      "temas": [
+        "Diplomacia"
+      ],
+      "noticias": [
+        {
+          "id": "438be26edf588101cffd",
+          "titulo_original": "Trump's former EU ambassador says Trump sent a 'terrible message to Zelensky' in trilateral China summit - CNN",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXBZSERVLVZIMFFtSl9saEJha3dDWklyQmlmX3A1UDFtbUEzbWtsck5YZng5SGpzc2JtWjJyak5pN2hXZFVlNUsyeDQwSnNOWENGdmZNRWwwWGVHcGVzN0RkYTMzejRqZ3hZaWp3VHVjTFYyalFhZTlUMjdnd0t3MkdBMjFZb2pLWklhTEw3cWZTbG9RU1BEMQ?oc=5",
+          "fuente": "CNN",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-19T11:11:53+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Trump's former EU ambassador says Trump sent a 'terrible message to Zelensky' in trilateral China summit CNN",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "CNN"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "China",
+        "Ucrania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 8,
+      "motivos_seleccion": [
+        "Actores relevantes: China, Estados Unidos, Ucrania",
         "Ámbito: Diplomacia",
         "Posible decisión institucional o negociación"
       ],
@@ -3217,18 +3265,6 @@
           "estado": "publicación periodística; corroboración pendiente",
           "resumen_original": "The talks will be held at the Qilin Shanzhuang state residence",
           "resumen_es": "Las conversaciones se celebrarán en la residencia estatal Qilin Shanzhuang"
-        },
-        {
-          "id": "03d288da9e7283c9ec83",
-          "titulo_original": "Putin to take part in trilateral meeting with Xi, Trump",
-          "titulo_es": "Putin participará en la reunión trilateral con Xi, Trump",
-          "url": "https://tass.com/politics/2220813",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-18T21:36:29+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "This will be the first-ever meeting in this format",
-          "resumen_es": "Esta será la primera reunión en este formato"
         }
       ],
       "fuentes": [
@@ -3253,6 +3289,51 @@
       "motivos_seleccion": [
         "Cobertura de fuentes distintas",
         "Actores relevantes: China, Estados Unidos, Rusia"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-7b3b542b243a6586a20c",
+      "fecha": "2026-11-19",
+      "titulo_fuente": "Trump prefers peace over profits — Kushner",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "7b3b542b243a6586a20c",
+          "titulo_original": "Trump prefers peace over profits — Kushner",
+          "titulo_es": "Trump prefiere la paz sobre las ganancias — Kushner",
+          "url": "https://tass.com/world/2222085",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-19T19:27:43+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The question came in the wake of a Politico report saying that Trump was skeptical about Ukraine being provided with additional billions of dollars in aid from members of the Coalition of the Willing",
+          "resumen_es": "La pregunta surgió a raíz de un informe político que decía que Trump era escéptico acerca de que Ucrania recibía miles de millones de dólares adicionales en ayuda de miembros de la Coalición de la Voluntad"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Ucrania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos, Ucrania"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -7065,120 +7146,6 @@
       "motivos_seleccion": [
         "Actores relevantes: Rusia",
         "Ámbito: Comercio y finanzas, Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-94a0b2323abb61dccc50",
-      "fecha": "2026-11-19",
-      "titulo_fuente": "US army plan to detonate bomb-making chemicals has Iowa residents bracing for lead dust cloud",
-      "region": "Estados Unidos",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "94a0b2323abb61dccc50",
-          "titulo_original": "US army plan to detonate bomb-making chemicals has Iowa residents bracing for lead dust cloud",
-          "titulo_es": "",
-          "url": "https://www.theguardian.com/us-news/2026/nov/19/iowa-lead-bomb-dust",
-          "fuente": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-19T17:18:08+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Officials recommend that residents in path of expected toxic plume vacate area, and some schools will be closed Plans by the US army to detonate about 5 tons of bomb-making chemicals that have become unusable and might explode if moved have residents in south-east Iowa worried that a cloud of lead dust could cause environmental contamination and health problems. The detonation at the Iowa army ammunition plant is scheduled for Friday, and officia",
-          "resumen_es": ""
-        },
-        {
-          "id": "4f707358000b12716ee0",
-          "titulo_original": "Iowa residents brace for a lead dust cloud as Army plans to detonate 5 tons of bomb-making chemicals - CNN",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pZVcxZjlEaTNOWWlMZnVNU19ab2VfeGVld3pOR0oxV0MyQndSMGdQZXV5NkVoVV9LSnZIQ3pVLTNDbG5zalduWF9CeUQ0alpfSlBPcGl6UWNleGVhRWZiSVFYSHpvYzdKTlFVeXQ1OHpXZw?oc=5",
-          "fuente": "CNN",
-          "pais": "Estados Unidos",
-          "fecha": "2026-11-19T12:48:38+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Iowa residents brace for a lead dust cloud as Army plans to detonate 5 tons of bomb-making chemicals CNN",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "CNN",
-        "The Guardian"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 2,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 3,
-      "motivos_seleccion": [
-        "Cobertura de fuentes distintas",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-b2b3471a87031f22279f",
-      "fecha": "2026-11-19",
-      "titulo_fuente": "Musk says he feels 'pretty foolish' for failed U.S. election spending",
-      "region": "Estados Unidos",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "b2b3471a87031f22279f",
-          "titulo_original": "Musk says he feels 'pretty foolish' for failed U.S. election spending",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/news/international/musk-says-he-feels-pretty-foolish-for-failed-us-election-spending/article71718696.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-11-19T09:00:25+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The Tesla and SpaceX boss sought to extract a lesson from the folly, telling the audience: \"It certainly shows that American elections are not just about money.\"",
-          "resumen_es": ""
-        },
-        {
-          "id": "94369b2498d5765b91d5",
-          "titulo_original": "Musk says he feels ‘foolish’ after GOP election spending spree - Politico",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcXVUcXVheVUyMW5NWV8wRkptVklfYlZtOTZVUUNKNmxKdDZEbDdFZlJmVjhTN1UyQXlDUzZWVi00b2RRZlZFRWQzNm9GWnUtYnA3blFsR2FoTHN1b0ozTHlETFA4b2FSV2hFeU9Kems1MzlfSU1kQXF3OWhNek9jWGUxRWg1TmZRMXcwMVlwVG8xWnBlS190OG9CbWlSOWlyUzdWWXMxVzl2cGg5RS1n?oc=5",
-          "fuente": "POLITICO US",
-          "pais": "Estados Unidos",
-          "fecha": "2026-11-19T01:45:00+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Musk says he feels ‘foolish’ after GOP election spending spree Politico",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "POLITICO US",
-        "The Hindu"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos"
-      ],
-      "fuentes_independientes": 2,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 3,
-      "motivos_seleccion": [
-        "Cobertura de fuentes distintas",
-        "Actores relevantes: Estados Unidos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null

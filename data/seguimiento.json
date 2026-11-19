@@ -1,17 +1,25 @@
 {
-  "actualizado_utc": "2026-11-19T19:30:38.760650+00:00",
+  "actualizado_utc": "2026-11-19T19:40:04.008733+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 2802,
+      "cantidad_archivada": 2804,
       "nuevas_24h": 129,
-      "anteriores_24h": 89,
+      "anteriores_24h": 90,
       "dias_con_registros": 35,
-      "fecha_ultima": "2026-11-19T19:16:21+00:00",
+      "fecha_ultima": "2026-11-19T19:27:43+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "7b3b542b243a6586a20c",
+          "fecha": "2026-11-19T19:27:43+00:00",
+          "titulo": "Trump prefers peace over profits — Kushner",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2222085",
+          "traducida": false
+        },
         {
           "id": "92ca9ff247094edd5ced",
           "fecha": "2026-11-19T19:16:21+00:00",
@@ -242,14 +250,6 @@
           "titulo": "Ban on Russian athletes’ global participation violates int’l sports rules — Putin",
           "fuente": "TASS",
           "url": "https://tass.com/politics/2222019",
-          "traducida": false
-        },
-        {
-          "id": "004456e27fe48958f831",
-          "fecha": "2026-11-19T15:53:31+00:00",
-          "titulo": "Xi, Trump y Putin, tras la cumbre de Shenzhen: “Una guerra nuclear no se puede ganar y nunca debe librarse”",
-          "fuente": "El País",
-          "url": "https://elpais.com/internacional/2026-11-19/trump-y-putin-interactuan-en-shenzhen-antes-de-las-reuniones-con-xi.html",
           "traducida": false
         }
       ]
@@ -509,8 +509,8 @@
     {
       "id": "eeuu-china",
       "titulo": "Competencia estratégica Estados Unidos–China",
-      "cantidad_archivada": 316,
-      "nuevas_24h": 45,
+      "cantidad_archivada": 317,
+      "nuevas_24h": 46,
       "anteriores_24h": 30,
       "dias_con_registros": 32,
       "fecha_ultima": "2026-11-19T18:57:18+00:00",
@@ -717,6 +717,14 @@
           "traducida": false
         },
         {
+          "id": "438be26edf588101cffd",
+          "fecha": "2026-11-19T11:11:53+00:00",
+          "titulo": "Trump's former EU ambassador says Trump sent a 'terrible message to Zelensky' in trilateral China summit - CNN",
+          "fuente": "CNN",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXBZSERVLVZIMFFtSl9saEJha3dDWklyQmlmX3A1UDFtbUEzbWtsck5YZng5SGpzc2JtWjJyak5pN2hXZFVlNUsyeDQwSnNOWENGdmZNRWwwWGVHcGVzN0RkYTMzejRqZ3hZaWp3VHVjTFYyalFhZTlUMjdnd0t3MkdBMjFZb2pLWklhTEw3cWZTbG9RU1BEMQ?oc=5",
+          "traducida": false
+        },
+        {
           "id": "5dcb693a8a123889f757",
           "fecha": "2026-11-19T11:11:00+00:00",
           "titulo": "Trump: ‘We spy on China, they spy on us’ - CNN",
@@ -746,14 +754,6 @@
           "titulo": "Watch: Trump, Putin and Xi sit down for historic three-way talks",
           "fuente": "Euronews",
           "url": "https://www.euronews.com/2026/11/19/watch-trump-putin-and-xi-sit-down-for-historic-three-way-talks",
-          "traducida": false
-        },
-        {
-          "id": "dd4c81a2856708706664",
-          "fecha": "2026-11-19T08:31:09+00:00",
-          "titulo": "Trump greets 'my friend' Putin as pair shake hands",
-          "fuente": "BBC News",
-          "url": "https://www.bbc.co.uk/news/videos/c6j9m19llmv3o?at_medium=RSS&at_campaign=rss",
           "traducida": false
         }
       ]
