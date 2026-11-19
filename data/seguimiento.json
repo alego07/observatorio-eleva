@@ -1,23 +1,47 @@
 {
-  "actualizado_utc": "2026-11-19T20:55:46.096497+00:00",
+  "actualizado_utc": "2026-11-19T21:41:08.590901+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 2815,
-      "nuevas_24h": 130,
-      "anteriores_24h": 90,
+      "cantidad_archivada": 2818,
+      "nuevas_24h": 131,
+      "anteriores_24h": 88,
       "dias_con_registros": 35,
-      "fecha_ultima": "2026-11-19T20:47:55+00:00",
+      "fecha_ultima": "2026-11-19T20:59:52+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "762ce5b4a1153cb1dbb2",
+          "fecha": "2026-11-19T20:59:52+00:00",
+          "titulo": "Meeting between Russia, US, China leaders useful, not to mention their decisions — expert",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2222099",
+          "traducida": false
+        },
+        {
+          "id": "dc2b467fa7c321219be6",
+          "fecha": "2026-11-19T20:53:00+00:00",
+          "titulo": "'Humanitarian mission' for Kostiantynivka: Is it a trap?",
+          "fuente": "Deutsche Welle",
+          "url": "https://www.dw.com/en/humanitarian-mission-for-kostiantynivka-is-it-a-trap/a-79996772?maca=en-rss-en-world-4025-rdf",
+          "traducida": false
+        },
         {
           "id": "aa41201c4aef5ed48099",
           "fecha": "2026-11-19T20:47:55+00:00",
           "titulo": "Trump makes Ukraine central in talks with Putin, Xi — US envoy",
           "fuente": "TASS",
           "url": "https://tass.com/world/2222097",
+          "traducida": false
+        },
+        {
+          "id": "f78634378af9c8cced94",
+          "fecha": "2026-11-19T20:43:51+00:00",
+          "titulo": "Will the Shenzhen summit safeguard world peace?",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/11/19/will-the-shenzhen-summit-safeguard-world-peace?traffic_source=rss",
           "traducida": false
         },
         {
@@ -227,38 +251,14 @@
           "fuente": "Deutsche Welle",
           "url": "https://www.dw.com/en/xi-jinping-donald-trump-and-vladimir-putin-have-held-trilateral-talks-―-but-what-did-they-achieve/a-79996668?maca=en-rss-en-world-4025-rdf",
           "traducida": false
-        },
-        {
-          "id": "cb9e94bb21705eddc1d0",
-          "fecha": "2026-11-19T17:50:21+00:00",
-          "titulo": "China’s Xi urges US and Russia to join forces to safeguard world peace",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/aje-onl-nf_chinas-xi-urges-us-and-russia-for-world-peace-191126?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "eeaf96b77ff1efc7bf10",
-          "fecha": "2026-11-19T17:38:22+00:00",
-          "titulo": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
-          "fuente": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
-          "traducida": false
-        },
-        {
-          "id": "fb678d785502dee7584c",
-          "fecha": "2026-11-19T17:29:22+00:00",
-          "titulo": "Third Ukrainian strike in 4 days halts rail traffic on Russia's Kerch Bridge to Crimea",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/third-ukrainian-strike-in-4-days-halts-rail-traffic-on-russias-kerch-bridge-to-crimea/article71721511.ece",
-          "traducida": false
         }
       ]
     },
     {
       "id": "india-asia",
       "titulo": "India y Asia-Pacífico",
-      "cantidad_archivada": 1910,
-      "nuevas_24h": 62,
+      "cantidad_archivada": 1912,
+      "nuevas_24h": 64,
       "anteriores_24h": 71,
       "dias_con_registros": 35,
       "fecha_ultima": "2026-11-19T18:56:23+00:00",
@@ -342,6 +342,14 @@
           "titulo": "After 35 years, Kashmir now free of India-born terrorists: Amit Shah - The Indian Express",
           "fuente": "The Indian Express",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYm1PeUZoQ1NBM0tJaXp6a1J2VDRiRlA2WXcxTWNXcUFVMDh0OW5uWFk1Wm5KNURqMGFkZ1NlR1VsYmFDdGFSTkUxMkg1UDdkTWs3d1k0a1ZLajBWZFBmVklQOHVQcTZmbm1NSHoyNzdtZDlhbkRGd3k5WlFyWV9Ua1EyWVhlOGdRTmEwd29uRTBHdUEyYlpyNEwwaTV2MmhoNWttZF9DYV9lRldrbE5YSHdxYzdxV2fSAb4BQVVfeXFMT0VicXdyc2FMMW5HNXhJWG9OTnFvRjN1UlZvRXR6NFlsSnc5bmRYcDFoNFZTWjMwemJiMzJ6SEo0RUgwOUtKemk0LWEtQlBROWxnZkxpLW5xbTBJSlkxX1hBMHlmaW1vblluWGJGcm1USnBzVGV3c0ROQ19xbzEtc2FiR0FJVFpOZVpieFhVYlpnbEFJYWdIcWdGNzhycUh1MWQtdnBoeFJLX3VMSnpJYkVWMWVQQ081azFhZVNIUQ?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "a67849948b82e84e905b",
+          "fecha": "2026-11-19T15:01:57+00:00",
+          "titulo": "How to watch Srikanth play, with ears: elegant melody trumps rushed cacophony - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN0ZBUE9UbFBHb05Za1VGWTBOb05EQjZpbkJLb19GY2FDRHZ1el9aSVA5bnpjeHhpenowLWZabTF2YkNCTllCeHduWkJ6a3pvUnl5dXE3Y19hd255dURBUDRDWG1QLW10dXlpN3FMcGNvMEpkeHIxRjQ2TFdzY2QxajhTSU5UWmkyTXJZcUNoTkttNExSSzk1Ym0zVmN0VW9TZlVDRU56LXQ0Zjc2dktuaGRoRDdGOC1vMTcyZlptNF9yQdIByAFBVV95cUxOSlRJbHlXMWx1d3M4NHVJcmZpY2RDZ3BEX29IUktYQzVUM2hFSkxhXzV1OUdRQ1UwVnlnaGtDUXIwbXplQjVWMTVzUkNWZk02RVRJZ05vYno5ajlxdG1DS1Z2cmNJc2tkTGlod0J6TTdfWHgyOGd2b20xUzFQVGxOcUV4a3FmbndHZGRxYmI5LTNpZ1N4TEpVcDZabXBtVV9wbEdabzlJLXZqUFhBaHRldjhxUkF1RzFvTGR0eUZJZjdPTDFVTFVmYw?oc=5",
           "traducida": false
         },
         {
@@ -481,27 +489,19 @@
           "traducida": false
         },
         {
+          "id": "9c298cde92b33d8748f1",
+          "fecha": "2026-11-19T10:45:08+00:00",
+          "titulo": "‘Where was Siraj?’: Gavaskar and Shastri slam India’s selection as New Zealand fight back - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUGg5SlBXYnd5UU41Zjg5NkU1ZFRfOHJmVVVlZXkxMzJwaFJaR1lYdWxxMjIxbWRmWE1rSlE0czJVaHJRdW1MaXg1TGF3cGxSNDdaTXhfbndnYWJJOTJucEl2M0txX2k0WTRLV01XSnBKdHctZ3UwaVk3UW5nNGhEYjl1QnhlM0ZkaDlHc04xNlVfcXZCWVdUYlM3dnZ4TDRldmJxa1BLZnRaSmFPMjVPMUE2WldDeHdpTHhZ0gHCAUFVX3lxTFBKVTN5SGlyN1IxZkNTMGxMWEQ5aEtKVFJFWnlRZHdiQjcyN2xLd1pMNnZIME9LeWtiMlFGQ1BvOHN5Zm0wd0xTMUVuWnNJaWQ0bTZYZFFzbkdpYkJsdEJoYXJPMDNDMDJNamlkal9MSTFEQm9VcWpWQmNyeUxucVJ0ZjFYcWRyMl9XY3lyOV9PTE13dlgxWWRtVWliSWJxYTZ1WDZqb0RzQ0VhQU4wZHJpOEJMWUhieVRwWERXOWliNTJ3?oc=5",
+          "traducida": false
+        },
+        {
           "id": "9ed13d8bcea922e8a42a",
           "fecha": "2026-11-19T10:35:41+00:00",
           "titulo": "DMK veteran who turned the tables on Stalin: TVK MLA VS Babu dies - The Indian Express",
           "fuente": "The Indian Express",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVHNRQi1kc2VoYUZENGJuc2hyanl1RWJramtHeE1vdGlrUFZlMzVEOHZmTUJ1Tm5zWTZHQjRnLUdQMEljVXE3WUJrTXUzRGxNMjVoTTh0d1R3aHlILUUzT1BzX29kZFpuLXBpYlNmbDdPbW0wVjJiaVIwQXlGUGtESmZ1THgyNHJkeXZhUldhNURoazNNT1l6MzRXMWQ5OUVjMXhYNjRBVl94WjJNalZPLXZJQk5sODczMEFlV1Zn0gHEAUFVX3lxTE5fRjB5bjlRTDFfcWpDbmlvcmx5aHI2VlBhRjZkSFNiYUxhdzlBamZLUGtGLXpLdk9fNGFncXl2eDJrREI3ZEFCazBwLTU5M0kzX2RzeHJwYnp5Z0JweWVyU3lGZHpvdThUejZNeDRtdHVncDNWUEZuaEs2OEtyLWtRMnFVTkpIcnNQU2NTRFNDQzEwT3FoXzJVX29nVDk1YXhRbjhjUEJzRzlpVnRzQ3pwT1ZLaGFnRFF1V0h3cmZCcS1xa04?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "89305350fbb6d372c4f4",
-          "fecha": "2026-11-19T09:46:11+00:00",
-          "titulo": "PT Usha, Tirkey, Chaubey: Why sport governance is a mess despite athletes at top - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcnlfTWVzTlEzUmR0WFZLS0w1Z2YwcFBpLWM1ZG1xWmt2aUlBTnBoNEdKTm1MUk9rUFFGSkJwRElGN2lOMXYyaVBXanh3QnpVMjVyZjctZllOaFFNeDJhR1ZRbTd3QXFyUTcxWXJuQkhnNjFlMklTZlJVUTJhdDdaVUVjNjBDMVpXNDZTZGVRdTFXUEp2VW4yRnd5WTc2OWtEeUNFWktscXpzR1M0WEtoU1BDaVFJZ9IBvAFBVV95cUxOMmw0WFBmUVBwZjNHVXAxQ19acmE2NzJXZV9oc0tvV2d0b3FBUDkybEtZOG9XN1R0WkMzcEhhLUx6TENvLTZ2YWJ5U09sd0FwM2xfSDVRa2hEbUh2dUZ6bVFNeHMzekRPbzFOVGVwYVFwOFVoN0EzN1lHS1diNW1GY1FvWDBuTG5wQUhSdzVVeUUxOVpwY0k2QVFndU82TjhFVHUtOWtnMjk1WTVNRVg1dDJrUl9hTmlfT0hiSQ?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "e76ec65a1aa8231fa07b",
-          "fecha": "2026-11-19T09:14:41+00:00",
-          "titulo": "U.S. court orders delivery of summonses to Doval, Goel through Delhi courts",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/us-court-orders-delivery-of-summonses-to-doval-goel-through-delhi-courts/article71718862.ece",
           "traducida": false
         }
       ]
@@ -510,8 +510,8 @@
       "id": "eeuu-china",
       "titulo": "Competencia estratégica Estados Unidos–China",
       "cantidad_archivada": 324,
-      "nuevas_24h": 52,
-      "anteriores_24h": 28,
+      "nuevas_24h": 51,
+      "anteriores_24h": 29,
       "dias_con_registros": 32,
       "fecha_ultima": "2026-11-19T20:33:00+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -761,13 +761,21 @@
     {
       "id": "oriente-medio",
       "titulo": "Oriente Medio: seguridad y diplomacia",
-      "cantidad_archivada": 1826,
-      "nuevas_24h": 38,
-      "anteriores_24h": 57,
+      "cantidad_archivada": 1827,
+      "nuevas_24h": 37,
+      "anteriores_24h": 53,
       "dias_con_registros": 35,
-      "fecha_ultima": "2026-11-19T20:33:03+00:00",
+      "fecha_ultima": "2026-11-19T20:58:41+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "242b6e214e7286088c23",
+          "fecha": "2026-11-19T20:58:41+00:00",
+          "titulo": "Jerusalem Daily: Israel launches ground offensive in Gaza",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/jerusalem-daily-israel-launches-ground-offensive-in-gaza-2?traffic_source=rss",
+          "traducida": false
+        },
         {
           "id": "83914262478aeb7584ff",
           "fecha": "2026-11-19T20:33:03+00:00",
@@ -999,14 +1007,6 @@
           "fuente": "The Guardian",
           "url": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza",
           "traducida": false
-        },
-        {
-          "id": "37942c3acd714d669709",
-          "fecha": "2026-11-19T12:36:37+00:00",
-          "titulo": "Eight injured after driver in Israel repeatedly rams car into Palestinians",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/19/car-rams-into-palestinian-residents-four-times-in-israeli-city-kafr-qasim",
-          "traducida": false
         }
       ]
     },
@@ -1014,8 +1014,8 @@
       "id": "union-europea",
       "titulo": "Unión Europea y relaciones exteriores",
       "cantidad_archivada": 753,
-      "nuevas_24h": 22,
-      "anteriores_24h": 16,
+      "nuevas_24h": 21,
+      "anteriores_24h": 17,
       "dias_con_registros": 35,
       "fecha_ultima": "2026-11-19T19:42:27+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -1771,7 +1771,7 @@
       "titulo": "Sudamérica: integración y política exterior",
       "cantidad_archivada": 389,
       "nuevas_24h": 1,
-      "anteriores_24h": 7,
+      "anteriores_24h": 6,
       "dias_con_registros": 35,
       "fecha_ultima": "2026-11-19T10:01:54+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
