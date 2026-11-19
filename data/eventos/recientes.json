@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-11-19T19:11:14.727076+00:00",
+  "created_utc": "2026-11-19T19:30:38.698428+00:00",
   "events": [
     {
       "id": "a-fe0d5989f874d0c3bdf2",
@@ -1197,18 +1197,6 @@
           "resumen_es": ""
         },
         {
-          "id": "c15890d3587f76614505",
-          "titulo_original": "Myanmar guilty of genocide against Rohingya, says top UN court",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/news/international/icj-verdict-on-rohingya-crackdown-killings-in-myanmar/article71719604.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-11-19T16:05:06+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The ruling by the top UN court was the first time in its 80-year history that ICJ judges have determined that a state committed genocide, and is likely to be seen as justice for Rohingya victims of Myanmar’s brutal 2017 crackdown",
-          "resumen_es": ""
-        },
-        {
           "id": "494a84273146762f54b8",
           "titulo_original": "Myanmar committed genocide against Rohingya minority, world’s top court rules",
           "titulo_es": "",
@@ -1275,13 +1263,12 @@
         "Deutsche Welle",
         "Euronews",
         "South China Morning Post",
-        "The Guardian",
-        "The Hindu"
+        "The Guardian"
       ],
       "actores_mencionados": [
         "ONU"
       ],
-      "fuentes_independientes": 7,
+      "fuentes_independientes": 6,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
         "nombre": "Realismo y dilema de seguridad",
@@ -1295,6 +1282,54 @@
         "Cobertura de fuentes distintas",
         "Actores relevantes: ONU",
         "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-92ca9ff247094edd5ced",
+      "fecha": "2026-11-19",
+      "titulo_fuente": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Diplomacia",
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "92ca9ff247094edd5ced",
+          "titulo_original": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+          "titulo_es": "Europa lista para hablar con Rusia sobre poner fin a la guerra en Ucrania, dicen los líderes",
+          "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-19T19:16:21+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+          "resumen_es": "Los aliados europeos de Ucrania dicen que tienen una posición de negociación \"unida\" en una cumbre en Berlín."
+        }
+      ],
+      "fuentes": [
+        "BBC News"
+      ],
+      "actores_mencionados": [
+        "Rusia",
+        "Ucrania",
+        "Alemania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia, Ucrania",
+        "Ámbito: Diplomacia, Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -3091,52 +3126,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-9993c9acec1e53f01fcc",
-      "fecha": "2026-11-18",
-      "titulo_fuente": "Meeting of Russian, US and Chinese leaders will make the world safer — MEP",
-      "region": "China",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "9993c9acec1e53f01fcc",
-          "titulo_original": "Meeting of Russian, US and Chinese leaders will make the world safer — MEP",
-          "titulo_es": "Reunión de líderes rusos, estadounidenses y chinos hará que el mundo sea más seguro — MEP",
-          "url": "https://tass.com/world/2220801",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-18T20:37:41+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Balazs Orban, a member of the European Parliament from the Fidesz-Hungarian Civic Alliance party, noted that the meeting will take place in a world where the logic of war has increasingly prevailed in recent years",
-          "resumen_es": "Balazs Orban, miembro del Parlamento Europeo del partido Fidesz-Hungría de la Alianza Cívica, señaló que el encuentro tendrá lugar en un mundo donde la lógica de la guerra ha prevalecido cada vez más en los últimos años"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "China",
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: China, Rusia",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-f9c1853256b3a5f6192f",
       "fecha": "2026-11-19",
       "titulo_fuente": "Danish MPs approve Greenland security pact with US",
@@ -3264,6 +3253,94 @@
       "motivos_seleccion": [
         "Cobertura de fuentes distintas",
         "Actores relevantes: China, Estados Unidos, Rusia"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-908d06fcbbc1739992fe",
+      "fecha": "2026-11-19",
+      "titulo_fuente": "La Policía sanciona a un delegado sindical por publicar en redes una imagen suya sujetando por los grilletes a dos detenidos",
+      "region": "Internacional",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "908d06fcbbc1739992fe",
+          "titulo_original": "La Policía sanciona a un delegado sindical por publicar en redes una imagen suya sujetando por los grilletes a dos detenidos",
+          "titulo_es": "",
+          "url": "https://elpais.com/espana/2026-11-19/la-policia-sanciona-a-un-delegado-sindical-por-publicar-en-redes-una-imagen-suya-sujetando-por-los-grilletes-a-dos-detenidos.html",
+          "fuente": "El País",
+          "pais": "España",
+          "fecha": "2026-11-19T19:19:12+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "El agente, portavoz de la Confederación Española de Policía (CEP), ve en el expediente disciplinario una represalia por su actividad sindical y críticas a un mando policial",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "El País"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Ámbito: Seguridad y conflictos",
+        "Posible decisión institucional o negociación"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-acbbab85d9687a3d29d9",
+      "fecha": "2026-11-19",
+      "titulo_fuente": "New regional security architecture will also benefit Europe, Pakistani FM tells Euronews",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "acbbab85d9687a3d29d9",
+          "titulo_original": "New regional security architecture will also benefit Europe, Pakistani FM tells Euronews",
+          "titulo_es": "Nueva arquitectura regional de seguridad también beneficiará a Europa, Pakistani FM cuenta Euronews",
+          "url": "https://www.euronews.com/2026/11/19/new-regional-security-architecture-will-also-benefit-europe-pakistani-fm-tells-euronews",
+          "fuente": "Euronews",
+          "pais": "Unión Europea",
+          "fecha": "2026-11-19T19:17:35+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "In an exclusive interview for Euronews’ World Conversation show, Pakistan’s deputy prime minister revealed the backstage efforts that led to the US-Israel agreement to end the war in June. He also outlined Pakistan's strategy towards a new regional security architecture in coordination with Europe.",
+          "resumen_es": "En una entrevista exclusiva para Euronews World Conversation show, el viceprimer ministro de Pakistán reveló los esfuerzos de backstage que llevaron al acuerdo entre Estados Unidos e Israel para terminar la guerra en junio. También describió la estrategia de Pakistán hacia un nuevo"
+        }
+      ],
+      "fuentes": [
+        "Euronews"
+      ],
+      "actores_mencionados": [
+        "Israel"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Israel",
+        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6993,80 +7070,103 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-23d49bb04ba63f6ec4c1",
-      "fecha": "2026-11-18",
-      "titulo_fuente": "Huawei case enters jury deliberations after 2-month battle in US courtroom",
-      "region": "China",
+      "id": "a-94a0b2323abb61dccc50",
+      "fecha": "2026-11-19",
+      "titulo_fuente": "US army plan to detonate bomb-making chemicals has Iowa residents bracing for lead dust cloud",
+      "region": "Estados Unidos",
       "temas": [
-        "Comercio y finanzas"
+        "Seguridad y conflictos"
       ],
       "noticias": [
         {
-          "id": "23d49bb04ba63f6ec4c1",
-          "titulo_original": "Huawei case enters jury deliberations after 2-month battle in US courtroom",
-          "titulo_es": "El caso Huawei inicia las deliberaciones del jurado después de 2 meses de batalla en la corte estadounidense",
-          "url": "https://www.scmp.com/news/us/article/3374967/huawei-case-enters-jury-deliberations-after-2-month-battle-us-courtroom",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-11-18T21:02:10+00:00",
+          "id": "94a0b2323abb61dccc50",
+          "titulo_original": "US army plan to detonate bomb-making chemicals has Iowa residents bracing for lead dust cloud",
+          "titulo_es": "",
+          "url": "https://www.theguardian.com/us-news/2026/nov/19/iowa-lead-bomb-dust",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-19T17:18:08+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Jurors began deliberating on Wednesday in the US government’s criminal case against Huawei Technologies, following a two-month trial that has been one of the most high-profile prosecutions of a Chinese technology giant in recent years. Huawei, a Shenzhen-based company, is the world’s largest telecoms equipment maker and a major smartphone manufacturer. It faces 12 criminal counts, including racketeering conspiracy, stealing trade secrets, bank fr",
-          "resumen_es": "Jurors comenzó a deliberar el miércoles en el caso criminal del gobierno de Estados Unidos contra Huawei Technologies, tras un juicio de dos meses que ha sido uno de los enjuiciamientos más de alto perfil de un gigante tecnológico chino en los últimos años. Huaw"
+          "resumen_original": "Officials recommend that residents in path of expected toxic plume vacate area, and some schools will be closed Plans by the US army to detonate about 5 tons of bomb-making chemicals that have become unusable and might explode if moved have residents in south-east Iowa worried that a cloud of lead dust could cause environmental contamination and health problems. The detonation at the Iowa army ammunition plant is scheduled for Friday, and officia",
+          "resumen_es": ""
+        },
+        {
+          "id": "4f707358000b12716ee0",
+          "titulo_original": "Iowa residents brace for a lead dust cloud as Army plans to detonate 5 tons of bomb-making chemicals - CNN",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pZVcxZjlEaTNOWWlMZnVNU19ab2VfeGVld3pOR0oxV0MyQndSMGdQZXV5NkVoVV9LSnZIQ3pVLTNDbG5zalduWF9CeUQ0alpfSlBPcGl6UWNleGVhRWZiSVFYSHpvYzdKTlFVeXQ1OHpXZw?oc=5",
+          "fuente": "CNN",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-19T12:48:38+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Iowa residents brace for a lead dust cloud as Army plans to detonate 5 tons of bomb-making chemicals CNN",
+          "resumen_es": ""
         }
       ],
       "fuentes": [
-        "South China Morning Post"
+        "CNN",
+        "The Guardian"
       ],
-      "actores_mencionados": [
-        "China"
-      ],
-      "fuentes_independientes": 1,
+      "actores_mencionados": [],
+      "fuentes_independientes": 2,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
-        "nombre": "Interdependencia compleja y economía política internacional",
-        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
       },
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
+      "prioridad_orientativa": 3,
       "motivos_seleccion": [
-        "Actores relevantes: China",
-        "Ámbito: Comercio y finanzas"
+        "Cobertura de fuentes distintas",
+        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
     },
     {
-      "id": "a-c815c1c280793d8efce9",
-      "fecha": "2026-11-18",
-      "titulo_fuente": "‘An absolute nightmare’ — Trump’s trilateral with Xi and Putin spooks allies - Politico",
+      "id": "a-b2b3471a87031f22279f",
+      "fecha": "2026-11-19",
+      "titulo_fuente": "Musk says he feels 'pretty foolish' for failed U.S. election spending",
       "region": "Estados Unidos",
       "temas": [
         "Actualidad"
       ],
       "noticias": [
         {
-          "id": "c815c1c280793d8efce9",
-          "titulo_original": "‘An absolute nightmare’ — Trump’s trilateral with Xi and Putin spooks allies - Politico",
-          "titulo_es": "‘Una pesadilla absoluta’ — el trilateral de Trump con Xi y Putin asusta a los aliados - Politico",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPY24yVThNVGxzaDhqbHpKbmV1OUhDZ2ZnZjZ4bkQwNkNfQVh6aHhBM0o3LWtTQ1lyVGZMVXZRV1BDV0p0OEx2RzAzdTBNN0RsUllqamtUOThZU2VZZDdBYnQ1MjZBdHlmYUUxU2hUTlAtMzJZRjBISkIxbXFCV1dhTg?oc=5",
+          "id": "b2b3471a87031f22279f",
+          "titulo_original": "Musk says he feels 'pretty foolish' for failed U.S. election spending",
+          "titulo_es": "",
+          "url": "https://www.thehindu.com/news/international/musk-says-he-feels-pretty-foolish-for-failed-us-election-spending/article71718696.ece",
+          "fuente": "The Hindu",
+          "pais": "India",
+          "fecha": "2026-11-19T09:00:25+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The Tesla and SpaceX boss sought to extract a lesson from the folly, telling the audience: \"It certainly shows that American elections are not just about money.\"",
+          "resumen_es": ""
+        },
+        {
+          "id": "94369b2498d5765b91d5",
+          "titulo_original": "Musk says he feels ‘foolish’ after GOP election spending spree - Politico",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcXVUcXVheVUyMW5NWV8wRkptVklfYlZtOTZVUUNKNmxKdDZEbDdFZlJmVjhTN1UyQXlDUzZWVi00b2RRZlZFRWQzNm9GWnUtYnA3blFsR2FoTHN1b0ozTHlETFA4b2FSV2hFeU9Kems1MzlfSU1kQXF3OWhNek9jWGUxRWg1TmZRMXcwMVlwVG8xWnBlS190OG9CbWlSOWlyUzdWWXMxVzl2cGg5RS1n?oc=5",
           "fuente": "POLITICO US",
           "pais": "Estados Unidos",
-          "fecha": "2026-11-18T20:55:00+00:00",
+          "fecha": "2026-11-19T01:45:00+00:00",
           "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "‘An absolute nightmare’ — Trump’s trilateral with Xi and Putin spooks allies Politico",
-          "resumen_es": "‘Una pesadilla absoluta’ — el trilateral de Trump con Xi y Putin asusta a los aliados políticos"
+          "resumen_original": "Musk says he feels ‘foolish’ after GOP election spending spree Politico",
+          "resumen_es": ""
         }
       ],
       "fuentes": [
-        "POLITICO US"
+        "POLITICO US",
+        "The Hindu"
       ],
       "actores_mencionados": [
-        "Estados Unidos",
-        "Rusia"
+        "Estados Unidos"
       ],
-      "fuentes_independientes": 1,
+      "fuentes_independientes": 2,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
         "nombre": "Marco por determinar",
@@ -7075,99 +7175,10 @@
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
+      "prioridad_orientativa": 3,
       "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos, Rusia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-5480caf2e22bcd19b538",
-      "fecha": "2026-11-18",
-      "titulo_fuente": "US accuses Russian citizen of fraud, acting as unregistered foreign agent",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "5480caf2e22bcd19b538",
-          "titulo_original": "US accuses Russian citizen of fraud, acting as unregistered foreign agent",
-          "titulo_es": "Estados Unidos acusa al ciudadano ruso de fraude, actuando como agente extranjero no registrado",
-          "url": "https://tass.com/emergencies/2220805",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-18T20:49:14+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "According to a Department of Justice statement, Igor Diu conducted surveillance and gathered information \"about employees of a Silicon Valley technology and defense company\"",
-          "resumen_es": "Según una declaración del Departamento de Justicia, Igor Diu dirigió vigilancia y reunió información \"sobre empleados de una empresa de defensa y tecnología de Silicon Valley\""
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-98877a9f210a56937d90",
-      "fecha": "2026-11-18",
-      "titulo_fuente": "U.S., Venezuela sign deal to re-establish military ties: Hegseth",
-      "region": "Estados Unidos",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "98877a9f210a56937d90",
-          "titulo_original": "U.S., Venezuela sign deal to re-establish military ties: Hegseth",
-          "titulo_es": "Estados Unidos, Venezuela firma un acuerdo para restablecer los vínculos militares: Hegseth",
-          "url": "https://www.thehindu.com/news/international/us-venezuela-sign-deal-to-re-establish-military-ties-hegseth/article71717506.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-11-18T20:33:29+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The U.S. Defence Secretary said that following the January capture of Nicolas Maduro by the U.S. military, the country “has gone from our most aggressive regional threat to a compliant security partner”",
-          "resumen_es": "El Secretario de Defensa de EE.UU. dijo que después de la captura de enero de Nicolas Maduro por el ejército estadounidense, el país “ha pasado de nuestra amenaza regional más agresiva a un socio de seguridad digno”"
-        }
-      ],
-      "fuentes": [
-        "The Hindu"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos",
-        "Ámbito: Seguridad y conflictos"
+        "Cobertura de fuentes distintas",
+        "Actores relevantes: Estados Unidos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
