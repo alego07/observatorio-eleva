@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-11-20T21:16:29.322500+00:00",
+  "created_utc": "2026-11-20T22:01:34.792447+00:00",
   "events": [
     {
       "id": "a-8b8003163ed7efa05bd0",
@@ -209,6 +209,98 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-9a38142955443e68a01e",
+      "fecha": "2026-11-20",
+      "titulo_fuente": "Trump threatens ‘tremendous penalties’ on US tech firms that build datacenters abroad",
+      "region": "Estados Unidos",
+      "temas": [
+        "Diplomacia"
+      ],
+      "noticias": [
+        {
+          "id": "9a38142955443e68a01e",
+          "titulo_original": "Trump threatens ‘tremendous penalties’ on US tech firms that build datacenters abroad",
+          "titulo_es": "Trump amenaza con “gravaciones terribles” contra empresas tecnológicas estadounidenses que construyen centros de datos en el extranjero",
+          "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-20T21:47:41+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "President gives wide-ranging White House press conference and says he has ‘fantastic relationships’ with Putin and Xi Donald Trump threatened on Friday to impose “tremendous penalties” on American tech companies that build datacenters outside the US, though he gave no details and told reporters he had not yet informed his own officials about the plan. In a discursive press conference from the White House briefing room, Trump also said he would “l",
+          "resumen_es": "El presidente da una conferencia de prensa de la Casa Blanca de amplio alcance y dice que tiene “relaciones fantasticas” con Putin y Xi Donald Trump amenazaron el viernes para imponer “penas terribles” a las empresas tecnológicas estadounidenses que construyen centros de datos fuerasi"
+        }
+      ],
+      "fuentes": [
+        "The Guardian"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Rusia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos, Rusia",
+        "Ámbito: Diplomacia"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-50f7a35a42d5fd6a7108",
+      "fecha": "2026-11-20",
+      "titulo_fuente": "US must take decisive step in dialogue with Russia, Jeffrey Sachs says",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "50f7a35a42d5fd6a7108",
+          "titulo_original": "US must take decisive step in dialogue with Russia, Jeffrey Sachs says",
+          "titulo_es": "Estados Unidos debe dar un paso decisivo en el diálogo con Rusia, dice Jeffrey Sachs",
+          "url": "https://tass.com/politics/2222767",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-20T21:22:00+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Director of Columbia University's Center for Sustainable Development Jeffrey Sachs expressed hope that the US will not enter a military alliance with Ukraine or Georgia and will not support their admission to NATO",
+          "resumen_es": "El director del Centro de Desarrollo Sostenible de la Universidad de Columbia, Jeffrey Sachs, expresó la esperanza de que Estados Unidos no entre en una alianza militar con Ucrania o Georgia y no apoye su admisión a la OTAN"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Rusia",
+        "Ucrania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia, Ucrania",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-74cf8a0c976a1eb3cff7",
       "fecha": "2026-11-20",
       "titulo_fuente": "El desplome de la IA lleva al Nasdaq a su peor semana desde la guerra arancelaria de Trump con Anthropic hundiéndose un 8,5%",
@@ -251,6 +343,55 @@
         "Actores relevantes: Estados Unidos",
         "Ámbito: Comercio y finanzas, Seguridad y conflictos",
         "Posible decisión institucional o negociación"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-1c5ff25894a97b5776fb",
+      "fecha": "2026-11-20",
+      "titulo_fuente": "Trump defends Putin relationship, warns AI data centres must stay in US",
+      "region": "China",
+      "temas": [
+        "Diplomacia",
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "1c5ff25894a97b5776fb",
+          "titulo_original": "Trump defends Putin relationship, warns AI data centres must stay in US",
+          "titulo_es": "Trump defiende la relación Putin, advierte que los centros de datos AI deben permanecer en Estados Unidos",
+          "url": "https://www.aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-20T21:05:07+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The US president also spoke about the war in Iran and praised trip to China during a wide-ranging news conference.",
+          "resumen_es": "El presidente estadounidense también habló sobre la guerra en Irán y elogió el viaje a China durante una conferencia de noticias de gran alcance."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "China",
+        "Rusia",
+        "Irán"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: China, Estados Unidos, Irán, Rusia",
+        "Ámbito: Diplomacia, Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -2261,6 +2402,111 @@
       "motivos_seleccion": [
         "Actores relevantes: Estados Unidos, Rusia",
         "Ámbito: Diplomacia"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-2952a9f1bbe216936694",
+      "fecha": "2026-11-20",
+      "titulo_fuente": "Trump threatens tax on US tech firms building AI data centres abroad",
+      "region": "Estados Unidos",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "2952a9f1bbe216936694",
+          "titulo_original": "Trump threatens tax on US tech firms building AI data centres abroad",
+          "titulo_es": "Trump amenaza con impuestos sobre las empresas tecnológicas estadounidenses que construyen centros de datos AI en el extranjero",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_trump-tax-us-tech-firms-ai-data-centres-abroad-201126?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-20T21:10:53+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "US President Donald Trump warned US tech companies will face “a tremendous tax” if they build AI data centres abroad.",
+          "resumen_es": "El presidente estadounidense Donald Trump advirtió que las empresas tecnológicas estadounidenses enfrentarán “un enorme impuesto” si construyen centros de datos AI en el extranjero."
+        },
+        {
+          "id": "d020b8aa67dc21540cb4",
+          "titulo_original": "Trump threatens ban on US firms building AI data centres overseas",
+          "titulo_es": "Trump amenaza la prohibición de las empresas estadounidenses de construir centros de datos AI en el extranjero",
+          "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-20T20:35:26+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+          "resumen_es": "El presidente estadounidense proporcionó poco detalle sobre la política potencial, diciendo que otros en su equipo lo estaban escuchando por primera vez."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera",
+        "BBC News"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 2,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 5,
+      "motivos_seleccion": [
+        "Cobertura de fuentes distintas",
+        "Actores relevantes: Estados Unidos",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-e6673a512fcdbff59b2e",
+      "fecha": "2026-11-20",
+      "titulo_fuente": "US embassy steps up attack on China over cartel meth as Mexico signs deals with Beijing",
+      "region": "China",
+      "temas": [
+        "Seguridad y conflictos",
+        "Energía y clima"
+      ],
+      "noticias": [
+        {
+          "id": "e6673a512fcdbff59b2e",
+          "titulo_original": "US embassy steps up attack on China over cartel meth as Mexico signs deals with Beijing",
+          "titulo_es": "La embajada de EE.UU. intensifica el ataque contra China sobre la metanfetamina de carteles mientras México firma acuerdos con Beijing",
+          "url": "https://www.scmp.com/news/us/article/3375300/us-embassy-steps-attack-china-over-cartel-meth-mexico-signs-deals-beijing",
+          "fuente": "South China Morning Post",
+          "pais": "Hong Kong",
+          "fecha": "2026-11-20T21:52:28+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The US embassy in Mexico accused China on Thursday of supplying Mexican cartels with chemicals used to make methamphetamine, on the same day President Claudia Sheinbaum wrapped up a visit to Shenzhen during which she signed cooperation agreements with Beijing covering energy, science and the environment. The embassy cited the US Department of Justice in a social media post and referred to chemicals bound for the Sinaloa Cartel that US Homeland Se",
+          "resumen_es": "La embajada de Estados Unidos en México acusó a China el jueves de suministrar cárteles mexicanos con productos químicos usados para hacer metanfetamina, el mismo día la presidenta Claudia Sheinbaum envolvió una visita a Shenzhen durante la cual firmó un acuerdo de cooperación"
+        }
+      ],
+      "fuentes": [
+        "South China Morning Post"
+      ],
+      "actores_mencionados": [
+        "China"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: China",
+        "Ámbito: Energía y clima, Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6334,185 +6580,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-c05eb99ac5d731a9fd37",
-      "fecha": "2026-11-20",
-      "titulo_fuente": "Comb restores hair growth; Kim Jong-un daughter’s luxury ski gear: SCMP’s 7 highlights",
-      "region": "China",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "c05eb99ac5d731a9fd37",
-          "titulo_original": "Comb restores hair growth; Kim Jong-un daughter’s luxury ski gear: SCMP’s 7 highlights",
-          "titulo_es": "",
-          "url": "https://www.scmp.com/news/world/article/3375020/comb-restores-hair-growth-kim-jong-un-daughters-luxury-ski-gear-scmps-7-highlights",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-11-20T04:15:08+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "We have selected seven stories from this week’s news across Hong Kong, mainland China, the wider Asia region and beyond that resonated with our readers and shed light on topical issues. If you would like to see more of our reporting, please consider subscribing. 1. China’s first lady Peng Liyuan lets her English do the talking in Trump welcome Chinese first lady Peng Liyuan again let her English do the talking as she accompanied President Xi Jinp",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "South China Morning Post"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "China"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: China, Estados Unidos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-669f16428988fb5e9018",
-      "fecha": "2026-11-20",
-      "titulo_fuente": "Why the ball is in Kim Jong-un’s court on a meeting with Donald Trump",
-      "region": "Estados Unidos",
-      "temas": [
-        "Comercio y finanzas"
-      ],
-      "noticias": [
-        {
-          "id": "669f16428988fb5e9018",
-          "titulo_original": "Why the ball is in Kim Jong-un’s court on a meeting with Donald Trump",
-          "titulo_es": "",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3375160/why-ball-kim-jong-uns-court-meeting-donald-trump",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-11-20T04:07:56+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "North Korean leader Kim Jong-un’s absence from the Asia-Pacific Economic Cooperation gathering in Shenzhen could indicate that a meeting with Donald Trump will not take place in the foreseeable future. Analysts said it was a vastly different geopolitical and logistical situation from Trump’s first term, when the two leaders met three times. Sydney Seiler, senior adviser to the Korea chair at the Centre for Strategic and International Studies, sai",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "South China Morning Post"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia compleja y economía política internacional",
-        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos",
-        "Ámbito: Comercio y finanzas"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-78c8e48ee4ab59f5e6c4",
-      "fecha": "2026-11-20",
-      "titulo_fuente": "Indonesian fire emissions third highest on record this year, says EU’s Copernicus",
-      "region": "Perú",
-      "temas": [
-        "Energía y clima"
-      ],
-      "noticias": [
-        {
-          "id": "78c8e48ee4ab59f5e6c4",
-          "titulo_original": "Indonesian fire emissions third highest on record this year, says EU’s Copernicus",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/sci-tech/energy-and-environment/indonesian-fire-emissions-third-highest-on-record-this-year-sayseus-copernicus/article71722994.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-11-20T03:32:33+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "This year’s fires in Indonesia produced nearly 200 million metric tonnes of carbon emissions ​by November 15, the European Union’s climate monitoring service ‌said",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Hindu"
-      ],
-      "actores_mencionados": [
-        "Unión Europea"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia y gobernanza global",
-        "pregunta": "¿Cómo se distribuyen los costos de coordinación y los incentivos para cooperar?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Unión Europea",
-        "Ámbito: Energía y clima"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-53540c4463bb3ba0c840",
-      "fecha": "2026-11-20",
-      "titulo_fuente": "COP 31: Nations still seeking deeper fossil fuel cuts as climate summit enters final day",
-      "region": "Perú",
-      "temas": [
-        "Diplomacia",
-        "Energía y clima"
-      ],
-      "noticias": [
-        {
-          "id": "53540c4463bb3ba0c840",
-          "titulo_original": "COP 31: Nations still seeking deeper fossil fuel cuts as climate summit enters final day",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/sci-tech/energy-and-environment/cop-31-nations-still-seeking-deeper-fossil-fuel-cuts-as-climate-summit-enters-final-day/article71722951.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-11-20T02:59:53+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The two-week annual summit, which has so far largely failed to advance any big ideas to move away from fossil fuels — mainly coal, oil and gas — which are contributing to more intense and deadly heat waves, droughts, floods and other disasters, ends on Nov. 20",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Hindu"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Ámbito: Diplomacia, Energía y clima",
-        "Posible decisión institucional o negociación"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-eafdbe500f925f8b23e2",
       "fecha": "2026-11-20",
       "titulo_fuente": "Zohran Mamdani unveils plan to close New York’s Rikers Island jail by 2032",
@@ -6652,47 +6719,76 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-8543ddf4a52881252a17",
+      "id": "a-fb730324063a16cabaa2",
       "fecha": "2026-11-20",
-      "titulo_fuente": "White House removes cyber-security chief after series of tech outages",
+      "titulo_fuente": "What the new UK-EU deal could mean for future post-Brexit relations",
+      "region": "Europa",
+      "temas": [
+        "Diplomacia"
+      ],
+      "noticias": [
+        {
+          "id": "fb730324063a16cabaa2",
+          "titulo_original": "What the new UK-EU deal could mean for future post-Brexit relations",
+          "titulo_es": "Lo que el nuevo acuerdo entre el Reino Unido y la UE podría significar para futuras relaciones post-Brexit",
+          "url": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-20T21:43:22+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The BBC's political and Europe editors analyse the new agreements between the UK and EU.",
+          "resumen_es": "Los editores políticos y europeos de la BBC analizan los nuevos acuerdos entre el Reino Unido y la UE."
+        }
+      ],
+      "fuentes": [
+        "BBC News"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Diplomacia"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-eb98f5cda83b22e711da",
+      "fecha": "2026-11-20",
+      "titulo_fuente": "Trump asks Nvidia to give Jensen Huang a ‘second chance’ - Politico",
       "region": "Estados Unidos",
       "temas": [
         "Actualidad"
       ],
       "noticias": [
         {
-          "id": "8543ddf4a52881252a17",
-          "titulo_original": "White House removes cyber-security chief after series of tech outages",
-          "titulo_es": "",
-          "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-20T13:28:32+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller.",
-          "resumen_es": ""
-        },
-        {
-          "id": "dc26535bd2b05e3cd69d",
-          "titulo_original": "White House replaces cyber security chief after tech outages",
-          "titulo_es": "",
-          "url": "https://www.dw.com/en/white-house-replaces-cyber-security-chief-after-tech-outages/a-79998531?maca=en-rss-en-world-4025-rdf",
-          "fuente": "Deutsche Welle",
-          "pais": "Alemania",
-          "fecha": "2026-11-20T04:21:00+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Sean Cairncross is leaving his role as national cyber director after a chaotic week of tech outages. Kirsten Davies, the Pentagon's chief information officer, will assume the position in an acting capacity.",
-          "resumen_es": ""
+          "id": "eb98f5cda83b22e711da",
+          "titulo_original": "Trump asks Nvidia to give Jensen Huang a ‘second chance’ - Politico",
+          "titulo_es": "Trump pide a Nvidia que le dé a Jensen Huang una \"segunda oportunidad\" - Politico",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcG1LUmVCZXVDb3FZSEsta0pLMlR5R2FEdm5LYjRkUmtSWEhESU4yN2EzZE91c1hqV09tQ24tcFhkZksxcmRPekdrMURIY0ZwQ3g2SWpOWEdIRXZ3Y2Zqb0VFOHZydlRuckxUM0IyYXpqWU9oRjRXY211ckw2R3VhWGdIVVRtVmJBdTBVTFVMUWtYWW8xR1FxbEZPYmcxMTdnU3E4ZUtaYw?oc=5",
+          "fuente": "POLITICO US",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-20T21:41:00+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Trump asks Nvidia to give Jensen Huang a ‘second chance’ Politico",
+          "resumen_es": "Trump pide a Nvidia que le dé a Jensen Huang una \"segunda oportunidad\" Politico"
         }
       ],
       "fuentes": [
-        "BBC News",
-        "Deutsche Welle"
+        "POLITICO US"
       ],
       "actores_mencionados": [
         "Estados Unidos"
       ],
-      "fuentes_independientes": 2,
+      "fuentes_independientes": 1,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
         "nombre": "Marco por determinar",
@@ -6701,9 +6797,94 @@
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 3,
+      "prioridad_orientativa": 2,
       "motivos_seleccion": [
-        "Cobertura de fuentes distintas",
+        "Actores relevantes: Estados Unidos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-2183da281f76467873c6",
+      "fecha": "2026-11-20",
+      "titulo_fuente": "Guitarricadelafuente se convierte en un “mártir” para cantar el tema de ‘La bola negra’ en LOS40 Music Awards",
+      "region": "Internacional",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "2183da281f76467873c6",
+          "titulo_original": "Guitarricadelafuente se convierte en un “mártir” para cantar el tema de ‘La bola negra’ en LOS40 Music Awards",
+          "titulo_es": "",
+          "url": "https://elpais.com/videos/2026-11-20/guitarricadelafuente-se-convierte-en-un-martir-para-cantar-el-tema-de-la-bola-negra-en-los40-music-awards.html",
+          "fuente": "El País",
+          "pais": "España",
+          "fecha": "2026-11-20T21:37:10+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Con las manos atadas y unas flechas que simulaban atravesarle el torso, el artista ha interpretado en la gala de Barcelona el tema principal de la película de ‘Los Javis’",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "El País"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-19f82d4080843ad5cd9b",
+      "fecha": "2026-11-20",
+      "titulo_fuente": "America’s electoral blue wave brings only the illusion of change",
+      "region": "Estados Unidos",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "19f82d4080843ad5cd9b",
+          "titulo_original": "America’s electoral blue wave brings only the illusion of change",
+          "titulo_es": "La onda azul electoral de Estados Unidos sólo trae la ilusión del cambio",
+          "url": "https://www.scmp.com/opinion/world-opinion/article/3375049/americas-electoral-blue-wave-brings-only-illusion-change",
+          "fuente": "South China Morning Post",
+          "pais": "Hong Kong",
+          "fecha": "2026-11-20T21:30:06+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Don’t expect the Democratic blue wave to reverse the catastrophic decline in America’s global standing and domestic governance. That decline is structural and often self-inflicted. As Paul Krugman said in a recent podcast, “Two years of Trump have led to a catastrophic decline in America’s global role. Around the world, America is neither loved nor feared. The world has learned that we can’t be trusted to honour our promises or defend our allies.",
+          "resumen_es": "No esperes que la onda azul demócrata revoque el declive catastrófico de la posición global y la gobernanza nacional de Estados Unidos. Esa disminución es estructural y a menudo autoinfligida. Como dijo Paul Krugman en un podcast reciente, \"Dos años de Tru"
+        }
+      ],
+      "fuentes": [
+        "South China Morning Post"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
         "Actores relevantes: Estados Unidos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
@@ -6791,180 +6972,6 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Ámbito: Energía y clima"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-603464e7e3b6c35f0eeb",
-      "fecha": "2026-11-20",
-      "titulo_fuente": "Los artistas de Los40 Music Awards ante el 29N: “La vivienda debería dejar de ser un bien de mercado como cualquier otro”",
-      "region": "Internacional",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "603464e7e3b6c35f0eeb",
-          "titulo_original": "Los artistas de Los40 Music Awards ante el 29N: “La vivienda debería dejar de ser un bien de mercado como cualquier otro”",
-          "titulo_es": "",
-          "url": "https://elpais.com/videos/2026-11-20/los-artistas-de-los40-music-awards-ante-el-29n-la-vivienda-deberia-dejar-de-ser-un-bien-de-mercado-como-cualquier-otro.html",
-          "fuente": "El País",
-          "pais": "España",
-          "fecha": "2026-11-20T20:52:00+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Durante la alfombra roja de los premios musicales en el Palau Sant Jordi de Barcelona, EL PAÍS pregunta a los invitados qué medidas impulsarían si llegaran a La Moncloa",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "El País"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-37c397fd31075e1ca0a7",
-      "fecha": "2026-11-20",
-      "titulo_fuente": "Russian ornithologist jailed over small donations to Navalny's foundation",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "37c397fd31075e1ca0a7",
-          "titulo_original": "Russian ornithologist jailed over small donations to Navalny's foundation",
-          "titulo_es": "El ornitólogo ruso encarceló sobre pequeñas donaciones a la fundación de Navalny",
-          "url": "https://www.dw.com/en/russian-ornithologist-jailed-over-small-donations-to-navalny-s-foundation/a-80005505?maca=en-rss-en-world-4025-rdf",
-          "fuente": "Deutsche Welle",
-          "pais": "Alemania",
-          "fecha": "2026-11-20T20:45:00+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Sofia Rosenfeld has devoted her life to studying Arctic birds. A Russian court sentenced her to 3.5 years in a penal colony over donations to Navalny's foundation. Friends and family are fighting for her release.",
-          "resumen_es": "Sofía Rosenfeld ha dedicado su vida a estudiar aves árticas. Un tribunal ruso la condenó a 3,5 años en una colonia penal por donaciones a la fundación de Navalny. Amigos y familia están luchando por su liberación."
-        }
-      ],
-      "fuentes": [
-        "Deutsche Welle"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-d020b8aa67dc21540cb4",
-      "fecha": "2026-11-20",
-      "titulo_fuente": "Trump threatens ban on US firms building AI data centres overseas",
-      "region": "Estados Unidos",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "d020b8aa67dc21540cb4",
-          "titulo_original": "Trump threatens ban on US firms building AI data centres overseas",
-          "titulo_es": "Trump amenaza la prohibición de las empresas estadounidenses de construir centros de datos AI en el extranjero",
-          "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-20T20:35:26+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-          "resumen_es": "El presidente estadounidense proporcionó poco detalle sobre la política potencial, diciendo que otros en su equipo lo estaban escuchando por primera vez."
-        }
-      ],
-      "fuentes": [
-        "BBC News"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-2b86f86881f6f585a513",
-      "fecha": "2026-11-20",
-      "titulo_fuente": "They often wanted to split Russia to dominate; they want to do so now as well — Putin",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "2b86f86881f6f585a513",
-          "titulo_original": "They often wanted to split Russia to dominate; they want to do so now as well — Putin",
-          "titulo_es": "A menudo querían dividir a Rusia para dominar; quieren hacerlo ahora también — Putin",
-          "url": "https://tass.com/politics/2222753",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-20T20:35:00+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Vladimir Putin believes that what is happening now is a continuation of the same policy — divide and rule — and the desire to reduce Russia’s potential",
-          "resumen_es": "Vladimir Putin cree que lo que está sucediendo ahora es una continuación de la misma política —dividir y gobernar— y el deseo de reducir el potencial de Rusia"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
