@@ -1,17 +1,33 @@
 {
-  "actualizado_utc": "2026-11-20T19:07:41.930385+00:00",
+  "actualizado_utc": "2026-11-20T19:17:40.590079+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 2905,
+      "cantidad_archivada": 2907,
       "nuevas_24h": 103,
-      "anteriores_24h": 129,
+      "anteriores_24h": 131,
       "dias_con_registros": 36,
-      "fecha_ultima": "2026-11-20T18:55:06+00:00",
+      "fecha_ultima": "2026-11-20T19:09:14+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "71ca020da81e35b05e17",
+          "fecha": "2026-11-20T19:09:14+00:00",
+          "titulo": "EN DIRECT, guerre en Ukraine : Vladimir Poutine, qualifié d’« ami » par Donald Trump, est un « assassin », souligne Volodymyr Zelensky",
+          "fuente": "Le Monde",
+          "url": "https://www.lemonde.fr/international/live/2026/11/20/en-direct-guerre-en-ukraine-vladimir-poutine-qualifie-d-ami-par-donald-trump-est-un-assassin-souligne-volodymyr-zelensky_6810982_3210.html",
+          "traducida": false
+        },
+        {
+          "id": "5c36629db35a431dcb75",
+          "fecha": "2026-11-20T19:07:22+00:00",
+          "titulo": "US, Russia and China agree to boost fuel production",
+          "fuente": "TASS",
+          "url": "https://tass.com/economy/2222725",
+          "traducida": false
+        },
         {
           "id": "944d9ff3f86b799a38ef",
           "fecha": "2026-11-20T18:55:06+00:00",
@@ -234,22 +250,6 @@
           "titulo": "Romania denies visas to Russian taekwondo athletes for U-14 European Championship",
           "fuente": "TASS",
           "url": "https://tass.com/sports/2222625",
-          "traducida": false
-        },
-        {
-          "id": "57b0368e5fcc77ee5e2b",
-          "fecha": "2026-11-20T16:00:50+00:00",
-          "titulo": "Dos misiles y un dron rusos caen en el este de Polonia en plenas maniobras militares de una decena de países europeos",
-          "fuente": "El País",
-          "url": "https://elpais.com/internacional/2026-11-20/dos-misiles-y-un-dron-rusos-caen-en-el-este-de-polonia-en-plenas-maniobras-militares-de-una-decena-de-paises-europeos.html",
-          "traducida": false
-        },
-        {
-          "id": "d7ea17fa5d7e9693846f",
-          "fecha": "2026-11-20T15:55:44+00:00",
-          "titulo": "Narva hotels to lose 5-10% of revenue due to closing of border with Russia",
-          "fuente": "TASS",
-          "url": "https://tass.com/economy/2222619",
           "traducida": false
         }
       ]
@@ -510,7 +510,7 @@
       "id": "oriente-medio",
       "titulo": "Oriente Medio: seguridad y diplomacia",
       "cantidad_archivada": 1853,
-      "nuevas_24h": 33,
+      "nuevas_24h": 32,
       "anteriores_24h": 38,
       "dias_con_registros": 36,
       "fecha_ultima": "2026-11-20T18:55:06+00:00",
@@ -761,13 +761,21 @@
     {
       "id": "eeuu-china",
       "titulo": "Competencia estratégica Estados Unidos–China",
-      "cantidad_archivada": 342,
-      "nuevas_24h": 24,
+      "cantidad_archivada": 343,
+      "nuevas_24h": 25,
       "anteriores_24h": 47,
       "dias_con_registros": 33,
-      "fecha_ultima": "2026-11-20T18:54:57+00:00",
+      "fecha_ultima": "2026-11-20T19:07:22+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "5c36629db35a431dcb75",
+          "fecha": "2026-11-20T19:07:22+00:00",
+          "titulo": "US, Russia and China agree to boost fuel production",
+          "fuente": "TASS",
+          "url": "https://tass.com/economy/2222725",
+          "traducida": false
+        },
         {
           "id": "aefac9001402d3f1bb90",
           "fecha": "2026-11-20T18:54:57+00:00",
@@ -999,14 +1007,6 @@
           "fuente": "Deutsche Welle",
           "url": "https://www.dw.com/en/xi-trump-putin-summit-what-did-it-achieve/a-79996668?maca=en-rss-en-world-4025-rdf",
           "traducida": false
-        },
-        {
-          "id": "e4c4c0997abe2d0ff1cf",
-          "fecha": "2026-11-19T17:52:00+00:00",
-          "titulo": "Xi Jinping, Donald Trump and Vladimir Putin have held trilateral talks ― but what did they achieve?",
-          "fuente": "Deutsche Welle",
-          "url": "https://www.dw.com/en/xi-jinping-donald-trump-and-vladimir-putin-have-held-trilateral-talks-―-but-what-did-they-achieve/a-79996668?maca=en-rss-en-world-4025-rdf",
-          "traducida": false
         }
       ]
     },
@@ -1014,8 +1014,8 @@
       "id": "union-europea",
       "titulo": "Unión Europea y relaciones exteriores",
       "cantidad_archivada": 771,
-      "nuevas_24h": 21,
-      "anteriores_24h": 19,
+      "nuevas_24h": 20,
+      "anteriores_24h": 20,
       "dias_con_registros": 36,
       "fecha_ultima": "2026-11-20T17:57:10+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -1519,7 +1519,7 @@
       "titulo": "Sudamérica: integración y política exterior",
       "cantidad_archivada": 390,
       "nuevas_24h": 1,
-      "anteriores_24h": 2,
+      "anteriores_24h": 1,
       "dias_con_registros": 36,
       "fecha_ultima": "2026-11-20T09:17:17+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
