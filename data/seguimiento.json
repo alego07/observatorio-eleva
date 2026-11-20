@@ -1,17 +1,49 @@
 {
-  "actualizado_utc": "2026-11-20T18:50:29.813901+00:00",
+  "actualizado_utc": "2026-11-20T19:07:41.930385+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 2900,
-      "nuevas_24h": 102,
-      "anteriores_24h": 126,
+      "cantidad_archivada": 2905,
+      "nuevas_24h": 103,
+      "anteriores_24h": 129,
       "dias_con_registros": 36,
-      "fecha_ultima": "2026-11-20T18:33:00+00:00",
+      "fecha_ultima": "2026-11-20T18:55:06+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "944d9ff3f86b799a38ef",
+          "fecha": "2026-11-20T18:55:06+00:00",
+          "titulo": "Trump accuses Iran of dishonesty while defending Putin ties",
+          "fuente": "Euronews",
+          "url": "https://www.euronews.com/2026/11/20/trump-accuses-iran-of-dishonesty-while-defending-putin-ties",
+          "traducida": false
+        },
+        {
+          "id": "aefac9001402d3f1bb90",
+          "fecha": "2026-11-20T18:54:57+00:00",
+          "titulo": "Trump believes Russia, China, US need to reduce their nuclear arsenals",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2222721",
+          "traducida": false
+        },
+        {
+          "id": "5c6b853216a836f3f672",
+          "fecha": "2026-11-20T18:54:33+00:00",
+          "titulo": "Trump says China agreed to trilateral despite reluctance, notes nuclear gap",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/us/diplomacy/article/3375296/trump-says-china-agreed-trilateral-despite-reluctance-notes-nuclear-gap",
+          "traducida": false
+        },
+        {
+          "id": "9308a94234c332a16209",
+          "fecha": "2026-11-20T18:37:35+00:00",
+          "titulo": "Ukraine strikes Kerch Bridge as Putin ally declares ‘no one needs Europe’",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/ukraine-strikes-kerch-bridge-as-putin-ally-declares-no-one-needs?traffic_source=rss",
+          "traducida": false
+        },
         {
           "id": "7ed20ab175aa9adf2fe3",
           "fecha": "2026-11-20T18:33:00+00:00",
@@ -26,6 +58,14 @@
           "titulo": "Russian stock market closed in the red — market data",
           "fuente": "TASS",
           "url": "https://tass.com/economy/2222715",
+          "traducida": false
+        },
+        {
+          "id": "867429a32a9dd663c3a9",
+          "fecha": "2026-11-20T18:22:45+00:00",
+          "titulo": "Three to tango: On Trump, Xi, Putin trilateral summit",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/opinion/editorial/three-to-tango-on-trump-xi-putin-trilateral-summit/article71725845.ece",
           "traducida": false
         },
         {
@@ -211,55 +251,15 @@
           "fuente": "TASS",
           "url": "https://tass.com/economy/2222619",
           "traducida": false
-        },
-        {
-          "id": "28bcda2b8395b6987224",
-          "fecha": "2026-11-20T15:43:39+00:00",
-          "titulo": "Two Danes suspected of being hired by Russia to kill Ukrainian rapper - CNN",
-          "fuente": "CNN",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTEN2TTJ4ejYzaE85ZktzVzBrRVFDSVZoc3pYWlpWQjdmYmExNDVyTjAxZmU3NjU5UkZpYnd2MjlfM0VHeDhVb3V4VDhJdTVaT1J4RjlJZGVKZGlqVXVoQ21zcWJuVmsyTXJSeU9fbFBYUWVOSW1ZcV9kWkVZSkQ4bHZCSldGXzVJeWpDVjlVQ3Y?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "b74ee14171d3c2d99c38",
-          "fecha": "2026-11-20T15:43:24+00:00",
-          "titulo": "UAE's Lana Nusseibeh pledges ‘relentless diplomacy’ in bid to lead the UN",
-          "fuente": "Euronews",
-          "url": "https://www.euronews.com/2026/11/20/uaes-lana-nusseibeh-pledges-relentless-diplomacy-in-bid-to-lead-the-un",
-          "traducida": false
-        },
-        {
-          "id": "500f84e406ef18e9b2a4",
-          "fecha": "2026-11-20T15:31:01+00:00",
-          "titulo": "Russia says role for EU's Kallas in Ukraine talks with Moscow would lead to their collapse",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/russia-says-role-for-eus-kallas-in-ukraine-talks-with-moscow-would-lead-to-their-collapse/article71724468.ece",
-          "traducida": false
-        },
-        {
-          "id": "6d537d9f0cd976330fc6",
-          "fecha": "2026-11-20T15:30:26+00:00",
-          "titulo": "Net profit of Russian insurance market plummeted 50.7% in 9M 2026",
-          "fuente": "TASS",
-          "url": "https://tass.com/economy/2222615",
-          "traducida": false
-        },
-        {
-          "id": "cb219fde39bba75c0438",
-          "fecha": "2026-11-20T15:27:11+00:00",
-          "titulo": "Estonia’s border shuttering and Russia’s peace mind: Foreign Ministry's statements",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2222601",
-          "traducida": false
         }
       ]
     },
     {
       "id": "india-asia",
       "titulo": "India y Asia-Pacífico",
-      "cantidad_archivada": 1970,
+      "cantidad_archivada": 1971,
       "nuevas_24h": 57,
-      "anteriores_24h": 66,
+      "anteriores_24h": 67,
       "dias_con_registros": 36,
       "fecha_ultima": "2026-11-20T18:24:12+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -385,6 +385,14 @@
           "traducida": false
         },
         {
+          "id": "3dd085225b1f81c56f3a",
+          "fecha": "2026-11-20T12:02:22+00:00",
+          "titulo": "Why Rajasthan panchayat results are bad news for BJP, CM Bhajan Lal Sharma - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOWN0cEt4bENUbUl6TWloUkxpSjNpY1l1S1hwWFgyVzZKWWUwZTJ3dVFiNW54eWYwekRMOXA2cUZqczJ1ZG5ySm5ON2NUZ1JmQ3N1a202aUhpcTlKak1qY0hBT3lhbzdsUGVwbHpTSU1qNVVPRHRfck01V0kwMDR3QmQzMVRmcjRuYXVaNXJDRHdWNDYzeDFfclhVeTNXYWhtVC1nZk9GVUpNUlBPbnFxclpsNU7SAbsBQVVfeXFMTW1RbDJuNnpXemNKSFV1b0FfYTFBLWdBZEhCanJfTm1reUxPUFdFc2QwLVhkaV9PMUhtVzVXNXJtTC0ydDZIazdxQ0xiNTg1SkplSzFvVjlPdWZteXhSMHprSVd3UndaSDBYQlR0cTNCU2dfc0tvZ0g4NUdoVklUVG04eENhd3FLcmo2cnpfZl9NOHRXSkV0eTVmYkZBbTdKNXdJdEdkY3hrbFRDdjF2TmVfWFZjeUs1aEZYQQ?oc=5",
+          "traducida": false
+        },
+        {
           "id": "33167ca0e926201b80fb",
           "fecha": "2026-11-20T11:53:51+00:00",
           "titulo": "‘Major needlepoint’: Hayden predicts chatter around sandpapergate during BGT - The Indian Express",
@@ -495,27 +503,43 @@
           "fuente": "The Hindu",
           "url": "https://www.thehindu.com/news/international/us-religious-freedom-panel-says-india-is-targeting-minorities-in-voter-roll-revisions/article71722894.ece",
           "traducida": false
-        },
-        {
-          "id": "6ec157c132272754cd32",
-          "fecha": "2026-11-20T07:58:29+00:00",
-          "titulo": "OM movie review: Dhanush goes undercover as Sai Pallavi takes command in the spy thriller - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNbVhVWWp2N2JTcFBLMlQ1MW1kd09WNi1rSEI1SW1RTXhFTkU2QzdIOE12X3pJZVBIYTYzSGhKaEFQaGVadlBON21ka3d4TTJyaXlzOFZiam1NLUZjem42bUJvNW13NklCTDNYWlFDNUV5X2laemdJUUMxSC00aE4zU05uR2lPNEQ2dUlNcEhKSFMzM1FNcnRONFMtNW4wQW5XMXBkb0FWVkpidVNMV2VBYzJ2aE1ZTmZFeVE3ZlZPMm5XTV9qckF0R1B0WHllSm9YWXdoYThHMzZ4ZUx2ZVZTOEhoY1poLW5sLU16MjBjUU7SAfcBQVVfeXFMT2F4VmtyMEFqYTJ4R0FOUWRMd3Btb25zNTFwOEVvd0hUZWU1aFpjbTd3TWRYb05NclVhbUtxb19IZzZBcExKQ0J3cUVCeHhIc1VKa0hxUHZmX2lmTDNRRDFZajhfcDdQMHJMaWk1VzM5VEd3OTF4WUFsQTUzUWFsY21uTmdURU5mOVF4SjBwSTBJYVZtTDk5eDE2NVA3RHlnR2JfOXpiQlRXQ1AyYVA0Z1ptOXdMeTNvY1g2cjl2QkdKdjlyOWQycHhBU1p1a1JQalM4U1dGVEgwb1VOdU1WSlEyclZ2Y093UzN3U0JtdEVfc3poZ0ZTRQ?oc=5",
-          "traducida": false
         }
       ]
     },
     {
       "id": "oriente-medio",
       "titulo": "Oriente Medio: seguridad y diplomacia",
-      "cantidad_archivada": 1850,
+      "cantidad_archivada": 1853,
       "nuevas_24h": 33,
-      "anteriores_24h": 36,
+      "anteriores_24h": 38,
       "dias_con_registros": 36,
-      "fecha_ultima": "2026-11-20T18:34:13+00:00",
+      "fecha_ultima": "2026-11-20T18:55:06+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "944d9ff3f86b799a38ef",
+          "fecha": "2026-11-20T18:55:06+00:00",
+          "titulo": "Trump accuses Iran of dishonesty while defending Putin ties",
+          "fuente": "Euronews",
+          "url": "https://www.euronews.com/2026/11/20/trump-accuses-iran-of-dishonesty-while-defending-putin-ties",
+          "traducida": false
+        },
+        {
+          "id": "0fd6a1d0478be517a97a",
+          "fecha": "2026-11-20T18:51:26+00:00",
+          "titulo": "Former US national security adviser confronted by students on Gaza",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/former-us-national-security-adviser-confronted-by-students-on-gaza?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "674aba4f562ce84ee598",
+          "fecha": "2026-11-20T18:43:37+00:00",
+          "titulo": "Swimming lessons offer Gaza’s children a moment of relief",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_swimming-lessons-offer-gazas-children-relief-201126?traffic_source=rss",
+          "traducida": false
+        },
         {
           "id": "4d6117538553d03997d3",
           "fecha": "2026-11-20T18:34:13+00:00",
@@ -731,29 +755,257 @@
           "fuente": "The Guardian",
           "url": "https://www.theguardian.com/us-news/2026/nov/19/senate-iran-war-powers-resolution-rejected",
           "traducida": false
-        },
+        }
+      ]
+    },
+    {
+      "id": "eeuu-china",
+      "titulo": "Competencia estratégica Estados Unidos–China",
+      "cantidad_archivada": 342,
+      "nuevas_24h": 24,
+      "anteriores_24h": 47,
+      "dias_con_registros": 33,
+      "fecha_ultima": "2026-11-20T18:54:57+00:00",
+      "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
+      "publicaciones": [
         {
-          "id": "7280fb76adf3e04361d1",
-          "fecha": "2026-11-19T20:19:17+00:00",
-          "titulo": "Houthis claim strikes on four sites in Saudi Arabia, warn investors",
+          "id": "aefac9001402d3f1bb90",
+          "fecha": "2026-11-20T18:54:57+00:00",
+          "titulo": "Trump believes Russia, China, US need to reduce their nuclear arsenals",
           "fuente": "TASS",
-          "url": "https://tass.com/world/2222091",
+          "url": "https://tass.com/world/2222721",
           "traducida": false
         },
         {
-          "id": "e9438e590c81e68f0c36",
-          "fecha": "2026-11-19T19:23:45+00:00",
-          "titulo": "Save the Children: Gaza’s children face ‘unmatched dangers’",
+          "id": "5c6b853216a836f3f672",
+          "fecha": "2026-11-20T18:54:33+00:00",
+          "titulo": "Trump says China agreed to trilateral despite reluctance, notes nuclear gap",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/us/diplomacy/article/3375296/trump-says-china-agreed-trilateral-despite-reluctance-notes-nuclear-gap",
+          "traducida": false
+        },
+        {
+          "id": "867429a32a9dd663c3a9",
+          "fecha": "2026-11-20T18:22:45+00:00",
+          "titulo": "Three to tango: On Trump, Xi, Putin trilateral summit",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/opinion/editorial/three-to-tango-on-trump-xi-putin-trilateral-summit/article71725845.ece",
+          "traducida": false
+        },
+        {
+          "id": "219578915c4767c079bd",
+          "fecha": "2026-11-20T17:21:08+00:00",
+          "titulo": "Bernabé Malacalza, géopolitologue : « Il existe une construction narrative complotiste autour de l’influence chinoise en Amérique latine »",
+          "fuente": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/20/bernabe-malacalza-geopolitologue-il-existe-une-construction-narrative-complotiste-autour-de-l-influence-chinoise-en-amerique-latine_6813679_3210.html",
+          "traducida": false
+        },
+        {
+          "id": "72ecafe9729d8ee73347",
+          "fecha": "2026-11-20T15:00:08+00:00",
+          "titulo": "Concrete aims or just symbolism? Trump, Xi and Putin talk nuclear risk but controls stall",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/military/article/3375268/concrete-aims-or-just-symbolism-trump-xi-and-putin-talk-nuclear-risk-controls-stall",
+          "traducida": false
+        },
+        {
+          "id": "0df68419cafe8a5a498f",
+          "fecha": "2026-11-20T14:23:30+00:00",
+          "titulo": "Landmark Putin-Trump-Xi meeting ushers in multipolarity — Thai expert",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2222573",
+          "traducida": false
+        },
+        {
+          "id": "6d5a62b1a2e6701b330b",
+          "fecha": "2026-11-20T14:03:08+00:00",
+          "titulo": "Xi’s greatest power is what he chooses not to do",
           "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/19/save-the-children-gazas-children-face-unmatched-dangers?traffic_source=rss",
+          "url": "https://www.aljazeera.com/opinions/2026/11/20/xis-greatest-power-is-what-he-chooses-not-to-do?traffic_source=rss",
           "traducida": false
         },
         {
-          "id": "acbbab85d9687a3d29d9",
-          "fecha": "2026-11-19T19:17:35+00:00",
-          "titulo": "New regional security architecture will also benefit Europe, Pakistani FM tells Euronews",
+          "id": "29cb90eba8b2d7fac1f9",
+          "fecha": "2026-11-20T14:00:05+00:00",
+          "titulo": "How Beijing’s South China Sea stance benefits from a rare joint warning to the ICC",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3375277/how-beijings-south-china-sea-stance-benefits-rare-joint-warning-icc",
+          "traducida": false
+        },
+        {
+          "id": "90b0fdee61d9ff37a4fb",
+          "fecha": "2026-11-20T13:05:33+00:00",
+          "titulo": "US and China hold maritime security talks in parallel with Xi-Trump meetings",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/military/article/3375274/us-and-china-hold-maritime-security-talks-parallel-trump-xi-meetings",
+          "traducida": false
+        },
+        {
+          "id": "4822e57579c90932d76d",
+          "fecha": "2026-11-20T12:30:09+00:00",
+          "titulo": "After Nvidia, will AMD be a target as China’s ‘2nd-choice’ supplier for AI chips?",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/tech/tech-war/article/3375249/after-nvidia-will-amd-be-target-chinas-second-choice-ai-chips",
+          "traducida": false
+        },
+        {
+          "id": "161d250bf6d06909c946",
+          "fecha": "2026-11-20T12:30:06+00:00",
+          "titulo": "China didn’t just host an Apec summit. It ran a year-long campaign",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/opinion/china-opinion/article/3375119/china-didnt-just-host-apec-summit-it-ran-year-long-campaign",
+          "traducida": false
+        },
+        {
+          "id": "df10c1ebb10322d2b541",
+          "fecha": "2026-11-20T12:00:07+00:00",
+          "titulo": "Xi presses Trump to do ‘the right thing’ on Taiwan. Where does that leave US arms sales?",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3375260/xi-presses-trump-do-right-thing-taiwan-where-does-leave-us-arms-sales",
+          "traducida": false
+        },
+        {
+          "id": "a2bff770f4961c4eb028",
+          "fecha": "2026-11-20T09:30:00+00:00",
+          "titulo": "Una intensa semana en China consolida al México de Sheinbaum en la escena internacional",
+          "fuente": "El País",
+          "url": "https://elpais.com/mexico/2026-11-20/una-intensa-semana-en-china-consolida-al-mexico-de-sheinbaum-en-la-escena-internacional.html",
+          "traducida": false
+        },
+        {
+          "id": "0446963ae8ab52d68888",
+          "fecha": "2026-11-20T09:04:05+00:00",
+          "titulo": "China-US-Russia talks, economy concerns, Auto Guangzhou",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/plus/economy/china-economy/article/3375227/china-us-russia-talks-economy-concerns-auto-guangzhou",
+          "traducida": false
+        },
+        {
+          "id": "f46f451b0bc55d2dd33b",
+          "fecha": "2026-11-20T08:03:42+00:00",
+          "titulo": "Fighting AI with AI: how a Chinese cybersecurity giant is defending against new hacks",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/tech/tech-trends/article/3375211/fighting-ai-ai-how-chinese-cybersecurity-giant-defending-against-new-hacks",
+          "traducida": false
+        },
+        {
+          "id": "42ffcf09cb76c57cc554",
+          "fecha": "2026-11-20T07:24:38+00:00",
+          "titulo": "Xi tells Southeast Asian leaders deeper AI cooperation is needed",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3375196/xi-urges-china-singapore-innovation-partnership-talks-pm-lawrence-wong",
+          "traducida": false
+        },
+        {
+          "id": "c05eb99ac5d731a9fd37",
+          "fecha": "2026-11-20T04:15:08+00:00",
+          "titulo": "Comb restores hair growth; Kim Jong-un daughter’s luxury ski gear: SCMP’s 7 highlights",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/article/3375020/comb-restores-hair-growth-kim-jong-un-daughters-luxury-ski-gear-scmps-7-highlights",
+          "traducida": false
+        },
+        {
+          "id": "52f930fe9005afefe95f",
+          "fecha": "2026-11-19T22:07:55+00:00",
+          "titulo": "US crackdown on scam networks connected to Chinese-born tycoon Chen Zhi ramps up",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3375133/us-crackdown-scam-networks-connected-chinese-born-tycoon-chen-zhi-ramps",
+          "traducida": false
+        },
+        {
+          "id": "3fff1ecdb681231511e4",
+          "fecha": "2026-11-19T20:33:00+00:00",
+          "titulo": "Xi, Trump e Putin sinalizam disposição para diálogo entre potências",
+          "fuente": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/xi-trump-e-putin-sinalizam-disposicao-para-dialogo-entre-potencias",
+          "traducida": false
+        },
+        {
+          "id": "b61298f587e5e65dc7f3",
+          "fecha": "2026-11-19T20:31:24+00:00",
+          "titulo": "AI models favour US and UK accents, score Chinese and Nigerian ones lowest, study finds",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3375132/ai-models-favour-us-and-uk-accents-score-chinese-and-nigerian-ones-lowest-study-finds",
+          "traducida": false
+        },
+        {
+          "id": "410abcb47f33a19ffc94",
+          "fecha": "2026-11-19T20:14:14+00:00",
+          "titulo": "Russia-China-US summit could defuse tensions at critical moment — expert",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2222089",
+          "traducida": false
+        },
+        {
+          "id": "f74e504749ddbd4445aa",
+          "fecha": "2026-11-19T20:05:44+00:00",
+          "titulo": "China-centred order or host duties? Experts weigh in on Xi-Trump-Putin seating",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/article/3375131/china-centred-order-or-host-duties-experts-weigh-xi-trump-putin-seating",
+          "traducida": false
+        },
+        {
+          "id": "721a886d39ca1d1ecdd1",
+          "fecha": "2026-11-19T19:51:48+00:00",
+          "titulo": "Xi, Trump and Putin ‘peace declaration’ suggests summit is more than a photo op",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3375130/xi-trump-and-putin-peace-declaration-suggests-summit-more-photo-op",
+          "traducida": false
+        },
+        {
+          "id": "7ee6b23a25e8425d1de1",
+          "fecha": "2026-11-19T19:45:53+00:00",
+          "titulo": "Trump calls his trip to China superb and very important",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2222087",
+          "traducida": false
+        },
+        {
+          "id": "df804fd48b4601711237",
+          "fecha": "2026-11-19T18:57:18+00:00",
+          "titulo": "Trump bought up to US$265,000 of Nvidia stock in September, disclosure shows",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3375129/trump-bought-us265000-nvidia-stock-september-disclosure-shows",
+          "traducida": false
+        },
+        {
+          "id": "c97b806e7131ad058f73",
+          "fecha": "2026-11-19T18:25:39+00:00",
+          "titulo": "Trump leaves China without meeting Kim Jong-un as trilateral summit raises concerns across Asia",
           "fuente": "Euronews",
-          "url": "https://www.euronews.com/2026/11/19/new-regional-security-architecture-will-also-benefit-europe-pakistani-fm-tells-euronews",
+          "url": "https://www.euronews.com/2026/11/19/trump-leaves-china-without-meeting-kim-jong-un-as-trilateral-summit-raises-concerns-across",
+          "traducida": false
+        },
+        {
+          "id": "e21f14f49168dd075230",
+          "fecha": "2026-11-19T18:13:52+00:00",
+          "titulo": "Trump-Xi-Putin summit: Five things you need to know",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-xi-putin-summit-five-things-you-need-to-know?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "408deb84be412cde8f2d",
+          "fecha": "2026-11-19T18:03:54+00:00",
+          "titulo": "Ukraine allies warn ‘Yalta format’ will not bring about peace – as it happened",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
+          "traducida": false
+        },
+        {
+          "id": "0a7602c729016122d371",
+          "fecha": "2026-11-19T17:52:00+00:00",
+          "titulo": "Xi-Trump-Putin summit: What did it achieve?",
+          "fuente": "Deutsche Welle",
+          "url": "https://www.dw.com/en/xi-trump-putin-summit-what-did-it-achieve/a-79996668?maca=en-rss-en-world-4025-rdf",
+          "traducida": false
+        },
+        {
+          "id": "e4c4c0997abe2d0ff1cf",
+          "fecha": "2026-11-19T17:52:00+00:00",
+          "titulo": "Xi Jinping, Donald Trump and Vladimir Putin have held trilateral talks ― but what did they achieve?",
+          "fuente": "Deutsche Welle",
+          "url": "https://www.dw.com/en/xi-jinping-donald-trump-and-vladimir-putin-have-held-trilateral-talks-―-but-what-did-they-achieve/a-79996668?maca=en-rss-en-world-4025-rdf",
           "traducida": false
         }
       ]
@@ -762,8 +1014,8 @@
       "id": "union-europea",
       "titulo": "Unión Europea y relaciones exteriores",
       "cantidad_archivada": 771,
-      "nuevas_24h": 23,
-      "anteriores_24h": 17,
+      "nuevas_24h": 21,
+      "anteriores_24h": 19,
       "dias_con_registros": 36,
       "fecha_ultima": "2026-11-20T17:57:10+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -1006,258 +1258,6 @@
           "titulo": "Russia considers any foreign troop deployment to Ukraine unacceptable — Putin",
           "fuente": "TASS",
           "url": "https://tass.com/politics/2221987",
-          "traducida": false
-        }
-      ]
-    },
-    {
-      "id": "eeuu-china",
-      "titulo": "Competencia estratégica Estados Unidos–China",
-      "cantidad_archivada": 339,
-      "nuevas_24h": 22,
-      "anteriores_24h": 46,
-      "dias_con_registros": 33,
-      "fecha_ultima": "2026-11-20T17:21:08+00:00",
-      "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
-      "publicaciones": [
-        {
-          "id": "219578915c4767c079bd",
-          "fecha": "2026-11-20T17:21:08+00:00",
-          "titulo": "Bernabé Malacalza, géopolitologue : « Il existe une construction narrative complotiste autour de l’influence chinoise en Amérique latine »",
-          "fuente": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/20/bernabe-malacalza-geopolitologue-il-existe-une-construction-narrative-complotiste-autour-de-l-influence-chinoise-en-amerique-latine_6813679_3210.html",
-          "traducida": false
-        },
-        {
-          "id": "72ecafe9729d8ee73347",
-          "fecha": "2026-11-20T15:00:08+00:00",
-          "titulo": "Concrete aims or just symbolism? Trump, Xi and Putin talk nuclear risk but controls stall",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/military/article/3375268/concrete-aims-or-just-symbolism-trump-xi-and-putin-talk-nuclear-risk-controls-stall",
-          "traducida": false
-        },
-        {
-          "id": "0df68419cafe8a5a498f",
-          "fecha": "2026-11-20T14:23:30+00:00",
-          "titulo": "Landmark Putin-Trump-Xi meeting ushers in multipolarity — Thai expert",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2222573",
-          "traducida": false
-        },
-        {
-          "id": "6d5a62b1a2e6701b330b",
-          "fecha": "2026-11-20T14:03:08+00:00",
-          "titulo": "Xi’s greatest power is what he chooses not to do",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/opinions/2026/11/20/xis-greatest-power-is-what-he-chooses-not-to-do?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "29cb90eba8b2d7fac1f9",
-          "fecha": "2026-11-20T14:00:05+00:00",
-          "titulo": "How Beijing’s South China Sea stance benefits from a rare joint warning to the ICC",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3375277/how-beijings-south-china-sea-stance-benefits-rare-joint-warning-icc",
-          "traducida": false
-        },
-        {
-          "id": "90b0fdee61d9ff37a4fb",
-          "fecha": "2026-11-20T13:05:33+00:00",
-          "titulo": "US and China hold maritime security talks in parallel with Xi-Trump meetings",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/military/article/3375274/us-and-china-hold-maritime-security-talks-parallel-trump-xi-meetings",
-          "traducida": false
-        },
-        {
-          "id": "4822e57579c90932d76d",
-          "fecha": "2026-11-20T12:30:09+00:00",
-          "titulo": "After Nvidia, will AMD be a target as China’s ‘2nd-choice’ supplier for AI chips?",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/tech/tech-war/article/3375249/after-nvidia-will-amd-be-target-chinas-second-choice-ai-chips",
-          "traducida": false
-        },
-        {
-          "id": "161d250bf6d06909c946",
-          "fecha": "2026-11-20T12:30:06+00:00",
-          "titulo": "China didn’t just host an Apec summit. It ran a year-long campaign",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/opinion/china-opinion/article/3375119/china-didnt-just-host-apec-summit-it-ran-year-long-campaign",
-          "traducida": false
-        },
-        {
-          "id": "df10c1ebb10322d2b541",
-          "fecha": "2026-11-20T12:00:07+00:00",
-          "titulo": "Xi presses Trump to do ‘the right thing’ on Taiwan. Where does that leave US arms sales?",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3375260/xi-presses-trump-do-right-thing-taiwan-where-does-leave-us-arms-sales",
-          "traducida": false
-        },
-        {
-          "id": "a2bff770f4961c4eb028",
-          "fecha": "2026-11-20T09:30:00+00:00",
-          "titulo": "Una intensa semana en China consolida al México de Sheinbaum en la escena internacional",
-          "fuente": "El País",
-          "url": "https://elpais.com/mexico/2026-11-20/una-intensa-semana-en-china-consolida-al-mexico-de-sheinbaum-en-la-escena-internacional.html",
-          "traducida": false
-        },
-        {
-          "id": "0446963ae8ab52d68888",
-          "fecha": "2026-11-20T09:04:05+00:00",
-          "titulo": "China-US-Russia talks, economy concerns, Auto Guangzhou",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/plus/economy/china-economy/article/3375227/china-us-russia-talks-economy-concerns-auto-guangzhou",
-          "traducida": false
-        },
-        {
-          "id": "f46f451b0bc55d2dd33b",
-          "fecha": "2026-11-20T08:03:42+00:00",
-          "titulo": "Fighting AI with AI: how a Chinese cybersecurity giant is defending against new hacks",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/tech/tech-trends/article/3375211/fighting-ai-ai-how-chinese-cybersecurity-giant-defending-against-new-hacks",
-          "traducida": false
-        },
-        {
-          "id": "42ffcf09cb76c57cc554",
-          "fecha": "2026-11-20T07:24:38+00:00",
-          "titulo": "Xi tells Southeast Asian leaders deeper AI cooperation is needed",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3375196/xi-urges-china-singapore-innovation-partnership-talks-pm-lawrence-wong",
-          "traducida": false
-        },
-        {
-          "id": "c05eb99ac5d731a9fd37",
-          "fecha": "2026-11-20T04:15:08+00:00",
-          "titulo": "Comb restores hair growth; Kim Jong-un daughter’s luxury ski gear: SCMP’s 7 highlights",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/world/article/3375020/comb-restores-hair-growth-kim-jong-un-daughters-luxury-ski-gear-scmps-7-highlights",
-          "traducida": false
-        },
-        {
-          "id": "52f930fe9005afefe95f",
-          "fecha": "2026-11-19T22:07:55+00:00",
-          "titulo": "US crackdown on scam networks connected to Chinese-born tycoon Chen Zhi ramps up",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3375133/us-crackdown-scam-networks-connected-chinese-born-tycoon-chen-zhi-ramps",
-          "traducida": false
-        },
-        {
-          "id": "3fff1ecdb681231511e4",
-          "fecha": "2026-11-19T20:33:00+00:00",
-          "titulo": "Xi, Trump e Putin sinalizam disposição para diálogo entre potências",
-          "fuente": "Agência Brasil (EBC)",
-          "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/xi-trump-e-putin-sinalizam-disposicao-para-dialogo-entre-potencias",
-          "traducida": false
-        },
-        {
-          "id": "b61298f587e5e65dc7f3",
-          "fecha": "2026-11-19T20:31:24+00:00",
-          "titulo": "AI models favour US and UK accents, score Chinese and Nigerian ones lowest, study finds",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3375132/ai-models-favour-us-and-uk-accents-score-chinese-and-nigerian-ones-lowest-study-finds",
-          "traducida": false
-        },
-        {
-          "id": "410abcb47f33a19ffc94",
-          "fecha": "2026-11-19T20:14:14+00:00",
-          "titulo": "Russia-China-US summit could defuse tensions at critical moment — expert",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2222089",
-          "traducida": false
-        },
-        {
-          "id": "f74e504749ddbd4445aa",
-          "fecha": "2026-11-19T20:05:44+00:00",
-          "titulo": "China-centred order or host duties? Experts weigh in on Xi-Trump-Putin seating",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/article/3375131/china-centred-order-or-host-duties-experts-weigh-xi-trump-putin-seating",
-          "traducida": false
-        },
-        {
-          "id": "721a886d39ca1d1ecdd1",
-          "fecha": "2026-11-19T19:51:48+00:00",
-          "titulo": "Xi, Trump and Putin ‘peace declaration’ suggests summit is more than a photo op",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3375130/xi-trump-and-putin-peace-declaration-suggests-summit-more-photo-op",
-          "traducida": false
-        },
-        {
-          "id": "7ee6b23a25e8425d1de1",
-          "fecha": "2026-11-19T19:45:53+00:00",
-          "titulo": "Trump calls his trip to China superb and very important",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2222087",
-          "traducida": false
-        },
-        {
-          "id": "df804fd48b4601711237",
-          "fecha": "2026-11-19T18:57:18+00:00",
-          "titulo": "Trump bought up to US$265,000 of Nvidia stock in September, disclosure shows",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3375129/trump-bought-us265000-nvidia-stock-september-disclosure-shows",
-          "traducida": false
-        },
-        {
-          "id": "c97b806e7131ad058f73",
-          "fecha": "2026-11-19T18:25:39+00:00",
-          "titulo": "Trump leaves China without meeting Kim Jong-un as trilateral summit raises concerns across Asia",
-          "fuente": "Euronews",
-          "url": "https://www.euronews.com/2026/11/19/trump-leaves-china-without-meeting-kim-jong-un-as-trilateral-summit-raises-concerns-across",
-          "traducida": false
-        },
-        {
-          "id": "e21f14f49168dd075230",
-          "fecha": "2026-11-19T18:13:52+00:00",
-          "titulo": "Trump-Xi-Putin summit: Five things you need to know",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-xi-putin-summit-five-things-you-need-to-know?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "408deb84be412cde8f2d",
-          "fecha": "2026-11-19T18:03:54+00:00",
-          "titulo": "Ukraine allies warn ‘Yalta format’ will not bring about peace – as it happened",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
-          "traducida": false
-        },
-        {
-          "id": "0a7602c729016122d371",
-          "fecha": "2026-11-19T17:52:00+00:00",
-          "titulo": "Xi-Trump-Putin summit: What did it achieve?",
-          "fuente": "Deutsche Welle",
-          "url": "https://www.dw.com/en/xi-trump-putin-summit-what-did-it-achieve/a-79996668?maca=en-rss-en-world-4025-rdf",
-          "traducida": false
-        },
-        {
-          "id": "e4c4c0997abe2d0ff1cf",
-          "fecha": "2026-11-19T17:52:00+00:00",
-          "titulo": "Xi Jinping, Donald Trump and Vladimir Putin have held trilateral talks ― but what did they achieve?",
-          "fuente": "Deutsche Welle",
-          "url": "https://www.dw.com/en/xi-jinping-donald-trump-and-vladimir-putin-have-held-trilateral-talks-―-but-what-did-they-achieve/a-79996668?maca=en-rss-en-world-4025-rdf",
-          "traducida": false
-        },
-        {
-          "id": "cb9e94bb21705eddc1d0",
-          "fecha": "2026-11-19T17:50:21+00:00",
-          "titulo": "China’s Xi urges US and Russia to join forces to safeguard world peace",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/aje-onl-nf_chinas-xi-urges-us-and-russia-for-world-peace-191126?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "f2c9a0a78b110bb051fa",
-          "fecha": "2026-11-19T17:23:36+00:00",
-          "titulo": "Is Europe now in the shadow of a Trump, Putin and Xi alliance? – podcast",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/politics/audio/2026/nov/19/is-europe-in-shadow-of-trump-putin-xi-alliance-podcast",
-          "traducida": false
-        },
-        {
-          "id": "09ca9a5a658a5ee8e511",
-          "fecha": "2026-11-19T17:13:23+00:00",
-          "titulo": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars",
           "traducida": false
         }
       ]

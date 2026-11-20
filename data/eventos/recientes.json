@@ -1,6 +1,54 @@
 {
-  "created_utc": "2026-11-20T18:50:29.769759+00:00",
+  "created_utc": "2026-11-20T19:07:41.880915+00:00",
   "events": [
+    {
+      "id": "a-867429a32a9dd663c3a9",
+      "fecha": "2026-11-20",
+      "titulo_fuente": "Three to tango: On Trump, Xi, Putin trilateral summit",
+      "region": "China",
+      "temas": [
+        "Diplomacia"
+      ],
+      "noticias": [
+        {
+          "id": "867429a32a9dd663c3a9",
+          "titulo_original": "Three to tango: On Trump, Xi, Putin trilateral summit",
+          "titulo_es": "Tres al tango: Sobre Trump, Xi, Cumbre trilateral Putin",
+          "url": "https://www.thehindu.com/opinion/editorial/three-to-tango-on-trump-xi-putin-trilateral-summit/article71725845.ece",
+          "fuente": "The Hindu",
+          "pais": "India",
+          "fecha": "2026-11-20T18:22:45+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "U.S., China, Russia must draw up a roadmap for talks on nuclear weapons",
+          "resumen_es": "Estados Unidos, China, Rusia debe elaborar una hoja de ruta para las conversaciones sobre armas nucleares"
+        }
+      ],
+      "fuentes": [
+        "The Hindu"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "China",
+        "Rusia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 8,
+      "motivos_seleccion": [
+        "Actores relevantes: China, Estados Unidos, Rusia",
+        "Ámbito: Diplomacia",
+        "Posible decisión institucional o negociación"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
     {
       "id": "a-be2a9202a74c799a1dfa",
       "fecha": "2026-11-20",
@@ -146,33 +194,36 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-f78634378af9c8cced94",
-      "fecha": "2026-11-19",
-      "titulo_fuente": "Will the Shenzhen summit safeguard world peace?",
-      "region": "Estados Unidos",
+      "id": "a-944d9ff3f86b799a38ef",
+      "fecha": "2026-11-20",
+      "titulo_fuente": "Trump accuses Iran of dishonesty while defending Putin ties",
+      "region": "Rusia-Ucrania",
       "temas": [
-        "Diplomacia"
+        "Diplomacia",
+        "Seguridad y conflictos"
       ],
       "noticias": [
         {
-          "id": "f78634378af9c8cced94",
-          "titulo_original": "Will the Shenzhen summit safeguard world peace?",
-          "titulo_es": "¿La cumbre de Shenzhen salvaguardará la paz mundial?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/11/19/will-the-shenzhen-summit-safeguard-world-peace?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-11-19T20:43:51+00:00",
+          "id": "944d9ff3f86b799a38ef",
+          "titulo_original": "Trump accuses Iran of dishonesty while defending Putin ties",
+          "titulo_es": "Trump acusa a Irán de deshonestidad mientras defiende los lazos de Putin",
+          "url": "https://www.euronews.com/2026/11/20/trump-accuses-iran-of-dishonesty-while-defending-putin-ties",
+          "fuente": "Euronews",
+          "pais": "Unión Europea",
+          "fecha": "2026-11-20T18:55:06+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Xi, Putin and Trump issue 'Peace Declaration' after historic summit.",
-          "resumen_es": "Xi, Putin y Trump emiten \"Declaración de paz\" después de la cumbre histórica."
+          "resumen_original": "Speaking at a White House press conference on Friday, Trump defended his ties with Xi and Putin, called for a \"real deal\" with Iran and claimed the Russian leader wanted to end the war in Ukraine through diplomacy.",
+          "resumen_es": "Hablando en una conferencia de prensa de la Casa Blanca el viernes, Trump defendió sus vínculos con Xi y Putin, pidió un \"acuerdo real\" con Irán y afirmó que el líder ruso quería terminar la guerra en Ucrania a través de la diplomacia."
         }
       ],
       "fuentes": [
-        "Al Jazeera"
+        "Euronews"
       ],
       "actores_mencionados": [
         "Estados Unidos",
-        "Rusia"
+        "Rusia",
+        "Ucrania",
+        "Irán"
       ],
       "fuentes_independientes": 1,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
@@ -183,11 +234,10 @@
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 8,
+      "prioridad_orientativa": 6,
       "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos, Rusia",
-        "Ámbito: Diplomacia",
-        "Posible decisión institucional o negociación"
+        "Actores relevantes: Estados Unidos, Irán, Rusia, Ucrania",
+        "Ámbito: Diplomacia, Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -2012,117 +2062,25 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-dc2b467fa7c321219be6",
-      "fecha": "2026-11-19",
-      "titulo_fuente": "'Humanitarian mission' for Kostiantynivka: Is it a trap?",
-      "region": "Rusia-Ucrania",
+      "id": "a-aefac9001402d3f1bb90",
+      "fecha": "2026-11-20",
+      "titulo_fuente": "Trump believes Russia, China, US need to reduce their nuclear arsenals",
+      "region": "China",
       "temas": [
-        "Seguridad y conflictos"
+        "Actualidad"
       ],
       "noticias": [
         {
-          "id": "dc2b467fa7c321219be6",
-          "titulo_original": "'Humanitarian mission' for Kostiantynivka: Is it a trap?",
-          "titulo_es": "Misión humanitaria para Kostiantynivka: ¿Es una trampa?",
-          "url": "https://www.dw.com/en/humanitarian-mission-for-kostiantynivka-is-it-a-trap/a-79996772?maca=en-rss-en-world-4025-rdf",
-          "fuente": "Deutsche Welle",
-          "pais": "Alemania",
-          "fecha": "2026-11-19T20:53:00+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Russian President Putin has proposed an evacuation of the Ukrainian city of Kostiantynivka, like the recent operation in Oleshky. Experts warn this could serve military, not humanitarian, aims. What should Kyiv do?",
-          "resumen_es": "El presidente ruso Putin ha propuesto una evacuación de la ciudad ucraniana de Kostiantynivka, como la reciente operación en Oleshky. Expertos advierten que esto podría servir objetivos militares, no humanitarios. ¿Qué debería hacer Kiev?"
-        }
-      ],
-      "fuentes": [
-        "Deutsche Welle"
-      ],
-      "actores_mencionados": [
-        "Rusia",
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia, Ucrania",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-53a49ccf0e046af42102",
-      "fecha": "2026-11-19",
-      "titulo_fuente": "Putin proposes second humanitarian ceasefire — is it a trap?",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "53a49ccf0e046af42102",
-          "titulo_original": "Putin proposes second humanitarian ceasefire — is it a trap?",
-          "titulo_es": "",
-          "url": "https://www.dw.com/en/putin-proposes-second-humanitarian-ceasefire-is-it-a-trap/a-79996772?maca=en-rss-en-world-4025-rdf",
-          "fuente": "Deutsche Welle",
-          "pais": "Alemania",
-          "fecha": "2026-11-19T20:53:00+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Russian President Putin has suggested evacuating civilians from the embattled Ukrainian city of Kostiantynivka. But experts warn this could serve military, not humanitarian, aims. What should Kyiv do?",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Deutsche Welle"
-      ],
-      "actores_mencionados": [
-        "Rusia",
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia, Ucrania",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-aa41201c4aef5ed48099",
-      "fecha": "2026-11-19",
-      "titulo_fuente": "Trump makes Ukraine central in talks with Putin, Xi — US envoy",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "aa41201c4aef5ed48099",
-          "titulo_original": "Trump makes Ukraine central in talks with Putin, Xi — US envoy",
-          "titulo_es": "Trump hace que Ucrania sea central en las conversaciones con Putin, Xi — Enviado de los Estados Unidos",
-          "url": "https://tass.com/world/2222097",
+          "id": "aefac9001402d3f1bb90",
+          "titulo_original": "Trump believes Russia, China, US need to reduce their nuclear arsenals",
+          "titulo_es": "Trump cree que Rusia, China, Estados Unidos necesitan reducir sus arsenales nucleares",
+          "url": "https://tass.com/world/2222721",
           "fuente": "TASS",
           "pais": "Rusia",
-          "fecha": "2026-11-19T20:47:55+00:00",
+          "fecha": "2026-11-20T18:54:57+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Steve Witkoff said the US president has \"adamantly supported\" a settlement to the conflict",
-          "resumen_es": "Steve Witkoff dijo que el presidente de los Estados Unidos ha \"apodado de forma permanente\" un acuerdo al conflicto"
+          "resumen_original": "From the US president's perspective, nuclear reduction is necessary, and Moscow, Washington, and Beijing bear a special responsibility as the largest nuclear powers",
+          "resumen_es": "Desde la perspectiva del presidente estadounidense, es necesaria la reducción nuclear, y Moscú, Washington y Beijing tienen una responsabilidad especial como las mayores potencias nucleares"
         }
       ],
       "fuentes": [
@@ -2130,53 +2088,142 @@
       ],
       "actores_mencionados": [
         "Estados Unidos",
-        "Rusia",
-        "Ucrania"
+        "China",
+        "Rusia"
       ],
       "fuentes_independientes": 1,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
       },
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
+      "prioridad_orientativa": 4,
       "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos, Rusia, Ucrania",
-        "Ámbito: Seguridad y conflictos"
+        "Actores relevantes: China, Estados Unidos, Rusia"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
     },
     {
-      "id": "a-a4a1702a72066bf8e29b",
-      "fecha": "2026-11-19",
-      "titulo_fuente": "Trump hopes Zelensky wants to reach agreement on Ukraine",
+      "id": "a-5c6b853216a836f3f672",
+      "fecha": "2026-11-20",
+      "titulo_fuente": "Trump says China agreed to trilateral despite reluctance, notes nuclear gap",
+      "region": "China",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "5c6b853216a836f3f672",
+          "titulo_original": "Trump says China agreed to trilateral despite reluctance, notes nuclear gap",
+          "titulo_es": "Trump dice que China aceptó trilateral a pesar de la renuencia, señala la brecha nuclear",
+          "url": "https://www.scmp.com/news/us/diplomacy/article/3375296/trump-says-china-agreed-trilateral-despite-reluctance-notes-nuclear-gap",
+          "fuente": "South China Morning Post",
+          "pais": "Hong Kong",
+          "fecha": "2026-11-20T18:54:33+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "US President Donald Trump said on Friday that China had agreed to hold trilateral nuclear risk-reduction talks for the first time despite earlier reluctance, as he acknowledged the wide gap between Beijing’s arsenal and the much larger stockpiles held by the US and Russia. “They didn’t want to do that because China ... is way behind,” Trump said in a press conference at the White House. “We have estimates of 4,000 nuclear weapons. Russia’s second",
+          "resumen_es": "El presidente estadounidense Donald Trump dijo el viernes que China había acordado celebrar conversaciones trilaterales de reducción del riesgo nuclear por primera vez a pesar de la renuencia anterior, ya que reconoció la amplia brecha entre el arsenal de Beijing y el stoc mucho mayor"
+        }
+      ],
+      "fuentes": [
+        "South China Morning Post"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "China",
+        "Rusia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: China, Estados Unidos, Rusia"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-6a40f5649735f683f2d0",
+      "fecha": "2026-11-20",
+      "titulo_fuente": "‘Worth fighting for’: senators vow to restore financial watchdog agency after Guardian investigation",
+      "region": "Estados Unidos",
+      "temas": [
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "6a40f5649735f683f2d0",
+          "titulo_original": "‘Worth fighting for’: senators vow to restore financial watchdog agency after Guardian investigation",
+          "titulo_es": "“Pelea por la Tierra”: los senadores prometen restaurar la agencia de vigilancia financiera después de la investigación de Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/20/senators-consumer-financial-protection-bureau",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-20T18:51:16+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Democrats – including incoming banking chair and both majority leader candidates – said wealthy interests were prioritized over the needs of working Americans In response to a Guardian investigation , four US Senate Democrats say they will work to resurrect a financial watchdog agency that has abandoned dozens of enforcement actions under the second Trump administration . The Guardian found that after the Consumer Financial Protection Bureau (CFP",
+          "resumen_es": "Los demócratas – incluyendo la presidencia bancaria entrante y los dos candidatos líderes de la mayoría – dijeron que los intereses ricos se priorizaron sobre las necesidades de los estadounidenses trabajadores En respuesta a una investigación de Guardian, cuatro demócratas del Senado de Estados Unidos dicen que ellos dirán que"
+        }
+      ],
+      "fuentes": [
+        "The Guardian"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia compleja y economía política internacional",
+        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos",
+        "Ámbito: Comercio y finanzas"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-9308a94234c332a16209",
+      "fecha": "2026-11-20",
+      "titulo_fuente": "Ukraine strikes Kerch Bridge as Putin ally declares ‘no one needs Europe’",
       "region": "Rusia-Ucrania",
       "temas": [
         "Actualidad"
       ],
       "noticias": [
         {
-          "id": "a4a1702a72066bf8e29b",
-          "titulo_original": "Trump hopes Zelensky wants to reach agreement on Ukraine",
-          "titulo_es": "Trump espera que Zelensky quiera llegar a un acuerdo sobre Ucrania",
-          "url": "https://tass.com/world/2222095",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-19T20:35:10+00:00",
+          "id": "9308a94234c332a16209",
+          "titulo_original": "Ukraine strikes Kerch Bridge as Putin ally declares ‘no one needs Europe’",
+          "titulo_es": "Ucrania golpea a Kerch Bridge como Putin Ally declara “ninguno necesita Europa”",
+          "url": "https://www.aljazeera.com/news/2026/11/20/ukraine-strikes-kerch-bridge-as-putin-ally-declares-no-one-needs?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-20T18:37:35+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The US president added that his Russian counterpart is ready for a deal",
-          "resumen_es": "El presidente estadounidense agregó que su contraparte rusa está lista para un acuerdo"
+          "resumen_original": "Russia-Europe tensions rise as Ukraine uses its own weapons and communications tech to hit the Kerch Bridge.",
+          "resumen_es": "Las tensiones entre Rusia y Europa aumentan a medida que Ucrania utiliza sus propias armas y tecnología de comunicaciones para golpear el puente Kerch."
         }
       ],
       "fuentes": [
-        "TASS"
+        "Al Jazeera"
       ],
       "actores_mencionados": [
-        "Estados Unidos",
         "Rusia",
         "Ucrania"
       ],
@@ -2189,150 +2236,9 @@
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
+      "prioridad_orientativa": 4,
       "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos, Rusia, Ucrania",
-        "Posible decisión institucional o negociación"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-3fff1ecdb681231511e4",
-      "fecha": "2026-11-19",
-      "titulo_fuente": "Xi, Trump e Putin sinalizam disposição para diálogo entre potências",
-      "region": "China",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "3fff1ecdb681231511e4",
-          "titulo_original": "Xi, Trump e Putin sinalizam disposição para diálogo entre potências",
-          "titulo_es": "Xi, Trump y Putin señalan la disposición para el diálogo entre potencias",
-          "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/xi-trump-e-putin-sinalizam-disposicao-para-dialogo-entre-potencias",
-          "fuente": "Agência Brasil (EBC)",
-          "pais": "Brasil",
-          "fecha": "2026-11-19T20:33:00+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "O encontro presencial entre os presidentes da China, Xi Jinping, dos Estados Unidos (EUA), Donald Trump, e da Rússia, Vladimir Putin, indica que há espaço para diálogo mais direto entre as três potências em meio a cenário geopolítico turbulento. Realizada em Shenzhen, no sul da China, o encontro chamou atenção da mídia internacional pelo caráter sem precedentes da reunião que discutiu guerra na Ucrânia, controle de armas nucleares, mudança na ord",
-          "resumen_es": "El encuentro presencial entre los presidentes de China, Xi Jinping, Estados Unidos (Estados Unidos), Donald Trump y Rusia, Vladimir Putin, indica que hay espacio para un diálogo más directo entre las tres potencias en medio del escenario geopolítico turbul"
-        }
-      ],
-      "fuentes": [
-        "Agência Brasil (EBC)"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "China",
-        "Rusia",
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: China, Estados Unidos, Rusia, Ucrania",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-6e19f62aa7035af0b663",
-      "fecha": "2026-11-19",
-      "titulo_fuente": "Senate Republicans in US reject measure to limit Trump’s war powers in Iran",
-      "region": "Oriente Medio",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "6e19f62aa7035af0b663",
-          "titulo_original": "Senate Republicans in US reject measure to limit Trump’s war powers in Iran",
-          "titulo_es": "Los republicanos del Senado en Estados Unidos rechazan la medida para limitar los poderes de guerra de Trump en Irán",
-          "url": "https://www.aljazeera.com/news/2026/11/19/senate-republicans-in-us-reject-measure-to-limit-trumps-war-powers-in-iran?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-11-19T20:30:54+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The resolution was defeated 51-48. Three Republicans broke rank, voting against the measure.",
-          "resumen_es": "La resolución fue derrotada 51-48. Tres republicanos rompieron el rango, votando contra la medida."
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "Irán"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos, Irán",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-e841835dac470286ba6d",
-      "fecha": "2026-11-19",
-      "titulo_fuente": "Substantive Putin-Trump-Xi meeting has important symbolism — expert",
-      "region": "Estados Unidos",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "e841835dac470286ba6d",
-          "titulo_original": "Substantive Putin-Trump-Xi meeting has important symbolism — expert",
-          "titulo_es": "Reunión sustantiva Putin-Trump-Xi tiene un importante simbolismo — experto",
-          "url": "https://tass.com/world/2222093",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-19T20:27:17+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Senior Fellow & Director of Military Analysis at Defense Priorities Jennifer Kavanagh noted that the meeting signaled \"the commitment of the three leaders to maintaining strategic stability\"",
-          "resumen_es": "El Director de Análisis Militar de Prioridades de Defensa Jennifer Kavanagh señaló que la reunión señaló \"el compromiso de los tres líderes para mantener la estabilidad estratégica\""
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos, Rusia",
-        "Ámbito: Seguridad y conflictos"
+        "Actores relevantes: Rusia, Ucrania"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6011,141 +5917,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-762ce5b4a1153cb1dbb2",
-      "fecha": "2026-11-19",
-      "titulo_fuente": "Meeting between Russia, US, China leaders useful, not to mention their decisions — expert",
-      "region": "China",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "762ce5b4a1153cb1dbb2",
-          "titulo_original": "Meeting between Russia, US, China leaders useful, not to mention their decisions — expert",
-          "titulo_es": "Reunión entre Rusia, Estados Unidos, líderes de China útiles, por no mencionar sus decisiones — experto",
-          "url": "https://tass.com/world/2222099",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-19T20:59:52+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "James Carden, former advisor to the US-Russia Bilateral Presidential Commission, added that the confirmation by the parties of their intention to ensure global stability would be beneficial",
-          "resumen_es": "James Carden, ex asesor de la Comisión Presidencial Bilateral de Rusia-Estados Unidos, añadió que la confirmación por las partes de su intención de garantizar la estabilidad mundial sería beneficiosa"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "China",
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: China, Rusia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-83914262478aeb7584ff",
-      "fecha": "2026-11-19",
-      "titulo_fuente": "US defence secretary Pete Hegseth lands in Ecuador on Latin America anti-narcotics tour",
-      "region": "Oriente Medio",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "83914262478aeb7584ff",
-          "titulo_original": "US defence secretary Pete Hegseth lands in Ecuador on Latin America anti-narcotics tour",
-          "titulo_es": "Secretario de Defensa de EE.UU. Pete Hegseth aterriza en Ecuador en América Latina gira antinarcóticos",
-          "url": "https://www.euronews.com/2026/11/19/us-defence-secretary-pete-hegseth-lands-in-ecuador-on-latin-america-anti-narcotics-tour",
-          "fuente": "Euronews",
-          "pais": "Unión Europea",
-          "fecha": "2026-11-19T20:33:03+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The US defence secretary, under fire for his role in the Iran war and illegal bombings in the Caribbean and Pacific, has announced a military pact with Venezuela. His next stop is Honduras.",
-          "resumen_es": "El secretario de defensa estadounidense, bajo fuego por su papel en la guerra de Irán y los bombardeos ilegales en el Caribe y el Pacífico, ha anunciado un pacto militar con Venezuela. Su próxima parada es Honduras."
-        }
-      ],
-      "fuentes": [
-        "Euronews"
-      ],
-      "actores_mencionados": [
-        "Irán"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Irán",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-b61298f587e5e65dc7f3",
-      "fecha": "2026-11-19",
-      "titulo_fuente": "AI models favour US and UK accents, score Chinese and Nigerian ones lowest, study finds",
-      "region": "China",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "b61298f587e5e65dc7f3",
-          "titulo_original": "AI models favour US and UK accents, score Chinese and Nigerian ones lowest, study finds",
-          "titulo_es": "Los modelos AI favorecen los acentos estadounidenses y británicos, marcan los chinos y nigerianos más bajos, el estudio encuentra",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3375132/ai-models-favour-us-and-uk-accents-score-chinese-and-nigerian-ones-lowest-study-finds",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-11-19T20:31:24+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Ask an artificial intelligence model to grade a job interview or test answers, and a person’s accent may change the score. That is according to new University of Washington research that looked at how some of the most advanced AI models rated English speakers with different accents, both on what they said and how they said it. In the scripted tests, every speaker said the same words, and AI models transcribed the accented speech accurately, meani",
-          "resumen_es": "Pregunte a un modelo de inteligencia artificial para calificar una entrevista de trabajo o respuestas de prueba, y el acento de una persona puede cambiar la puntuación. Eso es según la nueva investigación de la Universidad de Washington que miró cómo algunos de los modelos más avanzados de AI rata"
-        }
-      ],
-      "fuentes": [
-        "South China Morning Post"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "China"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: China, Estados Unidos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-eafdbe500f925f8b23e2",
       "fecha": "2026-11-20",
       "titulo_fuente": "Zohran Mamdani unveils plan to close New York’s Rikers Island jail by 2032",
@@ -6396,6 +6167,192 @@
       "motivos_seleccion": [
         "Cobertura de fuentes distintas",
         "Actores relevantes: Estados Unidos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-068c8774918ba6569bff",
+      "fecha": "2026-11-19",
+      "titulo_fuente": "How did Anthropic's stock market debut unfold?",
+      "region": "Internacional",
+      "temas": [
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "068c8774918ba6569bff",
+          "titulo_original": "How did Anthropic's stock market debut unfold?",
+          "titulo_es": "",
+          "url": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-19T23:52:25+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The BBC's Samira Hussain breaks down the AI company's first day as a publicly traded company, as shares closed up 17%.",
+          "resumen_es": ""
+        },
+        {
+          "id": "4998ce14986dd9a71105",
+          "titulo_original": "Anthropic IPO value surges in stock market debut - CNN",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTHhoTGRKVHhRajRPM2FlYWxxN1ZRWHdVaDBhZWJwdVRSY3c1bFIwdERacFNrbmNPR0lONm5LdGdVSFVub3pWTEctWHV6NEJaMjZnbWZBaHJiTU45WlBuMnI2Mm12VXJrVWpJWFlJTHpmWEdwLXR6b2F6NWpaUko3RmcyOXJJY0w3cEJjRnQxODhZc1JjaHdVQkN1R1E5SGFHMmhNR2h6ckFFRV9nTlJMZQ?oc=5",
+          "fuente": "CNN",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-19T22:28:14+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Anthropic IPO value surges in stock market debut CNN",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "BBC News",
+        "CNN"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 2,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia compleja y economía política internacional",
+        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 3,
+      "motivos_seleccion": [
+        "Cobertura de fuentes distintas",
+        "Ámbito: Comercio y finanzas"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-00f29aae7d2320c838a4",
+      "fecha": "2026-11-20",
+      "titulo_fuente": "Le Danemark accuse la Russie d’avoir commandité la tentative d’assassinat d’un rappeur ukrainien sur son territoire",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Diplomacia"
+      ],
+      "noticias": [
+        {
+          "id": "00f29aae7d2320c838a4",
+          "titulo_original": "Le Danemark accuse la Russie d’avoir commandité la tentative d’assassinat d’un rappeur ukrainien sur son territoire",
+          "titulo_es": "",
+          "url": "https://www.lemonde.fr/international/article/2026/11/20/le-danemark-accuse-la-russie-d-avoir-commandite-la-tentative-d-assassinat-d-un-rappeur-ukrainien-sur-son-territoire_6813695_3210.html",
+          "fuente": "Le Monde",
+          "pais": "Francia",
+          "fecha": "2026-11-20T19:00:13+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Selon Copenhague, les services de renseignements russes avaient planifié le meurtre d’Albert Vasiliev, alias Kyivstoner, en s’appuyant sur la participation du gang danois Loyal to Familia. Le chef de la diplomatie a annoncé ce 20 novembre l’expulsion de l’attaché militaire russe en poste au Danemark.",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "Le Monde"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Diplomacia"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-fce9c799c3f009fb6d21",
+      "fecha": "2026-11-20",
+      "titulo_fuente": "Lauren Boebert says Trump ‘did some things to hurt’ her constituents",
+      "region": "Estados Unidos",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "fce9c799c3f009fb6d21",
+          "titulo_original": "Lauren Boebert says Trump ‘did some things to hurt’ her constituents",
+          "titulo_es": "Lauren Boebert dice que Trump \"hirió algunas cosas\" a sus constituyentes",
+          "url": "https://www.theguardian.com/us-news/2026/nov/20/lauren-boebert-trump-midterms",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-20T18:51:09+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Controversial Colorado Republican narrowly lost House seat in midterms but says ‘I’m not mad at the president’ Lauren Boebert says Donald Trump “did some things that hurt” her constituents before they voted the pugnacious Colorado Republican out of her US House seat during midterm elections, which saw her and the president’s party lose control of Congress. “This could be a referendum on President Trump,” Boebert said to the Associated Press in an",
+          "resumen_es": "Controversial Republicano Colorado se perdió El asiento de la casa a mitad de período, pero dice ‘no estoy enojado con el presidente’ Lauren Boebert dice que Donald Trump “did algunas cosas que duelen” sus constituyentes antes de votar el pugnacious Colorado Republica"
+        }
+      ],
+      "fuentes": [
+        "The Guardian"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-674aba4f562ce84ee598",
+      "fecha": "2026-11-20",
+      "titulo_fuente": "Swimming lessons offer Gaza’s children a moment of relief",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "674aba4f562ce84ee598",
+          "titulo_original": "Swimming lessons offer Gaza’s children a moment of relief",
+          "titulo_es": "Clases de natación ofrecen a los niños de Gaza un momento de alivio",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_swimming-lessons-offer-gazas-children-relief-201126?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-20T18:43:37+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Palestinian children gathered along Gaza’s coast for swimming lessons, finding relief from the psychological toll of war",
+          "resumen_es": "Los niños palestinos se reunieron a lo largo de la costa de Gaza para tomar clases de natación, encontrando alivio del peaje psicológico de la guerra"
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [
+        "Palestina"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6772,6 +6729,48 @@
       ],
       "fuentes": [
         "The Guardian"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-bb79274c3be1932922db",
+      "fecha": "2026-11-20",
+      "titulo_fuente": "Security officials warn the US aviation industry of recent calls for attack by Al Qaeda - CNN",
+      "region": "Internacional",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "bb79274c3be1932922db",
+          "titulo_original": "Security officials warn the US aviation industry of recent calls for attack by Al Qaeda - CNN",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNnNkQWYyRV80Mk52ZW9UYTh2Zk85T0ZycndqNGNvb2cwVDAwNDVISmxVaXdFbDdGQ25WcGxQUWo2bVBHbm5kMG8wMURvVUl6M01xS0Y2VGw4NXJueHlmenpwODNWQVZtVlpKbFBwRV91ZzR5SVY0T1JPOUpTejh5WVRWbnppSk5nQWs5ag?oc=5",
+          "fuente": "CNN",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-20T18:03:40+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Security officials warn the US aviation industry of recent calls for attack by Al Qaeda CNN",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "CNN"
       ],
       "actores_mencionados": [],
       "fuentes_independientes": 1,
