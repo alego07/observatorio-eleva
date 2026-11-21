@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-11-21T20:11:13.734561+00:00",
+  "created_utc": "2026-11-21T20:42:24.127118+00:00",
   "events": [
     {
       "id": "a-a888f1d182f6c5f882f0",
@@ -2920,55 +2920,6 @@
       "motivos_seleccion": [
         "Actores relevantes: China, Estados Unidos, Rusia",
         "Ámbito: Diplomacia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-944d9ff3f86b799a38ef",
-      "fecha": "2026-11-20",
-      "titulo_fuente": "Trump accuses Iran of dishonesty while defending Putin ties",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Diplomacia",
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "944d9ff3f86b799a38ef",
-          "titulo_original": "Trump accuses Iran of dishonesty while defending Putin ties",
-          "titulo_es": "Trump acusa a Irán de deshonestidad mientras defiende los lazos de Putin",
-          "url": "https://www.euronews.com/2026/11/20/trump-accuses-iran-of-dishonesty-while-defending-putin-ties",
-          "fuente": "Euronews",
-          "pais": "Unión Europea",
-          "fecha": "2026-11-20T18:55:06+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Speaking at a White House press conference on Friday, Trump defended his ties with Xi and Putin, called for a \"real deal\" with Iran and claimed the Russian leader wanted to end the war in Ukraine through diplomacy.",
-          "resumen_es": "Hablando en una conferencia de prensa de la Casa Blanca el viernes, Trump defendió sus vínculos con Xi y Putin, pidió un \"acuerdo real\" con Irán y afirmó que el líder ruso quería terminar la guerra en Ucrania a través de la diplomacia."
-        }
-      ],
-      "fuentes": [
-        "Euronews"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "Rusia",
-        "Ucrania",
-        "Irán"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos, Irán, Rusia, Ucrania",
-        "Ámbito: Diplomacia, Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6276,98 +6227,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-aefac9001402d3f1bb90",
-      "fecha": "2026-11-20",
-      "titulo_fuente": "Trump believes Russia, China, US need to reduce their nuclear arsenals",
-      "region": "China",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "aefac9001402d3f1bb90",
-          "titulo_original": "Trump believes Russia, China, US need to reduce their nuclear arsenals",
-          "titulo_es": "Trump cree que Rusia, China, Estados Unidos necesitan reducir sus arsenales nucleares",
-          "url": "https://tass.com/world/2222721",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-20T18:54:57+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "From the US president's perspective, nuclear reduction is necessary, and Moscow, Washington, and Beijing bear a special responsibility as the largest nuclear powers",
-          "resumen_es": "Desde la perspectiva del presidente estadounidense, es necesaria la reducción nuclear, y Moscú, Washington y Beijing tienen una responsabilidad especial como las mayores potencias nucleares"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "China",
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: China, Estados Unidos, Rusia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-5c6b853216a836f3f672",
-      "fecha": "2026-11-20",
-      "titulo_fuente": "Trump says China agreed to trilateral despite reluctance, notes nuclear gap",
-      "region": "China",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "5c6b853216a836f3f672",
-          "titulo_original": "Trump says China agreed to trilateral despite reluctance, notes nuclear gap",
-          "titulo_es": "Trump dice que China aceptó trilateral a pesar de la renuencia, señala la brecha nuclear",
-          "url": "https://www.scmp.com/news/us/diplomacy/article/3375296/trump-says-china-agreed-trilateral-despite-reluctance-notes-nuclear-gap",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-11-20T18:54:33+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "US President Donald Trump said on Friday that China had agreed to hold trilateral nuclear risk-reduction talks for the first time despite earlier reluctance, as he acknowledged the wide gap between Beijing’s arsenal and the much larger stockpiles held by the US and Russia. “They didn’t want to do that because China ... is way behind,” Trump said in a press conference at the White House. “We have estimates of 4,000 nuclear weapons. Russia’s second",
-          "resumen_es": "El presidente estadounidense Donald Trump dijo el viernes que China había acordado celebrar conversaciones trilaterales de reducción del riesgo nuclear por primera vez a pesar de la renuencia anterior, ya que reconoció la amplia brecha entre el arsenal de Beijing y el stoc mucho mayor"
-        }
-      ],
-      "fuentes": [
-        "South China Morning Post"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "China",
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: China, Estados Unidos, Rusia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-2681b8486e6260f1f09b",
       "fecha": "2026-11-21",
       "titulo_fuente": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
@@ -6532,6 +6391,132 @@
       "prioridad_orientativa": 3,
       "motivos_seleccion": [
         "Cobertura de fuentes distintas",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-ffdb8cf18608da8d2afc",
+      "fecha": "2026-11-21",
+      "titulo_fuente": "Video shows Mexican forces capturing 'El Chapo Isidro', FBI most-wanted cartel boss",
+      "region": "Internacional",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "ffdb8cf18608da8d2afc",
+          "titulo_original": "Video shows Mexican forces capturing 'El Chapo Isidro', FBI most-wanted cartel boss",
+          "titulo_es": "El video muestra a las fuerzas mexicanas capturando 'El Chapo Isidro', el jefe de cártel más buscado del FBI",
+          "url": "https://www.euronews.com/2026/11/21/video-shows-mexican-forces-capturing-el-chapo-isidro-fbi-most-wanted-cartel-boss",
+          "fuente": "Euronews",
+          "pais": "Unión Europea",
+          "fecha": "2026-11-21T20:24:17+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Mexican special forces captured drug kingpin Fausto Isidro Meza Flores, known as “Chapo Isidro”, during a raid in Sinaloa, with footage showing soldiers escorting him into an army vehicle.",
+          "resumen_es": "Fuerzas especiales mexicanas capturaron al rey de la droga Fausto Isidro Meza Flores, conocido como “Chapo Isidro”, durante una redada en Sinaloa, con imágenes que mostraban soldados escoltarlo en un vehículo militar."
+        }
+      ],
+      "fuentes": [
+        "Euronews"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-38cd7bfaebff09689f5e",
+      "fecha": "2026-11-21",
+      "titulo_fuente": "French police officers jailed for racist violence against black man in landmark ruling",
+      "region": "Internacional",
+      "temas": [
+        "Energía y clima"
+      ],
+      "noticias": [
+        {
+          "id": "38cd7bfaebff09689f5e",
+          "titulo_original": "French police officers jailed for racist violence against black man in landmark ruling",
+          "titulo_es": "Policías franceses encarcelados por violencia racista contra el hombre negro en sentencia histórica",
+          "url": "https://www.scmp.com/news/world/europe/article/3375350/french-police-officers-jailed-racist-violence-against-black-man-landmark-ruling",
+          "fuente": "South China Morning Post",
+          "pais": "Hong Kong",
+          "fecha": "2026-11-21T20:22:55+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The lawyer for a black man who was beaten up by three French police officers hailed a “historic ruling” on Saturday after a court acknowledged the racist nature of the violence and sentenced them to between one and two years in prison. The assault on Michel Zecler, a music producer, took place six years ago during the coronavirus pandemic and was caught on camera. It showed the officers repeatedly punching him, using a truncheon and tear gas agai",
+          "resumen_es": "The lawyer for a black man who was beaten up by three French police officers hailed a “historic ruling” on Saturday after a court acknowledged the racist nature of the violence and sentenced them to between one and two years in prison. El"
+        }
+      ],
+      "fuentes": [
+        "South China Morning Post"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia y gobernanza global",
+        "pregunta": "¿Cómo se distribuyen los costos de coordinación y los incentivos para cooperar?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Energía y clima"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-2f84e53fe84f8f08cc44",
+      "fecha": "2026-11-21",
+      "titulo_fuente": "Why is the US Army detonating lead-rich explosives in Iowa?",
+      "region": "Internacional",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "2f84e53fe84f8f08cc44",
+          "titulo_original": "Why is the US Army detonating lead-rich explosives in Iowa?",
+          "titulo_es": "¿Por qué el ejército estadounidense detona explosivos ricos en plomo en Iowa?",
+          "url": "https://www.aljazeera.com/news/2026/11/21/why-is-the-us-army-detonating-lead-rich-explosives-in-iowa?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-21T20:15:13+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The delayed blasts have stoked environmental fears and concerns about health effects in the state.",
+          "resumen_es": "Las explosiones retardadas han afectado los temores ambientales y las preocupaciones sobre los efectos de la salud en el estado."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
         "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",

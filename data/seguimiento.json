@@ -1,13 +1,13 @@
 {
-  "actualizado_utc": "2026-11-21T20:11:13.784064+00:00",
+  "actualizado_utc": "2026-11-21T20:42:24.165574+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
       "cantidad_archivada": 2999,
-      "nuevas_24h": 81,
-      "anteriores_24h": 109,
+      "nuevas_24h": 75,
+      "anteriores_24h": 110,
       "dias_con_registros": 37,
       "fecha_ultima": "2026-11-21T20:00:01+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -259,7 +259,7 @@
       "titulo": "India y Asia-Pacífico",
       "cantidad_archivada": 2041,
       "nuevas_24h": 59,
-      "anteriores_24h": 68,
+      "anteriores_24h": 67,
       "dias_con_registros": 37,
       "fecha_ultima": "2026-11-21T17:21:10+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -510,8 +510,8 @@
       "id": "oriente-medio",
       "titulo": "Oriente Medio: seguridad y diplomacia",
       "cantidad_archivada": 1897,
-      "nuevas_24h": 40,
-      "anteriores_24h": 35,
+      "nuevas_24h": 37,
+      "anteriores_24h": 34,
       "dias_con_registros": 37,
       "fecha_ultima": "2026-11-21T20:00:09+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -761,13 +761,21 @@
     {
       "id": "union-europea",
       "titulo": "Unión Europea y relaciones exteriores",
-      "cantidad_archivada": 788,
-      "nuevas_24h": 15,
+      "cantidad_archivada": 789,
+      "nuevas_24h": 16,
       "anteriores_24h": 20,
       "dias_con_registros": 37,
-      "fecha_ultima": "2026-11-21T15:21:00+00:00",
+      "fecha_ultima": "2026-11-21T20:25:31+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "d4ed89049228aee06d68",
+          "fecha": "2026-11-21T20:25:31+00:00",
+          "titulo": "At least 144 detained across France during protests against rising prices — ministry",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2222941",
+          "traducida": false
+        },
         {
           "id": "739bc21ac5c650a6ea24",
           "fecha": "2026-11-21T15:21:00+00:00",
@@ -999,14 +1007,6 @@
           "fuente": "South China Morning Post",
           "url": "https://www.scmp.com/news/world/europe/article/3375289/uk-eu-seal-food-and-youth-deals-are-stuck-tuition-fees",
           "traducida": false
-        },
-        {
-          "id": "49cf9a40a017a2dff58b",
-          "fecha": "2026-11-20T14:30:00+00:00",
-          "titulo": "EU and UK strike 'landmark deal' to strengthen ties after Brexit",
-          "fuente": "Deutsche Welle",
-          "url": "https://www.dw.com/en/eu-and-uk-strike-landmark-deal-to-strengthen-ties-after-brexit/a-80001076?maca=en-rss-en-world-4025-rdf",
-          "traducida": false
         }
       ]
     },
@@ -1014,7 +1014,7 @@
       "id": "eeuu-china",
       "titulo": "Competencia estratégica Estados Unidos–China",
       "cantidad_archivada": 360,
-      "nuevas_24h": 15,
+      "nuevas_24h": 12,
       "anteriores_24h": 24,
       "dias_con_registros": 34,
       "fecha_ultima": "2026-11-21T12:57:36+00:00",
