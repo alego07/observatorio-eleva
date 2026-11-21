@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-11-21T19:41:56.130032+00:00",
+  "created_utc": "2026-11-21T20:11:13.734561+00:00",
   "events": [
     {
       "id": "a-a888f1d182f6c5f882f0",
@@ -653,6 +653,52 @@
       "motivos_seleccion": [
         "Actores relevantes: Perú",
         "Mención expresa al Perú"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-3edd1c954536ccad374a",
+      "fecha": "2026-11-21",
+      "titulo_fuente": "Finnish military sees likely Ukrainian involvement in attack on Russian ship in Baltic Sea",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "3edd1c954536ccad374a",
+          "titulo_original": "Finnish military sees likely Ukrainian involvement in attack on Russian ship in Baltic Sea",
+          "titulo_es": "El ejército finlandés considera probable que Ucrania participe en el ataque contra el buque ruso en el Mar Báltico",
+          "url": "https://tass.com/world/2222939",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-21T20:00:01+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Finnish Defense Forces Director of Communications Colonel Aki-Mauri Huhtinen added that it was not immediately clear why the ship was targeted",
+          "resumen_es": "El Director de Comunicaciones de las Fuerzas de Defensa de Finlandia, el Coronel Aki-Mauri Huhtinen, agregó que no estaba claro de inmediato por qué el buque fue blanco"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Rusia",
+        "Ucrania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia, Ucrania",
+        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6322,51 +6368,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-6a40f5649735f683f2d0",
-      "fecha": "2026-11-20",
-      "titulo_fuente": "‘Worth fighting for’: senators vow to restore financial watchdog agency after Guardian investigation",
-      "region": "Estados Unidos",
-      "temas": [
-        "Comercio y finanzas"
-      ],
-      "noticias": [
-        {
-          "id": "6a40f5649735f683f2d0",
-          "titulo_original": "‘Worth fighting for’: senators vow to restore financial watchdog agency after Guardian investigation",
-          "titulo_es": "“Pelea por la Tierra”: los senadores prometen restaurar la agencia de vigilancia financiera después de la investigación de Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/nov/20/senators-consumer-financial-protection-bureau",
-          "fuente": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-20T18:51:16+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Democrats – including incoming banking chair and both majority leader candidates – said wealthy interests were prioritized over the needs of working Americans In response to a Guardian investigation , four US Senate Democrats say they will work to resurrect a financial watchdog agency that has abandoned dozens of enforcement actions under the second Trump administration . The Guardian found that after the Consumer Financial Protection Bureau (CFP",
-          "resumen_es": "Los demócratas – incluyendo la presidencia bancaria entrante y los dos candidatos líderes de la mayoría – dijeron que los intereses ricos se priorizaron sobre las necesidades de los estadounidenses trabajadores En respuesta a una investigación de Guardian, cuatro demócratas del Senado de Estados Unidos dicen que ellos dirán que"
-        }
-      ],
-      "fuentes": [
-        "The Guardian"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia compleja y economía política internacional",
-        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos",
-        "Ámbito: Comercio y finanzas"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-2681b8486e6260f1f09b",
       "fecha": "2026-11-21",
       "titulo_fuente": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
@@ -6531,6 +6532,134 @@
       "prioridad_orientativa": 3,
       "motivos_seleccion": [
         "Cobertura de fuentes distintas",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-94fa5f97bf0fa86b85f9",
+      "fecha": "2026-11-21",
+      "titulo_fuente": "Israël : Gadi Eisenkot invite le parti de Benyamin Nétanyahou à des négociations de coalition",
+      "region": "Internacional",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "94fa5f97bf0fa86b85f9",
+          "titulo_original": "Israël : Gadi Eisenkot invite le parti de Benyamin Nétanyahou à des négociations de coalition",
+          "titulo_es": "",
+          "url": "https://www.lemonde.fr/international/article/2026/11/21/israel-gadi-eisenkot-invite-le-parti-de-benyamin-netanyahou-a-des-negociations-de-coalition_6814066_3210.html",
+          "fuente": "Le Monde",
+          "pais": "Francia",
+          "fecha": "2026-11-21T20:00:09+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "M. Eisenkot a jusqu’au mois prochain pour former un gouvernement, à la suite des législatives de la fin d’octobre, qui n’ont dégagé aucune majorité absolue, ni pour son camp ni pour celui du premier ministre sortant.",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "Le Monde"
+      ],
+      "actores_mencionados": [
+        "Israel"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Israel"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-05897400d4bb67d7091f",
+      "fecha": "2026-11-21",
+      "titulo_fuente": "Jair Bolsonaro, ancien président du Brésil, à nouveau hospitalisé en soins intensifs pour une occlusion intestinale",
+      "region": "Internacional",
+      "temas": [
+        "Organismos multilaterales"
+      ],
+      "noticias": [
+        {
+          "id": "05897400d4bb67d7091f",
+          "titulo_original": "Jair Bolsonaro, ancien président du Brésil, à nouveau hospitalisé en soins intensifs pour une occlusion intestinale",
+          "titulo_es": "",
+          "url": "https://www.lemonde.fr/international/article/2026/11/21/jair-bolsonaro-ancien-president-du-bresil-a-nouveau-hospitalise-en-soins-intensifs-pour-une-occlusion-intestinale_6814064_3210.html",
+          "fuente": "Le Monde",
+          "pais": "Francia",
+          "fecha": "2026-11-21T19:43:21+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Placé en résidence surveillée après avoir été condamné pour tentative de coup d’Etat, l’ancien chef d’Etat d’extrême droite souffre de séquelles d’un coup de couteau au ventre reçu pendant la campagne électorale de 2018, et a été opéré à plusieurs reprises.",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "Le Monde"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Institucionalismo liberal",
+        "pregunta": "¿Qué reglas, mecanismos de cooperación y límites institucionales afectan la decisión?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Organismos multilaterales"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-956b826fff8151702832",
+      "fecha": "2026-11-21",
+      "titulo_fuente": "Man charged with attempted murder after councillor stabbed in Bradford",
+      "region": "Internacional",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "956b826fff8151702832",
+          "titulo_original": "Man charged with attempted murder after councillor stabbed in Bradford",
+          "titulo_es": "Hombre acusado de intento de asesinato después de que el concejal apuñaló en Bradford",
+          "url": "https://www.theguardian.com/uk-news/2026/nov/21/man-charged-with-attempted-after-councillor-stabbed-in-bradford",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-21T19:42:42+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Arfan Ali, 31, has also been charged with assault and possession of an offensive weapon in a public place A man has been charged with attempted murder after a local councillor was stabbed while working in the community in Bradford, police have said. Arfan Ali, 32, is accused of attacking Ibrar Ali, 52, at about 11am on Thursday in the West Yorkshire city. Continue reading...",
+          "resumen_es": "Arfan Ali, 31, también ha sido acusado de asalto y posesión de un arma ofensiva en un lugar público Un hombre ha sido acusado de intento de asesinato después de que un concejal local fue apuñalado mientras trabajaba en la comunidad en Bradford, policía h"
+        }
+      ],
+      "fuentes": [
+        "The Guardian"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
         "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
@@ -6853,73 +6982,29 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-a2f798f91c8dd84ccb03",
+      "id": "a-dd19195c27afeb581ec6",
       "fecha": "2026-11-21",
-      "titulo_fuente": "FIDE slams Carlsen over “lack of respect,” refers him to Ethics Panel for Total Chess forfeits - The Indian Express",
-      "region": "Asia-Pacífico",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "a2f798f91c8dd84ccb03",
-          "titulo_original": "FIDE slams Carlsen over “lack of respect,” refers him to Ethics Panel for Total Chess forfeits - The Indian Express",
-          "titulo_es": "FIDE golpea a Carlsen por “falta de respeto”, lo remite al Panel de Ética para el Ajedrez Total - El Expreso Indio",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRlBSaEg2ZDB2TlFXVXJzOVpYRlc2akpMYml5eERwX2JXa2dfc3pFV29XbU8xaXdWVHBGLVhrSy11SzNTcnJMRU0yNmhiMTF1YlhfMmdhVllXQXFhVnpGeVBtQUNXWThDeVFjUFR5VmNaSElDSjdJaGdEMTlTeWY2X09OOXhVakNRRWpLeVR1Q2g0SThNRzZxNmtwUzZkclkyT0tldkNOMmdRdTNUSjR2TkE0aGLSAbsBQVVfeXFMUEhvQXJwaW9BLXczSEVrSUM2M3NLSUpMcGJ3SGhXUnIwVVBCakdHSjhTa2NaLUI4bnpZTTE3ejZUMXVXOXliMV9NcFdnc2xqVEZFSkJ2VjJ2ZXFOcENHYWRkR2JEVWN5c21ScWotb1VHNjlmUkNQUnFndXZoTHRkY2dZZi15OEdpTDhTOVNqVnZiZDhrSVVhTUJicEFTbGxXeHFtcUlQRFVMRzVGZnBfM2QwalhUUjFhYzhwVQ?oc=5",
-          "fuente": "The Indian Express",
-          "pais": "India",
-          "fecha": "2026-11-21T17:21:10+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "FIDE slams Carlsen over “lack of respect,” refers him to Ethics Panel for Total Chess forfeits The Indian Express",
-          "resumen_es": "FIDE golpea a Carlsen por “falta de respeto”, lo remite al Panel de Ética para el Ajedrez Total The Indian Express"
-        }
-      ],
-      "fuentes": [
-        "The Indian Express"
-      ],
-      "actores_mencionados": [
-        "India"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: India"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-1560084f61bfecdb2cb2",
-      "fecha": "2026-11-21",
-      "titulo_fuente": "New Trump executive order seeks to block federal contractors from talking to Congress - Politico",
+      "titulo_fuente": "Trump directs federal contractors to coordinate with White House on congressional requests for information - CNN",
       "region": "Estados Unidos",
       "temas": [
         "Actualidad"
       ],
       "noticias": [
         {
-          "id": "1560084f61bfecdb2cb2",
-          "titulo_original": "New Trump executive order seeks to block federal contractors from talking to Congress - Politico",
-          "titulo_es": "Nueva orden ejecutiva de Trump busca bloquear a los contratistas federales para hablar con el Congreso - Politico",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9iU1ZEVUNUZzVVWHcwZDZuazAwUk5tcU9RTllRcnlGZkdNbXktc3I1WHBMZ1dhTDlpS0ZWaEh6Q3k1R0xYb01hOUQwenh5QWY3WHJpeEZIcVZ2eUplMnJ4ZjduZmtRWVNsdEtSR3daMDByVEhTTnZiYURpRQ?oc=5",
-          "fuente": "POLITICO US",
+          "id": "dd19195c27afeb581ec6",
+          "titulo_original": "Trump directs federal contractors to coordinate with White House on congressional requests for information - CNN",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQX1JhZV9CWnAwQ1RGWFVRTmN4V05CbUtfcHMwd2NibmtfVFU2X1RENW1ia250c3laOXEwcHhPTThaWWZXMGVzdU1BTUdHcm5lSlhZSktrd3dRbnBfU29YZ1NXbklaZDlWWUI2REdQVFNFYWdiNHlVYlhlc0YzY3MxNTd1cFJ5dzZOYnFYLURmODREM3NhdnlhcFNnMS1YU1NCWEN2UjlrOA?oc=5",
+          "fuente": "CNN",
           "pais": "Estados Unidos",
-          "fecha": "2026-11-21T17:15:00+00:00",
+          "fecha": "2026-11-21T18:02:38+00:00",
           "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "New Trump executive order seeks to block federal contractors from talking to Congress Politico",
-          "resumen_es": "Nuevo orden ejecutivo de Trump busca bloquear a los contratistas federales para hablar con el Congreso Político"
+          "resumen_original": "Trump directs federal contractors to coordinate with White House on congressional requests for information CNN",
+          "resumen_es": ""
         }
       ],
       "fuentes": [
-        "POLITICO US"
+        "CNN"
       ],
       "actores_mencionados": [
         "Estados Unidos"
@@ -6936,90 +7021,6 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Actores relevantes: Estados Unidos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-8e0a3ffbdc53a1546888",
-      "fecha": "2026-11-21",
-      "titulo_fuente": "Junts reclama una nueva ley del padrón con más control a la inmigración irregular",
-      "region": "Internacional",
-      "temas": [
-        "Migración y DD. HH."
-      ],
-      "noticias": [
-        {
-          "id": "8e0a3ffbdc53a1546888",
-          "titulo_original": "Junts reclama una nueva ley del padrón con más control a la inmigración irregular",
-          "titulo_es": "",
-          "url": "https://elpais.com/espana/catalunya/2026-11-21/junts-reclama-una-nueva-ley-del-padron-con-mas-control-a-la-inmigracion-irregular.html",
-          "fuente": "El País",
-          "pais": "España",
-          "fecha": "2026-11-21T17:06:30+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Miriam Nogueras asegura que el articulado está preparado y que se aprobará la próxima legislatura en un acto en Vic",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "El País"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Derecho internacional y constructivismo",
-        "pregunta": "¿Qué normas, identidades y obligaciones internacionales invocan los actores?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Migración y DD. HH."
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-0da13b53e61643bb232a",
-      "fecha": "2026-11-21",
-      "titulo_fuente": "Protestors clash with police in Nantes, Lyon — TV",
-      "region": "Internacional",
-      "temas": [
-        "Energía y clima"
-      ],
-      "noticias": [
-        {
-          "id": "0da13b53e61643bb232a",
-          "titulo_original": "Protestors clash with police in Nantes, Lyon — TV",
-          "titulo_es": "Los manifestantes chocan con la policía en Nantes, Lyon — TV",
-          "url": "https://tass.com/world/2222915",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-21T17:02:34+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Mobile police units used tear gas several times",
-          "resumen_es": "Unidades de policía móviles utilizaron gas lacrimógeno varias veces"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia y gobernanza global",
-        "pregunta": "¿Cómo se distribuyen los costos de coordinación y los incentivos para cooperar?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Energía y clima"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
