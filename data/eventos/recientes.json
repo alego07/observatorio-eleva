@@ -1,68 +1,6 @@
 {
-  "created_utc": "2026-11-21T18:18:25.332909+00:00",
+  "created_utc": "2026-11-21T19:41:56.130032+00:00",
   "events": [
-    {
-      "id": "a-8b8003163ed7efa05bd0",
-      "fecha": "2026-11-20",
-      "titulo_fuente": "Trump dubs talks with Putin, Xi ‘summit of three’",
-      "region": "Estados Unidos",
-      "temas": [
-        "Diplomacia"
-      ],
-      "noticias": [
-        {
-          "id": "8b8003163ed7efa05bd0",
-          "titulo_original": "Trump dubs talks with Putin, Xi ‘summit of three’",
-          "titulo_es": "Trump Dubs habla con Putin, Xi ‘summit of three ’",
-          "url": "https://tass.com/world/2222729",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-20T19:41:51+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "In four days, he also met more than 20 world leaders, US President added",
-          "resumen_es": "En cuatro días, también se reunió con más de 20 líderes mundiales, agregó el presidente estadounidense"
-        },
-        {
-          "id": "867429a32a9dd663c3a9",
-          "titulo_original": "Three to tango: On Trump, Xi, Putin trilateral summit",
-          "titulo_es": "Tres al tango: Sobre Trump, Xi, Cumbre trilateral Putin",
-          "url": "https://www.thehindu.com/opinion/editorial/three-to-tango-on-trump-xi-putin-trilateral-summit/article71725845.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-11-20T18:22:45+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "U.S., China, Russia must draw up a roadmap for talks on nuclear weapons",
-          "resumen_es": "Estados Unidos, China, Rusia debe elaborar una hoja de ruta para las conversaciones sobre armas nucleares"
-        }
-      ],
-      "fuentes": [
-        "TASS",
-        "The Hindu"
-      ],
-      "actores_mencionados": [
-        "China",
-        "Estados Unidos",
-        "Rusia"
-      ],
-      "fuentes_independientes": 2,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 9,
-      "motivos_seleccion": [
-        "Cobertura de fuentes distintas",
-        "Actores relevantes: China, Estados Unidos, Rusia",
-        "Ámbito: Diplomacia",
-        "Posible decisión institucional o negociación"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
     {
       "id": "a-a888f1d182f6c5f882f0",
       "fecha": "2026-11-21",
@@ -523,6 +461,53 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-8b8003163ed7efa05bd0",
+      "fecha": "2026-11-20",
+      "titulo_fuente": "Trump dubs talks with Putin, Xi ‘summit of three’",
+      "region": "Estados Unidos",
+      "temas": [
+        "Diplomacia"
+      ],
+      "noticias": [
+        {
+          "id": "8b8003163ed7efa05bd0",
+          "titulo_original": "Trump dubs talks with Putin, Xi ‘summit of three’",
+          "titulo_es": "Trump Dubs habla con Putin, Xi ‘summit of three ’",
+          "url": "https://tass.com/world/2222729",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-20T19:41:51+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "In four days, he also met more than 20 world leaders, US President added",
+          "resumen_es": "En cuatro días, también se reunió con más de 20 líderes mundiales, agregó el presidente estadounidense"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Rusia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 8,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos, Rusia",
+        "Ámbito: Diplomacia",
+        "Posible decisión institucional o negociación"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-739bc21ac5c650a6ea24",
       "fecha": "2026-11-21",
       "titulo_fuente": "EU and Indonesia sign trade deal",
@@ -673,61 +658,93 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-c28e29ed6b1b723cce0f",
-      "fecha": "2026-11-20",
-      "titulo_fuente": "Princeton PhD student from China detained by ICE after US academic conference",
-      "region": "China",
+      "id": "a-a9bb7c6e29da205c76d2",
+      "fecha": "2026-11-21",
+      "titulo_fuente": "Russia-bound ship attacked in Gulf of Finland",
+      "region": "Rusia-Ucrania",
       "temas": [
-        "Migración y DD. HH."
+        "Seguridad y conflictos"
       ],
       "noticias": [
         {
-          "id": "c28e29ed6b1b723cce0f",
-          "titulo_original": "Princeton PhD student from China detained by ICE after US academic conference",
-          "titulo_es": "",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3375301/princeton-phd-student-china-detained-ice-after-academic-conference",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-11-20T22:35:43+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "A Chinese PhD student at Princeton University, New Jersey, was detained by US Immigration and Customs Enforcement (ICE) on Thursday after presenting her research at a neuroscience conference in Washington, the South China Morning Post has confirmed. Eva Yi Xie, a third-year neuroscience student, was detained at Ronald Reagan National Airport in Washington while travelling home from the Society for Neuroscience’s annual meeting, according to a pos",
-          "resumen_es": ""
-        },
-        {
-          "id": "d2be080f2cf061bb0e28",
-          "titulo_original": "Princeton doctoral student reportedly detained by ICE on way back from conference",
-          "titulo_es": "",
-          "url": "https://www.theguardian.com/us-news/2026/nov/20/princeton-doctoral-student-reportedly-detained-ice",
-          "fuente": "The Guardian",
+          "id": "a9bb7c6e29da205c76d2",
+          "titulo_original": "Russia-bound ship attacked in Gulf of Finland",
+          "titulo_es": "Nave con destino a Rusia atacada en el Golfo de Finlandia",
+          "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News",
           "pais": "Reino Unido",
-          "fecha": "2026-11-20T18:33:17+00:00",
+          "fecha": "2026-11-21T19:20:22+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Eva Yi Xie was taken into custody at Washington DC airport after presenting research at neuroscience conference A Princeton University doctoral student has reportedly been taken into custody by US Immigration and Customs Enforcement (ICE) after traveling to Washington DC, for a neuroscience conference. Eva Yi Xie, a third-year PhD candidate at the Princeton Neuroscience Institute, was detained Thursday at a Washington-area airport, according to u",
-          "resumen_es": ""
+          "resumen_original": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+          "resumen_es": "Las fuerzas de defensa finlandesas dicen que Ucrania probablemente estaba detrás del ataque de drones contra el buque."
         }
       ],
       "fuentes": [
-        "South China Morning Post",
-        "The Guardian"
+        "BBC News"
       ],
       "actores_mencionados": [
-        "China",
-        "Estados Unidos"
+        "Rusia",
+        "Ucrania"
       ],
-      "fuentes_independientes": 2,
+      "fuentes_independientes": 1,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
-        "nombre": "Derecho internacional y constructivismo",
-        "pregunta": "¿Qué normas, identidades y obligaciones internacionales invocan los actores?"
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
       },
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 7,
+      "prioridad_orientativa": 6,
       "motivos_seleccion": [
-        "Cobertura de fuentes distintas",
-        "Actores relevantes: China, Estados Unidos",
-        "Ámbito: Migración y DD. HH."
+        "Actores relevantes: Rusia, Ucrania",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-b88fc17e001e85b61897",
+      "fecha": "2026-11-21",
+      "titulo_fuente": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "b88fc17e001e85b61897",
+          "titulo_original": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
+          "titulo_es": "Ataque mortal en Kiev mientras Rusia lanza bombardeo contra Ucrania",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-21T18:42:38+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Russia launched more than 400 drones and 110 missiles across Ukraine overnight, killing at least seven in Kyiv.",
+          "resumen_es": "Rusia lanzó más de 400 drones y 110 misiles a través de Ucrania durante la noche, matando al menos siete en Kiev."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [
+        "Rusia",
+        "Ucrania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia, Ucrania",
+        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -2256,6 +2273,52 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-c28e29ed6b1b723cce0f",
+      "fecha": "2026-11-20",
+      "titulo_fuente": "Princeton PhD student from China detained by ICE after US academic conference",
+      "region": "China",
+      "temas": [
+        "Migración y DD. HH."
+      ],
+      "noticias": [
+        {
+          "id": "c28e29ed6b1b723cce0f",
+          "titulo_original": "Princeton PhD student from China detained by ICE after US academic conference",
+          "titulo_es": "",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3375301/princeton-phd-student-china-detained-ice-after-academic-conference",
+          "fuente": "South China Morning Post",
+          "pais": "Hong Kong",
+          "fecha": "2026-11-20T22:35:43+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "A Chinese PhD student at Princeton University, New Jersey, was detained by US Immigration and Customs Enforcement (ICE) on Thursday after presenting her research at a neuroscience conference in Washington, the South China Morning Post has confirmed. Eva Yi Xie, a third-year neuroscience student, was detained at Ronald Reagan National Airport in Washington while travelling home from the Society for Neuroscience’s annual meeting, according to a pos",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "South China Morning Post"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "China"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Derecho internacional y constructivismo",
+        "pregunta": "¿Qué normas, identidades y obligaciones internacionales invocan los actores?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: China, Estados Unidos",
+        "Ámbito: Migración y DD. HH."
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-306f510432c6b65237ce",
       "fecha": "2026-11-20",
       "titulo_fuente": "Can China’s top-down military adapt to the speed of AI and drone warfare?",
@@ -2865,193 +2928,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-7ed20ab175aa9adf2fe3",
-      "fecha": "2026-11-20",
-      "titulo_fuente": "Protestos estudantis eclodem em toda a Europa com diversos temas",
-      "region": "Estados Unidos",
-      "temas": [
-        "Seguridad y conflictos",
-        "Comercio y finanzas"
-      ],
-      "noticias": [
-        {
-          "id": "7ed20ab175aa9adf2fe3",
-          "titulo_original": "Protestos estudantis eclodem em toda a Europa com diversos temas",
-          "titulo_es": "Protestas estudiantiles eclodem en toda Europa con diversos temas",
-          "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/protestos-estudantis-eclodem-em-toda-europa",
-          "fuente": "Agência Brasil (EBC)",
-          "pais": "Brasil",
-          "fecha": "2026-11-20T18:33:00+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Uma nova onda de protestos estudantis ocorreu em toda a Europa nesta sexta-feira (20) , inspirada pelas manifestações que abalaram a França, mas de forma muito mais moderada. As reivindicações vão desde a ampliação do financiamento para a educação até justiça climática, passando até mesmo pelo fim do serviço militar obrigatório. Notícias relacionadas: Trabalhadores e estudantes protestam por salários e serviços na Itália. Xi, Trump e Putin sinali",
-          "resumen_es": "Una nueva ola de protestas estudiantiles ocurrió en toda Europa este viernes (20), inspirada por las manifestaciones que sacudieron a Francia, pero de forma mucho más moderada. Las reivindicaciones van desde la ampliación de la financiación para la y"
-        }
-      ],
-      "fuentes": [
-        "Agência Brasil (EBC)"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos, Rusia",
-        "Ámbito: Comercio y finanzas, Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-86b740478c70257fdae1",
-      "fecha": "2026-11-20",
-      "titulo_fuente": "Denmark to expel Russian diplomat over alleged Moscow link to attempted killing of rapper",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Diplomacia",
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "86b740478c70257fdae1",
-          "titulo_original": "Denmark to expel Russian diplomat over alleged Moscow link to attempted killing of rapper",
-          "titulo_es": "Dinamarca expulsa al diplomático ruso sobre el presunto vínculo de Moscú con el intento de asesinato del rapero",
-          "url": "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing",
-          "fuente": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-20T18:16:12+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Russian intelligence thought to be behind plan to kill US-Ukrainian musician Kyivstoner before concert in Denmark Denmark’s foreign minister has said Russia’s defence attache in Copenhagen would be expelled after Moscow was suspected of being behind an attempted killing of a US-Ukrainian rapper. “We have just summoned the Russian ambassador to the ministry of foreign affairs and notified him of the government’s decision to expel the Russian defen",
-          "resumen_es": "La inteligencia rusa pensó estar detrás del plan para matar al músico estadounidense-ucraniano Kyivstoner antes del concierto en Dinamarca El ministro de Relaciones Exteriores de Dinamarca ha dicho que el agregado de la defensa de Rusia en Copenhague sería expulsado después de que Moscú fuera sospechoso de bei"
-        }
-      ],
-      "fuentes": [
-        "The Guardian"
-      ],
-      "actores_mencionados": [
-        "Rusia",
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia, Ucrania",
-        "Ámbito: Diplomacia, Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-03d841194feda677564b",
-      "fecha": "2026-11-20",
-      "titulo_fuente": "Denmark expels Russian diplomat over plot to kill Ukraine rapper",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Diplomacia",
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "03d841194feda677564b",
-          "titulo_original": "Denmark expels Russian diplomat over plot to kill Ukraine rapper",
-          "titulo_es": "Dinamarca expulsa diplomático ruso por conspiración para matar a Ucrania rapero",
-          "url": "https://www.scmp.com/news/world/europe/article/3375295/denmark-expels-russian-diplomat-over-plot-kill-ukraine-rapper",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-11-20T18:14:12+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Denmark’s foreign minister on Friday said Moscow’s defence attache in Copenhagen would be expelled after Russia was suspected of being behind an attempted assassination of a Ukrainian rapper. “We have just summoned the Russian ambassador to the ministry of foreign affairs and notified him of the government’s decision to expel the Russian defence attache from Denmark” within seven days, Lars Lokke Rasmussen told a news conference. “We are saying t",
-          "resumen_es": "El ministro de Relaciones Exteriores de Dinamarca dijo el viernes que el agregado de defensa de Moscú en Copenhague sería expulsado después de que Rusia se sospechaba que estaba detrás de un intento de asesinato de un rapero ucraniano. Acabamos de convocar al embajador ruso"
-        }
-      ],
-      "fuentes": [
-        "South China Morning Post"
-      ],
-      "actores_mencionados": [
-        "Rusia",
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia, Ucrania",
-        "Ámbito: Diplomacia, Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-5a68ee5b6992595e5b69",
-      "fecha": "2026-11-20",
-      "titulo_fuente": "Trump intel chief warned no funding for Musk’s SpaceX without answers on Ukraine Starshield slowdown - CNN",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "5a68ee5b6992595e5b69",
-          "titulo_original": "Trump intel chief warned no funding for Musk’s SpaceX without answers on Ukraine Starshield slowdown - CNN",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1NVVhZRExTWWpGYWVac3VkQ3Bsa2dpNndVUnV3NzFmV08zbFNlTUhodUNHcFQwYU1tdDRfT3RwX2Ntd1EtU096ME80cXhHSUhyRGU3SWpVMS1lb01NRkNWNWJwcWJCVUJ5Vk8yOGE2VTZxamVNZjVMeVhCOA?oc=5",
-          "fuente": "CNN",
-          "pais": "Estados Unidos",
-          "fecha": "2026-11-20T18:09:10+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Trump intel chief warned no funding for Musk’s SpaceX without answers on Ukraine Starshield slowdown CNN",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "CNN"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos, Ucrania",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-98d53eeacb1b1f0964e4",
       "fecha": "2026-11-21",
       "titulo_fuente": "Israeli strike hits food aid vehicle in Gaza, killing three",
@@ -3183,60 +3059,91 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-7aff2bed36729fe7cd2c",
+      "id": "a-45bdbdf92773dcd1b8bd",
       "fecha": "2026-11-21",
-      "titulo_fuente": "Second judge blocks construction of Trump's massive 'triumphal arch'",
-      "region": "Estados Unidos",
+      "titulo_fuente": "Russian embassy slams blocking of GFCN Google account as censorship",
+      "region": "Rusia-Ucrania",
       "temas": [
-        "Seguridad y conflictos"
+        "Diplomacia"
       ],
       "noticias": [
         {
-          "id": "7aff2bed36729fe7cd2c",
-          "titulo_original": "Second judge blocks construction of Trump's massive 'triumphal arch'",
-          "titulo_es": "",
-          "url": "https://www.euronews.com/2026/11/21/second-judge-blocks-construction-of-trumps-massive-triumphal-arch",
-          "fuente": "Euronews",
-          "pais": "Unión Europea",
-          "fecha": "2026-11-21T08:01:28+00:00",
+          "id": "45bdbdf92773dcd1b8bd",
+          "titulo_original": "Russian embassy slams blocking of GFCN Google account as censorship",
+          "titulo_es": "La embajada rusa bloquea la cuenta de GFCN Google como censura",
+          "url": "https://tass.com/economy/2222933",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-21T19:34:38+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Trump, who has embarked on a campaign to remodel Washington since his return to the White House in January 2025, has said the structure would be turned into a \"top grade military complex.\"",
-          "resumen_es": ""
-        },
-        {
-          "id": "508d91ac1eae5ca65a5c",
-          "titulo_original": "Second judge blocks Trump’s triumphal arch, saying it lacks congressional approval - CNN",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Sak5Db1JtQW1xOEl1MnNUMm9UMXZDSUVMQi1ERkRYQ1hmSlZUUW9wdkg5R1BETjJEZktsYU00TGl6Zl9jNWJYSnA2T09xZDMxZTRwNm9PMHpWS21YbkJVZ0RjVGxIN2lfUXNUajVFRGVJbHYwZGpucmZn?oc=5",
-          "fuente": "CNN",
-          "pais": "Estados Unidos",
-          "fecha": "2026-11-20T18:26:03+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Second judge blocks Trump’s triumphal arch, saying it lacks congressional approval CNN",
-          "resumen_es": ""
+          "resumen_original": "The diplomats call on US corporations to uphold the principle of freedom of speech and equal access to critical information infrastructure",
+          "resumen_es": "Los diplomáticos piden a las corporaciones estadounidenses que respeten el principio de libertad de expresión e igualdad de acceso a la infraestructura de información crítica"
         }
       ],
       "fuentes": [
-        "CNN",
-        "Euronews"
+        "TASS"
       ],
       "actores_mencionados": [
-        "Estados Unidos"
+        "Rusia"
       ],
-      "fuentes_independientes": 2,
+      "fuentes_independientes": 1,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
       },
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 5,
+      "prioridad_orientativa": 4,
       "motivos_seleccion": [
-        "Cobertura de fuentes distintas",
-        "Actores relevantes: Estados Unidos",
-        "Ámbito: Seguridad y conflictos"
+        "Actores relevantes: Rusia",
+        "Ámbito: Diplomacia"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-53f89b450baf132a1db1",
+      "fecha": "2026-11-21",
+      "titulo_fuente": "Iran opposes all forms of WMD, but US became a real threat — lawmaker",
+      "region": "Oriente Medio",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "53f89b450baf132a1db1",
+          "titulo_original": "Iran opposes all forms of WMD, but US became a real threat — lawmaker",
+          "titulo_es": "Irán se opone a todas las formas de DMO, pero Estados Unidos se convirtió en una amenaza real — legislador",
+          "url": "https://tass.com/world/2222925",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-21T18:42:45+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Abolfazl Zohrevand called US President Donald Trump’s remarks about wanting to wipe the Islamic Republic off the face of the Earth unacceptable",
+          "resumen_es": "Abolfazl Zohrevand llamó los comentarios del presidente estadounidense Donald Trump sobre querer borrar la República Islámica de la faz de la Tierra inaceptable"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Irán"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos, Irán"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -3282,6 +3189,51 @@
       "motivos_seleccion": [
         "Actores relevantes: Irán",
         "Ámbito: Diplomacia"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-4369b94f32d9bf93eba3",
+      "fecha": "2026-11-21",
+      "titulo_fuente": "Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons",
+      "region": "Oriente Medio",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "4369b94f32d9bf93eba3",
+          "titulo_original": "Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons",
+          "titulo_es": "Trump dice que quiere un acuerdo ‘permanente’ para detener a Irán con armas nucleares",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-clip-trump-iran-permanent-nuclear-deal?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-21T18:05:51+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "US President Donald Trump says he wants a permanent agreement to prevent Iran from developing nuclear weapons.",
+          "resumen_es": "El presidente estadounidense Donald Trump dice que quiere un acuerdo permanente para impedir que Irán desarrolle armas nucleares."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Irán"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos, Irán"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -4691,6 +4643,51 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-7aff2bed36729fe7cd2c",
+      "fecha": "2026-11-21",
+      "titulo_fuente": "Second judge blocks construction of Trump's massive 'triumphal arch'",
+      "region": "Estados Unidos",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "7aff2bed36729fe7cd2c",
+          "titulo_original": "Second judge blocks construction of Trump's massive 'triumphal arch'",
+          "titulo_es": "",
+          "url": "https://www.euronews.com/2026/11/21/second-judge-blocks-construction-of-trumps-massive-triumphal-arch",
+          "fuente": "Euronews",
+          "pais": "Unión Europea",
+          "fecha": "2026-11-21T08:01:28+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Trump, who has embarked on a campaign to remodel Washington since his return to the White House in January 2025, has said the structure would be turned into a \"top grade military complex.\"",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "Euronews"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-062abb3b013481083602",
       "fecha": "2026-11-21",
       "titulo_fuente": "Iran actually no longer NPT member after strikes on its nuclear facilities — MP",
@@ -5320,6 +5317,51 @@
       "prioridad_orientativa": 4,
       "motivos_seleccion": [
         "Actores relevantes: Rusia, Ucrania"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-d18ed84a3edc8af2aeaa",
+      "fecha": "2026-11-21",
+      "titulo_fuente": "NYT reporter: Alice Huang’s family has deep ties to China’s defense industry - CNN",
+      "region": "China",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "d18ed84a3edc8af2aeaa",
+          "titulo_original": "NYT reporter: Alice Huang’s family has deep ties to China’s defense industry - CNN",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbkt5c2dzZGEtZUUyNVg3REx0dWhUZVppb3Q5Uy1IeGFVSi1OTHE0b0doZlpCRWtpN2J5VVBiSVItTkJnM2VEZmw2akF4YU94YUdYSGZCODFBY0xOTmRrYms2U3ptOEstLVI4OGRBTHFCZUxoM19iWVZDYzZYSTRUV3FBaGQyTm9QVHptTDdoQTBuck9saV9F?oc=5",
+          "fuente": "CNN",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-21T01:02:50+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "NYT reporter: Alice Huang’s family has deep ties to China’s defense industry CNN",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "CNN"
+      ],
+      "actores_mencionados": [
+        "China"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: China",
+        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6325,142 +6367,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-9308a94234c332a16209",
-      "fecha": "2026-11-20",
-      "titulo_fuente": "Ukraine strikes Kerch Bridge as Putin ally declares ‘no one needs Europe’",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "9308a94234c332a16209",
-          "titulo_original": "Ukraine strikes Kerch Bridge as Putin ally declares ‘no one needs Europe’",
-          "titulo_es": "Ucrania golpea a Kerch Bridge como Putin Ally declara “ninguno necesita Europa”",
-          "url": "https://www.aljazeera.com/news/2026/11/20/ukraine-strikes-kerch-bridge-as-putin-ally-declares-no-one-needs?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-11-20T18:37:35+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Russia-Europe tensions rise as Ukraine uses its own weapons and communications tech to hit the Kerch Bridge.",
-          "resumen_es": "Las tensiones entre Rusia y Europa aumentan a medida que Ucrania utiliza sus propias armas y tecnología de comunicaciones para golpear el puente Kerch."
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera"
-      ],
-      "actores_mencionados": [
-        "Rusia",
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia, Ucrania"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-501aa680820797250e95",
-      "fecha": "2026-11-20",
-      "titulo_fuente": "Minerais critiques : au Kenya, un consortium américain met la main sur un site prometteur",
-      "region": "Estados Unidos",
-      "temas": [
-        "Comercio y finanzas",
-        "Organismos multilaterales"
-      ],
-      "noticias": [
-        {
-          "id": "501aa680820797250e95",
-          "titulo_original": "Minerais critiques : au Kenya, un consortium américain met la main sur un site prometteur",
-          "titulo_es": "",
-          "url": "https://www.lemonde.fr/afrique/article/2026/11/20/minerais-critiques-au-kenya-un-consortium-americain-met-la-main-sur-un-site-prometteur_6813689_3212.html",
-          "fuente": "Le Monde",
-          "pais": "Francia",
-          "fecha": "2026-11-20T18:00:27+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Le ministère des mines kényan a choisi, jeudi 19 novembre, le consortium Frontier Minerals pour exploiter le site de Mrima Hill. Une victoire pour Washington, qui cherche à pallier la restriction des exportations chinoises en minerais.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Le Monde"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia compleja y economía política internacional",
-        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos",
-        "Ámbito: Comercio y finanzas, Organismos multilaterales"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-beb5859021011bac52d7",
-      "fecha": "2026-11-20",
-      "titulo_fuente": "Ukrainian attacks kills two civilians, injure five others in LPR in past day",
-      "region": "Europa",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "beb5859021011bac52d7",
-          "titulo_original": "Ukrainian attacks kills two civilians, injure five others in LPR in past day",
-          "titulo_es": "Los ataques ucranianos matan a dos civiles, hiriendo a otros cinco en el LPR en el pasado día",
-          "url": "https://tass.com/politics/2222695",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-20T17:59:48+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "According to Leonid Pasechnik, a driver and a freight forwarder were killed in a Ukrainian strike on a truck carrying food along the highway between Lugansk and Shchastye",
-          "resumen_es": "Según Leonid Pasechnik, un conductor y un transportista de mercancías fueron asesinados en una huelga ucraniana en un camión que transportaba comida a lo largo de la carretera entre Lugansk y Shchastye"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Ucrania",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-2681b8486e6260f1f09b",
       "fecha": "2026-11-21",
       "titulo_fuente": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
@@ -6631,47 +6537,34 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-dfe00c059737f8e12fe5",
-      "fecha": "2026-11-20",
-      "titulo_fuente": "Indian man sentenced to 19 years in US Sikh separatist assassination plot",
-      "region": "Asia-Pacífico",
+      "id": "a-8c7d1ba0334b1a2c2f59",
+      "fecha": "2026-11-21",
+      "titulo_fuente": "Powerful explosion heard from sea near Sirik in southern Iran — agency",
+      "region": "Oriente Medio",
       "temas": [
         "Actualidad"
       ],
       "noticias": [
         {
-          "id": "dfe00c059737f8e12fe5",
-          "titulo_original": "Indian man sentenced to 19 years in US Sikh separatist assassination plot",
-          "titulo_es": "Hombre indio sentenciado a 19 años en US Sikh plan de asesinato separatista",
-          "url": "https://www.aljazeera.com/news/2026/11/20/indian-man-sentenced-to-19-years-in-us-sikh-separatist-assassination-plot?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-11-20T19:40:07+00:00",
+          "id": "8c7d1ba0334b1a2c2f59",
+          "titulo_original": "Powerful explosion heard from sea near Sirik in southern Iran — agency",
+          "titulo_es": "Potente explosión oída desde el mar cerca de Sirik en el sur de Irán — agencia",
+          "url": "https://tass.com/world/2222935",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-21T19:38:53+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Nikhil Gupta jailed for conspiring to hire a hitman to kill New York-based Sikh leader, Gurpatwant Singh Pannun.",
-          "resumen_es": "Nikhil Gupta fue encarcelado por conspirar para contratar a un asesino para matar al líder Sikh de Nueva York, Gurpatwant Singh Pannun."
-        },
-        {
-          "id": "0b1a286f76bd34b184f0",
-          "titulo_original": "Indian man sentenced to 19 years in prison for conspiring to kill Sikh separatist in New York",
-          "titulo_es": "Indio condenado a 19 años de prisión por conspirar para matar al separatista Sikh en Nueva York",
-          "url": "https://www.theguardian.com/us-news/2026/nov/20/indian-man-sentenced-prison-murder-plot-sikh-separatist",
-          "fuente": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-20T18:24:12+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Nikhil Gupta admitted to plotting with Indian government official to hire hitman to murder dual US-Canadian citizen An Indian ⁠man was sentenced to more ⁠than 19 ​years in US prison on Friday after admitting to orchestrating a failed Indian government-backed plot to kill a Sikh separatist in New York ⁠City , in connection with what US and Canadian authorities have called a broader effort to target Indian dissidents. Nikhil Gupta, 55, pleaded guil",
-          "resumen_es": "Nikhil Gupta admitió conspirar con el funcionario del gobierno indio para contratar a un asesino ciudadano estadounidense-canadiense Un indio ⁠man fue sentenciado a más de 19 años en la prisión estadounidense el viernes después de admitir orquestar a un indio fallido"
+          "resumen_original": "According to Fars, at least 12 ships have struck sea mines and caught fire in the Strait of Hormuz over het past three days",
+          "resumen_es": "Según Fars, al menos 12 naves han golpeado minas marinas y atrapado fuego en el Estrecho de Hormuz durante tres días"
         }
       ],
       "fuentes": [
-        "Al Jazeera",
-        "The Guardian"
+        "TASS"
       ],
       "actores_mencionados": [
-        "India"
+        "Irán"
       ],
-      "fuentes_independientes": 2,
+      "fuentes_independientes": 1,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
         "nombre": "Marco por determinar",
@@ -6680,10 +6573,237 @@
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 3,
+      "prioridad_orientativa": 2,
       "motivos_seleccion": [
-        "Cobertura de fuentes distintas",
-        "Actores relevantes: India"
+        "Actores relevantes: Irán"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-37adf4667f541fab88b2",
+      "fecha": "2026-11-21",
+      "titulo_fuente": "Jair Bolsonaro, ingresado en cuidados intensivos y sin previsión de alta, pero estable",
+      "region": "América Latina",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "37adf4667f541fab88b2",
+          "titulo_original": "Jair Bolsonaro, ingresado en cuidados intensivos y sin previsión de alta, pero estable",
+          "titulo_es": "",
+          "url": "https://elpais.com/internacional/2026-11-21/jair-bolsonaro-ingresado-en-cuidados-intensivos-y-sin-prevision-de-alta-pero-estable.html",
+          "fuente": "El País",
+          "pais": "España",
+          "fecha": "2026-11-21T19:18:07+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "El expresidente brasileño se encuentra en un hospital de Brasilia por una obstrucción abdominal",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "El País"
+      ],
+      "actores_mencionados": [
+        "Brasil"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Brasil"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-3f04c872cd235eab2f5b",
+      "fecha": "2026-11-21",
+      "titulo_fuente": "Australian neo-Nazis among far-right groups raising hundreds of thousands via global crowdfunding platform",
+      "region": "Estados Unidos",
+      "temas": [
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "3f04c872cd235eab2f5b",
+          "titulo_original": "Australian neo-Nazis among far-right groups raising hundreds of thousands via global crowdfunding platform",
+          "titulo_es": "Los neonazis australianos entre grupos de extrema derecha que elevan cientos de miles a través de la plataforma global de financiación de multitudes",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/22/australian-neo-nazis-among-far-right-groups-raising-hundreds-of-thousands-via-global-crowdfunding-platform-ntwnfb",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-21T19:00:06+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "GiveSendGo has been accused of facilitating the financing of extremism, but the platform says it does not ‘condone racism, discrimination, hate speech, or violence of any kind’ Get our breaking news email , free app or daily news podcast Australian neo-Nazis have raised hundreds of thousands of dollars on the global crowdfunding platform GiveSendGo, which has been accused of facilitating the financing of hate and extremism. Of the 68 Australian f",
+          "resumen_es": "GiveSend Go ha sido acusado de facilitar la financiación del extremismo, pero la plataforma dice que no \"condona el racismo, la discriminación, el discurso de odio o la violencia de ningún tipo\". Obtenga nuestro correo electrónico de noticias de última hora, aplicación gratuita o noticias diarias"
+        }
+      ],
+      "fuentes": [
+        "The Guardian"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia compleja y economía política internacional",
+        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Comercio y finanzas"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-078d4a2ee94f1ba9752d",
+      "fecha": "2026-11-21",
+      "titulo_fuente": "« Même si les démocrates américains enquêtent sur les malversations de Trump et ses proches, il ne se passera rien »",
+      "region": "Estados Unidos",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "078d4a2ee94f1ba9752d",
+          "titulo_original": "« Même si les démocrates américains enquêtent sur les malversations de Trump et ses proches, il ne se passera rien »",
+          "titulo_es": "",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/21/meme-si-les-democrates-americains-enquetent-sur-les-malversations-de-trump-et-ses-proches-il-ne-se-passera-rien_6814061_3232.html",
+          "fuente": "Le Monde",
+          "pais": "Francia",
+          "fecha": "2026-11-21T19:00:02+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Malgré leur victoire aux midterms, les démocrates doivent s’attendre à deux années « peu productives » avant les élections présidentielles de 2028, estime, dans une tribune au « Monde », Anne Deysine, spécialiste des Etats-Unis, qui rappelle qu’ils peuvent néanmoins s’inspirer d’une vieille recette des républicains.",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "Le Monde"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-bef9c0f7b92f6c125b51",
+      "fecha": "2026-11-21",
+      "titulo_fuente": "EN DIRECT, guerre en Ukraine : le point sur l’attaque par drone d’un cargo russe en mer Baltique, la Finlande soupçonne un hélicoptère russe d’avoir violé son espace aérien",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "bef9c0f7b92f6c125b51",
+          "titulo_original": "EN DIRECT, guerre en Ukraine : le point sur l’attaque par drone d’un cargo russe en mer Baltique, la Finlande soupçonne un hélicoptère russe d’avoir violé son espace aérien",
+          "titulo_es": "",
+          "url": "https://www.lemonde.fr/international/live/2026/11/21/en-direct-guerre-en-ukraine-le-point-sur-l-attaque-par-drone-d-un-cargo-russe-en-mer-baltique-la-finlande-soupconne-un-helicoptere-russe-d-avoir-viole-son-espace-aerien_6810982_3210.html",
+          "fuente": "Le Monde",
+          "pais": "Francia",
+          "fecha": "2026-11-21T18:41:34+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "« Cette violation présumée de l’espace aérien pourrait être liée à des opérations de sauvetage ou de surveillance menées à la suite des dommages subis par un navire cargo dans le golfe de Finlande », a déclaré le ministre de la défense finlandais, Antti Häkkänen.",
+          "resumen_es": ""
+        },
+        {
+          "id": "35f2452975b47e81994c",
+          "titulo_original": "EN DIRECT, guerre en Ukraine : la Finlande soupçonne un hélicoptère russe d’être entré dans son espace aérien, quelques heures après une attaque au drone d’un cargo russe en mer Baltique",
+          "titulo_es": "",
+          "url": "https://www.lemonde.fr/international/live/2026/11/21/en-direct-guerre-en-ukraine-la-finlande-soupconne-un-helicoptere-russe-d-etre-entre-dans-son-espace-aerien-quelques-heures-apres-une-attaque-de-drone-sur-un-cargo-russe-en-mer-baltique_6810982_3210.html",
+          "fuente": "Le Monde",
+          "pais": "Francia",
+          "fecha": "2026-11-21T14:35:11+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "« Cette violation présumée de l’espace aérien pourrait être liée à des opérations de sauvetage ou de surveillance menées à la suite des dommages subis par un navire cargo dans le golfe de Finlande », a déclaré le ministre de la défense finlandais, Antti Häkkänen.",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "Le Monde"
+      ],
+      "actores_mencionados": [
+        "Ucrania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Ucrania"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-e29a5c2185e4c6ac1584",
+      "fecha": "2026-11-21",
+      "titulo_fuente": "Suffolk village votes to ‘leave the UK’ over plans to house asylum seekers nearby",
+      "region": "Europa",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "e29a5c2185e4c6ac1584",
+          "titulo_original": "Suffolk village votes to ‘leave the UK’ over plans to house asylum seekers nearby",
+          "titulo_es": "Votos de la aldea de Suffolk para ‘salvar el Reino Unido’ sobre planes para albergar a los solicitantes de asilo cercanos",
+          "url": "https://www.theguardian.com/uk-news/2026/nov/21/suffolk-village-votes-to-leave-the-uk-over-plans-to-house-asylum-seekers-nearby",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-21T18:20:37+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Local MP says legitimate criticisms of asylum housing plans are being co-opted by opposition parties ‘stirring up racial discord’ Residents of a Suffolk village have voted to “leave the UK” in a referendum held in response to government plans to house 930 asylum seekers at a nearby former military base. Approximately 500 people in Barnham were eligible to take part in the symbolic vote on Saturday. There were 257 votes for independence, 16 agains",
+          "resumen_es": "El diputado local dice que las críticas legítimas de los planes de vivienda de asilo están siendo cooptadas por los partidos de oposición ‘estudiando la discordia racial’ Los residentes de un pueblo de Suffolk han votado para “liberar al Reino Unido” en un referéndum celebrado en respuesta al gobierno plas"
+        }
+      ],
+      "fuentes": [
+        "The Guardian"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6900,178 +7020,6 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Ámbito: Energía y clima"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-88741f680ac278d440e5",
-      "fecha": "2026-11-21",
-      "titulo_fuente": "Effort to regulate ‘killer robots’ delayed to 2028",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "88741f680ac278d440e5",
-          "titulo_original": "Effort to regulate ‘killer robots’ delayed to 2028",
-          "titulo_es": "",
-          "url": "https://www.politico.eu/article/effort-regulate-killer-robots-delayed-until-2028-ai-un/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "fuente": "POLITICO Europe",
-          "pais": "Unión Europea",
-          "fecha": "2026-11-21T16:43:51+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Russia blocked the talks, but other countries were also opposed.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "POLITICO Europe"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-5551def0095f2a9b1f13",
-      "fecha": "2026-11-21",
-      "titulo_fuente": "Anthropic mathematician claims he used Claude to prove 19th-century Riemann hypothesis",
-      "region": "Internacional",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "5551def0095f2a9b1f13",
-          "titulo_original": "Anthropic mathematician claims he used Claude to prove 19th-century Riemann hypothesis",
-          "titulo_es": "Antrópico matemático afirma que utilizó a Claude para probar la hipótesis de Riemann del siglo XIX",
-          "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
-          "fuente": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-21T16:39:49+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Levent Alpöge says it took six weeks for him using the AI tool to solve the math problem involving prime numbers A mathematician at Anthropic is contending that the San Francisco -based artificial intelligence (AI) company’s software has helped crack one of the most important unsolved problems in mathematics. Levent Alpöge, a Turkish American mathematician, on Friday posted a note on his personal website saying that Claude, the AI software, had h",
-          "resumen_es": "Levent Alpöge dice que le llevó seis semanas usar la herramienta AI para resolver el problema matemático que implica números primos Un matemático en Anthropic sostiene que el software de la compañía de inteligencia artificial de San Francisco tiene"
-        }
-      ],
-      "fuentes": [
-        "The Guardian"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-ccfc410db4e41fe1a5e5",
-      "fecha": "2026-11-21",
-      "titulo_fuente": "India’s opposition stages protests against Meta over account removals",
-      "region": "Asia-Pacífico",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "ccfc410db4e41fe1a5e5",
-          "titulo_original": "India’s opposition stages protests against Meta over account removals",
-          "titulo_es": "Las protestas de la oposición de la India contra Meta sobre las absorciones de cuentas",
-          "url": "https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-11-21T16:14:01+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Indian Youth Congress issues a seven-day 'ultimatum' to the US technology giant, urging it to lift all restrictions.",
-          "resumen_es": "El Congreso Juvenil Indio emite un 'ultimátum' de siete días al gigante tecnológico estadounidense, instándolo a levantar todas las restricciones."
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera"
-      ],
-      "actores_mencionados": [
-        "India"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: India"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-4a81c0c474f892785e68",
-      "fecha": "2026-11-21",
-      "titulo_fuente": "Las infraestructuras se convierten en el gran flanco débil de Occidente",
-      "region": "Europa",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "4a81c0c474f892785e68",
-          "titulo_original": "Las infraestructuras se convierten en el gran flanco débil de Occidente",
-          "titulo_es": "",
-          "url": "https://elpais.com/internacional/2026-11-21/las-infraestructuras-se-convierten-en-el-gran-flanco-debil-de-occidente.html",
-          "fuente": "El País",
-          "pais": "España",
-          "fecha": "2026-11-21T16:13:51+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "La concatenación de fallos, sabotajes y ciberataques obliga a Europa y a EE UU a reaccionar y aflojar la chequera para actualizar unos sistemas diseñados para el mundo analógico",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "El País"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
