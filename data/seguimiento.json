@@ -1,17 +1,25 @@
 {
-  "actualizado_utc": "2026-11-22T18:33:32.553196+00:00",
+  "actualizado_utc": "2026-11-22T18:41:51.865107+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 3050,
+      "cantidad_archivada": 3051,
       "nuevas_24h": 56,
       "anteriores_24h": 89,
       "dias_con_registros": 38,
-      "fecha_ultima": "2026-11-22T18:11:30+00:00",
+      "fecha_ultima": "2026-11-22T18:32:59+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "75c4d488f07fab93466a",
+          "fecha": "2026-11-22T18:32:59+00:00",
+          "titulo": "Russian strikes kill 6 in Kyiv region, Ukraine says",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/europe/article/3375401/russian-strikes-kill-6-kyiv-region-ukraine-says",
+          "traducida": false
+        },
         {
           "id": "d84625d68923cd6b59cc",
           "fecha": "2026-11-22T18:11:30+00:00",
@@ -243,14 +251,6 @@
           "fuente": "TASS",
           "url": "https://tass.com/politics/2223023",
           "traducida": false
-        },
-        {
-          "id": "ec22edf1a2baadb16498",
-          "fecha": "2026-11-22T10:42:08+00:00",
-          "titulo": "Russian troops liberate Sosnovy Bor community in Kharkov Region over past day",
-          "fuente": "TASS",
-          "url": "https://tass.com/defense/2223013",
-          "traducida": false
         }
       ]
     },
@@ -259,7 +259,7 @@
       "titulo": "India y Asia-Pacífico",
       "cantidad_archivada": 2098,
       "nuevas_24h": 55,
-      "anteriores_24h": 66,
+      "anteriores_24h": 65,
       "dias_con_registros": 38,
       "fecha_ultima": "2026-11-22T17:46:32+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -511,7 +511,7 @@
       "titulo": "Oriente Medio: seguridad y diplomacia",
       "cantidad_archivada": 1934,
       "nuevas_24h": 40,
-      "anteriores_24h": 45,
+      "anteriores_24h": 44,
       "dias_con_registros": 38,
       "fecha_ultima": "2026-11-22T18:24:00+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",

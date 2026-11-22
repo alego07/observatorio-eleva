@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-11-22T18:33:32.510190+00:00",
+  "created_utc": "2026-11-22T18:41:51.824401+00:00",
   "events": [
     {
       "id": "a-ed3e832ec7e9449d5a14",
@@ -92,6 +92,52 @@
         "Actores relevantes: China, Estados Unidos",
         "Ámbito: Comercio y finanzas, Seguridad y conflictos",
         "Posible decisión institucional o negociación"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-75c4d488f07fab93466a",
+      "fecha": "2026-11-22",
+      "titulo_fuente": "Russian strikes kill 6 in Kyiv region, Ukraine says",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "75c4d488f07fab93466a",
+          "titulo_original": "Russian strikes kill 6 in Kyiv region, Ukraine says",
+          "titulo_es": "Las huelgas rusas matan a 6 en la región de Kiev, Ucrania dice",
+          "url": "https://www.scmp.com/news/world/europe/article/3375401/russian-strikes-kill-6-kyiv-region-ukraine-says",
+          "fuente": "South China Morning Post",
+          "pais": "Hong Kong",
+          "fecha": "2026-11-22T18:32:59+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Russian strikes across the Kyiv region, including on a block of flats that partially collapsed, killed at least six people, Ukraine said on Sunday, warning there could be more victims under the rubble. Russia has been pummelling Ukraine with nightly aerial barrages as the war-torn country braces for another winter of the near-five-year invasion. An overnight strike on Dymer, around 45km (30 miles) north of the capital, hit a five-storey building.",
+          "resumen_es": "Las huelgas rusas en toda la región de Kiev, incluso en un bloque de pisos que colapsaron parcialmente, mataron al menos a seis personas, dijo Ucrania el domingo, advirtiendo que podría haber más víctimas bajo los escombros. Rusia ha estado pummelling Ucrania wit"
+        }
+      ],
+      "fuentes": [
+        "South China Morning Post"
+      ],
+      "actores_mencionados": [
+        "Rusia",
+        "Ucrania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia, Ucrania",
+        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -1884,52 +1930,6 @@
         "Actores relevantes: Unión Europea",
         "Ámbito: Comercio y finanzas",
         "Posible decisión institucional o negociación"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-c9f3de68d3f39820df70",
-      "fecha": "2026-11-21",
-      "titulo_fuente": "Russia strikes Zelenskyy's hometown, killing 2",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "c9f3de68d3f39820df70",
-          "titulo_original": "Russia strikes Zelenskyy's hometown, killing 2",
-          "titulo_es": "",
-          "url": "https://www.dw.com/en/russia-strikes-zelenskyy-s-hometown-killing-2/a-80009458?maca=en-rss-en-world-4025-rdf",
-          "fuente": "Deutsche Welle",
-          "pais": "Alemania",
-          "fecha": "2026-11-21T14:44:00+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The attacks follow Russian President Vladimir Putin's vow of a \"painful\" response to Ukraine's attacks this week on the Kerch Bridge, linking Russian-occupied Crimea.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Deutsche Welle"
-      ],
-      "actores_mencionados": [
-        "Rusia",
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia, Ucrania",
-        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6138,6 +6138,92 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-718d6c1bcb6a30709ede",
+      "fecha": "2026-11-22",
+      "titulo_fuente": "Trump puts Canberra’s news rules and tech ambitions in the firing line - Politico",
+      "region": "Estados Unidos",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "718d6c1bcb6a30709ede",
+          "titulo_original": "Trump puts Canberra’s news rules and tech ambitions in the firing line - Politico",
+          "titulo_es": "Trump pone las reglas de noticias y las ambiciones tecnológicas de Canberra en la línea de fuego - Politico",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRmhhbGRtM1pBZ1cwbkFYRnhlSTBaQ2xwa1oySXQyVmpDZlpadkU5RnpPU0xkUmZrSHlGSUtkZHNpZHhJV2JHR1FKZGhWbGlIVjhjN0Vyb3g3NnFPal81cElkVnBpbXJWSGM5VWcwdWtzRWdGVDZnMG4zUVFMQVBad2xmTEkxbk9YSUNKcXBpX0JLY3ZXaG5yeEhrRTU2cDBvNmJ0VGxqaW92TXpkMjRDV21uQV9maVR3R3NTbXVFR1ZiMkhSZnRoWkRYMEJLQVcyQWo0T0tOZlA0enoy?oc=5",
+          "fuente": "POLITICO US",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-22T18:30:00+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Trump puts Canberra’s news rules and tech ambitions in the firing line Politico",
+          "resumen_es": "Trump pone las reglas de noticias y las ambiciones tecnológicas de Canberra en la línea de fuego Politico"
+        }
+      ],
+      "fuentes": [
+        "POLITICO US"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-82ed1d400644df7cee71",
+      "fecha": "2026-11-22",
+      "titulo_fuente": "Hakeem Jeffries willing to cross political aisle to work on Democrats’ agenda",
+      "region": "Internacional",
+      "temas": [
+        "Migración y DD. HH."
+      ],
+      "noticias": [
+        {
+          "id": "82ed1d400644df7cee71",
+          "titulo_original": "Hakeem Jeffries willing to cross political aisle to work on Democrats’ agenda",
+          "titulo_es": "Hakeem Jeffries dispuesto a cruzar el pasillo político para trabajar en la agenda de los demócratas",
+          "url": "https://www.theguardian.com/us-news/2026/nov/22/hakeem-jeffries-democrats-agenda",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-22T18:25:42+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Incoming House speaker says party focused on affordability and fixing ‘broken’ healthcare and immigration systems The incoming US House speaker, Hakeem Jeffries , has said he and his fellow Democrats are focused on affordability, expanding healthcare and fixing the “broken” immigration system in the country – and willing to cross the political aisle to do so. Jeffries laid out that agenda in an interview on Sunday with CBS News’s Face the Nation,",
+          "resumen_es": "El orador entrante de la casa dice que la fiesta se centró en la asequibilidad y la fijación de sistemas de salud e inmigración ‘rojos’ El próximo orador de la Casa de los Estados Unidos, Hakeem Jeffries, ha dicho que él y sus compañeros demócratas están enfocados en la accesibilidad, expandiendo"
+        }
+      ],
+      "fuentes": [
+        "The Guardian"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Derecho internacional y constructivismo",
+        "pregunta": "¿Qué normas, identidades y obligaciones internacionales invocan los actores?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Migración y DD. HH."
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-bf04e3f7096097d9181d",
       "fecha": "2026-11-22",
       "titulo_fuente": "COP não terminava sem acordo desde 2009",
@@ -6902,92 +6988,6 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Ámbito: Energía y clima"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-9c72e581a00d4a5192fc",
-      "fecha": "2026-11-22",
-      "titulo_fuente": "Sen. John Kennedy compares Xi and Putin to Hannibal Lecter - Politico",
-      "region": "Internacional",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "9c72e581a00d4a5192fc",
-          "titulo_original": "Sen. John Kennedy compares Xi and Putin to Hannibal Lecter - Politico",
-          "titulo_es": "El senador John Kennedy compara a Xi y Putin con Hannibal Lecter - Politico",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMElMOVNhZVZUUmdmQnh2UklGbm1CcU8tdi1fUFZ2bXF0U2E1WENubzFoNjBWMlNtQlN4bHZPUzUwUUtUbU5GbDVtVmh6ZFFGU1IzNDZRVGdBTDF4WkhIaGtybTdsSlRsY2pQQld4T3U4YllwRmw0d0M3Z1lYYXVlQXJjT3VNanJROUxyalF1dkgxNHJnLXprSmVsWQ?oc=5",
-          "fuente": "POLITICO US",
-          "pais": "Estados Unidos",
-          "fecha": "2026-11-22T16:13:00+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Sen. John Kennedy compares Xi and Putin to Hannibal Lecter Politico",
-          "resumen_es": "El senador John Kennedy compara a Xi y Putin con Hannibal Lecter Politico"
-        }
-      ],
-      "fuentes": [
-        "POLITICO US"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-896455605a4b34c58837",
-      "fecha": "2026-11-22",
-      "titulo_fuente": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
-      "region": "Internacional",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "896455605a4b34c58837",
-          "titulo_original": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
-          "titulo_es": "Theresa May’s blast from the past calls Tories volver a su lugar infeliz ← Peter Walker",
-          "url": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
-          "fuente": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-22T16:12:54+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Conservatives may instinctively want to push back against closer EU ties, but they have to train their focus elsewhere Anyone who accidentally switched to BBC One at about 9.45am on Sunday to be greeted by Theresa May awkwardly espousing the virtues of Brexit could have been forgiven for thinking they had woken up in around 2018 – and not being especially pleased at the idea. This is one of the problems now facing May’s party. For all that it is ",
-          "resumen_es": "Los conservadores pueden instintivamente querer retroceder contra los vínculos más estrechos de la UE, pero tienen que entrenar su enfoque en otros lugares Cualquier persona que accidentalmente cambió a la BBC Uno a las 9.45 horas del domingo para ser saludado por Theresa May torpemente espando a"
-        }
-      ],
-      "fuentes": [
-        "The Guardian"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
