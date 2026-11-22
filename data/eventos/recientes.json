@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-11-22T18:03:49.558326+00:00",
+  "created_utc": "2026-11-22T18:33:32.510190+00:00",
   "events": [
     {
       "id": "a-ed3e832ec7e9449d5a14",
@@ -97,94 +97,119 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-a888f1d182f6c5f882f0",
-      "fecha": "2026-11-21",
-      "titulo_fuente": "Zelenskiy says China summit was ‘very unsuccessful’ for Russia",
-      "region": "China",
+      "id": "a-d84625d68923cd6b59cc",
+      "fecha": "2026-11-22",
+      "titulo_fuente": "Suspected drone attack causes explosion on Russian ship in Libya",
+      "region": "Rusia-Ucrania",
       "temas": [
-        "Diplomacia"
+        "Seguridad y conflictos"
       ],
       "noticias": [
         {
-          "id": "a888f1d182f6c5f882f0",
-          "titulo_original": "Zelenskiy says China summit was ‘very unsuccessful’ for Russia",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/news/international/zelenskiy-says-china-summit-was-very-unsuccessful-for-russia/article71728572.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-11-21T14:29:07+00:00",
+          "id": "d84625d68923cd6b59cc",
+          "titulo_original": "Suspected drone attack causes explosion on Russian ship in Libya",
+          "titulo_es": "El ataque de drones sospechoso causa explosión en el barco ruso en Libia",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/suspected-drone-attack-causes-explosion-on-russian-ship-in-libya?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-22T18:11:30+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The Ukrainian President said Vladimir Putin had failed to recreate the Yalta conference, and that it is not clear to Kyiv whether it will be able to join NATO",
+          "resumen_original": "A Russian ship has been struck in a suspected drone attack while docked at Libya’s Benghazi naval base.",
+          "resumen_es": "Un barco ruso ha sido golpeado en un presunto ataque de drones mientras fue atracado en la base naval de Bengasi de Libia."
+        },
+        {
+          "id": "cb29a20e38ef835b166a",
+          "titulo_original": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+          "titulo_es": "",
+          "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-22T17:16:47+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+          "resumen_es": ""
+        },
+        {
+          "id": "02f9635dee6ba60e2486",
+          "titulo_original": "Russian vessel docked in Libya hit in suspected drone attack, authorities say - CNN",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOamhUZkJwenh5LXdfUnM3WDZZZTNMak93ZWhPTzNUXzBoQlhJMlNXdUdWemVYdFRHVGxCVE8wNEZlT1czaElmQ2JuZ05JV1VfNVVsZzZEMFNpcEc0MEk2YUY2UTByeFRxWTZUWFh0UEt5WlA5WE1SZzIzLWVjUGszQWZIcDhPSkRrUlBsUzRJMA?oc=5",
+          "fuente": "CNN",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-22T16:38:33+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Russian vessel docked in Libya hit in suspected drone attack, authorities say CNN",
           "resumen_es": ""
         }
       ],
       "fuentes": [
-        "The Hindu"
+        "Al Jazeera",
+        "BBC News",
+        "CNN"
       ],
       "actores_mencionados": [
-        "China",
+        "Rusia"
+      ],
+      "fuentes_independientes": 3,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Cobertura de fuentes distintas",
+        "Actores relevantes: Rusia",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-d5c8cffaadbcef2f0394",
+      "fecha": "2026-11-22",
+      "titulo_fuente": "Nearly 40 Ukrainian drones taken down over Russian regions during day",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "d5c8cffaadbcef2f0394",
+          "titulo_original": "Nearly 40 Ukrainian drones taken down over Russian regions during day",
+          "titulo_es": "Casi 40 drones ucranianos derribaron las regiones rusas durante el día",
+          "url": "https://tass.com/defense/2223067",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-22T18:05:58+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "From 8:00 a.m. to 8:00 p.m. Moscow time, Russian air defense systems intercepted and destroyed 38 Ukrainian fixed-wing unmanned aerial vehicles over the Belgorod, Bryansk, Kursk, and Oryol Regions",
+          "resumen_es": "De 8:00 a.m. a 8:00 p.m. Tiempo de Moscú, los sistemas rusos de defensa aérea interceptaron y destruyeron 38 vehículos aéreos no tripulados ucranianos de punta fija sobre las regiones de Belgorod, Bryansk, Kursk y Oryol"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
         "Rusia",
         "Ucrania"
       ],
       "fuentes_independientes": 1,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
       },
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 8,
+      "prioridad_orientativa": 6,
       "motivos_seleccion": [
-        "Actores relevantes: China, Rusia, Ucrania",
-        "Ámbito: Diplomacia",
-        "Posible decisión institucional o negociación"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-ac983c0fc6d1020e724a",
-      "fecha": "2026-11-21",
-      "titulo_fuente": "Terremoto de magnitude 6,8 graus atinge o Peru",
-      "region": "Perú",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "ac983c0fc6d1020e724a",
-          "titulo_original": "Terremoto de magnitude 6,8 graus atinge o Peru",
-          "titulo_es": "",
-          "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/terremoto-de-magnitude-68-graus-atinge-o-peru",
-          "fuente": "Agência Brasil (EBC)",
-          "pais": "Brasil",
-          "fecha": "2026-11-21T14:17:00+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Um terremoto de magnitude 6,8 atingiu o centro do Peru nessa sexta-feira (20), informou o Centro Alemão de Pesquisa em Geociências. O tremor levou algumas pessoas na capital Lima, a saírem às ruas, embora não tenha havido relatos imediatos de vítimas ou danos significativos. O terremoto, que foi sentido na capital Lima, ocorreu na região andina de Junín, a uma profundidade de 129 km, segundo o Instituto Geofísico do Peru. Em Lima, moradores deixa",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Agência Brasil (EBC)"
-      ],
-      "actores_mencionados": [
-        "Perú"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Perú aparece mencionado; falta verificar el alcance real de cualquier consecuencia.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 7,
-      "motivos_seleccion": [
-        "Actores relevantes: Perú",
-        "Mención expresa al Perú"
+        "Actores relevantes: Rusia, Ucrania",
+        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -1910,48 +1935,74 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-311e92b4539d7b8c081d",
-      "fecha": "2026-11-21",
-      "titulo_fuente": "Zelensky speaks with CNN's Jim Sciutto on Trump, Ukraine's conflict with Russia and Starlink - CNN",
-      "region": "Rusia-Ucrania",
+      "id": "a-8f5de30604270c937b6c",
+      "fecha": "2026-11-22",
+      "titulo_fuente": "UN climate talks collapse without a deal",
+      "region": "Perú",
       "temas": [
-        "Seguridad y conflictos"
+        "Diplomacia",
+        "Energía y clima"
       ],
       "noticias": [
         {
-          "id": "311e92b4539d7b8c081d",
-          "titulo_original": "Zelensky speaks with CNN's Jim Sciutto on Trump, Ukraine's conflict with Russia and Starlink - CNN",
+          "id": "8f5de30604270c937b6c",
+          "titulo_original": "UN climate talks collapse without a deal",
+          "titulo_es": "Las conversaciones climáticas de la ONU colapsan sin un acuerdo",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/un-climate-talks-collapse-without-a-deal?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-22T18:04:25+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The longest UN climate summit in history ended without a deal in Turkiye, the first such failure since 2009.",
+          "resumen_es": "La cumbre más larga de la ONU sobre el clima en la historia terminó sin un acuerdo en Turkiye, el primer fracaso desde 2009."
+        },
+        {
+          "id": "469ad66dfb44ac81cca7",
+          "titulo_original": "‘Disappointing’: Delegates react after COP31 climate talks end without deal",
+          "titulo_es": "“Decepcionante”: Los delegados reaccionan después de que las conversaciones climáticas COP31 terminen sin acuerdo",
+          "url": "https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-22T16:33:26+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Draft text considered too weak to deal with climate change after oil-producing countries oppose the term 'fossil fuels'.",
+          "resumen_es": "El proyecto de texto considerado demasiado débil para tratar el cambio climático después de que los países productores de petróleo se opongan al término 'combustibles fósiles'."
+        },
+        {
+          "id": "3885d7a098ea8073f650",
+          "titulo_original": "Cop31 climate talks collapse as EU and others reject deal",
           "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRElkSEo3dmVmaGEzZl8xQVcyS19aSDVhd2h3eG8zMHVaNmZLMmVBeU42Z3k3U040TWMweExMcDZhMVJ3RW9HQnNJQ2pPX0k1bk1QMWo2cEN2THpSem5uY0lGZTZseEQ1RS1oSFNTcnRyYXdZVzhiajlPaVhwREREWF8wRms3RnV3SE5SdHphNU1hSTE3WE9hdy1QcE51WHU3VEpr?oc=5",
-          "fuente": "CNN",
-          "pais": "Estados Unidos",
-          "fecha": "2026-11-21T14:02:06+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Zelensky speaks with CNN's Jim Sciutto on Trump, Ukraine's conflict with Russia and Starlink CNN",
+          "url": "https://www.scmp.com/news/world/article/3375393/cop31-climate-talks-collapse-eu-and-others-reject-deal",
+          "fuente": "South China Morning Post",
+          "pais": "Hong Kong",
+          "fecha": "2026-11-22T14:57:45+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "UN climate talks collapsed on Sunday as ⁠the European Union and others rejected a final draft deal put forward by Cop31 presidents Turkey and Australia, saying it was too weak to advance the fight against global warming. The failed talks reflect world governments’ struggle this year to muster ambitious action to address the worsening consequences of climate change – including heatwaves, wildfires, floods and powerful storms – as wars, economic pr",
           "resumen_es": ""
         }
       ],
       "fuentes": [
-        "CNN"
+        "Al Jazeera",
+        "South China Morning Post"
       ],
       "actores_mencionados": [
-        "Estados Unidos",
-        "Rusia",
-        "Ucrania"
+        "Turquía",
+        "Unión Europea"
       ],
-      "fuentes_independientes": 1,
+      "fuentes_independientes": 2,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
       },
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
+      "prioridad_orientativa": 5,
       "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos, Rusia, Ucrania",
-        "Ámbito: Seguridad y conflictos"
+        "Cobertura de fuentes distintas",
+        "Actores relevantes: Unión Europea",
+        "Ámbito: Diplomacia, Energía y clima"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -2011,65 +2062,6 @@
         "Cobertura de fuentes distintas",
         "Actores relevantes: Unión Europea",
         "Ámbito: Comercio y finanzas"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-0de2cd18c13a61a92fe9",
-      "fecha": "2026-11-22",
-      "titulo_fuente": "Russian vessel hit by suspected sea drone at Libya’s Benghazi naval base",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "0de2cd18c13a61a92fe9",
-          "titulo_original": "Russian vessel hit by suspected sea drone at Libya’s Benghazi naval base",
-          "titulo_es": "Nave rusa golpeada por presunto drone marino en la base naval de Benghazi de Libia",
-          "url": "https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-11-22T17:12:48+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "There was no immediate reaction from Russia, and no one has claimed responsibility for the suspected attack.",
-          "resumen_es": "No hubo una reacción inmediata de Rusia, y nadie ha reclamado la responsabilidad del presunto ataque."
-        },
-        {
-          "id": "02f9635dee6ba60e2486",
-          "titulo_original": "Russian vessel docked in Libya hit in suspected drone attack, authorities say - CNN",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOamhUZkJwenh5LXdfUnM3WDZZZTNMak93ZWhPTzNUXzBoQlhJMlNXdUdWemVYdFRHVGxCVE8wNEZlT1czaElmQ2JuZ05JV1VfNVVsZzZEMFNpcEc0MEk2YUY2UTByeFRxWTZUWFh0UEt5WlA5WE1SZzIzLWVjUGszQWZIcDhPSkRrUlBsUzRJMA?oc=5",
-          "fuente": "CNN",
-          "pais": "Estados Unidos",
-          "fecha": "2026-11-22T16:38:33+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Russian vessel docked in Libya hit in suspected drone attack, authorities say CNN",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera",
-        "CNN"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 2,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 5,
-      "motivos_seleccion": [
-        "Cobertura de fuentes distintas",
-        "Actores relevantes: Rusia",
-        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -2135,29 +2127,166 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-cb29a20e38ef835b166a",
+      "id": "a-f21154d75441a5752e40",
       "fecha": "2026-11-22",
-      "titulo_fuente": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "titulo_fuente": "Tanker incident “involving military forces” reported in Strait of Hormuz",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "f21154d75441a5752e40",
+          "titulo_original": "Tanker incident “involving military forces” reported in Strait of Hormuz",
+          "titulo_es": "El incidente de Tanker “involución de fuerzas militares” informó en el Estrecho de Hormuz",
+          "url": "https://www.euronews.com/2026/11/22/tanker-incident-involving-military-forces-reported-in-strait-of-hormuz",
+          "fuente": "Euronews",
+          "pais": "Unión Europea",
+          "fecha": "2026-11-22T18:07:13+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Amid conflicting reports that an Iranian tanker departed Iran’s Kharg Island to Sunday to force the US military blockade in the Strait of Hormuz, an incident was reported near the US navy blockade line. Iran threatened that any US attempt to stop its tankers would result in immediate attacks.",
+          "resumen_es": "En medio de informes conflictivos de que un petrolero iraní partió de la isla de Kharg de Irán para forzar el bloqueo militar estadounidense en el Estrecho de Hormuz, un incidente fue reportado cerca de la línea de bloqueo naval estadounidense. Irán amenazó con cualquier intento de Estados Unidos"
+        }
+      ],
+      "fuentes": [
+        "Euronews"
+      ],
+      "actores_mencionados": [
+        "Irán"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Irán",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-16e825a38726b56c7fa9",
+      "fecha": "2026-11-22",
+      "titulo_fuente": "Major Cop meetings that ended in failure, deadlock or disappointment",
+      "region": "Perú",
+      "temas": [
+        "Diplomacia",
+        "Organismos multilaterales",
+        "Energía y clima"
+      ],
+      "noticias": [
+        {
+          "id": "16e825a38726b56c7fa9",
+          "titulo_original": "Major Cop meetings that ended in failure, deadlock or disappointment",
+          "titulo_es": "Principales reuniones de la policía que terminaron en fracaso, estancamiento o decepción",
+          "url": "https://www.scmp.com/news/world/europe/article/3375400/major-cop-meetings-ended-failure-deadlock-or-disappointment",
+          "fuente": "South China Morning Post",
+          "pais": "Hong Kong",
+          "fecha": "2026-11-22T18:04:45+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The failure of Cop31 climate talks in Antalya is the latest in a string of disappointments at major United Nations environmental summits since the first Conference of the Parties, or Cop, in 1995. Various previous summits have descended into acrimony or even failed completely over a lack of consensus. 2000: Cop6, The Hague Cop6 talks in The Hague in 2000 saw talks suspended altogether before resuming months later in Bonn, the headquarters of the ",
+          "resumen_es": "El fracaso de las conversaciones sobre el clima de Cop31 en Antalya es el último en una serie de decepciones en las principales cumbres ambientales de las Naciones Unidas desde la primera Conferencia de las Partes, o Cop, en 1995. Varias cumbres anteriores han descendido int"
+        }
+      ],
+      "fuentes": [
+        "South China Morning Post"
+      ],
+      "actores_mencionados": [
+        "ONU"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: ONU",
+        "Ámbito: Diplomacia, Energía y clima"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-3a79b8d5c4b4253131a4",
+      "fecha": "2026-11-22",
+      "titulo_fuente": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "3a79b8d5c4b4253131a4",
+          "titulo_original": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+          "titulo_es": "\"El peligro parece mayor todo el tiempo\": los ucranianos buscan perderse después de huelgas rusas",
+          "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-22T17:57:43+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
+          "resumen_es": "Sarah Rainsford de la BBC reporta desde la escena de un edificio residencial colapsado en la región de Kiev de Ucrania."
+        }
+      ],
+      "fuentes": [
+        "BBC News"
+      ],
+      "actores_mencionados": [
+        "Rusia",
+        "Ucrania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia, Ucrania"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-0de2cd18c13a61a92fe9",
+      "fecha": "2026-11-22",
+      "titulo_fuente": "Russian vessel hit by suspected sea drone at Libya’s Benghazi naval base",
       "region": "Rusia-Ucrania",
       "temas": [
         "Seguridad y conflictos"
       ],
       "noticias": [
         {
-          "id": "cb29a20e38ef835b166a",
-          "titulo_original": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-          "titulo_es": "",
-          "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-22T17:16:47+00:00",
+          "id": "0de2cd18c13a61a92fe9",
+          "titulo_original": "Russian vessel hit by suspected sea drone at Libya’s Benghazi naval base",
+          "titulo_es": "Nave rusa golpeada por presunto drone marino en la base naval de Benghazi de Libia",
+          "url": "https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-22T17:12:48+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
-          "resumen_es": ""
+          "resumen_original": "There was no immediate reaction from Russia, and no one has claimed responsibility for the suspected attack.",
+          "resumen_es": "No hubo una reacción inmediata de Rusia, y nadie ha reclamado la responsabilidad del presunto ataque."
         }
       ],
       "fuentes": [
-        "BBC News"
+        "Al Jazeera"
       ],
       "actores_mencionados": [
         "Rusia"
@@ -2919,54 +3048,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-3885d7a098ea8073f650",
-      "fecha": "2026-11-22",
-      "titulo_fuente": "Cop31 climate talks collapse as EU and others reject deal",
-      "region": "Perú",
-      "temas": [
-        "Seguridad y conflictos",
-        "Comercio y finanzas",
-        "Energía y clima"
-      ],
-      "noticias": [
-        {
-          "id": "3885d7a098ea8073f650",
-          "titulo_original": "Cop31 climate talks collapse as EU and others reject deal",
-          "titulo_es": "",
-          "url": "https://www.scmp.com/news/world/article/3375393/cop31-climate-talks-collapse-eu-and-others-reject-deal",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-11-22T14:57:45+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "UN climate talks collapsed on Sunday as ⁠the European Union and others rejected a final draft deal put forward by Cop31 presidents Turkey and Australia, saying it was too weak to advance the fight against global warming. The failed talks reflect world governments’ struggle this year to muster ambitious action to address the worsening consequences of climate change – including heatwaves, wildfires, floods and powerful storms – as wars, economic pr",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "South China Morning Post"
-      ],
-      "actores_mencionados": [
-        "Unión Europea",
-        "Turquía"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Unión Europea",
-        "Ámbito: Comercio y finanzas, Energía y clima"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-e90900ee855994d519a1",
       "fecha": "2026-11-22",
       "titulo_fuente": "Hong Kong films shine as Angela Yuen, Anson Kong win at Golden Horse Awards",
@@ -3189,6 +3270,51 @@
       "motivos_seleccion": [
         "Actores relevantes: Irán",
         "Ámbito: Energía y clima, Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-4ea9f8af095a88dd55c8",
+      "fecha": "2026-11-22",
+      "titulo_fuente": "Putin asked about India’s languages. PM Modi’s answer surprised him - The Indian Express",
+      "region": "Asia-Pacífico",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "4ea9f8af095a88dd55c8",
+          "titulo_original": "Putin asked about India’s languages. PM Modi’s answer surprised him - The Indian Express",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZHR4aTE3Tm5EakdIa1dva0lZMGJqa3NBbFNuVmJTTEh6blFmUnlqdDVFYnZTbnJpSVpRNnpOM2FOZjlGYWVGeTJqLTlUQ1I1Z1V6cmFVbU5udndJZVZDZ2hzT01GUTdhOVVUZm9NZDVFRUJ2NkJuUTUtbWUzTklzRkV4TDh6WVdzTUxJOTBSemFOYzl4SVNZbk9VcW9KNnRwWmplRGszT0dMTXZwV3ZV0gG2AUFVX3lxTE1kRC0xVS12RWNTcE00OWVIMl9pM1NUWEFldDl5SU9xMGVsR2tLRTdNby1UblVfVW1xb1NIVllfVGZxbXBYamFGR09EZl9sQTE2Rl9xSks1TkhHM1J2VDZmUEFVcVdwSDlVd1FwWXJQQl9qd2JsQ3NMY2l1MHdCS2phVkQwcTdPbi1fU0ZORk1tVEV4X193dnJNVFJCckJRZTdDOXA5VDloY2gxZ21RTEdiU2wxb0Z3?oc=5",
+          "fuente": "The Indian Express",
+          "pais": "India",
+          "fecha": "2026-11-22T13:33:27+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Putin asked about India’s languages. PM Modi’s answer surprised him The Indian Express",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "The Indian Express"
+      ],
+      "actores_mencionados": [
+        "Rusia",
+        "India"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: India, Rusia"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -5004,77 +5130,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-a5ca89415d3287b5633c",
-      "fecha": "2026-11-21",
-      "titulo_fuente": "Interactive: How Mexico captured El Chapo Isidro, FBI’s most wanted cartel boss - The Indian Express",
-      "region": "América Latina",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "a5ca89415d3287b5633c",
-          "titulo_original": "Interactive: How Mexico captured El Chapo Isidro, FBI’s most wanted cartel boss - The Indian Express",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTkFteVdPbHctSXBUOHV1THN4X3p0c0xaa2dFRnVJSURjS3BqWEJHaC02VktXMDVfQnNOZUtnVUxmQndoeC1HNUdWWVhnbkZyVkRXU3NMa2pLa3lac1JIaWw5WUpEbWdMSVRUY25wY2FqWnJXVGN0ZVliMkdUQ3VKN3ZTNk4tMmRJVkhsV2tkbHNhOHRTZkM5dHJyb2c4djVndUpLcnRQQURCR3fSAbIBQVVfeXFMTVhkZ21XNjZZSEx2MHhpaHJGc0hqc1FmSGlrUkNrT1hPNU9EcDAtdVRjMHhJa2RNZjdLR0syRlZjQ08xWUVybEh6V09vemlBRjcwY2kzSnpRWC12RWwxaExrRldhOWIya3I0czRDdXFrbS1pTDJxTEZnSjFQVDhzdUFtNXQ4MHgtWUZzeTJGc1BaeTZrdWI2Y2hnZVhkLTlnNE55R2FqX0lfSl9XTVpBTzN6dw?oc=5",
-          "fuente": "The Indian Express",
-          "pais": "India",
-          "fecha": "2026-11-21T18:22:26+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Interactive: How Mexico captured El Chapo Isidro, FBI’s most wanted cartel boss The Indian Express",
-          "resumen_es": ""
-        },
-        {
-          "id": "cb6dc686b126f41a53ef",
-          "titulo_original": "Mexico detains top cartel boss ‘El Chapo Isidro,’ one of FBI’s 10 most wanted fugitives - Politico",
-          "titulo_es": "México detiene al jefe del cártel ‘El Chapo Isidro’, uno de los 10 fugitivos más buscados del FBI - Politico",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORm00SHFVYTE5S2lGNnRKbFlYWXRXZG03Yzl0WEduakVTYUNsVFFBaHRDdUV5anhQSHkxSTZubkVxTkNlTlN0cDhOd19iaUkxUzVjaXJQMEYydTM0SmE1aTMzMzZncUxJQ0JLRUxEd0c4MFpvRjcyMDhvelZpNHdQU1pfa2NwdktHVHpPNGx0ZVlZY1h0TGQ4UnRRZUJIdU43UE9fQzVTUkgtR1FNMk8zeVFZODdUREx1dVpMU0hwYzZkSmxSZEZ0UjRGZEhjZw?oc=5",
-          "fuente": "POLITICO US",
-          "pais": "Estados Unidos",
-          "fecha": "2026-11-21T16:02:00+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Mexico detains top cartel boss ‘El Chapo Isidro,’ one of FBI’s 10 most wanted fugitives Politico",
-          "resumen_es": "México detiene al jefe del cartel ‘El Chapo Isidro’, uno de los 10 fugitivos más buscados del FBI"
-        },
-        {
-          "id": "0590920b9a815fef2ab4",
-          "titulo_original": "Mexico captures FBI’s most-wanted cartel boss ‘El Chapo Isidro’, triggering violence",
-          "titulo_es": "",
-          "url": "https://www.euronews.com/2026/11/21/mexico-captures-fbis-most-wanted-cartel-boss-el-chapo-isidro-triggering-violence",
-          "fuente": "Euronews",
-          "pais": "Unión Europea",
-          "fecha": "2026-11-21T14:20:35+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Fausto Isidro Meza Flores, one of the FBI’s ten most-wanted fugitives, was arrested in a military operation involving US intelligence cooperation. Gunfire, burning vehicles and panic among civilians followed the raid in northern Mexico.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Euronews",
-        "POLITICO US",
-        "The Indian Express"
-      ],
-      "actores_mencionados": [
-        "India"
-      ],
-      "fuentes_independientes": 3,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Cobertura de fuentes distintas",
-        "Actores relevantes: India"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-0d5f9e1159cf6cea9139",
       "fecha": "2026-11-21",
       "titulo_fuente": "Reopening Strait of Hormuz off table until Iran’s demands are met — foreign minister",
@@ -5799,51 +5854,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-f01a387714f81cade731",
-      "fecha": "2026-11-21",
-      "titulo_fuente": "Bulgaria welcomes India’s Ukraine ceasefire proposal, says Delhi shows it can be a global power - The Indian Express",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "f01a387714f81cade731",
-          "titulo_original": "Bulgaria welcomes India’s Ukraine ceasefire proposal, says Delhi shows it can be a global power - The Indian Express",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQ2dMSXQxbzVSWF9OUFRDeWhSWlRhNkZYUE9pSjh3QXBxR1d1eHV6ZVJhMHg4UEwwN094UXZVa2ZBb1NjbEdMUlA5TU1NT3RaeUtPRWhneElBamZrc1ZtbkRXejhfc3RzYzdoR2h4WkozMWtpZzBmdVl2aWVnUFBtYldZMnRrQ0tJY2FOS2dNZFhOQlcySlRDbUp1OXp0SlJLMmpKMmpfNlYwRFl1SHhBbWxvM1UyOFE3aDl0S3dXSHp5TVdfSmdpMFZmZ1BTTHhUSmZhRDFoQnREd9IB4AFBVV95cUxOelBYR0JzWnFLSjc5VFZZTWtDOWJKSEQ1WUtrengzNW14eGpqc1FkTmxXTlh4X25Dcmh3WE5hZXpzZFlySXRsTEcteUNMY3FEZUpoN3N6Z0VZeHl6ZkRXSW50NjN0cGFlYmlNamdVb3dkT1BQVl9yd0h5S1FQZS1VMFRuTklYOTczM19RT293ejJaOXpiOER1dUs0RVkyYkg5d0paZUlSMXhlbXMycFpncE90SlI4ZDN6aG0yNVlCc1pwZGNrNWVSakpNY3pBLXZTaFB6VGN1b05zdWxXUnpMZg?oc=5",
-          "fuente": "The Indian Express",
-          "pais": "India",
-          "fecha": "2026-11-21T13:57:25+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Bulgaria welcomes India’s Ukraine ceasefire proposal, says Delhi shows it can be a global power The Indian Express",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Indian Express"
-      ],
-      "actores_mencionados": [
-        "Ucrania",
-        "India"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: India, Ucrania"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-3835e8e888b376905b7c",
       "fecha": "2026-11-22",
       "titulo_fuente": "Global climate talks have collapsed. Here’s what just happened. - Politico",
@@ -6014,6 +6024,64 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-a5ca89415d3287b5633c",
+      "fecha": "2026-11-21",
+      "titulo_fuente": "Interactive: How Mexico captured El Chapo Isidro, FBI’s most wanted cartel boss - The Indian Express",
+      "region": "América Latina",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "a5ca89415d3287b5633c",
+          "titulo_original": "Interactive: How Mexico captured El Chapo Isidro, FBI’s most wanted cartel boss - The Indian Express",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTkFteVdPbHctSXBUOHV1THN4X3p0c0xaa2dFRnVJSURjS3BqWEJHaC02VktXMDVfQnNOZUtnVUxmQndoeC1HNUdWWVhnbkZyVkRXU3NMa2pLa3lac1JIaWw5WUpEbWdMSVRUY25wY2FqWnJXVGN0ZVliMkdUQ3VKN3ZTNk4tMmRJVkhsV2tkbHNhOHRTZkM5dHJyb2c4djVndUpLcnRQQURCR3fSAbIBQVVfeXFMTVhkZ21XNjZZSEx2MHhpaHJGc0hqc1FmSGlrUkNrT1hPNU9EcDAtdVRjMHhJa2RNZjdLR0syRlZjQ08xWUVybEh6V09vemlBRjcwY2kzSnpRWC12RWwxaExrRldhOWIya3I0czRDdXFrbS1pTDJxTEZnSjFQVDhzdUFtNXQ4MHgtWUZzeTJGc1BaeTZrdWI2Y2hnZVhkLTlnNE55R2FqX0lfSl9XTVpBTzN6dw?oc=5",
+          "fuente": "The Indian Express",
+          "pais": "India",
+          "fecha": "2026-11-21T18:22:26+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Interactive: How Mexico captured El Chapo Isidro, FBI’s most wanted cartel boss The Indian Express",
+          "resumen_es": ""
+        },
+        {
+          "id": "cb6dc686b126f41a53ef",
+          "titulo_original": "Mexico detains top cartel boss ‘El Chapo Isidro,’ one of FBI’s 10 most wanted fugitives - Politico",
+          "titulo_es": "México detiene al jefe del cártel ‘El Chapo Isidro’, uno de los 10 fugitivos más buscados del FBI - Politico",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORm00SHFVYTE5S2lGNnRKbFlYWXRXZG03Yzl0WEduakVTYUNsVFFBaHRDdUV5anhQSHkxSTZubkVxTkNlTlN0cDhOd19iaUkxUzVjaXJQMEYydTM0SmE1aTMzMzZncUxJQ0JLRUxEd0c4MFpvRjcyMDhvelZpNHdQU1pfa2NwdktHVHpPNGx0ZVlZY1h0TGQ4UnRRZUJIdU43UE9fQzVTUkgtR1FNMk8zeVFZODdUREx1dVpMU0hwYzZkSmxSZEZ0UjRGZEhjZw?oc=5",
+          "fuente": "POLITICO US",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-21T16:02:00+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Mexico detains top cartel boss ‘El Chapo Isidro,’ one of FBI’s 10 most wanted fugitives Politico",
+          "resumen_es": "México detiene al jefe del cartel ‘El Chapo Isidro’, uno de los 10 fugitivos más buscados del FBI"
+        }
+      ],
+      "fuentes": [
+        "POLITICO US",
+        "The Indian Express"
+      ],
+      "actores_mencionados": [
+        "India"
+      ],
+      "fuentes_independientes": 2,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 3,
+      "motivos_seleccion": [
+        "Cobertura de fuentes distintas",
+        "Actores relevantes: India"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-2681b8486e6260f1f09b",
       "fecha": "2026-11-21",
       "titulo_fuente": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
@@ -6065,6 +6133,94 @@
       "motivos_seleccion": [
         "Cobertura de fuentes distintas",
         "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-bf04e3f7096097d9181d",
+      "fecha": "2026-11-22",
+      "titulo_fuente": "COP não terminava sem acordo desde 2009",
+      "region": "Perú",
+      "temas": [
+        "Energía y clima"
+      ],
+      "noticias": [
+        {
+          "id": "bf04e3f7096097d9181d",
+          "titulo_original": "COP não terminava sem acordo desde 2009",
+          "titulo_es": "COP no terminaba sin acuerdo desde 2009",
+          "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/cop-nao-terminava-sem-acordo-desde-2009",
+          "fuente": "Agência Brasil (EBC)",
+          "pais": "Brasil",
+          "fecha": "2026-11-22T18:24:00+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "A falta de consenso para o fechamento de um acordo final na 31ª Conferência das Nações Unidas sobre Mudança do Clima (COP31) representa um retrocesso nos esforços para frear os danos das mudanças climáticas e o aquecimento global, avaliam entidades que participaram da conferência. Na manhã deste domingo (22), a COP31, realizada em Antália, na Turquia, terminou sem a elaboração de um documento final. Notícias relacionadas: Manifestantes marcham em",
+          "resumen_es": "La falta de consenso para el cierre de un acuerdo final en la 31a Conferencia de las Naciones Unidas sobre Cambio Climático (COP31) representa un retroceso en los esfuerzos para frenar los daños del cambio climático y el calentamiento global, evalúan y"
+        }
+      ],
+      "fuentes": [
+        "Agência Brasil (EBC)"
+      ],
+      "actores_mencionados": [
+        "Turquía"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia y gobernanza global",
+        "pregunta": "¿Cómo se distribuyen los costos de coordinación y los incentivos para cooperar?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Energía y clima"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-7e247d366dfb7f3a13c5",
+      "fecha": "2026-11-22",
+      "titulo_fuente": "Turkey did its best to reach compromise at COP31 in Antalya — minister",
+      "region": "Perú",
+      "temas": [
+        "Energía y clima"
+      ],
+      "noticias": [
+        {
+          "id": "7e247d366dfb7f3a13c5",
+          "titulo_original": "Turkey did its best to reach compromise at COP31 in Antalya — minister",
+          "titulo_es": "Turquía hizo todo lo posible para llegar a un compromiso en la COP31 en Antalya — ministro",
+          "url": "https://tass.com/world/2223069",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-22T18:20:04+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The UN Climate Change Conference in Antalya, the longest one in the history of the event, concluded without a final document, for the first time since 2009",
+          "resumen_es": "La Conferencia de las Naciones Unidas sobre el Cambio Climático en Antalya, la más larga de la historia del evento, concluyó sin un documento final, por primera vez desde 2009"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Turquía"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia y gobernanza global",
+        "pregunta": "¿Cómo se distribuyen los costos de coordinación y los incentivos para cooperar?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Energía y clima"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6445,6 +6601,50 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-731e2a8b488dd9f9b9ce",
+      "fecha": "2026-11-22",
+      "titulo_fuente": "DNI Clayton says China likely obtained Nvidia AI chips - CNN",
+      "region": "China",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "731e2a8b488dd9f9b9ce",
+          "titulo_original": "DNI Clayton says China likely obtained Nvidia AI chips - CNN",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPXzFxaVhYcDFONTlweU5ZNzdmc29RY1NQaTNtVnRKa3dTUENrRWpuV0hmNE5nSXExLVJzSW9FX25NM1BNazVpaUlZWDM1cm5iSV8tNUR5Z2w5UHFKOXJ6NXl0Tlo4dGpjb1FXZEp3NW1sVmR2Z3hUeVdFZlU5WjFRT3E2eWJ5SFk?oc=5",
+          "fuente": "CNN",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-22T17:03:00+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "DNI Clayton says China likely obtained Nvidia AI chips CNN",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "CNN"
+      ],
+      "actores_mencionados": [
+        "China"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: China"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-e4948406d255c5a8b04c",
       "fecha": "2026-11-22",
       "titulo_fuente": "He tried to merge on the George Washington Bridge. A minute later, he was fatally shot. - CNN",
@@ -6619,48 +6819,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-469ad66dfb44ac81cca7",
-      "fecha": "2026-11-22",
-      "titulo_fuente": "‘Disappointing’: Delegates react after COP31 climate talks end without deal",
-      "region": "Perú",
-      "temas": [
-        "Energía y clima"
-      ],
-      "noticias": [
-        {
-          "id": "469ad66dfb44ac81cca7",
-          "titulo_original": "‘Disappointing’: Delegates react after COP31 climate talks end without deal",
-          "titulo_es": "“Decepcionante”: Los delegados reaccionan después de que las conversaciones climáticas COP31 terminen sin acuerdo",
-          "url": "https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-11-22T16:33:26+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Draft text considered too weak to deal with climate change after oil-producing countries oppose the term 'fossil fuels'.",
-          "resumen_es": "El proyecto de texto considerado demasiado débil para tratar el cambio climático después de que los países productores de petróleo se opongan al término 'combustibles fósiles'."
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia y gobernanza global",
-        "pregunta": "¿Cómo se distribuyen los costos de coordinación y los incentivos para cooperar?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Energía y clima"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-8900818513364ef2a0ab",
       "fecha": "2026-11-22",
       "titulo_fuente": "Russia exposes UNESCO’s fraud in situation around its report on journalists’ safety",
@@ -6830,136 +6988,6 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-0880b706d935532f0caf",
-      "fecha": "2026-11-22",
-      "titulo_fuente": "Incoming Judiciary Chairman responds to President Trump: 'We have the Constitution on our side' - CNN",
-      "region": "Estados Unidos",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "0880b706d935532f0caf",
-          "titulo_original": "Incoming Judiciary Chairman responds to President Trump: 'We have the Constitution on our side' - CNN",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc2FHVVRZZEMxU2x1QU43Y3dINnNyeVpmblNPWlJmRlhQNjdTZmdELXc3V21SenhkNjh1QXc5X1hWN2RhTk1yeGdfQi10REh3ZWYzRk80UklvckI0R3p2V3ZVZjhydmxXOXBkSUw1TFdjUTN1S3I4Y0VuV3NiYTNaVkp6cURFaFhPcjU1ck9ZS1gzbGRMUG5FLWYyb3RoZXBpOVNsRDFfUkFTQS1LTlJ0eGtB?oc=5",
-          "fuente": "CNN",
-          "pais": "Estados Unidos",
-          "fecha": "2026-11-22T16:08:27+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Incoming Judiciary Chairman responds to President Trump: 'We have the Constitution on our side' CNN",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "CNN"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-02167b966f3b730f4703",
-      "fecha": "2026-11-22",
-      "titulo_fuente": "Canada’s PM appears next to Trump impersonator at press dinner",
-      "region": "Estados Unidos",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "02167b966f3b730f4703",
-          "titulo_original": "Canada’s PM appears next to Trump impersonator at press dinner",
-          "titulo_es": "El PM de Canadá aparece junto al imitador de Trump en la cena de prensa",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/canadas-pm-appears-next-to-trump-impersonator-at-press-dinner?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-11-22T16:06:46+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "A Donald Trump impersonator took to the stage alongside Mark Carney at Canada’s annual Parliamentary Press Gallery.",
-          "resumen_es": "Un imitador de Donald Trump tomó el escenario junto a Mark Carney en la Galería de Prensa Parlamentaria anual de Canadá."
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-c03a184cab8f23f0238b",
-      "fecha": "2026-11-22",
-      "titulo_fuente": "Soudan : l’Ethiopie mise en cause dans des frappes de drones sur des zones résidentielles et un bâtiment de l’ONU à Khartoum",
-      "region": "Estados Unidos",
-      "temas": [
-        "Organismos multilaterales"
-      ],
-      "noticias": [
-        {
-          "id": "c03a184cab8f23f0238b",
-          "titulo_original": "Soudan : l’Ethiopie mise en cause dans des frappes de drones sur des zones résidentielles et un bâtiment de l’ONU à Khartoum",
-          "titulo_es": "",
-          "url": "https://www.lemonde.fr/afrique/article/2026/11/22/soudan-l-ethiopie-mise-en-cause-dans-des-frappes-de-drones-sur-des-zones-residentielles-et-un-batiment-de-l-onu-a-khartoum_6814229_3212.html",
-          "fuente": "Le Monde",
-          "pais": "Francia",
-          "fecha": "2026-11-22T16:03:40+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Au début de novembre, le Soudan avait annoncé avoir saisi le Conseil de sécurité de l’ONU et l’Union africaine, accusant le pays voisin de soutenir les paramilitaires des Forces de soutien rapide (FSR), qui s’opposent à l’armée soudanaise depuis 2023 dans une guerre meurtrière.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Le Monde"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Institucionalismo liberal",
-        "pregunta": "¿Qué reglas, mecanismos de cooperación y límites institucionales afectan la decisión?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Organismos multilaterales"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null

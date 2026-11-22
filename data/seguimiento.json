@@ -1,269 +1,41 @@
 {
-  "actualizado_utc": "2026-11-22T18:03:49.668605+00:00",
+  "actualizado_utc": "2026-11-22T18:33:32.553196+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
-      "id": "india-asia",
-      "titulo": "India y Asia-Pacífico",
-      "cantidad_archivada": 2095,
-      "nuevas_24h": 53,
-      "anteriores_24h": 66,
-      "dias_con_registros": 38,
-      "fecha_ultima": "2026-11-22T17:46:32+00:00",
-      "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
-      "publicaciones": [
-        {
-          "id": "284983f33289ed2f883c",
-          "fecha": "2026-11-22T17:46:32+00:00",
-          "titulo": "India-Pakistan cricket rivalry brings World Cup atmosphere to Qatar",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/india-pakistan-cricket-rivalry-brings-world-cup-atmosphere-to-qatar?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "edeffda6a36f04c9fbc2",
-          "fecha": "2026-11-22T17:24:37+00:00",
-          "titulo": "Preparation meets intuition as Gukesh faces Sindarov for world chess crown - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeEEwY3FZckU5VWgyYWZ1QUxfMzVuOWZKdURRZGFLdGFfTzNncHpmbmthUFg5Mmd3VEVpQmRxUmYzb1MycTFsNkR0UDc2UVQ2LXR6NE5aVlc4TGVNZXI3bjFaaTVWMXB0WUJsaFlpMlRHZXh4elkxTEhjdlV2SnhTYmZGZll2MWFCMk5ORXJnT0IyYXhESG9SY1NjWEJsQ1VmWGh5eFRLV1JPUEhldXVjVE9nTkJ3M0R6eUVENdIBwwFBVV95cUxOVENYaWNIZjRyWVhodTA2TXotYmx2YUxCcktOb1Rpc2xSTXJsVGNPcjZ0WjMwdnR0RzNfVzhseVljWjhST1dGUHUwVjhFTGxLUEhCbVhDVzBxX1Y3RjdvUFEybDJRQlhPYUg1bVRvYlNVV3AzcTE2WVVuVzgyWUotUWxkd3FuZ2NnTW1QbVQ5T3hRbExZWGtwbUR6aTk3WEZ2a09zN1ZUMzFUUUJLMnI3N3pxcVlHalNuVlVmVW4yNjRXcm8?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "edfdff95894720ea93dd",
-          "fecha": "2026-11-22T16:23:23+00:00",
-          "titulo": "COP 31 talks fail as EU, others reject any climate deal without language on a fossil fuel phase-out",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/cop31-fails-to-agree-on-climate-deal-in-chaotic-finale/article71731651.ece",
-          "traducida": false
-        },
-        {
-          "id": "5240dfd0b6848b097484",
-          "fecha": "2026-11-22T15:09:57+00:00",
-          "titulo": "Trump’s calls to Kim go unanswered, letter returned unopened: Report - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRUVPTjFWODV2RF9mWXlNYm1RTVR5VW84YlRSMTkwLWQ4ZHpLWGRSUDdVT3kyXzhlcG9tMkpwUjd6bTlhTkppTTg4RFZCQ0t5NXRYZVpzWTlvbHJIZW82MFRUcFZPaDRYcVFnekZxQWJXbkZSRDA0MkRmZlNQY2d4bjY1MWRKRWNfLWhhN0JqZHJYZGhhd0lXWmpCMEx5NjNVdk8zeFI1QWZJUdIBsAFBVV95cUxPNzFJalY4bTNmMDU5M3FxVW1VdWQ0bXhGbXpGN0RPR1NBOTJTMzhIakVIR0JvZHBnMXFaS011MmlBaXBFOVlsQ0NDYmZScEF1MTAweTVpQkFyVjZ0ekNTMllDNldqaHhMVzF2Mlo3X1VMRWZ3LTZLbU5DOUhLWDAxTU1zampqN29Mb0J1LU1PNl9Od3NJenJUcE9MUFcyVXJ6UHJRbjZzS1A0cnN3QUlXXw?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "049e5b210793779ceadc",
-          "fecha": "2026-11-22T14:42:02+00:00",
-          "titulo": "High drama at Bengaluru airport as Sharmila arrives to visit ‘family bungalow’, police stop her - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQemJOU1cwSUdDT3JCdFBKN3c0VDVSZTRZTC1fS04zbUotWkktYjVFSHhvaGJTWWQ1WHpZRkJPZVZYd2JXMEMxRGdUdThmaDFENkJ2UmY4eUFsblh3Mi1aSkhIVFBBRGFIMmowQld1YTA3ZmZrSGNBY1dyNFpmRVFyODJEcTNTNXFYR1FDYVdMZjF2TDkzeXJvdmtlWEd1U0VKZXk5X0RQNDA4d9IBsAFBVV95cUxQNG5TUXBfdzI0Vl8tdVJ1MTRWNEk3QjVWc3Rud2ZYQ2FmcU14MDFZRy1zc3RLVzVrY1RhYWFfdVlOY1ZVbEdpLVBhUGN5S2VuMXhDRE83VW1GdWtPMWpIWlBlRTg3M0tZUzZ2anFYcE9UQWtyd1V4X1VJT2pFRVF3Nklpbno1WnpIUnhXdVh1eUZtbi1XUWlPWVVGa2htT3Z3c3dCeDd6c2czUEdxYm1wYw?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "01898033296855d8583b",
-          "fecha": "2026-11-22T14:35:55+00:00",
-          "titulo": "Why Bangladesh descended into violence ahead of Hasina’s planned return",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/22/why-bangladesh-descended-into-violence-ahead-of-hasinas-planned-return?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "93d5e68b83fc35858587",
-          "fecha": "2026-11-22T14:11:38+00:00",
-          "titulo": "‘Beach Wrestling is a complement to mat wrestling, not a replacement for it’: UWW’s Pedro Silva - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOW9lRVB4a0plOEFreGVIWTZ5aGUzUlNLQWZaSml1c1BTeU5OS3dGaFRsRm5YSXZjMnRnQkFqLWxNbGF5UUY5OHNYTmItMmJTT3pRcnJZQUpzSmJHUi1iU0txV0xfQlJtWHI4OEQ1aVdKa1c1M3pKYk5YOGhvQWhJV1FaUHU0ajBXdjIyNUhadTk1MmRuTkNCU2JSb1ZvcUFxRHNhcXUtaGs5UFdSNEp2ZEtB0gG4AUFVX3lxTFAwdzZnNl9VUlJEWm1PdzRVSDFIVVNoSkZRaEt4YUJ6OEUzaENDMTZneENSMldKRW1RTERlZ0ZyZVAtUzdtX3ZJNkNyZGk0MzRybmx2S3hOcHNPRG5yMUN0NkxzeUQ0X2l6eXNkdi1WeUpncGRVN2RHSDF3MEliQjFXVkF2c1pPMjJlb21DVU9oUnlfT1V3V1FGZWhVNTdSZUlQWlZMMC12ZVhnYUZBbDduMks5VEJZOHg?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "f48f18ac01ad983f3eb5",
-          "fecha": "2026-11-22T12:59:50+00:00",
-          "titulo": "Calls grow for Japan’s education minister to step down over scandals",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/asia/east-asia/article/3375387/calls-grow-japans-education-minister-step-down-over-scandals",
-          "traducida": false
-        },
-        {
-          "id": "cff99b8e5d191eab1933",
-          "fecha": "2026-11-22T12:27:08+00:00",
-          "titulo": "Handloom vs powerloom saris: 5 ways to tell them apart - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeWpST2cyRl9IWmk5NHMzOVdsSWV2MXhEazUyYWJWOHdOS1Z5WGpRZ3FMdzd4ZnZMbjRfY1dSdUVPWGRBUXAwNW1kZFRGT1B6VkwtVzNOU3BkXzZfN0hZbFB4bm5rX1V4Q1FzV2JTTkx0TGZGM0dtcURoYU9MRHpYSnRsd2Q5SWR3UE1LSkFtNWF0ZVVadUZTcHN2c2hXSGd5U3d1alpwMjdYamJHNjRQNDFTWlNEZ9IBvAFBVV95cUxNS2ljd19kMEJrZlZSbVg5RE1fVlhqVWVnMmhmek8zN0l0V084anJublgzajBickRyNTh1ekl4RlBsUl83eEg2SjZmVjdjdUpfcXZlSzBXS3lyNzZVeVV2NEMwYWZnQ0p0dXJsVkU2Si1PS2F6dVJqMVNYYTFjWlA0UVZkM2NncEtZNGZRRVFwTWFQWjhPQjZZOU82dlVfc1BFYldyRlo0enFQOHpTWUpCU0dTdjJfUG5HVEszZA?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "ed3e832ec7e9449d5a14",
-          "fecha": "2026-11-22T11:39:31+00:00",
-          "titulo": "India-EU trade pact likely to be signed on December 16",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/india-eu-trade-pact-likely-to-be-signed-on-december-16/article71731223.ece",
-          "traducida": false
-        },
-        {
-          "id": "f0fa86f4511d3fb41356",
-          "fecha": "2026-11-22T11:25:10+00:00",
-          "titulo": "Elon Musk reveals his daily diet: ‘I usually don’t have lunch’ - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOF81Tk9NVC1wT1BMOHdxSmUwYUlxVFQzakIyYzdZRHBDQ2poVUJQR2FtWFV3a0RadFNiXzMzLUQxcFUxY0dxbVNKWGd2cVppb0IwUmJTbkJlY184WkJ2THlJc0xiVFhTQTRuRGlJMU1CUjZPNjAySEZVOUFBbGtvM0RUdHBNcFM0Tk14ckdST0ZFX3hOaHZHOXc2VEo1MF90VHBNWnFkSm5kUdIBsAFBVV95cUxNaDIxellvdmw0LVY4TVY4T2NELTZBa19qS2hJemxIbGhQbDRQVFFoaXZ2TklKOV9PTzNEMFZwa3R4YTdUQlZIYTg2UG9lZ0lweUJSNUZvT3FSYjBwZ3BfZnFIbnZCMTRsUzlhRTJ0ZFBnRDFLTzNjNjIwbExzUUhPUU92ZXdyUDEwYW4zWURweVlyMnNIcDUzOWJJVjNBN0Z4YlNKSTFfb3ZWRlZsV2htZw?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "0be48e0dbbf946800d45",
-          "fecha": "2026-11-22T10:27:54+00:00",
-          "titulo": "Who is artist Nilima Sheikh? - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYXZqVVN1eHZqTEFya01FSFY4cVU5VEdENDY2WGktenpUWHgzOXVJV0FKcVl4R3N4TXVvUzJtajNRdnRTYmsyNEZYaFA1eGVrdmt5OXBKa3lJVGVfSmplT2FPbHZZZmdTMGJIbHZLOGNCdzNJWkpuSWhoLXhsZEdPZFF6a1Ryd9IBhgFBVV95cUxQYXZqVVN1eHZqTEFya01FSFY4cVU5VEdENDY2WGktenpUWHgzOXVJV0FKcVl4R3N4TXVvUzJtajNRdnRTYmsyNEZYaFA1eGVrdmt5OXBKa3lJVGVfSmplT2FPbHZZZmdTMGJIbHZLOGNCdzNJWkpuSWhoLXhsZEdPZFF6a1Rydw?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "2a3ef60177db95008758",
-          "fecha": "2026-11-22T10:00:45+00:00",
-          "titulo": "When British frowned upon Maharaja of Patiala for wearing a General’s rank uniform - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTlBSU1h3LUVSajBocmZUTm0xMTNyNGNtNnUxcV9Sb19GRXRaXzJKYmVDRzl3TDFRTGFqV0NIMWZNNUU4Rzgzc0RVd0ZoQnNfV1V1NTJnOGkyakEtbjBILUFPdjBqUmh6Z1RjTGtjOWtROU55NXBpVVE2VW9STTdhYkZBSXlGMXVHeHlLdXpSNUVCdDRHTWpIaXZCU18tcXNoZGJ0QnJmeEZjTkpEdzNIZkRvMjJIbG80akxNTWV5RHc1Qk5XeDFwSXpieEhNTnEtczBLUtIB2wFBVV95cUxQMmlEQ2Mzdmt6aHpoRXBBWFlUR0RZbnl4aXQ4YXNzQXBtcWNJLTRQenRpMXNsSFlMdzkwV0c2X01zRlRWZXBzVi1fdXFrcDYteU1UaTU5bWVLX0dCSi1QQmZEa3F6aEdQOThld1dXUGxuRXNCdm14aXVtMEpOTnpXcVdpZms0a2Rxc3FLcEtURU1vbVhPdkRvakhCbnlzOGxWaTl1RVo5RjVUWS1QODBBSDVXUk1vWEdzbU1TVm9weExYTTkydGFISFVoUTRJOGoxbWNBS1hzTUlmXzA?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "0c0518b8b3df99dc06fe",
-          "fecha": "2026-11-22T09:55:23+00:00",
-          "titulo": "Japan: Mascot mania takes over Saitama with 200 colourful characters",
-          "fuente": "Euronews",
-          "url": "https://www.euronews.com/video/2026/11/22/japan-mascot-mania-takes-over-saitama-with-200-colourful-characters",
-          "traducida": false
-        },
-        {
-          "id": "f7da50d1b838ea094fe5",
-          "fecha": "2026-11-22T09:30:03+00:00",
-          "titulo": "Au Japon, la pauvreté des jeunes occultée par la société : « Parfois, je n’avais qu’une tranche de pain de mie par jour »",
-          "fuente": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/22/au-japon-la-pauvrete-des-jeunes-occultee-par-la-societe-parfois-je-n-avais-qu-une-tranche-de-pain-de-mie-par-jour_6814203_3210.html",
-          "traducida": false
-        },
-        {
-          "id": "0e691f833f9faa4cdbe2",
-          "fecha": "2026-11-22T09:14:27+00:00",
-          "titulo": "Indian opposition party’s youth wing warns of more Meta protests after police clashes",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/22/india-congress-meta-protests-police-hyderabad",
-          "traducida": false
-        },
-        {
-          "id": "0aeceac5d022987ad9bc",
-          "fecha": "2026-11-22T08:50:01+00:00",
-          "titulo": "Noor Ahmad says he will miss MS Dhoni’s ‘stumping’ and ‘finishing abilities’ - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR3d6Z2gtM0FpYXlvN2FGaHZ6SnhCakxvQmxoSS04TmlGbENsYV9uMGwxRVVTWUxNZ1B2TkVvSm5WT2NmdnVTelVkcnVMQnZFaFRocG42TTFjcldRZEs2ZUduYXJ2S3U4eFFVbHZnUGJNV3k2b200dXB6UzJXcnlGYXBnaFprZjQzS08yTUNRR0JhYzRXeHgwN21aNXBpQVI1VDlKMXJXRnJ2TF9qQW44emEzbkpwT3hFaHhXMVRDVG5KWnlRN0xYQjZR0gHQAUFVX3lxTE94cF81R0ZiZDBkMGUzclNmWmxxd0J0WkNkSFdMblFkOXpkdUgzNVRoQmlhOEZBa19BOGtoN2tZQjRxMnNHWXZaTkNqSTFrSnhwanN1UjB5R21Fak1ZVmtUU1NIVERURTVJcnJ6VTBxTF92VWd5b0JMTkpkRzhOYUFURzg1dGpvTTBzaWtMWERRYmR1cUh4VHNIN0J5WkVHV25GVDVyWTZ5cnhxd1p3SkxZemFxem4zaHlFSEV1OUV6Rlp0RVNkNGF4S2NuMU9BZ1I?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "18ade8b31604fd25a5e1",
-          "fecha": "2026-11-22T07:43:00+00:00",
-          "titulo": "Taking down enemy drones — with a net. Inside a Bengaluru startup’s creative answer - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjQ1ZE8zUkF6a1J5T1RZUHNmZEZPYm8yc25faXQ3aUJ5VDFwT0VTRWlLdW1nMUxydUM0WjdHMWg1R1VQZ3BvdnlGSFRzUXNOSzk1VTdPbDhHSG9GdkhOb2VmalgzRldHeTBtVTkxbmdWM0tLWGtEUzFXeVRBZW1oeDR5a0QyLS1YTm1yUW5uQ1RMcTJCaUVXMkRNZ05UZWNYQmF2eDhTbW5GZzNobmdkaVM5MkrSAbsBQVVfeXFMUFdhNWhROEdXWVRZU3hRNG1weGprcTBpMFUzZGFDb3dWX2lQY3M4eFNmem41WnpOVHl0ZEJ0V1UxNlFPS0pvTTNVZlVqTmF2NlhGWkVtVnNRWDd1ZEJVQVpMWGlZNEJxN0FzWHJISmFWYm1rTXRPQk1tTFFOcUdYNDRDU2Z1b3I2R2ZmNVc3cUctd2FKeTlQVkllR2NiRnRmTmc3a0FVTTJBdDQ5YUpqay1qTXktQ0pzNVhXQQ?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "0fdfc526d03083c9d489",
-          "fecha": "2026-11-22T07:32:42+00:00",
-          "titulo": "OM box office collection Day 2: Dhanush-Mammootty film sees 14.9% drop, earns Rs 60 crore - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRnpCeS1hVmk4QWlxeEIxWmJZbFZ5Y1VRQnRDM3Vyb3RveHdqdWI4YjE5bFduQlR5WjhzSFhib1kxcUp3Ymx1U0VGdkFLM1hnVTZhWFpfNXN4TUxWVmFyaWh6NV9YMmFIYldCckVSdmFZaWRrMGtfRWdKc1VwS3Q3YlFoZ2hLczB0WVh1SnVKQm1OVklUQjRtNlRrdU9WUllDajJ1N1lGenBxM0c1TS1UZTJsdHp5MHpuNDhBUENuaHl3X0RKbFhvdU9raWJmUE96SUFWSVQwb0pObUtRd0xQOU9RWHXSAesBQVVfeXFMTjlodEJibHI4YmRBS0pJUElvMVdEWjFFVWViRld0al8tSWl5T0p3eGZLZnRod1p5SUNHeWJxS2hFVzRMMTA4UE9OeVJIam1DYjNKV2ZUX0g1N0pzTGlUOVRsVWdtMDhQeGFLblVkTFB3SHNPbHV6SmV4ODZmWFNmdm1HUUpKcG1UdGJCdVVyWWJ4RXJ0ZFQzOWVFa2FqcjBpaDRaelBFbW5ja3J6M2NBNmxvMGJNRlFQNnBtbllKM2pVeUs1SjV0amZUakRRSVUtN1JuRkdFRHI5UXR5S0t2enNuVWVfdkxKYzQ0UQ?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "d54e595d9e24dd54f618",
-          "fecha": "2026-11-22T07:32:31+00:00",
-          "titulo": "Indian-origin man detained in Texas after serving sentence for visual recording conviction",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/indian-origin-man-detained-in-texas-after-serving-sentence-for-visual-recording-conviction/article71730866.ece",
-          "traducida": false
-        },
-        {
-          "id": "a8fd72cac4fa093b811c",
-          "fecha": "2026-11-22T07:27:01+00:00",
-          "titulo": "‘Golden Prison’: Indian Google engineer leaves US after six years on H-1B visa - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRVl6dDhjazhnSEtpNDUxeDNjYV9BbHJoeDZUUUxFSGlOUHY3cmplX2YtSldyclNLR3ZDNTF1TVFaNUU3c2hZaUgzemwyTVFTR0daLWxrRkJ5TWpVZDRJRk1uNEYyaE1heExVMkx4dUVmNzV6WFVseDBoWS15UUEzUV9hS0hfakRtazloRVhwOTBBZ24tT0ZNT2ZTcndjNU1JLXg5aS04YWV0WmdXLUdraS1IUVoyOWltNmxWXzZsTmvSAccBQVVfeXFMUEN5Njc0Z2RYUXpuckstcFNhNldoWjFzcmpqUGlBVWdWVkY2bVhvZG03NkZHdlJ4c0QwSjFEUzFRRlVSdnVKelNES2ZyMnFhNzVlN1FUMk9MbnpVR01ZSm1qZ0lCVVNrcGFGQWY2RURyZmdTNU1tOVg2dnE4NGlESXUzVlBRel9LZ3lLeWl5NGktMVNXM0VnMWppMDR6eFpEdjllQlVSMFZRUUo0M0MtUW8zQ2d5RTFsaFBFMXUyLUxKaFJERF8zMA?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "fdd88653092e48e82e33",
-          "fecha": "2026-11-22T07:24:24+00:00",
-          "titulo": "We need to be lucky and get 8 good balls, says Dhruv Jurel on Wellington pitch - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdmlUTGVWTDVIQS1UaDNucUNXT2RrVm83OE0zcFFpQ3I4VXd3MVVfajVQRklCZU9kY3hiYUFjdGx6MGlwZWlCd29rU3lnelhCYkFMbjhabUpwVno1ZWdHUmlCbjR0akxzSnpYWHYzcnhrdzJMODRJUHJHdHctXzR6M3VXZ0RFM3hxaTUzWFpOSnJXVGdteThRbTFDWFZFcXYzdk5KWm5uM1BJZS16d3hsZkNDWkcwYjhxaUdpUVFMbXFZWG05SDBycjMyRmtXN2x4WWfSAdgBQVVfeXFMTlFoeEx0XzE2cXVIZFgwSW9RZE1MS2ttR2VIcjR1QVhLUEpZdUo3TkJZWFRwZ1p3d2x4cmxjZlRVY1JWeVNoSDNtb0RuT2JvNjRiMXg4b0dET3M2eU50VEsxcEg2YUgyQ3l2V09BUjdWSmhCa3dqNVBORmdHLW5TZjVqWVBHYTYtSFdGYXdya19zX1FNZkNlOEdkRjJDaEZFdnBfaXVCMnFnTFN1TEhwYzBaV3RhMmhTN1Z0a2tSWXJFVzQ0TnFXaXdJRGJlSDBIMFI3X1NNQm1N?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "7bd6c862c7675b454800",
-          "fecha": "2026-11-22T07:03:45+00:00",
-          "titulo": "David Warner manager has a solution for sandpaper, will Australia players respond? - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNGlQRE01a3hGVUl6UkF2YzBmZ0FUWlUtNWpVVHNCYzE2czEtbmZ1SzZhR1pqaXhYVFpZd2o5QWN5azVNNXVQLVpOUDNkRXlDRUNMMDMzWHlsaDdYUHJyT2ZPU0tfMmY2QTA1ak9LWVpvYWE3MTN0VTdrUWZQUFppUGFZejdrQkk3YWQySlNSVUZCeTVfTTEwdHFvU0dVaHphM1dQMUtLWGxONkJIc0U5d3VHWkZDS0o1bHZEQXNRaURfdDFoRkNEc0p3dzVDMjFLbTNlX3Nn0gHcAUFVX3lxTFBfSGVNZWlxTHEycUtzZDc0N1BJNENWRlAyUGdLX1NPenhwdmpNQWtQUnZIdURWNVhLUDd1TkFNWUY3cEhyclZFMVNxUkJOWHg4OVJPNTVvZ2FnM196RW1lYUJZcWx5eVNIZ1lPNWtpalEtSlZMZUpvVG9ub1dHbmx1MWRkQ1dMdjJCOEpKcnZJWk9QZnF4TzRmYnlKanY3VzhIb0xHdVNWTTQ0XzB1MnRmc25ray1YM0lvSHhWTUk2TlJVYUlpd2dCZnhzQ1N0ZmhNX2JHMFhaTXJiWnU?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "9515b08ca36a2c65a8d5",
-          "fecha": "2026-11-22T06:59:43+00:00",
-          "titulo": "Rs 1,090 crore, 8 years, half built: Ambedkar memorial builder faces blacklist in Mumbai - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNG9rN01TUzhZQml1RU5nQXhha3JuVnZQMmVSSGNReUVuWXZjZ0k5NURhS3U4bGQxWHhCTGhCR18tTmQ2RU1NODhMYXZZV21XVkk1NGdzU3ZPcDJnaklzM09OcDAxWmFrUmtVOXJkT2FpMHFySG15ZjBwYmVIaERENnNZRDlrNl9EZHNMdUhlVzVDcHlyX3BDRDZhM0tTS0l5S3BlOExHaFl6dzlDdTkyQ1V0dnN0UUlkQUxUeE9fNmhiVHd4dk55S21KWnJVdklpaVlmT2pn0gHcAUFVX3lxTE50SEJGNW1IUzlOZlVEeEJnRDJrTGRkMUFYUzYxVVVaNmN5aEFfMm5sYkZqMkZobHZzZ3owVWVMd0c4ckJsX2NTenc0YjJZcklFak94Y3FTeFFzdnhwSUQ4VDVyd3o4aVFQU2FpMkYtWDNsaGgxWG5lZDVIMVdqdmtxZWp0WkFkalY3TjZGblg4OC12UU1qVVpTbDB4S0NTRThfLUQtcnpHZ28xWVBjR0lqUXh3dmZzT1hMdkZvT3VPYjNXcmRkTG5Pejl4WExqN1RSSGtvV0oxYzk4aWY?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "cb22c302cee828548ee3",
-          "fecha": "2026-11-22T06:56:03+00:00",
-          "titulo": "Who is the batter that ‘looked immovable and impregnable’ to Gavaskar in Wellington Test - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdkM4UzBJLTBzbTFwU2V1QUQtQlBiOFFiamxnRm5LTkFuTkFuZ1BlWnVRYnFUa0VPR0lrNVdaOHdOWXFyYkxCTzdSMk00bFdXR05HMWlhOXBjbnhBNXR0eEF5d2RQdTVjcW84Mk14Zi1xRWU1cWhaYnA1NGJzclNHWGtrQWZFNTJvTmw0WEwxRXFaT2VzVlQyY3p5eU9BeVVEelVDLXVLLW5URm1SRm1QOTVsZnVMcVVtRUJIZC1JRlRPaW5hTzRDUzRMZVpJV0dUQ2NubWJMLUpDdFVJb3fSAeQBQVVfeXFMT01pUkFJZzlpV29sOWN5Wlg4T3RTYk5LeFJUT2RSOTB4VmpyUTNsYkZnSEZGemJZclI5bWk1QlE3ZW9pdWRleThzOUhkUURzRUFCcU5VWC1YS2FCcHZjTkNtc1E3NVpOaEozN0g2SUI4ODgxOU5JMTlfdVBPV25nX2czRThYbXQ5THNGcHJzdEhTUTROUF9Xd1pCekxZTExPX1dpM3V0TnZOanBCMjFRUl9aVC1SUWl2TVpTU2czNzdoUmhwOEdsRWRseGRhdW5QT3dqU0hzRjZCdEc3aUFCN29uRDky?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "1f124aa4f8c5e3ec6853",
-          "fecha": "2026-11-22T06:40:14+00:00",
-          "titulo": "Indian mathematician cracks 70-year-old maths problem, earns spot on TIME100 Next List - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPdmhKc094cE1ZZ19sNlFvSGlrTXJrajVObmJQVFNOMm5fbEotdUg4MFljdzNMRC1NQzJsaHd3UTl4aUc5UVllejhvNzk5X081TjVta0huYnB6SkhKdDFTWmo0ejZMQ2VaVk1OR0ZmVGN1LVRoYlhJZ1VOUmdmZmNUc1JwNFRBZ2o3TFFjMFNKN0Z6TkRtYVlFSFMxQ1FmSlJMZlc0djM0VUV3aFdjWjFWRG5Xb1NTdkhmWkNSellCb1VlMXR1U3pZTU5YUHhORzUwMVlpcU16S211ZGxtdW5uN05BY3cwRHlBSWNjdXV5UEZ0RThVY0ExMFNJYmjSAYMCQVVfeXFMUGxiaWxxOXpUSVZXQ1MtNFJZNFZIaGtjX0NNZm84bXVpNFFJNTZGU0ZnNVRJaGZEY0UyT2dJcFNIMU5QaTVCOU1jQ1NwUkNrSTZOY1U5QVI5eFJOUXJjOUtHck5fMW5MWEdNNmVlaXZ2bnVrU1FsSldZSFJZU0M1WDBhbDZGX0hhOXVNWENQblIycjgySTFHVC1mS2dmN3g5TVZFMEZrdUliVEp6bjBHYXpnNVVxNjREZndWRnNDVWlldnNuRGFPc2c2NlB1dGVKT3p1SGhodWt5WHNydWxaa2hOSnpVTTlYYjE1UXNucWJtWFYwdG85T01IcnRFcjZjdnhRbw?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "14ba02e9531aec9c39ce",
-          "fecha": "2026-11-22T06:23:30+00:00",
-          "titulo": "IND vs NZ 1st Test: India’s plan to bowl out New Zealand on a flat pitch - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLUFyTkRqZ0FMWUVHTm1pdnBRUUI5TFppaTBHc092V1M1M3dLblBEZk1IQWl6NUxmSHI4ZGlTYUM4bklWenk3SFpBaVRuMlFyU2xYbWhBa2k2dF9PZzBLeGxYT19FWVMxd2xaVmdSMUc2QXBJYzhMOWRnV2JPQTJhSG16R1l1VGxaWF9rRnY2NEJvM3JGM1dJdF9DcjR2bkZRTXU4VjJZdUlmQUhHcUk2NEJlUzlZOHVKYURmb0lQOWpOVS1NbXRRLQ?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "80e1130b09732ec3d9c6",
-          "fecha": "2026-11-22T05:32:55+00:00",
-          "titulo": "‘They are taking my dad’: Masked ICE agents drag two fliers at Seattle Airport - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVThRbS1QVFNaR3NkYXpCbFVXTnZMcUx0RzY4TU9ZbFFZakpLWmVFc182SHJ1MHY4TXIxNzdodmptRkt1ZEVHRUE5U3J0WmprOUJ2cEh1b2stM21oRjRKWk1IVG0wQ0Q1aTFpNl83WHpUb2R0STB0cVR2bndLalRtMWtlRUNnc0lKMzVSbE15UnZLNnBid1VyWWxsa0djdm9DSE03dXhsX3VIdWZfeU50ZlpNVFNhTnJjb1A3U2lTRFpEcjhkRGfSAcwBQVVfeXFMUFV2SXVHRkVZOXd0ZFYzTElxRUl0Mm1Da3AteGNVLUtlaVNLMEZlS2RzZkNJaHR0bHFWa0tIRzNzRldaaGQtNTduNzlKOTlJaUl1TmlmSU8yb0NTSWlPOHZVd3Z2OXdnZ05VNzVvbHM4ZFlnd0xtT28xZjgzaDF5dDFGRkFVc1doeFhBQS1IcjZPdlY1Zng0RVlBT3U4d2x2SEF1c3VsNWhaZ0Z6SDVKOFVzXzdiTDRxQk5GU1NHb0QyX0gxeG9CTUhXMDVL?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "e37aa3d29632851ae6b7",
-          "fecha": "2026-11-22T05:30:06+00:00",
-          "titulo": "La défiance contre les data centers devient mondiale, de l’Inde au Chili en passant par l’Irlande ou le Japon",
-          "fuente": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/22/data-centers-la-defiance-monte-partout-dans-le-monde-de-l-inde-au-chili-en-passant-par-l-irlande-ou-le-japon_6814186_3210.html",
-          "traducida": false
-        },
-        {
-          "id": "882e217a4d18ea1cdc3a",
-          "fecha": "2026-11-22T05:19:24+00:00",
-          "titulo": "Total Chess Chief Arbiter Anastasia Sorokina hits back at FIDE, demands retraction and public apology - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUUY1WkhteVI2elhFcWJ6amxEYmFwRzJUR0h3TmlCZjc2UUNrWnhBYUhfREZxYWlCeS0zakRFNm5WSEhSWGpCNjB2Nm9zLXd4LUh6VTBHSGhpUEtEaTF3aTNnZ1RrU3htcGFHMEtCVGtZMjctVklhOWIzZGwtTjEyUTAtN05xMkVYV3JhVWZFS3doMk5TQWUwVmRGU09UVjVqc0I4WXNYN3NtanQxYUpsQmRYcEJEdknSAb4BQVVfeXFMUEFyRk9odzg0WVhEeXdnS0tVcFEtYWZxb3YzbTc4dkVKYWtvbU5uT0lfMW5PajBRVjVLWFNnZWpGY3hMcmJoR1NILVBJT25MNzdUUzJPWGF5UEJsSUpYbUpUOWtiNHNTVll5eDJlT3FUN0pNcnpfTmw1U3JYc1g5WVR4OUFIZHVncG9mcDBMckdyRTd2RmxweW93LWhjSk5OMWw0c3AtWExXYXZlSmN3WFFRbXpnbGpaQ1o1OHFVQQ?oc=5",
-          "traducida": false
-        }
-      ]
-    },
-    {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 3046,
-      "nuevas_24h": 52,
-      "anteriores_24h": 96,
+      "cantidad_archivada": 3050,
+      "nuevas_24h": 56,
+      "anteriores_24h": 89,
       "dias_con_registros": 38,
-      "fecha_ultima": "2026-11-22T17:30:27+00:00",
+      "fecha_ultima": "2026-11-22T18:11:30+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "d84625d68923cd6b59cc",
+          "fecha": "2026-11-22T18:11:30+00:00",
+          "titulo": "Suspected drone attack causes explosion on Russian ship in Libya",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/suspected-drone-attack-causes-explosion-on-russian-ship-in-libya?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "d5c8cffaadbcef2f0394",
+          "fecha": "2026-11-22T18:05:58+00:00",
+          "titulo": "Nearly 40 Ukrainian drones taken down over Russian regions during day",
+          "fuente": "TASS",
+          "url": "https://tass.com/defense/2223067",
+          "traducida": false
+        },
+        {
+          "id": "3a79b8d5c4b4253131a4",
+          "fecha": "2026-11-22T17:57:43+00:00",
+          "titulo": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+          "fuente": "BBC News",
+          "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+          "traducida": false
+        },
         {
           "id": "1bae32224a04cfa70317",
           "fecha": "2026-11-22T17:30:27+00:00",
@@ -441,6 +213,14 @@
           "traducida": false
         },
         {
+          "id": "4ea9f8af095a88dd55c8",
+          "fecha": "2026-11-22T13:33:27+00:00",
+          "titulo": "Putin asked about India’s languages. PM Modi’s answer surprised him - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZHR4aTE3Tm5EakdIa1dva0lZMGJqa3NBbFNuVmJTTEh6blFmUnlqdDVFYnZTbnJpSVpRNnpOM2FOZjlGYWVGeTJqLTlUQ1I1Z1V6cmFVbU5udndJZVZDZ2hzT01GUTdhOVVUZm9NZDVFRUJ2NkJuUTUtbWUzTklzRkV4TDh6WVdzTUxJOTBSemFOYzl4SVNZbk9VcW9KNnRwWmplRGszT0dMTXZwV3ZV0gG2AUFVX3lxTE1kRC0xVS12RWNTcE00OWVIMl9pM1NUWEFldDl5SU9xMGVsR2tLRTdNby1UblVfVW1xb1NIVllfVGZxbXBYamFGR09EZl9sQTE2Rl9xSks1TkhHM1J2VDZmUEFVcVdwSDlVd1FwWXJQQl9qd2JsQ3NMY2l1MHdCS2phVkQwcTdPbi1fU0ZORk1tVEV4X193dnJNVFJCckJRZTdDOXA5VDloY2gxZ21RTEdiU2wxb0Z3?oc=5",
+          "traducida": false
+        },
+        {
           "id": "9bc686f64d76c63ac859",
           "fecha": "2026-11-22T12:30:07+00:00",
           "titulo": "No grand bargain at Xi-Trump-Putin meeting? That was never the point",
@@ -471,37 +251,257 @@
           "fuente": "TASS",
           "url": "https://tass.com/defense/2223013",
           "traducida": false
-        },
+        }
+      ]
+    },
+    {
+      "id": "india-asia",
+      "titulo": "India y Asia-Pacífico",
+      "cantidad_archivada": 2098,
+      "nuevas_24h": 55,
+      "anteriores_24h": 66,
+      "dias_con_registros": 38,
+      "fecha_ultima": "2026-11-22T17:46:32+00:00",
+      "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
+      "publicaciones": [
         {
-          "id": "2ee9b78998526d1f09f3",
-          "fecha": "2026-11-22T10:40:27+00:00",
-          "titulo": "Kiev loses up to 1,060 troops along engagement line in past day — Russia’s top brass",
-          "fuente": "TASS",
-          "url": "https://tass.com/defense/2223015",
+          "id": "284983f33289ed2f883c",
+          "fecha": "2026-11-22T17:46:32+00:00",
+          "titulo": "India-Pakistan cricket rivalry brings World Cup atmosphere to Qatar",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/india-pakistan-cricket-rivalry-brings-world-cup-atmosphere-to-qatar?traffic_source=rss",
           "traducida": false
         },
         {
-          "id": "f0daec00169ad73d68fb",
-          "fecha": "2026-11-22T10:39:01+00:00",
-          "titulo": "Ukraine: Up to seven feared trapped beneath rubble near Kyiv after Russian attack",
+          "id": "edeffda6a36f04c9fbc2",
+          "fecha": "2026-11-22T17:24:37+00:00",
+          "titulo": "Preparation meets intuition as Gukesh faces Sindarov for world chess crown - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeEEwY3FZckU5VWgyYWZ1QUxfMzVuOWZKdURRZGFLdGFfTzNncHpmbmthUFg5Mmd3VEVpQmRxUmYzb1MycTFsNkR0UDc2UVQ2LXR6NE5aVlc4TGVNZXI3bjFaaTVWMXB0WUJsaFlpMlRHZXh4elkxTEhjdlV2SnhTYmZGZll2MWFCMk5ORXJnT0IyYXhESG9SY1NjWEJsQ1VmWGh5eFRLV1JPUEhldXVjVE9nTkJ3M0R6eUVENdIBwwFBVV95cUxOVENYaWNIZjRyWVhodTA2TXotYmx2YUxCcktOb1Rpc2xSTXJsVGNPcjZ0WjMwdnR0RzNfVzhseVljWjhST1dGUHUwVjhFTGxLUEhCbVhDVzBxX1Y3RjdvUFEybDJRQlhPYUg1bVRvYlNVV3AzcTE2WVVuVzgyWUotUWxkd3FuZ2NnTW1QbVQ5T3hRbExZWGtwbUR6aTk3WEZ2a09zN1ZUMzFUUUJLMnI3N3pxcVlHalNuVlVmVW4yNjRXcm8?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "edfdff95894720ea93dd",
+          "fecha": "2026-11-22T16:23:23+00:00",
+          "titulo": "COP 31 talks fail as EU, others reject any climate deal without language on a fossil fuel phase-out",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/cop31-fails-to-agree-on-climate-deal-in-chaotic-finale/article71731651.ece",
+          "traducida": false
+        },
+        {
+          "id": "5240dfd0b6848b097484",
+          "fecha": "2026-11-22T15:09:57+00:00",
+          "titulo": "Trump’s calls to Kim go unanswered, letter returned unopened: Report - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRUVPTjFWODV2RF9mWXlNYm1RTVR5VW84YlRSMTkwLWQ4ZHpLWGRSUDdVT3kyXzhlcG9tMkpwUjd6bTlhTkppTTg4RFZCQ0t5NXRYZVpzWTlvbHJIZW82MFRUcFZPaDRYcVFnekZxQWJXbkZSRDA0MkRmZlNQY2d4bjY1MWRKRWNfLWhhN0JqZHJYZGhhd0lXWmpCMEx5NjNVdk8zeFI1QWZJUdIBsAFBVV95cUxPNzFJalY4bTNmMDU5M3FxVW1VdWQ0bXhGbXpGN0RPR1NBOTJTMzhIakVIR0JvZHBnMXFaS011MmlBaXBFOVlsQ0NDYmZScEF1MTAweTVpQkFyVjZ0ekNTMllDNldqaHhMVzF2Mlo3X1VMRWZ3LTZLbU5DOUhLWDAxTU1zampqN29Mb0J1LU1PNl9Od3NJenJUcE9MUFcyVXJ6UHJRbjZzS1A0cnN3QUlXXw?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "049e5b210793779ceadc",
+          "fecha": "2026-11-22T14:42:02+00:00",
+          "titulo": "High drama at Bengaluru airport as Sharmila arrives to visit ‘family bungalow’, police stop her - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQemJOU1cwSUdDT3JCdFBKN3c0VDVSZTRZTC1fS04zbUotWkktYjVFSHhvaGJTWWQ1WHpZRkJPZVZYd2JXMEMxRGdUdThmaDFENkJ2UmY4eUFsblh3Mi1aSkhIVFBBRGFIMmowQld1YTA3ZmZrSGNBY1dyNFpmRVFyODJEcTNTNXFYR1FDYVdMZjF2TDkzeXJvdmtlWEd1U0VKZXk5X0RQNDA4d9IBsAFBVV95cUxQNG5TUXBfdzI0Vl8tdVJ1MTRWNEk3QjVWc3Rud2ZYQ2FmcU14MDFZRy1zc3RLVzVrY1RhYWFfdVlOY1ZVbEdpLVBhUGN5S2VuMXhDRE83VW1GdWtPMWpIWlBlRTg3M0tZUzZ2anFYcE9UQWtyd1V4X1VJT2pFRVF3Nklpbno1WnpIUnhXdVh1eUZtbi1XUWlPWVVGa2htT3Z3c3dCeDd6c2czUEdxYm1wYw?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "01898033296855d8583b",
+          "fecha": "2026-11-22T14:35:55+00:00",
+          "titulo": "Why Bangladesh descended into violence ahead of Hasina’s planned return",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/22/why-bangladesh-descended-into-violence-ahead-of-hasinas-planned-return?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "93d5e68b83fc35858587",
+          "fecha": "2026-11-22T14:11:38+00:00",
+          "titulo": "‘Beach Wrestling is a complement to mat wrestling, not a replacement for it’: UWW’s Pedro Silva - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOW9lRVB4a0plOEFreGVIWTZ5aGUzUlNLQWZaSml1c1BTeU5OS3dGaFRsRm5YSXZjMnRnQkFqLWxNbGF5UUY5OHNYTmItMmJTT3pRcnJZQUpzSmJHUi1iU0txV0xfQlJtWHI4OEQ1aVdKa1c1M3pKYk5YOGhvQWhJV1FaUHU0ajBXdjIyNUhadTk1MmRuTkNCU2JSb1ZvcUFxRHNhcXUtaGs5UFdSNEp2ZEtB0gG4AUFVX3lxTFAwdzZnNl9VUlJEWm1PdzRVSDFIVVNoSkZRaEt4YUJ6OEUzaENDMTZneENSMldKRW1RTERlZ0ZyZVAtUzdtX3ZJNkNyZGk0MzRybmx2S3hOcHNPRG5yMUN0NkxzeUQ0X2l6eXNkdi1WeUpncGRVN2RHSDF3MEliQjFXVkF2c1pPMjJlb21DVU9oUnlfT1V3V1FGZWhVNTdSZUlQWlZMMC12ZVhnYUZBbDduMks5VEJZOHg?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "4ea9f8af095a88dd55c8",
+          "fecha": "2026-11-22T13:33:27+00:00",
+          "titulo": "Putin asked about India’s languages. PM Modi’s answer surprised him - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZHR4aTE3Tm5EakdIa1dva0lZMGJqa3NBbFNuVmJTTEh6blFmUnlqdDVFYnZTbnJpSVpRNnpOM2FOZjlGYWVGeTJqLTlUQ1I1Z1V6cmFVbU5udndJZVZDZ2hzT01GUTdhOVVUZm9NZDVFRUJ2NkJuUTUtbWUzTklzRkV4TDh6WVdzTUxJOTBSemFOYzl4SVNZbk9VcW9KNnRwWmplRGszT0dMTXZwV3ZV0gG2AUFVX3lxTE1kRC0xVS12RWNTcE00OWVIMl9pM1NUWEFldDl5SU9xMGVsR2tLRTdNby1UblVfVW1xb1NIVllfVGZxbXBYamFGR09EZl9sQTE2Rl9xSks1TkhHM1J2VDZmUEFVcVdwSDlVd1FwWXJQQl9qd2JsQ3NMY2l1MHdCS2phVkQwcTdPbi1fU0ZORk1tVEV4X193dnJNVFJCckJRZTdDOXA5VDloY2gxZ21RTEdiU2wxb0Z3?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "f48f18ac01ad983f3eb5",
+          "fecha": "2026-11-22T12:59:50+00:00",
+          "titulo": "Calls grow for Japan’s education minister to step down over scandals",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/asia/east-asia/article/3375387/calls-grow-japans-education-minister-step-down-over-scandals",
+          "traducida": false
+        },
+        {
+          "id": "cff99b8e5d191eab1933",
+          "fecha": "2026-11-22T12:27:08+00:00",
+          "titulo": "Handloom vs powerloom saris: 5 ways to tell them apart - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeWpST2cyRl9IWmk5NHMzOVdsSWV2MXhEazUyYWJWOHdOS1Z5WGpRZ3FMdzd4ZnZMbjRfY1dSdUVPWGRBUXAwNW1kZFRGT1B6VkwtVzNOU3BkXzZfN0hZbFB4bm5rX1V4Q1FzV2JTTkx0TGZGM0dtcURoYU9MRHpYSnRsd2Q5SWR3UE1LSkFtNWF0ZVVadUZTcHN2c2hXSGd5U3d1alpwMjdYamJHNjRQNDFTWlNEZ9IBvAFBVV95cUxNS2ljd19kMEJrZlZSbVg5RE1fVlhqVWVnMmhmek8zN0l0V084anJublgzajBickRyNTh1ekl4RlBsUl83eEg2SjZmVjdjdUpfcXZlSzBXS3lyNzZVeVV2NEMwYWZnQ0p0dXJsVkU2Si1PS2F6dVJqMVNYYTFjWlA0UVZkM2NncEtZNGZRRVFwTWFQWjhPQjZZOU82dlVfc1BFYldyRlo0enFQOHpTWUpCU0dTdjJfUG5HVEszZA?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "ed3e832ec7e9449d5a14",
+          "fecha": "2026-11-22T11:39:31+00:00",
+          "titulo": "India-EU trade pact likely to be signed on December 16",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/india-eu-trade-pact-likely-to-be-signed-on-december-16/article71731223.ece",
+          "traducida": false
+        },
+        {
+          "id": "f0fa86f4511d3fb41356",
+          "fecha": "2026-11-22T11:25:10+00:00",
+          "titulo": "Elon Musk reveals his daily diet: ‘I usually don’t have lunch’ - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOF81Tk9NVC1wT1BMOHdxSmUwYUlxVFQzakIyYzdZRHBDQ2poVUJQR2FtWFV3a0RadFNiXzMzLUQxcFUxY0dxbVNKWGd2cVppb0IwUmJTbkJlY184WkJ2THlJc0xiVFhTQTRuRGlJMU1CUjZPNjAySEZVOUFBbGtvM0RUdHBNcFM0Tk14ckdST0ZFX3hOaHZHOXc2VEo1MF90VHBNWnFkSm5kUdIBsAFBVV95cUxNaDIxellvdmw0LVY4TVY4T2NELTZBa19qS2hJemxIbGhQbDRQVFFoaXZ2TklKOV9PTzNEMFZwa3R4YTdUQlZIYTg2UG9lZ0lweUJSNUZvT3FSYjBwZ3BfZnFIbnZCMTRsUzlhRTJ0ZFBnRDFLTzNjNjIwbExzUUhPUU92ZXdyUDEwYW4zWURweVlyMnNIcDUzOWJJVjNBN0Z4YlNKSTFfb3ZWRlZsV2htZw?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "0be48e0dbbf946800d45",
+          "fecha": "2026-11-22T10:27:54+00:00",
+          "titulo": "Who is artist Nilima Sheikh? - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYXZqVVN1eHZqTEFya01FSFY4cVU5VEdENDY2WGktenpUWHgzOXVJV0FKcVl4R3N4TXVvUzJtajNRdnRTYmsyNEZYaFA1eGVrdmt5OXBKa3lJVGVfSmplT2FPbHZZZmdTMGJIbHZLOGNCdzNJWkpuSWhoLXhsZEdPZFF6a1Ryd9IBhgFBVV95cUxQYXZqVVN1eHZqTEFya01FSFY4cVU5VEdENDY2WGktenpUWHgzOXVJV0FKcVl4R3N4TXVvUzJtajNRdnRTYmsyNEZYaFA1eGVrdmt5OXBKa3lJVGVfSmplT2FPbHZZZmdTMGJIbHZLOGNCdzNJWkpuSWhoLXhsZEdPZFF6a1Rydw?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "2a3ef60177db95008758",
+          "fecha": "2026-11-22T10:00:45+00:00",
+          "titulo": "When British frowned upon Maharaja of Patiala for wearing a General’s rank uniform - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTlBSU1h3LUVSajBocmZUTm0xMTNyNGNtNnUxcV9Sb19GRXRaXzJKYmVDRzl3TDFRTGFqV0NIMWZNNUU4Rzgzc0RVd0ZoQnNfV1V1NTJnOGkyakEtbjBILUFPdjBqUmh6Z1RjTGtjOWtROU55NXBpVVE2VW9STTdhYkZBSXlGMXVHeHlLdXpSNUVCdDRHTWpIaXZCU18tcXNoZGJ0QnJmeEZjTkpEdzNIZkRvMjJIbG80akxNTWV5RHc1Qk5XeDFwSXpieEhNTnEtczBLUtIB2wFBVV95cUxQMmlEQ2Mzdmt6aHpoRXBBWFlUR0RZbnl4aXQ4YXNzQXBtcWNJLTRQenRpMXNsSFlMdzkwV0c2X01zRlRWZXBzVi1fdXFrcDYteU1UaTU5bWVLX0dCSi1QQmZEa3F6aEdQOThld1dXUGxuRXNCdm14aXVtMEpOTnpXcVdpZms0a2Rxc3FLcEtURU1vbVhPdkRvakhCbnlzOGxWaTl1RVo5RjVUWS1QODBBSDVXUk1vWEdzbU1TVm9weExYTTkydGFISFVoUTRJOGoxbWNBS1hzTUlmXzA?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "0c0518b8b3df99dc06fe",
+          "fecha": "2026-11-22T09:55:23+00:00",
+          "titulo": "Japan: Mascot mania takes over Saitama with 200 colourful characters",
           "fuente": "Euronews",
-          "url": "https://www.euronews.com/video/2026/11/22/ukraine-up-to-seven-feared-trapped-beneath-rubble-near-kyiv-after-russian-attack",
+          "url": "https://www.euronews.com/video/2026/11/22/japan-mascot-mania-takes-over-saitama-with-200-colourful-characters",
           "traducida": false
         },
         {
-          "id": "45af00ca213b08a912f0",
-          "fecha": "2026-11-22T09:49:20+00:00",
-          "titulo": "14 missing after Russian strike as Zelenskyy presses US over Patriot missiles",
-          "fuente": "POLITICO Europe",
-          "url": "https://www.politico.eu/article/14-missing-after-russian-strike-zelenskyy-presses-us-patriot-missiles/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "id": "f7da50d1b838ea094fe5",
+          "fecha": "2026-11-22T09:30:03+00:00",
+          "titulo": "Au Japon, la pauvreté des jeunes occultée par la société : « Parfois, je n’avais qu’une tranche de pain de mie par jour »",
+          "fuente": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/22/au-japon-la-pauvrete-des-jeunes-occultee-par-la-societe-parfois-je-n-avais-qu-une-tranche-de-pain-de-mie-par-jour_6814203_3210.html",
           "traducida": false
         },
         {
-          "id": "f1a868f1048945641627",
-          "fecha": "2026-11-22T08:29:42+00:00",
-          "titulo": "Ukraine delivers massive strike on DPR’s energy infrastructure overnight",
-          "fuente": "TASS",
-          "url": "https://tass.com/emergencies/2223003",
+          "id": "0e691f833f9faa4cdbe2",
+          "fecha": "2026-11-22T09:14:27+00:00",
+          "titulo": "Indian opposition party’s youth wing warns of more Meta protests after police clashes",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/22/india-congress-meta-protests-police-hyderabad",
+          "traducida": false
+        },
+        {
+          "id": "0aeceac5d022987ad9bc",
+          "fecha": "2026-11-22T08:50:01+00:00",
+          "titulo": "Noor Ahmad says he will miss MS Dhoni’s ‘stumping’ and ‘finishing abilities’ - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR3d6Z2gtM0FpYXlvN2FGaHZ6SnhCakxvQmxoSS04TmlGbENsYV9uMGwxRVVTWUxNZ1B2TkVvSm5WT2NmdnVTelVkcnVMQnZFaFRocG42TTFjcldRZEs2ZUduYXJ2S3U4eFFVbHZnUGJNV3k2b200dXB6UzJXcnlGYXBnaFprZjQzS08yTUNRR0JhYzRXeHgwN21aNXBpQVI1VDlKMXJXRnJ2TF9qQW44emEzbkpwT3hFaHhXMVRDVG5KWnlRN0xYQjZR0gHQAUFVX3lxTE94cF81R0ZiZDBkMGUzclNmWmxxd0J0WkNkSFdMblFkOXpkdUgzNVRoQmlhOEZBa19BOGtoN2tZQjRxMnNHWXZaTkNqSTFrSnhwanN1UjB5R21Fak1ZVmtUU1NIVERURTVJcnJ6VTBxTF92VWd5b0JMTkpkRzhOYUFURzg1dGpvTTBzaWtMWERRYmR1cUh4VHNIN0J5WkVHV25GVDVyWTZ5cnhxd1p3SkxZemFxem4zaHlFSEV1OUV6Rlp0RVNkNGF4S2NuMU9BZ1I?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "18ade8b31604fd25a5e1",
+          "fecha": "2026-11-22T07:43:00+00:00",
+          "titulo": "Taking down enemy drones — with a net. Inside a Bengaluru startup’s creative answer - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjQ1ZE8zUkF6a1J5T1RZUHNmZEZPYm8yc25faXQ3aUJ5VDFwT0VTRWlLdW1nMUxydUM0WjdHMWg1R1VQZ3BvdnlGSFRzUXNOSzk1VTdPbDhHSG9GdkhOb2VmalgzRldHeTBtVTkxbmdWM0tLWGtEUzFXeVRBZW1oeDR5a0QyLS1YTm1yUW5uQ1RMcTJCaUVXMkRNZ05UZWNYQmF2eDhTbW5GZzNobmdkaVM5MkrSAbsBQVVfeXFMUFdhNWhROEdXWVRZU3hRNG1weGprcTBpMFUzZGFDb3dWX2lQY3M4eFNmem41WnpOVHl0ZEJ0V1UxNlFPS0pvTTNVZlVqTmF2NlhGWkVtVnNRWDd1ZEJVQVpMWGlZNEJxN0FzWHJISmFWYm1rTXRPQk1tTFFOcUdYNDRDU2Z1b3I2R2ZmNVc3cUctd2FKeTlQVkllR2NiRnRmTmc3a0FVTTJBdDQ5YUpqay1qTXktQ0pzNVhXQQ?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "0fdfc526d03083c9d489",
+          "fecha": "2026-11-22T07:32:42+00:00",
+          "titulo": "OM box office collection Day 2: Dhanush-Mammootty film sees 14.9% drop, earns Rs 60 crore - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRnpCeS1hVmk4QWlxeEIxWmJZbFZ5Y1VRQnRDM3Vyb3RveHdqdWI4YjE5bFduQlR5WjhzSFhib1kxcUp3Ymx1U0VGdkFLM1hnVTZhWFpfNXN4TUxWVmFyaWh6NV9YMmFIYldCckVSdmFZaWRrMGtfRWdKc1VwS3Q3YlFoZ2hLczB0WVh1SnVKQm1OVklUQjRtNlRrdU9WUllDajJ1N1lGenBxM0c1TS1UZTJsdHp5MHpuNDhBUENuaHl3X0RKbFhvdU9raWJmUE96SUFWSVQwb0pObUtRd0xQOU9RWHXSAesBQVVfeXFMTjlodEJibHI4YmRBS0pJUElvMVdEWjFFVWViRld0al8tSWl5T0p3eGZLZnRod1p5SUNHeWJxS2hFVzRMMTA4UE9OeVJIam1DYjNKV2ZUX0g1N0pzTGlUOVRsVWdtMDhQeGFLblVkTFB3SHNPbHV6SmV4ODZmWFNmdm1HUUpKcG1UdGJCdVVyWWJ4RXJ0ZFQzOWVFa2FqcjBpaDRaelBFbW5ja3J6M2NBNmxvMGJNRlFQNnBtbllKM2pVeUs1SjV0amZUakRRSVUtN1JuRkdFRHI5UXR5S0t2enNuVWVfdkxKYzQ0UQ?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "d54e595d9e24dd54f618",
+          "fecha": "2026-11-22T07:32:31+00:00",
+          "titulo": "Indian-origin man detained in Texas after serving sentence for visual recording conviction",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/indian-origin-man-detained-in-texas-after-serving-sentence-for-visual-recording-conviction/article71730866.ece",
+          "traducida": false
+        },
+        {
+          "id": "a8fd72cac4fa093b811c",
+          "fecha": "2026-11-22T07:27:01+00:00",
+          "titulo": "‘Golden Prison’: Indian Google engineer leaves US after six years on H-1B visa - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRVl6dDhjazhnSEtpNDUxeDNjYV9BbHJoeDZUUUxFSGlOUHY3cmplX2YtSldyclNLR3ZDNTF1TVFaNUU3c2hZaUgzemwyTVFTR0daLWxrRkJ5TWpVZDRJRk1uNEYyaE1heExVMkx4dUVmNzV6WFVseDBoWS15UUEzUV9hS0hfakRtazloRVhwOTBBZ24tT0ZNT2ZTcndjNU1JLXg5aS04YWV0WmdXLUdraS1IUVoyOWltNmxWXzZsTmvSAccBQVVfeXFMUEN5Njc0Z2RYUXpuckstcFNhNldoWjFzcmpqUGlBVWdWVkY2bVhvZG03NkZHdlJ4c0QwSjFEUzFRRlVSdnVKelNES2ZyMnFhNzVlN1FUMk9MbnpVR01ZSm1qZ0lCVVNrcGFGQWY2RURyZmdTNU1tOVg2dnE4NGlESXUzVlBRel9LZ3lLeWl5NGktMVNXM0VnMWppMDR6eFpEdjllQlVSMFZRUUo0M0MtUW8zQ2d5RTFsaFBFMXUyLUxKaFJERF8zMA?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "fdd88653092e48e82e33",
+          "fecha": "2026-11-22T07:24:24+00:00",
+          "titulo": "We need to be lucky and get 8 good balls, says Dhruv Jurel on Wellington pitch - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdmlUTGVWTDVIQS1UaDNucUNXT2RrVm83OE0zcFFpQ3I4VXd3MVVfajVQRklCZU9kY3hiYUFjdGx6MGlwZWlCd29rU3lnelhCYkFMbjhabUpwVno1ZWdHUmlCbjR0akxzSnpYWHYzcnhrdzJMODRJUHJHdHctXzR6M3VXZ0RFM3hxaTUzWFpOSnJXVGdteThRbTFDWFZFcXYzdk5KWm5uM1BJZS16d3hsZkNDWkcwYjhxaUdpUVFMbXFZWG05SDBycjMyRmtXN2x4WWfSAdgBQVVfeXFMTlFoeEx0XzE2cXVIZFgwSW9RZE1MS2ttR2VIcjR1QVhLUEpZdUo3TkJZWFRwZ1p3d2x4cmxjZlRVY1JWeVNoSDNtb0RuT2JvNjRiMXg4b0dET3M2eU50VEsxcEg2YUgyQ3l2V09BUjdWSmhCa3dqNVBORmdHLW5TZjVqWVBHYTYtSFdGYXdya19zX1FNZkNlOEdkRjJDaEZFdnBfaXVCMnFnTFN1TEhwYzBaV3RhMmhTN1Z0a2tSWXJFVzQ0TnFXaXdJRGJlSDBIMFI3X1NNQm1N?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "7bd6c862c7675b454800",
+          "fecha": "2026-11-22T07:03:45+00:00",
+          "titulo": "David Warner manager has a solution for sandpaper, will Australia players respond? - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNGlQRE01a3hGVUl6UkF2YzBmZ0FUWlUtNWpVVHNCYzE2czEtbmZ1SzZhR1pqaXhYVFpZd2o5QWN5azVNNXVQLVpOUDNkRXlDRUNMMDMzWHlsaDdYUHJyT2ZPU0tfMmY2QTA1ak9LWVpvYWE3MTN0VTdrUWZQUFppUGFZejdrQkk3YWQySlNSVUZCeTVfTTEwdHFvU0dVaHphM1dQMUtLWGxONkJIc0U5d3VHWkZDS0o1bHZEQXNRaURfdDFoRkNEc0p3dzVDMjFLbTNlX3Nn0gHcAUFVX3lxTFBfSGVNZWlxTHEycUtzZDc0N1BJNENWRlAyUGdLX1NPenhwdmpNQWtQUnZIdURWNVhLUDd1TkFNWUY3cEhyclZFMVNxUkJOWHg4OVJPNTVvZ2FnM196RW1lYUJZcWx5eVNIZ1lPNWtpalEtSlZMZUpvVG9ub1dHbmx1MWRkQ1dMdjJCOEpKcnZJWk9QZnF4TzRmYnlKanY3VzhIb0xHdVNWTTQ0XzB1MnRmc25ray1YM0lvSHhWTUk2TlJVYUlpd2dCZnhzQ1N0ZmhNX2JHMFhaTXJiWnU?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "9515b08ca36a2c65a8d5",
+          "fecha": "2026-11-22T06:59:43+00:00",
+          "titulo": "Rs 1,090 crore, 8 years, half built: Ambedkar memorial builder faces blacklist in Mumbai - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNG9rN01TUzhZQml1RU5nQXhha3JuVnZQMmVSSGNReUVuWXZjZ0k5NURhS3U4bGQxWHhCTGhCR18tTmQ2RU1NODhMYXZZV21XVkk1NGdzU3ZPcDJnaklzM09OcDAxWmFrUmtVOXJkT2FpMHFySG15ZjBwYmVIaERENnNZRDlrNl9EZHNMdUhlVzVDcHlyX3BDRDZhM0tTS0l5S3BlOExHaFl6dzlDdTkyQ1V0dnN0UUlkQUxUeE9fNmhiVHd4dk55S21KWnJVdklpaVlmT2pn0gHcAUFVX3lxTE50SEJGNW1IUzlOZlVEeEJnRDJrTGRkMUFYUzYxVVVaNmN5aEFfMm5sYkZqMkZobHZzZ3owVWVMd0c4ckJsX2NTenc0YjJZcklFak94Y3FTeFFzdnhwSUQ4VDVyd3o4aVFQU2FpMkYtWDNsaGgxWG5lZDVIMVdqdmtxZWp0WkFkalY3TjZGblg4OC12UU1qVVpTbDB4S0NTRThfLUQtcnpHZ28xWVBjR0lqUXh3dmZzT1hMdkZvT3VPYjNXcmRkTG5Pejl4WExqN1RSSGtvV0oxYzk4aWY?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "cb22c302cee828548ee3",
+          "fecha": "2026-11-22T06:56:03+00:00",
+          "titulo": "Who is the batter that ‘looked immovable and impregnable’ to Gavaskar in Wellington Test - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdkM4UzBJLTBzbTFwU2V1QUQtQlBiOFFiamxnRm5LTkFuTkFuZ1BlWnVRYnFUa0VPR0lrNVdaOHdOWXFyYkxCTzdSMk00bFdXR05HMWlhOXBjbnhBNXR0eEF5d2RQdTVjcW84Mk14Zi1xRWU1cWhaYnA1NGJzclNHWGtrQWZFNTJvTmw0WEwxRXFaT2VzVlQyY3p5eU9BeVVEelVDLXVLLW5URm1SRm1QOTVsZnVMcVVtRUJIZC1JRlRPaW5hTzRDUzRMZVpJV0dUQ2NubWJMLUpDdFVJb3fSAeQBQVVfeXFMT01pUkFJZzlpV29sOWN5Wlg4T3RTYk5LeFJUT2RSOTB4VmpyUTNsYkZnSEZGemJZclI5bWk1QlE3ZW9pdWRleThzOUhkUURzRUFCcU5VWC1YS2FCcHZjTkNtc1E3NVpOaEozN0g2SUI4ODgxOU5JMTlfdVBPV25nX2czRThYbXQ5THNGcHJzdEhTUTROUF9Xd1pCekxZTExPX1dpM3V0TnZOanBCMjFRUl9aVC1SUWl2TVpTU2czNzdoUmhwOEdsRWRseGRhdW5QT3dqU0hzRjZCdEc3aUFCN29uRDky?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "1f124aa4f8c5e3ec6853",
+          "fecha": "2026-11-22T06:40:14+00:00",
+          "titulo": "Indian mathematician cracks 70-year-old maths problem, earns spot on TIME100 Next List - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPdmhKc094cE1ZZ19sNlFvSGlrTXJrajVObmJQVFNOMm5fbEotdUg4MFljdzNMRC1NQzJsaHd3UTl4aUc5UVllejhvNzk5X081TjVta0huYnB6SkhKdDFTWmo0ejZMQ2VaVk1OR0ZmVGN1LVRoYlhJZ1VOUmdmZmNUc1JwNFRBZ2o3TFFjMFNKN0Z6TkRtYVlFSFMxQ1FmSlJMZlc0djM0VUV3aFdjWjFWRG5Xb1NTdkhmWkNSellCb1VlMXR1U3pZTU5YUHhORzUwMVlpcU16S211ZGxtdW5uN05BY3cwRHlBSWNjdXV5UEZ0RThVY0ExMFNJYmjSAYMCQVVfeXFMUGxiaWxxOXpUSVZXQ1MtNFJZNFZIaGtjX0NNZm84bXVpNFFJNTZGU0ZnNVRJaGZEY0UyT2dJcFNIMU5QaTVCOU1jQ1NwUkNrSTZOY1U5QVI5eFJOUXJjOUtHck5fMW5MWEdNNmVlaXZ2bnVrU1FsSldZSFJZU0M1WDBhbDZGX0hhOXVNWENQblIycjgySTFHVC1mS2dmN3g5TVZFMEZrdUliVEp6bjBHYXpnNVVxNjREZndWRnNDVWlldnNuRGFPc2c2NlB1dGVKT3p1SGhodWt5WHNydWxaa2hOSnpVTTlYYjE1UXNucWJtWFYwdG85T01IcnRFcjZjdnhRbw?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "14ba02e9531aec9c39ce",
+          "fecha": "2026-11-22T06:23:30+00:00",
+          "titulo": "IND vs NZ 1st Test: India’s plan to bowl out New Zealand on a flat pitch - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLUFyTkRqZ0FMWUVHTm1pdnBRUUI5TFppaTBHc092V1M1M3dLblBEZk1IQWl6NUxmSHI4ZGlTYUM4bklWenk3SFpBaVRuMlFyU2xYbWhBa2k2dF9PZzBLeGxYT19FWVMxd2xaVmdSMUc2QXBJYzhMOWRnV2JPQTJhSG16R1l1VGxaWF9rRnY2NEJvM3JGM1dJdF9DcjR2bkZRTXU4VjJZdUlmQUhHcUk2NEJlUzlZOHVKYURmb0lQOWpOVS1NbXRRLQ?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "80e1130b09732ec3d9c6",
+          "fecha": "2026-11-22T05:32:55+00:00",
+          "titulo": "‘They are taking my dad’: Masked ICE agents drag two fliers at Seattle Airport - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVThRbS1QVFNaR3NkYXpCbFVXTnZMcUx0RzY4TU9ZbFFZakpLWmVFc182SHJ1MHY4TXIxNzdodmptRkt1ZEVHRUE5U3J0WmprOUJ2cEh1b2stM21oRjRKWk1IVG0wQ0Q1aTFpNl83WHpUb2R0STB0cVR2bndLalRtMWtlRUNnc0lKMzVSbE15UnZLNnBid1VyWWxsa0djdm9DSE03dXhsX3VIdWZfeU50ZlpNVFNhTnJjb1A3U2lTRFpEcjhkRGfSAcwBQVVfeXFMUFV2SXVHRkVZOXd0ZFYzTElxRUl0Mm1Da3AteGNVLUtlaVNLMEZlS2RzZkNJaHR0bHFWa0tIRzNzRldaaGQtNTduNzlKOTlJaUl1TmlmSU8yb0NTSWlPOHZVd3Z2OXdnZ05VNzVvbHM4ZFlnd0xtT28xZjgzaDF5dDFGRkFVc1doeFhBQS1IcjZPdlY1Zng0RVlBT3U4d2x2SEF1c3VsNWhaZ0Z6SDVKOFVzXzdiTDRxQk5GU1NHb0QyX0gxeG9CTUhXMDVL?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "e37aa3d29632851ae6b7",
+          "fecha": "2026-11-22T05:30:06+00:00",
+          "titulo": "La défiance contre les data centers devient mondiale, de l’Inde au Chili en passant par l’Irlande ou le Japon",
+          "fuente": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/11/22/data-centers-la-defiance-monte-partout-dans-le-monde-de-l-inde-au-chili-en-passant-par-l-irlande-ou-le-japon_6814186_3210.html",
           "traducida": false
         }
       ]
@@ -509,13 +509,45 @@
     {
       "id": "oriente-medio",
       "titulo": "Oriente Medio: seguridad y diplomacia",
-      "cantidad_archivada": 1930,
-      "nuevas_24h": 38,
-      "anteriores_24h": 43,
+      "cantidad_archivada": 1934,
+      "nuevas_24h": 40,
+      "anteriores_24h": 45,
       "dias_con_registros": 38,
-      "fecha_ultima": "2026-11-22T17:57:07+00:00",
+      "fecha_ultima": "2026-11-22T18:24:00+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "bf04e3f7096097d9181d",
+          "fecha": "2026-11-22T18:24:00+00:00",
+          "titulo": "COP não terminava sem acordo desde 2009",
+          "fuente": "Agência Brasil (EBC)",
+          "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/cop-nao-terminava-sem-acordo-desde-2009",
+          "traducida": false
+        },
+        {
+          "id": "7e247d366dfb7f3a13c5",
+          "fecha": "2026-11-22T18:20:04+00:00",
+          "titulo": "Turkey did its best to reach compromise at COP31 in Antalya — minister",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2223069",
+          "traducida": false
+        },
+        {
+          "id": "f21154d75441a5752e40",
+          "fecha": "2026-11-22T18:07:13+00:00",
+          "titulo": "Tanker incident “involving military forces” reported in Strait of Hormuz",
+          "fuente": "Euronews",
+          "url": "https://www.euronews.com/2026/11/22/tanker-incident-involving-military-forces-reported-in-strait-of-hormuz",
+          "traducida": false
+        },
+        {
+          "id": "8f5de30604270c937b6c",
+          "fecha": "2026-11-22T18:04:25+00:00",
+          "titulo": "UN climate talks collapse without a deal",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/un-climate-talks-collapse-without-a-deal?traffic_source=rss",
+          "traducida": false
+        },
         {
           "id": "076ff7d9f968674d6dd0",
           "fecha": "2026-11-22T17:57:07+00:00",
@@ -722,38 +754,6 @@
           "titulo": "Gadi Eisenkot invites Netanyahu's Likud party for 'marathon' coalition talks",
           "fuente": "Euronews",
           "url": "https://www.euronews.com/2026/11/22/gadi-eisenkot-invites-netanyahus-likud-party-for-marathon-coalition-talks",
-          "traducida": false
-        },
-        {
-          "id": "916839ba694aa1a3d8a3",
-          "fecha": "2026-11-22T06:51:27+00:00",
-          "titulo": "COP31: Turkiye's final draft doesn't mention the words ‘fossil fuels’ that cause global warming",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/cop31-turkiyes-final-draft-doesnt-mention-the-words-fossil-fuels-that-cause-global-warming/article71730648.ece",
-          "traducida": false
-        },
-        {
-          "id": "4482234b47a9a6e6ece5",
-          "fecha": "2026-11-21T23:22:31+00:00",
-          "titulo": "Rahul Gandhi breaks from Sonia, Priyanka on Israel. Left allies hit out - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTnJVdTBfQnJERmI0U3I3bE9WSHRaR1U4elVvU1M3U0JjcnYtNHdQZHphbkdfb0pabW5BYjcwVTdHdTFBMGxqZGJzOUlpZkpaLXVUeTRHa2NvbEpLWlJXa1V1Ti1Yb1dOMEppbkpCTTZ6UzNYaEFSclp0ZXktX2FJT25Ram5oY05reEtpRDUwV3ZEdHEwNFpGZmgyaWwwelhFd1V3YXNoUDVlNHBRLUHSAbQBQVVfeXFMTklSVjNtVGZSV08xY2VoTzVzV3ROYnFSREZHLVdUUTREdzhVNUJFeU02bjJ4Q2pTUlNqZEVudWFua0RYcmlWRS02SnlTYVFfV2RfT1UzcnNaaXdid1cwdGdsNmNMQmJidDl3T1VHMlliSWJDWDMxOXF3VkU4NUpJR2xYMldzblE5blNMakYxNVB1YmNlTkMxeURTS1V4NWs4UVQ4ZWViRXZ3ZlppV0kzM3R1RGJq?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "b61f072fc4179121f07d",
-          "fecha": "2026-11-21T23:10:00+00:00",
-          "titulo": "US-Iran War Live Updates: Tehran says it hit US radars in Bahrain as fire breaks out at civilian site - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNVFgxalFIZGlucjBYRGlPbVh6WmRhc21KT1pia2ZNZ2ZWN3ZrQWlxLWR5UHA0bWtsTHhMV0RDdTR1amdpd3VtYldocDVGYUFQU1dkYU5wdFdTekp4UTUtclZma3JJTG1YbE9zbjJVTFNaYkkyR2NlNHlfRnVPWFpfeURkSFpCRE5UTi1CS01Kck84RHZvaldsbDVZRjB2MURHM3paTEVWREJ6SHpuWVJJSmZGU3pfRUZ0NlVOamZ2d0pnUUEzbjZ1Z25yLS1DWDhldllxYzY2SHNNUmRtQ3daMF9oWDd2TVNpcmZkOWdhV0s4eU9WSjBCd2ZWNG1lTnhPcUUwejZaY2djZkI3OENGcHFGUEFXYWhCUWlqaA?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "1b1f7ba22aabf2c1448d",
-          "fecha": "2026-11-21T21:32:51+00:00",
-          "titulo": "Iran attacks US bases in Bahrain as its tankers get ready to break the US blockade",
-          "fuente": "Euronews",
-          "url": "https://www.euronews.com/2026/11/21/iran-attacks-us-bases-in-bahrain-as-its-tankers-get-ready-to-break-the-us-blockade",
           "traducida": false
         }
       ]
@@ -1015,7 +1015,7 @@
       "titulo": "Competencia estratégica Estados Unidos–China",
       "cantidad_archivada": 368,
       "nuevas_24h": 8,
-      "anteriores_24h": 21,
+      "anteriores_24h": 20,
       "dias_con_registros": 35,
       "fecha_ultima": "2026-11-22T12:30:07+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -1517,13 +1517,21 @@
     {
       "id": "onu",
       "titulo": "Naciones Unidas y multilateralismo",
-      "cantidad_archivada": 97,
-      "nuevas_24h": 1,
+      "cantidad_archivada": 98,
+      "nuevas_24h": 2,
       "anteriores_24h": 0,
       "dias_con_registros": 31,
-      "fecha_ultima": "2026-11-22T15:02:42+00:00",
+      "fecha_ultima": "2026-11-22T18:04:45+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "16e825a38726b56c7fa9",
+          "fecha": "2026-11-22T18:04:45+00:00",
+          "titulo": "Major Cop meetings that ended in failure, deadlock or disappointment",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/europe/article/3375400/major-cop-meetings-ended-failure-deadlock-or-disappointment",
+          "traducida": false
+        },
         {
           "id": "17599e4c46b1759e547a",
           "fecha": "2026-11-22T15:02:42+00:00",
@@ -1754,14 +1762,6 @@
           "titulo": "Tehran has no plans to give up enriched uranium — Security Council secretary",
           "fuente": "TASS",
           "url": "https://tass.com/world/2216049",
-          "traducida": false
-        },
-        {
-          "id": "afcfaff8f44ee3e2494f",
-          "fecha": "2026-11-11T09:11:32+00:00",
-          "titulo": "World leaders begin UN climate talks amid concerns action on global warming too slow",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/world/africa/article/3374065/world-leaders-begin-un-climate-talks-amid-concerns-action-global-warming-too-slow",
           "traducida": false
         }
       ]
