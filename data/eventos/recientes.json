@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-11-22T20:25:44.205566+00:00",
+  "created_utc": "2026-11-22T20:52:54.919753+00:00",
   "events": [
     {
       "id": "a-ed3e832ec7e9449d5a14",
@@ -191,6 +191,52 @@
         "Cobertura de fuentes distintas",
         "Actores relevantes: Unión Europea",
         "Ámbito: Diplomacia, Energía y clima"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-45830c26870b639c47dc",
+      "fecha": "2026-11-22",
+      "titulo_fuente": "Trump tells Europeans they should spend money on their economies instead of Ukraine",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "45830c26870b639c47dc",
+          "titulo_original": "Trump tells Europeans they should spend money on their economies instead of Ukraine",
+          "titulo_es": "Trump dice Los europeos deben gastar dinero en sus economías en lugar de Ucrania",
+          "url": "https://tass.com/world/2223087",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-22T20:32:36+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Jared Kushner, his special envoy, has confirmed that the conversation took place during consultations with the leaders of the Coalition of the Willing",
+          "resumen_es": "Jared Kushner, su enviado especial, ha confirmado que la conversación tuvo lugar durante las consultas con los líderes de la Coalición de la Voluntad"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Ucrania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia compleja y economía política internacional",
+        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos, Ucrania",
+        "Ámbito: Comercio y finanzas"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -2185,48 +2231,34 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-98d53eeacb1b1f0964e4",
-      "fecha": "2026-11-21",
-      "titulo_fuente": "Israeli strike hits food aid vehicle in Gaza, killing three",
-      "region": "Oriente Medio",
+      "id": "a-8518cc1fd48f364d8ef4",
+      "fecha": "2026-11-22",
+      "titulo_fuente": "Kindergarten in Gorlovka damaged in Ukraine’s drone attack",
+      "region": "Rusia-Ucrania",
       "temas": [
         "Seguridad y conflictos"
       ],
       "noticias": [
         {
-          "id": "98d53eeacb1b1f0964e4",
-          "titulo_original": "Israeli strike hits food aid vehicle in Gaza, killing three",
-          "titulo_es": "La huelga israelí golpea el vehículo de ayuda alimentaria en Gaza, matando a tres",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-israel-targets-gaza-food-truck?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-11-21T17:54:19+00:00",
+          "id": "8518cc1fd48f364d8ef4",
+          "titulo_original": "Kindergarten in Gorlovka damaged in Ukraine’s drone attack",
+          "titulo_es": "Kindergarten en Gorlovka dañado en el ataque del drone de Ucrania",
+          "url": "https://tass.com/emergencies/2223089",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-22T20:48:32+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Three Palestinians were killed in an Israeli air attack on a vehicle carrying food.",
-          "resumen_es": "Three Palestinians were killed in an Israeli air attack on a vehicle carrying food."
-        },
-        {
-          "id": "befbd09c0299e6d7ee89",
-          "titulo_original": "Israeli strike kills three in vehicle distributing aid in Gaza, witnesses say",
-          "titulo_es": "La huelga israelí mata a tres en vehículos distribuyendo ayuda en Gaza, dicen los testigos",
-          "url": "https://www.thehindu.com/news/international/israeli-strike-kills-three-in-vehicle-distributing-aid-in-gaza-witnesses-say/article71729327.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-11-21T16:59:42+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Afterwards, meals of cooked rice were scattered around the vehicle, which was partially covered in the blood of the victims of the attack",
-          "resumen_es": "Después, las comidas de arroz cocido fueron dispersadas alrededor del vehículo, que estaba parcialmente cubierta por la sangre de las víctimas del ataque."
+          "resumen_original": "Ukrainian drones also damaged several passenger cars, an apartment house, and seven auxiliary structures in the city",
+          "resumen_es": "Los drones ucranianos también dañaron varios coches de pasajeros, una casa de apartamentos y siete estructuras auxiliares en la ciudad"
         }
       ],
       "fuentes": [
-        "Al Jazeera",
-        "The Hindu"
+        "TASS"
       ],
       "actores_mencionados": [
-        "Israel",
-        "Palestina"
+        "Ucrania"
       ],
-      "fuentes_independientes": 2,
+      "fuentes_independientes": 1,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
         "nombre": "Realismo y dilema de seguridad",
@@ -2235,11 +2267,81 @@
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 5,
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Ucrania",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-b0a6d8198cf487a908f7",
+      "fecha": "2026-11-22",
+      "titulo_fuente": "US Democrats clinch a historic House majority of at least 258 seats, the largest since 1992",
+      "region": "Estados Unidos",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "b0a6d8198cf487a908f7",
+          "titulo_original": "US Democrats clinch a historic House majority of at least 258 seats, the largest since 1992",
+          "titulo_es": "Los demócratas estadounidenses clinch una mayoría histórica de la Casa de al menos 258 asientos, el más grande desde 1992",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3375405/us-democrats-clinch-historic-house-majority-least-258-seats-largest-1992",
+          "fuente": "South China Morning Post",
+          "pais": "Hong Kong",
+          "fecha": "2026-11-22T20:31:01+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "House Democrats have secured their best general election result in decades, winning at least 258 seats in an election sweep unseen since 1992 that creates not only vast opportunities to govern but also intense pressure to deliver on campaign promises and priorities. Democrats have gained 44 House seats so far, four more than the 40 they picked up in US President Donald Trump’s first midterm in 2018. The 258-seat tally was reached Sunday after Dem",
+          "resumen_es": "Los demócratas de la Cámara han conseguido su mejor resultado electoral general en décadas, ganando al menos 258 escaños en un barrido electoral invisible desde 1992 que crea no sólo vastas oportunidades para gobernar, sino también intensa presión para entregar en campaig"
+        },
+        {
+          "id": "7e5383763bcf3b019d2c",
+          "titulo_original": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+          "titulo_es": "Los demócratas ganan la mayor mayoría de la Casa desde 1992 después de cambiar el asiento de Carolina del Norte",
+          "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-22T20:26:24+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
+          "resumen_es": "Los demócratas han ganado al menos 258 escaños en mitad de período en comparación con los republicanos, que tienen al menos 173 escaños."
+        },
+        {
+          "id": "148ae6d159918709326a",
+          "titulo_original": "Democrats capture at least 258 House seats in largest sweep since 1992",
+          "titulo_es": "Los demócratas capturan al menos 258 escaños de la casa en mayor escala desde 1992",
+          "url": "https://www.theguardian.com/us-news/2026/nov/22/house-democrats-historic-sweep",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-22T19:17:56+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Milestone reached Sunday, after Democrat Chuck Hubbard defeated Republican Virginia Foxx in North Carolina House Democrats have secured their best general election result in decades, winning at least 258 seats in a midterm election sweep unseen since 1992 that creates not only vast opportunities to govern but also intense pressure to deliver on campaign promises and priorities. Democrats have gained 44 House seats so far, four more than the 40 th",
+          "resumen_es": "Milestone llegó el domingo, después de que el demócrata Chuck Hubbard derrotara al republicano Virginia Foxx en Demócratas de la Cámara de Carolina del Norte han asegurado su mejor resultado electoral general en décadas, ganando al menos 258 asientos en un barrido de elecciones a mitad de período"
+        }
+      ],
+      "fuentes": [
+        "BBC News",
+        "South China Morning Post",
+        "The Guardian"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 3,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
       "motivos_seleccion": [
         "Cobertura de fuentes distintas",
-        "Actores relevantes: Israel",
-        "Ámbito: Seguridad y conflictos"
+        "Actores relevantes: Estados Unidos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -2284,6 +2386,95 @@
       "prioridad_orientativa": 4,
       "motivos_seleccion": [
         "Actores relevantes: Rusia",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-b4b23019f611737588a9",
+      "fecha": "2026-11-22",
+      "titulo_fuente": "Why has the COP31 climate summit failed to reach agreement?",
+      "region": "Perú",
+      "temas": [
+        "Diplomacia",
+        "Energía y clima"
+      ],
+      "noticias": [
+        {
+          "id": "b4b23019f611737588a9",
+          "titulo_original": "Why has the COP31 climate summit failed to reach agreement?",
+          "titulo_es": "¿Por qué la cumbre climática COP31 no ha llegado a un acuerdo?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/11/22/why-has-the-cop31-climate-summit-failed-to-reach-agreement?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-22T20:00:00+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Fossil fuels are at the centre of deep division.",
+          "resumen_es": "Los combustibles fósiles están en el centro de la división profunda."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Ámbito: Diplomacia, Energía y clima",
+        "Posible decisión institucional o negociación"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-c0fa8ba3fe94fe8ab2af",
+      "fecha": "2026-11-22",
+      "titulo_fuente": "Una explosión hunde un barco de guerra ruso en la costa oriental de Libia",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "c0fa8ba3fe94fe8ab2af",
+          "titulo_original": "Una explosión hunde un barco de guerra ruso en la costa oriental de Libia",
+          "titulo_es": "",
+          "url": "https://elpais.com/internacional/2026-11-22/una-explosion-hunde-un-barco-de-guerra-ruso-en-la-costa-oriental-de-libia.html",
+          "fuente": "El País",
+          "pais": "España",
+          "fecha": "2026-11-22T19:50:38+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Las autoridades locales informan de que el hundimiento pudo ser causado por un ataque con drones. Ucrania no ha asumido por el momento la autoría",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "El País"
+      ],
+      "actores_mencionados": [
+        "Ucrania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Ucrania",
         "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
@@ -5473,6 +5664,52 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-98d53eeacb1b1f0964e4",
+      "fecha": "2026-11-21",
+      "titulo_fuente": "Israeli strike hits food aid vehicle in Gaza, killing three",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "98d53eeacb1b1f0964e4",
+          "titulo_original": "Israeli strike hits food aid vehicle in Gaza, killing three",
+          "titulo_es": "La huelga israelí golpea el vehículo de ayuda alimentaria en Gaza, matando a tres",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-israel-targets-gaza-food-truck?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-21T17:54:19+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Three Palestinians were killed in an Israeli air attack on a vehicle carrying food.",
+          "resumen_es": "Three Palestinians were killed in an Israeli air attack on a vehicle carrying food."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [
+        "Israel",
+        "Palestina"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Israel",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-f24f00b70dcf0fb89eec",
       "fecha": "2026-11-21",
       "titulo_fuente": "Finnish foreign minister suggests EU-wide restrictions on entry of Russian athletes",
@@ -5557,187 +5794,6 @@
       "prioridad_orientativa": 4,
       "motivos_seleccion": [
         "Actores relevantes: Rusia",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-51022172af4e4d194876",
-      "fecha": "2026-11-21",
-      "titulo_fuente": "Russian helicopter suspected of violating Finnish airspace",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "51022172af4e4d194876",
-          "titulo_original": "Russian helicopter suspected of violating Finnish airspace",
-          "titulo_es": "helicóptero ruso sospechoso de violar el espacio aéreo finlandés",
-          "url": "https://www.dw.com/en/russian-helicopter-suspected-of-violating-finnish-airspace/a-80010133?maca=en-rss-en-world-4025-rdf",
-          "fuente": "Deutsche Welle",
-          "pais": "Alemania",
-          "fecha": "2026-11-21T17:08:00+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Finland's Defense Ministry thinks the incursion is linked to a drone strike earlier Saturday on a Russian cargo ship, which is on a US sanctions list.",
-          "resumen_es": "El Ministerio de Defensa de Finlandia cree que la incursión está vinculada a una huelga de drones el sábado anterior en un buque de carga ruso, que está en una lista de sanciones estadounidenses."
-        }
-      ],
-      "fuentes": [
-        "Deutsche Welle"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-79ab199bdd2408aaf819",
-      "fecha": "2026-11-21",
-      "titulo_fuente": "La cumbre del clima encalla en un caótico final de las negociaciones",
-      "region": "Perú",
-      "temas": [
-        "Diplomacia",
-        "Energía y clima"
-      ],
-      "noticias": [
-        {
-          "id": "79ab199bdd2408aaf819",
-          "titulo_original": "La cumbre del clima encalla en un caótico final de las negociaciones",
-          "titulo_es": "",
-          "url": "https://elpais.com/clima-y-medio-ambiente/2026-11-21/la-cumbre-del-clima-encalla-en-un-caotico-final-de-las-negociaciones.html",
-          "fuente": "El País",
-          "pais": "España",
-          "fecha": "2026-11-21T16:56:59+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "La presidencia de la COP31, que comparten Turquía y Australia, intenta salvar la cita con una declaración que es incapaz de consensuar con los 200 países presentes",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "El País"
-      ],
-      "actores_mencionados": [
-        "Turquía"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Ámbito: Diplomacia, Energía y clima",
-        "Posible decisión institucional o negociación"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-f90716191ee1ec391a12",
-      "fecha": "2026-11-21",
-      "titulo_fuente": "Cargo ship bound for Russia's Kaliningrad hit by drones, Finland tightens security",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "f90716191ee1ec391a12",
-          "titulo_original": "Cargo ship bound for Russia's Kaliningrad hit by drones, Finland tightens security",
-          "titulo_es": "El barco de carga destinado al Kaliningrado de Rusia golpeado por drones, Finlandia endurece la seguridad",
-          "url": "https://www.thehindu.com/news/international/cargo-ship-bound-for-russias-kaliningrad-hit-by-drones-finland-tightens-security/article71729285.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-11-21T16:51:03+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Finland's Defence Ministry said the military had reintroduced temporary aviation and maritime restrictions in the eastern Gulf of Finland as a precaution to protect civilians and enable authorities ​to operate if drones needed ‌to be intercepted.",
-          "resumen_es": "El Ministerio de Defensa de Finlandia dijo que los militares habían reintroducido restricciones aéreas y marítimas temporales en el Golfo oriental de Finlandia como precaución para proteger a los civiles y permitir que las autoridades operaran si los drones debían ser intercambiados"
-        }
-      ],
-      "fuentes": [
-        "The Hindu"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-4005880f070c1b2ca235",
-      "fecha": "2026-11-21",
-      "titulo_fuente": "Pentagon denies reports that F-16 fighter jet damaged by Iran",
-      "region": "Oriente Medio",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "4005880f070c1b2ca235",
-          "titulo_original": "Pentagon denies reports that F-16 fighter jet damaged by Iran",
-          "titulo_es": "Pentágono niega informes de que el avión de combate F-16 dañado por Irán",
-          "url": "https://tass.com/world/2222913",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-21T16:40:42+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "All US military fighter jets in the Middle East are safe, said CENTCOM",
-          "resumen_es": "Todos los aviones de combate militares de Estados Unidos en el Medio Oriente están a salvo, dijo CENTCOM"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Irán"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Irán",
         "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
@@ -5914,6 +5970,119 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-1edf70057383ff2341fc",
+      "fecha": "2026-11-21",
+      "titulo_fuente": "Mexican special forces arrest drug kingpin 'Chapo Isidro'",
+      "region": "Internacional",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "1edf70057383ff2341fc",
+          "titulo_original": "Mexican special forces arrest drug kingpin 'Chapo Isidro'",
+          "titulo_es": "",
+          "url": "https://www.dw.com/en/mexican-special-forces-arrest-drug-kingpin-chapo-isidro/a-80010745?maca=en-rss-en-world-4025-rdf",
+          "fuente": "Deutsche Welle",
+          "pais": "Alemania",
+          "fecha": "2026-11-21T18:30:00+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The alleged leader of the Beltran Leyva gang and one of the FBI's most wanted fugitives, known as \"Chapo Isidro,\" was captured by the Mexican military following a raid and a shootout in the coastal state of Sinaloa.",
+          "resumen_es": ""
+        },
+        {
+          "id": "2681b8486e6260f1f09b",
+          "titulo_original": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
+          "titulo_es": "",
+          "url": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-21T17:46:55+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Fausto Isidro Meza Flores was one of FBI’s most wanted fugitives and evaded capture for more than a decade The Mexican military captured one of the FBI’s top 10 most wanted fugitives during a special forces raid in the Mexican state of Sinaloa on Friday night. Fausto Isidro Meza Flores, known as “El Chapo Isidro”, was arrested along with two other alleged leaders of his gang after a gun battle that sparked widespread panic in the city of Guasave.",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "Deutsche Welle",
+        "The Guardian"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 2,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 3,
+      "motivos_seleccion": [
+        "Cobertura de fuentes distintas",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-ce64743a88124dc923f8",
+      "fecha": "2026-11-22",
+      "titulo_fuente": "Netanyahu, Eisenkot parties end talks without deal on forming Israel government",
+      "region": "Oriente Medio",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "ce64743a88124dc923f8",
+          "titulo_original": "Netanyahu, Eisenkot parties end talks without deal on forming Israel government",
+          "titulo_es": "Netanyahu, partidos de Eisenkot terminan conversaciones sin acuerdo sobre la formación del gobierno de Israel",
+          "url": "https://www.thehindu.com/news/international/netanyahu-eisenkot-parties-end-talks-without-deal-on-forming-israel-government/article71732431.ece",
+          "fuente": "The Hindu",
+          "pais": "India",
+          "fecha": "2026-11-22T20:32:14+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "‘The latest round of coalition talks... has concluded; the two sides outlined their positions on a range of substantive issues and discussed them in detail,’ the two parties said in a joint statement",
+          "resumen_es": "“La última ronda de conversaciones de coalición... ha concluido; las dos partes esbozaron sus posiciones sobre una serie de cuestiones sustantivas y los discutieron en detalle”, dijeron los dos partidos en una declaración conjunta"
+        },
+        {
+          "id": "07e2367af76c625e34e1",
+          "titulo_original": "Netanyahu, Eisenkot parties resume talks to form Israel government",
+          "titulo_es": "Netanyahu, partidos de Eisenkot reanudaron conversaciones para formar gobierno de Israel",
+          "url": "https://www.thehindu.com/news/international/netanyahu-eisenkot-parties-resume-talks-to-form-israel-government/article71732120.ece",
+          "fuente": "The Hindu",
+          "pais": "India",
+          "fecha": "2026-11-22T17:28:27+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Likud laid down conditions for a unity government, including no Arab parties and rejection of a Palestinian state, while Gadi Eisenkot has until December 6 to form a government",
+          "resumen_es": "Likud estableció las condiciones para un gobierno de unidad, incluyendo ningún partido árabe y el rechazo de un estado palestino, mientras que Gadi Eisenkot tiene hasta el 6 de diciembre para formar un gobierno"
+        }
+      ],
+      "fuentes": [
+        "The Hindu"
+      ],
+      "actores_mencionados": [
+        "Israel",
+        "Palestina"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Israel"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-e04446d687eb90fac3bc",
       "fecha": "2026-11-22",
       "titulo_fuente": "Australian politics live: small business carveout in digital duty of care; countdown to pass key legislation begins",
@@ -6067,6 +6236,50 @@
       ],
       "fuentes": [
         "Al Jazeera"
+      ],
+      "actores_mencionados": [
+        "India"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: India"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-e2f270cb955f90105b08",
+      "fecha": "2026-11-22",
+      "titulo_fuente": "Tilak’s 100 in vain as Pakistan A beat India A in Rising Stars Asia Cup - The Indian Express",
+      "region": "Asia-Pacífico",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "e2f270cb955f90105b08",
+          "titulo_original": "Tilak’s 100 in vain as Pakistan A beat India A in Rising Stars Asia Cup - The Indian Express",
+          "titulo_es": "Tilak's 100 en vano como Pakistán A venció a la India A en la Copa de Asia de estrellas de aumento - El Expreso Indio",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeHpfNlNQSTI5bUlMSzBvR2RtZXJ5d1ZTbnEyOVFQRmRFbW5HSDhWei1QSWdwUTctc1d3RXlCR0JMV2FXV3pnVGxsMFl1eG5yYzA2SDVEWlFaUUtJUWw3aFBYaVVtNEZldlJiWS1ScDFBb1l5WE9GUGptZkhYNDZxLS1FWHBSSTFIWWNFMHl0VnRlSGN4Z2JFYTF0cXBKaGhiMC05QzBNSGt2MkFLUzA2VHJ6Mk8xRVMtODIxREVuRdIBxgFBVV95cUxQeklhaGNHdm5ZeDZaaGJ3aUd0SUxOa0FuMUVWaC1McXFpVWczZWNpVmY4cVNLRF9oYXNxM2ZLdDQ4SFRFclBmRGswUENwQkVubDRySjBUa1kwN1B6U3hFNTFjYjU0NC00b1FFMXd1MGhlSlE3b09OLV9Ba0x2ZGpnQjNWblMwZUZkM2ZVS2UteEMtMC14NFpSWVVQRjBJRHd3S21PLWxVLU5LSlZ2QWpyZnByZ3RyWWMyY0REbWw2SU1UTjQyS2c?oc=5",
+          "fuente": "The Indian Express",
+          "pais": "India",
+          "fecha": "2026-11-22T19:10:37+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Tilak’s 100 in vain as Pakistan A beat India A in Rising Stars Asia Cup The Indian Express",
+          "resumen_es": "Tilak's 100 en vano como Pakistán Una victoria India A en estrellas crecientes Asia Cup The Indian Express"
+        }
+      ],
+      "fuentes": [
+        "The Indian Express"
       ],
       "actores_mencionados": [
         "India"
@@ -6662,51 +6875,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-07e2367af76c625e34e1",
-      "fecha": "2026-11-22",
-      "titulo_fuente": "Netanyahu, Eisenkot parties resume talks to form Israel government",
-      "region": "Oriente Medio",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "07e2367af76c625e34e1",
-          "titulo_original": "Netanyahu, Eisenkot parties resume talks to form Israel government",
-          "titulo_es": "Netanyahu, partidos de Eisenkot reanudaron conversaciones para formar gobierno de Israel",
-          "url": "https://www.thehindu.com/news/international/netanyahu-eisenkot-parties-resume-talks-to-form-israel-government/article71732120.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-11-22T17:28:27+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Likud laid down conditions for a unity government, including no Arab parties and rejection of a Palestinian state, while Gadi Eisenkot has until December 6 to form a government",
-          "resumen_es": "Likud estableció las condiciones para un gobierno de unidad, incluyendo ningún partido árabe y el rechazo de un estado palestino, mientras que Gadi Eisenkot tiene hasta el 6 de diciembre para formar un gobierno"
-        }
-      ],
-      "fuentes": [
-        "The Hindu"
-      ],
-      "actores_mencionados": [
-        "Israel",
-        "Palestina"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Israel"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-edeffda6a36f04c9fbc2",
       "fecha": "2026-11-22",
       "titulo_fuente": "Preparation meets intuition as Gukesh faces Sindarov for world chess crown - The Indian Express",
@@ -6834,148 +7002,6 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Ámbito: Energía y clima"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-91c375f517b2140c9e0b",
-      "fecha": "2026-11-22",
-      "titulo_fuente": "Hong Kong Election Committee race: ‘healthy’ contest with some upsets",
-      "region": "China",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "91c375f517b2140c9e0b",
-          "titulo_original": "Hong Kong Election Committee race: ‘healthy’ contest with some upsets",
-          "titulo_es": "Carrera del Comité Electoral de Hong Kong: concurso ‘salud’ con algunos males",
-          "url": "https://www.scmp.com/news/hong-kong/politics/article/3375398/hong-kong-election-committee-race-healthy-contest-surprise-upsets",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-11-22T17:08:22+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Hong Kong’s Election Committee poll on Sunday drew a record turnout of nearly 99 per cent and delivered surprise upsets, with prominent business and professional leaders losing out in tighter races for seats on the body that will choose the city’s next leader. With Beijing urging that turnout be “the higher the better”, 5,640 registered voters cast ballots on Sunday as 856 candidates competed for 723 seats on the powerful electoral college. Just ",
-          "resumen_es": "El domingo, la encuesta del Comité Electoral de Hong Kong produjo un récord de casi el 99% y dio sorpresas, con destacados líderes empresariales y profesionales perdiendo en carreras más estrechas para los asientos en el cuerpo que elegirán el"
-        },
-        {
-          "id": "1d1e42aaff2a9df117e2",
-          "titulo_original": "Hong Kong Election Committee race: some surprise losses as turnout hits record 99%",
-          "titulo_es": "",
-          "url": "https://www.scmp.com/news/hong-kong/politics/article/3375354/hong-kong-election-committee-race-long-lines-polling-stations-voting-begins",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-11-22T02:26:45+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Voting has closed at five polling stations across Hong Kong on Sunday to select members of the powerful Election Committee, which is tasked with choosing the city’s next leader. A total of 856 candidates were vying for 723 seats across the 31 subsectors. The elected representatives will join 259 members from five uncontested subsectors, 362 ex officio members and 156 nominees from designated bodies to form the 1,500-strong electoral college. The ",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "South China Morning Post"
-      ],
-      "actores_mencionados": [
-        "China"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: China"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-85cc67a98bd63c782473",
-      "fecha": "2026-11-22",
-      "titulo_fuente": "French activists demand tear gas suspension after reported changes to menstrual cycles",
-      "region": "Internacional",
-      "temas": [
-        "Energía y clima"
-      ],
-      "noticias": [
-        {
-          "id": "85cc67a98bd63c782473",
-          "titulo_original": "French activists demand tear gas suspension after reported changes to menstrual cycles",
-          "titulo_es": "Los activistas franceses exigen la suspensión del gas lacrimógeno después de haber notificado cambios en los ciclos menstruales",
-          "url": "https://www.scmp.com/news/world/europe/article/3375397/french-activists-demand-tear-gas-suspension-after-reported-changes-menstrual-cycles",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-11-22T17:08:12+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "French activists and lawmakers are demanding after recent street protests that authorities suspend the use of tear gas to disperse crowds over concerns it has caused menstrual changes and other reproductive health problems, though scientists have not confirmed a medical connection. The demands come after police used tear gas during student protests and demonstrations over the cost of living, some marred by violence. Some women reported painful cr",
-          "resumen_es": "Activistas y legisladores franceses exigen después de las recientes protestas callejeras que las autoridades suspendan el uso de gas lacrimógeno para dispersar multitudes sobre las preocupaciones que ha causado cambios menstruales y otros problemas de salud reproductiva, aunque científico"
-        }
-      ],
-      "fuentes": [
-        "South China Morning Post"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia y gobernanza global",
-        "pregunta": "¿Cómo se distribuyen los costos de coordinación y los incentivos para cooperar?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Energía y clima"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-731e2a8b488dd9f9b9ce",
-      "fecha": "2026-11-22",
-      "titulo_fuente": "DNI Clayton says China likely obtained Nvidia AI chips - CNN",
-      "region": "China",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "731e2a8b488dd9f9b9ce",
-          "titulo_original": "DNI Clayton says China likely obtained Nvidia AI chips - CNN",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPXzFxaVhYcDFONTlweU5ZNzdmc29RY1NQaTNtVnRKa3dTUENrRWpuV0hmNE5nSXExLVJzSW9FX25NM1BNazVpaUlZWDM1cm5iSV8tNUR5Z2w5UHFKOXJ6NXl0Tlo4dGpjb1FXZEp3NW1sVmR2Z3hUeVdFZlU5WjFRT3E2eWJ5SFk?oc=5",
-          "fuente": "CNN",
-          "pais": "Estados Unidos",
-          "fecha": "2026-11-22T17:03:00+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "DNI Clayton says China likely obtained Nvidia AI chips CNN",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "CNN"
-      ],
-      "actores_mencionados": [
-        "China"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: China"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
