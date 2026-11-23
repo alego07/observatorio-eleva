@@ -1,17 +1,25 @@
 {
-  "actualizado_utc": "2026-11-23T22:40:33.745826+00:00",
+  "actualizado_utc": "2026-11-23T22:57:51.076060+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 3129,
-      "nuevas_24h": 70,
-      "anteriores_24h": 55,
+      "cantidad_archivada": 3130,
+      "nuevas_24h": 71,
+      "anteriores_24h": 54,
       "dias_con_registros": 39,
-      "fecha_ultima": "2026-11-23T22:33:15+00:00",
+      "fecha_ultima": "2026-11-23T22:36:30+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "d1a723e8aaccb44ae398",
+          "fecha": "2026-11-23T22:36:30+00:00",
+          "titulo": "Russia yet to choose head of G20 delegation — diplomat",
+          "fuente": "TASS",
+          "url": "https://tass.com/politics/2223645",
+          "traducida": false
+        },
         {
           "id": "da92451e6071cbba52d3",
           "fecha": "2026-11-23T22:33:15+00:00",
@@ -242,14 +250,6 @@
           "titulo": "Nato vows space defence after Russia nuclear satellite report",
           "fuente": "South China Morning Post",
           "url": "https://www.scmp.com/news/world/russia-central-asia/article/3375522/nato-vows-space-defence-after-russia-nuclear-satellite-report",
-          "traducida": false
-        },
-        {
-          "id": "97e5a541e8ca5f6487f3",
-          "fecha": "2026-11-23T16:42:56+00:00",
-          "titulo": "EU sanctions package intended to ‘keep pressure’ on Russia and ‘strike harder’ at its ability to fund Ukraine war – as it happened",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
           "traducida": false
         }
       ]
