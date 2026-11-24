@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-11-24T22:43:07.165907+00:00",
+  "created_utc": "2026-11-24T23:06:03.917953+00:00",
   "events": [
     {
       "id": "a-b251a5bed5966882fb31",
@@ -273,6 +273,52 @@
       "motivos_seleccion": [
         "Cobertura de fuentes distintas",
         "Actores relevantes: China, Estados Unidos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-cb675f60c2da0a2d7a52",
+      "fecha": "2026-11-24",
+      "titulo_fuente": "Israel’s Eisenkot clinches first coalition agreement in bid to form government",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "cb675f60c2da0a2d7a52",
+          "titulo_original": "Israel’s Eisenkot clinches first coalition agreement in bid to form government",
+          "titulo_es": "Eisenkot de Israel cierra el primer acuerdo de coalición para formar gobierno",
+          "url": "https://www.thehindu.com/news/international/israels-eisenkot-clinches-first-coalition-agreement-in-bid-to-form-government/article71740200.ece",
+          "fuente": "The Hindu",
+          "pais": "India",
+          "fecha": "2026-11-24T22:56:23+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Yashar ​said that Mr. Eisenkot had met with Avigdor ⁠Lieberman, head of the Israel Our Home party, and they agreed on a deal afterward",
+          "resumen_es": "Yashar dijo que el Sr. Eisenkot se había reunido con Avigdor ⁠Lieberman, jefe del partido de nuestro hogar de Israel, y acordaron un acuerdo después"
+        }
+      ],
+      "fuentes": [
+        "The Hindu"
+      ],
+      "actores_mencionados": [
+        "Israel"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: Israel",
+        "Ámbito: Seguridad y conflictos",
+        "Posible decisión institucional o negociación"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -2281,98 +2327,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-439111a342a8dad59e76",
-      "fecha": "2026-11-24",
-      "titulo_fuente": "Putin’s attendance at G20 summit still undecided — Kremlin",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Diplomacia"
-      ],
-      "noticias": [
-        {
-          "id": "439111a342a8dad59e76",
-          "titulo_original": "Putin’s attendance at G20 summit still undecided — Kremlin",
-          "titulo_es": "La asistencia de Putin a la cumbre del G20 aún indeciso — Kremlin",
-          "url": "https://tass.com/politics/2223657",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-24T01:03:09+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Spokesman Dmitry Peskov previously stated that the decision would depend on many factors, including the outcome of the Russian president's talks with his US counterpart in Shenzhen",
-          "resumen_es": "El portavoz Dmitry Peskov afirmó anteriormente que la decisión dependería de muchos factores, incluyendo el resultado de las conversaciones del presidente ruso con su contraparte estadounidense en Shenzhen"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia",
-        "Ámbito: Diplomacia",
-        "Posible decisión institucional o negociación"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-81db16a0c48c8d585136",
-      "fecha": "2026-11-24",
-      "titulo_fuente": "Thailand agrees new durian export rules with China to protect US$5 billion trade",
-      "region": "China",
-      "temas": [
-        "Comercio y finanzas"
-      ],
-      "noticias": [
-        {
-          "id": "81db16a0c48c8d585136",
-          "titulo_original": "Thailand agrees new durian export rules with China to protect US$5 billion trade",
-          "titulo_es": "Tailandia está de acuerdo con nuevas normas de exportación de duria con China para proteger el comercio de 5.000 millones de dólares",
-          "url": "https://www.scmp.com/economy/china-economy/article/3375498/thailand-agrees-new-durian-export-rules-china-protect-us5-billion-trade",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-11-24T01:00:11+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "China and Thailand have agreed a new sanitation protocol for exports of Thai durian to raise Beijing’s “confidence” in the trade and protect billions of dollars’ worth of shipments, according to Thailand’s Ministry of Commerce. The two governments updated plant health guidelines and procedures to clarify shipping requirements and establish a “systematic” approach to managing quarantine pests, the ministry announced on Sunday via its official webs",
-          "resumen_es": "China y Tailandia han acordado un nuevo protocolo de saneamiento para las exportaciones del durian tailandés para aumentar la “confianza” de Beijing en el comercio y proteger miles de millones de dólares de los envíos, según el Ministerio de Comercio de Tailandia. Los dos goves"
-        }
-      ],
-      "fuentes": [
-        "South China Morning Post"
-      ],
-      "actores_mencionados": [
-        "China"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia compleja y economía política internacional",
-        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: China",
-        "Ámbito: Comercio y finanzas",
-        "Posible decisión institucional o negociación"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-1ad6f88769f13fbb4b3c",
       "fecha": "2026-11-24",
       "titulo_fuente": "South Korea tells island residents to take shelter as Russian warplanes near its airspace",
@@ -2427,6 +2381,51 @@
         "Cobertura de fuentes distintas",
         "Actores relevantes: Rusia",
         "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-0b902991e1c107a0c0f2",
+      "fecha": "2026-11-24",
+      "titulo_fuente": "Can Ukraine trust a word Trump says? - Politico",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "0b902991e1c107a0c0f2",
+          "titulo_original": "Can Ukraine trust a word Trump says? - Politico",
+          "titulo_es": "¿Puede Ucrania confiar en una palabra que Trump dice? - Politico",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSFNvMVZNQW1zSFptTzRDQ3AxaV9lVThPSGZiOC0tel81SjVRYkNlNi1zUS1NaFJHeEhXano3eVlMZFBtQVUwUW5yVE56SHZsZHJrNDluR196NHR2UFBPcHZxbkN5ZXExUlJoMnE2X0JDandiNmctYkFwU3lOd3paZ01lUzh1bkpZdU5yOEdZZEZvdzhxSDJ4NS03NlFmUUtTWE5J?oc=5",
+          "fuente": "POLITICO US",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-24T22:57:16+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Can Ukraine trust a word Trump says? Politico",
+          "resumen_es": "¿Puede Ucrania confiar en una palabra que Trump dice? Politico"
+        }
+      ],
+      "fuentes": [
+        "POLITICO US"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Ucrania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos, Ucrania"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6846,79 +6845,47 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-3a9d640156dcd5698618",
+      "id": "a-22d538b76fab4416f3ea",
       "fecha": "2026-11-24",
-      "titulo_fuente": "Chinese neuroscientist at Princeton is held by ICE after detention at Washington airport",
-      "region": "China",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "3a9d640156dcd5698618",
-          "titulo_original": "Chinese neuroscientist at Princeton is held by ICE after detention at Washington airport",
-          "titulo_es": "neurocientífico chino en Princeton es mantenido por ICE después de la detención en el aeropuerto de Washington",
-          "url": "https://www.thehindu.com/news/international/chinese-neuroscientist-at-princeton-is-held-by-ice-after-detention-at-washington-airport/article71736987.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-11-24T00:11:16+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "‘News of Eva’s detention is distressing for me and many members of the Princeton University community,’ Rodney Priestley, dean of the university’s graduate school, said in a statement",
-          "resumen_es": "“La noticia de la detención de Eva es preocupante para mí y muchos miembros de la comunidad de la Universidad de Princeton”, dijo Rodney Priestley, decano de la escuela de posgrado de la universidad en una declaración"
-        }
-      ],
-      "fuentes": [
-        "The Hindu"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "China"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: China, Estados Unidos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-2cbd3c11a44e2b93e763",
-      "fecha": "2026-11-24",
-      "titulo_fuente": "Number of Polish mercenaries in western Ukraine keeps rising — military expert",
-      "region": "Rusia-Ucrania",
+      "titulo_fuente": "Turkish military helicopter crash kills five in western Turkiye",
+      "region": "Internacional",
       "temas": [
         "Seguridad y conflictos"
       ],
       "noticias": [
         {
-          "id": "2cbd3c11a44e2b93e763",
-          "titulo_original": "Number of Polish mercenaries in western Ukraine keeps rising — military expert",
-          "titulo_es": "Número de mercenarios polacos en el oeste de Ucrania sigue creciendo — experto militar",
-          "url": "https://tass.com/defense/2223653",
+          "id": "22d538b76fab4416f3ea",
+          "titulo_original": "Turkish military helicopter crash kills five in western Turkiye",
+          "titulo_es": "helicóptero militar turco mata a cinco en el oeste de Turkiye",
+          "url": "https://www.aljazeera.com/news/2026/11/24/turkish-military-helicopter-crash-kills-five-in-western-turkiye?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-24T19:52:21+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The Defence Ministry did not elaborate on the cause of the crash, days after another deadly army helicopter accident.",
+          "resumen_es": "The Defence Ministry did not elaborate on the cause of the crash, days after another deadly army helicopter accident."
+        },
+        {
+          "id": "08d788e1caef0635004a",
+          "titulo_original": "Five servicemen killed in Turkish military helicopter crash",
+          "titulo_es": "Cinco soldados muertos en helicóptero militar turco",
+          "url": "https://tass.com/emergencies/2224271",
           "fuente": "TASS",
           "pais": "Rusia",
-          "fecha": "2026-11-24T00:09:36+00:00",
+          "fecha": "2026-11-24T19:43:19+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Andrey Marochko said, citing his own sources, that reports about Polish-speaking soldiers wearing Ukrainian military uniforms have been coming in regularly from the area",
-          "resumen_es": "Andrey Marochko dijo, citando sus propias fuentes, que informes sobre soldados de habla polaca que llevaban uniformes militares ucranianos han venido regularmente de la zona"
+          "resumen_original": "The aircraft involved was an AS-532 helicopter, a model widely used by the Turkish Air Force",
+          "resumen_es": "El avión involucrado era un helicóptero AS-532, un modelo ampliamente utilizado por la Fuerza Aérea de Turquía"
         }
       ],
       "fuentes": [
+        "Al Jazeera",
         "TASS"
       ],
       "actores_mencionados": [
-        "Ucrania"
+        "Turquía"
       ],
-      "fuentes_independientes": 1,
+      "fuentes_independientes": 2,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
         "nombre": "Realismo y dilema de seguridad",
@@ -6927,10 +6894,68 @@
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
+      "prioridad_orientativa": 3,
       "motivos_seleccion": [
-        "Actores relevantes: Ucrania",
+        "Cobertura de fuentes distintas",
         "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-274b95a97cb7c4699888",
+      "fecha": "2026-11-24",
+      "titulo_fuente": "China sentences official to death for passing state secrets to foreign spy - CNN",
+      "region": "China",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "274b95a97cb7c4699888",
+          "titulo_original": "China sentences official to death for passing state secrets to foreign spy - CNN",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTHR0aDZZX1djSUdCWXdjWVJEZnRRcjhwSWtjQ2xjelZocGIxOXdmb0dKUWhmWUtpSzk0Yy1IaDhKT1Ztb1ZQUXcxcWJuMTdRSTBnQlk5SUU3cGgxUGw1WGp2OGlUUXJvYVAteklDUWo3akRKM0FEcFo2YklLbW8wQkhTMV94aXdndjAyME91VlI3VTE3RFhxelBGVjR1LWZQU1hmX3pJZEFYMm9rTFhqaHIyWVp2U3NUSXNYRA?oc=5",
+          "fuente": "CNN",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-24T07:07:04+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "China sentences official to death for passing state secrets to foreign spy CNN",
+          "resumen_es": ""
+        },
+        {
+          "id": "fd3c944f0667032b85d9",
+          "titulo_original": "China sentences official to death for spying for foreign country",
+          "titulo_es": "",
+          "url": "https://www.theguardian.com/world/2026/nov/24/china-official-ma-death-sentence-spying-leaking-national-secrets",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-24T02:37:36+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Accused official leaked national secrets to unnamed country and received payments worth over $150,000, state-linked publisher says A Chinese official has been sentenced to death for spying for a foreign country, a government-linked publisher has said. Gold Wall Press, a publishing company associated with China’s national administration of state secrets protection, said the convicted person was surnamed Ma and was approached and recruited by an un",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "CNN",
+        "The Guardian"
+      ],
+      "actores_mencionados": [
+        "China"
+      ],
+      "fuentes_independientes": 2,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 3,
+      "motivos_seleccion": [
+        "Cobertura de fuentes distintas",
+        "Actores relevantes: China"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
