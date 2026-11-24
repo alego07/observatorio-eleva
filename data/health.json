@@ -1,11 +1,11 @@
 {
-  "updated_utc": "2026-11-24T21:33:40.356394+00:00",
+  "updated_utc": "2026-11-24T22:41:11.515490+00:00",
   "results": [
     {
       "source_id": "f16",
       "source_name": "CNN",
-      "status": "ok",
-      "count_recent": 50
+      "status": "error",
+      "message": "HTTP Error 503: Service Unavailable"
     },
     {
       "source_id": "f25",
@@ -70,8 +70,8 @@
     {
       "source_id": "f47",
       "source_name": "The Indian Express",
-      "status": "ok",
-      "count_recent": 48
+      "status": "error",
+      "message": "HTTP Error 503: Service Unavailable"
     },
     {
       "source_id": "f64",
@@ -100,8 +100,8 @@
     {
       "source_id": "f75",
       "source_name": "POLITICO US",
-      "status": "ok",
-      "count_recent": 49
+      "status": "error",
+      "message": "HTTP Error 503: Service Unavailable"
     },
     {
       "source_id": "f76",

@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-11-24T21:35:14.307489+00:00",
+  "created_utc": "2026-11-24T22:43:07.165907+00:00",
   "events": [
     {
       "id": "a-b251a5bed5966882fb31",
@@ -273,6 +273,52 @@
       "motivos_seleccion": [
         "Cobertura de fuentes distintas",
         "Actores relevantes: China, Estados Unidos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-577ce0fac8fe4e610510",
+      "fecha": "2026-11-24",
+      "titulo_fuente": "China’s Huawei found guilty of trade secrets conspiracy, fraud in US trial",
+      "region": "China",
+      "temas": [
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "577ce0fac8fe4e610510",
+          "titulo_original": "China’s Huawei found guilty of trade secrets conspiracy, fraud in US trial",
+          "titulo_es": "Huawei de China se declaró culpable de conspiración de secretos comerciales, fraude en el juicio estadounidense",
+          "url": "https://www.aljazeera.com/economy/2026/11/24/chinese-tech-giant-huawei-found-guilty-of-conspiracy-to-steal-trade-secrets?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-24T21:43:34+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Jurors acquit the company of the most serious charge it faced of engaging in a criminal racketeering conspiracy.",
+          "resumen_es": "Juristas absuelven a la compañía de la acusación más seria que se enfrentaba a involucrarse en una conspiración criminal de perpetración."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [
+        "China"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia compleja y economía política internacional",
+        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: China",
+        "Ámbito: Comercio y finanzas",
+        "Posible decisión institucional o negociación"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -2327,52 +2373,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-2613d80f33df4252f52f",
-      "fecha": "2026-11-24",
-      "titulo_fuente": "Malaysia’s Anwar says easier to deal with China than US amid tech tensions",
-      "region": "China",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "2613d80f33df4252f52f",
-          "titulo_original": "Malaysia’s Anwar says easier to deal with China than US amid tech tensions",
-          "titulo_es": "Anwar de Malasia dice más fácil lidiar con China que Estados Unidos entre tensiones tecnológicas",
-          "url": "https://www.scmp.com/week-asia/politics/article/3375516/malaysias-anwar-says-easier-deal-china-us-amid-tech-tensions",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-11-24T00:00:19+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "China has never raised any concerns about Malaysia being close to the United States nor stood in the way of any technology arrangements with the Americans, the Southeast Asian country’s Prime Minister Anwar Ibrahim has said. In an interview with the South China Morning Post in Shenzhen before a bilateral meeting with China’s President Xi Jinping, Anwar said he found Beijing easier to deal with than Washington but maintained that his government wa",
-          "resumen_es": "China nunca ha planteado ninguna preocupación acerca de que Malasia esté cerca de los Estados Unidos ni se interpusiera en el camino de cualquier acuerdo tecnológico con los estadounidenses, dijo el Primer Ministro del país sudeste asiático, Anwar Ibrahim. En una entrevista"
-        }
-      ],
-      "fuentes": [
-        "South China Morning Post"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "China"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: China, Estados Unidos",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-1ad6f88769f13fbb4b3c",
       "fecha": "2026-11-24",
       "titulo_fuente": "South Korea tells island residents to take shelter as Russian warplanes near its airspace",
@@ -2427,6 +2427,51 @@
         "Cobertura de fuentes distintas",
         "Actores relevantes: Rusia",
         "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-9b18ac7dcf0b00d9d413",
+      "fecha": "2026-11-24",
+      "titulo_fuente": "Brazil’s ‘Lithium Valley’ makes its play for BYD as three states fight over new EV plant",
+      "region": "China",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "9b18ac7dcf0b00d9d413",
+          "titulo_original": "Brazil’s ‘Lithium Valley’ makes its play for BYD as three states fight over new EV plant",
+          "titulo_es": "El ‘Valle de Litio’ de Brasil hace su juego por BYD mientras tres estados luchan por la nueva planta EV",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3375674/brazils-lithium-valley-makes-its-play-byd-three-states-fight-over-new-ev-plant",
+          "fuente": "South China Morning Post",
+          "pais": "Hong Kong",
+          "fecha": "2026-11-24T21:39:04+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Chinese carmaker BYD said on Tuesday it will sign a memorandum of understanding with Brazil’s Minas Gerais state in January as it weighs where to build a factory for electric buses, trucks and vans that Sao Paulo and Rio de Janeiro are also trying to attract. BYD’s Brazil vice-president Alexandre Baldy confirmed plans to sign the agreement after January 6, when Cleitinho Azevedo, the governor-elect of Minas Gerais, takes office. Cleitinho met BYD",
+          "resumen_es": "Fabricante chino BYD dijo el martes que firmará un memorando de entendimiento con el estado de Minas Gerais de Brasil en enero, ya que pesa dónde construir una fábrica para autobuses eléctricos, camiones y furgonetas que Sao Paulo y Río de Janeiro también son"
+        }
+      ],
+      "fuentes": [
+        "South China Morning Post"
+      ],
+      "actores_mencionados": [
+        "China",
+        "Brasil"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Brasil, China"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6885,51 +6930,6 @@
       "prioridad_orientativa": 4,
       "motivos_seleccion": [
         "Actores relevantes: Ucrania",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-921ff9160e0744f1b924",
-      "fecha": "2026-11-24",
-      "titulo_fuente": "Trump calls to ‘expedite’ US federal executions, blasts Gavin Newsom",
-      "region": "Estados Unidos",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "921ff9160e0744f1b924",
-          "titulo_original": "Trump calls to ‘expedite’ US federal executions, blasts Gavin Newsom",
-          "titulo_es": "Trump llama a ‘expedite’ ejecuciones federales de Estados Unidos, explosiones Gavin Newsom",
-          "url": "https://www.aljazeera.com/news/2026/11/24/trump-calls-to-expedite-us-federal-executions-blasts-gavin-newsom?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-11-24T00:04:15+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The US president used his podium to attack the California governor for a decision to commute 548 death sentences.",
-          "resumen_es": "El presidente estadounidense utilizó su podio para atacar al gobernador de California por una decisión de conmutar 548 sentencias de muerte."
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos",
         "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
