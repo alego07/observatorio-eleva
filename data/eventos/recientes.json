@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-11-25T22:38:12.505950+00:00",
+  "created_utc": "2026-11-25T23:24:34.668855+00:00",
   "events": [
     {
       "id": "a-c1f4fe6aa16540c6e2bf",
@@ -621,53 +621,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-ba867e73cbe0c9353e27",
-      "fecha": "2026-11-25",
-      "titulo_fuente": "US court convicts China’s Huawei for fraud, conspiring to steal trade secrets, in sprawling trial over Iran business - CNN",
-      "region": "China",
-      "temas": [
-        "Comercio y finanzas"
-      ],
-      "noticias": [
-        {
-          "id": "ba867e73cbe0c9353e27",
-          "titulo_original": "US court convicts China’s Huawei for fraud, conspiring to steal trade secrets, in sprawling trial over Iran business - CNN",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUV1kzeXRETGd2Z016cUVXUm50cE1RTW14Nmp2empqQ2Y3d2laSFBWN1dZSkQxeGpaamNLaTRYd1d3ZFE2TVN4cW4tc2I2ZXpSamg2MG1JZXpHeHdBVUdKbzhrMmFwOXh3MTJQTkdoamdDRFI5NU5MSUF0V190MUE?oc=5",
-          "fuente": "CNN",
-          "pais": "Estados Unidos",
-          "fecha": "2026-11-25T01:22:00+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "US court convicts China’s Huawei for fraud, conspiring to steal trade secrets, in sprawling trial over Iran business CNN",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "CNN"
-      ],
-      "actores_mencionados": [
-        "China",
-        "Irán"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia compleja y economía política internacional",
-        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 8,
-      "motivos_seleccion": [
-        "Actores relevantes: China, Irán",
-        "Ámbito: Comercio y finanzas",
-        "Posible decisión institucional o negociación"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-9756bf661ceb259a44bb",
       "fecha": "2026-11-25",
       "titulo_fuente": "North Korea expels Swiss diplomat in sanctions row",
@@ -724,6 +677,98 @@
         "Actores relevantes: China",
         "Ámbito: Diplomacia, Seguridad y conflictos",
         "Posible decisión institucional o negociación"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-c602187bbf38d4fda172",
+      "fecha": "2026-11-25",
+      "titulo_fuente": "Ukrainian crisis turns into proxy war between Europe, Russia — US envoy",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "c602187bbf38d4fda172",
+          "titulo_original": "Ukrainian crisis turns into proxy war between Europe, Russia — US envoy",
+          "titulo_es": "La crisis ucraniana se convierte en guerra indirecta entre Europa, Rusia — enviado estadounidense",
+          "url": "https://tass.com/world/2224967",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-25T22:54:06+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "According to Jared Kushner, it is important to focus on post-conflict security architecture",
+          "resumen_es": "Según Jared Kushner, es importante centrarse en la arquitectura de seguridad después de un conflicto"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Rusia",
+        "Ucrania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia, Ucrania",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-2981b42e20115fa67b11",
+      "fecha": "2026-11-25",
+      "titulo_fuente": "US working to establish Russia-Europe dialogue — special presidential envoy",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Diplomacia"
+      ],
+      "noticias": [
+        {
+          "id": "2981b42e20115fa67b11",
+          "titulo_original": "US working to establish Russia-Europe dialogue — special presidential envoy",
+          "titulo_es": "Estados Unidos trabajando para establecer el diálogo Rusia-Europa - enviado presidencial especial",
+          "url": "https://tass.com/world/2224961",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-25T22:15:01+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Jared Kushner emphasized that Washington believes relations between Russia and Europe will eventually normalize and strengthen",
+          "resumen_es": "Jared Kushner destacó que Washington cree que las relaciones entre Rusia y Europa eventualmente normalizarán y fortalecerán"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Rusia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos, Rusia",
+        "Ámbito: Diplomacia"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -2734,6 +2779,97 @@
         "Cobertura de fuentes distintas",
         "Actores relevantes: China",
         "Ámbito: Comercio y finanzas"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-2eb146ad21c16aa00ed0",
+      "fecha": "2026-11-25",
+      "titulo_fuente": "Palestinian journalist killed by Israel in Gaza wins Rory Peck prize",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "2eb146ad21c16aa00ed0",
+          "titulo_original": "Palestinian journalist killed by Israel in Gaza wins Rory Peck prize",
+          "titulo_es": "Periodista palestino asesinado por Israel en Gaza gana el premio Rory Peck",
+          "url": "https://www.theguardian.com/media/2026/nov/25/palestinian-journalist-killed-by-israel-in-gaza-wins-rory-peck-prize",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-25T23:06:06+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Mariam Dagga shares award with two of her colleagues from AP for ‘powerful coverage’ of human cost of war Mariam Dagga, the Palestinian war correspondent who was killed at the age of 33 in Gaza in an Israeli strike, has posthumously won the prestigious Rory Peck prize for freelance video journalists, the organisers announced on Wednesday. She shares the award with two of her colleagues from the Associated Press (AP), Abdel Kareem Hana and Jehad A",
+          "resumen_es": "Mariam Dagga comparte el premio con dos de sus colegas de la AP por “una cobertura poderosa” del costo humano de la guerra Mariam Dagga, corresponsal de la guerra palestina que fue asesinado a los 33 años en Gaza en una huelga israelí, ha ganado póstumamente el"
+        }
+      ],
+      "fuentes": [
+        "The Guardian"
+      ],
+      "actores_mencionados": [
+        "Israel",
+        "Palestina"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Israel",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-92197f2b080bc946176a",
+      "fecha": "2026-11-25",
+      "titulo_fuente": "Zelensky should speak more respectfully to Trump to secure security guarantees — US envoy",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "92197f2b080bc946176a",
+          "titulo_original": "Zelensky should speak more respectfully to Trump to secure security guarantees — US envoy",
+          "titulo_es": "Zelensky debería hablar con más respeto a Trump para garantizar garantías de seguridad — enviado estadounidense",
+          "url": "https://tass.com/world/2224959",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-25T21:47:01+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "US special envoy Jared Kushner pointed out that the White House may consider providing security guarantees to Kiev if the \"right security architecture\" is developed",
+          "resumen_es": "El enviado especial estadounidense Jared Kushner señaló que la Casa Blanca podría considerar la posibilidad de proporcionar garantías de seguridad a Kiev si se desarrolla la \"arquitectura de seguridad correcta\""
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Ucrania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos, Ucrania"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -5514,91 +5650,82 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-e0723577f38f5481a0c9",
+      "id": "a-d7fbf58ae96e62515554",
       "fecha": "2026-11-25",
-      "titulo_fuente": "Daily Quiz: On Portuguese military campaigns and personalities",
-      "region": "Asia-Pacífico",
+      "titulo_fuente": "Duran Duran guitarist Andy Taylor, sound of the 1980s, dies at 65",
+      "region": "Internacional",
       "temas": [
-        "Seguridad y conflictos"
+        "Actualidad"
       ],
       "noticias": [
         {
-          "id": "e0723577f38f5481a0c9",
-          "titulo_original": "Daily Quiz: On Portuguese military campaigns and personalities",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/news/international/daily-quiz-on-portuguese-military-campaigns-and-personalities/article71740887.ece",
+          "id": "d7fbf58ae96e62515554",
+          "titulo_original": "Duran Duran guitarist Andy Taylor, sound of the 1980s, dies at 65",
+          "titulo_es": "El guitarrista de Duran Duran Andy Taylor, sonido de los años 80, muere a los 65",
+          "url": "https://www.scmp.com/news/world/europe/article/3375817/duran-duran-guitarist-andy-taylor-sound-1980s-dies-65",
+          "fuente": "South China Morning Post",
+          "pais": "Hong Kong",
+          "fecha": "2026-11-25T23:20:50+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Andy Taylor, the former guitarist with new wave pop group Duran Duran, has died after a “long and courageous battle with prostate cancer”, the band and his family said on social media late on Wednesday. He was 65. “Andy passed away peacefully at home, surrounded by his family on Monday 23rd November,” they said in a joint statement. Taylor’s rock- and funk-inspired riffs drove the British band’s dance floor hits such as “Girls on Film” and “Rio”,",
+          "resumen_es": "Andy Taylor, el ex guitarrista con el nuevo grupo pop de olas Duran Duran, ha muerto después de “una batalla larga y valiente con cáncer de próstata”, dijo el grupo y su familia en las redes sociales el miércoles. Tenía 65 años. Andy falleció en paz"
+        },
+        {
+          "id": "57204bf79f68f137dfb8",
+          "titulo_original": "Andy Taylor, guitarist of new wave icons Duran Duran, dies at 65",
+          "titulo_es": "Andy Taylor, guitarrista de nuevos iconos de onda Duran, muere a los 65 años",
+          "url": "https://www.thehindu.com/entertainment/music/andy-taylor-guitarist-of-new-wave-icons-duran-duran-dies-at-65/article71744266.ece",
           "fuente": "The Hindu",
           "pais": "India",
-          "fecha": "2026-11-25T01:03:44+00:00",
+          "fecha": "2026-11-25T22:46:30+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "On November 25, 1510, the Portuguese recaptured Goa after a fierce military campaign, consolidating their foothold on India’s western coast. Test your knowledge of the military campaigns and personalities behind this pivotal episode in Indian history",
+          "resumen_original": "The band’s imperial stage occurred with a trio of hit albums between 1981 and 1983, with such dance-floor barnburners as ‘Girls on Film’ and ‘Union of the Snake’ and the moody ballads ‘The Chauffeur’ and ‘Save a Prayer’",
+          "resumen_es": "El escenario imperial de la banda ocurrió con un trío de discos de éxito entre 1981 y 1983, con este tipo de barnburners de la pista de baile como ‘Girls on Film’ y ‘Union of the Snake’ y las baladas de humor ‘The Chauffeur’ y ‘Save a Prayer’"
+        },
+        {
+          "id": "035012d1db20018f49eb",
+          "titulo_original": "Andy Taylor, original guitarist for Duran Duran, dies at 65 - CNN",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OTGdYdzhtaF9YWHM0eFNWUVdFeHV4bkozNlFGTlBvVHFvZXcxQ3FBQ0JIaUF2OE13VzRub2ZySnNwTkNsTERfSE9BY2JkQ3AzMUZHVFZIX1BYVzk5Q1BhNHhtZGEzVGF0aURVMF8yclE2RW4tU2I0TGFMbHplYVk?oc=5",
+          "fuente": "CNN",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-25T22:14:14+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Andy Taylor, original guitarist for Duran Duran, dies at 65 CNN",
           "resumen_es": ""
+        },
+        {
+          "id": "779cda7961453741446f",
+          "titulo_original": "Andy Taylor, guitarist in Duran Duran, dies aged 65",
+          "titulo_es": "Andy Taylor, guitarrista en Duran Duran, muere de 65 años",
+          "url": "https://www.theguardian.com/music/2026/nov/25/andy-taylor-duran-duran-guitarist-dead",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-25T21:41:34+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Musician who had huge 1980s chart success had been diagnosed with prostate cancer in 2018 Andy Taylor, the guitarist with 80s pop megastars Duran Duran, has died aged 65. He had been diagnosed with stage four metastatic prostate cancer in 2018, which he disclosed publicly in 2022 when Duran Duran were about to be inducted into the Rock and Roll Hall of Fame. Continue reading...",
+          "resumen_es": "En 2018 Andy Taylor, el guitarrista de las megaestrellas pop de 80s Duran Duran, ha muerto de 65 años. Había sido diagnosticado con cáncer de próstata metastásico en estadio cuatro en 2"
         }
       ],
       "fuentes": [
+        "CNN",
+        "South China Morning Post",
+        "The Guardian",
         "The Hindu"
       ],
-      "actores_mencionados": [
-        "India"
-      ],
-      "fuentes_independientes": 1,
+      "actores_mencionados": [],
+      "fuentes_independientes": 4,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
       },
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
+      "prioridad_orientativa": 3,
       "motivos_seleccion": [
-        "Actores relevantes: India",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-04d7a75d17591af0239d",
-      "fecha": "2026-11-25",
-      "titulo_fuente": "The rising cost of putting food on the table in India",
-      "region": "Asia-Pacífico",
-      "temas": [
-        "Comercio y finanzas"
-      ],
-      "noticias": [
-        {
-          "id": "04d7a75d17591af0239d",
-          "titulo_original": "The rising cost of putting food on the table in India",
-          "titulo_es": "",
-          "url": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-25T01:02:13+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "India's food inflation is broadening, squeezing household budgets.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "BBC News"
-      ],
-      "actores_mencionados": [
-        "India"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia compleja y economía política internacional",
-        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: India",
-        "Ámbito: Comercio y finanzas"
+        "Cobertura de fuentes distintas"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -5751,64 +5878,6 @@
       "motivos_seleccion": [
         "Cobertura de fuentes distintas",
         "Actores relevantes: Unión Europea"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-753f3acd7d0a833817d1",
-      "fecha": "2026-11-25",
-      "titulo_fuente": "Kilmar Abrego Garcia, wrongfully deported from US, arrives in Spain",
-      "region": "Internacional",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "753f3acd7d0a833817d1",
-          "titulo_original": "Kilmar Abrego Garcia, wrongfully deported from US, arrives in Spain",
-          "titulo_es": "",
-          "url": "https://www.aljazeera.com/news/2026/11/25/kilmar-abrego-garcia-wrongfully-deported-from-us-arrives-in-spain?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-11-25T15:34:59+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The Salvadoran national's lawyer said in a statement that it was 'a temporary departure'.",
-          "resumen_es": ""
-        },
-        {
-          "id": "11bbb07558dbb5c50e9e",
-          "titulo_original": "Kilmar Abrego Garcia, illegally deported by the Trump administration, arrives in Spain after voluntarily leaving the US - CNN",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcG1HVEl5OFFJbUMtcllrTmlxUlRUdXFjTkNiOXBJVmc5TVJ0eDdiUFVJX3dMeGpOR0N2UGRKVGgtMXdqY2piOFE5WGpaTkR3YTJva3EyMWtxdzJ4QmZBRm05TGF0NVRoOWpJVHdwMlpta3FVZWU2aWU3MXZQckMyLXhXd01PZ0Nwam1CTw?oc=5",
-          "fuente": "CNN",
-          "pais": "Estados Unidos",
-          "fecha": "2026-11-25T01:07:00+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Kilmar Abrego Garcia, illegally deported by the Trump administration, arrives in Spain after voluntarily leaving the US CNN",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera",
-        "CNN"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos"
-      ],
-      "fuentes_independientes": 2,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 3,
-      "motivos_seleccion": [
-        "Cobertura de fuentes distintas",
-        "Actores relevantes: Estados Unidos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -5989,59 +6058,43 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-55d2ee641e0c9cbc2350",
+      "id": "a-3fc11f3d9355edd6597b",
       "fecha": "2026-11-25",
-      "titulo_fuente": "Thomas Markle charged in U.S. on second count of possessing child sexual abuse material",
-      "region": "Estados Unidos",
+      "titulo_fuente": "Deadly truck fire is latest of Egypt’s transport disasters",
+      "region": "Internacional",
       "temas": [
-        "Actualidad"
+        "Energía y clima"
       ],
       "noticias": [
         {
-          "id": "55d2ee641e0c9cbc2350",
-          "titulo_original": "Thomas Markle charged in U.S. on second count of possessing child sexual abuse material",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/news/international/thomas-markle-charged-in-us-on-second-count-of-possessing-child-sexual-abuse-material/article71740964.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-11-25T03:03:03+00:00",
+          "id": "3fc11f3d9355edd6597b",
+          "titulo_original": "Deadly truck fire is latest of Egypt’s transport disasters",
+          "titulo_es": "El fuego mortal de camiones es el último de los desastres de transporte de Egipto",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/deadly-truck-fire-is-latest-of-egypts-transport-disasters?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-25T22:48:47+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The indictment doubles the number of federal ‌charges currently lodged in Los Angeles against the 82-year-old Markle in a case that grew out of an investigation initiated last month in the ‌Philippines",
-          "resumen_es": ""
-        },
-        {
-          "id": "931118a83c11690ed261",
-          "titulo_original": "Thomas Markle charged in US for possessing child sex abuse images",
-          "titulo_es": "",
-          "url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-25T01:40:42+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material.",
-          "resumen_es": ""
+          "resumen_original": "Dozens were killed and injured when a truck carrying gas cylinders caught fire near Cairo’s Ring Road.",
+          "resumen_es": "Docenas fueron asesinadas y heridas cuando un camión que transportaba cilindros de gas incendió cerca de la carretera de Anillo de El Cairo."
         }
       ],
       "fuentes": [
-        "BBC News",
-        "The Hindu"
+        "Al Jazeera"
       ],
-      "actores_mencionados": [
-        "Estados Unidos"
-      ],
-      "fuentes_independientes": 2,
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+        "nombre": "Interdependencia y gobernanza global",
+        "pregunta": "¿Cómo se distribuyen los costos de coordinación y los incentivos para cooperar?"
       },
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 3,
+      "prioridad_orientativa": 2,
       "motivos_seleccion": [
-        "Cobertura de fuentes distintas",
-        "Actores relevantes: Estados Unidos"
+        "Ámbito: Energía y clima"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6130,48 +6183,6 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Actores relevantes: Ucrania"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-779cda7961453741446f",
-      "fecha": "2026-11-25",
-      "titulo_fuente": "Andy Taylor, guitarist in Duran Duran, dies aged 65",
-      "region": "Internacional",
-      "temas": [
-        "Energía y clima"
-      ],
-      "noticias": [
-        {
-          "id": "779cda7961453741446f",
-          "titulo_original": "Andy Taylor, guitarist in Duran Duran, dies aged 65",
-          "titulo_es": "Andy Taylor, guitarrista en Duran Duran, muere de 65 años",
-          "url": "https://www.theguardian.com/music/2026/nov/25/andy-taylor-duran-duran-guitarist-dead",
-          "fuente": "The Guardian",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-25T21:41:34+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Musician who had huge 1980s chart success had been diagnosed with prostate cancer in 2018 Andy Taylor, the guitarist with 80s pop megastars Duran Duran, has died aged 65. He had been diagnosed with stage four metastatic prostate cancer in 2018, which he disclosed publicly in 2022 when Duran Duran were about to be inducted into the Rock and Roll Hall of Fame. Continue reading...",
-          "resumen_es": "En 2018 Andy Taylor, el guitarrista de las megaestrellas pop de 80s Duran Duran, ha muerto de 65 años. Había sido diagnosticado con cáncer de próstata metastásico en estadio cuatro en 2"
-        }
-      ],
-      "fuentes": [
-        "The Guardian"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia y gobernanza global",
-        "pregunta": "¿Cómo se distribuyen los costos de coordinación y los incentivos para cooperar?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Energía y clima"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
