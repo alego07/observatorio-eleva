@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-11-25T21:57:17.901267+00:00",
+  "created_utc": "2026-11-25T22:38:12.505950+00:00",
   "events": [
     {
       "id": "a-c1f4fe6aa16540c6e2bf",
@@ -2674,52 +2674,6 @@
       "motivos_seleccion": [
         "Actores relevantes: China",
         "Ámbito: Diplomacia",
-        "Posible decisión institucional o negociación"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-6779822ff93eaad672c1",
-      "fecha": "2026-11-25",
-      "titulo_fuente": "Chinese tech giant Huawei found guilty of conspiracy to steal trade secrets - Politico",
-      "region": "China",
-      "temas": [
-        "Comercio y finanzas"
-      ],
-      "noticias": [
-        {
-          "id": "6779822ff93eaad672c1",
-          "titulo_original": "Chinese tech giant Huawei found guilty of conspiracy to steal trade secrets - Politico",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdFI1VzlDbmp2bUxGQjZBb192T2NxWTdDaGhaUVhnOVdPdkhLb1B4NVpOZkdOa3JsbTY4bmwtdW5YWTR6M3c1dnhWQkQzWlNNQnNtWTJobUUzb01Nb0V5SXpfdG13Q3ZRLWNXZjFtR25SU1pWUWxXMEgwY1JJQ3FNbDk1MzIzYV9kbHUzRWJvWENtYnlGUVBHRjlsSkdtTDdENXZwcmFVR3JkZ1RBMk9nbkUwZmhMVGRjSHRHYms3LUlBLXM?oc=5",
-          "fuente": "POLITICO US",
-          "pais": "Estados Unidos",
-          "fecha": "2026-11-25T00:42:00+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Chinese tech giant Huawei found guilty of conspiracy to steal trade secrets Politico",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "POLITICO US"
-      ],
-      "actores_mencionados": [
-        "China"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Interdependencia compleja y economía política internacional",
-        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: China",
-        "Ámbito: Comercio y finanzas",
         "Posible decisión institucional o negociación"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
@@ -5650,46 +5604,95 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-209b69b840618609dca2",
+      "id": "a-7583f52321a2849b1c95",
       "fecha": "2026-11-25",
-      "titulo_fuente": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
-      "region": "Rusia-Ucrania",
+      "titulo_fuente": "At least 30 killed as fuel tanker crash ignites large fire on Cairo highway",
+      "region": "Internacional",
       "temas": [
-        "Seguridad y conflictos"
+        "Actualidad"
       ],
       "noticias": [
         {
-          "id": "209b69b840618609dca2",
-          "titulo_original": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
-          "titulo_es": "",
-          "url": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
+          "id": "7583f52321a2849b1c95",
+          "titulo_original": "At least 30 killed as fuel tanker crash ignites large fire on Cairo highway",
+          "titulo_es": "Al menos 30 muertos mientras el accidente de tanque de combustible encenderá fuego grande en la carretera de El Cairo",
+          "url": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-25T22:10:12+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Blaze on ring road surrounding Egyptian capital injures at least 25 people and leaves cars and motorcycles charred A crash involving a fuel tanker ignited a huge fire on a highway surrounding Cairo on Wednesday, killing at least 30 people, Egyptian authorities said. The blaze on the ring road, a key artery that encircles the Egyptian capital, also injured at least 25 people and left more than two dozen cars and motorcycles charred, the public pro",
+          "resumen_es": "Blaze en la carretera de circunvalación que rodea a la capital egipcia lesiona al menos 25 personas y deja autos y motocicletas carbonizados Un accidente con un tanque de combustible encendió un enorme fuego en una carretera que rodea a El Cairo el miércoles, matando al menos 30 personas,"
+        },
+        {
+          "id": "93d2b4f736fc35352391",
+          "titulo_original": "Fuel tanker crash ignites massive fire on highway surrounding Cairo, killing at least 30 people",
+          "titulo_es": "El accidente del tanque de combustible encenderá fuego masivo en la carretera que rodea El Cairo, matando al menos 30 personas",
+          "url": "https://www.thehindu.com/news/international/fuel-tanker-crash-ignites-massive-fire-on-highway-surrounding-cairo/article71744262.ece",
+          "fuente": "The Hindu",
+          "pais": "India",
+          "fecha": "2026-11-25T22:04:14+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The blaze on Ring Road, a key artery that encircles the Egyptian capital, also injured at least 25 people and left more than two dozen cars and motorcycles charred, the Public Prosecutor’s office said in a statement",
+          "resumen_es": "El incendio en Ring Road, una arteria clave que rodea a la capital egipcia, también lesionó al menos 25 personas y dejó más de dos docenas de coches y motocicletas carbonizados, dijo la fiscalía en una declaración"
+        },
+        {
+          "id": "1c6024d18fe8d709ef3d",
+          "titulo_original": "At least 30 killed in massive fire as fuel tanker crashes on Cairo highway",
+          "titulo_es": "Al menos 30 muertos en un incendio masivo mientras el tanque de combustible se estrella en la carretera de El Cairo",
+          "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
           "fuente": "BBC News",
           "pais": "Reino Unido",
-          "fecha": "2026-11-25T00:54:13+00:00",
+          "fecha": "2026-11-25T21:25:14+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.",
+          "resumen_original": "Another 19 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
+          "resumen_es": "Another 19 are injured after the tanker reportedly overturns on a occupied ring road in the Egyptian capital."
+        },
+        {
+          "id": "3560b8b183ba94803582",
+          "titulo_original": "At least 30 killed in highway fire in Cairo district",
+          "titulo_es": "Al menos 30 muertos en incendios por carretera en el distrito de El Cairo",
+          "url": "https://www.euronews.com/2026/11/25/at-least-30-killed-in-highway-fire-in-cairo-district",
+          "fuente": "Euronews",
+          "pais": "Unión Europea",
+          "fecha": "2026-11-25T19:56:45+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "A truck carrying fuel reportedly overturned on a busy highway, setting vehicles ablaze and prompting a major emergency response. Authorities warned that the death toll could rise.",
+          "resumen_es": "A truck carrying fuel reportedly overturned on a occupied highway, setting vehicles ablaze and prompting a major emergency response. Las autoridades advirtieron que el número de muertos podría aumentar."
+        },
+        {
+          "id": "42ec3b55e0fdad1c88af",
+          "titulo_original": "At least 30 killed in fuel tanker fire near Cairo, Egypt’s Health Ministry says - CNN",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSGpqQVB2ZWpQMmlfeTVsaWtSNldVUVpLRTQzVnFqajZILWNwdF9mMF9sOUJZX0d6a1JkYVhFZnlmbjBlTEpNSm1NcWNab3NPZWQ2WVd3US16NjUwMjN5b19wVERDZG1WVGRhOEJoNkNadndPZVowRF83ZUYwYWpscDVvWDYyVzA?oc=5",
+          "fuente": "CNN",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-25T18:45:12+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "At least 30 killed in fuel tanker fire near Cairo, Egypt’s Health Ministry says CNN",
           "resumen_es": ""
         }
       ],
       "fuentes": [
-        "BBC News"
+        "BBC News",
+        "CNN",
+        "Euronews",
+        "The Guardian",
+        "The Hindu"
       ],
-      "actores_mencionados": [
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
+      "actores_mencionados": [],
+      "fuentes_independientes": 5,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
       },
       "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
       "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
+      "prioridad_orientativa": 3,
       "motivos_seleccion": [
-        "Actores relevantes: Ucrania",
-        "Ámbito: Seguridad y conflictos"
+        "Cobertura de fuentes distintas"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6044,6 +6047,50 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-5fbe741959eead43c6b6",
+      "fecha": "2026-11-25",
+      "titulo_fuente": "As US and China battle for AI dominance, small fry figure out what works",
+      "region": "China",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "5fbe741959eead43c6b6",
+          "titulo_original": "As US and China battle for AI dominance, small fry figure out what works",
+          "titulo_es": "Mientras EE.UU. y China luchan por el dominio de la IA, los pequeños fríe descubren lo que funciona",
+          "url": "https://www.scmp.com/news/us/economy-trade-business/article/3375810/us-and-china-battle-ai-dominance-small-fry-figure-out-what-works",
+          "fuente": "South China Morning Post",
+          "pais": "Hong Kong",
+          "fecha": "2026-11-25T22:00:11+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The strangers gather at a cafe in New York’s West Village neighbourhood on a recent Saturday afternoon before heading off to a pop-up, garden, art gallery, riverside walk and fast-food dinner, coordinated by start-up Yirl, short for “You in real life”. Yirl’s stated mission: to lure lonely Gen Zs out of their digital caves using, with no small amount of irony, artificial intelligence to counter AI-fuelled alienation. Launched in early 2025, Yirl ",
+          "resumen_es": "Los extraños se reúnen en un café en el barrio de West Village de Nueva York el sábado por la tarde, antes de salir a un pop-up, jardín, galería de arte, paseo a orillas del río y cena de comida rápida, coordinada por Yirl, corto para “You in"
+        }
+      ],
+      "fuentes": [
+        "South China Morning Post"
+      ],
+      "actores_mencionados": [
+        "China"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: China"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-5614dbf8566c608a58e6",
       "fecha": "2026-11-25",
       "titulo_fuente": "EN DIRECT, guerre en Ukraine : Kiev sous le feu de missiles balistiques",
@@ -6174,58 +6221,34 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-1c6024d18fe8d709ef3d",
+      "id": "a-865fd6dd2b53076a3c36",
       "fecha": "2026-11-25",
-      "titulo_fuente": "At least 30 killed in massive fire as fuel tanker crashes on Cairo highway",
-      "region": "Internacional",
+      "titulo_fuente": "Russian, Kazakh presidents to attend AI Journey conference",
+      "region": "Rusia-Ucrania",
       "temas": [
         "Actualidad"
       ],
       "noticias": [
         {
-          "id": "1c6024d18fe8d709ef3d",
-          "titulo_original": "At least 30 killed in massive fire as fuel tanker crashes on Cairo highway",
-          "titulo_es": "Al menos 30 muertos en un incendio masivo mientras el tanque de combustible se estrella en la carretera de El Cairo",
-          "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News",
-          "pais": "Reino Unido",
-          "fecha": "2026-11-25T21:25:14+00:00",
+          "id": "865fd6dd2b53076a3c36",
+          "titulo_original": "Russian, Kazakh presidents to attend AI Journey conference",
+          "titulo_es": "Presidentes rusos y kazajos para asistir a la conferencia AI Journey",
+          "url": "https://tass.com/economy/2224955",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-25T21:25:00+00:00",
           "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Another 19 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
-          "resumen_es": "Another 19 are injured after the tanker reportedly overturns on a occupied ring road in the Egyptian capital."
-        },
-        {
-          "id": "3560b8b183ba94803582",
-          "titulo_original": "At least 30 killed in highway fire in Cairo district",
-          "titulo_es": "Al menos 30 muertos en incendios por carretera en el distrito de El Cairo",
-          "url": "https://www.euronews.com/2026/11/25/at-least-30-killed-in-highway-fire-in-cairo-district",
-          "fuente": "Euronews",
-          "pais": "Unión Europea",
-          "fecha": "2026-11-25T19:56:45+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "A truck carrying fuel reportedly overturned on a busy highway, setting vehicles ablaze and prompting a major emergency response. Authorities warned that the death toll could rise.",
-          "resumen_es": "A truck carrying fuel reportedly overturned on a occupied highway, setting vehicles ablaze and prompting a major emergency response. Las autoridades advirtieron que el número de muertos podría aumentar."
-        },
-        {
-          "id": "42ec3b55e0fdad1c88af",
-          "titulo_original": "At least 30 killed in fuel tanker fire near Cairo, Egypt’s Health Ministry says - CNN",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSGpqQVB2ZWpQMmlfeTVsaWtSNldVUVpLRTQzVnFqajZILWNwdF9mMF9sOUJZX0d6a1JkYVhFZnlmbjBlTEpNSm1NcWNab3NPZWQ2WVd3US16NjUwMjN5b19wVERDZG1WVGRhOEJoNkNadndPZVowRF83ZUYwYWpscDVvWDYyVzA?oc=5",
-          "fuente": "CNN",
-          "pais": "Estados Unidos",
-          "fecha": "2026-11-25T18:45:12+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "At least 30 killed in fuel tanker fire near Cairo, Egypt’s Health Ministry says CNN",
-          "resumen_es": ""
+          "resumen_original": "It is not the first time the head of state has attended the forum",
+          "resumen_es": "No es la primera vez que el jefe de estado ha asistido al foro"
         }
       ],
       "fuentes": [
-        "BBC News",
-        "CNN",
-        "Euronews"
+        "TASS"
       ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 3,
+      "actores_mencionados": [
+        "Rusia"
+      ],
+      "fuentes_independientes": 1,
       "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
       "marco_teorico": {
         "nombre": "Marco por determinar",
@@ -6236,7 +6259,7 @@
       "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
-        "Cobertura de fuentes distintas"
+        "Actores relevantes: Rusia"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
