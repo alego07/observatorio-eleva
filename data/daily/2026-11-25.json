@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "generated_utc": "2026-11-25T20:41:37.325400+00:00",
+  "generated_utc": "2026-11-25T21:55:43.189317+00:00",
   "items": [
     {
       "id": "47e2e064a004650dd74d",
@@ -233,6 +233,25 @@
       "verification": "publicación periodística; corroboración pendiente"
     },
     {
+      "id": "6109b7bd3923841e6da6",
+      "title": "Brussels declaration, 25 November 2026",
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/25/brussels-declaration-25-november-2026/",
+      "published_utc": "2026-11-25T21:28:00+00:00",
+      "source_id": "f66",
+      "source_name": "Noticias del Consejo de la UE",
+      "country": "Unión Europea",
+      "kind": "oficial",
+      "excerpt": "The EU-Western Balkans summit took place in Brussels, Belgium, on 25 November 2026. The Brussels declaration is available below.",
+      "regions": [
+        "Internacional"
+      ],
+      "topics": [
+        "Diplomacia"
+      ],
+      "captured_utc": "2026-11-25T21:55:43.189317+00:00",
+      "verification": "declaración de la fuente; corroboración independiente pendiente"
+    },
+    {
       "id": "354595b83cfa90449bfc",
       "title": "Remarks by President António Costa at the press conference following the EU-Western Balkans summit of 25 November 2026",
       "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/25/remarks-by-president-antonio-costa-at-the-press-conference-following-the-eu-western-balkans-summit-of-25-november-2026/",
@@ -390,6 +409,26 @@
       "captured_utc": "2026-11-24T20:52:49.061950+00:00",
       "verification": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
       "feed_via": "Google News"
+    },
+    {
+      "id": "46f40a11d3e6d46c6a5f",
+      "title": "Russian embassy urges Moldova to avoid escalating tensions",
+      "url": "https://tass.com/politics/2224951",
+      "published_utc": "2026-11-25T21:01:44+00:00",
+      "source_id": "f31",
+      "source_name": "TASS",
+      "country": "Rusia",
+      "kind": "medio estatal",
+      "excerpt": "The diplomatic mission warned that a provocation was being planned to seriously damage relations between the two countries",
+      "regions": [
+        "Rusia-Ucrania"
+      ],
+      "topics": [
+        "Diplomacia",
+        "Seguridad y conflictos"
+      ],
+      "captured_utc": "2026-11-25T21:55:43.189317+00:00",
+      "verification": "publicación periodística; corroboración pendiente"
     },
     {
       "id": "9756bf661ceb259a44bb",
@@ -1484,46 +1523,6 @@
         "Comercio y finanzas"
       ],
       "captured_utc": "2026-11-24T21:10:55.763531+00:00",
-      "verification": "publicación periodística; corroboración pendiente"
-    },
-    {
-      "id": "adbcd6de7c50eee5386c",
-      "title": "La ruta canaria vuelve a batir su récord de llegadas en un día: 1.611 migrantes en El Hierro",
-      "url": "https://elpais.com/espana/2026-11-24/seis-nuevos-cayucos-llegan-a-canarias-con-900-personas.html",
-      "published_utc": "2026-11-24T20:42:22+00:00",
-      "source_id": "f28",
-      "source_name": "El País",
-      "country": "España",
-      "kind": "medio",
-      "excerpt": "Fernando Clavijo se queja de las gestiones diplomáticas con Senegal y Gambia, mientras que Torres calcula que se han evitado al menos 1.000 llegadas",
-      "regions": [
-        "Internacional"
-      ],
-      "topics": [
-        "Diplomacia",
-        "Migración y DD. HH."
-      ],
-      "captured_utc": "2026-11-24T20:52:49.061950+00:00",
-      "verification": "publicación periodística; corroboración pendiente"
-    },
-    {
-      "id": "4b36266ac0ac743ec3fe",
-      "title": "Huawei guilty on 10 of 12 counts after 2-month battle in US courtroom",
-      "url": "https://www.scmp.com/news/us/article/3375673/huawei-guilty-10-12-counts-after-2-month-battle-us-courtroom",
-      "published_utc": "2026-11-24T20:36:38+00:00",
-      "source_id": "f36",
-      "source_name": "South China Morning Post",
-      "country": "Hong Kong",
-      "kind": "medio",
-      "excerpt": "The nearly seven-year US criminal case against Huawei Technologies and three subsidiaries finally ended on Tuesday when a jury in Brooklyn found that the company was guilty on 10 of 12 counts, including bank and wire fraud, conspiracy to steal trade secrets and evading sanctions. The jury found the technology company not guilty of racketeering or conspiracy to obstruct justice. The exhaustive legal case, filed by the US Justice Department in Janu",
-      "regions": [
-        "Internacional"
-      ],
-      "topics": [
-        "Seguridad y conflictos",
-        "Comercio y finanzas"
-      ],
-      "captured_utc": "2026-11-24T20:52:49.061950+00:00",
       "verification": "publicación periodística; corroboración pendiente"
     }
   ],
