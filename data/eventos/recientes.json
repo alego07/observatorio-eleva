@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-11-26T20:11:50.911617+00:00",
+  "created_utc": "2026-11-26T20:35:52.316522+00:00",
   "events": [
     {
       "id": "a-8b9d2a153139290d9b4d",
@@ -2217,52 +2217,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-dc15958638f0278940eb",
-      "fecha": "2026-11-25",
-      "titulo_fuente": "US developes approach to settlement in Ukraine after negotiations with Russia — Kushner",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "dc15958638f0278940eb",
-          "titulo_original": "US developes approach to settlement in Ukraine after negotiations with Russia — Kushner",
-          "titulo_es": "Estados Unidos desarrolla un enfoque para la solución en Ucrania después de negociaciones con Rusia — Kushner",
-          "url": "https://tass.com/world/2224953",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-25T21:03:01+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Jared Kushner added that over the past two months his team had been working very closely with the Europeans, discussing what was needed to achieve unity, and how to develop the right framework and approach peace",
-          "resumen_es": "Jared Kushner añadió que en los últimos dos meses su equipo había estado trabajando muy estrechamente con los europeos, discutiendo lo que se necesitaba para lograr la unidad, y cómo desarrollar el marco adecuado y acercar la paz"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia",
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia, Ucrania",
-        "Posible decisión institucional o negociación"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-b7399c29f4af828d7828",
       "fecha": "2026-11-26",
       "titulo_fuente": "Elon Musk says every child in U.S. will get two SpaceX shares",
@@ -2317,6 +2271,96 @@
       "motivos_seleccion": [
         "Cobertura de fuentes distintas",
         "Actores relevantes: Estados Unidos, India"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-54cff1445df128a75828",
+      "fecha": "2026-11-26",
+      "titulo_fuente": "Israel says hit Hezbollah targets in southern Lebanon",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "54cff1445df128a75828",
+          "titulo_original": "Israel says hit Hezbollah targets in southern Lebanon",
+          "titulo_es": "Israel dice haber alcanzado objetivos de Hezbolá en el sur del Líbano",
+          "url": "https://tass.com/world/2225571",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-26T20:31:45+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The strikes targeted dozens of missiles and launchers located at a training camp near the settlement of Ain al-Tinah, the military added",
+          "resumen_es": "The strikes targeted dozens of missiles and launchers located at a training camp near the settlement of Ain al-Tinah, the military added"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Israel"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Israel",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-89d87bdf1b68f90a92b4",
+      "fecha": "2026-11-26",
+      "titulo_fuente": "Belgium: Farmers and tractors descend on Brussels to defend EU subsidies",
+      "region": "Europa",
+      "temas": [
+        "Diplomacia"
+      ],
+      "noticias": [
+        {
+          "id": "89d87bdf1b68f90a92b4",
+          "titulo_original": "Belgium: Farmers and tractors descend on Brussels to defend EU subsidies",
+          "titulo_es": "Bélgica: Los agricultores y tractores bajan en Bruselas para defender los subsidios de la UE",
+          "url": "https://www.euronews.com/video/2026/11/26/belgium-farmers-and-tractors-descend-on-brussels-to-defend-eu-subsidies",
+          "fuente": "Euronews",
+          "pais": "Unión Europea",
+          "fecha": "2026-11-26T20:10:25+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Around 200 representatives of European farming unions marched through Brussels, Belgium, on Thursday 26 November 2026 to protest against proposed cuts to the European Union's Common Agricultural Policy (CAP). The demonstration coincided with a summit on the bloc's next long-term budget.",
+          "resumen_es": "Alrededor de 200 representantes de sindicatos agrícolas europeos marcharon por Bruselas, Bélgica, el jueves 26 de noviembre de 2026 para protestar contra los recortes propuestos a la Política Agrícola Común de la Unión Europea (CAP). La manifestación coincidió con el ingenio"
+        }
+      ],
+      "fuentes": [
+        "Euronews"
+      ],
+      "actores_mencionados": [
+        "Unión Europea"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Unión Europea",
+        "Ámbito: Diplomacia"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -2703,6 +2747,18 @@
           "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
           "resumen_original": "Vintage win for SL as Lasith and Jayawardena score tons to outclass India The Indian Express",
           "resumen_es": "Ganancia Vintage para SL como Lasith y Jayawardena marcan toneladas a la clase superior India El Indian Express"
+        },
+        {
+          "id": "0fa49ed2d9a366964e43",
+          "titulo_original": "Vintage win for SL as Lasith and Jayawardena score tons to outclass India - The Indian Express",
+          "titulo_es": "Ganancia Vintage para SL como Lasith y Jayawardena marcan toneladas a la India de clase superior - El Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeFlQVzFFVjctaGo3Rm5FQWVudjZ6eHJIUmJBT3EtRTd1cl8xN28xWWZGak1zakY3bWx0NFQzUVRkdzJKRWd2UFNpQi0xQk9tTWNIbUp6UmhFUGxTdFNZbk5XS2dBel9RYm9waW0yNkdkRzhpeDRGVjg4aDJhOWhkTWQyN01KaUgwYmF0bEtZbUJyeTl2eVNIQ3BrQURoejV5UFkya0N6b0o2a0k5SW44NHRnVGlibXJOWDJVTDZwMjFmNVZh0gHLAUFVX3lxTE44d0M1XzlzbWxuMUhKLURDS1g0SzJ5SG00MGRpRXlaZktnZ2FkNmw2M2ZEZWdpN1ZZNGQ3MUx4SjdLSkhMaTFEbjhEN2Uzcm1FWEF2QWxJLW9ZckozS3ZIejlKbGNBOWVNdnhzRGRzSlplMDAwYTdCQkc0ejI0S285TUk2VkJxZEw4M01TZU51dWxoZHhmcGNtUFJsS0VFb2VWRTlJVHh1Y3JfbXRrOHViZG1EQTNwY2pHVFI5OE5YS2hSRm5maEUxSlA0?oc=5",
+          "fuente": "The Indian Express",
+          "pais": "India",
+          "fecha": "2026-11-26T18:15:28+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Vintage win for SL as Lasith and Jayawardena score tons to outclass India The Indian Express",
+          "resumen_es": "Ganancia Vintage para SL como Lasith y Jayawardena marcan toneladas a la India de clase superior El Indian Express"
         }
       ],
       "fuentes": [
@@ -5453,188 +5509,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-92197f2b080bc946176a",
-      "fecha": "2026-11-25",
-      "titulo_fuente": "Zelensky should speak more respectfully to Trump to secure security guarantees — US envoy",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "92197f2b080bc946176a",
-          "titulo_original": "Zelensky should speak more respectfully to Trump to secure security guarantees — US envoy",
-          "titulo_es": "Zelensky debería hablar con más respeto a Trump para garantizar garantías de seguridad — enviado estadounidense",
-          "url": "https://tass.com/world/2224959",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-25T21:47:01+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "US special envoy Jared Kushner pointed out that the White House may consider providing security guarantees to Kiev if the \"right security architecture\" is developed",
-          "resumen_es": "El enviado especial estadounidense Jared Kushner señaló que la Casa Blanca podría considerar la posibilidad de proporcionar garantías de seguridad a Kiev si se desarrolla la \"arquitectura de seguridad correcta\""
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos, Ucrania"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-6109b7bd3923841e6da6",
-      "fecha": "2026-11-25",
-      "titulo_fuente": "Brussels declaration, 25 November 2026",
-      "region": "Internacional",
-      "temas": [
-        "Diplomacia"
-      ],
-      "noticias": [
-        {
-          "id": "6109b7bd3923841e6da6",
-          "titulo_original": "Brussels declaration, 25 November 2026",
-          "titulo_es": "Declaración de Bruselas, 25 de noviembre de 2026",
-          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/25/brussels-declaration-25-november-2026/",
-          "fuente": "Noticias del Consejo de la UE",
-          "pais": "Unión Europea",
-          "fecha": "2026-11-25T21:28:00+00:00",
-          "estado": "declaración de la fuente; corroboración independiente pendiente",
-          "resumen_original": "The EU-Western Balkans summit took place in Brussels, Belgium, on 25 November 2026. The Brussels declaration is available below.",
-          "resumen_es": "La cumbre de los Balcanes UE-occidentales tuvo lugar en Bruselas, Bélgica, el 25 de noviembre de 2026. La declaración de Bruselas está disponible a continuación."
-        }
-      ],
-      "fuentes": [
-        "Noticias del Consejo de la UE"
-      ],
-      "actores_mencionados": [
-        "Unión Europea"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Unión Europea",
-        "Ámbito: Diplomacia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-0d355ca44a82251a81e4",
-      "fecha": "2026-11-25",
-      "titulo_fuente": "Winter rains threaten 1,000 Gaza shelter sites, councils warn",
-      "region": "Oriente Medio",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "0d355ca44a82251a81e4",
-          "titulo_original": "Winter rains threaten 1,000 Gaza shelter sites, councils warn",
-          "titulo_es": "Las lluvias de invierno amenazan 1.000 centros de acogida de Gaza, consejos",
-          "url": "https://www.aljazeera.com/news/2026/11/25/winter-rains-threaten-1000-gaza-shelter-sites-councils-warn?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-11-25T21:03:51+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "About 200,000 tents need replacing, Gaza’s municipalities say, as the EU urges Israel to reopen all crossings.",
-          "resumen_es": "Alrededor de 200.000 tiendas necesitan reemplazar, dicen los municipios de Gaza, ya que la UE insta a Israel a reabrir todos los cruces."
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera"
-      ],
-      "actores_mencionados": [
-        "Israel",
-        "Palestina"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Israel",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-46f40a11d3e6d46c6a5f",
-      "fecha": "2026-11-25",
-      "titulo_fuente": "Russian embassy urges Moldova to avoid escalating tensions",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Diplomacia",
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "46f40a11d3e6d46c6a5f",
-          "titulo_original": "Russian embassy urges Moldova to avoid escalating tensions",
-          "titulo_es": "La embajada rusa insta a Moldova a que evite intensificar las tensiones",
-          "url": "https://tass.com/politics/2224951",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-25T21:01:44+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The diplomatic mission warned that a provocation was being planned to seriously damage relations between the two countries",
-          "resumen_es": "La misión diplomática advirtió que se estaba planificando una provocación para dañar seriamente las relaciones entre los dos países"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Liberalismo institucional y negociación",
-        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia",
-        "Ámbito: Diplomacia, Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-0f889ad86b2320334e2c",
       "fecha": "2026-11-26",
       "titulo_fuente": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
@@ -5748,6 +5622,18 @@
           "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
           "resumen_original": "French actor Gerard Depardieu to face trial for rape, his lawyer says CNN",
           "resumen_es": ""
+        },
+        {
+          "id": "b0f89ef962184b61ede2",
+          "titulo_original": "French actor Gerard Depardieu to face trial for rape, his lawyer says - CNN",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5iYU5ETEZPOEU4YkZVQkxEN1llZkRHUzQ4NVBQNWViUWJFMElDX1Q2YWZkVzlFWFhSNUhmdkxuVWtuVmJDZXRwM1dQUXBMRFVEMnZOU3FlRWtCODB3VEFEOWFBckNBWGxXRzF3M1dvX3o0T0swTElGdjRR?oc=5",
+          "fuente": "CNN",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-26T14:00:29+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "French actor Gerard Depardieu to face trial for rape, his lawyer says CNN",
+          "resumen_es": ""
         }
       ],
       "fuentes": [
@@ -5830,6 +5716,90 @@
       "motivos_seleccion": [
         "Cobertura de fuentes distintas",
         "Actores relevantes: Rusia"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-2afa5d4605e33ebb7727",
+      "fecha": "2026-11-26",
+      "titulo_fuente": "US postpones publication of review of its military presence in Europe until 2027 — portal",
+      "region": "Europa",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "2afa5d4605e33ebb7727",
+          "titulo_original": "US postpones publication of review of its military presence in Europe until 2027 — portal",
+          "titulo_es": "Estados Unidos pospone la publicación de revisión de su presencia militar en Europa hasta 2027 — portal",
+          "url": "https://tass.com/world/2225569",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-26T20:27:16+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The review, initiated by Pentagon chief Pete Hegseth in June and aimed at reducing the US military presence, was scheduled to last six months",
+          "resumen_es": "La revisión, iniciada por el jefe del Pentágono Pete Hegseth en junio y dirigida a reducir la presencia militar estadounidense, estaba prevista para durar seis meses"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-6f98f4effca0386a5437",
+      "fecha": "2026-11-26",
+      "titulo_fuente": "EU leaders fail to adopt union’s seven-year budget — diplomatic source",
+      "region": "Europa",
+      "temas": [
+        "Diplomacia"
+      ],
+      "noticias": [
+        {
+          "id": "6f98f4effca0386a5437",
+          "titulo_original": "EU leaders fail to adopt union’s seven-year budget — diplomatic source",
+          "titulo_es": "Los líderes de la UE no adoptan el presupuesto de siete años del sindicato — fuente diplomática",
+          "url": "https://tass.com/world/2225567",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-26T20:18:30+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "A European diplomatic source said that the officials will continue the negotiations in December",
+          "resumen_es": "Una fuente diplomática europea dijo que los funcionarios continuarán las negociaciones en diciembre"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Diplomacia"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6912,6 +6882,50 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-3fc3ba1aac1f9e2d3054",
+      "fecha": "2026-11-26",
+      "titulo_fuente": "Moscow-Pyongyang ties moving in 'very positive' direction — Russian minister",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "3fc3ba1aac1f9e2d3054",
+          "titulo_original": "Moscow-Pyongyang ties moving in 'very positive' direction — Russian minister",
+          "titulo_es": "",
+          "url": "https://tass.com/politics/2225517",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-26T17:38:54+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Alexander Kozlov described Russia and North Korea as neighbors that have always felt affection and respect for each other",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Rusia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
