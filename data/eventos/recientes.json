@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-11-26T19:50:37.915738+00:00",
+  "created_utc": "2026-11-26T20:11:50.911617+00:00",
   "events": [
     {
       "id": "a-8b9d2a153139290d9b4d",
@@ -377,6 +377,52 @@
       "motivos_seleccion": [
         "Actores relevantes: Perú",
         "Mención expresa al Perú"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-85bcaff10575eb666839",
+      "fecha": "2026-11-26",
+      "titulo_fuente": "Iranian political analyst suggests Ukraine attacked Kuwait in false flag operation",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "85bcaff10575eb666839",
+          "titulo_original": "Iranian political analyst suggests Ukraine attacked Kuwait in false flag operation",
+          "titulo_es": "Analista político iraní sugiere Ucrania atacó Kuwait en operaciones de bandera falsa",
+          "url": "https://tass.com/world/2225551",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-26T19:51:59+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Mohammad Marandi added that many Ukrainian operatives \"are now present throughout the region\"",
+          "resumen_es": "Mohammad Marandi agregó que muchos activistas ucranianos \"están presentes en toda la región\""
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Ucrania",
+        "Irán"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 6,
+      "motivos_seleccion": [
+        "Actores relevantes: Irán, Ucrania",
+        "Ámbito: Seguridad y conflictos"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -2276,6 +2322,96 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-fe78bdda11cf624db319",
+      "fecha": "2026-11-26",
+      "titulo_fuente": "Iran offers Kuwait joint investigation into drone attack — foreign ministry",
+      "region": "Oriente Medio",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "fe78bdda11cf624db319",
+          "titulo_original": "Iran offers Kuwait joint investigation into drone attack — foreign ministry",
+          "titulo_es": "Irán ofrece la investigación conjunta de Kuwait sobre el ataque con drones — ministerio extranjero",
+          "url": "https://tass.com/world/2225555",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-26T19:48:25+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "According to the ministry, Araghchi categorically rejected accusations that an Iranian drone had attacked Kuwait and stressed that Iran had nothing to do with the incident",
+          "resumen_es": "Según el ministerio, Araghchi rechazó categóricamente las acusaciones de que un drone iraní había atacado Kuwait y destacó que el Irán no tenía nada que ver con el incidente."
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Irán"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Irán",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-64295a51bb9fe152c13a",
+      "fecha": "2026-11-26",
+      "titulo_fuente": "Trump alleges ‘fake’ economic figures released before US midterms but doesn’t provide evidence",
+      "region": "Estados Unidos",
+      "temas": [
+        "Comercio y finanzas"
+      ],
+      "noticias": [
+        {
+          "id": "64295a51bb9fe152c13a",
+          "titulo_original": "Trump alleges ‘fake’ economic figures released before US midterms but doesn’t provide evidence",
+          "titulo_es": "Trump alega que las cifras económicas de “falta” se publican antes de los períodos intermedios de Estados Unidos, pero no aporta pruebas",
+          "url": "https://www.theguardian.com/us-news/2026/nov/26/trump-fake-economic-figures-midterms",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-26T19:41:37+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "In a Thanksgiving post, the US president seeks investigation after blue wave of Democrats unseat Republicans Donald Trump has alleged without evidence that economic figures published by the US federal government before this month’s midterm elections were “fake” and demanded an investigation after voters roundly rejected his Republican party. In a holiday message on social media tinged with bitterness, the US president wished a happy thanksgiving ",
+          "resumen_es": "En un post de Acción de Gracias, el presidente estadounidense busca investigación después de la ola azul de los demócratas republicanos sin riesgo Donald Trump ha alegado sin evidencia que las cifras económicas publicadas por el gobierno federal estadounidense antes de la mitad de período de este mes"
+        }
+      ],
+      "fuentes": [
+        "The Guardian"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia compleja y economía política internacional",
+        "pregunta": "¿Quién gana, quién asume los costos y qué dependencias económicas condicionan las opciones de los Estados?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos",
+        "Ámbito: Comercio y finanzas"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-558b8d749472120efe94",
       "fecha": "2026-11-26",
       "titulo_fuente": "EN DIRECT, guerre en Ukraine : les services de renseignement militaires ukrainiens ont revendiqué l’attaque de la raffinerie russe de Slaviansk-sur-Kouban",
@@ -3678,6 +3814,52 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-8fbfafe5c71d4df03649",
+      "fecha": "2026-11-26",
+      "titulo_fuente": "Iranian attack on Kuwait kills two Italians, Italy’s foreign minister says - CNN",
+      "region": "Oriente Medio",
+      "temas": [
+        "Diplomacia",
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "8fbfafe5c71d4df03649",
+          "titulo_original": "Iranian attack on Kuwait kills two Italians, Italy’s foreign minister says - CNN",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOHctV19hTWstZkJNSmxndEtnajFUeWItMWZFTzNFY0swaUdRQ3kyd0lCclg4SXBlUi1pQlNuY2NVeXRGRjFPTndPcWdlemNmY3hLem01VjdETlU2QTdodGlTZ2YwbGdMbHBJUzhZVEI4RkFtRXFWUTJwSEltLTBVUkdkUjVsZVJDekJLX2t5X3l3UQ?oc=5",
+          "fuente": "CNN",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-26T14:14:25+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Iranian attack on Kuwait kills two Italians, Italy’s foreign minister says CNN",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "CNN"
+      ],
+      "actores_mencionados": [
+        "Irán"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Liberalismo institucional y negociación",
+        "pregunta": "¿Qué incentivos crean los acuerdos, instituciones y canales diplomáticos para gestionar la controversia?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Irán",
+        "Ámbito: Diplomacia, Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-eb75da0256ea2c67506c",
       "fecha": "2026-11-26",
       "titulo_fuente": "Europe's once 'blooming garden' now in state of decay — Lavrov",
@@ -4954,6 +5136,51 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-e666bb573fe25a375ec7",
+      "fecha": "2026-11-26",
+      "titulo_fuente": "Russian oil firm Lukoil’s overseas assets sold to investors led by US billionaire Todd Boehly | CNN Business - CNN",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Energía y clima"
+      ],
+      "noticias": [
+        {
+          "id": "e666bb573fe25a375ec7",
+          "titulo_original": "Russian oil firm Lukoil’s overseas assets sold to investors led by US billionaire Todd Boehly | CNN Business - CNN",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBVcUdUYUpiT1NpRERqTDBLb1lpME1ISTdOZmFaR0NQWjVlZjM0OFFSWC1lQWtOQlp4VC1JclQ4OGxBNEtEdVpPSUk1SUxSSXZhY2poa09IMnZUUjJnNUtRUHQxVkxyb3ZCUlBDTFdMYXNKNFlrSHc?oc=5",
+          "fuente": "CNN",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-26T06:32:46+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Russian oil firm Lukoil’s overseas assets sold to investors led by US billionaire Todd Boehly | CNN Business CNN",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "CNN"
+      ],
+      "actores_mencionados": [
+        "Rusia"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Interdependencia y gobernanza global",
+        "pregunta": "¿Cómo se distribuyen los costos de coordinación y los incentivos para cooperar?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Rusia",
+        "Ámbito: Energía y clima"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-14cb63ab32c7a7f3a52b",
       "fecha": "2026-11-26",
       "titulo_fuente": "China’s anti-corruption campaign tracker",
@@ -5408,232 +5635,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-a11100d494203b8d7173",
-      "fecha": "2026-11-25",
-      "titulo_fuente": "Kiev says restrictions on Starshield operations persist",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "a11100d494203b8d7173",
-          "titulo_original": "Kiev says restrictions on Starshield operations persist",
-          "titulo_es": "Kiev dice que las restricciones a las operaciones de Starshield persisten",
-          "url": "https://tass.com/world/2224945",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-25T20:30:00+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Ukraine cannot afford to perceive a malfunction of such a critically important system as another episode and just forget about it, Ukraine’s charge d'affaires in the United States Denys Sienik said",
-          "resumen_es": "Ucrania no puede permitirse percibir un mal funcionamiento de un sistema tan importante como otro episodio y simplemente olvidarlo, el cargo de Ucrania d'affaires en los Estados Unidos Denys Sienik dijo"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos, Ucrania"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-dbd48a8e840202c20e95",
-      "fecha": "2026-11-25",
-      "titulo_fuente": "Jared Kushner on how the Ukraine war could ‘escalate massively’ - Politico",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "dbd48a8e840202c20e95",
-          "titulo_original": "Jared Kushner on how the Ukraine war could ‘escalate massively’ - Politico",
-          "titulo_es": "",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbm9RM2t4c0dMS3FtSjJ5VTJycGNGQzkydVc3OVFod3hYM2RQS3JqajZKMk81SGdLNEtOSWNxM0ZuSGl4ZUsxZ0Q4WUJRYk9yZ3dxXzN4TkpXLVhKT3VnUHR6MnF6QlJYdmJ2N0xGc0FpUTg2aVFpM3pua2ZOb2pZNjdWcUx3MjB6QThPeG1JN3BXUV9MSGcydEVrMEJrRVo2T1hBUXdjdFZBQkprbXlXTg?oc=5",
-          "fuente": "POLITICO US",
-          "pais": "Estados Unidos",
-          "fecha": "2026-11-25T20:18:07+00:00",
-          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
-          "resumen_original": "Jared Kushner on how the Ukraine war could ‘escalate massively’ Politico",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "POLITICO US"
-      ],
-      "actores_mencionados": [
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Ucrania",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-a5572c0027cef910760c",
-      "fecha": "2026-11-25",
-      "titulo_fuente": "Migrant wrongly deported by Trump leaves US for Spain",
-      "region": "Estados Unidos",
-      "temas": [
-        "Migración y DD. HH."
-      ],
-      "noticias": [
-        {
-          "id": "a5572c0027cef910760c",
-          "titulo_original": "Migrant wrongly deported by Trump leaves US for Spain",
-          "titulo_es": "Migrantes deportados erróneamente por Trump deja Estados Unidos para España",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/migrant-wrongly-deported-by-trump-leaves-us-for-spain?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-11-25T20:14:28+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Kilmar Abrego Garcia has arrived in Spain with his wife after a 20-month legal battle with the Trump administration.",
-          "resumen_es": "Kilmar Abrego García ha llegado a España con su esposa después de una batalla legal de 20 meses con la administración Trump."
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Derecho internacional y constructivismo",
-        "pregunta": "¿Qué normas, identidades y obligaciones internacionales invocan los actores?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos",
-        "Ámbito: Migración y DD. HH."
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-9c071bd90edf78325af9",
-      "fecha": "2026-11-25",
-      "titulo_fuente": "La nomination d’un Russe dans les instances dirigeantes de l’AIEA scandalise l’Ukraine",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "9c071bd90edf78325af9",
-          "titulo_original": "La nomination d’un Russe dans les instances dirigeantes de l’AIEA scandalise l’Ukraine",
-          "titulo_es": "",
-          "url": "https://www.lemonde.fr/international/article/2026/11/25/la-nomination-d-un-russe-dans-les-instances-dirigeantes-de-l-aiea-scandalise-l-ukraine_6815173_3210.html",
-          "fuente": "Le Monde",
-          "pais": "Francia",
-          "fecha": "2026-11-25T20:11:38+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Rafael Grossi, à la tête de l’Agence internationale de l’énergie atomique, a choisi Oleksii Ferapontov comme directeur adjoint. Un homme sous sanctions ukrainiennes, accusé par Kiev d’être complice de l’occupation militaire de la centrale nucléaire de Zaporijia par l’armée russe depuis mars 2022.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Le Monde"
-      ],
-      "actores_mencionados": [
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Ucrania",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-3978ad1c201a4e6e4070",
-      "fecha": "2026-11-25",
-      "titulo_fuente": "Ukrainian military plane returns to closed airfield after visiting three European states",
-      "region": "Europa",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "3978ad1c201a4e6e4070",
-          "titulo_original": "Ukrainian military plane returns to closed airfield after visiting three European states",
-          "titulo_es": "El avión militar ucraniano regresa al aeródromo cerrado después de visitar tres estados europeos",
-          "url": "https://tass.com/world/2224941",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-25T20:10:51+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The AN-26 aircraft flew to Berlin, Oslo and Krakow",
-          "resumen_es": "Los aviones AN-26 volaron a Berlín, Oslo y Krakow"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Ucrania",
-        "Alemania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Ucrania",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-0f889ad86b2320334e2c",
       "fecha": "2026-11-26",
       "titulo_fuente": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
@@ -5834,6 +5835,90 @@
       "fecha_analisis": null
     },
     {
+      "id": "a-6167442d2b001c7cebed",
+      "fecha": "2026-11-26",
+      "titulo_fuente": "Net migration to UK falls to lowest level since 1997 excluding pandemic",
+      "region": "Europa",
+      "temas": [
+        "Migración y DD. HH."
+      ],
+      "noticias": [
+        {
+          "id": "6167442d2b001c7cebed",
+          "titulo_original": "Net migration to UK falls to lowest level since 1997 excluding pandemic",
+          "titulo_es": "La migración neta al Reino Unido cae al nivel más bajo desde 1997 excluyendo la pandemia",
+          "url": "https://www.theguardian.com/uk-news/2026/nov/26/net-migration-to-uk-falls-to-lowest-level-since-1997-excluding-pandemic",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-26T20:01:47+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Latest figures show difference between number of people arriving and leaving UK was ⁠77,000 in ​year ‌to ‌June Analysis: How much of the fall in UK immigration is due to Labour’s policies? Net migration across the UK has fallen to its lowest level since 1997 with the exclusion of the years of the Covid pandemic. Figures released by the Office for National Statistics and the Home Office show that the difference between people arriving and leaving ",
+          "resumen_es": "Las últimas cifras muestran la diferencia entre el número de personas que llegan y salen del Reino Unido fue de ⁠77.000 en el año a junio Análisis: ¿Cuánto de la caída de la inmigración del Reino Unido se debe a las políticas laborales? La migración neta en todo el Reino Unido se ha reducido a sus bajos"
+        }
+      ],
+      "fuentes": [
+        "The Guardian"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Derecho internacional y constructivismo",
+        "pregunta": "¿Qué normas, identidades y obligaciones internacionales invocan los actores?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Migración y DD. HH."
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-193724b9fae7f2c0faaf",
+      "fecha": "2026-11-26",
+      "titulo_fuente": "Nottingham man jailed for 12 years for drugging and sexually assaulting partner",
+      "region": "Internacional",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "193724b9fae7f2c0faaf",
+          "titulo_original": "Nottingham man jailed for 12 years for drugging and sexually assaulting partner",
+          "titulo_es": "Nottingham hombre encarcelado durante 12 años por drogar y agredir sexualmente pareja",
+          "url": "https://www.theguardian.com/uk-news/2026/nov/26/nottingham-man-jailed-for-12-years-for-drugging-and-sexually-assaulting-partner",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-26T19:54:05+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "‘Depraved’ predator attacked victim while she was under the influence of sleeping tablets he had given her A man has been jailed for 12 years for drugging his long-term partner and sexually assaulting her while she slept. The man, who is in his 30s and from Nottingham, cannot be named in order to protect the identity of his victim. At a hearing in June, he admitted sexually assaulting the woman on multiple occasions while she was under the influe",
+          "resumen_es": "\"Depravado\" depredador atacó a la víctima mientras ella estaba bajo la influencia de las tabletas de dormir que le había dado Un hombre ha sido encarcelado durante 12 años por drogar a su pareja a largo plazo y agredirla sexualmente mientras dormía. El hombre, que está dentro"
+        }
+      ],
+      "fuentes": [
+        "The Guardian"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
       "id": "a-ddf4ffaacaea7f511ff7",
       "fecha": "2026-11-26",
       "titulo_fuente": "Son of Myanmar's Suu Kyi 'relieved' by first call in five years, questions military's motives",
@@ -5871,6 +5956,48 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-6337193dc7946189ca5d",
+      "fecha": "2026-11-26",
+      "titulo_fuente": "How much of the sharp fall in UK immigration is due to Labour’s policies?",
+      "region": "Europa",
+      "temas": [
+        "Migración y DD. HH."
+      ],
+      "noticias": [
+        {
+          "id": "6337193dc7946189ca5d",
+          "titulo_original": "How much of the sharp fall in UK immigration is due to Labour’s policies?",
+          "titulo_es": "¿Cuánto de la fuerte caída de la inmigración británica se debe a las políticas laborales?",
+          "url": "https://www.theguardian.com/uk-news/2026/nov/26/how-much-sharp-fall-uk-immigration-labour-policies",
+          "fuente": "The Guardian",
+          "pais": "Reino Unido",
+          "fecha": "2026-11-26T19:38:26+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Labour is jubilant it has got numbers down to levels the Tories could not but it was helped by factors beyond its control Net migration to UK falls to lowest level since 1997 excluding pandemic David Cameron was the leader of the opposition when he made a comment on overall migration that was used to interrogate every Tory leader for the next 14 years. Asked in January 2010 on the BBC by the interviewer Andrew Marr to address comments made by the",
+          "resumen_es": "El trabajo es jubilante que ha conseguido números a niveles que los Tories no pudieron pero que fue ayudado por factores más allá de su control La migración neta al Reino Unido cae al nivel más bajo desde 1997 excluyendo la pandemia David Cameron fue el líder de la oposición"
+        }
+      ],
+      "fuentes": [
+        "The Guardian"
+      ],
+      "actores_mencionados": [],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Derecho internacional y constructivismo",
+        "pregunta": "¿Qué normas, identidades y obligaciones internacionales invocan los actores?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Ámbito: Migración y DD. HH."
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6785,139 +6912,6 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-3fc3ba1aac1f9e2d3054",
-      "fecha": "2026-11-26",
-      "titulo_fuente": "Moscow-Pyongyang ties moving in 'very positive' direction — Russian minister",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "3fc3ba1aac1f9e2d3054",
-          "titulo_original": "Moscow-Pyongyang ties moving in 'very positive' direction — Russian minister",
-          "titulo_es": "",
-          "url": "https://tass.com/politics/2225517",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-26T17:38:54+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Alexander Kozlov described Russia and North Korea as neighbors that have always felt affection and respect for each other",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Rusia"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Rusia"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-2ad88a0708c019c4f706",
-      "fecha": "2026-11-26",
-      "titulo_fuente": "Netanyahu’s corruption trial: Is it really all over?",
-      "region": "Oriente Medio",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "2ad88a0708c019c4f706",
-          "titulo_original": "Netanyahu’s corruption trial: Is it really all over?",
-          "titulo_es": "",
-          "url": "https://www.aljazeera.com/news/2026/11/26/netanyahus-corruption-trial-is-it-really-all-over?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "pais": "Catar",
-          "fecha": "2026-11-26T17:38:02+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Court recommendations put the Israeli leader's trial, political future and efforts to evade prosecution back in focus.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Al Jazeera"
-      ],
-      "actores_mencionados": [
-        "Israel"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Israel"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-9ec7a5a93a1ab97dbc25",
-      "fecha": "2026-11-26",
-      "titulo_fuente": "Israel kills nine in Gaza, including Hamas-appointed deputy Education Minister, officials say",
-      "region": "Oriente Medio",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "9ec7a5a93a1ab97dbc25",
-          "titulo_original": "Israel kills nine in Gaza, including Hamas-appointed deputy Education Minister, officials say",
-          "titulo_es": "",
-          "url": "https://www.thehindu.com/news/international/israel-kills-nine-in-gaza-including-hamas-appointed-deputy-education-minister-officials-say/article71747983.ece",
-          "fuente": "The Hindu",
-          "pais": "India",
-          "fecha": "2026-11-26T17:35:25+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Medics said an Israeli airstrike hit an apartment in Deir Al-Balah in central Gaza Strip, killing ‌Khaled Abu Nada, the Deputy Gaza Education Minister, and his wife.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "The Hindu"
-      ],
-      "actores_mencionados": [
-        "Israel",
-        "Palestina"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: Israel"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
