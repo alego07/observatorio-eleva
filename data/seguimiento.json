@@ -1,17 +1,41 @@
 {
-  "actualizado_utc": "2026-11-26T21:51:59.588358+00:00",
+  "actualizado_utc": "2026-11-26T22:26:07.877397+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 3353,
-      "nuevas_24h": 73,
+      "cantidad_archivada": 3356,
+      "nuevas_24h": 75,
       "anteriores_24h": 75,
       "dias_con_registros": 42,
-      "fecha_ultima": "2026-11-26T20:52:37+00:00",
+      "fecha_ultima": "2026-11-26T22:19:35+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "b19f901d64380e389463",
+          "fecha": "2026-11-26T22:19:35+00:00",
+          "titulo": "IAEA in talks with Russia, Ukraine on ceasefire around ZNPP — Grossi",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2225589",
+          "traducida": false
+        },
+        {
+          "id": "ae650d931fc2c182aa6d",
+          "fecha": "2026-11-26T22:14:34+00:00",
+          "titulo": "Strobe Talbott, former Time magazine reporter and Deputy Secretary of State, has died",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/strobe-talbott-former-time-magazine-reporter-and-deputy-secretary-of-state-has-died/article71748303.ece",
+          "traducida": false
+        },
+        {
+          "id": "7a85542d9c4c2a8be5fa",
+          "fecha": "2026-11-26T21:52:10+00:00",
+          "titulo": "Russian explorer Konyukhov returns to Antarctica for new research",
+          "fuente": "TASS",
+          "url": "https://tass.com/science/2225585",
+          "traducida": false
+        },
         {
           "id": "fa9bc0c89477dba8c2e1",
           "fecha": "2026-11-26T20:52:37+00:00",
@@ -227,38 +251,14 @@
           "fuente": "TASS",
           "url": "https://tass.com/politics/2225501",
           "traducida": false
-        },
-        {
-          "id": "18a123a0d13c6ccc78f4",
-          "fecha": "2026-11-26T17:13:37+00:00",
-          "titulo": "IN BRIEF: President Putin’s key statements at AI Journey conference",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2225503",
-          "traducida": false
-        },
-        {
-          "id": "c9e85c09c863fddedc69",
-          "fecha": "2026-11-26T17:10:14+00:00",
-          "titulo": "Moscow offers sarcastic 'good morning' to Italians discovering Peacemaker website",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2225505",
-          "traducida": false
-        },
-        {
-          "id": "87a717ae13a6c40204bd",
-          "fecha": "2026-11-26T17:06:31+00:00",
-          "titulo": "Rot in 'blooming garden,' Zelensky’s brand: remarks by Lavrov",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2225497",
-          "traducida": false
         }
       ]
     },
     {
       "id": "india-asia",
       "titulo": "India y Asia-Pacífico",
-      "cantidad_archivada": 2394,
-      "nuevas_24h": 63,
+      "cantidad_archivada": 2396,
+      "nuevas_24h": 65,
       "anteriores_24h": 77,
       "dias_con_registros": 42,
       "fecha_ultima": "2026-11-26T20:32:43+00:00",
@@ -761,13 +761,21 @@
     {
       "id": "union-europea",
       "titulo": "Unión Europea y relaciones exteriores",
-      "cantidad_archivada": 889,
-      "nuevas_24h": 35,
+      "cantidad_archivada": 890,
+      "nuevas_24h": 36,
       "anteriores_24h": 23,
       "dias_con_registros": 42,
-      "fecha_ultima": "2026-11-26T21:31:24+00:00",
+      "fecha_ultima": "2026-11-26T22:05:21+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "94926e6bd441f866c590",
+          "fecha": "2026-11-26T22:05:21+00:00",
+          "titulo": "Germany: Christmas markets open across the country amid tight security",
+          "fuente": "Euronews",
+          "url": "https://www.euronews.com/video/2026/11/26/germany-christmas-markets-open-across-the-country-amid-tight-security",
+          "traducida": false
+        },
         {
           "id": "e959a4f1cb05469f7d33",
           "fecha": "2026-11-26T21:31:24+00:00",
@@ -998,14 +1006,6 @@
           "titulo": "German police arrest two Iraqis over alleged Cologne synagogue bomb plot",
           "fuente": "The Hindu",
           "url": "https://www.thehindu.com/news/international/german-police-arrest-two-iraqis-over-alleged-cologne-synagogue-bomb-plot/article71746212.ece",
-          "traducida": false
-        },
-        {
-          "id": "aa7af1f382538f081fde",
-          "fecha": "2026-11-26T10:00:23+00:00",
-          "titulo": "Could EU delisting of Chinese firm pave way for wider sanctions relief?",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/economy/policy/article/3375920/could-eu-delisting-chinese-firm-pave-way-wider-sanctions-relief",
           "traducida": false
         }
       ]
