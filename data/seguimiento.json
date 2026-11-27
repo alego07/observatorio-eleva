@@ -1,17 +1,33 @@
 {
-  "actualizado_utc": "2026-11-27T19:58:11.685036+00:00",
+  "actualizado_utc": "2026-11-27T20:22:28.845233+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 3421,
-      "nuevas_24h": 70,
-      "anteriores_24h": 82,
+      "cantidad_archivada": 3424,
+      "nuevas_24h": 72,
+      "anteriores_24h": 78,
       "dias_con_registros": 43,
-      "fecha_ultima": "2026-11-27T19:48:17+00:00",
+      "fecha_ultima": "2026-11-27T20:17:03+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "6113c651e75b831515a5",
+          "fecha": "2026-11-27T20:17:03+00:00",
+          "titulo": "Zelensky admits he lied about coordinating strikes on Benghazi with allies",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2226261",
+          "traducida": false
+        },
+        {
+          "id": "c5115841e85c880fcae9",
+          "fecha": "2026-11-27T20:10:58+00:00",
+          "titulo": "‘An advocate for Russia’: Kushner’s Putin comments spark outrage in Europe",
+          "fuente": "POLITICO Europe",
+          "url": "https://www.politico.eu/article/an-advocate-for-russia-jared-kushner-vladimir-putin-comments-spark-outrage-europe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "traducida": false
+        },
         {
           "id": "89364abdbb9f88757a3a",
           "fecha": "2026-11-27T19:48:17+00:00",
@@ -235,30 +251,14 @@
           "fuente": "TASS",
           "url": "https://tass.com/politics/2226125",
           "traducida": false
-        },
-        {
-          "id": "ff67703e73821f08c11e",
-          "fecha": "2026-11-27T16:19:52+00:00",
-          "titulo": "Yasen-M submarines capable of carrying out missions anywhere in World Ocean — Putin",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2226123",
-          "traducida": false
-        },
-        {
-          "id": "778a472f0a4251d5b522",
-          "fecha": "2026-11-27T16:14:45+00:00",
-          "titulo": "Tsirkon missile has confirmed its strike power, high accuracy — Putin",
-          "fuente": "TASS",
-          "url": "https://tass.com/politics/2226119",
-          "traducida": false
         }
       ]
     },
     {
       "id": "india-asia",
       "titulo": "India y Asia-Pacífico",
-      "cantidad_archivada": 2455,
-      "nuevas_24h": 60,
+      "cantidad_archivada": 2458,
+      "nuevas_24h": 63,
       "anteriores_24h": 64,
       "dias_con_registros": 43,
       "fecha_ultima": "2026-11-27T19:27:54+00:00",
@@ -278,6 +278,14 @@
           "titulo": "Why India’s captain wants saliva back in cricket",
           "fuente": "Al Jazeera",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/why-indias-captain-wants-saliva-back-in-cricket?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "fc4eb2a3fb988f88fb69",
+          "fecha": "2026-11-27T17:37:22+00:00",
+          "titulo": "‘The Ant’ Marc Marquez retires from MotoGP after historic 8th title win - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUm4xWnY3OEtnR2NvckdYQ3UtUWN5OUhpY21WZWdNbEk1Zll1eU10VVcxVjJfNjZzcGxSaGFnU2RsVUZGOFRBTGZYS0thaUY0NjFEYUVMLWJQc0Jlall6N04zdEFmM3poTTdTMVozYm5Hc1RkWlRYYTNaSkhmMHYzYUVtSFpUOFBrR0VWalJzS2JkNllOQTdvbFFzSTh3b2hwd1NtOVFaR28yYjFnY1FFMjdqeUQ5MmhwU2fSAcABQVVfeXFMTUtDYUQ0LUJiZHhXLTFzQ01qc1FBRmRRN0U0LWJHOUhpd2pJWTZWTU1tYUR0b2hhVUh5dUs3YlJaNWptZGs4eFJmbTk0U2g3NHFsa0ZpSEtEbVFuN1FKUFBsUUFaNnBXcW91MVdzc1hib2tBRW1leDRaYWxCT1lBaXRLR28zOUt2VEQ4LVBWalRTYUFYUVoyTDRHX0dBdy16SUJHem9yWkFwMFhwR3ZvcWFzTlJxdUt3bnQ2VzE0eXA0?oc=5",
           "traducida": false
         },
         {
@@ -326,6 +334,14 @@
           "titulo": "Gunmaster G9 movie review: The Emraan Hashmi-starrer is an incoherent, violent mess - The Indian Express",
           "fuente": "The Indian Express",
           "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTzNpMTJaeC1nREVCX3A5VURtZnh6VkFnaEVvU2FtX0VCWWxoNlpzZDdiY21YamI5ZHF5M3N1c1MxUThBQk5YNEVJZzE4bTRiS1BiQjg3eDVQM2xPYmJkdC1nMjhleW9hUTc3UzU0MFZEUS1UbExaMjEzM1prVU1QVC1oMHg2TjNaWFFXYXl5ZWJ0a2pYelVGTEpOLXQ1RDRscm14cjJ3RVFPQTNmcEFwc0xaU0o1eWJoWVBDM3ptdFdERzhHSkFvSjMyNGhDOVhSVjNKVGZ5ZGFoZw?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "dea3eced3c0e97dc363d",
+          "fecha": "2026-11-27T15:39:48+00:00",
+          "titulo": "Gunmaster G9 movie review: The Emraan Hashmi-starrer is an incoherent, violent mess - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTzNpMTJaeC1nREVCX3A5VURtZnh6VkFnaEVvU2FtX0VCWWxoNlpzZDdiY21YamI5ZHF5M3N1c1MxUThBQk5YNEVJZzE4bTRiS1BiQjg3eDVQM2xPYmJkdC1nMjhleW9hUTc3UzU0MFZEUS1UbExaMjEzM1prVU1QVC1oMHg2TjNaWFFXYXl5ZWJ0a2pYelVGTEpOLXQ1RDRscm14cjJ3RVFPQTNmcEFwc0xaU0o1eWJoWVBDM3ptdFdERzhHSkFvSjMyNGhDOVhSVjNKVGZ5ZGFoZ9IB4AFBVV95cUxOUFJnUTFZckZ0UHBBNGtkWU9hUkc1UVRTWUQzQUtuZzVsX0VJMlRKMW5ob29yVGc2N0NPS1pCbVk2VHVIZkwzMHU5X1RWQkJBdHRzZktheV9YNFl3eWo3c0VaMnpGUUQ4QmlsWV8ydHdVVVZkcE1FU1JHLWd1UG9DN1ZYLUFiQl9ZQTh0ZGNuQy1PR0ZldGlUQTVBZHFTU3h6ZkpqUlBBQmhUUkJoVzQ4eHdCWk1VRWNtSk9jNUpVa0hBUFg4NHNZdkhSejlEOGl1RG5TWVNLNFdobFBuX0JUZA?oc=5",
           "traducida": false
         },
         {
@@ -487,35 +503,35 @@
           "fuente": "South China Morning Post",
           "url": "https://www.scmp.com/week-asia/economics/article/3376040/why-trumps-new-tariff-threats-may-spur-southeast-asia-rethink-us-trade-deals",
           "traducida": false
-        },
-        {
-          "id": "f4b860a4b45275020144",
-          "fecha": "2026-11-27T09:55:32+00:00",
-          "titulo": "Munich 2036 Olympics bid: ‘Strong competition, but nothing to be ashamed of with our bid,’ says Mayor - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOGY4MHEtWHpNTFp1OGs2VjZYcTljOXVLU3J3MVNzLTNUenNDQW4zMmltUndDTm9rUkZYc29TM3FPbmdaNy1jbmxBdFRfb2gteWl5WTNlYnhLRVBKT3E0ODBSUllyUERCUEFEQVFod0YyQWNyWlFEV29ncTcxSFdZQnNldEY1WVhrV0wxanZWNThIaVpwd1Y2N3RPMTA3VTl4NHBXZG5TUEItY1VjNUV1Z1J0Nm1yN25vS0NuMl9GRklCRGNOR0tOdDktbUhzcG9QcC1DSDdvWGZmN2h0Q1cwVtIB5wFBVV95cUxOdGx1cUlLSkFzU2JiVGNlbnpmdHVxRFRSbHQyNzJJbTZROVVzSWp1U3NZcDlQaFc0WFJYbGJ6RUFYRHFqNjJYRGZSTGpKTW1Yb294X0FPT3loLUpQaXg2SFZibXU0c3ZRMmZWOG1mNTRScUlYek56OVdNQW9vYzUydURPTlVYdzlETlpUcVBLSlM1V2NvTmZLZVg4Q2Q3QWRTRUtKUkxqbEVLRTZ5THRIaFVzVnQxRFVUNzhRS1Fwek5BZXJLM0I1NUFpQjBkWGx4anJwM2lGdS1zdVVpOXBzWEljbWdBVUk?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "c94bb4835db58c3f7fa1",
-          "fecha": "2026-11-27T09:42:51+00:00",
-          "titulo": "Why was Sheikh Hasina’s former aide arrested in Bangladesh ahead of her December 16 return? - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONXU4d2dwTXcwT0xGTF9GOEp1dHQ3aDhEZVZTV0pWM1RLMTJ2ZEYtQWtIQVdpSEU0VE5uY1BvWVh4dHo2SGdiQ0VPNmg3cnRLWUVoU2pfaG9GczNnNWR6ZmlrNE8xNXFSbEFjSVE5QWwyYVNKcGdZcHJuOTFfYjgtYmE1d3NMMkVudEZ1V1FnSndzRktqTDk1R296UjExS2xmdW9BU3FXUUhvVWNwMm5TdGtDUTRQRlpRVjBCYzBMaU5lbGZNRlhXbHVwMHZvNFlCb0JUQjVB0gHcAUFVX3lxTE0zS1hMNVU3cXhGaFl1YUtNbWhJamMxemJTdGpzeGZDMHlVS2xSYXpkSnVKZGI0WVRNRzdlNXZna19VbV83WTl5QnZ1Z0c2SlN5ZV8tNFZ0LUQyMVRzRFRBdldBT3cwZ29fOFBESzZPdXpKc3lTYVpsTWVZQlBCeVNGTmNYek9iR0kwVVAydXJSS0NoYkNGZnl0em42YWVvNHRnN09zNFpIVXllczVSUWlESWtyT3dadkExa2daazZjbnlQS19iU0N2VVlKM1RPUWJRaDlJMlZ5Q0tZdVY?oc=5",
-          "traducida": false
         }
       ]
     },
     {
       "id": "oriente-medio",
       "titulo": "Oriente Medio: seguridad y diplomacia",
-      "cantidad_archivada": 2120,
-      "nuevas_24h": 31,
-      "anteriores_24h": 43,
+      "cantidad_archivada": 2122,
+      "nuevas_24h": 33,
+      "anteriores_24h": 42,
       "dias_con_registros": 43,
-      "fecha_ultima": "2026-11-27T19:48:17+00:00",
+      "fecha_ultima": "2026-11-27T20:10:30+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "272b12d5b290b593ece9",
+          "fecha": "2026-11-27T20:10:30+00:00",
+          "titulo": "UN Gaza rapporteur Francesca Albanese denied entry into Costa Rica",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/un-gaza-rapporteur-francesca-albanese-denied-entry-into-costa-rica?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "6cb4ab7665efdea0cf34",
+          "fecha": "2026-11-27T19:53:25+00:00",
+          "titulo": "Israel kills four in Gaza as Hamas chief al-Hayya’s son survives strike",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/israel-kills-four-in-gaza-as-hamas-chief-al-hayyas-son-survives-strike?traffic_source=rss",
+          "traducida": false
+        },
         {
           "id": "89364abdbb9f88757a3a",
           "fecha": "2026-11-27T19:48:17+00:00",
@@ -739,22 +755,6 @@
           "fuente": "The Hindu",
           "url": "https://www.thehindu.com/news/international/drone-attack-kuwait-us-iran-war-death-november-27-2026/article71748337.ece",
           "traducida": false
-        },
-        {
-          "id": "62a77f8e0080f285eea2",
-          "fecha": "2026-11-26T23:07:36+00:00",
-          "titulo": "Israeli settlers damage Palestinian family’s homes in West Bank attack",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/26/israeli-settlers-damage-palestinian-familys-homes-in-west-bank-attack?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "cff30a865cb920bdb2a0",
-          "fecha": "2026-11-26T20:59:51+00:00",
-          "titulo": "Iran denies Kuwait’s accusations of attacking its facility",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2225577",
-          "traducida": false
         }
       ]
     },
@@ -762,8 +762,8 @@
       "id": "union-europea",
       "titulo": "Unión Europea y relaciones exteriores",
       "cantidad_archivada": 905,
-      "nuevas_24h": 21,
-      "anteriores_24h": 32,
+      "nuevas_24h": 18,
+      "anteriores_24h": 34,
       "dias_con_registros": 43,
       "fecha_ultima": "2026-11-27T17:59:33+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",

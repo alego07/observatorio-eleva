@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-11-27T19:58:11.636905+00:00",
+  "created_utc": "2026-11-27T20:22:28.793733+00:00",
   "events": [
     {
       "id": "a-4be2aaa22e439319d004",
@@ -1258,53 +1258,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-26d1d91e7a4e10df4231",
-      "fecha": "2026-11-26",
-      "titulo_fuente": "Trump diverges from NATO statement, emphasizing Ukraine mustn’t expand war",
-      "region": "Rusia-Ucrania",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "26d1d91e7a4e10df4231",
-          "titulo_original": "Trump diverges from NATO statement, emphasizing Ukraine mustn’t expand war",
-          "titulo_es": "",
-          "url": "https://www.politico.eu/article/donald-trump-diverges-from-nato-statement-emphasizing-ukraine-mustnt-expand-war/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "fuente": "POLITICO Europe",
-          "pais": "Unión Europea",
-          "fecha": "2026-11-26T20:40:59+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The U.S. president's unilateral tweak of a joint missive occurred days after Kyiv struck a Russian warship off the coast of Libya.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "POLITICO Europe"
-      ],
-      "actores_mencionados": [
-        "Estados Unidos",
-        "Rusia",
-        "Ucrania"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 6,
-      "motivos_seleccion": [
-        "Actores relevantes: Estados Unidos, Rusia, Ucrania",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-5981529369760eba3345",
       "fecha": "2026-11-27",
       "titulo_fuente": "Norse Atlantic files for bankruptcy, halts flights and ticket sales",
@@ -1359,6 +1312,142 @@
         "Cobertura de fuentes distintas",
         "Actores relevantes: Irán",
         "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-6113c651e75b831515a5",
+      "fecha": "2026-11-27",
+      "titulo_fuente": "Zelensky admits he lied about coordinating strikes on Benghazi with allies",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "6113c651e75b831515a5",
+          "titulo_original": "Zelensky admits he lied about coordinating strikes on Benghazi with allies",
+          "titulo_es": "Zelensky admite que mintió sobre coordinar huelgas en Benghazi con aliados",
+          "url": "https://tass.com/world/2226261",
+          "fuente": "TASS",
+          "pais": "Rusia",
+          "fecha": "2026-11-27T20:17:03+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Earlier, Vladimir Zelensky told BBC News Ukraine, commenting on the attack, that Ukraine never carries out such operations without prior coordination with its partners",
+          "resumen_es": "Anteriormente, Vladimir Zelensky dijo a BBC News Ucrania, comentando el ataque, que Ucrania nunca lleva a cabo tales operaciones sin coordinación previa con sus socios"
+        }
+      ],
+      "fuentes": [
+        "TASS"
+      ],
+      "actores_mencionados": [
+        "Ucrania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Ucrania",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-48fd1e698411f7ef77ed",
+      "fecha": "2026-11-27",
+      "titulo_fuente": "WHO sounds alarm as measles fight falters: ‘it is back’",
+      "region": "Estados Unidos",
+      "temas": [
+        "Seguridad y conflictos"
+      ],
+      "noticias": [
+        {
+          "id": "48fd1e698411f7ef77ed",
+          "titulo_original": "WHO sounds alarm as measles fight falters: ‘it is back’",
+          "titulo_es": "La OMS suena alarma mientras lucha contra el sarampión falters: “está de vuelta”",
+          "url": "https://www.scmp.com/news/world/article/3376102/who-sounds-alarm-measles-fight-falters-it-back",
+          "fuente": "South China Morning Post",
+          "pais": "Hong Kong",
+          "fecha": "2026-11-27T20:12:12+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "The World Health Organization sounded the alarm on measles on Friday, warning that progress on elimination had stalled amid rising misinformation and disinformation. The WHO’s overview of the long-term battle against the highly contagious disease came the week after the United States lost its measles elimination status, with declining vaccination rates sending US cases soaring. Worldwide, the Covid-19 pandemic disrupted immunisation programmes, t",
+          "resumen_es": "La Organización Mundial de la Salud sonó la alarma sobre el sarampión el viernes, advirtiendo que el progreso en la eliminación se había estancado en medio de una creciente desinformación y desinformación. La visión general de la lucha a largo plazo contra el altamente contagioso d"
+        }
+      ],
+      "fuentes": [
+        "South China Morning Post"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Realismo y dilema de seguridad",
+        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos",
+        "Ámbito: Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-c5115841e85c880fcae9",
+      "fecha": "2026-11-27",
+      "titulo_fuente": "‘An advocate for Russia’: Kushner’s Putin comments spark outrage in Europe",
+      "region": "Rusia-Ucrania",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "c5115841e85c880fcae9",
+          "titulo_original": "‘An advocate for Russia’: Kushner’s Putin comments spark outrage in Europe",
+          "titulo_es": "",
+          "url": "https://www.politico.eu/article/an-advocate-for-russia-jared-kushner-vladimir-putin-comments-spark-outrage-europe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "fuente": "POLITICO Europe",
+          "pais": "Unión Europea",
+          "fecha": "2026-11-27T20:10:58+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "A lawmaker in Kyiv called for the U.S. president's son-in-law to be replaced as peace envoy, while a German MEP said he is repeating \"pure Kremlin propaganda.\"",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "POLITICO Europe"
+      ],
+      "actores_mencionados": [
+        "Estados Unidos",
+        "Rusia",
+        "Ucrania"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 4,
+      "motivos_seleccion": [
+        "Actores relevantes: Estados Unidos, Rusia, Ucrania"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -1976,6 +2065,18 @@
           "titulo_original": "Putin’s biggest ally questions a key claim Russia uses to justify invasion of Ukraine - CNN",
           "titulo_es": "",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPclJwajdCblF6ZDNUYnh5MVd2RmRsRHRmZ2MzU3hXdU5oUmhVeEx6b1pzQUxqLWV4bUI0M2M2OExQcmppT1J0OGJidHZlYmRNaVQ5SEtab1BHTlBod25NTVlkeGR0ZWJSb0d1cDljaDBHdXN3b0diUUY1MW5heW50S1hzNGFGbnZQdTFWQmpLMA?oc=5",
+          "fuente": "CNN",
+          "pais": "Estados Unidos",
+          "fecha": "2026-11-27T15:52:28+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Putin’s biggest ally questions a key claim Russia uses to justify invasion of Ukraine CNN",
+          "resumen_es": ""
+        },
+        {
+          "id": "a6c2be9b5cfe04995990",
+          "titulo_original": "Putin’s biggest ally questions a key claim Russia uses to justify invasion of Ukraine - CNN",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcF9SRmlaWWFyaFgwWms1NTQ5UkVLdUxidVFzQms1Z09xMkRVRVVDNWhlVUVDQWhOd0Z4M3kyUUlob3IydGxEZWpJMU9uUnppZTl0RzdOQU9SSFVaM3RwemxtMFhGcWNJWjBDUnhjYWhPWmt5VW9jR3JIWjlBME83MG9sY3JjejFCQ1E?oc=5",
           "fuente": "CNN",
           "pais": "Estados Unidos",
           "fecha": "2026-11-27T15:52:28+00:00",
@@ -3914,51 +4015,6 @@
       "fecha_analisis": null
     },
     {
-      "id": "a-54cff1445df128a75828",
-      "fecha": "2026-11-26",
-      "titulo_fuente": "Israel says hit Hezbollah targets in southern Lebanon",
-      "region": "Oriente Medio",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "54cff1445df128a75828",
-          "titulo_original": "Israel says hit Hezbollah targets in southern Lebanon",
-          "titulo_es": "Israel dice haber alcanzado objetivos de Hezbolá en el sur del Líbano",
-          "url": "https://tass.com/world/2225571",
-          "fuente": "TASS",
-          "pais": "Rusia",
-          "fecha": "2026-11-26T20:31:45+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "The strikes targeted dozens of missiles and launchers located at a training camp near the settlement of Ain al-Tinah, the military added",
-          "resumen_es": "The strikes targeted dozens of missiles and launchers located at a training camp near the settlement of Ain al-Tinah, the military added"
-        }
-      ],
-      "fuentes": [
-        "TASS"
-      ],
-      "actores_mencionados": [
-        "Israel"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 4,
-      "motivos_seleccion": [
-        "Actores relevantes: Israel",
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
       "id": "a-5ef4be14e1a178dfd7a6",
       "fecha": "2026-11-27",
       "titulo_fuente": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
@@ -4035,6 +4091,51 @@
       "prioridad_orientativa": 3,
       "motivos_seleccion": [
         "Cobertura de fuentes distintas"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-6cb4ab7665efdea0cf34",
+      "fecha": "2026-11-27",
+      "titulo_fuente": "Israel kills four in Gaza as Hamas chief al-Hayya’s son survives strike",
+      "region": "Oriente Medio",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "6cb4ab7665efdea0cf34",
+          "titulo_original": "Israel kills four in Gaza as Hamas chief al-Hayya’s son survives strike",
+          "titulo_es": "Israel mata a cuatro en Gaza mientras el hijo del jefe de Hamás al Hayya sobrevive a la huelga",
+          "url": "https://www.aljazeera.com/news/2026/11/27/israel-kills-four-in-gaza-as-hamas-chief-al-hayyas-son-survives-strike?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "pais": "Catar",
+          "fecha": "2026-11-27T19:53:25+00:00",
+          "estado": "publicación periodística; corroboración pendiente",
+          "resumen_original": "Four of Khalil al-Hayya's other sons were previously killed by Israeli forces, according to the Palestinian group.",
+          "resumen_es": "Cuatro de los otros hijos de Khalil al-Hayya fueron asesinados anteriormente por fuerzas israelíes, según el grupo palestino."
+        }
+      ],
+      "fuentes": [
+        "Al Jazeera"
+      ],
+      "actores_mencionados": [
+        "Israel",
+        "Palestina"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: Israel"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -4946,6 +5047,50 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Ámbito: Energía y clima, Seguridad y conflictos"
+      ],
+      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
+      "fecha_analisis": null
+    },
+    {
+      "id": "a-fc4eb2a3fb988f88fb69",
+      "fecha": "2026-11-27",
+      "titulo_fuente": "‘The Ant’ Marc Marquez retires from MotoGP after historic 8th title win - The Indian Express",
+      "region": "Asia-Pacífico",
+      "temas": [
+        "Actualidad"
+      ],
+      "noticias": [
+        {
+          "id": "fc4eb2a3fb988f88fb69",
+          "titulo_original": "‘The Ant’ Marc Marquez retires from MotoGP after historic 8th title win - The Indian Express",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUm4xWnY3OEtnR2NvckdYQ3UtUWN5OUhpY21WZWdNbEk1Zll1eU10VVcxVjJfNjZzcGxSaGFnU2RsVUZGOFRBTGZYS0thaUY0NjFEYUVMLWJQc0Jlall6N04zdEFmM3poTTdTMVozYm5Hc1RkWlRYYTNaSkhmMHYzYUVtSFpUOFBrR0VWalJzS2JkNllOQTdvbFFzSTh3b2hwd1NtOVFaR28yYjFnY1FFMjdqeUQ5MmhwU2fSAcABQVVfeXFMTUtDYUQ0LUJiZHhXLTFzQ01qc1FBRmRRN0U0LWJHOUhpd2pJWTZWTU1tYUR0b2hhVUh5dUs3YlJaNWptZGs4eFJmbTk0U2g3NHFsa0ZpSEtEbVFuN1FKUFBsUUFaNnBXcW91MVdzc1hib2tBRW1leDRaYWxCT1lBaXRLR28zOUt2VEQ4LVBWalRTYUFYUVoyTDRHX0dBdy16SUJHem9yWkFwMFhwR3ZvcWFzTlJxdUt3bnQ2VzE0eXA0?oc=5",
+          "fuente": "The Indian Express",
+          "pais": "India",
+          "fecha": "2026-11-27T17:37:22+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "‘The Ant’ Marc Marquez retires from MotoGP after historic 8th title win The Indian Express",
+          "resumen_es": ""
+        }
+      ],
+      "fuentes": [
+        "The Indian Express"
+      ],
+      "actores_mencionados": [
+        "India"
+      ],
+      "fuentes_independientes": 1,
+      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
+      "marco_teorico": {
+        "nombre": "Marco por determinar",
+        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
+      },
+      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
+      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
+      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
+      "prioridad_orientativa": 2,
+      "motivos_seleccion": [
+        "Actores relevantes: India"
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
@@ -6228,6 +6373,18 @@
           "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
           "resumen_original": "Gunmaster G9 movie review: The Emraan Hashmi-starrer is an incoherent, violent mess The Indian Express",
           "resumen_es": ""
+        },
+        {
+          "id": "dea3eced3c0e97dc363d",
+          "titulo_original": "Gunmaster G9 movie review: The Emraan Hashmi-starrer is an incoherent, violent mess - The Indian Express",
+          "titulo_es": "",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTzNpMTJaeC1nREVCX3A5VURtZnh6VkFnaEVvU2FtX0VCWWxoNlpzZDdiY21YamI5ZHF5M3N1c1MxUThBQk5YNEVJZzE4bTRiS1BiQjg3eDVQM2xPYmJkdC1nMjhleW9hUTc3UzU0MFZEUS1UbExaMjEzM1prVU1QVC1oMHg2TjNaWFFXYXl5ZWJ0a2pYelVGTEpOLXQ1RDRscm14cjJ3RVFPQTNmcEFwc0xaU0o1eWJoWVBDM3ptdFdERzhHSkFvSjMyNGhDOVhSVjNKVGZ5ZGFoZ9IB4AFBVV95cUxOUFJnUTFZckZ0UHBBNGtkWU9hUkc1UVRTWUQzQUtuZzVsX0VJMlRKMW5ob29yVGc2N0NPS1pCbVk2VHVIZkwzMHU5X1RWQkJBdHRzZktheV9YNFl3eWo3c0VaMnpGUUQ4QmlsWV8ydHdVVVZkcE1FU1JHLWd1UG9DN1ZYLUFiQl9ZQTh0ZGNuQy1PR0ZldGlUQTVBZHFTU3h6ZkpqUlBBQmhUUkJoVzQ4eHdCWk1VRWNtSk9jNUpVa0hBUFg4NHNZdkhSejlEOGl1RG5TWVNLNFdobFBuX0JUZA?oc=5",
+          "fuente": "The Indian Express",
+          "pais": "India",
+          "fecha": "2026-11-27T15:39:48+00:00",
+          "estado": "Referencia indexada por Google News; no es corroboración independiente. Consulte la publicación original antes de afirmar hechos.",
+          "resumen_original": "Gunmaster G9 movie review: The Emraan Hashmi-starrer is an incoherent, violent mess The Indian Express",
+          "resumen_es": ""
         }
       ],
       "fuentes": [
@@ -6726,134 +6883,6 @@
       "prioridad_orientativa": 2,
       "motivos_seleccion": [
         "Actores relevantes: Estados Unidos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-f34c6a12d237d2e8cfbd",
-      "fecha": "2026-11-27",
-      "titulo_fuente": "We’d be ‘stupid’ not to: Poland defends $300M military AI deal with Palantir",
-      "region": "Internacional",
-      "temas": [
-        "Seguridad y conflictos"
-      ],
-      "noticias": [
-        {
-          "id": "f34c6a12d237d2e8cfbd",
-          "titulo_original": "We’d be ‘stupid’ not to: Poland defends $300M military AI deal with Palantir",
-          "titulo_es": "",
-          "url": "https://www.politico.eu/article/wed-be-stupid-not-to-poland-defends-300m-military-ai-deal-with-palantir/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "fuente": "POLITICO Europe",
-          "pais": "Unión Europea",
-          "fecha": "2026-11-27T14:41:55+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Poland's defense minister said it would be “wrong” not to use the software, despite concerns over reliance on American technology.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "POLITICO Europe"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Realismo y dilema de seguridad",
-        "pregunta": "¿Cómo influyen la seguridad, las percepciones de amenaza y el equilibrio de poder en las decisiones de las partes?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Seguridad y conflictos"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-980a21d746f3fcf114a8",
-      "fecha": "2026-11-27",
-      "titulo_fuente": "Hong Kong completes ‘historic’ overhaul of colonial-era laws 7 months early",
-      "region": "China",
-      "temas": [
-        "Actualidad"
-      ],
-      "noticias": [
-        {
-          "id": "980a21d746f3fcf114a8",
-          "titulo_original": "Hong Kong completes ‘historic’ overhaul of colonial-era laws 7 months early",
-          "titulo_es": "",
-          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3376093/hong-kong-completes-historic-overhaul-colonial-era-laws-7-months-early",
-          "fuente": "South China Morning Post",
-          "pais": "Hong Kong",
-          "fecha": "2026-11-27T14:41:55+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "Authorities have completed the “historic mission” of adapting Hong Kong’s pre-existing laws, removing colonial-era references and outdated provisions seven months ahead of the 30th anniversary of Hong Kong’s return to Chinese sovereignty, with Beijing calling it a symbolic milestone in fulfilling the city’s constitutional obligations. The Department of Justice said on Friday that the government had gazetted the Statute Law (Miscellaneous Provisio",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "South China Morning Post"
-      ],
-      "actores_mencionados": [
-        "China"
-      ],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Marco por determinar",
-        "pregunta": "¿Cuál es el fenómeno internacional que debe explicarse y qué teoría resulta pertinente?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Actores relevantes: China"
-      ],
-      "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
-      "fecha_analisis": null
-    },
-    {
-      "id": "a-598619aa5ce2589be6e8",
-      "fecha": "2026-11-27",
-      "titulo_fuente": "Elections législatives en Espagne : les graphiques pour comprendre le dynamisme économique du pays et ses limites",
-      "region": "Internacional",
-      "temas": [
-        "Migración y DD. HH."
-      ],
-      "noticias": [
-        {
-          "id": "598619aa5ce2589be6e8",
-          "titulo_original": "Elections législatives en Espagne : les graphiques pour comprendre le dynamisme économique du pays et ses limites",
-          "titulo_es": "",
-          "url": "https://www.lemonde.fr/international/visuel/2026/11/27/elections-legislatives-en-espagne-les-graphiques-pour-comprendre-le-dynamisme-economique-du-pays-et-ses-limites_6815875_3210.html",
-          "fuente": "Le Monde",
-          "pais": "Francia",
-          "fecha": "2026-11-27T14:39:51+00:00",
-          "estado": "publicación periodística; corroboración pendiente",
-          "resumen_original": "« Le modèle espagnol sous pression » (2/3). Dopée par l’immigration, le tourisme et les fonds européens, la croissance espagnole surclasse celle de ses voisins. Malgré ces bonnes performances, le chômage reste élevé.",
-          "resumen_es": ""
-        }
-      ],
-      "fuentes": [
-        "Le Monde"
-      ],
-      "actores_mencionados": [],
-      "fuentes_independientes": 1,
-      "estado": "publicaciones agrupadas; afirmaciones pendientes de corroboración",
-      "marco_teorico": {
-        "nombre": "Derecho internacional y constructivismo",
-        "pregunta": "¿Qué normas, identidades y obligaciones internacionales invocan los actores?"
-      },
-      "relevancia_peru": "Por analizar; no se debe presumir un efecto sobre Perú.",
-      "intereses": "Pendiente de identificar mediante declaraciones de las partes, documentos y evidencia independiente.",
-      "analisis": "Pendiente de análisis editorial. La agrupación temática no permite deducir motivaciones estatales.",
-      "prioridad_orientativa": 2,
-      "motivos_seleccion": [
-        "Ámbito: Migración y DD. HH."
       ],
       "nota_prioridad": "Ordenación automática, no evaluación de veracidad ni relevancia diplomática definitiva.",
       "fecha_analisis": null
