@@ -1,17 +1,33 @@
 {
-  "actualizado_utc": "2026-11-27T22:06:30.726470+00:00",
+  "actualizado_utc": "2026-11-27T23:01:47.217912+00:00",
   "nota": "Series de publicaciones por tema; no prueba evolución de políticas ni intención de actores",
   "temas": [
     {
       "id": "rusia-ucrania",
       "titulo": "Guerra y diplomacia Rusia–Ucrania",
-      "cantidad_archivada": 3427,
-      "nuevas_24h": 71,
-      "anteriores_24h": 76,
+      "cantidad_archivada": 3429,
+      "nuevas_24h": 70,
+      "anteriores_24h": 77,
       "dias_con_registros": 43,
-      "fecha_ultima": "2026-11-27T21:08:33+00:00",
+      "fecha_ultima": "2026-11-27T22:24:12+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "2c7209ec94dce57abdc6",
+          "fecha": "2026-11-27T22:24:12+00:00",
+          "titulo": "Hungary to evaluate specific EU proposals on financing Ukraine — MP",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2226275",
+          "traducida": false
+        },
+        {
+          "id": "e48f450c89d52a413eaa",
+          "fecha": "2026-11-27T22:06:48+00:00",
+          "titulo": "Ukrainian forces launch 20 attacks on DPR settlements over past 24 hours",
+          "fuente": "TASS",
+          "url": "https://tass.com/defense/2226273",
+          "traducida": false
+        },
         {
           "id": "8639d3fdcee90765fb5d",
           "fecha": "2026-11-27T21:08:33+00:00",
@@ -235,31 +251,15 @@
           "fuente": "TASS",
           "url": "https://tass.com/politics/2226157",
           "traducida": false
-        },
-        {
-          "id": "383178692f0d86ddff78",
-          "fecha": "2026-11-27T16:51:00+00:00",
-          "titulo": "Divisions deepen between EU member states after tense budget summit",
-          "fuente": "Deutsche Welle",
-          "url": "https://www.dw.com/en/divisions-deepen-between-eu-member-states-after-tense-budget-summit/a-80078599?maca=en-rss-en-world-4025-rdf",
-          "traducida": false
-        },
-        {
-          "id": "1c8ed0b731975bc1fe0e",
-          "fecha": "2026-11-27T16:49:59+00:00",
-          "titulo": "Jared Kushner’s 70-minute interview reveals naive bias in handling of Putin’s aggression",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/nov/27/jared-kushner-interview-peril-putin-corporate-rival",
-          "traducida": false
         }
       ]
     },
     {
       "id": "india-asia",
       "titulo": "India y Asia-Pacífico",
-      "cantidad_archivada": 2464,
-      "nuevas_24h": 68,
-      "anteriores_24h": 65,
+      "cantidad_archivada": 2466,
+      "nuevas_24h": 70,
+      "anteriores_24h": 64,
       "dias_con_registros": 43,
       "fecha_ultima": "2026-11-27T19:27:54+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -393,11 +393,27 @@
           "traducida": false
         },
         {
+          "id": "c84893ae8115cd664410",
+          "fecha": "2026-11-27T12:54:52+00:00",
+          "titulo": "Cosmic Samson review: Sandeep Pradeep leads a familiar actioner disguised as superhero film - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNOFRHZ2gzSVBpZWlzSFhOTE5raFFFR0hWOHdKR29MZC1rZUhwWUc2XzRXTWctOE9fYXB1cUNiLW9FYlNvakVhdl9SRTJEMVNCM1Njck9CazBSVHEzN3FPaDQ0TkNINEJqSWg1aWl0WWY0X2hNYzlzQUt1SWFyZmVKb0dZenFUT05oZFpIeEVIX2d5ellFRUdHbWZkYUFxUjMwY3N5UmJ4c0ZxblZIZnlrWXM0QzNkX21PQ25uajRWeUZNNkI2cWxYMnFMNFJtOWVnenc5QWFmYjdKenFhTDg3M0RGb0l2ekhZLXVtYWVLSmJFS0HSAfoBQVVfeXFMTjFyZHpKeVBWRkN6NTZYb2YtZlZ6ZVFmQ0RmdDE0NjViTXYxd2JHRUVienQyVDFLU2NjRjdjMkxVQ0hrQXdNN2NrNks4THQ3X0I3WmNUT3Bka0ZDajdFMGZIMzBYSkZzYXFZVmFDTGkwX1IyQTVxZmd1VHNVRERIWDJRb0xKRFdGTzBVMHUxNXJxT0xwcEgwb3V6X3loZUZGT1Y5NXZTOF92bXpXLWVzT0NTMnllNHhXemZqNGJNaW9KZHJkTzcxWDBMTldZMDhrd0l5Wk9nYnFJWDFYN2N3YnFFdzNpRWxlZHd2V0FKV2l0ZjlTZl9lXzVoUQ?oc=5",
+          "traducida": false
+        },
+        {
           "id": "11931f12e0bcaa8d1024",
           "fecha": "2026-11-27T12:53:08+00:00",
           "titulo": "INDIA bloc meet tomorrow, Sharad Pawar’s NCP formally extends support to delimitation bill - The Indian Express",
           "fuente": "The Indian Express",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUEd4dC1tN3FmM3BMMS1IbUhRN3FwYUc3RG95bjJTckV1S21zTk4zOTJnekJKQ1lWc0ZkendQbkVfNGIzMFJqRGZvaXU2YmhFcWVtT1VrSF9aNG1kWDhkdjNrYzlYV1JqbXQwVFkyQ3Z3aUlvTzkwWEdyM29PTTJoMmNZal9iczdTOVdGU29lUTJmYktOWk5CUU0zN0NwbnR1cG5tLdIBqwFBVV95cUxOSVpZSEtwS0FPOEZqcHFCYzBOeEVFQmJSc1JRa2phaGZWOHZlSEJwRkJUZy03YzNBelhLNTlnTDZMTWp3NTZpb3ZZQ1AyRGRmYmYtaVlrajBpRG4zMHNOT1lvTUtwbXBEWDY0UjRkN1V6dnYzcHBYVUR4MkJhbzI3c1pQbGhvZFNIeHJfLXRCZElnWFE1YmVYblh4VGFVZWtiWDdyVVp0RnBBRU0?oc=5",
+          "traducida": false
+        },
+        {
+          "id": "c98555c0249d9f5d6da7",
+          "fecha": "2026-11-27T12:35:48+00:00",
+          "titulo": "Why Rohit Sharma is the right choice to lead Mumbai Indians again - The Indian Express",
+          "fuente": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdjBnaEZaT0Q5a3VrWjJjcG5iNVE0bmNMaHhwM29Oa1JBa291NUh6MjRzNlNOcUVCUDZvWVlkbHdYTnBMckg0UWthQi1fWnAwZFFrekpMRUcyWWJXUXhfSUtxNDBLeGNTY2hyRVlIY0R5NGdPUko5cGtMX1RFMjRhaTU4X1BIRmx1Rk9rQ18wOGpKd3JJdUZuV0U1NFVDX3g5TjlvMGlib0N0RHllVjZkVnpfeHFyVHNDeHfSAcABQVVfeXFMTUtCVkE1bzlybGNkTUVjeFRPUjVMWTVqalp0dWhpSmM0UlltQV9zZFA4MU95NFRZQUwwSTE5Tl80TXF1dEFQSkhwVF9rQkRXdlhCX0lJSV93MnY0Z2Rmb09kbUZwbDd2Wk1KZlRmOGVLOEhlWnZ2aUxUZGRCTzFxSXE1T0VOTTRvN1g2d1hUb2x0OXVGMzM4QWpDUmpSVEJGOS15cXV6SkFCVkhiNEluM1d3NXc5TTZJYTRlT2VPcmRG?oc=5",
           "traducida": false
         },
         {
@@ -487,35 +503,43 @@
           "fuente": "The Indian Express",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYVRLUGFGTE43RWI0aXhybnhsaFlOVjV2ZWhXRWluc3d6UXdkY01PdzV0QzY3c2tYdklsWE41bG9tWUl3OU1PVnQ0WHlYZnNkSFZmOUd0cVlrLW5PbXN3YWJHaG12OUMxdHdocW1ianpUdldrd3pUOTZKRmdFclZCUVFLa1gzanZLS0l0VE00dV93YktzUDZNajJCVmdGaHhnNmhQdUlYRGJRSGtoXzNYUjg4Xzhfd3Joakg1dkxuTDI1WlVRMmpxbjVlWWZYQ0ozSU9oTUNWbHnSAd8BQVVfeXFMT2dYTzNrZU1uUzJ2M3RHRFk4cHdoTWpWM3l6S0xuZWw5dC1rNWNWV0Z6NUxRSkppNS1JdmR3N0pvbkhWd3p5ZjY1MWEyTnZPYy11MkhkSjNaQ1VHSHduQ29lNHJyM3F5ZXlxRWhPOW1zbFNkaFZ3cFR5SUJMTEJUMHNXQUFnelByUTVOQlZWUEp2M2lBSXFsdHNldXZEaDZ5aG10cUE0RGpNMEdqWmFiQUtEZUc4YjNFMzRmam44Mkluand4U0lOb3lWTExIdHJvcFJmcE4yY21rUUNQc3Rybw?oc=5",
           "traducida": false
-        },
-        {
-          "id": "922e626612ad93075056",
-          "fecha": "2026-11-27T10:30:27+00:00",
-          "titulo": "Inside Joy Bimal Roy’s 150-year-old ‘House of Joy’: 16 cats, an old Bandra gazebo and upcycled sari art - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObHhHajBNc1kyd2ROQlUzQkhhRldxZFc3RENCRkNkZXlEdXBHZkJBU2dZT184ZzNpdkJRQW9SYU5xcXZsUm9iNDdna3dJTS14LUo3c241TjRUXzNheE9rY1o5NkNLeVNWZzJDN0hKYmVmT3hBd2tJVzY4NHJibi1BajhyRmFfbzZIMWxiZnpnakdFaDJFY0U4dnpBYnBjd204clRmWHhPbUtVQnNTV0HSAbQBQVVfeXFMUDdRellncTVoRHVTTElsMWRZcXBWUE1WY1Z1V3g4MHh6dUNkamRnU3N5M0lkZUtmRTRmeXVZNWFXdmlJcXh5a2RURjZGeDhraHpXTFFBZk9CRVJKb3J6V0dVcnB1azlxZFR5TG5sbkNGSmlqOEd3QmRsQlU0UjdGLWJvYWlUVkRpNi1LUVBubm56UzNuSDFJblVwZzU3WWxiMlpXTzExcjhZc2FyTXI3bHhWc1hM?oc=5",
-          "traducida": false
-        },
-        {
-          "id": "c488939619aee85d71ae",
-          "fecha": "2026-11-27T10:29:46+00:00",
-          "titulo": "‘Bumrah needs to get 2-3 wickets’: Dinesh Karthik - The Indian Express",
-          "fuente": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcDEwbDZ6UjZSSkIyMFBRbVRsODNwMnhPdTB6NlhmOEpZWTBaX0NQU21NS3BDOGpJSFFZa09udHdMNUZWbkhlOTJHOGVaUkh3Sm1lN2JSUW42c2dGWmlBUzBCU1ZHZEw1US1vYzZwTXZjYVVrOUVtZjhHaU12M2JWTHhpYmRUVS1TTEZybWdwV0xjWVZINXU4VnJibnFEZGJTb1M5c09uWXLSAa8BQVVfeXFMUFNFeG5UUFpKWktIY21rcDYzZDgyeUV4WmhRYXlEX3o3ZU9RWDhBaGhMME5HNE95RnVuZUZPdV85dC1iTHFydzFDN2Jxd0J3dHlpb20zTUpTejNaSW9OeWFRNmZBcmxjb2tCMlJaOWlmcHo3MDJKUXRiWVRPcldFeTRGN0J4bkhVXzF4VENNejRTMXdfVmdidUNVX3V5dkMzVlZFQldmSjlGcldGeERwMA?oc=5",
-          "traducida": false
         }
       ]
     },
     {
       "id": "oriente-medio",
       "titulo": "Oriente Medio: seguridad y diplomacia",
-      "cantidad_archivada": 2127,
-      "nuevas_24h": 36,
+      "cantidad_archivada": 2130,
+      "nuevas_24h": 39,
       "anteriores_24h": 40,
       "dias_con_registros": 43,
-      "fecha_ultima": "2026-11-27T21:48:48+00:00",
+      "fecha_ultima": "2026-11-27T22:36:35+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
       "publicaciones": [
+        {
+          "id": "b181638d94df44ec5faa",
+          "fecha": "2026-11-27T22:36:35+00:00",
+          "titulo": "Makkah alliance countries review regional security situation, condemn Houthi attacks on Saudi Arabia",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/makkah-alliance-countries-review-regional-security-situation-condemn-houthi-attacks-on-saudi-arabia/article71752547.ece",
+          "traducida": false
+        },
+        {
+          "id": "ac3960e04ad49467f1d1",
+          "fecha": "2026-11-27T22:22:02+00:00",
+          "titulo": "US military says it disabled merchant ship trying to breach Iran blockade",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "eb1aa116f3f179e007dd",
+          "fecha": "2026-11-27T22:18:41+00:00",
+          "titulo": "Hamas says Israel tried to kill chief’s son in Gaza",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/hamas-says-israel-tried-to-kill-chiefs-son-in-gaza/article71752540.ece",
+          "traducida": false
+        },
         {
           "id": "5c8c1ac5a3d220f82015",
           "fecha": "2026-11-27T21:48:48+00:00",
@@ -731,30 +755,6 @@
           "fuente": "The Guardian",
           "url": "https://www.theguardian.com/world/2026/nov/27/israeli-justice-system-judges-call-drop-netanyahu-charges",
           "traducida": false
-        },
-        {
-          "id": "0db98a6c0cdb29c34b3e",
-          "fecha": "2026-11-27T10:21:47+00:00",
-          "titulo": "Pakistan set to host talks with Saudi Arabia, Turkey under trilateral defence pact",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/pakistan-set-to-host-talks-with-saudi-arabia-turkey-under-trilateral-defence-pact/article71750047.ece",
-          "traducida": false
-        },
-        {
-          "id": "a8c903d9122ce44db4c8",
-          "fecha": "2026-11-27T10:20:33+00:00",
-          "titulo": "Iran denies responsibility for Kuwait drone strike that killed two Italians",
-          "fuente": "Euronews",
-          "url": "https://www.euronews.com/2026/11/27/iran-denies-responsibility-for-kuwait-drone-strike-that-killed-two-italians",
-          "traducida": false
-        },
-        {
-          "id": "79535595cc1a6cfbcdbf",
-          "fecha": "2026-11-27T08:59:14+00:00",
-          "titulo": "‘Islam is Sharia’: Germany’s far-right leader attacks Le Pen on Muslims and Europe",
-          "fuente": "POLITICO Europe",
-          "url": "https://www.politico.eu/article/islam-sharia-germany-far-right-leader-alice-weidel-attacks-marine-le-pen-muslims-europe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "traducida": false
         }
       ]
     },
@@ -762,7 +762,7 @@
       "id": "union-europea",
       "titulo": "Unión Europea y relaciones exteriores",
       "cantidad_archivada": 905,
-      "nuevas_24h": 15,
+      "nuevas_24h": 14,
       "anteriores_24h": 36,
       "dias_con_registros": 43,
       "fecha_ultima": "2026-11-27T17:59:33+00:00",
@@ -1263,11 +1263,263 @@
       ]
     },
     {
+      "id": "china-taiwan",
+      "titulo": "China y Taiwán",
+      "cantidad_archivada": 67,
+      "nuevas_24h": 5,
+      "anteriores_24h": 0,
+      "dias_con_registros": 29,
+      "fecha_ultima": "2026-11-27T22:27:36+00:00",
+      "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
+      "publicaciones": [
+        {
+          "id": "51f7e7b7da9d3b757318",
+          "fecha": "2026-11-27T22:27:36+00:00",
+          "titulo": "Colombian Congress chiefs rush to reassure China as envoy berates lawmakers in Taiwan",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3376105/colombian-congress-chiefs-rush-reassure-china-envoy-berates-lawmakers-taiwan",
+          "traducida": false
+        },
+        {
+          "id": "781fbfcc956c281d4871",
+          "fecha": "2026-11-27T17:55:08+00:00",
+          "titulo": "Chinese Military tests new Taiwan landing tactics in coastal drills",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/chinese-military-tests-new-taiwan-landing-tactics-in-coastal-drills/article71752063.ece",
+          "traducida": false
+        },
+        {
+          "id": "4be2aaa22e439319d004",
+          "fecha": "2026-11-27T10:00:09+00:00",
+          "titulo": "Why Trump’s new tariff threats may spur Southeast Asia to rethink US trade deals",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/week-asia/economics/article/3376040/why-trumps-new-tariff-threats-may-spur-southeast-asia-rethink-us-trade-deals",
+          "traducida": false
+        },
+        {
+          "id": "dde4fec7b76ebc337917",
+          "fecha": "2026-11-27T04:00:12+00:00",
+          "titulo": "What will Taiwan local elections reveal about 2028 race and cross-strait shifts?",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/politics/article/3375904/what-will-taiwan-local-elections-reveal-about-2028-race-and-cross-strait-shifts",
+          "traducida": false
+        },
+        {
+          "id": "34a04aa6806b5c9c8289",
+          "fecha": "2026-11-27T01:00:49+00:00",
+          "titulo": "Threat from China looms large over Taiwan’s local elections",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections",
+          "traducida": false
+        },
+        {
+          "id": "912b79d13f66b908d452",
+          "fecha": "2026-11-25T19:52:34+00:00",
+          "titulo": "Colombia quiet as China says lawmakers’ Taiwan trip crossed its ‘first red line’",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3375815/colombia-quiet-china-says-lawmakers-taiwan-trip-crossed-its-first-red-line",
+          "traducida": false
+        },
+        {
+          "id": "803932ad076bb2b61b1c",
+          "fecha": "2026-11-24T23:05:11+00:00",
+          "titulo": "Is China behind a wave of AI fake videos targeting Taiwan?",
+          "fuente": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
+          "traducida": false
+        },
+        {
+          "id": "978d73bc80d89dacb088",
+          "fecha": "2026-11-24T12:54:38+00:00",
+          "titulo": "Malaysia’s runaway Golden Horse glory fuels demand for recognition at home",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3375651/malaysias-runaway-golden-horse-glory-fuels-demand-recognition-home",
+          "traducida": false
+        },
+        {
+          "id": "29c9bb2777532f10db2b",
+          "fecha": "2026-11-24T11:00:11+00:00",
+          "titulo": "Why Taiwan’s chip industry welcomes Jensen Huang’s Nvidia comeback",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/tech/big-tech/article/3375627/why-taiwans-chip-industry-welcomes-jensen-huangs-nvidia-comeback",
+          "traducida": false
+        },
+        {
+          "id": "55389dc375d504e43870",
+          "fecha": "2026-11-23T15:57:00+00:00",
+          "titulo": "After Japan's APEC snub, what's next for its China ties?",
+          "fuente": "Deutsche Welle",
+          "url": "https://www.dw.com/en/after-japan-s-apec-snub-what-s-next-for-its-china-ties/a-80020823?maca=en-rss-en-world-4025-rdf",
+          "traducida": false
+        },
+        {
+          "id": "9a01a729eee0712747cf",
+          "fecha": "2026-11-23T05:27:13+00:00",
+          "titulo": "Taiwan warns Canada against deeper China trade ties as Carney seeks to diversify",
+          "fuente": "Euronews",
+          "url": "https://www.euronews.com/2026/11/23/taiwan-warns-canada-against-deeper-china-trade-ties-as-carney-seeks-to-diversify",
+          "traducida": false
+        },
+        {
+          "id": "3c2aa621c20cfaee6243",
+          "fecha": "2026-11-22T00:55:01+00:00",
+          "titulo": "Jeffry Sachs explained logic of Donald Trump’s statements on Taiwan in Shenzhen",
+          "fuente": "TASS",
+          "url": "https://tass.com/world/2222973",
+          "traducida": false
+        },
+        {
+          "id": "df10c1ebb10322d2b541",
+          "fecha": "2026-11-20T12:00:07+00:00",
+          "titulo": "Xi presses Trump to do ‘the right thing’ on Taiwan. Where does that leave US arms sales?",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3375260/xi-presses-trump-do-right-thing-taiwan-where-does-leave-us-arms-sales",
+          "traducida": false
+        },
+        {
+          "id": "f74e504749ddbd4445aa",
+          "fecha": "2026-11-19T20:05:44+00:00",
+          "titulo": "China-centred order or host duties? Experts weigh in on Xi-Trump-Putin seating",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/article/3375131/china-centred-order-or-host-duties-experts-weigh-xi-trump-putin-seating",
+          "traducida": false
+        },
+        {
+          "id": "b74b7e1e21e49a776658",
+          "fecha": "2026-11-19T06:24:25+00:00",
+          "titulo": "Xi tells Trump to ‘do the right thing’ on Taiwan; urges two sides to manage differences",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3375023/talks-xi-get-under-way-trump-asks-china-do-more-us-farmers",
+          "traducida": false
+        },
+        {
+          "id": "704010dd3e2156833bf5",
+          "fecha": "2026-11-18T13:37:03+00:00",
+          "titulo": "Xi greets Takaichi with a smile – but no words – as China-Japan freeze lingers",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3374944/xi-greets-takaichi-smile-no-words-china-japan-freeze-lingers",
+          "traducida": false
+        },
+        {
+          "id": "ba4e18a64ba6eb4e1795",
+          "fecha": "2026-11-16T11:13:20+00:00",
+          "titulo": "China, Southeast Asia pledge to avoid disputes during talks on South China Sea pact",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/china-southeast-asia-pledge-to-avoid-disputes-during-talks-on-south-china-sea-pact/article71707568.ece",
+          "traducida": false
+        },
+        {
+          "id": "e250830c73ca4addb224",
+          "fecha": "2026-11-15T04:00:11+00:00",
+          "titulo": "Could Beijing’s HQ-17 air-defence system defend PLA amphibious forces from Taiwan strikes?",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/military/article/3374448/could-beijings-hq-17-air-defence-system-defend-pla-amphibious-forces-taiwan-strikes",
+          "traducida": false
+        },
+        {
+          "id": "9064518e1fe8ba94d3a1",
+          "fecha": "2026-11-13T09:46:55+00:00",
+          "titulo": "China stages unannounced Pacific drills in ‘silent intimidation’ of Taiwan, officials say",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/china-stages-unannounced-pacific-drills-in-silent-intimidation-of-taiwan-officials-say/article71696589.ece",
+          "traducida": false
+        },
+        {
+          "id": "8c212b9d628a8e817fe8",
+          "fecha": "2026-11-12T13:26:00+00:00",
+          "titulo": "China's Xi Jinping renews calls for 'reunification' with Taiwan",
+          "fuente": "Deutsche Welle",
+          "url": "https://www.dw.com/en/china-s-xi-jinping-renews-calls-for-reunification-with-taiwan/a-79929738?maca=en-rss-en-world-4025-rdf",
+          "traducida": false
+        },
+        {
+          "id": "f54fc351912465f818cb",
+          "fecha": "2026-11-12T12:00:08+00:00",
+          "titulo": "Taiwan to close Papua New Guinea office and halt spot-market LNG purchases",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/politics/article/3374232/taiwan-close-papua-new-guinea-office-and-halt-spot-market-lng-purchases",
+          "traducida": false
+        },
+        {
+          "id": "0378a39018f3a0f36fab",
+          "fecha": "2026-11-12T11:59:28+00:00",
+          "titulo": "Xi Jinping says Taiwan’s ‘complete reunification’ with China will happen",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/12/xi-jinping-says-taiwans-complete-reunification-with-china-will-happen?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "90c5a4838a1fd9cece89",
+          "fecha": "2026-11-12T11:28:01+00:00",
+          "titulo": "Alice Huang, accused of spying on Nvidia chief, entered Taiwan eight times in 2024-25: Official",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/chinese-woman-accused-of-spying-on-nvidia-chief-entered-taiwan-eight-times/article71692694.ece",
+          "traducida": false
+        },
+        {
+          "id": "356b499879ceabb77681",
+          "fecha": "2026-11-12T10:46:45+00:00",
+          "titulo": "On Sun Yat-sen anniversary, Xi calls for dialogue on Taiwan with ‘people of vision’",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/politics/article/3374228/xi-jinping-calls-dialogue-taiwan-reunification-people-vision",
+          "traducida": false
+        },
+        {
+          "id": "6bf921ee87170c7e10d7",
+          "fecha": "2026-11-12T09:29:25+00:00",
+          "titulo": "Xi says Taiwan 'reunification' must happen as history cannot be stopped",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/chinas-xi-says-taiwan-reunification-must-happen-as-history-cannot-be-stopped/article71692573.ece",
+          "traducida": false
+        },
+        {
+          "id": "19edae332e945183affd",
+          "fecha": "2026-11-12T08:34:45+00:00",
+          "titulo": "Xi Jinping says Taiwan ‘reunification’ with China must happen",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/xi-jinping-says-taiwan-reunification-with-china-must-happen?traffic_source=rss",
+          "traducida": false
+        },
+        {
+          "id": "d5ee02f901ff779c2d36",
+          "fecha": "2026-11-12T07:18:48+00:00",
+          "titulo": "G7 Foreign Ministers say China's actions east of Taiwan threaten stability",
+          "fuente": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/g7-foreign-ministers-say-chinas-actions-east-of-taiwan-threaten-stability/article71692205.ece",
+          "traducida": false
+        },
+        {
+          "id": "28a8e3566eafc3683461",
+          "fecha": "2026-11-12T02:53:34+00:00",
+          "titulo": "Taiwan to send Acer founder Stan Shih to Shenzhen Apec, calls for ‘equal footing’",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/politics/article/3374140/taiwan-send-acer-founder-stan-shih-shenzhen-apec-calls-equal-footing",
+          "traducida": false
+        },
+        {
+          "id": "9b172dcf90a691a6e2c5",
+          "fecha": "2026-11-11T13:00:07+00:00",
+          "titulo": "Outcry after Taiwan asks mainland Chinese tourist to sign independence statement",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/politics/article/3374101/outcry-after-taiwan-asks-mainland-chinese-tourist-sign-independence-statement",
+          "traducida": false
+        },
+        {
+          "id": "77814239386f5a9a3a8d",
+          "fecha": "2026-11-11T08:00:37+00:00",
+          "titulo": "How China’s 2-for-1 diplomatic threat forced Japan’s Takaichi to back down",
+          "fuente": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3374025/how-chinas-two-one-diplomatic-threat-forced-japans-takaichi-back-down",
+          "traducida": false
+        }
+      ]
+    },
+    {
       "id": "suramerica",
       "titulo": "Sudamérica: integración y política exterior",
       "cantidad_archivada": 423,
       "nuevas_24h": 4,
-      "anteriores_24h": 7,
+      "anteriores_24h": 6,
       "dias_con_registros": 43,
       "fecha_ultima": "2026-11-27T20:57:00+00:00",
       "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
@@ -1510,258 +1762,6 @@
           "titulo": "Terremoto de magnitude 6,8 graus atinge o Peru",
           "fuente": "Agência Brasil (EBC)",
           "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/terremoto-de-magnitude-68-graus-atinge-o-peru",
-          "traducida": false
-        }
-      ]
-    },
-    {
-      "id": "china-taiwan",
-      "titulo": "China y Taiwán",
-      "cantidad_archivada": 66,
-      "nuevas_24h": 4,
-      "anteriores_24h": 0,
-      "dias_con_registros": 29,
-      "fecha_ultima": "2026-11-27T17:55:08+00:00",
-      "estado": "Seguimiento de publicaciones; no verifica cambios de postura oficial",
-      "publicaciones": [
-        {
-          "id": "781fbfcc956c281d4871",
-          "fecha": "2026-11-27T17:55:08+00:00",
-          "titulo": "Chinese Military tests new Taiwan landing tactics in coastal drills",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/chinese-military-tests-new-taiwan-landing-tactics-in-coastal-drills/article71752063.ece",
-          "traducida": false
-        },
-        {
-          "id": "4be2aaa22e439319d004",
-          "fecha": "2026-11-27T10:00:09+00:00",
-          "titulo": "Why Trump’s new tariff threats may spur Southeast Asia to rethink US trade deals",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/week-asia/economics/article/3376040/why-trumps-new-tariff-threats-may-spur-southeast-asia-rethink-us-trade-deals",
-          "traducida": false
-        },
-        {
-          "id": "dde4fec7b76ebc337917",
-          "fecha": "2026-11-27T04:00:12+00:00",
-          "titulo": "What will Taiwan local elections reveal about 2028 race and cross-strait shifts?",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/politics/article/3375904/what-will-taiwan-local-elections-reveal-about-2028-race-and-cross-strait-shifts",
-          "traducida": false
-        },
-        {
-          "id": "34a04aa6806b5c9c8289",
-          "fecha": "2026-11-27T01:00:49+00:00",
-          "titulo": "Threat from China looms large over Taiwan’s local elections",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections",
-          "traducida": false
-        },
-        {
-          "id": "912b79d13f66b908d452",
-          "fecha": "2026-11-25T19:52:34+00:00",
-          "titulo": "Colombia quiet as China says lawmakers’ Taiwan trip crossed its ‘first red line’",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3375815/colombia-quiet-china-says-lawmakers-taiwan-trip-crossed-its-first-red-line",
-          "traducida": false
-        },
-        {
-          "id": "803932ad076bb2b61b1c",
-          "fecha": "2026-11-24T23:05:11+00:00",
-          "titulo": "Is China behind a wave of AI fake videos targeting Taiwan?",
-          "fuente": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
-          "traducida": false
-        },
-        {
-          "id": "978d73bc80d89dacb088",
-          "fecha": "2026-11-24T12:54:38+00:00",
-          "titulo": "Malaysia’s runaway Golden Horse glory fuels demand for recognition at home",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3375651/malaysias-runaway-golden-horse-glory-fuels-demand-recognition-home",
-          "traducida": false
-        },
-        {
-          "id": "29c9bb2777532f10db2b",
-          "fecha": "2026-11-24T11:00:11+00:00",
-          "titulo": "Why Taiwan’s chip industry welcomes Jensen Huang’s Nvidia comeback",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/tech/big-tech/article/3375627/why-taiwans-chip-industry-welcomes-jensen-huangs-nvidia-comeback",
-          "traducida": false
-        },
-        {
-          "id": "55389dc375d504e43870",
-          "fecha": "2026-11-23T15:57:00+00:00",
-          "titulo": "After Japan's APEC snub, what's next for its China ties?",
-          "fuente": "Deutsche Welle",
-          "url": "https://www.dw.com/en/after-japan-s-apec-snub-what-s-next-for-its-china-ties/a-80020823?maca=en-rss-en-world-4025-rdf",
-          "traducida": false
-        },
-        {
-          "id": "9a01a729eee0712747cf",
-          "fecha": "2026-11-23T05:27:13+00:00",
-          "titulo": "Taiwan warns Canada against deeper China trade ties as Carney seeks to diversify",
-          "fuente": "Euronews",
-          "url": "https://www.euronews.com/2026/11/23/taiwan-warns-canada-against-deeper-china-trade-ties-as-carney-seeks-to-diversify",
-          "traducida": false
-        },
-        {
-          "id": "3c2aa621c20cfaee6243",
-          "fecha": "2026-11-22T00:55:01+00:00",
-          "titulo": "Jeffry Sachs explained logic of Donald Trump’s statements on Taiwan in Shenzhen",
-          "fuente": "TASS",
-          "url": "https://tass.com/world/2222973",
-          "traducida": false
-        },
-        {
-          "id": "df10c1ebb10322d2b541",
-          "fecha": "2026-11-20T12:00:07+00:00",
-          "titulo": "Xi presses Trump to do ‘the right thing’ on Taiwan. Where does that leave US arms sales?",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3375260/xi-presses-trump-do-right-thing-taiwan-where-does-leave-us-arms-sales",
-          "traducida": false
-        },
-        {
-          "id": "f74e504749ddbd4445aa",
-          "fecha": "2026-11-19T20:05:44+00:00",
-          "titulo": "China-centred order or host duties? Experts weigh in on Xi-Trump-Putin seating",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/article/3375131/china-centred-order-or-host-duties-experts-weigh-xi-trump-putin-seating",
-          "traducida": false
-        },
-        {
-          "id": "b74b7e1e21e49a776658",
-          "fecha": "2026-11-19T06:24:25+00:00",
-          "titulo": "Xi tells Trump to ‘do the right thing’ on Taiwan; urges two sides to manage differences",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3375023/talks-xi-get-under-way-trump-asks-china-do-more-us-farmers",
-          "traducida": false
-        },
-        {
-          "id": "704010dd3e2156833bf5",
-          "fecha": "2026-11-18T13:37:03+00:00",
-          "titulo": "Xi greets Takaichi with a smile – but no words – as China-Japan freeze lingers",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3374944/xi-greets-takaichi-smile-no-words-china-japan-freeze-lingers",
-          "traducida": false
-        },
-        {
-          "id": "ba4e18a64ba6eb4e1795",
-          "fecha": "2026-11-16T11:13:20+00:00",
-          "titulo": "China, Southeast Asia pledge to avoid disputes during talks on South China Sea pact",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/china-southeast-asia-pledge-to-avoid-disputes-during-talks-on-south-china-sea-pact/article71707568.ece",
-          "traducida": false
-        },
-        {
-          "id": "e250830c73ca4addb224",
-          "fecha": "2026-11-15T04:00:11+00:00",
-          "titulo": "Could Beijing’s HQ-17 air-defence system defend PLA amphibious forces from Taiwan strikes?",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/military/article/3374448/could-beijings-hq-17-air-defence-system-defend-pla-amphibious-forces-taiwan-strikes",
-          "traducida": false
-        },
-        {
-          "id": "9064518e1fe8ba94d3a1",
-          "fecha": "2026-11-13T09:46:55+00:00",
-          "titulo": "China stages unannounced Pacific drills in ‘silent intimidation’ of Taiwan, officials say",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/china-stages-unannounced-pacific-drills-in-silent-intimidation-of-taiwan-officials-say/article71696589.ece",
-          "traducida": false
-        },
-        {
-          "id": "8c212b9d628a8e817fe8",
-          "fecha": "2026-11-12T13:26:00+00:00",
-          "titulo": "China's Xi Jinping renews calls for 'reunification' with Taiwan",
-          "fuente": "Deutsche Welle",
-          "url": "https://www.dw.com/en/china-s-xi-jinping-renews-calls-for-reunification-with-taiwan/a-79929738?maca=en-rss-en-world-4025-rdf",
-          "traducida": false
-        },
-        {
-          "id": "f54fc351912465f818cb",
-          "fecha": "2026-11-12T12:00:08+00:00",
-          "titulo": "Taiwan to close Papua New Guinea office and halt spot-market LNG purchases",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/politics/article/3374232/taiwan-close-papua-new-guinea-office-and-halt-spot-market-lng-purchases",
-          "traducida": false
-        },
-        {
-          "id": "0378a39018f3a0f36fab",
-          "fecha": "2026-11-12T11:59:28+00:00",
-          "titulo": "Xi Jinping says Taiwan’s ‘complete reunification’ with China will happen",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/12/xi-jinping-says-taiwans-complete-reunification-with-china-will-happen?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "90c5a4838a1fd9cece89",
-          "fecha": "2026-11-12T11:28:01+00:00",
-          "titulo": "Alice Huang, accused of spying on Nvidia chief, entered Taiwan eight times in 2024-25: Official",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/chinese-woman-accused-of-spying-on-nvidia-chief-entered-taiwan-eight-times/article71692694.ece",
-          "traducida": false
-        },
-        {
-          "id": "356b499879ceabb77681",
-          "fecha": "2026-11-12T10:46:45+00:00",
-          "titulo": "On Sun Yat-sen anniversary, Xi calls for dialogue on Taiwan with ‘people of vision’",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/politics/article/3374228/xi-jinping-calls-dialogue-taiwan-reunification-people-vision",
-          "traducida": false
-        },
-        {
-          "id": "6bf921ee87170c7e10d7",
-          "fecha": "2026-11-12T09:29:25+00:00",
-          "titulo": "Xi says Taiwan 'reunification' must happen as history cannot be stopped",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/chinas-xi-says-taiwan-reunification-must-happen-as-history-cannot-be-stopped/article71692573.ece",
-          "traducida": false
-        },
-        {
-          "id": "19edae332e945183affd",
-          "fecha": "2026-11-12T08:34:45+00:00",
-          "titulo": "Xi Jinping says Taiwan ‘reunification’ with China must happen",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/xi-jinping-says-taiwan-reunification-with-china-must-happen?traffic_source=rss",
-          "traducida": false
-        },
-        {
-          "id": "d5ee02f901ff779c2d36",
-          "fecha": "2026-11-12T07:18:48+00:00",
-          "titulo": "G7 Foreign Ministers say China's actions east of Taiwan threaten stability",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/g7-foreign-ministers-say-chinas-actions-east-of-taiwan-threaten-stability/article71692205.ece",
-          "traducida": false
-        },
-        {
-          "id": "28a8e3566eafc3683461",
-          "fecha": "2026-11-12T02:53:34+00:00",
-          "titulo": "Taiwan to send Acer founder Stan Shih to Shenzhen Apec, calls for ‘equal footing’",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/politics/article/3374140/taiwan-send-acer-founder-stan-shih-shenzhen-apec-calls-equal-footing",
-          "traducida": false
-        },
-        {
-          "id": "9b172dcf90a691a6e2c5",
-          "fecha": "2026-11-11T13:00:07+00:00",
-          "titulo": "Outcry after Taiwan asks mainland Chinese tourist to sign independence statement",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/politics/article/3374101/outcry-after-taiwan-asks-mainland-chinese-tourist-sign-independence-statement",
-          "traducida": false
-        },
-        {
-          "id": "77814239386f5a9a3a8d",
-          "fecha": "2026-11-11T08:00:37+00:00",
-          "titulo": "How China’s 2-for-1 diplomatic threat forced Japan’s Takaichi to back down",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3374025/how-chinas-two-one-diplomatic-threat-forced-japans-takaichi-back-down",
-          "traducida": false
-        },
-        {
-          "id": "b46f4ad025b940cf886f",
-          "fecha": "2026-11-11T07:13:56+00:00",
-          "titulo": "Malaysia moves to calm Taiwan chip investors after China remarks freeze talks",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/week-asia/politics/article/3374042/taiwan-pauses-malaysia-investment-talks-after-anwar-remarks-spark-fury-taipei",
           "traducida": false
         }
       ]
